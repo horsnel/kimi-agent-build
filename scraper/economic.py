@@ -7,7 +7,9 @@ Scrapes:
   - Economic calendar (FOMC, CPI, NFP releases)
   - VIX term structure
 
-All requests use proxy rotation via safe_get() and get_yf_ticker().
+Credit strategy: All FRED data is free public government data — use_proxy=False (default).
+  - FRED CSV endpoints: safe_get() direct, no ScrapingAnt credits
+  - VIX/yfinance: get_yf_ticker() direct, no ScrapingAnt
 FRED CSV endpoints are public — no API key required.
 """
 

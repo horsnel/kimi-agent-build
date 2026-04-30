@@ -5,7 +5,9 @@ Scrapes:
   - Financial news from RSS feeds (Reuters, CNBC, MarketWatch, NPR)
   - Newsletter generation from top articles
 
-All requests use proxy rotation via safe_get().
+Credit strategy:
+  - Reuters/CNBC/MarketWatch RSS: safe_get(use_proxy=True) — can block scrapers
+  - NPR JSON: safe_get(use_proxy=False) — free public feed
 """
 
 import re
@@ -96,7 +98,7 @@ def scrape_news() -> list[dict]:
 
             # If feedparser didn't get entries, try fetching via safe_get (with proxy)
             if not feed.entries:
-                resp = safe_get(url, headers={"Accept": "application/rss+xml, application/xml, text/xml"})
+                resp = safe_get(url, headers={"Accept": "application/rss+xml, application/xml, text/xml"}, use_proxy=True)  # RSS can block
                 if resp is not None:
                     feed = feedparser.parse(resp.content)
 
@@ -150,7 +152,7 @@ def scrape_news() -> list[dict]:
     # Try NPR JSON feed with proxy
     try:
         npr_url = "https://feeds.npr.org/1006/feed.json"
-        resp = safe_get(npr_url, headers={"Accept": "application/json"})
+        resp = safe_get(npr_url, headers={"Accept": "application/json"}, use_proxy=False)  # NPR is free public feed
         if resp is not None:
             try:
                 data = resp.json()

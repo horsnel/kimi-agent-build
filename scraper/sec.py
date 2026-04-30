@@ -6,7 +6,9 @@ Scrapes:
   - 13F hedge fund filings
   - IPO calendar (S-1 filings)
 
-All requests use proxy rotation via safe_get() with SEC-compliant headers.
+Credit strategy: SEC EDGAR rate-limits to 10 req/sec and can block IPs.
+  - All SEC requests use use_proxy=True (ScrapingAnt rotating proxy)
+  - Falls back to free proxy pool → direct if credits exhausted
 """
 
 import re
@@ -38,7 +40,7 @@ def scrape_insider_trading() -> list[dict]:
     resp = safe_get(feed_url, headers={
         "Accept": "application/atom+xml",
         "User-Agent": SEC_USER_AGENT,
-    })
+    }, use_proxy=True)  # SEC rate-limits, needs proxy
 
     if resp is not None:
         try:
@@ -102,7 +104,7 @@ def scrape_insider_trading() -> list[dict]:
             "q=%22Form+4%22&dateRange=custom&startdt=2026-04-01"
             "&category=form-type&forms=4"
         )
-        resp = safe_get(search_url, headers={"User-Agent": SEC_USER_AGENT})
+        resp = safe_get(search_url, headers={"User-Agent": SEC_USER_AGENT}, use_proxy=True)  # SEC rate-limits
         if resp is not None:
             try:
                 data = resp.json()
@@ -349,7 +351,7 @@ def scrape_13f_filings() -> dict:
             resp = safe_get(url, headers={
                 "User-Agent": SEC_USER_AGENT,
                 "Accept-Encoding": "gzip, deflate",
-            })
+            }, use_proxy=True)  # SEC data API, needs proxy
 
             latest_filing = ""
             top_holding = ""
@@ -417,7 +419,7 @@ def scrape_ipo_calendar() -> dict:
     resp = safe_get(feed_url, headers={
         "Accept": "application/atom+xml",
         "User-Agent": SEC_USER_AGENT,
-    })
+    }, use_proxy=True)  # SEC rate-limits, needs proxy
 
     if resp is not None:
         try:

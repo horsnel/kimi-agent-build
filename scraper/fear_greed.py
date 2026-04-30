@@ -5,7 +5,10 @@ Scrapes:
   - CNN Fear & Greed Index (HTML scraping with proxy rotation)
   - Crypto Fear & Greed Index (Alternative.me API)
 
-All requests use proxy rotation via safe_get() and get_yf_ticker().
+Credit strategy:
+  - CNN: safe_get_rendered() -> ScrapingAnt with JS rendering (1 credit per request)
+  - Alternative.me: safe_get(use_proxy=False) -> direct, FREE public API
+  - VIX fallback: get_yf_ticker() -> direct, no ScrapingAnt
 """
 
 import re
@@ -52,7 +55,7 @@ def _vix_to_fear_greed(vix_value: float) -> int:
 # ── CNN Fear & Greed ─────────────────────────────────────────────────────────
 
 def scrape_fear_greed() -> dict:
-    """Scrape CNN Fear & Greed Index with proxy rotation."""
+    """Scrape CNN Fear & Greed Index (uses ScrapingAnt JS rendering - 1 credit)."""
     print("\n📊 Scraping CNN Fear & Greed Index …")
 
     current_value = None
@@ -186,7 +189,7 @@ def scrape_fear_greed() -> dict:
 # ── Crypto Fear & Greed ──────────────────────────────────────────────────────
 
 def scrape_crypto_fear_greed() -> dict:
-    """Scrape Crypto Fear & Greed Index from Alternative.me with proxy."""
+    """Scrape Crypto Fear & Greed Index from Alternative.me (free API, no proxy)."""
     print("\n📊 Scraping Crypto Fear & Greed Index …")
 
     current_value = None
@@ -196,7 +199,7 @@ def scrape_crypto_fear_greed() -> dict:
 
     try:
         url = "https://api.alternative.me/fng/?limit=30"
-        resp = safe_get(url, headers={"Accept": "application/json"})
+        resp = safe_get(url, headers={"Accept": "application/json"}, use_proxy=False)  # Free API, no proxy needed
 
         if resp is not None:
             try:

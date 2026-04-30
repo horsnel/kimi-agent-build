@@ -5,7 +5,8 @@ Scrapes:
   - Top 12 crypto coins overview (CoinGecko)
   - BTC on-chain metrics (CoinGecko + blockchain.info)
 
-All requests use proxy rotation via safe_get().
+Credit strategy: All PUBLIC APIs — use_proxy=False (no ScrapingAnt credits used).
+CoinGecko and blockchain.info are free, open APIs that don't block scrapers.
 """
 
 import random

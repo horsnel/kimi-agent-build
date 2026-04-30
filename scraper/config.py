@@ -2,24 +2,37 @@
 Shared configuration and helper utilities for Sigma Capital scrapers.
 
 Features:
-  - ScrapingAnt integration: API mode with dual key rotation + JS rendering
-  - User-agent rotation (16+ realistic browser UAs)
-  - safe_get() routes through ScrapingAnt API for rotating IPs
-  - safe_get_rendered() for JavaScript-heavy pages (ScrapingAnt headless Chrome)
-  - yfinance session factory with direct + fallback support
+  - Credit-efficient ScrapingAnt: only used for sites that block or need JS rendering
+  - Direct requests for public APIs (CoinGecko, FRED, etc.) — saves ScrapingAnt credits
+  - Fallback chain: ScrapingAnt → free proxy pool → direct connection
+  - safe_get(url, use_proxy=False) for public APIs (default, no credit cost)
+  - safe_get(url, use_proxy=True) for sites that block scrapers
+  - safe_get_rendered() for JS-heavy pages (CNN Fear & Greed)
+  - yfinance session factory with retry logic
   - No other API keys required — all sources are free/public
 
-ScrapingAnt API:
-  - v1/general (POST + JSON body) → returns {content, cookies, status_code}
-  - v2/general (GET + ?url= query) → returns raw HTML
-  - Each request automatically gets a different proxy IP
-  - Optional headless Chrome rendering for JS-heavy pages
+ScrapingAnt Credit Strategy:
+  FREE APIs (no proxy needed):
+    - CoinGecko api.coingecko.com — free API, 30 req/min
+    - FRED fred.stlouisfed.org — open government data
+    - Alternative.me — free crypto F&G API
+    - Blockchain.info — free on-chain API
+    - NPR JSON feeds — public
+
+  MODERATE (proxy optional — use_proxy=True recommended):
+    - SEC EDGAR sec.gov — rate-limits to 10/sec, needs proper User-Agent
+    - Reuters/CNBC/MarketWatch RSS — occasionally block IPs
+    - yfinance (Yahoo Finance) — frequent rate-limiting
+
+  BLOCKED / JS-RENDERED (use_proxy=True required):
+    - CNN money.cnn.com — blocks scrapers, needs JS rendering
 """
 
 import json
 import os
 import random
 import time
+import concurrent.futures
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Optional
@@ -98,22 +111,19 @@ class ScrapingAntProxyManager:
     """
     Manages ScrapingAnt API-based proxy rotation with dual API keys.
 
-    Architecture:
-      ScrapingAnt routes ALL requests through their rotating proxy pool
-      via the REST API (not SOCKS/HTTP proxy mode). Each API call gets a
-      different exit IP automatically.
+    Credit-efficient design:
+      - safe_get(use_proxy=False) → direct request (FREE, no credit cost)
+      - safe_get(use_proxy=True)  → ScrapingAnt rotating proxy (1 credit per request)
+      - safe_get_rendered()       → ScrapingAnt with JS rendering (more credits)
 
-    Request flow:
-      1. safe_get() → try ScrapingAnt v1/general API (rotating IP, no JS)
-      2. If blocked/rate-limited → retry with different API key
-      3. If ScrapingAnt fails → fallback to direct request
-      4. safe_get_rendered() → ScrapingAnt v1/general with browser=True (JS rendering)
+    Fallback chain when ScrapingAnt credits exhausted:
+      ScrapingAnt API → free proxy pool → direct connection
 
     Smart features:
       - Dual API key round-robin rotation (doubles monthly credits)
-      - Auto-disable ScrapingAnt after repeated failures (falls back to direct)
-      - Rate limit handling (429) with exponential backoff
-      - Credit-efficient: uses browser=False for simple pages, browser=True only for JS
+      - Auto-detect credit exhaustion (403 Forbidden) → falls back gracefully
+      - Free proxy pool as intermediate fallback (better than nothing)
+      - Credit tracking per session
     """
 
     def __init__(self):
@@ -133,18 +143,23 @@ class ScrapingAntProxyManager:
         self._ant_api_failures = 0
         self._ant_api_disabled = False
         self._max_failures_before_disable = 5
+        self._credits_exhausted = False  # True when we get 403/quota exceeded
+
+        # Free proxy pool (fallback when ScrapingAnt is down/exhausted)
+        self._free_proxies: list[str] = []
+        self._free_proxy_index = 0
+        self._last_free_fetch = 0.0
 
         # Credit tracking (approximate)
-        self._requests_via_api = 0
+        self._requests_via_ant = 0
+        self._requests_via_free_proxy = 0
         self._requests_direct = 0
 
         # Report mode at startup
         if self._ant_keys:
-            print(f"  🔌 Proxy: ScrapingAnt API ({len(self._ant_keys)} key(s), rotating IPs)")
-        elif self._generic_proxy:
-            print(f"  🔌 Proxy: Generic paid proxy")
+            print(f"  🔌 Proxy: ScrapingAnt API ({len(self._ant_keys)} key(s)) + free pool fallback")
         else:
-            print(f"  🔌 Proxy: Direct (no ScrapingAnt key set)")
+            print(f"  🔌 Proxy: Free proxy pool + direct (no ScrapingAnt key)")
 
     @property
     def has_scrapingant(self) -> bool:
@@ -154,6 +169,10 @@ class ScrapingAntProxyManager:
     def is_paid_proxy(self) -> bool:
         return bool(self._ant_keys or self._generic_proxy)
 
+    @property
+    def credits_exhausted(self) -> bool:
+        return self._credits_exhausted
+
     def _get_next_ant_key(self) -> str:
         """Rotate to the next ScrapingAnt API key (round-robin)."""
         if not self._ant_keys:
@@ -162,18 +181,25 @@ class ScrapingAntProxyManager:
         self._key_index += 1
         return key
 
-    def report_api_failure(self) -> None:
+    def report_api_failure(self, quota_exceeded: bool = False) -> None:
         """Called when an API request fails. Auto-disables after threshold."""
+        if quota_exceeded:
+            self._credits_exhausted = True
+            self._ant_api_disabled = True
+            print(f"  ⛔ ScrapingAnt credits exhausted! Falling back to free proxy pool → direct")
+            return
+
         self._ant_api_failures += 1
         if self._ant_api_failures >= self._max_failures_before_disable and not self._ant_api_disabled:
             self._ant_api_disabled = True
-            print(f"  ⚠ ScrapingAnt API disabled for this session (too many failures), using direct requests")
+            print(f"  ⚠ ScrapingAnt disabled for this session (too many failures)")
+            print(f"  ⚠ Falling back to free proxy pool → direct connection")
 
     def report_api_success(self) -> None:
         """Called when an API request succeeds. Resets failure counter."""
         self._ant_api_failures = 0
 
-    # ── API Mode: Scrape via ScrapingAnt ──────────────────────────────────
+    # ── ScrapingAnt API Mode ──────────────────────────────────────────────
 
     def scrape_via_api(self, url: str, render_js: bool = False,
                        wait_for_selector: str = "",
@@ -228,7 +254,7 @@ class ScrapingAntProxyManager:
                 mock_resp.status_code = page_status
                 mock_resp._content = content.encode("utf-8") if isinstance(content, str) else content
                 mock_resp.encoding = "utf-8"
-                self._requests_via_api += 1
+                self._requests_via_ant += 1
                 self.report_api_success()
                 return mock_resp
             else:
@@ -236,11 +262,13 @@ class ScrapingAntProxyManager:
 
         except requests.exceptions.HTTPError as exc:
             status = getattr(exc.response, "status_code", 0)
+            resp_text = getattr(exc.response, "text", "")
             if status == 429:
                 print(f"  ⏳ ScrapingAnt rate limited (429), will retry with other key")
             elif status == 403:
-                print(f"  ✗ ScrapingAnt API key invalid or quota exceeded")
-                self.report_api_failure()
+                # 403 = quota exceeded or invalid key
+                print(f"  ⛔ ScrapingAnt 403: quota exceeded or key invalid")
+                self.report_api_failure(quota_exceeded=True)
             elif status == 422:
                 # URL format issue — don't disable, just fail this request
                 print(f"  ✗ ScrapingAnt API: invalid request for {url[:50]}")
@@ -257,11 +285,81 @@ class ScrapingAntProxyManager:
             self.report_api_failure()
             return None
 
-    # ── Session Factory (for yfinance, etc.) ──────────────────────────────
+    # ── Free Proxy Pool (fallback when ScrapingAnt exhausted) ─────────────
+
+    def get_free_proxy(self) -> Optional[dict[str, str]]:
+        """Get a free proxy for requests library. Returns None if none available."""
+        now = time.time()
+        if not self._free_proxies or (now - self._last_free_fetch) > 300:
+            self._fetch_free_proxies()
+        if not self._free_proxies:
+            return None
+        proxy = self._free_proxies[self._free_proxy_index % len(self._free_proxies)]
+        self._free_proxy_index += 1
+        return {"http": proxy, "https": proxy}
+
+    def _fetch_free_proxies(self) -> None:
+        """Fetch and validate free proxies from public lists."""
+        print("  🔄 Refreshing free proxy pool …")
+        proxies = []
+
+        try:
+            resp = requests.get(
+                "https://api.proxyscrape.com/v2/?request=displayproxies"
+                "&protocol=http&timeout=5000&country=all&ssl=all&anonymity=all",
+                timeout=10,
+            )
+            if resp.ok:
+                for line in resp.text.strip().split("\n"):
+                    line = line.strip()
+                    if ":" in line and len(line) < 30:
+                        proxies.append(f"http://{line}")
+        except Exception:
+            pass
+
+        validated = self._validate_proxies(proxies[:15])
+
+        if validated:
+            self._free_proxies = validated
+            self._last_free_fetch = time.time()
+            print(f"  ✓ Free proxy pool: {len(validated)} working proxies")
+        else:
+            if not self._free_proxies:
+                print("  ⚠ No working free proxies — using direct connection")
+            else:
+                print(f"  ⚠ Refresh failed — keeping {len(self._free_proxies)} existing")
+
+    def _validate_proxies(self, proxies: list[str]) -> list[str]:
+        validated = []
+
+        def test_proxy(proxy_url: str) -> Optional[str]:
+            try:
+                resp = requests.get(
+                    "https://httpbin.org/ip",
+                    proxies={"http": proxy_url, "https": proxy_url},
+                    timeout=8,
+                )
+                if resp.ok:
+                    return proxy_url
+            except Exception:
+                pass
+            return None
+
+        with concurrent.futures.ThreadPoolExecutor(max_workers=10) as executor:
+            futures = {executor.submit(test_proxy, p): p for p in proxies}
+            for future in concurrent.futures.as_completed(futures, timeout=30):
+                try:
+                    result = future.result()
+                    if result:
+                        validated.append(result)
+                except Exception:
+                    pass
+        return validated
+
+    # ── Session Factory ───────────────────────────────────────────────────
 
     def get_session(self, headers: Optional[dict] = None) -> requests.Session:
-        """Create a requests.Session with retry logic. Uses direct connection
-        (yfinance needs its own connection handling)."""
+        """Create a requests.Session with retry logic for direct connections."""
         session = requests.Session()
 
         retry_strategy = Retry(
@@ -311,10 +409,16 @@ class ScrapingAntProxyManager:
 
     def print_stats(self) -> None:
         """Print request statistics at end of session."""
-        total = self._requests_via_api + self._requests_direct
+        total = self._requests_via_ant + self._requests_via_free_proxy + self._requests_direct
         if total > 0:
-            pct = self._requests_via_api / total * 100
-            print(f"  📊 Requests: {self._requests_via_api} via ScrapingAnt, {self._requests_direct} direct ({pct:.0f}% proxied)")
+            ant_pct = self._requests_via_ant / total * 100
+            free_pct = self._requests_via_free_proxy / total * 100
+            dir_pct = self._requests_direct / total * 100
+            print(f"  📊 Requests: {self._requests_via_ant} ScrapingAnt ({ant_pct:.0f}%) | "
+                  f"{self._requests_via_free_proxy} free proxy ({free_pct:.0f}%) | "
+                  f"{self._requests_direct} direct ({dir_pct:.0f}%)")
+            if self._credits_exhausted:
+                print(f"  ⛔ ScrapingAnt credits were exhausted this session — all requests went through fallback")
 
 
 # ── Global Proxy Manager (singleton) ─────────────────────────────────────────
@@ -363,54 +467,109 @@ def _size(p: Path) -> str:
 # ── HTTP Helpers ─────────────────────────────────────────────────────────────
 
 def safe_get(url: str, headers: dict | None = None, timeout: int = REQUEST_TIMEOUT,
-             max_retries: int = MAX_PROXY_RETRIES, use_proxy: bool = True):
+             max_retries: int = MAX_PROXY_RETRIES, use_proxy: bool = False):
     """
-    Make a GET request with ScrapingAnt API rotation, retry logic, and backoff.
+    Make a GET request with optional ScrapingAnt proxy rotation and smart fallback.
 
-    Flow:
-      1. Try ScrapingAnt v1/general API (rotating IP, no JS rendering — cheaper)
-      2. If ScrapingAnt fails/unavailable → fallback to direct request
-      3. On 429/403 → retry with exponential backoff + key rotation
+    CREDIT-SAVING DESIGN:
+      use_proxy=False (DEFAULT) → Direct request first, ScrapingAnt only if blocked
+      use_proxy=True            → ScrapingAnt API first (for sites known to block)
+
+    Fallback chain when use_proxy=True:
+      1. ScrapingAnt v1/general API (rotating proxy IP, no JS)
+      2. Free proxy pool (if ScrapingAnt credits exhausted)
+      3. Direct connection (last resort)
+
+    Fallback chain when use_proxy=False:
+      1. Direct request (free, no credit cost)
+      2. If blocked (403/406) → retry via ScrapingAnt API
+      3. If ScrapingAnt also fails → free proxy pool
     """
     pm = get_proxy_manager()
 
     for attempt in range(max_retries):
-        # ── Try ScrapingAnt API first (if available) ──────────────────────
-        if use_proxy and pm.has_scrapingant:
-            resp = pm.scrape_via_api(url, render_js=False, timeout=timeout * 1000)
-            if resp is not None:
-                # Check if the response looks blocked (some sites block even proxy IPs)
-                if resp.status_code in (403, 406, 503):
-                    if attempt < max_retries - 1:
-                        wait = (2 ** attempt) + random.uniform(0, 1)
-                        print(f"  🔄 Blocked via ScrapingAnt ({resp.status_code}), retrying … (attempt {attempt + 1}/{max_retries})")
-                        time.sleep(wait)
-                        continue
-                return resp
+        if use_proxy:
+            # ── Proxy-first mode: for sites that block scrapers ────────────
+            # Priority: ScrapingAnt → free proxy pool → direct
+            if pm.has_scrapingant:
+                resp = pm.scrape_via_api(url, render_js=False, timeout=timeout * 1000)
+                if resp is not None:
+                    if resp.status_code in (403, 406, 503):
+                        if attempt < max_retries - 1:
+                            wait = (2 ** attempt) + random.uniform(0, 1)
+                            print(f"  🔄 Blocked via ScrapingAnt ({resp.status_code}), retrying …")
+                            time.sleep(wait)
+                            continue
+                    return resp
 
-        # ── Fallback: Direct request ──────────────────────────────────────
-        default_headers = {
-            "User-Agent": random_user_agent(),
-            "Accept-Encoding": "gzip, deflate, br",
-            "Accept": "application/json, text/html, */*",
-        }
-        if headers:
-            default_headers.update(headers)
+            # ScrapingAnt unavailable/exhausted → try free proxy pool
+            if pm.credits_exhausted or not pm.has_scrapingant:
+                free_proxies = pm.get_free_proxy()
+                if free_proxies:
+                    try:
+                        pm._requests_via_free_proxy += 1
+                        default_headers = {
+                            "User-Agent": random_user_agent(),
+                            "Accept": "application/json, text/html, */*",
+                        }
+                        if headers:
+                            default_headers.update(headers)
+                        resp = requests.get(url, headers=default_headers, timeout=timeout, proxies=free_proxies)
+                        resp.raise_for_status()
+                        return resp
+                    except Exception:
+                        pass  # Fall through to direct
 
-        try:
-            default_headers["User-Agent"] = random_user_agent()
+            # Last resort: direct connection
             pm._requests_direct += 1
 
-            resp = requests.get(
-                url,
-                headers=default_headers,
-                timeout=timeout,
-            )
-            resp.raise_for_status()
-            return resp
+        else:
+            # ── Direct-first mode: for public APIs (saves credits) ─────────
+            # Priority: Direct request → ScrapingAnt if blocked → free proxy
+            default_headers = {
+                "User-Agent": random_user_agent(),
+                "Accept-Encoding": "gzip, deflate, br",
+                "Accept": "application/json, text/html, */*",
+            }
+            if headers:
+                default_headers.update(headers)
+
+        # ── Make the actual request (direct or proxy-fallback) ─────────────
+        try:
+            if not use_proxy:
+                default_headers["User-Agent"] = random_user_agent()
+                pm._requests_direct += 1
+
+                resp = requests.get(
+                    url,
+                    headers=default_headers,
+                    timeout=timeout,
+                )
+                resp.raise_for_status()
+                return resp
 
         except requests.exceptions.HTTPError as exc:
             status_code = getattr(exc.response, "status_code", 0)
+
+            if not use_proxy and status_code in (403, 406):
+                # Direct request blocked → escalate to ScrapingAnt
+                if attempt < max_retries - 1 and pm.has_scrapingant:
+                    print(f"  🔄 Direct request blocked ({status_code}), escalating to ScrapingAnt …")
+                    resp = pm.scrape_via_api(url, render_js=False, timeout=timeout * 1000)
+                    if resp is not None:
+                        return resp
+                # If ScrapingAnt also fails or unavailable → try free proxy
+                if pm.credits_exhausted or not pm.has_scrapingant:
+                    free_proxies = pm.get_free_proxy()
+                    if free_proxies:
+                        try:
+                            pm._requests_via_free_proxy += 1
+                            resp = requests.get(url, headers=default_headers, timeout=timeout, proxies=free_proxies)
+                            resp.raise_for_status()
+                            return resp
+                        except Exception:
+                            pass
+
             if status_code == 429:
                 wait = (2 ** attempt) + random.uniform(0, 1)
                 print(f"  ⏳ Rate limited (429), retrying in {wait:.1f}s … (attempt {attempt + 1}/{max_retries})")
@@ -453,10 +612,15 @@ def safe_get(url: str, headers: dict | None = None, timeout: int = REQUEST_TIMEO
 def safe_get_rendered(url: str, wait_for: str = "", timeout: int = 30000) -> Optional[requests.Response]:
     """
     Scrape a JavaScript-heavy page using ScrapingAnt's headless Chrome API.
-    Falls back to safe_get() if ScrapingAnt is not configured.
+
+    Fallback chain:
+      1. ScrapingAnt API with browser=True (JS rendering)
+      2. ScrapingAnt API with browser=False (no JS — might still work)
+      3. Free proxy pool + regular GET (no JS rendering)
+      4. Direct request (last resort)
 
     Use this for pages that require JavaScript rendering:
-      - CNN Fear & Greed: safe_get_rendered("https://money.cnn.com/data/fear-and-greed/")
+      - CNN Fear & Greed
       - SEC EDGAR interactive pages
       - Any SPA or JS-rendered content
     """
@@ -470,9 +634,34 @@ def safe_get_rendered(url: str, wait_for: str = "", timeout: int = 30000) -> Opt
             print(f"  ✓ ScrapingAnt rendered: {len(resp.text)} chars")
             return resp
 
-    # Fallback to regular safe_get (no JS rendering)
-    print(f"  ⚠ ScrapingAnt JS rendering unavailable, falling back to safe_get")
-    return safe_get(url, headers={"Accept": "text/html"})
+        # JS rendering failed — try without JS (some pages work either way)
+        print(f"  ⚠ JS rendering failed, trying without browser …")
+        resp = pm.scrape_via_api(url, render_js=False, timeout=timeout)
+        if resp is not None:
+            print(f"  ✓ ScrapingAnt (no JS): {len(resp.text)} chars")
+            return resp
+
+    # ScrapingAnt exhausted → try free proxy pool
+    if pm.credits_exhausted or not pm.has_scrapingant:
+        free_proxies = pm.get_free_proxy()
+        if free_proxies:
+            try:
+                pm._requests_via_free_proxy += 1
+                print(f"  🔄 Trying free proxy for {url[:50]}…")
+                resp = requests.get(
+                    url,
+                    headers={"User-Agent": random_user_agent(), "Accept": "text/html"},
+                    timeout=20,
+                    proxies=free_proxies,
+                )
+                resp.raise_for_status()
+                return resp
+            except Exception:
+                pass
+
+    # Last resort: direct request
+    print(f"  ⚠ All proxy methods failed, falling back to direct request")
+    return safe_get(url, headers={"Accept": "text/html"}, use_proxy=False)
 
 
 # ── Rate Limiting ────────────────────────────────────────────────────────────
@@ -509,8 +698,7 @@ def safe_int(value, default=None):
 def get_yf_ticker(symbol: str):
     """
     Create a yfinance Ticker with a retry-enabled session.
-    yfinance handles its own connections; ScrapingAnt API is not used for yf
-    since yf needs persistent sessions that don't work through REST APIs.
+    yfinance handles its own connections — uses direct requests (no ScrapingAnt).
     """
     import yfinance as yf
     pm = get_proxy_manager()
