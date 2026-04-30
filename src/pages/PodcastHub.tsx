@@ -97,6 +97,7 @@ const categoryColors: Record<string, string> = {
 export default function PodcastHub() {
   const [activeCategory, setActiveCategory] = useState<PodcastCategory>('All');
   const [expandedTranscript, setExpandedTranscript] = useState(false);
+  const [expandedEpisodeIdx, setExpandedEpisodeIdx] = useState<number | null>(null);
   const sectionRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
@@ -113,6 +114,7 @@ export default function PodcastHub() {
           scrollTrigger: {
             trigger: sectionRef.current,
             start: 'top 80%',
+            once: true,
           },
         }
       );
@@ -244,10 +246,30 @@ export default function PodcastHub() {
               <h3 className="text-base font-medium text-offwhite mb-3 group-hover:text-emerald transition-colors leading-snug">
                 {episode.title}
               </h3>
-              <div className="flex items-center gap-3 text-xs font-mono text-slategray">
+              <div className="flex items-center gap-3 text-xs font-mono text-slategray mb-4">
                 <span className="flex items-center gap-1"><ClockIcon size={12} /> {episode.duration}</span>
                 <span>{episode.date}</span>
               </div>
+              <button
+                onClick={() => setExpandedEpisodeIdx(expandedEpisodeIdx === idx ? null : idx)}
+                className="text-sm font-mono text-emerald hover:text-emerald/80 transition-colors flex items-center gap-1"
+              >
+                {expandedEpisodeIdx === idx ? 'Hide' : 'Show'} Transcript
+                <svg
+                  width="14"
+                  height="14"
+                  viewBox="0 0 14 14"
+                  fill="none"
+                  className={`transition-transform ${expandedEpisodeIdx === idx ? 'rotate-180' : ''}`}
+                >
+                  <path d="M3 5l4 4 4-4" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
+                </svg>
+              </button>
+              {expandedEpisodeIdx === idx && (
+                <div className="mt-4 bg-deepblack border border-subtleborder rounded-lg p-4">
+                  <p className="text-sm text-slategray italic">Transcript coming soon</p>
+                </div>
+              )}
             </article>
           ))}
         </div>

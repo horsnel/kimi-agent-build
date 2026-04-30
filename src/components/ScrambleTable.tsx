@@ -56,9 +56,20 @@ export default function ScrambleTable() {
   const [rows, setRows] = useState<OrderRow[]>(initialData);
   const rowRefs = useRef<(HTMLTableRowElement | null)[]>([]);
   const cellRefs = useRef<(HTMLTableCellElement | null)[][]>([]);
+  const isPausedRef = useRef(false);
+
+  const handleMouseEnter = () => {
+    isPausedRef.current = true;
+  };
+
+  const handleMouseLeave = () => {
+    isPausedRef.current = false;
+  };
 
   useEffect(() => {
     const interval = setInterval(() => {
+      if (isPausedRef.current) return;
+
       const newRow: OrderRow = {
         asset: ['AAPL', 'NVDA', 'TSLA', 'MSFT', 'AMZN', 'GOOGL', 'META', 'AMD', 'NFLX', 'CRM'][Math.floor(Math.random() * 10)],
         type: Math.random() > 0.5 ? 'BUY' : 'SELL',
@@ -72,7 +83,7 @@ export default function ScrambleTable() {
         const updated = [newRow, ...prev.slice(0, 7)];
         return updated;
       });
-    }, 3500);
+    }, 8000);
 
     return () => clearInterval(interval);
   }, []);
@@ -107,7 +118,7 @@ export default function ScrambleTable() {
   };
 
   return (
-    <div className="w-full overflow-x-auto">
+    <div className="w-full overflow-x-auto" onMouseEnter={handleMouseEnter} onMouseLeave={handleMouseLeave}>
       <table className="w-full">
         <thead>
           <tr className="border-b border-subtleborder">

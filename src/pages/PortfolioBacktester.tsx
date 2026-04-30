@@ -1,4 +1,5 @@
 import { useState, useEffect, useRef, useMemo } from 'react';
+import { Link } from 'react-router';
 import gsap from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
 import { AreaChart, Area, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer } from 'recharts';
@@ -142,7 +143,7 @@ export default function PortfolioBacktester() {
     const ctx = gsap.context(() => {
       gsap.fromTo('.bt-section', { opacity: 0, y: 40 }, {
         opacity: 1, y: 0, duration: 0.7, stagger: 0.12, ease: 'power3.out',
-        scrollTrigger: { trigger: sectionRef.current, start: 'top 85%' },
+        scrollTrigger: { trigger: sectionRef.current, start: 'top 85%', once: true },
       });
     }, sectionRef);
     return () => ctx.revert();
@@ -157,6 +158,9 @@ export default function PortfolioBacktester() {
   return (
     <div ref={sectionRef}>
       <section className="bt-section max-w-7xl mx-auto px-6 pt-24 pb-12">
+        <Link to="/tools" className="text-xs font-mono text-slategray hover:text-emerald transition-colors mb-4 inline-block">
+          {'\u2190'} Tools
+        </Link>
         <h1 className="text-4xl md:text-5xl font-display font-light text-offwhite mb-2">Portfolio Backtester</h1>
         <p className="text-slategray text-lg">Test allocation strategies against historical market data</p>
       </section>

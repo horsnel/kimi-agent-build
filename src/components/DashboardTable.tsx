@@ -1,4 +1,5 @@
 import { useState, useMemo } from 'react';
+import { Link } from 'react-router';
 import { HexagonIcon, ArrowUpRightIcon } from './CustomIcons';
 
 interface AssetRow {
@@ -143,9 +144,9 @@ export default function DashboardTable({ filterSector, maxRows = 12 }: Dashboard
                 </span>
               </td>
               <td className="py-3 px-4">
-                <button className="text-slategray hover:text-emerald transition-colors">
+                <Link to={`/stocks/${row.ticker}`} className="text-slategray hover:text-emerald transition-colors inline-flex">
                   <ArrowUpRightIcon size={16} />
-                </button>
+                </Link>
               </td>
             </tr>
           ))}

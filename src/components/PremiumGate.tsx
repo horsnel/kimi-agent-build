@@ -8,6 +8,7 @@ interface PremiumGateProps {
 
 const PremiumGate: React.FC<PremiumGateProps> = ({ description }) => {
   const [isAnnual, setIsAnnual] = useState(false);
+  const [premiumAlert, setPremiumAlert] = useState<string | null>(null);
 
   const features = [
     'Unlimited access to all premium tools & analytics',
@@ -146,13 +147,32 @@ const PremiumGate: React.FC<PremiumGateProps> = ({ description }) => {
 
       {/* CTA buttons */}
       <div className="flex flex-col sm:flex-row items-center gap-3">
-        <button className="w-full sm:w-auto px-6 py-3 bg-emerald text-obsidian font-medium text-sm rounded-lg hover:bg-emerald/90 transition-colors">
+        <button
+          onClick={() => {
+            setPremiumAlert('Premium features coming soon!');
+            setTimeout(() => setPremiumAlert(null), 3000);
+          }}
+          className="w-full sm:w-auto px-6 py-3 bg-emerald text-obsidian font-medium text-sm rounded-lg hover:bg-emerald/90 transition-colors"
+        >
           Upgrade Now
         </button>
-        <button className="w-full sm:w-auto px-6 py-3 border border-subtleborder text-offwhite font-medium text-sm rounded-lg hover:bg-deepblack transition-colors">
+        <button
+          onClick={() => {
+            setPremiumAlert('Sign in functionality coming soon!');
+            setTimeout(() => setPremiumAlert(null), 3000);
+          }}
+          className="w-full sm:w-auto px-6 py-3 border border-subtleborder text-offwhite font-medium text-sm rounded-lg hover:bg-deepblack transition-colors"
+        >
           Sign In to Access
         </button>
       </div>
+
+      {/* Alert toast */}
+      {premiumAlert && (
+        <div className="mt-4 text-center text-sm text-emerald">
+          {premiumAlert}
+        </div>
+      )}
     </div>
   );
 };

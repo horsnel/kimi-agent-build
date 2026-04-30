@@ -60,6 +60,7 @@ export default function MemberDashboard() {
           scrollTrigger: {
             trigger: sectionRef.current,
             start: 'top 80%',
+            once: true,
           },
         }
       );
@@ -173,7 +174,7 @@ export default function MemberDashboard() {
         </div>
         <div className="grid md:grid-cols-3 gap-4">
           {savedResearch.map((item, idx) => (
-            <div key={idx} className="bg-charcoal border border-subtleborder rounded-xl p-6 hover:border-emerald/50 transition-colors group">
+            <Link key={idx} to="/research" className="bg-charcoal border border-subtleborder rounded-xl p-6 hover:border-emerald/50 transition-colors group block">
               <span className="px-2 py-0.5 bg-emerald/20 text-emerald text-xs font-mono rounded mb-3 inline-block">
                 {item.category}
               </span>
@@ -185,7 +186,7 @@ export default function MemberDashboard() {
                 <span>{item.readTime}</span>
                 <span>{item.date}</span>
               </div>
-            </div>
+            </Link>
           ))}
         </div>
       </section>
@@ -214,7 +215,7 @@ export default function MemberDashboard() {
                 >
                   <div
                     className={`absolute top-0.5 w-5 h-5 bg-offwhite rounded-full transition-transform ${
-                      enabled ? 'translate-x-5.5' : 'translate-x-0.5'
+                      enabled ? 'translate-x-[22px]' : 'translate-x-0.5'
                     }`}
                   />
                 </button>
@@ -234,7 +235,7 @@ export default function MemberDashboard() {
             </p>
           </div>
           <Link
-            to="#"
+            to="/premium/sector-rotation"
             className="flex-shrink-0 px-6 py-3 bg-emerald text-obsidian text-sm font-medium hover:bg-emerald/90 transition-colors rounded-lg flex items-center gap-2"
           >
             Upgrade Now <ArrowRightIcon size={16} />

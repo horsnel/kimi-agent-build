@@ -208,6 +208,7 @@ export default function StockAnalysis() {
           scrollTrigger: {
             trigger: sectionRef.current,
             start: 'top 80%',
+            once: true,
           },
         }
       );
@@ -467,7 +468,7 @@ export default function StockAnalysis() {
           <h2 className="text-lg font-medium text-offwhite mb-4">Recent News</h2>
           <div className="space-y-4">
             {stock.news.map((item, idx) => (
-              <div key={idx} className="flex items-start gap-4 p-3 rounded-lg hover:bg-deepblack/50 transition-colors cursor-pointer group">
+              <Link key={idx} to="/news" className="flex items-start gap-4 p-3 rounded-lg hover:bg-deepblack/50 transition-colors cursor-pointer group">
                 <div className="flex-1">
                   <h3 className="text-sm text-offwhite group-hover:text-emerald transition-colors mb-1">
                     {item.headline}
@@ -478,7 +479,7 @@ export default function StockAnalysis() {
                   </div>
                 </div>
                 <ArrowRightIcon size={16} className="text-slategray group-hover:text-emerald transition-colors mt-1 shrink-0" />
-              </div>
+              </Link>
             ))}
           </div>
         </div>

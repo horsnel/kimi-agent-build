@@ -1,4 +1,5 @@
 import { useState, useEffect, useRef, useMemo } from 'react';
+import { Link } from 'react-router';
 import gsap from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
 import { ClockIcon, ArrowRightIcon } from '../components/CustomIcons';
@@ -164,6 +165,7 @@ function DifficultyBadge({ difficulty }: { difficulty: Difficulty }) {
 
 export default function Education() {
   const [activeCategory, setActiveCategory] = useState<Category>('All');
+  const [comingSoonAlert, setComingSoonAlert] = useState<string | null>(null);
   const sectionRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
@@ -180,6 +182,7 @@ export default function Education() {
           scrollTrigger: {
             trigger: sectionRef.current,
             start: 'top 80%',
+            once: true,
           },
         }
       );
@@ -248,33 +251,82 @@ export default function Education() {
       {/* Articles Grid */}
       <section className="education-section max-w-7xl mx-auto px-6 pb-24">
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
-          {filtered.map((article) => (
-            <article
-              key={article.id}
-              className="group bg-charcoal border border-subtleborder rounded-xl p-6 hover:border-emerald/50 transition-colors cursor-pointer"
-            >
-              <div className="flex items-center justify-between mb-3">
-                <CategoryBadge category={article.category} />
-                <DifficultyBadge difficulty={article.difficulty} />
-              </div>
-              <h3 className="text-lg font-display font-medium text-offwhite mb-2 group-hover:text-emerald transition-colors leading-snug">
-                {article.title}
-              </h3>
-              <p className="text-sm text-slategray leading-relaxed mb-4 line-clamp-3">
-                {article.description}
-              </p>
-              <div className="flex items-center justify-between">
-                <span className="text-xs font-mono text-slategray flex items-center gap-1">
-                  <ClockIcon size={12} /> {article.readTime} min read
-                </span>
-                <span className="text-emerald opacity-0 group-hover:opacity-100 transition-opacity">
-                  <ArrowRightIcon size={16} />
-                </span>
-              </div>
-            </article>
-          ))}
+          {filtered.map((article) => {
+            const categoryRoutes: Record<string, string> = {
+              'Options': '/tools/options',
+              'Taxes': '/tools/tax-loss',
+              'Retirement': '/tools/retirement',
+            };
+            const route = categoryRoutes[article.category];
+
+            if (route) {
+              return (
+                <Link
+                  key={article.id}
+                  to={route}
+                  className="group bg-charcoal border border-subtleborder rounded-xl p-6 hover:border-emerald/50 transition-colors cursor-pointer block"
+                >
+                  <div className="flex items-center justify-between mb-3">
+                    <CategoryBadge category={article.category} />
+                    <DifficultyBadge difficulty={article.difficulty} />
+                  </div>
+                  <h3 className="text-lg font-display font-medium text-offwhite mb-2 group-hover:text-emerald transition-colors leading-snug">
+                    {article.title}
+                  </h3>
+                  <p className="text-sm text-slategray leading-relaxed mb-4 line-clamp-3">
+                    {article.description}
+                  </p>
+                  <div className="flex items-center justify-between">
+                    <span className="text-xs font-mono text-slategray flex items-center gap-1">
+                      <ClockIcon size={12} /> {article.readTime} min read
+                    </span>
+                    <span className="text-emerald opacity-0 group-hover:opacity-100 transition-opacity">
+                      <ArrowRightIcon size={16} />
+                    </span>
+                  </div>
+                </Link>
+              );
+            }
+
+            return (
+              <article
+                key={article.id}
+                onClick={() => {
+                  setComingSoonAlert(article.title);
+                  setTimeout(() => setComingSoonAlert(null), 3000);
+                }}
+                className="group bg-charcoal border border-subtleborder rounded-xl p-6 hover:border-emerald/50 transition-colors cursor-pointer"
+              >
+                <div className="flex items-center justify-between mb-3">
+                  <CategoryBadge category={article.category} />
+                  <DifficultyBadge difficulty={article.difficulty} />
+                </div>
+                <h3 className="text-lg font-display font-medium text-offwhite mb-2 group-hover:text-emerald transition-colors leading-snug">
+                  {article.title}
+                </h3>
+                <p className="text-sm text-slategray leading-relaxed mb-4 line-clamp-3">
+                  {article.description}
+                </p>
+                <div className="flex items-center justify-between">
+                  <span className="text-xs font-mono text-slategray flex items-center gap-1">
+                    <ClockIcon size={12} /> {article.readTime} min read
+                  </span>
+                  <span className="text-emerald opacity-0 group-hover:opacity-100 transition-opacity">
+                    <ArrowRightIcon size={16} />
+                  </span>
+                </div>
+              </article>
+            );
+          })}
         </div>
       </section>
+
+      {/* Coming soon toast */}
+      {comingSoonAlert && (
+        <div className="fixed bottom-6 left-1/2 -translate-x-1/2 z-50 bg-charcoal border border-emerald/30 rounded-lg px-6 py-3 text-sm text-offwhite shadow-lg">
+          Article detail coming soon: {comingSoonAlert}
+        </div>
+      )}
     </div>
   );
 }

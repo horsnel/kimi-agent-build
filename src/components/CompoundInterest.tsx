@@ -2,18 +2,21 @@ import { useState, useEffect, useRef } from 'react';
 import gsap from 'gsap';
 import { CalculatorIcon } from './CustomIcons';
 
+type Period = 5 | 10 | 15 | 20 | 30;
+
 export default function CompoundInterest() {
   const [principal, setPrincipal] = useState(50000);
   const [rate, setRate] = useState(12);
+  const [period, setPeriod] = useState<Period>(10);
   const [displayValue, setDisplayValue] = useState(155280);
   const displayRef = useRef<HTMLSpanElement>(null);
 
-  const calculate = (p: number, r: number) => {
-    return Math.round(p * Math.pow(1 + r / 100, 10));
+  const calculate = (p: number, r: number, years: number) => {
+    return Math.round(p * Math.pow(1 + r / 100, years));
   };
 
   useEffect(() => {
-    const newValue = calculate(principal, rate);
+    const newValue = calculate(principal, rate, period);
     const current = displayValue;
     const proxy = { val: current };
 
@@ -25,7 +28,7 @@ export default function CompoundInterest() {
         setDisplayValue(Math.round(proxy.val));
       },
     });
-  }, [principal, rate]);
+  }, [principal, rate, period]);
 
   const formatCurrency = (val: number) => {
     return new Intl.NumberFormat('en-US', {
@@ -95,9 +98,29 @@ export default function CompoundInterest() {
             </div>
           </div>
 
+          {/* Time Period Selector */}
+          <div>
+            <label className="text-sm font-medium text-slategray mb-3 block">Investment Horizon</label>
+            <div className="flex gap-2">
+              {([5, 10, 15, 20, 30] as Period[]).map((p) => (
+                <button
+                  key={p}
+                  onClick={() => setPeriod(p)}
+                  className={`flex-1 py-2 text-sm font-mono rounded-lg transition-colors ${
+                    period === p
+                      ? 'bg-emerald text-obsidian'
+                      : 'bg-deepblack border border-subtleborder text-slategray hover:text-offwhite hover:border-slategray'
+                  }`}
+                >
+                  {p}Y
+                </button>
+              ))}
+            </div>
+          </div>
+
           {/* Result */}
           <div className="pt-8 border-t border-subtleborder">
-            <div className="text-sm font-medium text-slategray mb-2">10-Year Projected Value</div>
+            <div className="text-sm font-medium text-slategray mb-2">{period}-Year Projected Value</div>
             <span
               ref={displayRef}
               className={`text-4xl md:text-5xl font-display font-light tracking-tight transition-colors duration-500 ${
