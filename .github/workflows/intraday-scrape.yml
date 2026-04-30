@@ -39,32 +39,44 @@ jobs:
           cd scraper
           python run_intraday.py
 
-      - name: Commit & push data to data branch
+      - name: Commit & push data
         run: |
           git config user.name "Sigma Scraper Bot"
           git config user.email "scraper@sigmacapital.io"
-
-          # Check if data branch exists on remote
-          if git ls-remote --heads origin data | grep -q data; then
-            git checkout data
-          else
-            git checkout --orphan data
-            git rm -rf . 2>/dev/null || true
-          fi
-
-          # Copy data from the scraper run
-          git checkout main -- public/data/
-
-          mkdir -p tmp_data
-          cp -r public/data/* tmp_data/ 2>/dev/null || true
-          rm -rf public
-          cp -r tmp_data/* . 2>/dev/null || true
-          rm -rf tmp_data
-
-          git add -A
+          git add public/data/
           if git diff --staged --quiet; then
             echo "No data changes to commit"
           else
             git commit -m "data: intraday scrape $(date -u +%Y-%m-%dT%H:%M:%SZ)"
-            git push origin data --force
+            git push origin main
           fi
+
+  deploy:
+    needs: scrape
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout main branch
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build
+        run: npm run build
+
+      - name: Deploy to Cloudflare Pages
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages deploy dist --project-name=sigma-capital

@@ -68,7 +68,7 @@ def scrape_fear_greed() -> dict:
     # Try scraping CNN with ScrapingAnt headless Chrome rendering
     try:
         url = "https://money.cnn.com/data/fear-and-greed/"
-        resp = safe_get_rendered(url)  # Uses ScrapingAnt API for JS rendering
+        resp = safe_get_rendered(url, cache_category="fear_greed")  # Uses ScrapingAnt API for JS rendering
 
         if resp is not None:
             from bs4 import BeautifulSoup
@@ -199,7 +199,7 @@ def scrape_crypto_fear_greed() -> dict:
 
     try:
         url = "https://api.alternative.me/fng/?limit=30"
-        resp = safe_get(url, headers={"Accept": "application/json"}, use_proxy=False)  # Free API, no proxy needed
+        resp = safe_get(url, headers={"Accept": "application/json"}, use_proxy=False, cache_category="fear_greed")  # Free API, no proxy needed
 
         if resp is not None:
             try:

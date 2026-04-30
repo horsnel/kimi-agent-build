@@ -40,7 +40,7 @@ def scrape_insider_trading() -> list[dict]:
     resp = safe_get(feed_url, headers={
         "Accept": "application/atom+xml",
         "User-Agent": SEC_USER_AGENT,
-    }, use_proxy=True)  # SEC rate-limits, needs proxy
+    }, use_proxy=True, cache_category="sec")  # SEC rate-limits, needs proxy
 
     if resp is not None:
         try:
@@ -104,7 +104,7 @@ def scrape_insider_trading() -> list[dict]:
             "q=%22Form+4%22&dateRange=custom&startdt=2026-04-01"
             "&category=form-type&forms=4"
         )
-        resp = safe_get(search_url, headers={"User-Agent": SEC_USER_AGENT}, use_proxy=True)  # SEC rate-limits
+        resp = safe_get(search_url, headers={"User-Agent": SEC_USER_AGENT}, use_proxy=True, cache_category="sec")  # SEC rate-limits
         if resp is not None:
             try:
                 data = resp.json()
@@ -351,7 +351,7 @@ def scrape_13f_filings() -> dict:
             resp = safe_get(url, headers={
                 "User-Agent": SEC_USER_AGENT,
                 "Accept-Encoding": "gzip, deflate",
-            }, use_proxy=True)  # SEC data API, needs proxy
+            }, use_proxy=True, cache_category="sec")  # SEC data API, needs proxy
 
             latest_filing = ""
             top_holding = ""
@@ -419,7 +419,7 @@ def scrape_ipo_calendar() -> dict:
     resp = safe_get(feed_url, headers={
         "Accept": "application/atom+xml",
         "User-Agent": SEC_USER_AGENT,
-    }, use_proxy=True)  # SEC rate-limits, needs proxy
+    }, use_proxy=True, cache_category="sec")  # SEC rate-limits, needs proxy
 
     if resp is not None:
         try:

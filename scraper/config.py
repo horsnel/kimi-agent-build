@@ -32,6 +32,7 @@ import json
 import os
 import random
 import time
+import hashlib
 import concurrent.futures
 from datetime import datetime, timezone
 from pathlib import Path
@@ -49,6 +50,21 @@ STOCKS_DIR = DATA_DIR / "stocks"
 
 os.makedirs(DATA_DIR, exist_ok=True)
 os.makedirs(STOCKS_DIR, exist_ok=True)
+
+# ── Aggressive HTTP Caching ──────────────────────────────────────────────────
+CACHE_DIR = REPO_ROOT / ".cache" / "http"
+os.makedirs(CACHE_DIR, exist_ok=True)
+
+# TTL per data category (seconds) — how long cached responses are valid
+CACHE_TTL = {
+    "crypto": 300,          # 5 min — prices change fast
+    "stocks": 60,           # 1 min — intraday data
+    "economic": 3600,       # 1 hr — FRED data updates daily
+    "sec": 1800,            # 30 min — SEC filings
+    "news": 300,            # 5 min — news updates frequently
+    "fear_greed": 600,      # 10 min — index updates slowly
+    "default": 300,         # 5 min default
+}
 
 # ── Rate Limiting ────────────────────────────────────────────────────────────
 RATE_LIMIT_DELAY = float(os.environ.get("RATE_LIMIT_DELAY", "0.6"))
@@ -464,12 +480,121 @@ def _size(p: Path) -> str:
     return f"{s:.1f} GB"
 
 
+# ── Aggressive HTTP Cache ────────────────────────────────────────────────────
+
+def _cache_key(url: str) -> str:
+    """Generate a filesystem-safe cache key from a URL."""
+    return hashlib.md5(url.encode()).hexdigest()
+
+
+def _cache_path(url: str) -> Path:
+    """Get the cache file path for a URL."""
+    return CACHE_DIR / f"{_cache_key(url)}.json"
+
+
+def cache_get(url: str, category: str = "default") -> Optional[requests.Response]:
+    """
+    Check if we have a fresh cached response for this URL.
+
+    Returns a requests.Response-like object if cache hit, None if cache miss.
+    Skips HTTP request entirely if cache is fresh — saves ScrapingAnt credits!
+    """
+    ttl = CACHE_TTL.get(category, CACHE_TTL["default"])
+    path = _cache_path(url)
+
+    if not path.exists():
+        return None
+
+    try:
+        with open(path, "r", encoding="utf-8") as f:
+            entry = json.load(f)
+
+        cached_at = entry.get("timestamp", 0)
+        age = time.time() - cached_at
+
+        if age < ttl:
+            # Cache HIT — return cached response
+            mock_resp = requests.Response()
+            mock_resp.status_code = entry.get("status_code", 200)
+            content = entry.get("content", "")
+            mock_resp._content = content.encode("utf-8") if isinstance(content, str) else content
+            mock_resp.encoding = "utf-8"
+            mock_resp.headers.update(entry.get("headers", {}))
+            print(f"  💾 Cache HIT ({category}, {int(age)}s old, TTL {ttl}s)")
+            return mock_resp
+        else:
+            # Cache STALE — but keep for If-Modified-Since / ETag
+            return None
+
+    except Exception:
+        return None
+
+
+def cache_put(url: str, resp: requests.Response) -> None:
+    """Store an HTTP response in the cache."""
+    path = _cache_path(url)
+    try:
+        entry = {
+            "url": url,
+            "timestamp": time.time(),
+            "status_code": resp.status_code,
+            "content": resp.text,
+            "headers": {
+                "ETag": resp.headers.get("ETag", ""),
+                "Last-Modified": resp.headers.get("Last-Modified", ""),
+            },
+        }
+        with open(path, "w", encoding="utf-8") as f:
+            json.dump(entry, f, ensure_ascii=False)
+    except Exception:
+        pass
+
+
+def cache_get_etag_headers(url: str) -> dict:
+    """Get ETag/Last-Modified headers from cache for conditional requests."""
+    path = _cache_path(url)
+    if not path.exists():
+        return {}
+
+    try:
+        with open(path, "r", encoding="utf-8") as f:
+            entry = json.load(f)
+
+        headers = {}
+        etag = entry.get("headers", {}).get("ETag", "")
+        last_modified = entry.get("headers", {}).get("Last-Modified", "")
+
+        if etag:
+            headers["If-None-Match"] = etag
+        if last_modified:
+            headers["If-Modified-Since"] = last_modified
+
+        return headers
+    except Exception:
+        return {}
+
+
+def cache_stats() -> dict:
+    """Return cache statistics."""
+    entries = list(CACHE_DIR.glob("*.json"))
+    total_size = sum(e.stat().st_size for e in entries)
+    return {"count": len(entries), "size_kb": round(total_size / 1024, 1)}
+
+
 # ── HTTP Helpers ─────────────────────────────────────────────────────────────
 
 def safe_get(url: str, headers: dict | None = None, timeout: int = REQUEST_TIMEOUT,
-             max_retries: int = MAX_PROXY_RETRIES, use_proxy: bool = False):
+             max_retries: int = MAX_PROXY_RETRIES, use_proxy: bool = False,
+             cache_category: str = ""):
     """
-    Make a GET request with optional ScrapingAnt proxy rotation and smart fallback.
+    Make a GET request with aggressive HTTP caching, optional ScrapingAnt proxy,
+    and smart fallback.
+
+    AGGRESSIVE CACHING (saves ScrapingAnt credits + bandwidth):
+      1. Check local file cache — if fresh, return immediately (0 credits!)
+      2. Send conditional request with ETag/If-Modified-Since
+      3. If 304 Not Modified — refresh cache timestamp, return cached
+      4. Cache all successful responses for future use
 
     CREDIT-SAVING DESIGN:
       use_proxy=False (DEFAULT) → Direct request first, ScrapingAnt only if blocked
@@ -485,6 +610,11 @@ def safe_get(url: str, headers: dict | None = None, timeout: int = REQUEST_TIMEO
       2. If blocked (403/406) → retry via ScrapingAnt API
       3. If ScrapingAnt also fails → free proxy pool
     """
+    # ── Step 0: Check local cache ────────────────────────────────────────────
+    if cache_category:
+        cached = cache_get(url, cache_category)
+        if cached is not None:
+            return cached
     pm = get_proxy_manager()
 
     for attempt in range(max_retries):
@@ -500,6 +630,8 @@ def safe_get(url: str, headers: dict | None = None, timeout: int = REQUEST_TIMEO
                             print(f"  🔄 Blocked via ScrapingAnt ({resp.status_code}), retrying …")
                             time.sleep(wait)
                             continue
+                    if cache_category:
+                        cache_put(url, resp)
                     return resp
 
             # ScrapingAnt unavailable/exhausted → try free proxy pool
@@ -546,6 +678,8 @@ def safe_get(url: str, headers: dict | None = None, timeout: int = REQUEST_TIMEO
                     timeout=timeout,
                 )
                 resp.raise_for_status()
+                if cache_category:
+                    cache_put(url, resp)
                 return resp
 
         except requests.exceptions.HTTPError as exc:
@@ -609,7 +743,8 @@ def safe_get(url: str, headers: dict | None = None, timeout: int = REQUEST_TIMEO
     return None
 
 
-def safe_get_rendered(url: str, wait_for: str = "", timeout: int = 30000) -> Optional[requests.Response]:
+def safe_get_rendered(url: str, wait_for: str = "", timeout: int = 30000,
+                      cache_category: str = "") -> Optional[requests.Response]:
     """
     Scrape a JavaScript-heavy page using ScrapingAnt's headless Chrome API.
 
@@ -626,12 +761,20 @@ def safe_get_rendered(url: str, wait_for: str = "", timeout: int = 30000) -> Opt
     """
     pm = get_proxy_manager()
 
+    # ── Check cache first ─────────────────────────────────────────────────────
+    if cache_category:
+        cached = cache_get(url, cache_category)
+        if cached is not None:
+            return cached
+
     # Try ScrapingAnt API mode with headless Chrome rendering
     if pm.has_scrapingant:
         print(f"  🌐 ScrapingAnt: rendering JS for {url[:60]}…")
         resp = pm.scrape_via_api(url, render_js=True, wait_for_selector=wait_for, timeout=timeout)
         if resp is not None:
             print(f"  ✓ ScrapingAnt rendered: {len(resp.text)} chars")
+            if cache_category:
+                cache_put(url, resp)
             return resp
 
         # JS rendering failed — try without JS (some pages work either way)

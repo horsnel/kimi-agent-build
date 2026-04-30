@@ -49,7 +49,7 @@ def scrape_yield_curve() -> dict:
     for label, series_id in YIELD_SERIES.items():
         try:
             url = f"https://fred.stlouisfed.org/graph/fredgraph.csv?id={series_id}"
-            resp = safe_get(url)
+            resp = safe_get(url, cache_category="economic")
 
             value = None
             date_found = ""
@@ -132,7 +132,7 @@ def scrape_economic_indicators() -> list[dict]:
         try:
             series_id = info["id"]
             url = f"https://fred.stlouisfed.org/graph/fredgraph.csv?id={series_id}"
-            resp = safe_get(url)
+            resp = safe_get(url, cache_category="economic")
 
             current_val = None
             previous_val = None
@@ -402,7 +402,7 @@ def scrape_vix_term_structure() -> dict:
     if spot_price is None:
         try:
             url = "https://fred.stlouisfed.org/graph/fredgraph.csv?id=WVIX"
-            resp = safe_get(url)
+            resp = safe_get(url, cache_category="economic")
             if resp is not None:
                 lines = resp.text.strip().split("\n")
                 for line in reversed(lines[1:]):

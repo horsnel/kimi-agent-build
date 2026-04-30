@@ -37,7 +37,7 @@ def scrape_crypto_overview() -> list[dict]:
     print("\n📊 Scraping crypto overview …")
     results = []
 
-    resp = safe_get(COINGECKO_MARKETS_URL)
+    resp = safe_get(COINGECKO_MARKETS_URL, cache_category="crypto")
     if resp is None:
         print("  ✗ Failed to fetch CoinGecko markets data")
         save_json("crypto.json", results)
@@ -120,7 +120,7 @@ def scrape_crypto_onchain() -> dict:
     }
 
     # ── BTC price/marketCap/volume from CoinGecko ─────────────────────────
-    resp = safe_get(COINGECKO_BTC_URL)
+    resp = safe_get(COINGECKO_BTC_URL, cache_category="crypto")
     if resp is not None:
         try:
             md = resp.json()
@@ -138,7 +138,7 @@ def scrape_crypto_onchain() -> dict:
 
     # ── Active addresses from blockchain.info ─────────────────────────────
     try:
-        resp_aa = safe_get(BLOCKCHAIN_ACTIVE_ADDRESSES_URL)
+        resp_aa = safe_get(BLOCKCHAIN_ACTIVE_ADDRESSES_URL, cache_category="crypto")
         if resp_aa is not None:
             data["activeAddresses"] = safe_int(resp_aa.text.strip())
             print(f"  ✓ Active addresses: {data['activeAddresses']:,}" if data["activeAddresses"] else "  ⚠ Active addresses unavailable")
@@ -152,7 +152,7 @@ def scrape_crypto_onchain() -> dict:
     rate_limit()
 
     # ── Exchange net flows (7 days) from CoinGecko ────────────────────────
-    resp_chart = safe_get(COINGECKO_BTC_CHART_URL)
+    resp_chart = safe_get(COINGECKO_BTC_CHART_URL, cache_category="crypto")
     if resp_chart is not None:
         try:
             chart_data = resp_chart.json()
