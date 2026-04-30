@@ -23,11 +23,8 @@ from config import (
     rate_limit,
     safe_float,
     safe_get,
-    safe_get_rendered,
     save_json,
     utc_now_iso,
-    cache_get,
-    cache_put,
 )
 
 
@@ -40,71 +37,65 @@ INDICES = {
     "^VIX": "VIX",
 }
 
-# Alternative index data sources when yfinance is rate-limited
-INDEX_GOOGLE_URLS = {
-    "^GSPC": "https://www.google.com/finance/quote/.INX:INDEXSP",
-    "^IXIC": "https://www.google.com/finance/quote/.IXIC:INDEXNASDAQ",
-    "^DJI": "https://www.google.com/finance/quote/.DJI:INDEXDJX",
-    "^VIX": "https://www.google.com/finance/quote/VIX:INDEXCBOE",
+# Alternative index data source when yfinance is rate-limited
+# Stooq provides free CSV data — no API key, no rate limiting
+STOOQ_TICKERS = {
+    "^GSPC": "^spx",
+    "^IXIC": "^ndq",
+    "^DJI": "^dji",
+    "^VIX": "^vix",
 }
 
 
-def _scrape_index_from_google(ticker_symbol: str, name: str) -> dict | None:
-    """Scrape index data from Google Finance as fallback when yfinance is rate-limited.
-    Uses ScrapingAnt with JS rendering (1 credit per index)."""
-    url = INDEX_GOOGLE_URLS.get(ticker_symbol)
-    if not url:
+def _scrape_index_from_stooq(ticker_symbol: str, name: str) -> dict | None:
+    """Scrape index data from Stooq free CSV API when yfinance is rate-limited.
+    
+    Stooq provides free, no-auth CSV data for major indices.
+    URL format: https://stooq.com/q/l/?s={symbol}&f=sd2t2ohlcv&h&e=csv
+    Returns: Symbol,Date,Time,Open,High,Low,Close,Volume
+    """
+    stooq_sym = STOOQ_TICKERS.get(ticker_symbol)
+    if not stooq_sym:
         return None
 
     try:
-        import re
-        from bs4 import BeautifulSoup
+        import csv
+        import io
 
-        resp = safe_get_rendered(url, cache_category="stocks")
+        url = f"https://stooq.com/q/l/?s={stooq_sym}&f=sd2t2ohlcv&h&e=csv"
+        resp = safe_get(url, headers={"Accept": "text/csv"}, use_proxy=False, cache_category="stocks")
         if resp is None:
             return None
 
-        soup = BeautifulSoup(resp.text, "html.parser")
-        text = soup.get_text()
+        reader = csv.DictReader(io.StringIO(resp.text))
+        for row in reader:
+            close_str = row.get("Close", "").strip()
+            open_str = row.get("Open", "").strip()
 
-        # Google Finance shows price like "5,234.56" in the page
-        # Try multiple patterns
-        price = None
-        prev_close = None
-        change_pct = None
+            close = safe_float(close_str.replace(",", ""))
+            open_price = safe_float(open_str.replace(",", ""))
 
-        # Pattern 1: Look for the main price in the data-last-price attribute or element
-        price_div = soup.find("div", {"data-last-price": True})
-        if price_div:
-            price_str = price_div.get("data-last-price", "")
-            price = safe_float(price_str.replace(",", ""))
+            if close is not None:
+                change_pct = 0
+                change_abs = 0
+                if open_price and open_price > 0:
+                    change_abs = round(close - open_price, 2)
+                    change_pct = round((change_abs / open_price) * 100, 2)
 
-        # Pattern 2: Look for price in the text
-        if price is None:
-            price_match = re.search(r'[\$]?\s*([\d,]+\.\d{2})', text[:500])
-            if price_match:
-                price = safe_float(price_match.group(1).replace(",", ""))
-
-        # Pattern 3: Look for change percentage
-        change_match = re.search(r'([+-]?\d+\.\d+)%', text[:1000])
-        if change_match:
-            change_pct = safe_float(change_match.group(1))
-
-        if price is not None:
-            result = {
-                "name": name,
-                "ticker": ticker_symbol,
-                "value": f"{price:,.2f}",
-                "change": f"{0:+.2f}",
-                "changePercent": change_pct if change_pct else 0,
-                "up": (change_pct or 0) >= 0,
-                "sparkline": [],
-            }
-            print(f"  ✓ {name}: {price:,.2f} (via Google Finance)")
-            return result
+                result = {
+                    "name": name,
+                    "ticker": ticker_symbol,
+                    "value": f"{close:,.2f}",
+                    "change": f"{change_abs:+.2f}",
+                    "changePercent": change_pct,
+                    "up": change_pct >= 0,
+                    "sparkline": [],
+                }
+                print(f"  ✓ {name}: {close:,.2f} ({change_pct:+.2f}%) (via Stooq)")
+                return result
 
     except Exception as exc:
-        print(f"  ✗ Google Finance fallback failed for {name}: {exc}")
+        print(f"  ✗ Stooq fallback failed for {name}: {exc}")
 
     return None
 
@@ -113,9 +104,9 @@ def scrape_market_indices() -> list[dict]:
     """Get S&P 500, NASDAQ, DOW, VIX current data with sparklines.
     
     Strategy:
-      1. Check cache first (indices data cached for 60s)
-      2. Try yfinance direct (FREE)
-      3. If yfinance rate-limited (429), fallback to Google Finance via ScrapingAnt
+      1. Try yfinance direct (FREE, includes sparklines)
+      2. If yfinance rate-limited (429), fallback to Stooq free CSV API (FREE, no auth)
+      3. If Stooq also fails, use previously saved data (stale but better than empty)
     """
     print("\n📊 Scraping market indices …")
     results = []
@@ -137,7 +128,7 @@ def scrape_market_indices() -> list[dict]:
     for ticker_symbol, name in INDICES.items():
         result = None
 
-        # Strategy 1: Try yfinance direct
+        # Strategy 1: Try yfinance direct (FREE)
         try:
             ticker = get_yf_ticker(ticker_symbol)
             info = ticker.info
@@ -172,13 +163,13 @@ def scrape_market_indices() -> list[dict]:
         except Exception as exc:
             exc_str = str(exc)
             if "429" in exc_str or "rate" in exc_str.lower():
-                print(f"  ⚠ {name}: yfinance rate-limited, trying Google Finance fallback …")
+                print(f"  ⚠ {name}: yfinance rate-limited, trying Stooq fallback …")
             else:
                 print(f"  ✗ {name} yfinance failed: {exc}")
 
-        # Strategy 2: Google Finance via ScrapingAnt (if yfinance failed)
+        # Strategy 2: Stooq free CSV API (FREE, no auth, no rate limiting)
         if result is None:
-            result = _scrape_index_from_google(ticker_symbol, name)
+            result = _scrape_index_from_stooq(ticker_symbol, name)
 
         # Strategy 3: Use previous data as fallback (stale but better than empty)
         if result is None and ticker_symbol in prev_indices:
