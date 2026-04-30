@@ -4,6 +4,8 @@ Crypto data scraper for Sigma Capital.
 Scrapes:
   - Top 12 crypto coins overview (CoinGecko)
   - BTC on-chain metrics (CoinGecko + blockchain.info)
+
+All requests use proxy rotation via safe_get().
 """
 
 import random
@@ -17,7 +19,6 @@ from config import (
     safe_get,
     save_json,
     utc_now_iso,
-    USER_AGENT,
 )
 
 
@@ -50,7 +51,6 @@ def scrape_crypto_overview() -> list[dict]:
 
     for coin in coins:
         try:
-            # Extract sparkline (last 8 points from 7d data)
             sparkline = []
             try:
                 raw_sparkline = coin.get("sparkline_in_7d", {}).get("price", [])

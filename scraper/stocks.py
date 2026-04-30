@@ -5,14 +5,15 @@ Scrapes:
   - Market indices (S&P 500, NASDAQ, DOW, VIX)
   - Stock screener (24 major stocks)
   - Stock detail pages (AAPL, MSFT, NVDA, TSLA)
+
+Uses proxy-enabled yfinance sessions for all requests.
 """
 
 import traceback
 
-import yfinance as yf
-
 from config import (
     DATA_DIR,
+    get_yf_ticker,
     rate_limit,
     safe_float,
     safe_int,
@@ -38,7 +39,7 @@ def scrape_market_indices() -> list[dict]:
 
     for ticker_symbol, name in INDICES.items():
         try:
-            ticker = yf.Ticker(ticker_symbol)
+            ticker = get_yf_ticker(ticker_symbol)
             info = ticker.info
 
             current = safe_float(info.get("regularMarketPrice") or info.get("currentPrice"))
@@ -96,7 +97,7 @@ def scrape_stock_screener() -> list[dict]:
 
     for ticker_symbol in SCREENER_TICKERS:
         try:
-            ticker = yf.Ticker(ticker_symbol)
+            ticker = get_yf_ticker(ticker_symbol)
             info = ticker.info
 
             price = safe_float(info.get("currentPrice") or info.get("regularMarketPrice"))
@@ -152,7 +153,7 @@ def scrape_stock_detail(ticker_symbol: str) -> dict | None:
     """Get detailed stock data including price history and earnings."""
     print(f"\n📈 Scraping stock detail: {ticker_symbol} …")
     try:
-        ticker = yf.Ticker(ticker_symbol)
+        ticker = get_yf_ticker(ticker_symbol)
         info = ticker.info
 
         price = safe_float(info.get("currentPrice") or info.get("regularMarketPrice"))
@@ -217,7 +218,6 @@ def scrape_stock_detail(ticker_symbol: str) -> dict | None:
                         "beat": actual is not None and estimate is not None and actual > estimate,
                     })
             else:
-                # Mock earnings if unavailable
                 detail["earnings"] = _mock_earnings(ticker_symbol)
         except Exception:
             detail["earnings"] = _mock_earnings(ticker_symbol)

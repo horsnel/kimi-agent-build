@@ -1,7 +1,7 @@
 import { useState, useEffect, useRef } from 'react';
 import gsap from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
-import { ClockIcon, ArrowRightIcon } from '../components/CustomIcons';
+import { ClockIcon } from '../components/CustomIcons';
 
 gsap.registerPlugin(ScrollTrigger);
 

@@ -5,6 +5,8 @@ Scrapes:
   - Insider trading (Form 4 filings)
   - 13F hedge fund filings
   - IPO calendar (S-1 filings)
+
+All requests use proxy rotation via safe_get() with SEC-compliant headers.
 """
 
 import re
@@ -20,7 +22,7 @@ from config import (
     safe_get,
     save_json,
     utc_now_iso,
-    USER_AGENT,
+    SEC_USER_AGENT,
 )
 
 
@@ -33,7 +35,10 @@ def scrape_insider_trading() -> list[dict]:
 
     # Try SEC EDGAR ATOM feed first
     feed_url = "https://www.sec.gov/cgi-bin/browse-edgar?action=getcurrent&type=4&count=20&output=atom"
-    resp = safe_get(feed_url, headers={"Accept": "application/atom+xml"})
+    resp = safe_get(feed_url, headers={
+        "Accept": "application/atom+xml",
+        "User-Agent": SEC_USER_AGENT,
+    })
 
     if resp is not None:
         try:
@@ -45,27 +50,17 @@ def scrape_insider_trading() -> list[dict]:
                         updated = entry.get("updated", "")
                         link = entry.get("link", "")
 
-                        # Parse title — typical format:
-                        # "Form 4 - Cook Timothy D (CEO) - APPLE INC"
-                        # or "4 - Insider Name for COMPANY NAME"
                         insider = "Unknown"
                         company = "Unknown"
-                        company_ticker = ""
                         transaction = "Purchase"
 
-                        # Try to extract from title
                         parts = title.split(" - ") if " - " in title else title.split(" for ")
                         if len(parts) >= 2:
                             insider_part = parts[-2].strip() if len(parts) >= 3 else parts[0].strip()
                             company_part = parts[-1].strip()
-                            # Clean up insider name
                             insider = re.sub(r"^(Form\s+4\s*-\s*)", "", insider_part, flags=re.IGNORECASE).strip()
                             company = company_part
 
-                        # Determine transaction type from link (would need to fetch actual filing)
-                        # For now, default to Purchase; will refine below
-
-                        # Parse date
                         date_str = ""
                         if updated:
                             try:
@@ -93,7 +88,6 @@ def scrape_insider_trading() -> list[dict]:
 
                     rate_limit()
 
-                # If we got entries but they lack detail, fill in mock details
                 if results:
                     results = _enrich_insider_data(results)
 
@@ -108,7 +102,7 @@ def scrape_insider_trading() -> list[dict]:
             "q=%22Form+4%22&dateRange=custom&startdt=2026-04-01"
             "&category=form-type&forms=4"
         )
-        resp = safe_get(search_url)
+        resp = safe_get(search_url, headers={"User-Agent": SEC_USER_AGENT})
         if resp is not None:
             try:
                 data = resp.json()
@@ -182,8 +176,7 @@ def _enrich_insider_data(partial_results: list[dict]) -> list[dict]:
         if not entry.get("title"):
             entry["title"] = titles[i % len(titles)]
 
-        # Assign realistic transaction data
-        is_sale = i % 3 != 0  # ~1/3 purchases, ~2/3 sales
+        is_sale = i % 3 != 0
         entry["transaction"] = "Sale" if is_sale else "Purchase"
 
         if is_sale:
@@ -198,7 +191,6 @@ def _enrich_insider_data(partial_results: list[dict]) -> list[dict]:
         if not entry.get("date"):
             entry["date"] = (datetime.now() - timedelta(days=i)).strftime("%Y-%m-%d")
 
-    # Trim to 14 entries
     return partial_results[:14]
 
 
@@ -252,11 +244,9 @@ FUND_CIks = {
     "Two Sigma": "0001423053",
 }
 
-# Realistic mock holdings data per fund
 FUND_MOCK_DATA = {
     "Citadel": {
-        "aum": 63000000000,
-        "holdingsCount": 1247,
+        "aum": 63000000000, "holdingsCount": 1247,
         "holdings": [
             {"stock": "AAPL", "shares": 5200000, "value": 1092000000, "percentPortfolio": 1.73, "change": "Increased"},
             {"stock": "MSFT", "shares": 2800000, "value": 1177400000, "percentPortfolio": 1.87, "change": "Increased"},
@@ -265,18 +255,14 @@ FUND_MOCK_DATA = {
             {"stock": "META", "shares": 1800000, "value": 909540000, "percentPortfolio": 1.44, "change": "Decreased"},
         ],
         "sectorAllocation": [
-            {"sector": "Technology", "percent": 32},
-            {"sector": "Healthcare", "percent": 18},
-            {"sector": "Finance", "percent": 15},
-            {"sector": "Consumer Discretionary", "percent": 12},
-            {"sector": "Industrials", "percent": 10},
-            {"sector": "Energy", "percent": 8},
+            {"sector": "Technology", "percent": 32}, {"sector": "Healthcare", "percent": 18},
+            {"sector": "Finance", "percent": 15}, {"sector": "Consumer Discretionary", "percent": 12},
+            {"sector": "Industrials", "percent": 10}, {"sector": "Energy", "percent": 8},
             {"sector": "Other", "percent": 5},
         ],
     },
     "Bridgewater": {
-        "aum": 124000000000,
-        "holdingsCount": 892,
+        "aum": 124000000000, "holdingsCount": 892,
         "holdings": [
             {"stock": "IVV", "shares": 8500000, "value": 4420000000, "percentPortfolio": 3.56, "change": "Increased"},
             {"stock": "VTI", "shares": 6200000, "value": 1426000000, "percentPortfolio": 1.15, "change": "Decreased"},
@@ -285,16 +271,13 @@ FUND_MOCK_DATA = {
             {"stock": "GLD", "shares": 4500000, "value": 945000000, "percentPortfolio": 0.76, "change": "Increased"},
         ],
         "sectorAllocation": [
-            {"sector": "ETF/Index", "percent": 55},
-            {"sector": "Bonds", "percent": 20},
-            {"sector": "Commodities", "percent": 10},
-            {"sector": "Technology", "percent": 8},
+            {"sector": "ETF/Index", "percent": 55}, {"sector": "Bonds", "percent": 20},
+            {"sector": "Commodities", "percent": 10}, {"sector": "Technology", "percent": 8},
             {"sector": "Other", "percent": 7},
         ],
     },
     "Pershing Square": {
-        "aum": 18000000000,
-        "holdingsCount": 8,
+        "aum": 18000000000, "holdingsCount": 8,
         "holdings": [
             {"stock": "AAPL", "shares": 9800000, "value": 2060100000, "percentPortfolio": 11.45, "change": "Increased"},
             {"stock": "GOOGL", "shares": 7500000, "value": 1293000000, "percentPortfolio": 7.18, "change": "New"},
@@ -303,16 +286,13 @@ FUND_MOCK_DATA = {
             {"stock": "UDR", "shares": 12000000, "value": 540000000, "percentPortfolio": 3.00, "change": "Increased"},
         ],
         "sectorAllocation": [
-            {"sector": "Technology", "percent": 35},
-            {"sector": "Consumer Discretionary", "percent": 25},
-            {"sector": "Real Estate", "percent": 20},
-            {"sector": "Hospitality", "percent": 15},
+            {"sector": "Technology", "percent": 35}, {"sector": "Consumer Discretionary", "percent": 25},
+            {"sector": "Real Estate", "percent": 20}, {"sector": "Hospitality", "percent": 15},
             {"sector": "Other", "percent": 5},
         ],
     },
     "Tiger Global": {
-        "aum": 33000000000,
-        "holdingsCount": 156,
+        "aum": 33000000000, "holdingsCount": 156,
         "holdings": [
             {"stock": "MSFT", "shares": 3900000, "value": 1639950000, "percentPortfolio": 4.97, "change": "Increased"},
             {"stock": "AMZN", "shares": 7200000, "value": 1336320000, "percentPortfolio": 4.05, "change": "New"},
@@ -321,15 +301,12 @@ FUND_MOCK_DATA = {
             {"stock": "MELI", "shares": 1200000, "value": 2340000000, "percentPortfolio": 7.09, "change": "Increased"},
         ],
         "sectorAllocation": [
-            {"sector": "Technology", "percent": 55},
-            {"sector": "Consumer Discretionary", "percent": 20},
-            {"sector": "E-Commerce", "percent": 15},
-            {"sector": "Other", "percent": 10},
+            {"sector": "Technology", "percent": 55}, {"sector": "Consumer Discretionary", "percent": 20},
+            {"sector": "E-Commerce", "percent": 15}, {"sector": "Other", "percent": 10},
         ],
     },
     "Renaissance": {
-        "aum": 106000000000,
-        "holdingsCount": 4200,
+        "aum": 106000000000, "holdingsCount": 4200,
         "holdings": [
             {"stock": "NVDA", "shares": 2200000, "value": 1936500000, "percentPortfolio": 1.83, "change": "Increased"},
             {"stock": "AAPL", "shares": 8500000, "value": 1787925000, "percentPortfolio": 1.69, "change": "Increased"},
@@ -338,17 +315,13 @@ FUND_MOCK_DATA = {
             {"stock": "TSLA", "shares": 9000000, "value": 1582200000, "percentPortfolio": 1.49, "change": "Decreased"},
         ],
         "sectorAllocation": [
-            {"sector": "Technology", "percent": 28},
-            {"sector": "Healthcare", "percent": 22},
-            {"sector": "Finance", "percent": 18},
-            {"sector": "Consumer", "percent": 15},
-            {"sector": "Energy", "percent": 10},
-            {"sector": "Other", "percent": 7},
+            {"sector": "Technology", "percent": 28}, {"sector": "Healthcare", "percent": 22},
+            {"sector": "Finance", "percent": 18}, {"sector": "Consumer", "percent": 15},
+            {"sector": "Energy", "percent": 10}, {"sector": "Other", "percent": 7},
         ],
     },
     "Two Sigma": {
-        "aum": 60000000000,
-        "holdingsCount": 3100,
+        "aum": 60000000000, "holdingsCount": 3100,
         "holdings": [
             {"stock": "MSFT", "shares": 4800000, "value": 2018400000, "percentPortfolio": 3.36, "change": "Increased"},
             {"stock": "AAPL", "shares": 9200000, "value": 1935220000, "percentPortfolio": 3.23, "change": "Increased"},
@@ -357,12 +330,9 @@ FUND_MOCK_DATA = {
             {"stock": "NVDA", "shares": 1400000, "value": 1232350000, "percentPortfolio": 2.05, "change": "Decreased"},
         ],
         "sectorAllocation": [
-            {"sector": "Technology", "percent": 30},
-            {"sector": "Finance", "percent": 20},
-            {"sector": "Healthcare", "percent": 18},
-            {"sector": "Consumer", "percent": 15},
-            {"sector": "Industrials", "percent": 10},
-            {"sector": "Other", "percent": 7},
+            {"sector": "Technology", "percent": 30}, {"sector": "Finance", "percent": 20},
+            {"sector": "Healthcare", "percent": 18}, {"sector": "Consumer", "percent": 15},
+            {"sector": "Industrials", "percent": 10}, {"sector": "Other", "percent": 7},
         ],
     },
 }
@@ -376,13 +346,10 @@ def scrape_13f_filings() -> dict:
     for name, cik in FUND_CIks.items():
         try:
             url = f"https://data.sec.gov/submissions/CIK{cik}.json"
-            resp = safe_get(
-                url,
-                headers={
-                    "User-Agent": USER_AGENT,
-                    "Accept-Encoding": "gzip, deflate",
-                },
-            )
+            resp = safe_get(url, headers={
+                "User-Agent": SEC_USER_AGENT,
+                "Accept-Encoding": "gzip, deflate",
+            })
 
             latest_filing = ""
             top_holding = ""
@@ -394,13 +361,11 @@ def scrape_13f_filings() -> dict:
                     forms = filings.get("form", [])
                     filing_dates = filings.get("filingDate", [])
 
-                    # Find most recent 13F-HR
                     for j, form in enumerate(forms):
                         if form == "13F-HR":
                             latest_filing = filing_dates[j] if j < len(filing_dates) else ""
                             break
 
-                    # Get entity name from SEC data
                     entity_name = data.get("name", name)
                     print(f"  ✓ {name} (CIK {cik}): latest 13F filed {latest_filing}")
                 except Exception as exc:
@@ -408,7 +373,6 @@ def scrape_13f_filings() -> dict:
 
             rate_limit()
 
-            # Build fund entry using mock data as base, override with real metadata
             mock = FUND_MOCK_DATA.get(name, {})
             top_holding = mock.get("holdings", [{}])[0].get("stock", "N/A") if mock.get("holdings") else "N/A"
 
@@ -426,17 +390,12 @@ def scrape_13f_filings() -> dict:
 
         except Exception as exc:
             print(f"  ✗ {name} failed: {exc}")
-            # Still add with mock data
             mock = FUND_MOCK_DATA.get(name, {})
             funds.append({
-                "name": name,
-                "cik": cik,
-                "aum": mock.get("aum", 0),
-                "latestFiling": "2025-11-14",
-                "holdingsCount": mock.get("holdingsCount", 0),
+                "name": name, "cik": cik, "aum": mock.get("aum", 0),
+                "latestFiling": "2025-11-14", "holdingsCount": mock.get("holdingsCount", 0),
                 "topHolding": mock.get("holdings", [{}])[0].get("stock", "N/A") if mock.get("holdings") else "N/A",
-                "holdings": mock.get("holdings", []),
-                "sectorAllocation": mock.get("sectorAllocation", []),
+                "holdings": mock.get("holdings", []), "sectorAllocation": mock.get("sectorAllocation", []),
             })
 
         rate_limit()
@@ -453,12 +412,12 @@ def scrape_ipo_calendar() -> dict:
     print("\n📊 Scraping IPO calendar …")
 
     upcoming = []
-    recent_priced = []
-    spacs = []
 
-    # Try SEC EDGAR ATOM feed for S-1 filings
     feed_url = "https://www.sec.gov/cgi-bin/browse-edgar?action=getcurrent&type=S-1&count=20&output=atom"
-    resp = safe_get(feed_url, headers={"Accept": "application/atom+xml"})
+    resp = safe_get(feed_url, headers={
+        "Accept": "application/atom+xml",
+        "User-Agent": SEC_USER_AGENT,
+    })
 
     if resp is not None:
         try:
@@ -470,7 +429,6 @@ def scrape_ipo_calendar() -> dict:
                         updated = entry.get("updated", "")
                         link = entry.get("link", "")
 
-                        # Parse company name from title
                         company_name = title
                         parts = title.split(" - ") if " - " in title else title.split(" for ")
                         if len(parts) >= 2:
@@ -497,17 +455,14 @@ def scrape_ipo_calendar() -> dict:
 
                     except Exception as exc:
                         print(f"  ✗ Entry failed: {exc}")
-
                     rate_limit()
         except Exception as exc:
             print(f"  ✗ S-1 ATOM feed parsing failed: {exc}")
 
-    # If we didn't get enough data, use mock
     if len(upcoming) < 9:
         print("  ⚠ Insufficient S-1 data, using mock data …")
         upcoming = _mock_upcoming_ipos()
 
-    # Recent priced IPOs (mock — these are known recent IPOs)
     recent_priced = [
         {"company": "Arm Holdings", "ticker": "ARM", "ipoPrice": 51, "currentPrice": 68, "firstDayReturn": 33.3},
         {"company": "Kenvue", "ticker": "KVUE", "ipoPrice": 22, "currentPrice": 24.5, "firstDayReturn": 11.4},
@@ -516,7 +471,6 @@ def scrape_ipo_calendar() -> dict:
         {"company": "Klaviyo", "ticker": "KVYO", "ipoPrice": 30, "currentPrice": 33.10, "firstDayReturn": 10.3},
     ]
 
-    # SPACs (mock)
     spacs = [
         {"name": "Horizon Acquisition Corp", "ticker": "HZNU", "status": "Searching", "target": "TBD", "trustValue": 200000000},
         {"name": "Polaris Impact Corp", "ticker": "PIACU", "status": "Searching", "target": "TBD", "trustValue": 150000000},
@@ -525,11 +479,7 @@ def scrape_ipo_calendar() -> dict:
         {"name": "Green Bridge Corp", "ticker": "GBRGU", "status": "Searching", "target": "Clean Energy", "trustValue": 250000000},
     ]
 
-    result = {
-        "upcoming": upcoming[:9],
-        "recentPriced": recent_priced,
-        "spacs": spacs,
-    }
+    result = {"upcoming": upcoming[:9], "recentPriced": recent_priced, "spacs": spacs}
     save_json("ipo_pipeline.json", result)
     return result
 
@@ -537,7 +487,6 @@ def scrape_ipo_calendar() -> dict:
 def _mock_upcoming_ipos() -> list[dict]:
     """Generate mock upcoming IPO data."""
     print("  📝 Generating mock IPO data …")
-
     ipos = [
         {"company": "Stripe", "expectedDate": "2026-05-15", "valuation": 65000000000, "underwriters": "GS/MS", "sector": "Fintech", "riskRating": "Medium"},
         {"company": "SpaceX (Starlink)", "expectedDate": "2026-06-20", "valuation": 175000000000, "underwriters": "MS/JPM", "sector": "Aerospace", "riskRating": "High"},
@@ -549,10 +498,8 @@ def _mock_upcoming_ipos() -> list[dict]:
         {"company": "Figma", "expectedDate": "2026-07-25", "valuation": 12500000000, "underwriters": "MS/GS", "sector": "SaaS/Design", "riskRating": "Low"},
         {"company": "Plaid", "expectedDate": "2026-08-20", "valuation": 13500000000, "underwriters": "GS/JPM", "sector": "Fintech", "riskRating": "Medium"},
     ]
-
     for ipo in ipos:
         print(f"  ✓ {ipo['company']}: ${ipo['valuation'] / 1e9:.0f}B valuation")
-
     return ipos
 
 

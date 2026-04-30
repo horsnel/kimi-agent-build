@@ -26,10 +26,6 @@ type ViewMode = 'contango' | 'backwardation';
 export default function VIXTermStructure() {
   const [viewMode, setViewMode] = useState<ViewMode>('contango');
 
-  const isContango = useMemo(() => {
-    return currentData[0] < currentData[currentData.length - 1];
-  }, []);
-
   const displayData = useMemo(() => {
     if (viewMode === 'contango') return termStructureData;
     // Backwardation view: invert the curve

@@ -75,7 +75,7 @@ export default function CommodityCorrelation() {
           {commodities.map((rowName, rowIdx) => (
             <div key={rowName} className="grid grid-cols-9 gap-0.5 mb-0.5 pl-20 relative">
               {/* Row label - absolute positioned */}
-              {commodities.map((colName, colIdx) => {
+              {commodities.map((_colName, colIdx) => {
                 const value = correlationMatrix[rowIdx][colIdx];
                 const color = getCellColor(value);
                 const opacity = getCellOpacity(value);

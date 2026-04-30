@@ -2,17 +2,17 @@
 Fear & Greed index scraper for Sigma Capital.
 
 Scrapes:
-  - CNN Fear & Greed Index
-  - Crypto Fear & Greed Index (Alternative.me)
+  - CNN Fear & Greed Index (HTML scraping with proxy rotation)
+  - Crypto Fear & Greed Index (Alternative.me API)
+
+All requests use proxy rotation via safe_get() and get_yf_ticker().
 """
 
 import re
 
-import yfinance as yf
-from bs4 import BeautifulSoup
-
 from config import (
     DATA_DIR,
+    get_yf_ticker,
     rate_limit,
     safe_float,
     safe_int,
@@ -25,7 +25,6 @@ from config import (
 # ── Helpers ───────────────────────────────────────────────────────────────────
 
 def _fear_greed_label(value: int) -> str:
-    """Convert a 0-100 Fear & Greed value to a label."""
     if value <= 25:
         return "Extreme Fear"
     elif value <= 45:
@@ -39,21 +38,20 @@ def _fear_greed_label(value: int) -> str:
 
 
 def _vix_to_fear_greed(vix_value: float) -> int:
-    """Estimate Fear & Greed from VIX value."""
     if vix_value > 30:
-        return 25  # Extreme Fear
+        return 25
     elif vix_value > 20:
-        return 45  # Fear
+        return 45
     elif vix_value > 15:
-        return 60  # Neutral/Greed
+        return 60
     else:
-        return 75  # Greed
+        return 75
 
 
 # ── CNN Fear & Greed ─────────────────────────────────────────────────────────
 
 def scrape_fear_greed() -> dict:
-    """Scrape CNN Fear & Greed Index."""
+    """Scrape CNN Fear & Greed Index with proxy rotation."""
     print("\n📊 Scraping CNN Fear & Greed Index …")
 
     current_value = None
@@ -63,17 +61,16 @@ def scrape_fear_greed() -> dict:
     one_year_ago_value = None
     source = "cnn"
 
-    # Try scraping CNN
+    # Try scraping CNN with proxy rotation
     try:
         url = "https://money.cnn.com/data/fear-and-greed/"
         resp = safe_get(url, headers={"Accept": "text/html"})
 
         if resp is not None:
+            from bs4 import BeautifulSoup
             soup = BeautifulSoup(resp.text, "html.parser")
             text = soup.get_text()
 
-            # Try various patterns CNN uses
-            # Pattern: "Fear & Greed Now: 64"
             patterns = [
                 (r"Fear\s*&\s*Greed\s*Now[:\s]+(\d+)", "current"),
                 (r"Previous\s*Close[:\s]+(\d+)", "prev_close"),
@@ -97,9 +94,7 @@ def scrape_fear_greed() -> dict:
                     elif key == "one_year":
                         one_year_ago_value = val
 
-            # Also try parsing from HTML elements
             if current_value is None:
-                # Look for gauge elements
                 gauge_divs = soup.find_all(["div", "span"], class_=re.compile(r"fearAndGreed", re.I))
                 for div in gauge_divs:
                     match = re.search(r"(\d{1,3})", div.get_text())
@@ -109,11 +104,8 @@ def scrape_fear_greed() -> dict:
                             current_value = val
                             break
 
-            # Try finding all numbers near "Fear" / "Greed" text
             if current_value is None:
-                # Broader search: look for any standalone number 0-100 in specific contexts
                 all_text = resp.text
-                # CNN sometimes embeds values in JavaScript or data attributes
                 js_matches = re.findall(r"FearAndGreedIndex[\'\"]?\s*[:=]\s*[\'\"]?(\d{1,3})", all_text)
                 if js_matches:
                     val = safe_int(js_matches[0])
@@ -128,13 +120,13 @@ def scrape_fear_greed() -> dict:
     except Exception as exc:
         print(f"  ✗ CNN scraping failed: {exc}")
 
-    # Fallback: estimate from VIX
+    # Fallback: estimate from VIX (with proxy)
     if current_value is None:
         print("  ⚠ CNN scraping failed, estimating from VIX …")
         source = "vix_estimate"
 
         try:
-            vix = yf.Ticker("^VIX")
+            vix = get_yf_ticker("^VIX")
             hist = vix.history(period="1mo")
             if not hist.empty:
                 current_vix = safe_float(hist["Close"].iloc[-1])
@@ -142,7 +134,6 @@ def scrape_fear_greed() -> dict:
                     current_value = _vix_to_fear_greed(current_vix)
                     print(f"  ✓ VIX-based Fear & Greed estimate: {current_value} (VIX={current_vix})")
 
-                # Generate time series from VIX history
                 if len(hist) >= 2:
                     prev_vix = safe_float(hist["Close"].iloc[-2])
                     if prev_vix:
@@ -170,7 +161,6 @@ def scrape_fear_greed() -> dict:
         one_month_ago_value = 45
         one_year_ago_value = 72
 
-    # Fill in missing historical values with slight variations
     if prev_close_value is None:
         prev_close_value = max(0, min(100, current_value - 3))
     if one_week_ago_value is None:
@@ -195,7 +185,7 @@ def scrape_fear_greed() -> dict:
 # ── Crypto Fear & Greed ──────────────────────────────────────────────────────
 
 def scrape_crypto_fear_greed() -> dict:
-    """Scrape Crypto Fear & Greed Index from Alternative.me."""
+    """Scrape Crypto Fear & Greed Index from Alternative.me with proxy."""
     print("\n📊 Scraping Crypto Fear & Greed Index …")
 
     current_value = None
@@ -213,12 +203,10 @@ def scrape_crypto_fear_greed() -> dict:
                 data_entries = data.get("data", [])
 
                 if data_entries:
-                    # Current value (most recent entry)
                     latest = data_entries[0]
                     current_value = safe_int(latest.get("value"))
                     current_classification = latest.get("value_classification", "")
 
-                    # Build history
                     for entry in data_entries:
                         timestamp = safe_int(entry.get("timestamp"))
                         value = safe_int(entry.get("value"))
@@ -242,14 +230,12 @@ def scrape_crypto_fear_greed() -> dict:
     except Exception as exc:
         print(f"  ✗ Alternative.me API failed: {exc}")
 
-    # Fallback: mock data
     if current_value is None:
         print("  ⚠ Alternative.me failed, using mock data …")
         source = "mock"
         current_value = 64
         current_classification = "Greed"
 
-        # Generate 30 days of mock history
         import random
         random.seed(42)
         base = 60
@@ -269,13 +255,10 @@ def scrape_crypto_fear_greed() -> dict:
             from datetime import datetime, timedelta
             ts = int((datetime.now() - timedelta(days=29 - i)).timestamp())
             history.append({
-                "timestamp": ts,
-                "value": day_value,
-                "classification": cls,
+                "timestamp": ts, "value": day_value, "classification": cls,
             })
             base = day_value
 
-    # Generate component breakdown (not available from API)
     components = _generate_crypto_components(current_value)
 
     result = {
@@ -290,15 +273,11 @@ def scrape_crypto_fear_greed() -> dict:
 
 def _generate_crypto_components(fng_value: int) -> dict:
     """Generate reasonable mock component breakdown for Crypto Fear & Greed."""
-    # The actual components are: volatility, market momentum, social media,
-    # surveys, bitcoin dominance, and google trends
-    # Generate values that roughly sum to the overall index
     import random
     random.seed(fng_value)
 
-    # Base each component around the overall value with some variance
     social_media = max(0, min(100, fng_value + random.randint(-15, 15)))
-    volatility = max(0, min(100, fng_value + random.randint(-20, 10)))  # Volatility tends to be lower when greedy
+    volatility = max(0, min(100, fng_value + random.randint(-20, 10)))
     market_momentum = max(0, min(100, fng_value + random.randint(-10, 15)))
     dominance = max(0, min(100, fng_value + random.randint(-12, 12)))
 

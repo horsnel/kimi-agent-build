@@ -1,6 +1,6 @@
 """
 Master orchestrator — runs all Sigma Capital scrapers.
-Tracks timing and creates a manifest of results.
+Initializes proxy manager and tracks timing/results.
 """
 
 import sys
@@ -11,7 +11,7 @@ from pathlib import Path
 # Ensure scraper directory is on path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
-from config import save_json, utc_now_iso
+from config import save_json, utc_now_iso, get_proxy_manager
 
 
 def run_scraper(name: str, module_name: str) -> dict:
@@ -32,6 +32,10 @@ def main():
     print("=" * 60)
     print("  SIGMA CAPITAL — RUN ALL SCRAPERS")
     print("=" * 60)
+
+    # Initialize proxy manager (shows proxy mode at startup)
+    pm = get_proxy_manager()
+    print(f"  Proxy mode: {'Paid service' if pm.is_paid_proxy else 'Free pool / direct'}")
 
     scrapers = [
         ("Stocks", "stocks"),
@@ -56,6 +60,7 @@ def main():
         "lastUpdated": utc_now_iso(),
         "scrapers": results,
         "status": "success" if all(r["status"] == "success" for r in results.values()) else "partial",
+        "proxyMode": "paid" if pm.is_paid_proxy else "free",
     }
     save_json("manifest.json", manifest)
 

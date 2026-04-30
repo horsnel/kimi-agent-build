@@ -4,21 +4,21 @@ Earnings data scraper for Sigma Capital.
 Scrapes:
   - Earnings calendar (8 major companies)
   - Earnings history (quarterly EPS data)
+
+Uses proxy-enabled yfinance sessions via get_yf_ticker().
 """
 
 import random
 
-import yfinance as yf
-
 from config import (
     DATA_DIR,
+    get_yf_ticker,
     rate_limit,
     safe_float,
     safe_int,
     safe_get,
     save_json,
     utc_now_iso,
-    USER_AGENT,
 )
 
 
@@ -30,19 +30,16 @@ EARNINGS_TICKERS = ["AAPL", "MSFT", "GOOGL", "AMZN", "META", "TSLA", "NVDA", "NF
 def _estimate_next_earnings(ticker_symbol: str) -> str:
     """Estimate next earnings date based on quarterly pattern when calendar is empty."""
     random.seed(hash(ticker_symbol) + 2026)
-    # Typical earnings months: Jan, Apr, Jul, Oct (offset varies by company)
     offset = random.randint(0, 3)
     months = [(1 + offset + i * 3) % 12 or 12 for i in range(4)]
-    # Find next quarter month from current date
-    now_month = 4  # April 2026 per system date
+    now_month = 4
     next_month = None
     for m in sorted(months):
         if m >= now_month:
             next_month = m
             break
     if next_month is None:
-        next_month = months[0]  # wrap to next year
-
+        next_month = months[0]
     day = random.randint(20, 29)
     year = 2026 if next_month >= now_month else 2027
     return f"{year}-{next_month:02d}-{day:02d}"
@@ -51,7 +48,7 @@ def _estimate_next_earnings(ticker_symbol: str) -> str:
 def _determine_sentiment(ticker_symbol: str) -> str:
     """Determine earnings sentiment based on recent stock performance."""
     try:
-        ticker = yf.Ticker(ticker_symbol)
+        ticker = get_yf_ticker(ticker_symbol)
         hist = ticker.history(period="1mo")
         if hist.empty or len(hist) < 2:
             return "Neutral"
@@ -75,11 +72,10 @@ def scrape_earnings_calendar() -> list[dict]:
 
     for ticker_symbol in EARNINGS_TICKERS:
         try:
-            ticker = yf.Ticker(ticker_symbol)
+            ticker = get_yf_ticker(ticker_symbol)
             info = ticker.info
             company = info.get("longName") or info.get("shortName") or ticker_symbol
 
-            # Try to get calendar data
             expected_date = None
             eps_estimate = None
             revenue_estimate = None
@@ -87,7 +83,6 @@ def scrape_earnings_calendar() -> list[dict]:
             try:
                 cal = ticker.calendar
                 if cal is not None and not cal.empty:
-                    # Calendar is a DataFrame with columns like 'Earnings Date', 'EPS Average', etc.
                     if isinstance(cal, dict):
                         expected_date = cal.get("Earnings Date", [None])[0] if cal.get("Earnings Date") else None
                         eps_list = cal.get("EPS Average", [])
@@ -95,7 +90,6 @@ def scrape_earnings_calendar() -> list[dict]:
                         eps_estimate = safe_float(eps_list[0]) if eps_list else None
                         revenue_estimate = safe_float(rev_list[0]) if rev_list else None
                     elif hasattr(cal, "columns"):
-                        # DataFrame format
                         for col in cal.columns:
                             col_lower = col.lower() if isinstance(col, str) else str(col).lower()
                             if "date" in col_lower:
@@ -107,24 +101,19 @@ def scrape_earnings_calendar() -> list[dict]:
             except Exception:
                 pass
 
-            # Estimate date if not found
             if expected_date is None:
                 expected_date = _estimate_next_earnings(ticker_symbol)
 
-            # Format date as string
             if hasattr(expected_date, "strftime"):
                 expected_date = expected_date.strftime("%Y-%m-%d")
             elif expected_date is not None:
                 expected_date = str(expected_date)
 
-            # Determine sentiment
             sentiment = _determine_sentiment(ticker_symbol)
 
-            # Historical beat rate (mock)
             random.seed(hash(ticker_symbol))
             beat_rate = round(0.75 + random.uniform(-0.1, 0.1), 2)
 
-            # EPS and revenue estimates — mock if not available
             if eps_estimate is None:
                 random.seed(hash(ticker_symbol) + 1)
                 eps_base = {"AAPL": 1.65, "MSFT": 2.80, "GOOGL": 1.90, "AMZN": 1.35,
@@ -138,12 +127,9 @@ def scrape_earnings_calendar() -> list[dict]:
                 revenue_estimate = round(rev_base.get(ticker_symbol, 50e9) * (1 + random.uniform(-0.05, 0.05)))
 
             results.append({
-                "ticker": ticker_symbol,
-                "company": company,
-                "expectedDate": expected_date,
-                "epsEstimate": eps_estimate,
-                "revenueEstimate": revenue_estimate,
-                "sentiment": sentiment,
+                "ticker": ticker_symbol, "company": company,
+                "expectedDate": expected_date, "epsEstimate": eps_estimate,
+                "revenueEstimate": revenue_estimate, "sentiment": sentiment,
                 "historicalBeatRate": beat_rate,
             })
             print(f"  ✓ {ticker_symbol} ({company}): {expected_date}")
@@ -172,11 +158,8 @@ def _mock_quarterly_earnings(ticker_symbol: str) -> list[dict]:
         whisper = round(estimate + random.uniform(-0.05, 0.15), 2)
         actual = round(estimate + random.uniform(-0.3, 0.5), 2)
         quarterly.append({
-            "quarter": q,
-            "epsActual": actual,
-            "epsEstimate": estimate,
-            "whisperNumber": whisper,
-            "beat": actual > estimate,
+            "quarter": q, "epsActual": actual, "epsEstimate": estimate,
+            "whisperNumber": whisper, "beat": actual > estimate,
         })
         base += random.uniform(0.05, 0.3)
     return quarterly
@@ -189,10 +172,9 @@ def scrape_earnings_history() -> list[dict]:
 
     for ticker_symbol in EARNINGS_TICKERS:
         try:
-            ticker = yf.Ticker(ticker_symbol)
+            ticker = get_yf_ticker(ticker_symbol)
             quarterly_earnings = []
 
-            # Try yfinance quarterly_earnings first
             has_real_data = False
             try:
                 qe = ticker.quarterly_earnings
@@ -204,16 +186,13 @@ def scrape_earnings_history() -> list[dict]:
                         estimate = safe_float(row.get("Estimate"))
                         whisper = round(estimate + random.uniform(-0.05, 0.15), 2) if estimate else None
                         quarterly_earnings.append({
-                            "quarter": str(idx),
-                            "epsActual": actual,
-                            "epsEstimate": estimate,
-                            "whisperNumber": whisper,
+                            "quarter": str(idx), "epsActual": actual,
+                            "epsEstimate": estimate, "whisperNumber": whisper,
                             "beat": actual is not None and estimate is not None and actual > estimate,
                         })
             except Exception:
                 pass
 
-            # Try earnings_history as fallback
             if not has_real_data:
                 try:
                     eh = ticker.earnings_history
@@ -225,16 +204,13 @@ def scrape_earnings_history() -> list[dict]:
                             estimate = safe_float(row.get("estimate"))
                             whisper = round(estimate + random.uniform(-0.05, 0.15), 2) if estimate else None
                             quarterly_earnings.append({
-                                "quarter": str(idx),
-                                "epsActual": actual,
-                                "epsEstimate": estimate,
-                                "whisperNumber": whisper,
+                                "quarter": str(idx), "epsActual": actual,
+                                "epsEstimate": estimate, "whisperNumber": whisper,
                                 "beat": actual is not None and estimate is not None and actual > estimate,
                             })
                 except Exception:
                     pass
 
-            # Fall back to mock data
             if not has_real_data:
                 quarterly_earnings = _mock_quarterly_earnings(ticker_symbol)
 

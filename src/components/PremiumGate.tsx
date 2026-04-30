@@ -6,7 +6,7 @@ interface PremiumGateProps {
   description: string;
 }
 
-const PremiumGate: React.FC<PremiumGateProps> = ({ featureName, description }) => {
+const PremiumGate: React.FC<PremiumGateProps> = ({ description }) => {
   const [isAnnual, setIsAnnual] = useState(false);
 
   const features = [

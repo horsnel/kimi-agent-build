@@ -2,6 +2,7 @@
 Intraday scraper — quick market-hours data only.
 Runs: market indices, crypto overview, fear & greed (fast sources only)
 Skips: SEC filings, earnings, economic calendar, commodity correlations
+Uses proxy rotation for all requests.
 """
 
 import sys
@@ -11,7 +12,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 
-from config import save_json, utc_now_iso
+from config import save_json, utc_now_iso, get_proxy_manager
 
 
 def run_scraper(name: str, fn) -> dict:
@@ -31,6 +32,10 @@ def main():
     print("  SIGMA CAPITAL — INTRADAY SCRAPER")
     print("=" * 60)
 
+    # Initialize proxy manager
+    pm = get_proxy_manager()
+    print(f"  Proxy mode: {'Paid service' if pm.is_paid_proxy else 'Free pool / direct'}")
+
     from stocks import scrape_market_indices
     from crypto import scrape_crypto_overview
     from fear_greed import scrape_fear_greed, scrape_crypto_fear_greed
@@ -47,6 +52,7 @@ def main():
         "scrapers": results,
         "status": "success" if all(r["status"] == "success" for r in results.values()) else "partial",
         "runType": "intraday",
+        "proxyMode": "paid" if pm.is_paid_proxy else "free",
     }
     save_json("manifest.json", manifest)
 

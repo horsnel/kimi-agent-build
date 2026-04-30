@@ -1,7 +1,7 @@
 import { useState, useEffect, useRef, useMemo } from 'react';
 import gsap from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
-import { AreaChart, Area, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer } from 'recharts';
+import { AreaChart, Area, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, ReferenceLine } from 'recharts';
 
 gsap.registerPlugin(ScrollTrigger);
 
@@ -18,7 +18,6 @@ export default function RetirementScore() {
   const sectionRef = useRef<HTMLDivElement>(null);
 
   const years = retirementAge - currentAge;
-  const monthlyRate = expectedReturn / 100 / 12;
   const rate = expectedReturn / 100;
 
   const calculations = useMemo(() => {

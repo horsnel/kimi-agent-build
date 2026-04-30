@@ -22,12 +22,6 @@ const currencies: CurrencyData[] = [
 
 type SortMode = 'strength' | 'change';
 
-function getBarColor(strength: number): string {
-  if (strength > 60) return '#10B981';
-  if (strength >= 40) return '#F59E0B';
-  return '#EF4444';
-}
-
 function getBarBgClass(strength: number): string {
   if (strength > 60) return 'bg-emerald';
   if (strength >= 40) return 'bg-amber-500';

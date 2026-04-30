@@ -31,25 +31,6 @@ const chartData = indicators.map((ind) => ({
   surprise: ind.surprise,
 }));
 
-// Custom label component for surprise percentage
-const SurpriseLabel = ({ x, y, width, value, beat }: { x: number; y: number; width: number; value: number; beat: boolean }) => {
-  if (typeof x === 'number' && typeof y === 'number') {
-    return (
-      <text
-        x={x + (typeof width === 'number' ? width / 2 : 0)}
-        y={y - 6}
-        fill={beat ? '#10B981' : '#EF4444'}
-        textAnchor="middle"
-        fontSize={9}
-        fontFamily="JetBrains Mono"
-      >
-        {beat ? '+' : ''}{value.toFixed(1)}%
-      </text>
-    );
-  }
-  return null;
-};
-
 const CITI_ESI = +28.5;
 
 export default function EconomicSurpriseIndex() {

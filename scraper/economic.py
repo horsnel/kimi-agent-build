@@ -2,20 +2,22 @@
 Economic data scraper for Sigma Capital.
 
 Scrapes:
-  - Yield curve (FRED treasury rates)
+  - Yield curve (FRED treasury rates — CSV endpoint, no API key needed)
   - Economic indicators (CPI, Unemployment, GDP, etc.)
   - Economic calendar (FOMC, CPI, NFP releases)
   - VIX term structure
+
+All requests use proxy rotation via safe_get() and get_yf_ticker().
+FRED CSV endpoints are public — no API key required.
 """
 
 import csv
 import io
 from datetime import datetime, timedelta
 
-import yfinance as yf
-
 from config import (
     DATA_DIR,
+    get_yf_ticker,
     rate_limit,
     safe_float,
     safe_int,
@@ -28,21 +30,14 @@ from config import (
 # ── Yield Curve ───────────────────────────────────────────────────────────────
 
 YIELD_SERIES = {
-    "3M": "DGS3MO",
-    "6M": "DGS6MO",
-    "1Y": "DGS1",
-    "2Y": "DGS2",
-    "3Y": "DGS3",
-    "5Y": "DGS5",
-    "7Y": "DGS7",
-    "10Y": "DGS10",
-    "20Y": "DGS20",
-    "30Y": "DGS30",
+    "3M": "DGS3MO", "6M": "DGS6MO", "1Y": "DGS1", "2Y": "DGS2",
+    "3Y": "DGS3", "5Y": "DGS5", "7Y": "DGS7", "10Y": "DGS10",
+    "20Y": "DGS20", "30Y": "DGS30",
 }
 
 
 def scrape_yield_curve() -> dict:
-    """Scrape US Treasury yield curve data from FRED."""
+    """Scrape US Treasury yield curve data from FRED (public CSV endpoints)."""
     print("\n📊 Scraping yield curve …")
 
     maturities = []
@@ -59,10 +54,8 @@ def scrape_yield_curve() -> dict:
 
             if resp is not None:
                 try:
-                    # Parse CSV — last non-missing row
                     lines = resp.text.strip().split("\n")
-                    # Walk backwards to find last valid value
-                    for line in reversed(lines[1:]):  # skip header
+                    for line in reversed(lines[1:]):
                         parts = line.strip().split(",")
                         if len(parts) >= 2 and parts[1].strip() not in ("", "."):
                             date_found = parts[0].strip()
@@ -85,14 +78,12 @@ def scrape_yield_curve() -> dict:
 
         rate_limit()
 
-    # If we couldn't get enough data, use mock yield curve
     if len(yields) < 5:
         print("  ⚠ Insufficient FRED data, using mock yield curve …")
         maturities = ["3M", "6M", "1Y", "2Y", "3Y", "5Y", "7Y", "10Y", "20Y", "30Y"]
         yields = [4.10, 4.20, 4.10, 4.00, 4.00, 4.10, 4.20, 4.30, 4.60, 4.50]
         latest_date = datetime.now().strftime("%Y-%m-%d")
 
-    # Determine if curve is inverted
     inverted = False
     for i in range(len(yields)):
         for j in range(i + 1, len(yields)):
@@ -102,7 +93,6 @@ def scrape_yield_curve() -> dict:
         if inverted:
             break
 
-    # Specifically check 10Y-2Y inversion (classic signal)
     if "2Y" in maturities and "10Y" in maturities:
         idx_2y = maturities.index("2Y")
         idx_10y = maturities.index("10Y")
@@ -132,7 +122,7 @@ INDICATOR_SERIES = {
 
 
 def scrape_economic_indicators() -> list[dict]:
-    """Scrape key economic indicators from FRED."""
+    """Scrape key economic indicators from FRED (public CSV endpoints)."""
     print("\n📊 Scraping economic indicators …")
     results = []
 
@@ -149,7 +139,6 @@ def scrape_economic_indicators() -> list[dict]:
             if resp is not None:
                 try:
                     lines = resp.text.strip().split("\n")
-                    # Collect last 2 valid rows
                     valid_rows = []
                     for line in reversed(lines[1:]):
                         parts = line.strip().split(",")
@@ -170,24 +159,19 @@ def scrape_economic_indicators() -> list[dict]:
             if current_val is not None:
                 change = None
                 if previous_val is not None:
-                    if info["unit"] == "%" or info["unit"] == "Index":
+                    if info["unit"] in ("%", "Index"):
                         change = round(current_val - previous_val, 2)
                     else:
                         change = round(((current_val - previous_val) / previous_val) * 100, 2) if previous_val else None
 
                 results.append({
-                    "name": info["name"],
-                    "seriesId": series_id,
-                    "value": current_val,
-                    "previousValue": previous_val,
-                    "change": change,
-                    "date": date_str,
-                    "unit": info["unit"],
+                    "name": info["name"], "seriesId": series_id,
+                    "value": current_val, "previousValue": previous_val,
+                    "change": change, "date": date_str, "unit": info["unit"],
                 })
                 print(f"  ✓ {label}: {current_val} (change: {change})")
             else:
                 print(f"  ⚠ {label}: no valid data, using mock")
-                # Generate mock
                 mock = _mock_indicator(label, info)
                 results.append(mock)
                 print(f"  ✓ {label}: {mock['value']} (mock)")
@@ -199,7 +183,6 @@ def scrape_economic_indicators() -> list[dict]:
 
         rate_limit()
 
-    # Ensure we have all 6 indicators
     if len(results) < 6:
         existing_labels = {r["name"] for r in results}
         for label, info in INDICATOR_SERIES.items():
@@ -222,19 +205,14 @@ def _mock_indicator(label: str, info: dict) -> dict:
     }
     val, prev, change = mock_values.get(label, (0, 0, 0))
     return {
-        "name": info["name"],
-        "seriesId": info["id"],
-        "value": val,
-        "previousValue": prev,
-        "change": change,
-        "date": datetime.now().strftime("%Y-%m-%d"),
-        "unit": info["unit"],
+        "name": info["name"], "seriesId": info["id"],
+        "value": val, "previousValue": prev, "change": change,
+        "date": datetime.now().strftime("%Y-%m-%d"), "unit": info["unit"],
     }
 
 
 # ── Economic Calendar ────────────────────────────────────────────────────────
 
-# Known 2026 FOMC meeting dates
 FOMC_DATES_2026 = [
     datetime(2026, 1, 28), datetime(2026, 1, 29),
     datetime(2026, 3, 18), datetime(2026, 3, 19),
@@ -246,7 +224,6 @@ FOMC_DATES_2026 = [
     datetime(2026, 12, 16), datetime(2026, 12, 17),
 ]
 
-# Approximate CPI release dates (mid-month)
 CPI_RELEASES_2026 = [
     datetime(2026, 1, 14), datetime(2026, 2, 13),
     datetime(2026, 3, 13), datetime(2026, 4, 14),
@@ -256,7 +233,6 @@ CPI_RELEASES_2026 = [
     datetime(2026, 11, 13), datetime(2026, 12, 12),
 ]
 
-# GDP release dates (late month)
 GDP_RELEASES_2026 = [
     datetime(2026, 1, 30), datetime(2026, 4, 29),
     datetime(2026, 7, 30), datetime(2026, 10, 29),
@@ -264,9 +240,8 @@ GDP_RELEASES_2026 = [
 
 
 def _first_friday_of_month(year: int, month: int) -> datetime:
-    """Get the first Friday of a given month."""
     d = datetime(year, month, 1)
-    while d.weekday() != 4:  # Friday = 4
+    while d.weekday() != 4:
         d += timedelta(days=1)
     return d
 
@@ -277,35 +252,23 @@ def scrape_economic_calendar() -> list[dict]:
 
     today = datetime.now()
     end_date = today + timedelta(days=30)
-
     events = []
 
-    # FOMC meetings
     for d in FOMC_DATES_2026:
         if today <= d <= end_date:
-            # Only add the first day of each meeting
-            if d.weekday() == 1:  # Tuesday (meetings are Tue-Wed)
+            if d.weekday() == 1:
                 events.append({
-                    "date": d.strftime("%Y-%m-%d"),
-                    "time": "14:00 ET",
-                    "event": "FOMC Meeting Begins",
-                    "country": "🇺🇸",
-                    "importance": "High",
-                    "forecast": "Rate Decision",
-                    "previous": "-",
+                    "date": d.strftime("%Y-%m-%d"), "time": "14:00 ET",
+                    "event": "FOMC Meeting Begins", "country": "US",
+                    "importance": "High", "forecast": "Rate Decision", "previous": "-",
                 })
-            elif d.weekday() == 2:  # Wednesday
+            elif d.weekday() == 2:
                 events.append({
-                    "date": d.strftime("%Y-%m-%d"),
-                    "time": "14:00 ET",
-                    "event": "FOMC Rate Decision",
-                    "country": "🇺🇸",
-                    "importance": "High",
-                    "forecast": "4.50%",
-                    "previous": "4.50%",
+                    "date": d.strftime("%Y-%m-%d"), "time": "14:00 ET",
+                    "event": "FOMC Rate Decision", "country": "US",
+                    "importance": "High", "forecast": "4.50%", "previous": "4.50%",
                 })
 
-    # NFP releases (first Friday of each month)
     for month_offset in range(-1, 3):
         month = today.month + month_offset
         year = today.year
@@ -315,99 +278,72 @@ def scrape_economic_calendar() -> list[dict]:
         while month < 1:
             month += 12
             year -= 1
-
         try:
             nfp_date = _first_friday_of_month(year, month)
             if today <= nfp_date <= end_date:
                 events.append({
-                    "date": nfp_date.strftime("%Y-%m-%d"),
-                    "time": "08:30 ET",
-                    "event": "Non-Farm Payrolls",
-                    "country": "🇺🇸",
-                    "importance": "High",
-                    "forecast": "180K",
-                    "previous": "175K",
+                    "date": nfp_date.strftime("%Y-%m-%d"), "time": "08:30 ET",
+                    "event": "Non-Farm Payrolls", "country": "US",
+                    "importance": "High", "forecast": "180K", "previous": "175K",
                 })
         except Exception:
             pass
 
-    # CPI releases
     for d in CPI_RELEASES_2026:
         if today <= d <= end_date:
             events.append({
-                "date": d.strftime("%Y-%m-%d"),
-                "time": "08:30 ET",
-                "event": "CPI (Consumer Price Index)",
-                "country": "🇺🇸",
-                "importance": "High",
-                "forecast": "+0.3% MoM",
-                "previous": "+0.4% MoM",
+                "date": d.strftime("%Y-%m-%d"), "time": "08:30 ET",
+                "event": "CPI (Consumer Price Index)", "country": "US",
+                "importance": "High", "forecast": "+0.3% MoM", "previous": "+0.4% MoM",
             })
 
-    # GDP releases
     for d in GDP_RELEASES_2026:
         if today <= d <= end_date:
             events.append({
-                "date": d.strftime("%Y-%m-%d"),
-                "time": "08:30 ET",
-                "event": "GDP (Advance Estimate)",
-                "country": "🇺🇸",
-                "importance": "High",
-                "forecast": "+2.1%",
-                "previous": "+2.4%",
+                "date": d.strftime("%Y-%m-%d"), "time": "08:30 ET",
+                "event": "GDP (Advance Estimate)", "country": "US",
+                "importance": "High", "forecast": "+2.1%", "previous": "+2.4%",
             })
 
-    # Additional recurring events for the next 30 days
     additional_events = [
-        ("08:30 ET", "Initial Jobless Claims", "🇺🇸", "Medium", "220K", "215K"),
-        ("08:30 ET", "Initial Jobless Claims", "🇺🇸", "Medium", "218K", "220K"),
-        ("10:00 ET", "ISM Manufacturing PMI", "🇺🇸", "High", "49.8", "49.2"),
-        ("10:00 ET", "ISM Services PMI", "🇺🇸", "Medium", "52.5", "51.4"),
-        ("08:30 ET", "Retail Sales", "🇺🇸", "Medium", "+0.4% MoM", "+0.6% MoM"),
-        ("08:30 ET", "PPI (Producer Price Index)", "🇺🇸", "Medium", "+0.2% MoM", "+0.3% MoM"),
-        ("07:00 ET", "ECB Rate Decision", "🇪🇺", "High", "2.50%", "2.65%"),
-        ("04:30 ET", "UK GDP (QoQ)", "🇬🇧", "Medium", "+0.3%", "+0.1%"),
-        ("19:00 ET", "Consumer Credit", "🇺🇸", "Low", "+$12.0B", "+$14.8B"),
-        ("10:00 ET", "Consumer Confidence", "🇺🇸", "Medium", "102.0", "100.9"),
+        ("08:30 ET", "Initial Jobless Claims", "US", "Medium", "220K", "215K"),
+        ("08:30 ET", "Initial Jobless Claims", "US", "Medium", "218K", "220K"),
+        ("10:00 ET", "ISM Manufacturing PMI", "US", "High", "49.8", "49.2"),
+        ("10:00 ET", "ISM Services PMI", "US", "Medium", "52.5", "51.4"),
+        ("08:30 ET", "Retail Sales", "US", "Medium", "+0.4% MoM", "+0.6% MoM"),
+        ("08:30 ET", "PPI (Producer Price Index)", "US", "Medium", "+0.2% MoM", "+0.3% MoM"),
+        ("07:00 ET", "ECB Rate Decision", "EU", "High", "2.50%", "2.65%"),
+        ("04:30 ET", "UK GDP (QoQ)", "UK", "Medium", "+0.3%", "+0.1%"),
+        ("19:00 ET", "Consumer Credit", "US", "Low", "+$12.0B", "+$14.8B"),
+        ("10:00 ET", "Consumer Confidence", "US", "Medium", "102.0", "100.9"),
     ]
 
-    # Distribute additional events across the next 30 days
-    for i, (time, event, country, importance, forecast, previous) in enumerate(additional_events):
+    for i, (time_val, event, country, importance, forecast, previous) in enumerate(additional_events):
         event_date = today + timedelta(days=(i * 3) + 1)
         if event_date <= end_date:
             events.append({
-                "date": event_date.strftime("%Y-%m-%d"),
-                "time": time,
-                "event": event,
-                "country": country,
-                "importance": importance,
-                "forecast": forecast,
-                "previous": previous,
+                "date": event_date.strftime("%Y-%m-%d"), "time": time_val,
+                "event": event, "country": country,
+                "importance": importance, "forecast": forecast, "previous": previous,
             })
 
-    # Sort by date
     events.sort(key=lambda e: e["date"])
 
-    # If we still don't have enough events, add more
     if len(events) < 15:
         extra = [
-            ("08:30 ET", "Durable Goods Orders", "🇺🇸", "Medium", "+0.5% MoM", "-0.2% MoM"),
-            ("10:00 ET", "Existing Home Sales", "🇺🇸", "Medium", "4.10M", "4.02M"),
-            ("10:00 ET", "New Home Sales", "🇺🇸", "Low", "680K", "665K"),
-            ("08:30 ET", "Trade Balance", "🇺🇸", "Low", "-$68.5B", "-$67.4B"),
-            ("10:00 ET", "Factory Orders", "🇺🇸", "Low", "+0.3% MoM", "+0.2% MoM"),
+            ("08:30 ET", "Durable Goods Orders", "US", "Medium", "+0.5% MoM", "-0.2% MoM"),
+            ("10:00 ET", "Existing Home Sales", "US", "Medium", "4.10M", "4.02M"),
+            ("10:00 ET", "New Home Sales", "US", "Low", "680K", "665K"),
+            ("08:30 ET", "Trade Balance", "US", "Low", "-$68.5B", "-$67.4B"),
+            ("10:00 ET", "Factory Orders", "US", "Low", "+0.3% MoM", "+0.2% MoM"),
         ]
-        for i, (time, event, country, importance, forecast, previous) in enumerate(extra):
+        for i, (time_val, event, country, importance, forecast, previous) in enumerate(extra):
             event_date = today + timedelta(days=(i * 4) + 2)
             if event_date <= end_date and len(events) < 20:
                 events.append({
-                    "date": event_date.strftime("%Y-%m-%d"),
-                    "time": time,
-                    "event": event,
-                    "country": country,
-                    "importance": importance,
-                    "forecast": forecast,
-                    "previous": previous,
+                    "date": event_date.strftime("%Y-%m-%d"), "time": time_val,
+                    "event": event, "country": country,
+                    "importance": importance, "forecast": forecast, "previous": previous,
                 })
         events.sort(key=lambda e: e["date"])
 
@@ -419,47 +355,38 @@ def scrape_economic_calendar() -> list[dict]:
 # ── VIX Term Structure ────────────────────────────────────────────────────────
 
 def scrape_vix_term_structure() -> dict:
-    """Scrape VIX term structure (spot + futures curve)."""
+    """Scrape VIX term structure (spot + futures curve) with proxy."""
     print("\n📊 Scraping VIX term structure …")
 
     spot_price = None
     current_curve = []
     previous_curve = []
 
-    # Try to get spot VIX from yfinance
     try:
-        vix = yf.Ticker("^VIX")
+        vix = get_yf_ticker("^VIX")
         hist = vix.history(period="5d")
         if not hist.empty:
             spot_price = safe_float(hist["Close"].iloc[-1])
-            prev_price = safe_float(hist["Close"].iloc[0]) if len(hist) > 1 else None
             print(f"  ✓ VIX spot: {spot_price}")
     except Exception as exc:
         print(f"  ✗ yfinance VIX failed: {exc}")
 
     rate_limit()
 
-    # Try VIX futures from yfinance
     futures_symbols = {
-        "M1": "VXc1",
-        "M2": "VXc2",
-        "M3": "VXc3",
-        "M4": "VXc4",
-        "M5": "VXc5",
-        "M6": "VXc6",
-        "M7": "VXc7",
+        "M1": "VXc1", "M2": "VXc2", "M3": "VXc3", "M4": "VXc4",
+        "M5": "VXc5", "M6": "VXc6", "M7": "VXc7",
     }
 
     for label, symbol in futures_symbols.items():
         try:
-            fut = yf.Ticker(symbol)
+            fut = get_yf_ticker(symbol)
             info = fut.info
             price = safe_float(info.get("regularMarketPrice") or info.get("currentPrice"))
             if price and price > 0:
                 current_curve.append({"month": label, "value": round(price, 2)})
                 print(f"  ✓ {label}: {price:.2f}")
             else:
-                # Try history
                 h = fut.history(period="5d")
                 if not h.empty:
                     price = safe_float(h["Close"].iloc[-1])
@@ -470,7 +397,6 @@ def scrape_vix_term_structure() -> dict:
             pass
         rate_limit()
 
-    # Try FRED WVIX as backup
     if spot_price is None:
         try:
             url = "https://fred.stlouisfed.org/graph/fredgraph.csv?id=WVIX"
@@ -486,32 +412,27 @@ def scrape_vix_term_structure() -> dict:
         except Exception as exc:
             print(f"  ✗ FRED WVIX failed: {exc}")
 
-    # If we still don't have enough data, create mock based on spot + typical contango
     if spot_price is None:
         print("  ⚠ All VIX sources failed, using mock data …")
         spot_price = 16.5
 
     if len(current_curve) < 4:
         print("  ⚠ Insufficient futures data, generating mock term structure …")
-        # Typical contango: each month adds ~0.5-1.0 points
         base = spot_price
         month_labels = ["M1", "M2", "M3", "M4", "M5", "M6", "M7"]
         current_curve = []
         for i, label in enumerate(month_labels):
-            # Contango slope decreasing with distance
             premium = 0.3 + i * 0.7 + (i * i * 0.05)
             value = round(base + premium, 2)
             current_curve.append({"month": label, "value": value})
             print(f"  ✓ {label}: {value:.2f} (mock)")
 
-    # Generate previous curve (slightly higher to show recent decline)
     prev_base = round(spot_price * 1.08, 2)
     previous_curve = []
     for entry in current_curve:
         prev_val = round(entry["value"] * 1.10, 2)
         previous_curve.append({"month": entry["month"], "value": prev_val})
 
-    # Determine status: Contango if M1 < M7, Backwardation if M1 > M7
     m1_val = current_curve[0]["value"] if current_curve else 0
     m7_val = current_curve[-1]["value"] if current_curve else 0
     status = "Contango" if m1_val < m7_val else "Backwardation"
