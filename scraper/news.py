@@ -2,12 +2,16 @@
 News scraper for Sigma Capital.
 
 Scrapes:
-  - Financial news from RSS feeds (Reuters, CNBC, MarketWatch, NPR)
+  - Financial news from RSS feeds (Google News/Reuters, CNBC, MarketWatch, Investing.com, NPR)
   - Newsletter generation from top articles
 
 Credit strategy:
-  - Reuters/CNBC/MarketWatch RSS: safe_get(use_proxy=True) — can block scrapers
-  - NPR JSON: safe_get(use_proxy=False) — free public feed
+  - Google News RSS (Reuters content): feedparser direct (FREE, no proxy needed)
+  - CNBC: safe_get(use_proxy=True) — can block scrapers
+  - MarketWatch: feedparser direct (FREE, follows redirects)
+  - Investing.com: feedparser direct (FREE, public RSS)
+  - NPR: feedparser direct (FREE, public RSS)
+  - Fallback to safe_get(use_proxy=True) only when feedparser fails
 """
 
 import re
@@ -29,10 +33,15 @@ from config import (
 # ── RSS Feed Sources ─────────────────────────────────────────────────────────
 
 RSS_FEEDS = [
-    {"url": "https://feeds.reuters.com/reuters/businessNews", "source": "Reuters Business", "type": "rss"},
-    {"url": "https://feeds.reuters.com/reuters/marketsNews", "source": "Reuters Markets", "type": "rss"},
-    {"url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10001147", "source": "CNBC", "type": "rss"},
-    {"url": "https://feeds.marketwatch.com/marketwatch/topstories/", "source": "MarketWatch", "type": "rss"},
+    # Reuters RSS deprecated (404) — use Google News RSS for Reuters content (FREE)
+    {"url": "https://news.google.com/rss/search?q=site:reuters.com+business&hl=en-US&gl=US&ceid=US:en", "source": "Reuters Business", "type": "rss", "use_proxy": False},
+    {"url": "https://news.google.com/rss/search?q=site:reuters.com+markets&hl=en-US&gl=US&ceid=US:en", "source": "Reuters Markets", "type": "rss", "use_proxy": False},
+    # CNBC — can block scrapers, use proxy as fallback
+    {"url": "https://search.cnbc.com/rs/search/combinedcms/view.xml?partnerId=wrss01&id=10001147", "source": "CNBC", "type": "rss", "use_proxy": True},
+    # MarketWatch — free public RSS, works with feedparser directly
+    {"url": "https://feeds.marketwatch.com/marketwatch/topstories/", "source": "MarketWatch", "type": "rss", "use_proxy": False},
+    # Investing.com — free public RSS
+    {"url": "https://www.investing.com/rss/news_301.rss", "source": "Investing.com", "type": "rss", "use_proxy": False},
 ]
 
 
@@ -90,15 +99,16 @@ def scrape_news() -> list[dict]:
         try:
             url = feed_info["url"]
             source_name = feed_info["source"]
+            use_proxy = feed_info.get("use_proxy", False)
 
             print(f"  📡 Fetching {source_name} …")
 
-            # Try feedparser directly first
+            # Try feedparser directly first (saves ScrapingAnt credits)
             feed = feedparser.parse(url)
 
             # If feedparser didn't get entries, try fetching via safe_get (with proxy)
             if not feed.entries:
-                resp = safe_get(url, headers={"Accept": "application/rss+xml, application/xml, text/xml"}, use_proxy=True, cache_category="news")  # RSS can block
+                resp = safe_get(url, headers={"Accept": "application/rss+xml, application/xml, text/xml"}, use_proxy=use_proxy, cache_category="news")
                 if resp is not None:
                     feed = feedparser.parse(resp.content)
 
@@ -149,40 +159,46 @@ def scrape_news() -> list[dict]:
 
         rate_limit()
 
-    # Try NPR JSON feed with proxy
+    # Try NPR Business RSS feed (JSON feed deprecated, use RSS)
     try:
-        npr_url = "https://feeds.npr.org/1006/feed.json"
-        resp = safe_get(npr_url, headers={"Accept": "application/json"}, use_proxy=False, cache_category="news")  # NPR is free public feed
-        if resp is not None:
-            try:
-                data = resp.json()
-                items = data.get("items", [])
-                for item in items[:8]:
-                    try:
-                        title = item.get("title", "").strip()
-                        link = item.get("url", item.get("id", ""))
-                        excerpt = item.get("content_text", item.get("summary", "")).strip()
-                        excerpt = excerpt[:300]
-                        pub_date = item.get("date_published", "")
+        npr_url = "https://feeds.npr.org/1006/feed.xml"
+        npr_feed = feedparser.parse(npr_url)
+        if not npr_feed.entries:
+            resp = safe_get(npr_url, headers={"Accept": "application/rss+xml, application/xml"}, use_proxy=False, cache_category="news")
+            if resp is not None:
+                npr_feed = feedparser.parse(resp.content)
 
-                        author = ""
-                        authors = item.get("authors", [])
-                        if authors and isinstance(authors, list):
-                            author = authors[0].get("name", "")
+        if npr_feed.entries:
+            for entry in npr_feed.entries[:8]:
+                try:
+                    title = entry.get("title", "").strip()
+                    link = entry.get("link", "")
+                    excerpt = entry.get("summary", entry.get("description", "")).strip()
+                    excerpt = re.sub(r"<[^>]+>", "", excerpt)
+                    excerpt = excerpt[:300]
+                    pub_date = ""
+                    if entry.get("published_parsed"):
+                        try:
+                            t = entry.published_parsed
+                            dt = datetime(*t[:6])
+                            pub_date = dt.strftime("%Y-%m-%dT%H:%M:%SZ")
+                        except Exception:
+                            pub_date = entry.get("published", "")
+                    author = entry.get("author", "")
 
-                        if title:
-                            article = {
-                                "title": title, "link": link, "excerpt": excerpt,
-                                "pubDate": pub_date, "source": "NPR Business",
-                                "category": _classify_article(title), "author": author,
-                            }
-                            all_articles.append(article)
-                    except Exception as exc:
-                        print(f"  ✗ NPR entry failed: {exc}")
+                    if title:
+                        article = {
+                            "title": title, "link": link, "excerpt": excerpt,
+                            "pubDate": pub_date, "source": "NPR Business",
+                            "category": _classify_article(title), "author": author,
+                        }
+                        all_articles.append(article)
+                except Exception as exc:
+                    print(f"  ✗ NPR entry failed: {exc}")
 
-                print(f"  ✓ NPR Business: got {min(len(items), 8)} articles")
-            except Exception as exc:
-                print(f"  ✗ NPR JSON parse failed: {exc}")
+            print(f"  ✓ NPR Business: got {min(len(npr_feed.entries), 8)} articles")
+        else:
+            print(f"  ⚠ NPR Business: no entries found")
     except Exception as exc:
         print(f"  ✗ NPR feed failed: {exc}")
 

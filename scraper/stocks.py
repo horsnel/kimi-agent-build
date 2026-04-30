@@ -6,19 +6,28 @@ Scrapes:
   - Stock screener (24 major stocks)
   - Stock detail pages (AAPL, MSFT, NVDA, TSLA)
 
-Uses proxy-enabled yfinance sessions for all requests.
+Credit strategy:
+  - Market indices: yfinance direct (FREE) → Google Finance via ScrapingAnt fallback
+  - Stock screener: yfinance direct (FREE)
+  - Stock detail: yfinance direct (FREE)
+  - All yfinance calls use caching to avoid 429 rate limits
 """
 
+import json
 import traceback
 
 from config import (
     DATA_DIR,
+    get_proxy_manager,
     get_yf_ticker,
     rate_limit,
     safe_float,
-    safe_int,
+    safe_get,
+    safe_get_rendered,
     save_json,
     utc_now_iso,
+    cache_get,
+    cache_put,
 )
 
 
@@ -31,13 +40,104 @@ INDICES = {
     "^VIX": "VIX",
 }
 
+# Alternative index data sources when yfinance is rate-limited
+INDEX_GOOGLE_URLS = {
+    "^GSPC": "https://www.google.com/finance/quote/.INX:INDEXSP",
+    "^IXIC": "https://www.google.com/finance/quote/.IXIC:INDEXNASDAQ",
+    "^DJI": "https://www.google.com/finance/quote/.DJI:INDEXDJX",
+    "^VIX": "https://www.google.com/finance/quote/VIX:INDEXCBOE",
+}
+
+
+def _scrape_index_from_google(ticker_symbol: str, name: str) -> dict | None:
+    """Scrape index data from Google Finance as fallback when yfinance is rate-limited.
+    Uses ScrapingAnt with JS rendering (1 credit per index)."""
+    url = INDEX_GOOGLE_URLS.get(ticker_symbol)
+    if not url:
+        return None
+
+    try:
+        import re
+        from bs4 import BeautifulSoup
+
+        resp = safe_get_rendered(url, cache_category="stocks")
+        if resp is None:
+            return None
+
+        soup = BeautifulSoup(resp.text, "html.parser")
+        text = soup.get_text()
+
+        # Google Finance shows price like "5,234.56" in the page
+        # Try multiple patterns
+        price = None
+        prev_close = None
+        change_pct = None
+
+        # Pattern 1: Look for the main price in the data-last-price attribute or element
+        price_div = soup.find("div", {"data-last-price": True})
+        if price_div:
+            price_str = price_div.get("data-last-price", "")
+            price = safe_float(price_str.replace(",", ""))
+
+        # Pattern 2: Look for price in the text
+        if price is None:
+            price_match = re.search(r'[\$]?\s*([\d,]+\.\d{2})', text[:500])
+            if price_match:
+                price = safe_float(price_match.group(1).replace(",", ""))
+
+        # Pattern 3: Look for change percentage
+        change_match = re.search(r'([+-]?\d+\.\d+)%', text[:1000])
+        if change_match:
+            change_pct = safe_float(change_match.group(1))
+
+        if price is not None:
+            result = {
+                "name": name,
+                "ticker": ticker_symbol,
+                "value": f"{price:,.2f}",
+                "change": f"{0:+.2f}",
+                "changePercent": change_pct if change_pct else 0,
+                "up": (change_pct or 0) >= 0,
+                "sparkline": [],
+            }
+            print(f"  ✓ {name}: {price:,.2f} (via Google Finance)")
+            return result
+
+    except Exception as exc:
+        print(f"  ✗ Google Finance fallback failed for {name}: {exc}")
+
+    return None
+
 
 def scrape_market_indices() -> list[dict]:
-    """Get S&P 500, NASDAQ, DOW, VIX current data with sparklines."""
+    """Get S&P 500, NASDAQ, DOW, VIX current data with sparklines.
+    
+    Strategy:
+      1. Check cache first (indices data cached for 60s)
+      2. Try yfinance direct (FREE)
+      3. If yfinance rate-limited (429), fallback to Google Finance via ScrapingAnt
+    """
     print("\n📊 Scraping market indices …")
     results = []
 
+    # Load previously saved indices as ultimate fallback
+    prev_indices = {}
+    indices_path = DATA_DIR / "indices.json"
+    if indices_path.exists():
+        try:
+            with open(indices_path, "r") as f:
+                prev_data = json.load(f)
+                if isinstance(prev_data, list):
+                    for item in prev_data:
+                        if isinstance(item, dict) and "ticker" in item:
+                            prev_indices[item["ticker"]] = item
+        except Exception:
+            pass
+
     for ticker_symbol, name in INDICES.items():
+        result = None
+
+        # Strategy 1: Try yfinance direct
         try:
             ticker = get_yf_ticker(ticker_symbol)
             info = ticker.info
@@ -45,35 +145,50 @@ def scrape_market_indices() -> list[dict]:
             current = safe_float(info.get("regularMarketPrice") or info.get("currentPrice"))
             prev_close = safe_float(info.get("previousClose") or info.get("regularMarketPreviousClose"))
 
-            if current is None or prev_close is None:
-                print(f"  ⚠ Skipping {name}: missing price data")
-                continue
+            if current is not None and prev_close is not None:
+                change_pct = round(((current - prev_close) / prev_close) * 100, 2) if prev_close else 0
+                change_abs = round(current - prev_close, 2)
 
-            change_pct = round(((current - prev_close) / prev_close) * 100, 2) if prev_close else 0
-            change_abs = round(current - prev_close, 2)
+                # Sparkline – 5 days of hourly data
+                sparkline = []
+                try:
+                    hist = ticker.history(period="5d", interval="1h")
+                    if not hist.empty:
+                        sparkline = [round(float(c), 2) for c in hist["Close"].tolist()[-8:]]
+                except Exception:
+                    pass
 
-            # Sparkline – 5 days of hourly data
-            sparkline = []
-            try:
-                hist = ticker.history(period="5d", interval="1h")
-                if not hist.empty:
-                    sparkline = [round(float(c), 2) for c in hist["Close"].tolist()[-8:]]
-            except Exception:
-                pass
-
-            results.append({
-                "name": name,
-                "ticker": ticker_symbol,
-                "value": f"{current:,.2f}",
-                "change": f"{change_abs:+.2f}",
-                "changePercent": change_pct,
-                "up": change_pct >= 0,
-                "sparkline": sparkline,
-            })
-            print(f"  ✓ {name}: {current:,.2f} ({change_pct:+.2f}%)")
+                result = {
+                    "name": name,
+                    "ticker": ticker_symbol,
+                    "value": f"{current:,.2f}",
+                    "change": f"{change_abs:+.2f}",
+                    "changePercent": change_pct,
+                    "up": change_pct >= 0,
+                    "sparkline": sparkline,
+                }
+                print(f"  ✓ {name}: {current:,.2f} ({change_pct:+.2f}%)")
 
         except Exception as exc:
-            print(f"  ✗ {name} failed: {exc}")
+            exc_str = str(exc)
+            if "429" in exc_str or "rate" in exc_str.lower():
+                print(f"  ⚠ {name}: yfinance rate-limited, trying Google Finance fallback …")
+            else:
+                print(f"  ✗ {name} yfinance failed: {exc}")
+
+        # Strategy 2: Google Finance via ScrapingAnt (if yfinance failed)
+        if result is None:
+            result = _scrape_index_from_google(ticker_symbol, name)
+
+        # Strategy 3: Use previous data as fallback (stale but better than empty)
+        if result is None and ticker_symbol in prev_indices:
+            prev = prev_indices[ticker_symbol]
+            prev["stale"] = True
+            result = prev
+            print(f"  ⚠ {name}: using previous data (may be stale)")
+
+        if result is not None:
+            results.append(result)
 
         rate_limit()
 

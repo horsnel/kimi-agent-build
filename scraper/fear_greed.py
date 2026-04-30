@@ -2,11 +2,13 @@
 Fear & Greed index scraper for Sigma Capital.
 
 Scrapes:
-  - CNN Fear & Greed Index (HTML scraping with proxy rotation)
+  - CNN Fear & Greed Index (JSON API + HTML scraping fallback)
   - Crypto Fear & Greed Index (Alternative.me API)
 
 Credit strategy:
-  - CNN: safe_get_rendered() -> ScrapingAnt with JS rendering (1 credit per request)
+  - CNN API: safe_get(use_proxy=True) via ScrapingAnt — 1 credit, NO JS rendering needed!
+    (discovered the hidden API: production.dataviz.cnn.io/index/fearandgreed/graphdata)
+  - CNN HTML: safe_get_rendered() fallback — more credits, JS rendering
   - Alternative.me: safe_get(use_proxy=False) -> direct, FREE public API
   - VIX fallback: get_yf_ticker() -> direct, no ScrapingAnt
 """
@@ -54,8 +56,21 @@ def _vix_to_fear_greed(vix_value: float) -> int:
 
 # ── CNN Fear & Greed ─────────────────────────────────────────────────────────
 
+# CNN Fear & Greed data API (discovered from page source: production.dataviz.cnn.io)
+# This JSON API provides the actual F&G values — no JS rendering needed!
+# Requires proxy (ScrapingAnt) because CNN blocks direct requests.
+CNN_FG_API_URL = "https://production.dataviz.cnn.io/index/fearandgreed/graphdata"
+
+
 def scrape_fear_greed() -> dict:
-    """Scrape CNN Fear & Greed Index (uses ScrapingAnt JS rendering - 1 credit)."""
+    """Scrape CNN Fear & Greed Index.
+    
+    Strategy:
+      1. CNN data API via ScrapingAnt (1 credit, no JS rendering) — FAST & RELIABLE
+      2. Fallback: scrape HTML page via ScrapingAnt with JS rendering (more credits)
+      3. Fallback: estimate from VIX via yfinance (FREE)
+      4. Final fallback: mock data
+    """
     print("\n📊 Scraping CNN Fear & Greed Index …")
 
     current_value = None
@@ -65,64 +80,90 @@ def scrape_fear_greed() -> dict:
     one_year_ago_value = None
     source = "cnn"
 
-    # Try scraping CNN with ScrapingAnt headless Chrome rendering
+    # Strategy 1: CNN data API via ScrapingAnt (best approach — 1 credit, no JS)
     try:
-        url = "https://money.cnn.com/data/fear-and-greed/"
-        resp = safe_get_rendered(url, cache_category="fear_greed")  # Uses ScrapingAnt API for JS rendering
+        resp = safe_get(CNN_FG_API_URL, headers={
+            "Accept": "application/json",
+            "Origin": "https://money.cnn.com",
+            "Referer": "https://money.cnn.com/",
+        }, use_proxy=True, cache_category="fear_greed")
 
         if resp is not None:
-            from bs4 import BeautifulSoup
-            soup = BeautifulSoup(resp.text, "html.parser")
-            text = soup.get_text()
+            try:
+                data = resp.json()
+                fg = data.get("fear_and_greed", {})
 
-            patterns = [
-                (r"Fear\s*&\s*Greed\s*Now[:\s]+(\d+)", "current"),
-                (r"Previous\s*Close[:\s]+(\d+)", "prev_close"),
-                (r"One\s*Week\s*Ago[:\s]+(\d+)", "one_week"),
-                (r"One\s*Month\s*Ago[:\s]+(\d+)", "one_month"),
-                (r"One\s*Year\s*Ago[:\s]+(\d+)", "one_year"),
-            ]
+                current_value = safe_int(round(fg.get("score", 0)))
+                prev_close_value = safe_int(round(fg.get("previous_close", 0)))
+                one_week_ago_value = safe_int(round(fg.get("previous_1_week", 0)))
+                one_month_ago_value = safe_int(round(fg.get("previous_1_month", 0)))
+                one_year_ago_value = safe_int(round(fg.get("previous_1_year", 0)))
 
-            for pattern, key in patterns:
-                match = re.search(pattern, text, re.IGNORECASE)
-                if match:
-                    val = safe_int(match.group(1))
-                    if key == "current":
-                        current_value = val
-                    elif key == "prev_close":
-                        prev_close_value = val
-                    elif key == "one_week":
-                        one_week_ago_value = val
-                    elif key == "one_month":
-                        one_month_ago_value = val
-                    elif key == "one_year":
-                        one_year_ago_value = val
+                if current_value is not None and 0 <= current_value <= 100:
+                    rating = fg.get("rating", "")
+                    print(f"  ✓ CNN Fear & Greed: {current_value} ({rating})")
+                else:
+                    current_value = None
+                    print("  ⚠ CNN API returned invalid value")
 
-            if current_value is None:
-                gauge_divs = soup.find_all(["div", "span"], class_=re.compile(r"fearAndGreed", re.I))
-                for div in gauge_divs:
-                    match = re.search(r"(\d{1,3})", div.get_text())
-                    if match:
-                        val = safe_int(match.group(1))
-                        if 0 <= val <= 100:
-                            current_value = val
-                            break
-
-            if current_value is None:
-                all_text = resp.text
-                js_matches = re.findall(r"FearAndGreedIndex[\'\"]?\s*[:=]\s*[\'\"]?(\d{1,3})", all_text)
-                if js_matches:
-                    val = safe_int(js_matches[0])
-                    if val and 0 <= val <= 100:
-                        current_value = val
-
-            if current_value is not None:
-                print(f"  ✓ CNN Fear & Greed: {current_value}")
-            else:
-                print("  ⚠ Could not parse CNN Fear & Greed value from page")
+            except Exception as exc:
+                print(f"  ✗ CNN API JSON parse failed: {exc}")
+                current_value = None
 
     except Exception as exc:
-        print(f"  ✗ CNN scraping failed: {exc}")
+        print(f"  ✗ CNN API failed: {exc}")
+
+    # Strategy 2: Scrape the HTML page with JS rendering (if API failed)
+    if current_value is None:
+        try:
+            url = "https://money.cnn.com/data/fear-and-greed/"
+            resp = safe_get_rendered(url, cache_category="fear_greed")
+
+            if resp is not None:
+                from bs4 import BeautifulSoup
+                soup = BeautifulSoup(resp.text, "html.parser")
+                text = soup.get_text()
+
+                patterns = [
+                    (r"Fear\s*&\s*Greed\s*Now[:\s]+(\d+)", "current"),
+                    (r"Previous\s*Close[:\s]+(\d+)", "prev_close"),
+                    (r"One\s*Week\s*Ago[:\s]+(\d+)", "one_week"),
+                    (r"One\s*Month\s*Ago[:\s]+(\d+)", "one_month"),
+                    (r"One\s*Year\s*Ago[:\s]+(\d+)", "one_year"),
+                ]
+
+                for pattern, key in patterns:
+                    match = re.search(pattern, text, re.IGNORECASE)
+                    if match:
+                        val = safe_int(match.group(1))
+                        if key == "current":
+                            current_value = val
+                        elif key == "prev_close":
+                            prev_close_value = val
+                        elif key == "one_week":
+                            one_week_ago_value = val
+                        elif key == "one_month":
+                            one_month_ago_value = val
+                        elif key == "one_year":
+                            one_year_ago_value = val
+
+                if current_value is None:
+                    gauge_divs = soup.find_all(["div", "span"], class_=re.compile(r"fearAndGreed", re.I))
+                    for div in gauge_divs:
+                        match = re.search(r"(\d{1,3})", div.get_text())
+                        if match:
+                            val = safe_int(match.group(1))
+                            if 0 <= val <= 100:
+                                current_value = val
+                                break
+
+                if current_value is not None:
+                    print(f"  ✓ CNN Fear & Greed (HTML): {current_value}")
+                else:
+                    print("  ⚠ Could not parse CNN Fear & Greed value from page")
+
+        except Exception as exc:
+            print(f"  ✗ CNN HTML scraping failed: {exc}")
 
     # Fallback: estimate from VIX (with proxy)
     if current_value is None:
