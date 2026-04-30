@@ -21,14 +21,20 @@ jobs:
         run: |
           python -c "
           import sys; sys.path.insert(0, 'scraper')
-          from config import save_json, DATA_DIR
+          from config import save_json, DATA_DIR, get_proxy_manager, safe_get_rendered
           from stocks import scrape_market_indices
           from crypto import scrape_crypto_overview
           from economic import scrape_yield_curve
           from fear_greed import scrape_crypto_fear_greed
           from news import scrape_news
+          pm = get_proxy_manager()
+          print(f'Proxy mode: ScrapingAnt={pm.has_scrapingant}, Paid={pm.is_paid_proxy}')
           print('✅ All imports successful')
           "
+        env:
+          PYTHONPATH: scraper
+          SCRAPINGANT_API_KEY_1: ${{ secrets.SCRAPINGANT_API_KEY_1 }}
+          SCRAPINGANT_API_KEY_2: ${{ secrets.SCRAPINGANT_API_KEY_2 }}
       - name: Test single scraper (quick)
         run: |
           python -c "
@@ -37,3 +43,7 @@ jobs:
           scrape_crypto_fear_greed()
           print('✅ Quick scraper test passed')
           "
+        env:
+          PYTHONPATH: scraper
+          SCRAPINGANT_API_KEY_1: ${{ secrets.SCRAPINGANT_API_KEY_1 }}
+          SCRAPINGANT_API_KEY_2: ${{ secrets.SCRAPINGANT_API_KEY_2 }}

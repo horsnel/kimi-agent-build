@@ -17,6 +17,7 @@ from config import (
     safe_float,
     safe_int,
     safe_get,
+    safe_get_rendered,
     save_json,
     utc_now_iso,
 )
@@ -61,10 +62,10 @@ def scrape_fear_greed() -> dict:
     one_year_ago_value = None
     source = "cnn"
 
-    # Try scraping CNN with proxy rotation
+    # Try scraping CNN with ScrapingAnt headless Chrome rendering
     try:
         url = "https://money.cnn.com/data/fear-and-greed/"
-        resp = safe_get(url, headers={"Accept": "text/html"})
+        resp = safe_get_rendered(url)  # Uses ScrapingAnt API for JS rendering
 
         if resp is not None:
             from bs4 import BeautifulSoup

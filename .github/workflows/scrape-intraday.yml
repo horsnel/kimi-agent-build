@@ -2,7 +2,7 @@ name: Scrape Intraday Data
 on:
   schedule:
     - cron: '*/15 13-21 * * 1-5'  # Every 15 min, 9AM-5PM ET (13:00-21:00 UTC)
-  workflow_dispatch:  # Allow manual trigger
+  workflow_dispatch:
 
 jobs:
   scrape:
@@ -20,6 +20,8 @@ jobs:
         run: python scraper/run_intraday.py
         env:
           PYTHONPATH: scraper
+          SCRAPINGANT_API_KEY_1: ${{ secrets.SCRAPINGANT_API_KEY_1 }}
+          SCRAPINGANT_API_KEY_2: ${{ secrets.SCRAPINGANT_API_KEY_2 }}
       - name: Commit data
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"

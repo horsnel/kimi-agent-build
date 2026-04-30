@@ -32,6 +32,8 @@ jobs:
           "
         env:
           PYTHONPATH: scraper
+          SCRAPINGANT_API_KEY_1: ${{ secrets.SCRAPINGANT_API_KEY_1 }}
+          SCRAPINGANT_API_KEY_2: ${{ secrets.SCRAPINGANT_API_KEY_2 }}
       - name: Commit data
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
