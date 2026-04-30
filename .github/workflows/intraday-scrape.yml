@@ -1,0 +1,70 @@
+name: Intraday Market Data Scrape
+
+on:
+  schedule:
+    # Every 30 minutes during US market hours (9:30 AM - 4:00 PM ET / 13:30 - 20:00 UTC)
+    - cron: '5,35 13-19 * * 1-5'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout main branch
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          pip install -r scraper/requirements.txt
+
+      - name: Run intraday scraper
+        env:
+          SCRAPINGANT_API_KEY_1: ${{ secrets.SCRAPINGANT_API_KEY_1 }}
+          SCRAPINGANT_API_KEY_2: ${{ secrets.SCRAPINGANT_API_KEY_2 }}
+        run: |
+          cd scraper
+          python run_intraday.py
+
+      - name: Commit & push data to data branch
+        run: |
+          git config user.name "Sigma Scraper Bot"
+          git config user.email "scraper@sigmacapital.io"
+
+          # Check if data branch exists on remote
+          if git ls-remote --heads origin data | grep -q data; then
+            git checkout data
+          else
+            git checkout --orphan data
+            git rm -rf . 2>/dev/null || true
+          fi
+
+          # Copy data from the scraper run
+          git checkout main -- public/data/
+
+          mkdir -p tmp_data
+          cp -r public/data/* tmp_data/ 2>/dev/null || true
+          rm -rf public
+          cp -r tmp_data/* . 2>/dev/null || true
+          rm -rf tmp_data
+
+          git add -A
+          if git diff --staged --quiet; then
+            echo "No data changes to commit"
+          else
+            git commit -m "data: intraday scrape $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            git push origin data --force
+          fi
