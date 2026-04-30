@@ -1,5 +1,107 @@
 # Worklog
 
+## Task 10a-scrapers-2 - Python Scraper Scripts Batch 2 (Agent: Code)
+
+### Summary
+Built 4 Python scraper scripts for the Sigma Capital financial data platform: sec.py, economic.py, fear_greed.py, and news.py. All scripts follow the exact patterns from config.py and stocks.py: `from config import ...`, try/except per item, `rate_limit()`, `save_json()`, and standard `main()` structure. Each scraper is robust with multiple fallback layers — if primary data sources fail, they gracefully degrade to alternative sources or mock data rather than crashing.
+
+### Files Created
+
+1. **`/home/z/my-project/kimi-agent-build/scraper/sec.py`**
+   - `scrape_insider_trading()`: Saves to `insider_trading.json`. Tries SEC EDGAR ATOM feed (Form 4) first via `safe_get()` + `feedparser.parse()`, parses title/updated/link from entries, extracts insider names and companies. If ATOM feed fails, tries SEC EDGAR full-text search API. If both fail, generates 14 realistic mock entries (Tim Cook, Satya Nadella, Jensen Huang, etc.) with proper purchase/sale mix. `_enrich_insider_data()` fills in missing fields (ticker, company name, title, shares, price, totalValue) from a known companies list.
+   - `scrape_13f_filings()`: Saves to `hedge_fund_13f.json`. For 6 funds (Citadel, Bridgewater, Pershing Square, Tiger Global, Renaissance, Two Sigma), fetches `data.sec.gov/submissions/CIK{cik}.json` with proper headers (User-Agent + Accept-Encoding gzip,deflate). Parses recent filings for 13F-HR entries. Combines real metadata (latest filing date) with detailed mock holdings data (5 top holdings per fund with stock, shares, value, percentPortfolio, change) and sector allocation. All fund data stored in `FUND_MOCK_DATA` dict for consistency.
+   - `scrape_ipo_calendar()`: Saves to `ipo_pipeline.json`. Tries SEC EDGAR ATOM feed for S-1 filings. Falls back to 9 mock upcoming IPOs (Stripe $65B, SpaceX $175B, Databricks $43B, Discord $15B, Canva $26B, Revolut $33B, Anduril $14B, Figma $12B, Plaid $14B). Includes 5 recently priced IPOs (ARM, KVUE, BIRK, CART, KVYO) and 5 SPACs with realistic data.
+   - `main()`: Runs all three functions with try/except
+
+2. **`/home/z/my-project/kimi-agent-build/scraper/economic.py`**
+   - `scrape_yield_curve()`: Saves to `yield_curve.json`. Fetches 10 FRED treasury rate series (DGS3MO through DGS30) as CSV, parses last valid row (skipping "." for missing data). Checks for curve inversion (any shorter maturity yield > longer). Falls back to mock curve [4.1, 4.2, 4.1, 4.0, 4.0, 4.1, 4.2, 4.3, 4.6, 4.5] if insufficient data.
+   - `scrape_economic_indicators()`: Saves to `economic_indicators.json`. Fetches 6 FRED series (CPIAUCSL, UNRATE, GDP, PAYEMS, FEDFUNDS, T10Y2Y) as CSV. Gets last 2 valid values for current/previous/change calculation. Falls back to mock values with proper units.
+   - `scrape_economic_calendar()`: Saves to `economic_calendar.json`. Generates events for next 30 days from known schedules: FOMC meetings (8 per year), CPI releases (mid-month), NFP releases (first Friday via `_first_friday_of_month()`), GDP releases (late quarter months). Adds 10+ recurring events (Jobless Claims, ISM PMI, Retail Sales, PPI, ECB, etc.) distributed across the period. 15-20 events total, sorted by date.
+   - `scrape_vix_term_structure()`: Saves to `vix_term_structure.json`. Gets spot VIX from yfinance (^VIX), tries VIX futures (VXc1-VXc7) via yfinance. Falls back to FRED WVIX. Last resort: generates mock contango curve based on spot price + typical premium structure (0.3 + i*0.7 + i²*0.05). Generates previous curve at 8-10% higher values. Determines Contango/Backwardation status.
+   - `main()`: Runs all four functions with try/except
+
+3. **`/home/z/my-project/kimi-agent-build/scraper/fear_greed.py`**
+   - `scrape_fear_greed()`: Saves to `fear_greed.json`. Scrapes CNN Fear & Greed page at `money.cnn.com/data/fear-and-greed/` using BeautifulSoup + multiple regex patterns (plain text, JavaScript variables, HTML elements). If CNN fails, estimates from VIX via yfinance: VIX>30→25, 20-30→45, 15-20→60, <15→75. Also generates historical values from VIX 1-month history. Tracks source field ("cnn", "vix_estimate", or "mock").
+   - `scrape_crypto_fear_greed()`: Saves to `crypto_fear_greed.json`. Fetches from `api.alternative.me/fng/?limit=30` (free, no key). Parses value, classification, and timestamp for up to 30 days of history. Generates mock component breakdown (socialMedia, volatility, marketMomentum, dominance) seeded from overall value. Falls back to 30-day mock history with seeded random.
+   - `_fear_greed_label()`: Converts 0-100 value to label (Extreme Fear ≤25, Fear ≤45, Neutral ≤55, Greed ≤75, Extreme Greed >75)
+   - `_vix_to_fear_greed()`: Maps VIX value to estimated Fear & Greed score
+   - `main()`: Runs both functions with try/except
+
+4. **`/home/z/my-project/kimi-agent-build/scraper/news.py`**
+   - `scrape_news()`: Saves to `news.json`. Parses 4 RSS feeds (Reuters Business, Reuters Markets, CNBC, MarketWatch) via `feedparser.parse()`, plus NPR JSON feed. Classifies articles by keyword matching: "earnings/revenue/profit/EPS" → Earnings, "Fed/interest rate/fomc/monetary" → Fed Policy, "bitcoin/crypto/ethereum" → Crypto, "GDP/jobs/inflation/CPI/unemployment" → Economic Data, else → Market Analysis. Deduplicates via Jaccard word-overlap similarity (>80% threshold). Falls back to 12 mock articles with realistic headlines. Returns top 20 articles sorted by date.
+   - `scrape_newsletter()`: Saves to `newsletter.json`. Takes top 12 articles from news.json (or re-scrapes if file missing). Adds category prefixes (Earnings Spotlight, Fed Watch, Crypto Corner, Data Check, Market Recap), assigns realistic author names from 12-person list, assigns sequential issue numbers starting at 140.
+   - `main()`: Runs both functions with try/except
+
+### Syntax & Import Verification
+- All 4 files pass `py_compile.compile()` syntax check
+- All 4 files import successfully: `from sec import ...`, `from economic import ...`, `from fear_greed import ...`, `from news import ...`
+- Helper functions tested: `_mock_insider_trading()` returns 14 entries, `_mock_upcoming_ipos()` returns 9 entries, `_fear_greed_label()`, `_vix_to_fear_greed()`, `_generate_crypto_components()`, `_classify_article()`, `_title_similarity()`, `_deduplicate()` all work correctly
+
+---
+
+## Task 10b-12 - Orchestrator Scripts & Frontend API Service (Agent: Code)
+
+### Summary
+Created the master orchestrator scripts for running all Sigma Capital scrapers and the comprehensive frontend API service layer with typed fetch functions and mock fallback data.
+
+### Files Created
+
+1. **`/home/z/my-project/kimi-agent-build/scraper/run_all.py`**
+   - Master orchestrator that runs all 8 scrapers: Stocks, Crypto, SEC Filings, Economic, Fear & Greed, News, Earnings, Commodities
+   - Tracks timing per scraper with `run_scraper()` helper that returns status dict (success/error, timestamp, duration)
+   - Saves manifest.json with lastUpdated, per-scraper results, and overall status (success/partial)
+   - Prints summary with ✅/❌ icons for each scraper result
+
+2. **`/home/z/my-project/kimi-agent-build/scraper/run_intraday.py`**
+   - Lightweight intraday scraper for market-hours data only (runs every 15 min)
+   - Runs: market indices, crypto overview, fear & greed, crypto fear & greed (fast sources)
+   - Skips: SEC filings, earnings, economic calendar, commodity correlations
+   - Imports specific functions from scraper modules (e.g., `from stocks import scrape_market_indices`)
+   - Saves manifest with `runType: "intraday"`
+
+3. **`/home/z/my-project/kimi-agent-build/scraper/run_daily.py`**
+   - Daily comprehensive data refresh scraper
+   - Runs: Stocks (full), SEC Filings, Earnings, Economic, Commodities, News
+   - Uses `__import__()` pattern like run_all.py to dynamically import scraper modules
+   - Saves manifest with `runType: "daily"`
+   - Prints full summary with ✅/❌ icons
+
+4. **`/home/z/my-project/kimi-agent-build/public/data/manifest.json`**
+   - Initial manifest with `lastUpdated: null`, empty scrapers, `status: "awaiting_first_scrape"`, `runType: null`
+
+5. **`/home/z/my-project/kimi-agent-build/src/services/api.ts`** (~780 lines)
+   - **17 TypeScript interfaces**: MarketIndex, StockScreenerResult, StockDetail, StockPricePoint, StockEarnings, CryptoAsset, CryptoOnChainData, YieldCurveData, EconomicEvent, FearGreedData, CryptoFearGreedData, NewsArticle, InsiderFiling, IpoData, EarningsCompany, CommodityData, CurrencyData, DataManifest, HedgeFundData
+   - **17 fetch functions** each with try/catch → mock fallback pattern:
+     - `fetchMarketIndices()` → 4 indices (S&P 500, NASDAQ, DOW, VIX) with sparklines
+     - `fetchStockScreener()` → 24 stocks with all fields
+     - `fetchStockDetail(ticker)` → AAPL, MSFT, NVDA, TSLA with price history, earnings, recommendations
+     - `fetchCryptoOverview()` → 12 crypto coins with sparklines
+     - `fetchCryptoOnChain()` → BTC on-chain data with flows, whale txns, indicators
+     - `fetchYieldCurve()` → 10 maturity yields
+     - `fetchEconomicCalendar()` → 18 events
+     - `fetchFearGreed()` → CNN Fear & Greed with current/week/month/year + 7 components
+     - `fetchCryptoFearGreed()` → Crypto F&G with 30-day history + 4 components
+     - `fetchNews()` → 16 articles from multiple sources/categories
+     - `fetchInsiderTrading()` → 14 filings
+     - `fetchIpoPipeline()` → 9 upcoming + 6 recent + 4 SPACs
+     - `fetchEarningsCalendar()` → 8 companies with full EPS history
+     - `fetchCommodities()` → 8 commodities + 8x8 correlation matrix
+     - `fetchCurrencies()` → 8 currencies with strength scores
+     - `fetchManifest()` → manifest with lastUpdated timestamp
+     - `fetchHedgeFundTracker()` → 6 funds with holdings + sector allocation
+   - **Comprehensive mock data** for all functions — site works fully standalone without any backend
+   - **useApi hook**: Generic React hook with data, loading, error state and refetch callback
+
+### Architecture Notes
+- All Python orchestrators use `sys.path.insert(0, ...)` to ensure scraper directory is importable
+- run_all.py and run_daily.py use `__import__()` for module-level orchestration
+- run_intraday.py imports specific functions for fine-grained control
+- api.ts fetch functions follow consistent pattern: fetch JSON → if error, log warning + return mock
+- Mock data matches exactly the data structures used by existing page components
+- The useApi hook provides a clean abstraction for components to consume API data with loading/error states
+
+---
+
 ## Task 6-rebuild - Premium Feature Pages Rebuild (Agent: Code)
 
 ### Summary
@@ -469,3 +571,41 @@ Created 5 complete GitHub Actions workflow files for the Sigma Capital financial
 - Data is committed back to the repo automatically by github-actions bot
 - Cloudflare Pages auto-deploys on push to main via deploy-preview.yml
 - CI gate: PRs touching scraper code must pass import + quick execution tests
+
+---
+
+## Task 10a-scrapers-1 - Python Scraper Scripts (Agent: Code)
+
+### Summary
+Built 3 Python scraper scripts for the Sigma Capital financial data platform, following existing patterns from config.py and stocks.py exactly. All scripts use `from config import ...`, proper error handling with try/except per item, `rate_limit()` between requests, `save_json()` for output, and the standard `main()` structure with try/except around each scrape function.
+
+### Files Created
+
+1. **`/home/z/my-project/kimi-agent-build/scraper/crypto.py`**
+   - `scrape_crypto_overview()`: Fetches top 12 coins from CoinGecko `/coins/markets` API (free, no key). Parses rank, symbol (uppercase), name, current_price, price_change_percentage_24h, market_cap, total_volume, and sparkline (last 8 points from `sparkline_in_7d.price`). Uses `safe_get()` then `resp.json()`. Saves to `crypto.json`.
+   - `scrape_crypto_onchain()`: Fetches BTC on-chain metrics:
+     - Price/marketCap/volume from CoinGecko `/coins/bitcoin` endpoint
+     - Active addresses from `blockchain.info/q/activeaddresses` (free, no key; null on failure)
+     - Exchange flows (7 days) from CoinGecko `/coins/bitcoin/market_chart` — extracts total_volumes
+     - On-chain indicators (NVT, MVRV, SOPR) using seeded random estimates: NVT=62±5, MVRV=1.8±0.3, SOPR=1.04±0.05
+     - Whale transactions: 5 mock entries with realistic BTC addresses, amounts, and values
+     - Active addresses history: 7 days of estimated data
+     - Saves to `crypto_onchain.json`
+   - `main()`: Runs both functions with try/except
+
+2. **`/home/z/my-project/kimi-agent-build/scraper/earnings.py`**
+   - `scrape_earnings_calendar()`: 8 companies (AAPL, MSFT, GOOGL, AMZN, META, TSLA, NVDA, NFLX). Uses `yf.Ticker(ticker).calendar` for earnings dates and estimates, `yf.Ticker(ticker).info` for company name. Falls back to quarterly pattern estimation if calendar is empty. Sentiment logic: up >5% in last month → Bullish, down >5% → Bearish, else Neutral. Historical beat rate: 0.75 ± 0.1 random. Saves to `earnings_calendar.json`.
+   - `scrape_earnings_history()`: For each of 8 companies, tries `.quarterly_earnings` then `.earnings_history`. Falls back to mock quarterly data (4 quarters) with EPS estimate + noise, actual = estimate ± small beat/miss, whisper number = estimate + random(-0.05, 0.15). Saves to `earnings_history.json`.
+   - `main()`: Runs both functions with try/except
+
+3. **`/home/z/my-project/kimi-agent-build/scraper/commodities.py`**
+   - `scrape_commodity_prices()`: 8 commodities via yfinance (Gold=GC=F, Silver=SI=F, Oil=CL=F, Nat Gas=NG=F, Copper=HG=F, Wheat=ZW=F, Corn=ZC=F, Soybeans=ZS=F). Gets current price, previous close, calculates change and change %. Saves to `commodities.json`.
+   - `scrape_commodity_correlation()`: Fetches 6-month daily close prices for all 8 commodities via yfinance history. Calculates pairwise Pearson correlation using pure Python implementation (no numpy). The `pearson_correlation()` function computes mean, covariance, standard deviations, and returns rounded correlation. Saves to `commodity_correlation.json` with commodities list and correlation matrix.
+   - `scrape_currency_strength()`: 7 FX pairs (EURUSD=X, GBPUSD=X, USDJPY=X, USDCHF=X, USDCAD=X, AUDUSD=X, NZDUSD=X). Gets 5-day performance, correctly handles USD-base vs XXX-base pairs for direction. Normalizes to 0-100 strength score (50=neutral, max expected 5-day move ~3%). USD strength calculated as inverse of basket average. Saves to `currency_strength.json`.
+   - `main()`: Runs all three functions with try/except
+
+### Patterns Followed
+- Import pattern: `from config import (DATA_DIR, rate_limit, safe_float, safe_int, safe_get, save_json, utc_now_iso, USER_AGENT)`
+- Function pattern: `def scrape_something() -> list[dict]:` with `print("\n📊 Scraping …")`, try/except per item, `rate_limit()` between requests, `save_json()` at end
+- Main pattern: Standard `main()` with `print("=" * 60)` header, try/except around each scrape function, `print("\n✅ Scraper complete.")`
+- All syntax validated via `python3 -c "import ast; ast.parse(...)"` — all 3 files pass
