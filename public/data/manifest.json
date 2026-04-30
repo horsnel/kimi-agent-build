@@ -1,1 +1,28 @@
-{"lastUpdated": null, "scrapers": {}, "status": "awaiting_first_scrape", "runType": null}
+{
+  "lastUpdated": "2026-04-30T19:36:56Z",
+  "scrapers": {
+    "indices": {
+      "status": "success",
+      "timestamp": "2026-04-30T19:36:45Z",
+      "duration": "66.0s"
+    },
+    "crypto": {
+      "status": "success",
+      "timestamp": "2026-04-30T19:36:53Z",
+      "duration": "8.5s"
+    },
+    "fear_greed": {
+      "status": "success",
+      "timestamp": "2026-04-30T19:36:56Z",
+      "duration": "2.8s"
+    },
+    "crypto_fear_greed": {
+      "status": "success",
+      "timestamp": "2026-04-30T19:36:56Z",
+      "duration": "0.1s"
+    }
+  },
+  "status": "success",
+  "runType": "intraday",
+  "proxyMode": "paid"
+}

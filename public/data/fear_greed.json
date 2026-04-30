@@ -1,0 +1,23 @@
+{
+  "current": {
+    "value": 66,
+    "label": "Greed"
+  },
+  "previousClose": {
+    "value": 64,
+    "label": "Greed"
+  },
+  "oneWeekAgo": {
+    "value": 67,
+    "label": "Greed"
+  },
+  "oneMonthAgo": {
+    "value": 14,
+    "label": "Extreme Fear"
+  },
+  "oneYearAgo": {
+    "value": 32,
+    "label": "Fear"
+  },
+  "source": "cnn"
+}
