@@ -1,0 +1,73 @@
+"""
+Master orchestrator — runs all Sigma Capital scrapers.
+Tracks timing and creates a manifest of results.
+"""
+
+import sys
+import time
+import traceback
+from pathlib import Path
+
+# Ensure scraper directory is on path
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+
+from config import save_json, utc_now_iso
+
+
+def run_scraper(name: str, module_name: str) -> dict:
+    """Import and run a scraper module's main(). Returns status dict."""
+    start = time.time()
+    try:
+        module = __import__(module_name)
+        module.main()
+        duration = round(time.time() - start, 1)
+        return {"status": "success", "timestamp": utc_now_iso(), "duration": f"{duration}s"}
+    except Exception as exc:
+        duration = round(time.time() - start, 1)
+        traceback.print_exc()
+        return {"status": "error", "timestamp": utc_now_iso(), "duration": f"{duration}s", "error": str(exc)}
+
+
+def main():
+    print("=" * 60)
+    print("  SIGMA CAPITAL — RUN ALL SCRAPERS")
+    print("=" * 60)
+
+    scrapers = [
+        ("Stocks", "stocks"),
+        ("Crypto", "crypto"),
+        ("SEC Filings", "sec"),
+        ("Economic", "economic"),
+        ("Fear & Greed", "fear_greed"),
+        ("News", "news"),
+        ("Earnings", "earnings"),
+        ("Commodities", "commodities"),
+    ]
+
+    results = {}
+    for display_name, module_name in scrapers:
+        print(f"\n{'─' * 40}")
+        print(f"  ▶ Running: {display_name}")
+        print(f"{'─' * 40}")
+        results[module_name] = run_scraper(display_name, module_name)
+
+    # Save manifest
+    manifest = {
+        "lastUpdated": utc_now_iso(),
+        "scrapers": results,
+        "status": "success" if all(r["status"] == "success" for r in results.values()) else "partial",
+    }
+    save_json("manifest.json", manifest)
+
+    # Summary
+    print(f"\n{'=' * 60}")
+    print("  SUMMARY")
+    print(f"{'=' * 60}")
+    for name, result in results.items():
+        icon = "✅" if result["status"] == "success" else "❌"
+        print(f"  {icon} {name}: {result['status']} ({result['duration']})")
+    print(f"\n  Manifest saved to public/data/manifest.json")
+
+
+if __name__ == "__main__":
+    main()

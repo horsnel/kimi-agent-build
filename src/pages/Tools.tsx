@@ -1,8 +1,9 @@
 import { useEffect, useRef } from 'react';
+import { Link } from 'react-router';
 import gsap from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
 import CompoundInterest from '../components/CompoundInterest';
-import { CalculatorIcon, ChartBarIcon, FilterIcon, ClockIcon, ArrowRightIcon } from '../components/CustomIcons';
+import { CalculatorIcon, ChartBarIcon, FilterIcon, ClockIcon, ArrowRightIcon, ShieldIcon } from '../components/CustomIcons';
 
 gsap.registerPlugin(ScrollTrigger);
 
@@ -11,25 +12,37 @@ const toolsList = [
     title: 'Compound Interest',
     description: 'Project wealth growth with adjustable capital and yield parameters.',
     icon: <CalculatorIcon size={24} />,
-    active: true,
-  },
-  {
-    title: 'Portfolio Backtester',
-    description: 'Test allocation strategies against 50+ years of historical market data.',
-    icon: <ChartBarIcon size={24} />,
-    active: false,
-  },
-  {
-    title: 'Asset Screener',
-    description: 'Filter 150+ assets by P/E ratio, volume, sector, and momentum signals.',
-    icon: <FilterIcon size={24} />,
-    active: false,
+    path: '/tools',
   },
   {
     title: 'Retirement Score',
     description: 'Personalized gap analysis with Monte Carlo simulation engine.',
     icon: <ClockIcon size={24} />,
-    active: false,
+    path: '/tools/retirement',
+  },
+  {
+    title: 'Mortgage Calculator',
+    description: 'Calculate monthly payments, total cost, and amortization schedules.',
+    icon: <ChartBarIcon size={24} />,
+    path: '/tools/mortgage',
+  },
+  {
+    title: 'Portfolio Backtester',
+    description: 'Test allocation strategies against 20+ years of historical market data.',
+    icon: <FilterIcon size={24} />,
+    path: '/tools/backtester',
+  },
+  {
+    title: 'Tax Loss Harvesting',
+    description: 'Identify harvestable losses and estimate tax savings across your portfolio.',
+    icon: <ShieldIcon size={24} />,
+    path: '/tools/tax-loss',
+  },
+  {
+    title: 'Options Calculator',
+    description: 'Estimate option premiums using Black-Scholes pricing model.',
+    icon: <CalculatorIcon size={24} />,
+    path: '/tools/options',
   },
 ];
 
@@ -72,28 +85,22 @@ export default function Tools() {
 
       {/* Tools Grid */}
       <section className="tools-section max-w-7xl mx-auto px-6 py-8">
-        <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-4 mb-16">
-          {toolsList.map((tool, idx) => (
-            <div
-              key={idx}
-              className={`bg-charcoal border rounded-xl p-6 transition-colors ${
-                tool.active ? 'border-emerald/50' : 'border-subtleborder hover:border-slategray'
-              }`}
+        <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-4 mb-16">
+          {toolsList.map((tool) => (
+            <Link
+              key={tool.path}
+              to={tool.path}
+              className="bg-charcoal border border-subtleborder rounded-xl p-6 hover:border-emerald/50 transition-colors group"
             >
-              <div className={`mb-4 ${tool.active ? 'text-emerald' : 'text-slategray'}`}>
+              <div className="mb-4 text-emerald">
                 {tool.icon}
               </div>
               <h3 className="text-sm font-medium text-offwhite mb-2">{tool.title}</h3>
               <p className="text-xs text-slategray leading-relaxed mb-4">{tool.description}</p>
-              <button
-                className={`text-xs font-mono flex items-center gap-1 transition-colors ${
-                  tool.active ? 'text-emerald' : 'text-slategray'
-                }`}
-              >
-                {tool.active ? 'Active' : 'Coming Soon'}
-                {tool.active && <ArrowRightIcon size={12} />}
-              </button>
-            </div>
+              <span className="text-xs font-mono flex items-center gap-1 text-emerald group-hover:gap-2 transition-all">
+                Active <ArrowRightIcon size={12} />
+              </span>
+            </Link>
           ))}
         </div>
       </section>
@@ -108,19 +115,6 @@ export default function Tools() {
           <p className="text-sm text-slategray">Visualize long-term wealth accumulation</p>
         </div>
         <CompoundInterest />
-      </section>
-
-      {/* More tools coming */}
-      <section className="tools-section max-w-7xl mx-auto px-6 py-16 mb-16">
-        <div className="bg-charcoal border border-subtleborder border-dashed rounded-xl p-12 text-center">
-          <div className="w-12 h-12 bg-deepblack border border-subtleborder rounded-full flex items-center justify-center mx-auto mb-4">
-            <ChartBarIcon size={20} className="text-slategray" />
-          </div>
-          <h3 className="text-lg font-medium text-offwhite mb-2">More Tools in Development</h3>
-          <p className="text-sm text-slategray max-w-md mx-auto">
-            Portfolio Backtester, Tax Loss Harvesting, and Options P/L Calculator are currently under development. Check back soon.
-          </p>
-        </div>
       </section>
     </div>
   );

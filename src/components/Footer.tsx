@@ -1,12 +1,59 @@
 import { Link } from 'react-router';
 import { SigmaIcon, GlobeIcon, BookOpenIcon, CalculatorIcon, ShieldIcon } from './CustomIcons';
 
-const footerLinks = {
-  Markets: ['Overview', 'Heatmap', 'Screener', 'Economic Calendar'],
-  Research: ['Reports', 'Archive', 'Analysis', 'Podcasts'],
-  Tools: ['Calculator', 'Backtester', 'Screener', 'API'],
-  Company: ['About', 'Careers', 'Contact', 'Terms'],
-};
+interface FooterLink {
+  label: string;
+  path: string;
+  pro?: boolean;
+}
+
+const footerSections: { title: string; links: FooterLink[] }[] = [
+  {
+    title: 'Markets',
+    links: [
+      { label: 'Overview', path: '/markets' },
+      { label: 'Stock Screener', path: '/screener' },
+      { label: 'Economic Calendar', path: '/calendar' },
+      { label: 'Stock Analysis', path: '/stocks/AAPL' },
+    ],
+  },
+  {
+    title: 'Tools',
+    links: [
+      { label: 'Compound Interest', path: '/tools' },
+      { label: 'Retirement Score', path: '/tools/retirement' },
+      { label: 'Mortgage Calculator', path: '/tools/mortgage' },
+      { label: 'Backtester', path: '/tools/backtester' },
+    ],
+  },
+  {
+    title: 'Research',
+    links: [
+      { label: 'Research Hub', path: '/research' },
+      { label: 'News', path: '/news' },
+      { label: 'Education', path: '/education' },
+      { label: 'Glossary', path: '/glossary' },
+    ],
+  },
+  {
+    title: 'Community',
+    links: [
+      { label: 'Dashboard', path: '/dashboard' },
+      { label: 'Newsletter', path: '/newsletter' },
+      { label: 'Podcast', path: '/podcast' },
+      { label: 'Contribute', path: '/contribute' },
+    ],
+  },
+  {
+    title: 'Premium',
+    links: [
+      { label: 'Sector Rotation', path: '/premium/sector-rotation', pro: true },
+      { label: 'Insider Trading', path: '/premium/insider-trading', pro: true },
+      { label: 'Earnings Preview', path: '/premium/earnings-preview', pro: true },
+      { label: 'DCF Valuation', path: '/premium/valuation', pro: true },
+    ],
+  },
+];
 
 export default function Footer() {
   return (
@@ -23,17 +70,25 @@ export default function Footer() {
             </p>
           </div>
 
-          {Object.entries(footerLinks).map(([category, links]) => (
-            <div key={category}>
+          {footerSections.map((section) => (
+            <div key={section.title}>
               <h4 className="text-xs font-mono font-medium text-slategray uppercase tracking-wider mb-4">
-                {category}
+                {section.title}
               </h4>
               <ul className="space-y-2">
-                {links.map((link) => (
-                  <li key={link}>
-                    <a href="#" className="text-sm text-slategray hover:text-offwhite transition-colors">
-                      {link}
-                    </a>
+                {section.links.map((link) => (
+                  <li key={link.path + link.label}>
+                    <Link
+                      to={link.path}
+                      className="text-sm text-slategray hover:text-offwhite transition-colors flex items-center gap-1"
+                    >
+                      {link.label}
+                      {link.pro && (
+                        <span className="ml-0.5 px-1 py-0.5 text-[8px] font-mono bg-emerald/20 text-emerald rounded">
+                          PRO
+                        </span>
+                      )}
+                    </Link>
                   </li>
                 ))}
               </ul>

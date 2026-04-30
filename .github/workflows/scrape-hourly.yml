@@ -1,0 +1,41 @@
+name: Scrape Hourly Data
+on:
+  schedule:
+    - cron: '0 * * * *'  # Every hour
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+          cache-dependency-path: scraper/requirements.txt
+      - name: Install dependencies
+        run: pip install -r scraper/requirements.txt
+      - name: Run hourly scrapers (crypto, news, fear&greed)
+        run: |
+          python -c "
+          import sys; sys.path.insert(0, 'scraper')
+          from crypto import main as crypto_main
+          from fear_greed import main as fg_main
+          from news import main as news_main
+          for fn, name in [(crypto_main, 'crypto'), (fg_main, 'fear_greed'), (news_main, 'news')]:
+              try:
+                  fn()
+                  print(f'✅ {name} done')
+              except Exception as e:
+                  print(f'❌ {name} failed: {e}')
+          "
+        env:
+          PYTHONPATH: scraper
+      - name: Commit data
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add public/data/
+          git diff --staged --quiet || git commit -m "⏰ hourly data update $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push

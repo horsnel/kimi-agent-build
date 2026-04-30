@@ -1,0 +1,39 @@
+name: Test Scrapers
+on:
+  pull_request:
+    paths:
+      - 'scraper/**'
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
+          cache-dependency-path: scraper/requirements.txt
+      - name: Install dependencies
+        run: pip install -r scraper/requirements.txt
+      - name: Test imports
+        run: |
+          python -c "
+          import sys; sys.path.insert(0, 'scraper')
+          from config import save_json, DATA_DIR
+          from stocks import scrape_market_indices
+          from crypto import scrape_crypto_overview
+          from economic import scrape_yield_curve
+          from fear_greed import scrape_crypto_fear_greed
+          from news import scrape_news
+          print('✅ All imports successful')
+          "
+      - name: Test single scraper (quick)
+        run: |
+          python -c "
+          import sys; sys.path.insert(0, 'scraper')
+          from fear_greed import scrape_crypto_fear_greed
+          scrape_crypto_fear_greed()
+          print('✅ Quick scraper test passed')
+          "
