@@ -1,0 +1,62 @@
+{
+  "id": "what-is-dollar-cost-averaging",
+  "type": "glossary",
+  "title": "What Is Dollar-Cost Averaging? Definition, Formula & Examples",
+  "slug": "what-is-dollar-cost-averaging",
+  "date": "2026-05-01",
+  "displayDate": "May 1, 2026",
+  "author": "Research Desk",
+  "category": "Education",
+  "tags": [
+    "dollar-cost averaging",
+    "financial terms",
+    "investing basics",
+    "dollar-cost averaging definition",
+    "stock market terminology"
+  ],
+  "metaDescription": "What is Dollar-Cost Averaging? Learn the definition, formula, and real-world examples of Dollar-Cost Averaging. Our comprehensive guide explains how Dollar-Cost Averaging works and why it matters for investors.",
+  "excerpt": "Dollar-cost averaging (DCA) is an investment strategy where you invest a fixed dollar amount at regular intervals regardless of the asset price. When prices are low, your fixed amount buys more shares...",
+  "content": {
+    "definition": "Dollar-cost averaging (DCA) is an investment strategy where you invest a fixed dollar amount at regular intervals regardless of the asset price. When prices are low, your fixed amount buys more shares; when prices are high, it buys fewer shares. Over time, this tends to lower your average cost per share compared to making a single lump-sum investment at an unfavorable price. DCA removes emotional decision-making and eliminates the impossible task of market timing.",
+    "formula": "Average Cost Per Share = Total Amount Invested / Total Shares Purchased",
+    "example": "You invest $500/month in an S&P 500 ETF. Month 1 at $100/share buys 5 shares. Month 2 at $80/share buys 6.25 shares. Month 3 at $90/share buys 5.56 shares. Total invested: $1,500 for 16.81 shares. Average cost: $89.24/share — lower than the simple average price of $90.",
+    "types": "Fixed-amount DCA (most common) invests the same dollar amount each period. Fixed-percentage DCA allocates a set percentage of income. Value-averaging DCA adjusts contributions to hit target portfolio values, buying more during downturns and less during rallies.",
+    "whyItMatters": "Understanding Dollar-Cost Averaging is essential for making informed investment decisions. Whether you are evaluating individual stocks, planning your portfolio allocation, or comparing investment options, Dollar-Cost Averaging provides a quantitative framework that removes guesswork and helps you assess value objectively. Professional investors, analysts, and financial advisors all rely on Dollar-Cost Averaging as a core metric in their decision-making process.",
+    "relatedTerms": [
+      {
+        "term": "P/E Ratio",
+        "slug": "what-is-p-e-ratio"
+      },
+      {
+        "term": "Market Cap",
+        "slug": "what-is-market-cap"
+      },
+      {
+        "term": "Dividend Yield",
+        "slug": "what-is-dividend-yield"
+      },
+      {
+        "term": "ETF",
+        "slug": "what-is-etf"
+      }
+    ],
+    "relatedTools": [
+      {
+        "name": "Stock Screener",
+        "path": "/screener"
+      },
+      {
+        "name": "Compound Interest Calculator",
+        "path": "/tools/compound"
+      }
+    ]
+  },
+  "readingTime": 6,
+  "updatedAt": "2026-05-01T18:53:32.269Z",
+  "image": {
+    "src": "/images/articles/what-is-dollar-cost-averaging.jpg",
+    "alt": "A close-up image of hands holding a one dollar bill, symbolizing finance and economy.",
+    "credit": "cottonbro studio / Pexels",
+    "creditUrl": "https://www.pexels.com/photo/one-dollar-bill-3943728/"
+  }
+}

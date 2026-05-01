@@ -1,0 +1,17 @@
+{
+  "name": "sigma-article-generator",
+  "version": "1.0.0",
+  "private": true,
+  "description": "SEO article generator for Sigma Capital — no AI, template + data driven",
+  "scripts": {
+    "generate": "node index.js",
+    "generate:all": "node index.js --type=all",
+    "generate:market": "node index.js --type=market-wrap",
+    "generate:sector": "node index.js --type=sector",
+    "generate:howto": "node index.js --type=how-to",
+    "generate:glossary": "node index.js --type=glossary",
+    "generate:listicle": "node index.js --type=listicle",
+    "generate:comparison": "node index.js --type=comparison"
+  },
+  "dependencies": {}
+}

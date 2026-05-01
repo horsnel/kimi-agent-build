@@ -1,0 +1,62 @@
+{
+  "id": "what-is-asset-allocation",
+  "type": "glossary",
+  "title": "What Is Asset Allocation? Definition, Formula & Examples",
+  "slug": "what-is-asset-allocation",
+  "date": "2026-05-01",
+  "displayDate": "May 1, 2026",
+  "author": "Research Desk",
+  "category": "Education",
+  "tags": [
+    "asset allocation",
+    "financial terms",
+    "investing basics",
+    "asset allocation definition",
+    "stock market terminology"
+  ],
+  "metaDescription": "What is Asset Allocation? Learn the definition, formula, and real-world examples of Asset Allocation. Our comprehensive guide explains how Asset Allocation works and why it matters for investors.",
+  "excerpt": "Asset allocation is the strategy of dividing your investment portfolio across different asset classes — primarily stocks, bonds, and cash equivalents — based on your financial goals, risk tolerance, a...",
+  "content": {
+    "definition": "Asset allocation is the strategy of dividing your investment portfolio across different asset classes — primarily stocks, bonds, and cash equivalents — based on your financial goals, risk tolerance, and time horizon. Research shows asset allocation, not individual stock selection, determines approximately 90% of portfolio returns over time. The right allocation balances growth potential with risk management, ensuring your portfolio aligns with your personal financial situation and objectives.",
+    "formula": "Stock Allocation ≈ 110 − Your Age (rule of thumb); adjust based on risk tolerance and goals",
+    "example": "A 35-year-old with moderate risk tolerance might allocate 75% stocks, 20% bonds, 5% cash. A 60-year-old nearing retirement might shift to 50% stocks, 40% bonds, 10% cash. Within stocks, diversify further: 60% U.S. large-cap, 15% U.S. small-cap, 25% international.",
+    "types": "Strategic allocation sets long-term targets and rebalances periodically. Tactical allocation temporarily shifts weights based on market conditions. Dynamic allocation adjusts continuously as risk/return profiles change. Core-satellite allocation uses low-cost index funds as the core with active bets as satellites.",
+    "whyItMatters": "Understanding Asset Allocation is essential for making informed investment decisions. Whether you are evaluating individual stocks, planning your portfolio allocation, or comparing investment options, Asset Allocation provides a quantitative framework that removes guesswork and helps you assess value objectively. Professional investors, analysts, and financial advisors all rely on Asset Allocation as a core metric in their decision-making process.",
+    "relatedTerms": [
+      {
+        "term": "P/E Ratio",
+        "slug": "what-is-p-e-ratio"
+      },
+      {
+        "term": "Market Cap",
+        "slug": "what-is-market-cap"
+      },
+      {
+        "term": "Dividend Yield",
+        "slug": "what-is-dividend-yield"
+      },
+      {
+        "term": "Dollar-Cost Averaging",
+        "slug": "what-is-dollar-cost-averaging"
+      }
+    ],
+    "relatedTools": [
+      {
+        "name": "Stock Screener",
+        "path": "/screener"
+      },
+      {
+        "name": "Compound Interest Calculator",
+        "path": "/tools/compound"
+      }
+    ]
+  },
+  "readingTime": 6,
+  "updatedAt": "2026-05-01T18:54:41.379Z",
+  "image": {
+    "src": "/images/articles/what-is-asset-allocation.jpg",
+    "alt": "Scrabble tiles spelling ETF on a wooden surface with blurred green background.",
+    "credit": "Markus Winkler / Pexels",
+    "creditUrl": "https://www.pexels.com/photo/scrabble-tiles-spelling-etf-on-wooden-table-30917896/"
+  }
+}
