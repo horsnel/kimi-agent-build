@@ -48,11 +48,10 @@
     -moz-osx-font-smoothing: grayscale;
   }
 
-  /* Prevent body scroll when mobile nav is open */
+  /* Prevent body scroll when mobile nav is open —
+     the sidebar overlay itself uses overflow-y-auto so it still scrolls */
   body.nav-open {
     overflow: hidden;
-    position: fixed;
-    width: 100%;
   }
 
   * {

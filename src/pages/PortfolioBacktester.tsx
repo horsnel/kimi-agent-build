@@ -233,19 +233,19 @@ export default function PortfolioBacktester() {
         <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
           <div className="bg-charcoal border border-emerald/30 rounded-xl p-5 text-center">
             <p className="text-xs font-mono text-slategray uppercase tracking-wider mb-2">Final Value</p>
-            <p className="text-lg sm:text-2xl font-mono text-emerald font-bold truncate">{formatLocalShort(results.finalValue)}</p>
+            <p className="text-lg sm:text-2xl font-display text-emerald font-bold truncate">{formatLocalShort(results.finalValue)}</p>
           </div>
           <div className="bg-charcoal border border-subtleborder rounded-xl p-5 text-center">
             <p className="text-xs font-mono text-slategray uppercase tracking-wider mb-2">CAGR</p>
-            <p className="text-lg sm:text-2xl font-mono text-offwhite font-bold">{results.cagr.toFixed(1)}%</p>
+            <p className="text-lg sm:text-2xl font-display text-offwhite font-bold">{results.cagr.toFixed(1)}%</p>
           </div>
           <div className="bg-charcoal border border-subtleborder rounded-xl p-5 text-center">
             <p className="text-xs font-mono text-slategray uppercase tracking-wider mb-2">Max Drawdown</p>
-            <p className="text-lg sm:text-2xl font-mono text-crimson font-bold">{results.maxDrawdown.toFixed(1)}%</p>
+            <p className="text-lg sm:text-2xl font-display text-crimson font-bold">{results.maxDrawdown.toFixed(1)}%</p>
           </div>
           <div className="bg-charcoal border border-subtleborder rounded-xl p-5 text-center">
             <p className="text-xs font-mono text-slategray uppercase tracking-wider mb-2">Sharpe Ratio</p>
-            <p className="text-lg sm:text-2xl font-mono text-offwhite font-bold">{results.sharpe.toFixed(2)}</p>
+            <p className="text-lg sm:text-2xl font-display text-offwhite font-bold">{results.sharpe.toFixed(2)}</p>
           </div>
         </div>
       </section>

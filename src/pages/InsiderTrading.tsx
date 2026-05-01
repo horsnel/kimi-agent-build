@@ -95,7 +95,7 @@ export default function InsiderTrading() {
         <section className="ins-section max-w-7xl mx-auto px-6 py-8">
           <div className="bg-charcoal border border-subtleborder rounded-xl overflow-hidden">
             <div className="p-6 border-b border-subtleborder">
-              <h2 className="text-xl font-display font-medium text-offwhite">Recent Form 4 Filings</h2>
+              <h2 className="text-xl font-display font-light text-offwhite">Recent Form 4 Filings</h2>
             </div>
             <div className="overflow-x-auto max-h-96">
               <table className="w-full">
@@ -136,7 +136,7 @@ export default function InsiderTrading() {
 
         {/* Notable Clusters */}
         <section className="ins-section max-w-7xl mx-auto px-6 py-8">
-          <h2 className="text-xl font-display font-medium text-offwhite mb-6">Notable Clusters</h2>
+          <h2 className="text-xl font-display font-light text-offwhite mb-6">Notable Clusters</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
             {clusters.map((c) => (
               <div key={c.title} className={`bg-charcoal border ${c.badge === 'emerald' ? 'border-emerald/30' : 'border-crimson/30'} rounded-xl p-6`}>
@@ -156,7 +156,7 @@ export default function InsiderTrading() {
         {/* Top Sellers Chart */}
         <section className="ins-section max-w-7xl mx-auto px-6 py-8">
           <div className="bg-charcoal border border-subtleborder rounded-xl p-6">
-            <h2 className="text-xl font-display font-medium text-offwhite mb-6">Top Insider Sellers</h2>
+            <h2 className="text-xl font-display font-light text-offwhite mb-6">Top Insider Sellers</h2>
             <div className="h-[300px]">
               <ResponsiveContainer width="100%" height="100%">
                 <BarChart data={topSellers} layout="vertical">

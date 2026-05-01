@@ -252,7 +252,7 @@ export default function DCFValuation() {
       {/* Sensitivity Analysis */}
       <section className="dcf-section max-w-7xl mx-auto px-6 py-8">
         <div className="bg-charcoal border border-subtleborder rounded-xl p-6">
-          <h2 className="text-xl font-display font-medium text-offwhite mb-6">Sensitivity Analysis — Intrinsic Value vs Discount Rate</h2>
+          <h2 className="text-xl font-display font-light text-offwhite mb-6">Sensitivity Analysis — Intrinsic Value vs Discount Rate</h2>
           <div className="h-[300px]">
             <ResponsiveContainer width="100%" height="100%">
               <AreaChart data={sensitivityData}>
@@ -277,7 +277,7 @@ export default function DCFValuation() {
       <section className="dcf-section max-w-7xl mx-auto px-6 py-8">
         <div className="bg-charcoal border border-subtleborder rounded-xl overflow-hidden">
           <div className="p-6 border-b border-subtleborder">
-            <h2 className="text-xl font-display font-medium text-offwhite">Assumptions Breakdown — {selectedStock}</h2>
+            <h2 className="text-xl font-display font-light text-offwhite">Assumptions Breakdown — {selectedStock}</h2>
           </div>
           <div className="overflow-x-auto max-h-96">
             <table className="w-full">

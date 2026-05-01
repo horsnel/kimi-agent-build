@@ -85,7 +85,7 @@ export default function IPOPipeline() {
       {/* IPO Calendar BarChart */}
       <section className="ipo-section max-w-7xl mx-auto px-6 py-8">
         <div className="bg-charcoal border border-subtleborder rounded-xl p-6">
-          <h2 className="text-xl font-display font-medium text-offwhite mb-6">IPO Calendar — Expected Offerings</h2>
+          <h2 className="text-xl font-display font-light text-offwhite mb-6">IPO Calendar — Expected Offerings</h2>
           <div className="h-[300px]">
             <ResponsiveContainer width="100%" height="100%">
               <BarChart data={ipoCalendar}>
@@ -104,7 +104,7 @@ export default function IPOPipeline() {
       <section className="ipo-section max-w-7xl mx-auto px-6 py-8">
         <div className="bg-charcoal border border-subtleborder rounded-xl overflow-hidden">
           <div className="p-6 border-b border-subtleborder">
-            <h2 className="text-xl font-display font-medium text-offwhite">Upcoming IPOs</h2>
+            <h2 className="text-xl font-display font-light text-offwhite">Upcoming IPOs</h2>
           </div>
           <div className="overflow-x-auto max-h-96">
             <table className="w-full">
@@ -139,7 +139,7 @@ export default function IPOPipeline() {
 
       {/* Recently Priced IPOs */}
       <section className="ipo-section max-w-7xl mx-auto px-6 py-8">
-        <h2 className="text-xl font-display font-medium text-offwhite mb-6">Recently Priced IPOs</h2>
+        <h2 className="text-xl font-display font-light text-offwhite mb-6">Recently Priced IPOs</h2>
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
           {recentIPOs.map((ipo) => (
             <div key={ipo.company} className="bg-charcoal border border-subtleborder rounded-xl p-5">
@@ -169,7 +169,7 @@ export default function IPOPipeline() {
       <section className="ipo-section max-w-7xl mx-auto px-6 py-8">
         <div className="bg-charcoal border border-subtleborder rounded-xl overflow-hidden">
           <div className="p-6 border-b border-subtleborder">
-            <h2 className="text-xl font-display font-medium text-offwhite">SPAC Tracker</h2>
+            <h2 className="text-xl font-display font-light text-offwhite">SPAC Tracker</h2>
           </div>
           <div className="overflow-x-auto">
             <table className="w-full">

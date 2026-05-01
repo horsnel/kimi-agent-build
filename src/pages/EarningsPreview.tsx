@@ -75,7 +75,7 @@ export default function EarningsPreview() {
 
       {/* Company Selector */}
       <section className="ep-section max-w-7xl mx-auto px-6 py-8">
-        <h2 className="text-lg font-display font-medium text-offwhite mb-4">Select Company</h2>
+        <h2 className="text-lg font-display font-light text-offwhite mb-4">Select Company</h2>
         <div className="grid grid-cols-2 sm:grid-cols-4 lg:grid-cols-8 gap-3">
           {tickers.map((ticker) => (
             <button
@@ -100,7 +100,7 @@ export default function EarningsPreview() {
           {/* EPS History Chart */}
           <section className="ep-section max-w-7xl mx-auto px-6 py-8">
             <div className="bg-charcoal border border-subtleborder rounded-xl p-6">
-              <h2 className="text-xl font-display font-medium text-offwhite mb-2">EPS History — {selected}</h2>
+              <h2 className="text-xl font-display font-light text-offwhite mb-2">EPS History — {selected}</h2>
               <p className="text-sm text-slategray mb-6">{data.name}</p>
               <div className="h-[320px]">
                 <ResponsiveContainer width="100%" height="100%">

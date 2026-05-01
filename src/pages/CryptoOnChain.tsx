@@ -91,7 +91,7 @@ export default function CryptoOnChain() {
       {/* Exchange Net Flows */}
       <section className="crypto-section max-w-7xl mx-auto px-6 py-8">
         <div className="bg-charcoal border border-subtleborder rounded-xl p-6">
-          <h2 className="text-xl font-display font-medium text-offwhite mb-2">Exchange Net Flows — 7 Days</h2>
+          <h2 className="text-xl font-display font-light text-offwhite mb-2">Exchange Net Flows — 7 Days</h2>
           <p className="text-xs text-slategray mb-6">Positive = inflow to exchanges (selling pressure) · Negative = outflow (accumulation)</p>
           <div className="h-[300px]">
             <ResponsiveContainer width="100%" height="100%">
@@ -115,7 +115,7 @@ export default function CryptoOnChain() {
       <section className="crypto-section max-w-7xl mx-auto px-6 py-8">
         <div className="bg-charcoal border border-subtleborder rounded-xl overflow-hidden">
           <div className="p-6 border-b border-subtleborder">
-            <h2 className="text-xl font-display font-medium text-offwhite">Whale Transactions</h2>
+            <h2 className="text-xl font-display font-light text-offwhite">Whale Transactions</h2>
           </div>
           <div className="overflow-x-auto">
             <table className="w-full">
@@ -151,7 +151,7 @@ export default function CryptoOnChain() {
       {/* Daily Active Addresses */}
       <section className="crypto-section max-w-7xl mx-auto px-6 py-8">
         <div className="bg-charcoal border border-subtleborder rounded-xl p-6">
-          <h2 className="text-xl font-display font-medium text-offwhite mb-6">Daily Active Addresses — 30 Days</h2>
+          <h2 className="text-xl font-display font-light text-offwhite mb-6">Daily Active Addresses — 30 Days</h2>
           <div className="h-[300px]">
             <ResponsiveContainer width="100%" height="100%">
               <LineChart data={activeAddressesData}>
@@ -168,7 +168,7 @@ export default function CryptoOnChain() {
 
       {/* On-Chain Indicators */}
       <section className="crypto-section max-w-7xl mx-auto px-6 py-8">
-        <h2 className="text-xl font-display font-medium text-offwhite mb-6">On-Chain Indicators</h2>
+        <h2 className="text-xl font-display font-light text-offwhite mb-6">On-Chain Indicators</h2>
         <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
           {onChainIndicators.map((ind) => (
             <div key={ind.name} className="bg-charcoal border border-subtleborder rounded-xl p-6">

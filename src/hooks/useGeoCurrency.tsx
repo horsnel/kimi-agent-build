@@ -97,6 +97,9 @@ interface GeoCurrencyState {
   formatChartTick: (usdAmount: number) => string;
   formatLarge: (usdAmount: number) => string;
   isUSD: boolean;
+  forceUSD: boolean;
+  toggleForceUSD: () => void;
+  detectedCurrency: typeof DEFAULT_CURRENCY | null;
 }
 
 const GeoCurrencyContext = createContext<GeoCurrencyState>({
@@ -111,6 +114,9 @@ const GeoCurrencyContext = createContext<GeoCurrencyState>({
   formatChartTick: (n) => `$${n.toLocaleString()}`,
   formatLarge: (n) => `$${n.toLocaleString()}`,
   isUSD: true,
+  forceUSD: false,
+  toggleForceUSD: () => {},
+  detectedCurrency: null,
 });
 
 export const useGeoCurrency = () => useContext(GeoCurrencyContext);
@@ -119,9 +125,13 @@ export const useGeoCurrency = () => useContext(GeoCurrencyContext);
 export function GeoCurrencyProvider({ children }: { children: React.ReactNode }) {
   const [countryCode, setCountryCode] = useState<string | null>(null);
   const [currency, setCurrency] = useState(DEFAULT_CURRENCY);
+  const [detectedCurrency, setDetectedCurrency] = useState<typeof DEFAULT_CURRENCY | null>(null);
   const [rates, setRates] = useState<Record<string, number>>({ USD: 1 });
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
+  const [forceUSD, setForceUSD] = useState(() => {
+    try { return localStorage.getItem('geo_force_usd') === 'true'; } catch { return false; }
+  });
 
   // Step 1: Detect country (silent, invisible, multiple fallbacks)
   useEffect(() => {
@@ -138,7 +148,8 @@ export function GeoCurrencyProvider({ children }: { children: React.ReactNode })
             setCountryCode(parsed.countryCode);
             const mapped = COUNTRY_CURRENCY[parsed.countryCode as keyof typeof COUNTRY_CURRENCY];
             if (mapped) {
-              setCurrency(mapped);
+              setCurrency(forceUSD ? DEFAULT_CURRENCY : mapped);
+              setDetectedCurrency(mapped);
               // Also restore cached rate
               if (parsed.rate && parsed.currencyCode) {
                 setRates({ USD: 1, [parsed.currencyCode]: parsed.rate });
@@ -180,7 +191,10 @@ export function GeoCurrencyProvider({ children }: { children: React.ReactNode })
           if (!cancelled && code) {
             setCountryCode(code);
             const mapped = COUNTRY_CURRENCY[code as keyof typeof COUNTRY_CURRENCY];
-            if (mapped) setCurrency(mapped);
+            if (mapped) {
+              setDetectedCurrency(mapped);
+              if (!forceUSD) setCurrency(mapped);
+            }
             return; // success, stop trying
           }
         } catch {
@@ -273,6 +287,23 @@ export function GeoCurrencyProvider({ children }: { children: React.ReactNode })
     fetchRates();
     return () => { cancelled = true; };
   }, [currency.code]);
+
+  // Sync: when forceUSD changes, swap currency between USD and detected
+  useEffect(() => {
+    if (forceUSD) {
+      setCurrency(DEFAULT_CURRENCY);
+    } else if (detectedCurrency) {
+      setCurrency(detectedCurrency);
+    }
+  }, [forceUSD, detectedCurrency]);
+
+  const toggleForceUSD = useCallback(() => {
+    setForceUSD((prev) => {
+      const next = !prev;
+      try { localStorage.setItem('geo_force_usd', String(next)); } catch { /* ignore */ }
+      return next;
+    });
+  }, []);
 
   // Convert USD amount to local currency
   const convert = useCallback(
@@ -389,6 +420,9 @@ export function GeoCurrencyProvider({ children }: { children: React.ReactNode })
         formatChartTick,
         formatLarge,
         isUSD,
+        forceUSD,
+        toggleForceUSD,
+        detectedCurrency,
       }}
     >
       {children}

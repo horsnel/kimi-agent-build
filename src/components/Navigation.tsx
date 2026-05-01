@@ -106,15 +106,16 @@ export default function Navigation() {
     setUserMenuOpen(false);
   }, [location.pathname]);
 
-  // Lock body scroll when mobile nav is open
+  // Lock body scroll when mobile nav is open (sidebar still scrolls internally)
   useEffect(() => {
     if (mobileOpen) {
-      document.body.classList.add('nav-open');
+      // Save scroll position, lock body overflow (not position:fixed which breaks scroll pos)
+      document.body.style.overflow = 'hidden';
     } else {
-      document.body.classList.remove('nav-open');
+      document.body.style.overflow = '';
     }
     return () => {
-      document.body.classList.remove('nav-open');
+      document.body.style.overflow = '';
     };
   }, [mobileOpen]);
 

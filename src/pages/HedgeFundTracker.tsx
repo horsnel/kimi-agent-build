@@ -295,7 +295,7 @@ export default function HedgeFundTracker() {
 
       {/* Fund Selector */}
       <section className="hf-section max-w-7xl mx-auto px-6 py-8">
-        <h2 className="text-lg font-display font-medium text-offwhite mb-4">Select Fund</h2>
+        <h2 className="text-lg font-display font-light text-offwhite mb-4">Select Fund</h2>
         <div className="grid grid-cols-2 lg:grid-cols-3 gap-4">
           {fundKeys.map((key) => {
             const f = funds[key];
@@ -327,7 +327,7 @@ export default function HedgeFundTracker() {
           <section className="hf-section max-w-7xl mx-auto px-6 py-8">
             <div className="bg-charcoal border border-subtleborder rounded-xl overflow-hidden">
               <div className="p-6 border-b border-subtleborder">
-                <h2 className="text-xl font-display font-medium text-offwhite">Top Holdings — {fund.name}</h2>
+                <h2 className="text-xl font-display font-light text-offwhite">Top Holdings — {fund.name}</h2>
               </div>
               <div className="overflow-x-auto max-h-96">
                 <table className="w-full">
@@ -361,7 +361,7 @@ export default function HedgeFundTracker() {
           {/* Sector Allocation PieChart */}
           <section className="hf-section max-w-7xl mx-auto px-6 py-8">
             <div className="bg-charcoal border border-subtleborder rounded-xl p-6">
-              <h2 className="text-xl font-display font-medium text-offwhite mb-6">Sector Allocation — {fund.name}</h2>
+              <h2 className="text-xl font-display font-light text-offwhite mb-6">Sector Allocation — {fund.name}</h2>
               <div className="h-[360px]">
                 <ResponsiveContainer width="100%" height="100%">
                   <PieChart>
@@ -388,7 +388,7 @@ export default function HedgeFundTracker() {
 
           {/* Notable Moves */}
           <section className="hf-section max-w-7xl mx-auto px-6 py-8">
-            <h2 className="text-xl font-display font-medium text-offwhite mb-6">Notable Moves</h2>
+            <h2 className="text-xl font-display font-light text-offwhite mb-6">Notable Moves</h2>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
               {fund.notableMoves.map((move) => (
                 <div key={move.title} className="bg-charcoal border border-subtleborder rounded-xl p-5">

@@ -33,7 +33,7 @@ export default function PortfolioOptimizer() {
         {/* Blurred Preview - Optimization Dashboard */}
         <section className="opt-section max-w-7xl mx-auto px-6 py-8">
           <div className="bg-charcoal border border-subtleborder rounded-xl p-6">
-            <h2 className="text-xl font-display font-medium text-offwhite mb-6">Optimization Dashboard Preview</h2>
+            <h2 className="text-xl font-display font-light text-offwhite mb-6">Optimization Dashboard Preview</h2>
             <div className="grid grid-cols-1 md:grid-cols-3 gap-4 mb-6">
               <div className="bg-deepblack border border-subtleborder rounded-xl p-5">
                 <p className="text-xs font-mono text-slategray uppercase tracking-wider mb-2">Current Sharpe Ratio</p>
@@ -71,7 +71,7 @@ export default function PortfolioOptimizer() {
 
         {/* Optimization Methods */}
         <section className="opt-section max-w-7xl mx-auto px-6 py-8">
-          <h2 className="text-xl font-display font-medium text-offwhite mb-6">Optimization Methods</h2>
+          <h2 className="text-xl font-display font-light text-offwhite mb-6">Optimization Methods</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
             <div className="bg-charcoal border border-subtleborder rounded-xl p-6">
               <p className="text-xs font-mono text-emerald uppercase tracking-wider mb-2">Monte Carlo Simulation</p>

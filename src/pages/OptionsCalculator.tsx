@@ -267,19 +267,19 @@ export default function OptionsCalculator() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
           <div className="bg-charcoal border border-subtleborder rounded-xl p-5 text-center">
             <p className="text-xs font-mono text-slategray uppercase tracking-wider mb-2">Break-Even Price</p>
-            <p className="text-2xl font-mono text-offwhite font-bold">{formatLocal(metrics.breakEven)}</p>
+            <p className="text-2xl font-display text-offwhite font-bold">{formatLocal(metrics.breakEven)}</p>
             <p className="text-xs font-mono text-slategray mt-1">stock must {optionType === 'call' ? 'rise above' : 'fall below'} this price</p>
           </div>
           <div className="bg-charcoal border border-emerald/30 rounded-xl p-5 text-center">
             <p className="text-xs font-mono text-slategray uppercase tracking-wider mb-2">Max Profit</p>
-            <p className="text-2xl font-mono text-emerald font-bold">{metrics.maxProfitValue === null ? 'Unlimited' : formatLocal(metrics.maxProfitValue)}</p>
+            <p className="text-2xl font-display text-emerald font-bold">{metrics.maxProfitValue === null ? 'Unlimited' : formatLocal(metrics.maxProfitValue)}</p>
             <p className="text-xs font-mono text-slategray mt-1">
               {direction === 'buy' && optionType === 'call' ? 'theoretically unlimited' : direction === 'buy' ? `strike - premium = ${formatLocal(strikePrice - premium)}` : 'premium collected'}
             </p>
           </div>
           <div className="bg-charcoal border border-crimson/30 rounded-xl p-5 text-center">
             <p className="text-xs font-mono text-slategray uppercase tracking-wider mb-2">Max Loss</p>
-            <p className="text-2xl font-mono text-crimson font-bold">{metrics.maxLossValue === null ? 'Unlimited' : formatLocal(metrics.maxLossValue)}</p>
+            <p className="text-2xl font-display text-crimson font-bold">{metrics.maxLossValue === null ? 'Unlimited' : formatLocal(metrics.maxLossValue)}</p>
             <p className="text-xs font-mono text-slategray mt-1">
               {direction === 'buy' ? 'premium paid' : direction === 'sell' && optionType === 'call' ? 'theoretically unlimited' : `strike - premium = ${formatLocal(strikePrice - premium)}`}
             </p>

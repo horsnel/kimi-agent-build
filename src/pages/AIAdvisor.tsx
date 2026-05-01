@@ -33,7 +33,7 @@ export default function AIAdvisor() {
         {/* Blurred Preview - Chat Interface */}
         <section className="ai-section max-w-7xl mx-auto px-6 py-8">
           <div className="bg-charcoal border border-subtleborder rounded-xl p-6">
-            <h2 className="text-xl font-display font-medium text-offwhite mb-6">AI Advisor Chat Preview</h2>
+            <h2 className="text-xl font-display font-light text-offwhite mb-6">AI Advisor Chat Preview</h2>
             <div className="space-y-4">
               <div className="flex gap-3">
                 <div className="w-8 h-8 rounded-full bg-emerald/20 flex items-center justify-center shrink-0">
@@ -65,7 +65,7 @@ export default function AIAdvisor() {
 
         {/* Features Preview */}
         <section className="ai-section max-w-7xl mx-auto px-6 py-8">
-          <h2 className="text-xl font-display font-medium text-offwhite mb-6">Key Features</h2>
+          <h2 className="text-xl font-display font-light text-offwhite mb-6">Key Features</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
             <div className="bg-charcoal border border-subtleborder rounded-xl p-6">
               <p className="text-xs font-mono text-emerald uppercase tracking-wider mb-2">Portfolio Analysis</p>

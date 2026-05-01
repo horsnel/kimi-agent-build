@@ -79,7 +79,7 @@ export default function FedDecoder() {
       {/* FOMC Statement Summary */}
       <section className="fed-section max-w-7xl mx-auto px-6 py-8">
         <div className="bg-charcoal border border-subtleborder rounded-xl p-6">
-          <h2 className="text-xl font-display font-medium text-offwhite mb-4">FOMC Statement Summary</h2>
+          <h2 className="text-xl font-display font-light text-offwhite mb-4">FOMC Statement Summary</h2>
           <p className="text-sm text-offwhite/80 leading-relaxed mb-4">
             The Federal Open Market Committee decided to maintain the target range for the federal funds rate at 4.25-4.50 percent. The Committee judges that the risks to achieving its employment and inflation goals are roughly in balance. Economic activity has continued to expand at a solid pace, while inflation remains somewhat elevated but has shown signs of moderating toward the 2 percent target.
           </p>
@@ -91,7 +91,7 @@ export default function FedDecoder() {
 
       {/* What Changed */}
       <section className="fed-section max-w-7xl mx-auto px-6 py-8">
-        <h2 className="text-xl font-display font-medium text-offwhite mb-6">What Changed</h2>
+        <h2 className="text-xl font-display font-light text-offwhite mb-6">What Changed</h2>
         <div className="space-y-3">
           {whatChanged.map((item, idx) => (
             <div key={idx} className="bg-charcoal border border-subtleborder rounded-xl p-4 flex items-start gap-3">
@@ -107,7 +107,7 @@ export default function FedDecoder() {
       {/* Dot Plot ScatterChart */}
       <section className="fed-section max-w-7xl mx-auto px-6 py-8">
         <div className="bg-charcoal border border-subtleborder rounded-xl p-6">
-          <h2 className="text-xl font-display font-medium text-offwhite mb-6">FOMC Dot Plot — Rate Projections</h2>
+          <h2 className="text-xl font-display font-light text-offwhite mb-6">FOMC Dot Plot — Rate Projections</h2>
           <div className="h-[380px]">
             <ResponsiveContainer width="100%" height="100%">
               <ScatterChart>
@@ -142,7 +142,7 @@ export default function FedDecoder() {
 
       {/* Rate Decision Timeline */}
       <section className="fed-section max-w-7xl mx-auto px-6 py-8">
-        <h2 className="text-xl font-display font-medium text-offwhite mb-6">Rate Decision Timeline</h2>
+        <h2 className="text-xl font-display font-light text-offwhite mb-6">Rate Decision Timeline</h2>
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
           {meetings.map((m) => (
             <div key={m.date} className="bg-charcoal border border-subtleborder rounded-xl p-5">
@@ -161,7 +161,7 @@ export default function FedDecoder() {
       {/* Market Expectations */}
       <section className="fed-section max-w-7xl mx-auto px-6 py-8">
         <div className="bg-charcoal border border-subtleborder rounded-xl p-6">
-          <h2 className="text-xl font-display font-medium text-offwhite mb-6">Market Expectations — Next Meeting</h2>
+          <h2 className="text-xl font-display font-light text-offwhite mb-6">Market Expectations — Next Meeting</h2>
           <div className="space-y-4">
             {expectations.map((e) => (
               <div key={e.label} className="flex items-center gap-4">

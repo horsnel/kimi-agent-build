@@ -33,7 +33,7 @@ export default function RealTimeAlerts() {
         {/* Blurred Preview - Alert Cards */}
         <section className="alert-section max-w-7xl mx-auto px-6 py-8">
           <div className="bg-charcoal border border-subtleborder rounded-xl p-6">
-            <h2 className="text-xl font-display font-medium text-offwhite mb-6">Alert Feed Preview</h2>
+            <h2 className="text-xl font-display font-light text-offwhite mb-6">Alert Feed Preview</h2>
             <div className="space-y-3">
               <div className="bg-deepblack border border-crimson/30 rounded-xl p-4 flex items-start gap-4">
                 <div className="w-10 h-10 bg-crimson/20 rounded-lg flex items-center justify-center shrink-0">
@@ -79,7 +79,7 @@ export default function RealTimeAlerts() {
 
         {/* Alert Configuration Preview */}
         <section className="alert-section max-w-7xl mx-auto px-6 py-8">
-          <h2 className="text-xl font-display font-medium text-offwhite mb-6">Customizable Alert Types</h2>
+          <h2 className="text-xl font-display font-light text-offwhite mb-6">Customizable Alert Types</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
             <div className="bg-charcoal border border-subtleborder rounded-xl p-5">
               <p className="text-xs font-mono text-emerald uppercase tracking-wider mb-2">Price Alerts</p>

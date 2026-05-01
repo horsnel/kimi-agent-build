@@ -87,7 +87,7 @@ export default function SectorRotation() {
         {/* Radar Chart */}
         <section className="sr-section max-w-7xl mx-auto px-6 py-8">
           <div className="bg-charcoal border border-subtleborder rounded-xl p-6">
-            <h2 className="text-xl font-display font-medium text-offwhite mb-6">Relative Strength Radar</h2>
+            <h2 className="text-xl font-display font-light text-offwhite mb-6">Relative Strength Radar</h2>
             <div className="h-[420px]">
               <ResponsiveContainer width="100%" height="100%">
                 <RadarChart data={radarData} cx="50%" cy="50%" outerRadius="75%">
@@ -107,7 +107,7 @@ export default function SectorRotation() {
         {/* Money Flow BarChart */}
         <section className="sr-section max-w-7xl mx-auto px-6 py-8">
           <div className="bg-charcoal border border-subtleborder rounded-xl p-6">
-            <h2 className="text-xl font-display font-medium text-offwhite mb-6">Money Flow by Sector</h2>
+            <h2 className="text-xl font-display font-light text-offwhite mb-6">Money Flow by Sector</h2>
             <div className="h-[320px]">
               <ResponsiveContainer width="100%" height="100%">
                 <BarChart data={moneyFlowData} layout="vertical">
@@ -128,12 +128,12 @@ export default function SectorRotation() {
 
         {/* Week-over-Week Change Cards */}
         <section className="sr-section max-w-7xl mx-auto px-6 py-8">
-          <h2 className="text-xl font-display font-medium text-offwhite mb-6">Week-over-Week Change</h2>
+          <h2 className="text-xl font-display font-light text-offwhite mb-6">Week-over-Week Change</h2>
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
             {wowCards.map((c) => (
               <div key={c.sector} className="bg-charcoal border border-subtleborder rounded-xl p-5">
                 <p className="text-xs font-mono text-slategray uppercase tracking-wider mb-2">{c.sector}</p>
-                <p className={`text-2xl font-display font-semibold ${c.positive ? 'text-emerald' : 'text-crimson'}`}>
+                <p className={`text-2xl font-display font-bold ${c.positive ? 'text-emerald' : 'text-crimson'}`}>
                   {c.positive ? '+' : ''}{c.change}%
                 </p>
                 <p className={`text-xs font-mono mt-1 ${c.positive ? 'text-emerald/70' : 'text-crimson/70'}`}>
@@ -148,7 +148,7 @@ export default function SectorRotation() {
         <section className="sr-section max-w-7xl mx-auto px-6 py-8">
           <div className="bg-charcoal border border-subtleborder rounded-xl overflow-hidden">
             <div className="p-6 border-b border-subtleborder">
-              <h2 className="text-xl font-display font-medium text-offwhite">Sector Performance & Signals</h2>
+              <h2 className="text-xl font-display font-light text-offwhite">Sector Performance & Signals</h2>
             </div>
             <div className="overflow-x-auto max-h-96">
               <table className="w-full">

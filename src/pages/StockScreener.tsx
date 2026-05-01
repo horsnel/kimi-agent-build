@@ -251,7 +251,7 @@ export default function StockScreener() {
         <div className="bg-charcoal border border-subtleborder rounded-xl p-6">
           <div className="flex items-center gap-2 mb-5">
             <FilterIcon size={16} className="text-emerald" />
-            <h2 className="text-sm font-medium text-offwhite">Filters</h2>
+            <h2 className="text-sm font-display font-light text-offwhite">Filters</h2>
           </div>
           <div className="grid md:grid-cols-3 gap-6">
             {/* Market Cap */}
