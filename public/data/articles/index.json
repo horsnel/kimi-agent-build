@@ -1197,6 +1197,27 @@
     "readingTime": 6
   },
   {
+    "id": "dow-jones-and-u-s-stock-market-intraday-outlook-the-tech-honeymoon-is-over-right",
+    "type": "news",
+    "title": "Dow Jones And U.S. Stock Market Intraday Outlook - The Tech Honeymoon Is Over... Right Before Earnings?",
+    "slug": "dow-jones-and-u-s-stock-market-intraday-outlook-the-tech-honeymoon-is-over-right",
+    "date": "2026-05-01",
+    "displayDate": "May 1, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Nasdaq leads US benchmarks to the downside as earnings approach; Dow Jones holds strong between 49,000 and 49,500; S&P 500 technical levels remain critical.",
+    "excerpt": "Nasdaq leads US benchmarks to the downside as earnings approach; Dow Jones holds strong between 49,000 and 49,500; S&P 500 technical levels remain critical.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Dow Jones And U.S. Stock Market Intraday Outlook - The Tech Honeymoon Is Over... Right Before Earnings?"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "earnings-calendar-analyst-estimates-and-stocks-to-watch",
     "type": "news",
     "title": "Earnings Calendar, Analyst Estimates And Stocks To Watch",
@@ -1346,6 +1367,27 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "Fed holds rates steady but with highest level of dissent since 1992"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "federal-funds-rate-history-1990-to-2026",
+    "type": "news",
+    "title": "Federal Funds Rate History 1990 to 2026",
+    "slug": "federal-funds-rate-history-1990-to-2026",
+    "date": "2026-05-01",
+    "displayDate": "May 1, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Funds Rate was near-zero in 2020 due to the COVID-19 pandemic, but it has since increased. As of 2026, the rate is higher than in 2020 but still rel",
+    "excerpt": "The Federal Funds Rate was near-zero in 2020 due to the COVID-19 pandemic, but it has since increased. As of 2026, the rate is higher than in 2020 but still relatively low historically. The Federal Reserve adjusts the rate to influence economic activity.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Federal Funds Rate History 1990 to 2026"
     },
     "readingTime": 3
   },
