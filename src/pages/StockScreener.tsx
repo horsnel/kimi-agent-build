@@ -3,6 +3,7 @@ import gsap from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
 import { FilterIcon, SearchIcon, TrendUpIcon, TrendDownIcon } from '../components/CustomIcons';
 import { Link } from 'react-router';
+import { fetchStockScreener, type StockScreenerResult } from '../services/api';
 
 gsap.registerPlugin(ScrollTrigger);
 
@@ -23,7 +24,7 @@ interface Stock {
   sector: string;
 }
 
-const allStocks: Stock[] = [
+const fallbackStocks: Stock[] = [
   { ticker: 'AAPL', company: 'Apple Inc.', price: 227.63, change: 1.24, marketCap: '$3.52T', marketCapCategory: 'Mega', pe: 37.2, dividendYield: 0.5, volume: '52.3M', sector: 'Technology' },
   { ticker: 'MSFT', company: 'Microsoft Corp.', price: 415.56, change: 0.87, marketCap: '$3.09T', marketCapCategory: 'Mega', pe: 35.8, dividendYield: 0.7, volume: '22.1M', sector: 'Technology' },
   { ticker: 'GOOGL', company: 'Alphabet Inc.', price: 174.82, change: -0.32, marketCap: '$2.16T', marketCapCategory: 'Mega', pe: 24.1, dividendYield: 0.0, volume: '28.9M', sector: 'Technology' },
@@ -69,6 +70,8 @@ function SortHeader({ field, sortField, sortDir, onSort, children }: { field: So
 }
 
 export default function StockScreener() {
+  const [allStocks, setAllStocks] = useState<Stock[]>(fallbackStocks);
+  const [loading, setLoading] = useState(true);
   const [marketCap, setMarketCap] = useState<MarketCap>('All');
   const [selectedSectors, setSelectedSectors] = useState<string[]>([]);
   const [peMin, setPeMin] = useState('');
@@ -81,6 +84,31 @@ export default function StockScreener() {
   const [sortDir, setSortDir] = useState<SortDir>('asc');
   const [searchQuery, setSearchQuery] = useState('');
   const sectionRef = useRef<HTMLDivElement>(null);
+
+  useEffect(() => {
+    async function loadData() {
+      try {
+        const result = await fetchStockScreener();
+        setAllStocks(result.map((s: StockScreenerResult) => ({
+          ticker: s.ticker,
+          company: s.company,
+          price: s.price,
+          change: s.change,
+          marketCap: s.marketCap,
+          marketCapCategory: s.marketCapCategory as MarketCap,
+          pe: s.pe,
+          dividendYield: s.dividendYield,
+          volume: s.volume,
+          sector: s.sector,
+        })));
+      } catch (e) {
+        console.warn('StockScreener: using fallback data', e);
+      } finally {
+        setLoading(false);
+      }
+    }
+    loadData();
+  }, []);
 
   useEffect(() => {
     const ctx = gsap.context(() => {
@@ -190,7 +218,7 @@ export default function StockScreener() {
     });
 
     return result;
-  }, [searchQuery, marketCap, selectedSectors, peMin, peMax, dividendMin, volumeMin, priceMin, priceMax, sortField, sortDir]);
+  }, [allStocks, searchQuery, marketCap, selectedSectors, peMin, peMax, dividendMin, volumeMin, priceMin, priceMax, sortField, sortDir]);
 
   return (
     <div ref={sectionRef}>
@@ -198,6 +226,7 @@ export default function StockScreener() {
       <section className="screener-section max-w-7xl mx-auto px-6 pt-24 pb-12">
         <h1 className="text-4xl md:text-5xl font-display font-light text-offwhite mb-2">
           Stock Screener
+          {loading && <span className="ml-2 w-2 h-2 bg-emerald rounded-full animate-pulse inline-block align-middle" />}
         </h1>
         <p className="text-slategray max-w-xl">
           Filter and discover stocks based on fundamentals and technicals

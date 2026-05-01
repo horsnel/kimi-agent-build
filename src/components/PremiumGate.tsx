@@ -12,10 +12,10 @@ const PremiumGate: React.FC<PremiumGateProps> = ({ featureName, description }) =
   const [submitted, setSubmitted] = useState(false);
   const { submitEmail } = useWaitlist();
 
-  const handleSubmit = (e: FormEvent<HTMLFormElement>) => {
+  const handleSubmit = async (e: FormEvent<HTMLFormElement>) => {
     e.preventDefault();
     if (!email.trim()) return;
-    const ok = submitEmail(email.trim());
+    const ok = await submitEmail(email.trim());
     if (ok) {
       setSubmitted(true);
     }

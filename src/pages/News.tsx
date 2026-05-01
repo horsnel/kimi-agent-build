@@ -3,6 +3,7 @@ import gsap from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
 import { AreaChart, Area, ResponsiveContainer } from 'recharts';
 import { ClockIcon, ArrowRightIcon } from '../components/CustomIcons';
+import { fetchNews, fetchMarketIndices, fetchCryptoOverview, type NewsArticle as ApiNewsArticle, type MarketIndex, type CryptoAsset } from '../services/api';
 
 gsap.registerPlugin(ScrollTrigger);
 
@@ -28,7 +29,7 @@ function generateSparkline(base: number, points: number, vol: number) {
   return data;
 }
 
-const newsArticles: NewsArticle[] = [
+const fallbackNewsArticles: NewsArticle[] = [
   {
     id: 0,
     headline: 'Fed Signals Potential Rate Cuts Amid Cooling Inflation Data',
@@ -112,7 +113,7 @@ const newsArticles: NewsArticle[] = [
   },
 ];
 
-const marketCharts = [
+const fallbackMarketCharts = [
   { title: 'S&P 500', value: '5,412.8', change: '+1.24%', up: true, data: generateSparkline(5400, 20, 0.008) },
   { title: '10Y Yield', value: '4.08%', change: '-0.12%', up: false, data: generateSparkline(4.1, 20, 0.005) },
   { title: 'VIX', value: '14.32', change: '-5.2%', up: true, data: generateSparkline(15, 20, 0.02) },
@@ -138,8 +139,69 @@ function CategoryBadge({ category }: { category: string }) {
 }
 
 export default function News() {
+  const [newsArticles, setNewsArticles] = useState<NewsArticle[]>(fallbackNewsArticles);
+  const [marketCharts, setMarketCharts] = useState(fallbackMarketCharts);
+  const [loading, setLoading] = useState(true);
   const [activeCategory, setActiveCategory] = useState<NewsCategory>('All');
   const sectionRef = useRef<HTMLDivElement>(null);
+
+  useEffect(() => {
+    async function loadData() {
+      try {
+        const [newsData, indicesData, cryptoData] = await Promise.all([
+          fetchNews(),
+          fetchMarketIndices(),
+          fetchCryptoOverview(),
+        ]);
+
+        // Map API news articles to component format
+        setNewsArticles(newsData.map((a: ApiNewsArticle) => ({
+          id: a.id,
+          headline: a.headline,
+          excerpt: a.excerpt,
+          date: a.date,
+          author: a.author,
+          category: a.category as Exclude<NewsCategory, 'All'>,
+          featured: a.featured,
+        })));
+
+        // Build market charts from indices + crypto data
+        const charts: { title: string; value: string; change: string; up: boolean; data: { v: number }[] }[] = [];
+
+        // Map market indices
+        indicesData.slice(0, 4).forEach((idx: MarketIndex) => {
+          charts.push({
+            title: idx.name,
+            value: idx.value.toLocaleString('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 }),
+            change: `${idx.changePercent >= 0 ? '+' : ''}${idx.changePercent.toFixed(2)}%`,
+            up: idx.changePercent >= 0,
+            data: idx.sparkline.length > 0 ? idx.sparkline.map((v: number) => ({ v })) : generateSparkline(idx.value, 20, 0.008),
+          });
+        });
+
+        // Add BTC from crypto overview
+        const btc = cryptoData.find((c: CryptoAsset) => c.ticker === 'BTC');
+        if (btc) {
+          charts.push({
+            title: 'BTC/USD',
+            value: `$${btc.price.toLocaleString('en-US', { maximumFractionDigits: 0 })}`,
+            change: `${btc.change24h >= 0 ? '+' : ''}${btc.change24h.toFixed(1)}%`,
+            up: btc.change24h >= 0,
+            data: btc.sparkline.length > 0 ? btc.sparkline.map((v: number) => ({ v })) : generateSparkline(btc.price, 20, 0.015),
+          });
+        }
+
+        if (charts.length > 0) {
+          setMarketCharts(charts);
+        }
+      } catch (e) {
+        console.warn('News: using fallback data', e);
+      } finally {
+        setLoading(false);
+      }
+    }
+    loadData();
+  }, []);
 
   useEffect(() => {
     const ctx = gsap.context(() => {
@@ -168,7 +230,7 @@ export default function News() {
     const nonFeatured = newsArticles.filter((a) => !a.featured);
     if (activeCategory === 'All') return nonFeatured;
     return nonFeatured.filter((a) => a.category === activeCategory);
-  }, [activeCategory]);
+  }, [newsArticles, activeCategory]);
 
   return (
     <div ref={sectionRef}>
@@ -176,6 +238,7 @@ export default function News() {
       <section className="news-section max-w-7xl mx-auto px-6 pt-24 pb-12">
         <h1 className="text-4xl md:text-5xl font-display font-light text-offwhite mb-2">
           Market News
+          {loading && <span className="ml-2 w-2 h-2 bg-emerald rounded-full animate-pulse inline-block align-middle" />}
         </h1>
         <p className="text-slategray max-w-xl">
           Stay informed with the latest market developments and analysis
@@ -268,6 +331,7 @@ export default function News() {
       <section className="news-section max-w-7xl mx-auto px-6 pb-24">
         <div className="flex items-center gap-3 mb-6">
           <h2 className="text-2xl font-display font-light text-offwhite">Market in 5 Charts</h2>
+          {loading && <span className="w-2 h-2 bg-emerald rounded-full animate-pulse" />}
         </div>
         <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-4">
           {marketCharts.map((chart) => (

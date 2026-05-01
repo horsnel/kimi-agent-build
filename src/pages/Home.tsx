@@ -43,10 +43,10 @@ export default function Home() {
   const [waitlistSubmitted, setWaitlistSubmitted] = useState(false);
   const { submitEmail } = useWaitlist();
 
-  const handleWaitlistSubmit = (e: FormEvent) => {
+  const handleWaitlistSubmit = async (e: FormEvent) => {
     e.preventDefault();
     if (!waitlistEmail.trim()) return;
-    const ok = submitEmail(waitlistEmail.trim());
+    const ok = await submitEmail(waitlistEmail.trim());
     if (ok) {
       setWaitlistSubmitted(true);
       setWaitlistEmail('');

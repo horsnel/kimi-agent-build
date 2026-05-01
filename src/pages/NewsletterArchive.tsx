@@ -139,10 +139,10 @@ export default function NewsletterArchive() {
     return () => ctx.revert();
   }, []);
 
-  const handleSubscribe = (e: FormEvent) => {
+  const handleSubscribe = async (e: FormEvent) => {
     e.preventDefault();
     if (!subscribeEmail.trim()) return;
-    const ok = submitEmail(subscribeEmail.trim());
+    const ok = await submitEmail(subscribeEmail.trim());
     if (ok) {
       setSubscribed(true);
       setSubscribeEmail('');
