@@ -7,7 +7,7 @@ import { useGeoCurrency } from '../hooks/useGeoCurrency';
 gsap.registerPlugin(ScrollTrigger);
 
 export default function RetirementScore() {
-  const { formatLocal, formatChartTick } = useGeoCurrency();
+  const { formatLocal, formatLocalShort, formatChartTick } = useGeoCurrency();
   const [currentAge, setCurrentAge] = useState(30);
   const [retirementAge, setRetirementAge] = useState(65);
   const [annualIncome, setAnnualIncome] = useState(85000);
@@ -65,29 +65,29 @@ export default function RetirementScore() {
   const sliders = [
     { label: 'Current Age', value: currentAge, setter: setCurrentAge, min: 18, max: 65, step: 1, display: `${currentAge}` },
     { label: 'Retirement Age', value: retirementAge, setter: setRetirementAge, min: 55, max: 75, step: 1, display: `${retirementAge}` },
-    { label: 'Annual Income', value: annualIncome, setter: setAnnualIncome, min: 30000, max: 500000, step: 5000, display: formatLocal(annualIncome) },
-    { label: 'Current Savings', value: currentSavings, setter: setCurrentSavings, min: 0, max: 2000000, step: 10000, display: formatLocal(currentSavings) },
-    { label: 'Monthly Contribution', value: monthlyContribution, setter: setMonthlyContribution, min: 0, max: 5000, step: 50, display: formatLocal(monthlyContribution) },
+    { label: 'Annual Income', value: annualIncome, setter: setAnnualIncome, min: 30000, max: 500000, step: 5000, display: formatLocalShort(annualIncome) },
+    { label: 'Current Savings', value: currentSavings, setter: setCurrentSavings, min: 0, max: 2000000, step: 10000, display: formatLocalShort(currentSavings) },
+    { label: 'Monthly Contribution', value: monthlyContribution, setter: setMonthlyContribution, min: 0, max: 5000, step: 50, display: formatLocalShort(monthlyContribution) },
     { label: 'Expected Return', value: expectedReturn, setter: setExpectedReturn, min: 4, max: 12, step: 0.5, display: `${expectedReturn}%` },
   ];
 
   return (
-    <div ref={sectionRef}>
-      <section className="ret-section max-w-7xl mx-auto px-6 pt-24 pb-12">
+    <div ref={sectionRef} className="overflow-x-hidden">
+      <section className="ret-section max-w-7xl mx-auto px-4 sm:px-6 pt-24 pb-12">
         <h1 className="text-4xl md:text-5xl font-display font-light text-offwhite mb-2">Retirement Readiness Score</h1>
         <p className="text-slategray text-lg">Assess your retirement readiness with personalized projections</p>
       </section>
 
-      <section className="ret-section max-w-7xl mx-auto px-6 py-6">
+      <section className="ret-section max-w-7xl mx-auto px-4 sm:px-6 py-6">
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
           {/* Sliders */}
-          <div className="bg-charcoal border border-subtleborder rounded-xl p-6 space-y-5">
+          <div className="bg-charcoal border border-subtleborder rounded-xl p-4 sm:p-6 space-y-5">
             <h2 className="text-sm font-mono text-slategray uppercase tracking-wider mb-2">Your Parameters</h2>
             {sliders.map((s) => (
               <div key={s.label}>
-                <div className="flex justify-between items-center mb-2">
-                  <label className="text-xs font-mono text-slategray uppercase tracking-wider">{s.label}</label>
-                  <span className="text-sm font-mono text-offwhite">{s.display}</span>
+                <div className="flex justify-between items-center mb-2 gap-2">
+                  <label className="text-xs font-mono text-slategray uppercase tracking-wider shrink-0">{s.label}</label>
+                  <span className="text-sm font-mono text-offwhite truncate">{s.display}</span>
                 </div>
                 <input
                   type="range"
@@ -107,7 +107,7 @@ export default function RetirementScore() {
 
           {/* Score Circle + Summary */}
           <div className="space-y-6">
-            <div className="bg-charcoal border border-subtleborder rounded-xl p-6 flex flex-col items-center justify-center">
+            <div className="bg-charcoal border border-subtleborder rounded-xl p-4 sm:p-6 flex flex-col items-center justify-center">
               <p className="text-xs font-mono text-slategray uppercase tracking-wider mb-4">Your Retirement Readiness Score</p>
               <svg width="200" height="200" viewBox="0 0 200 200">
                 <circle cx="100" cy="100" r="88" fill="none" stroke="#222222" strokeWidth="8" />
@@ -135,30 +135,30 @@ export default function RetirementScore() {
             </div>
 
             <div className="grid grid-cols-2 gap-4">
-              <div className="bg-charcoal border border-subtleborder rounded-xl p-4">
+              <div className="bg-charcoal border border-subtleborder rounded-xl p-4 min-w-0">
                 <p className="text-xs font-mono text-slategray uppercase tracking-wider mb-1">Projected Savings</p>
-                <p className="text-xl font-mono text-offwhite">{formatLocal(calculations.fv)}</p>
+                <p className="text-lg sm:text-xl font-mono text-offwhite truncate" title={formatLocal(calculations.fv)}>{formatLocalShort(calculations.fv)}</p>
               </div>
-              <div className="bg-charcoal border border-subtleborder rounded-xl p-4">
-                <p className="text-xs font-mono text-slategray uppercase tracking-wider mb-1">Monthly Retirement Income</p>
-                <p className="text-xl font-mono text-emerald">{formatLocal(calculations.monthlyRetirementIncome)}</p>
+              <div className="bg-charcoal border border-subtleborder rounded-xl p-4 min-w-0">
+                <p className="text-xs font-mono text-slategray uppercase tracking-wider mb-1">Monthly Ret. Income</p>
+                <p className="text-lg sm:text-xl font-mono text-emerald truncate" title={formatLocal(calculations.monthlyRetirementIncome)}>{formatLocalShort(calculations.monthlyRetirementIncome)}</p>
               </div>
             </div>
 
             {/* Gap Analysis */}
-            <div className={`bg-charcoal border rounded-xl p-5 ${gap >= 0 ? 'border-emerald/30' : 'border-crimson/30'}`}>
-              <div className="flex items-center justify-between">
-                <div>
+            <div className={`bg-charcoal border rounded-xl p-4 sm:p-5 ${gap >= 0 ? 'border-emerald/30' : 'border-crimson/30'}`}>
+              <div className="flex items-center justify-between gap-3">
+                <div className="min-w-0">
                   <p className="text-xs font-mono text-slategray uppercase tracking-wider mb-1">
                     {gap >= 0 ? 'Monthly Surplus' : 'Monthly Shortfall'}
                   </p>
-                  <p className={`text-2xl font-display font-bold ${gap >= 0 ? 'text-emerald' : 'text-crimson'}`}>
-                    {gap >= 0 ? '+' : '-'}{formatLocal(Math.abs(gap))}
+                  <p className={`text-xl sm:text-2xl font-display font-bold ${gap >= 0 ? 'text-emerald' : 'text-crimson'}`}>
+                    {gap >= 0 ? '+' : '-'}{formatLocalShort(Math.abs(gap))}
                   </p>
                 </div>
-                <div className="text-right">
-                  <p className="text-xs font-mono text-slategray mb-1">Target: {formatLocal(calculations.targetMonthlyIncome)}/mo</p>
-                  <p className="text-xs font-mono text-slategray">Projected: {formatLocal(calculations.monthlyRetirementIncome)}/mo</p>
+                <div className="text-right min-w-0 shrink-0">
+                  <p className="text-xs font-mono text-slategray mb-1 whitespace-nowrap">Target: {formatLocalShort(calculations.targetMonthlyIncome)}/mo</p>
+                  <p className="text-xs font-mono text-slategray whitespace-nowrap">Projected: {formatLocalShort(calculations.monthlyRetirementIncome)}/mo</p>
                 </div>
               </div>
             </div>
@@ -167,11 +167,11 @@ export default function RetirementScore() {
       </section>
 
       {/* Savings Growth Chart */}
-      <section className="ret-section max-w-7xl mx-auto px-6 py-8">
+      <section className="ret-section max-w-7xl mx-auto px-4 sm:px-6 py-8">
         <div className="bg-charcoal border border-subtleborder rounded-xl p-6">
           <h2 className="text-lg font-display font-light text-offwhite mb-1">Savings Growth Projection</h2>
           <p className="text-xs font-mono text-slategray mb-4">From age {currentAge} to {retirementAge + 20} (post-retirement drawdown at 4%/yr)</p>
-          <div className="h-80">
+          <div className="h-64 sm:h-80">
             <ResponsiveContainer width="100%" height="100%">
               <AreaChart data={chartData}>
                 <defs>
@@ -193,7 +193,7 @@ export default function RetirementScore() {
       </section>
 
       {/* CTA */}
-      <section className="ret-section max-w-7xl mx-auto px-6 py-8 pb-20 text-center">
+      <section className="ret-section max-w-7xl mx-auto px-4 sm:px-6 py-8 pb-20 text-center">
         <button className="bg-emerald text-obsidian font-mono font-medium px-8 py-3.5 rounded-lg hover:bg-emerald/90 transition-colors">
           Get Personalized Advice
         </button>
