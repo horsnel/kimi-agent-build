@@ -3,8 +3,8 @@
     "name": "S&P 500",
     "ticker": "^GSPC",
     "value": "7,209.00",
-    "change": "+38.70",
-    "changePercent": 0.54,
+    "change": "+47.20",
+    "changePercent": 0.66,
     "up": true,
     "sparkline": []
   },
@@ -12,8 +12,8 @@
     "name": "NASDAQ",
     "ticker": "^IXIC",
     "value": "24,892.31",
-    "change": "+48.89",
-    "changePercent": 0.2,
+    "change": "+32.37",
+    "changePercent": 0.13,
     "up": true,
     "sparkline": []
   },
@@ -21,8 +21,8 @@
     "name": "DOW",
     "ticker": "^DJI",
     "value": "49,652.10",
-    "change": "+542.40",
-    "changePercent": 1.1,
+    "change": "+889.20",
+    "changePercent": 1.82,
     "up": true,
     "sparkline": []
   }

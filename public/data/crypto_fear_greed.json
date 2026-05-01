@@ -1,9 +1,14 @@
 {
   "current": {
-    "value": 29,
+    "value": 26,
     "classification": "Fear"
   },
   "history": [
+    {
+      "timestamp": 1777593600,
+      "value": 26,
+      "classification": "Fear"
+    },
     {
       "timestamp": 1777507200,
       "value": 29,
@@ -148,18 +153,13 @@
       "timestamp": 1775088000,
       "value": 12,
       "classification": "Extreme Fear"
-    },
-    {
-      "timestamp": 1775001600,
-      "value": 8,
-      "classification": "Extreme Fear"
     }
   ],
   "components": {
-    "socialMedia": 31,
-    "volatility": 11,
-    "marketMomentum": 30,
-    "dominance": 36
+    "socialMedia": 34,
+    "volatility": 35,
+    "marketMomentum": 22,
+    "dominance": 35
   },
   "source": "alternative.me"
 }
