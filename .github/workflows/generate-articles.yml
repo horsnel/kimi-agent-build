@@ -1,13 +1,26 @@
 name: Generate SEO Articles
 
+# ──────────────────────────────────────────────────────────────────────────────
+# Sigma Capital — SEO Article Generator + Deploy
+#
+# Generates template-based SEO articles using real market data + Tavily research.
+# Uses Freepik API for article images (Pexels/Pixabay were deprecated due to 403s).
+#
+# Schedule:
+#   - 6AM UTC daily: Morning article generation
+#   - 6PM UTC daily: Evening article generation
+#   - 8AM UTC Sundays: Weekly deep-dive content
+#
+# NOTE: This workflow is now supplemental to fetch-and-deploy.yml, which handles
+# the primary data pipeline. Article generation runs as a separate job within
+# fetch-and-deploy.yml for midnight & 6AM runs. This standalone workflow exists
+# for manual triggers and the additional scheduled times.
+# ──────────────────────────────────────────────────────────────────────────────
+
 on:
   schedule:
-    # Run daily at 6:00 AM UTC
-    - cron: '0 6 * * *'
-    # Also run at 18:00 UTC for evening content
-    - cron: '0 18 * * *'
-    # Weekly deep-dive on Sundays at 8:00 AM UTC
-    - cron: '0 8 * * 0'
+    - cron: '0 18 * * *'    # 6PM UTC evening content
+    - cron: '0 8 * * 0'     # Sunday 8AM UTC deep-dive
   workflow_dispatch:
     inputs:
       article_type:
@@ -30,117 +43,123 @@ jobs:
       contents: write
 
     steps:
-      - name: Checkout repository
+      - name: "\U0001F4E5 Checkout repository"
         uses: actions/checkout@v4
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          ref: main
+          fetch-depth: 0
+          persist-credentials: true
 
-      - name: Setup Node.js
+      - name: "\U0001F7E2 Setup Node.js 20"
         uses: actions/setup-node@v4
         with:
           node-version: '20'
           cache: 'npm'
           cache-dependency-path: package-lock.json
 
-      - name: Install dependencies
+      - name: "\U0001F4E6 Install dependencies"
         run: npm ci
 
-      - name: Install article generator dependencies
-        run: |
-          cd scripts/generate-articles
-          if [ -f package.json ]; then npm ci; fi
-
-      - name: Generate Market Wrap Articles
+      - name: "\U0001F4F0 Generate Market Wrap Articles"
         if: ${{ github.event.inputs.article_type == 'all' || github.event.inputs.article_type == 'market-wrap' || github.event_name == 'schedule' }}
         env:
-          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
-          PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
           TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
-          SERPI_API_KEY: ${{ secrets.SERPI_API_KEY }}
-          ALPHA_VANTAGE_API_KEY: ${{ secrets.ALPHA_VANTAGE_API_KEY }}
-        run: node scripts/generate-articles/index.js --type=market-wrap
+          SERPI_API_KEY: ${{ secrets.SERPER_API_KEY_1 }}
+          FREEPIK_API_KEY: ${{ secrets.FREEPIK_API_KEY }}
+        run: node scripts/generate-articles/index.js --type=market-wrap || true
 
-      - name: Generate Sector Analysis Articles
+      - name: "\U0001F4F0 Generate Sector Analysis Articles"
         if: ${{ github.event.inputs.article_type == 'all' || github.event.inputs.article_type == 'sector' || github.event_name == 'schedule' }}
         env:
-          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
-          PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
           TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
-          SERPI_API_KEY: ${{ secrets.SERPI_API_KEY }}
-        run: node scripts/generate-articles/index.js --type=sector
+          SERPI_API_KEY: ${{ secrets.SERPER_API_KEY_1 }}
+          FREEPIK_API_KEY: ${{ secrets.FREEPIK_API_KEY }}
+        run: node scripts/generate-articles/index.js --type=sector || true
 
-      - name: Generate How-To & Guide Articles
+      - name: "\U0001F4F0 Generate How-To & Guide Articles"
         if: ${{ github.event.inputs.article_type == 'all' || github.event.inputs.article_type == 'how-to' || github.event_name == 'schedule' }}
         env:
-          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
-          PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
           TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
-          SERPI_API_KEY: ${{ secrets.SERPI_API_KEY }}
-        run: node scripts/generate-articles/index.js --type=how-to
+          SERPI_API_KEY: ${{ secrets.SERPER_API_KEY_1 }}
+          FREEPIK_API_KEY: ${{ secrets.FREEPIK_API_KEY }}
+        run: node scripts/generate-articles/index.js --type=how-to || true
 
-      - name: Generate Glossary Articles
-        if: ${{ github.event.inputs.article_type == 'all' || github.event.inputs.article_type == 'glossary' || github.event_name == 'schedule' }}
+      - name: "\U0001F4F0 Generate Glossary Articles"
+        if: ${{ github.event.inputs.article_type == 'all' || github.event.inputs.article_type == 'glossary' }}
         env:
-          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
-          PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
           TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
-          SERPI_API_KEY: ${{ secrets.SERPI_API_KEY }}
-        run: node scripts/generate-articles/index.js --type=glossary
+          SERPI_API_KEY: ${{ secrets.SERPER_API_KEY_1 }}
+          FREEPIK_API_KEY: ${{ secrets.FREEPIK_API_KEY }}
+        run: node scripts/generate-articles/index.js --type=glossary || true
 
-      - name: Generate Listicle Articles
-        if: ${{ github.event.inputs.article_type == 'all' || github.event.inputs.article_type == 'listicle' || github.event_name == 'schedule' }}
+      - name: "\U0001F4F0 Generate Listicle Articles"
+        if: ${{ github.event.inputs.article_type == 'all' || github.event.inputs.article_type == 'listicle' }}
         env:
-          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
-          PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
           TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
-          SERPI_API_KEY: ${{ secrets.SERPI_API_KEY }}
-        run: node scripts/generate-articles/index.js --type=listicle
+          SERPI_API_KEY: ${{ secrets.SERPER_API_KEY_1 }}
+          FREEPIK_API_KEY: ${{ secrets.FREEPIK_API_KEY }}
+        run: node scripts/generate-articles/index.js --type=listicle || true
 
-      - name: Generate Comparison Articles
-        if: ${{ github.event.inputs.article_type == 'all' || github.event.inputs.article_type == 'comparison' || github.event_name == 'schedule' }}
+      - name: "\U0001F4F0 Generate Comparison Articles"
+        if: ${{ github.event.inputs.article_type == 'all' || github.event.inputs.article_type == 'comparison' }}
         env:
-          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
-          PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
           TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
-          SERPI_API_KEY: ${{ secrets.SERPI_API_KEY }}
-        run: node scripts/generate-articles/index.js --type=comparison
+          SERPI_API_KEY: ${{ secrets.SERPER_API_KEY_1 }}
+          FREEPIK_API_KEY: ${{ secrets.FREEPIK_API_KEY }}
+        run: node scripts/generate-articles/index.js --type=comparison || true
 
-      - name: Generate Earnings Recap Articles
+      - name: "\U0001F4F0 Generate Earnings Recap Articles"
         if: ${{ github.event.inputs.article_type == 'all' || github.event.inputs.article_type == 'earnings' || github.event_name == 'schedule' }}
         env:
-          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
-          PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
           TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
-          SERPI_API_KEY: ${{ secrets.SERPI_API_KEY }}
-        run: node scripts/generate-articles/index.js --type=earnings
+          SERPI_API_KEY: ${{ secrets.SERPER_API_KEY_1 }}
+          FREEPIK_API_KEY: ${{ secrets.FREEPIK_API_KEY }}
+        run: node scripts/generate-articles/index.js --type=earnings || true
 
-      - name: Generate Economic Calendar Articles
-        if: ${{ github.event.inputs.article_type == 'all' || github.event.inputs.article_type == 'economic' || github.event_name == 'schedule' }}
+      - name: "\U0001F4F0 Generate Economic Calendar Articles"
+        if: ${{ github.event.inputs.article_type == 'all' || github.event.inputs.article_type == 'economic' }}
         env:
-          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
-          PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
           TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
-          SERPI_API_KEY: ${{ secrets.SERPI_API_KEY }}
-        run: node scripts/generate-articles/index.js --type=economic
+          SERPI_API_KEY: ${{ secrets.SERPER_API_KEY_1 }}
+          FREEPIK_API_KEY: ${{ secrets.FREEPIK_API_KEY }}
+        run: node scripts/generate-articles/index.js --type=economic || true
 
-      - name: Build article index
+      - name: "\U0001F4CA Build article index"
         run: node scripts/generate-articles/index.js --type=index
 
-      - name: Commit and push generated articles
+      - name: "\U0001F4BE Commit and push generated articles"
+        id: commit
         run: |
           git config --local user.email "article-bot@sigmacapital.dev"
           git config --local user.name "Sigma Article Bot"
           git add public/data/articles/ public/images/articles/
-          git diff --staged --quiet || git commit -m "📰 auto: generate SEO articles $(date +%Y-%m-%d)"
-          git push
-
-      - name: Trigger Cloudflare deployment
-        if: success()
-        env:
-          CLOUDFLARE_API_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-        run: |
-          if [ -n "$CLOUDFLARE_API_TOKEN" ]; then
-            npx wrangler pages deploy dist --project-name=sigma-capital
+          if git diff --staged --quiet; then
+            echo "No article changes to commit"
+            echo "has_changes=false" >> $GITHUB_OUTPUT
           else
-            echo "No Cloudflare API token — skipping direct deploy (GitHub-connected deploy will trigger)"
+            git commit -m "📰 articles: SEO generation $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            git push
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+            echo "✅ Articles committed and pushed"
           fi
+
+      - name: "\U0001F3D7 Build site"
+        if: ${{ steps.commit.outputs.has_changes == 'true' }}
+        run: npm run build
+
+      - name: "\U0001F680 Deploy to Cloudflare Pages"
+        if: ${{ steps.commit.outputs.has_changes == 'true' }}
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages deploy dist --project-name=sigma-capital
+
+      - name: "\u2705 Summary"
+        if: always()
+        run: |
+          echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+          echo "📰 Article generation pipeline complete"
+          echo "📊 Changes: ${{ steps.commit.outputs.has_changes }}"
+          echo "⏰ $(date -u)"
+          echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"

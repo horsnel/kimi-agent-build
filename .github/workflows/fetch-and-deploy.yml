@@ -3,26 +3,38 @@ name: Fetch Real Data & Deploy
 # ──────────────────────────────────────────────────────────────────────────────
 # Sigma Capital — Automated Data Pipeline + Cloudflare Pages Deployment
 #
-# This workflow:
+# This is the PRIMARY CI/CD workflow that:
 #   1. Runs fetch-real-data.cjs to get LIVE data from Serper.dev + Tavily
-#   2. Commits updated JSON data files + articles
+#   2. Commits updated JSON data files + articles to the repo
 #   3. Builds the Vite app
 #   4. Deploys to Cloudflare Pages via Wrangler CLI
+#   5. Reports deployment status
 #
-# Schedule (UTC):
-#   - 06:00  → Pre-market morning refresh
-#   - 12:00  → Midday update (lunch-time data)
-#   - 18:00  → After-market close update
-#   - 00:00  → Midnight full refresh
+# Triggers:
+#   - Schedule: Every 6 hours (00:00, 06:00, 12:00, 18:00 UTC)
+#   - Push to main (code changes trigger rebuild + deploy)
+#   - Manual workflow_dispatch with configurable options
 # ──────────────────────────────────────────────────────────────────────────────
 
 on:
   schedule:
-    # 4x daily: 6AM, 12PM, 6PM, 12AM UTC
-    - cron: '0 6 * * *'
-    - cron: '0 12 * * *'
-    - cron: '0 18 * * *'
-    - cron: '0 0 * * *'
+    # 4x daily: Pre-market, Midday, After-close, Midnight
+    - cron: '0 0 * * *'    # Midnight UTC full refresh
+    - cron: '0 6 * * *'    # 6AM UTC pre-market
+    - cron: '0 12 * * *'   # 12PM UTC midday
+    - cron: '0 18 * * *'   # 6PM UTC after-close
+  push:
+    branches: [main]
+    paths:
+      - 'src/**'
+      - 'public/**'
+      - 'package.json'
+      - 'package-lock.json'
+      - 'vite.config.ts'
+      - 'tailwind.config.js'
+      - 'postcss.config.js'
+      - 'index.html'
+      - '.github/workflows/fetch-and-deploy.yml'
   workflow_dispatch:
     inputs:
       fetch_type:
@@ -34,6 +46,11 @@ on:
         required: false
         type: boolean
         default: false
+      force_deploy:
+        description: 'Force deploy even if no data changes'
+        required: false
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -42,124 +59,144 @@ env:
   NODE_ENV: production
 
 jobs:
+  # ────────────────────────────────────────────────────────────────────────────
+  # JOB 1: Fetch real data, commit, build, and deploy
+  # ────────────────────────────────────────────────────────────────────────────
   fetch-build-deploy:
-    name: 📡 Fetch → 🏗️ Build → 🚀 Deploy
+    name: "📡 Fetch \u2192 \U0001F3D7 Build \u2192 \U0001F680 Deploy"
     runs-on: ubuntu-latest
-    timeout-minutes: 25
+    timeout-minutes: 30
 
     steps:
-      - name: 📥 Checkout repository
+      # ── Checkout ────────────────────────────────────────────────────────────
+      - name: "\U0001F4E5 Checkout repository"
         uses: actions/checkout@v4
         with:
           ref: main
           fetch-depth: 0
           persist-credentials: true
 
-      - name: 🟢 Setup Node.js
+      # ── Setup Node.js ──────────────────────────────────────────────────────
+      - name: "\U0001F7E2 Setup Node.js 20"
         uses: actions/setup-node@v4
         with:
           node-version: '20'
           cache: 'npm'
           cache-dependency-path: package-lock.json
 
-      - name: 📦 Install dependencies
+      - name: "\U0001F4E6 Install dependencies"
         run: npm ci
 
-      - name: ✅ Verify build tools
+      - name: "\u2705 Verify build tools"
         run: npx vite --version
 
-      # ── STEP 1: Fetch real data ────────────────────────────────────────────
-      - name: 📡 Fetch real-time data (news + market)
+      # ── STEP 1: Fetch real data (only on schedule or manual trigger) ───────
+      - name: "\U0001F4E1 Fetch real-time data (news + market)"
+        if: ${{ github.event_name == 'schedule' || github.event_name == 'workflow_dispatch' }}
         env:
           SERPER_API_KEY_1: ${{ secrets.SERPER_API_KEY_1 }}
           SERPER_API_KEY_2: ${{ secrets.SERPER_API_KEY_2 }}
           TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
+          FREEPIK_API_KEY: ${{ secrets.FREEPIK_API_KEY }}
         run: |
           echo "=== Fetching real data at $(date -u) ==="
-          node scripts/fetch-real-data.cjs --type=${{ github.event.inputs.fetch_type || 'all' }}
+          FETCH_TYPE="${{ github.event.inputs.fetch_type || 'all' }}"
+          echo "Fetch type: $FETCH_TYPE"
+          node scripts/fetch-real-data.cjs --type=$FETCH_TYPE
 
-      - name: 📊 Data summary
+      - name: "\U0001F4CA Data summary"
+        if: ${{ github.event_name == 'schedule' || github.event_name == 'workflow_dispatch' }}
         run: |
           echo "=== Data Files Summary ==="
-          echo "📰 News articles: $(node -e "try{console.log(require('./public/data/news.json').length)}catch{console.log(0)}")"
-          echo "📄 Article files: $(ls public/data/articles/*.json 2>/dev/null | grep -v index.json | wc -l)"
-          echo "📈 Indices: $(node -e "try{console.log(require('./public/data/indices.json').length)}catch{console.log(0)}")"
-          echo "₿  Crypto assets: $(node -e "try{console.log(require('./public/data/crypto.json').length)}catch{console.log(0)}")"
+          echo "News articles: $(node -e "try{console.log(require('./public/data/news.json').length)}catch{console.log(0)}")"
+          echo "Article files: $(ls public/data/articles/*.json 2>/dev/null | grep -v index.json | wc -l)"
+          echo "Indices: $(node -e "try{console.log(require('./public/data/indices.json').length)}catch{console.log(0)}")"
+          echo "Crypto assets: $(node -e "try{console.log(require('./public/data/crypto.json').length)}catch{console.log(0)}")"
+          echo "Manifest: $(node -e "try{console.log(require('./public/data/manifest.json').lastUpdated)}catch{console.log('N/A')}")"
 
-      # ── STEP 2: Commit data changes ────────────────────────────────────────
-      - name: 💾 Commit & push data changes
+      # ── STEP 2: Commit data changes ───────────────────────────────────────
+      - name: "\U0001F4BE Commit & push data changes"
         id: commit
         run: |
           git config user.name "Sigma Data Bot"
           git config user.email "data-bot@sigmacapital.dev"
-          git add public/data/ public/images/articles/
+
+          # Stage all data and image changes
+          git add public/data/ public/images/articles/ 2>/dev/null || true
+
           if git diff --staged --quiet; then
             echo "No data changes to commit"
             echo "has_changes=false" >> $GITHUB_OUTPUT
           else
-            git commit -m "📡 data: real-time fetch $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            COMMIT_MSG="📡 data: real-time fetch $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            git commit -m "$COMMIT_MSG"
             git push
             echo "has_changes=true" >> $GITHUB_OUTPUT
             echo "✅ Data committed and pushed"
           fi
 
-      # ── STEP 3: Build ──────────────────────────────────────────────────────
-      - name: 🏗️ Build site
+      # ── STEP 3: Build ─────────────────────────────────────────────────────
+      - name: "\U0001F3D7 Build site"
         if: ${{ github.event.inputs.skip_deploy != 'true' }}
-        run: npm run build
+        run: |
+          echo "Building Vite project..."
+          npm run build
+          echo "Build complete. Output size:"
+          du -sh dist/
 
-      # ── STEP 4: Deploy ─────────────────────────────────────────────────────
-      - name: 🚀 Deploy to Cloudflare Pages
-        if: ${{ github.event.inputs.skip_deploy != 'true' }}
+      # ── STEP 4: Deploy to Cloudflare Pages ─────────────────────────────────
+      - name: "\U0001F680 Deploy to Cloudflare Pages"
+        if: ${{ github.event.inputs.skip_deploy != 'true' && (steps.commit.outputs.has_changes == 'true' || github.event.inputs.force_deploy == 'true' || github.event_name == 'push') }}
         uses: cloudflare/wrangler-action@v3
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           command: pages deploy dist --project-name=sigma-capital
 
-      - name: ✅ Deployment summary
+      - name: "\u2705 Deployment summary"
         if: ${{ github.event.inputs.skip_deploy != 'true' }}
         run: |
           echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
-          echo "🚀 Sigma Capital deployed successfully!"
+          echo "🚀 Sigma Capital deployment pipeline complete!"
           echo "📍 URL: https://sigma-capital.pages.dev"
           echo "⏰ Deployed at: $(date -u)"
+          echo "📊 Data changes: ${{ steps.commit.outputs.has_changes }}"
+          echo "🔄 Trigger: ${{ github.event_name }}"
           echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
 
   # ────────────────────────────────────────────────────────────────────────────
-  # Optional: Generate SEO articles (only on midnight & 6AM runs)
+  # JOB 2: Generate SEO articles (only on midnight & 6AM scheduled runs)
   # ────────────────────────────────────────────────────────────────────────────
   generate-seo-articles:
-    name: 📰 Generate SEO Articles
+    name: "\U0001F4F0 Generate SEO Articles"
     needs: fetch-build-deploy
     runs-on: ubuntu-latest
     timeout-minutes: 30
     if: ${{ github.event_name == 'schedule' && (github.event.schedule == '0 0 * * *' || github.event.schedule == '0 6 * * *') }}
 
     steps:
-      - name: 📥 Checkout repository
+      - name: "\U0001F4E5 Checkout repository"
         uses: actions/checkout@v4
         with:
           ref: main
           fetch-depth: 0
           persist-credentials: true
 
-      - name: 🟢 Setup Node.js
+      - name: "\U0001F7E2 Setup Node.js 20"
         uses: actions/setup-node@v4
         with:
           node-version: '20'
           cache: 'npm'
           cache-dependency-path: package-lock.json
 
-      - name: 📦 Install dependencies
+      - name: "\U0001F4E6 Install dependencies"
         run: npm ci
 
-      - name: 📰 Generate SEO articles
+      - name: "\U0001F4F0 Generate SEO articles"
         env:
           TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
           SERPI_API_KEY: ${{ secrets.SERPER_API_KEY_1 }}
-          PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
-          PIXABAY_API_KEY: ${{ secrets.PIXABAY_API_KEY }}
+          FREEPIK_API_KEY: ${{ secrets.FREEPIK_API_KEY }}
         run: |
           echo "=== Generating SEO articles ==="
           node scripts/generate-articles/index.js --type=market-wrap || true
@@ -167,7 +204,7 @@ jobs:
           node scripts/generate-articles/index.js --type=how-to || true
           node scripts/generate-articles/index.js --type=index || true
 
-      - name: 💾 Commit & push articles
+      - name: "\U0001F4BE Commit & push articles"
         run: |
           git config user.name "Sigma Article Bot"
           git config user.email "article-bot@sigmacapital.dev"
@@ -180,10 +217,10 @@ jobs:
             echo "✅ Articles committed and pushed"
           fi
 
-      - name: 🏗️ Build site
+      - name: "\U0001F3D7 Build site"
         run: npm run build
 
-      - name: 🚀 Deploy to Cloudflare Pages
+      - name: "\U0001F680 Deploy to Cloudflare Pages"
         uses: cloudflare/wrangler-action@v3
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}

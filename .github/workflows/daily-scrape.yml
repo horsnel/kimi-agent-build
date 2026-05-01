@@ -1,12 +1,22 @@
-name: Daily Financial Data Scrape
+name: Daily Financial Data Scrape (DEPRECATED)
+
+# ──────────────────────────────────────────────────────────────────────────────
+# ⚠️ DEPRECATED — This workflow has been replaced by fetch-and-deploy.yml
+#
+# The Python-based scrapers (SCRAPINGANT) have been superseded by the Node.js
+# fetch-real-data.cjs pipeline which uses Serper.dev + Tavily APIs directly.
+#
+# The new pipeline runs every 6 hours and includes:
+#   - Real news fetching via Serper.dev
+#   - Article content generation via Tavily
+#   - Market data (indices, crypto, fear/greed, yield curve)
+#   - Automatic build + deploy to Cloudflare Pages
+#
+# This file is kept for reference only. Do not enable.
+# ──────────────────────────────────────────────────────────────────────────────
 
 on:
-  schedule:
-    # Run at 6:00 AM ET (11:00 UTC) every weekday — pre-market data refresh
-    - cron: '0 11 * * 1-5'
-    # Run at 10:00 PM ET (2:00 UTC next day) — after-hours data capture
-    - cron: '0 2 * * 2-6'
-  workflow_dispatch:  # Allow manual trigger
+  workflow_dispatch:  # Disabled schedule — only manual trigger for emergencies
 
 permissions:
   contents: write
@@ -17,77 +27,8 @@ jobs:
     timeout-minutes: 25
 
     steps:
-      - name: Checkout main branch
-        uses: actions/checkout@v4
-        with:
-          ref: main
-          fetch-depth: 0
-          persist-credentials: true
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.12'
-          cache: 'pip'
-
-      - name: Install dependencies
+      - name: "\u26A0\uFE0F Deprecated workflow"
         run: |
-          pip install -r scraper/requirements.txt
-
-      - name: Restore HTTP cache
-        uses: actions/cache@v4
-        with:
-          path: .cache/http
-          key: http-cache-daily-${{ github.run_id }}
-          restore-keys: |
-            http-cache-daily-
-
-      - name: Run daily scraper
-        env:
-          SCRAPINGANT_API_KEY_1: ${{ secrets.SCRAPINGANT_API_KEY_1 }}
-          SCRAPINGANT_API_KEY_2: ${{ secrets.SCRAPINGANT_API_KEY_2 }}
-        run: |
-          cd scraper
-          python run_daily.py
-
-      - name: Commit & push data
-        run: |
-          git config user.name "Sigma Scraper Bot"
-          git config user.email "scraper@sigmacapital.io"
-          git add public/data/
-          if git diff --staged --quiet; then
-            echo "No data changes to commit"
-          else
-            git commit -m "data: daily scrape $(date -u +%Y-%m-%dT%H:%M:%SZ)"
-            git push
-          fi
-
-  deploy:
-    needs: scrape
-    runs-on: ubuntu-latest
-    timeout-minutes: 15
-
-    steps:
-      - name: Checkout main branch
-        uses: actions/checkout@v4
-        with:
-          ref: main
-
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: '20'
-          cache: 'npm'
-
-      - name: Install dependencies
-        run: npm ci
-
-      - name: Build
-        run: npm run build
-
-      - name: Deploy to Cloudflare Pages
-        uses: cloudflare/wrangler-action@v3
-        with:
-          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
-          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          command: pages deploy dist --project-name=sigma-capital
+          echo "⚠️ This workflow is DEPRECATED. Use 'Fetch Real Data & Deploy' instead."
+          echo "Run: gh workflow run fetch-and-deploy.yml"
+          exit 1

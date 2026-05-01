@@ -10,7 +10,6 @@ on:
     branches: [main]
     paths:
       - 'src/**'
-      - 'public/**'
       - 'package.json'
       - 'vite.config.ts'
       - 'tailwind.config.js'
@@ -20,34 +19,34 @@ on:
 
 jobs:
   deploy:
-    name: 🚀 Build & Deploy
+    name: "\U0001F680 Build & Deploy"
     runs-on: ubuntu-latest
     timeout-minutes: 10
 
     steps:
-      - name: 📥 Checkout
+      - name: "\U0001F4E5 Checkout"
         uses: actions/checkout@v4
 
-      - name: 🟢 Setup Node.js
+      - name: "\U0001F7E2 Setup Node.js"
         uses: actions/setup-node@v4
         with:
           node-version: '20'
           cache: 'npm'
 
-      - name: 📦 Install dependencies
+      - name: "\U0001F4E6 Install dependencies"
         run: npm ci
 
-      - name: 🏗️ Build
+      - name: "\U0001F3D7 Build"
         run: npm run build
 
-      - name: 🚀 Deploy to Cloudflare Pages
+      - name: "\U0001F680 Deploy to Cloudflare Pages"
         uses: cloudflare/wrangler-action@v3
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           command: pages deploy dist --project-name=sigma-capital
 
-      - name: ✅ Deploy summary
+      - name: "\u2705 Deploy summary"
         run: |
           echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
           echo "🚀 Deployed to https://sigma-capital.pages.dev"
