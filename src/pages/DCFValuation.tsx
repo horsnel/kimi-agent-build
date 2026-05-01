@@ -4,7 +4,7 @@ import { ScrollTrigger } from 'gsap/ScrollTrigger';
 import {
   AreaChart, Area, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer,
 } from 'recharts';
-import ComingSoonWrapper from '../components/ComingSoonWrapper';
+
 
 gsap.registerPlugin(ScrollTrigger);
 
@@ -117,13 +117,12 @@ export default function DCFValuation() {
   const fmtM = (v: number) => `$${(v / 1e6).toFixed(0)}M`;
 
   return (
-    <ComingSoonWrapper featureName="DCF Valuation Models" description="Access institutional-grade DCF models with sensitivity analysis and comparable valuations.">
       <div ref={sectionRef}>
       {/* Hero */}
       <section className="dcf-section max-w-7xl mx-auto px-6 pt-24 pb-12">
         <div className="flex items-center gap-3 mb-3">
           <h1 className="text-4xl md:text-5xl font-display font-light text-offwhite">DCF Valuation Models</h1>
-          <span className="px-1.5 py-0.5 text-[10px] font-mono font-medium bg-emerald/20 text-emerald rounded">PRO</span>
+          <span className="px-1.5 py-0.5 text-[10px] font-mono font-medium bg-emerald/20 text-emerald rounded">LIVE</span>
         </div>
         <p className="text-slategray text-lg">Intrinsic value analysis using discounted cash flow methodology</p>
       </section>
@@ -309,6 +308,5 @@ export default function DCFValuation() {
       </section>
 
       </div>
-    </ComingSoonWrapper>
   );
 }

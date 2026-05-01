@@ -1,37 +1,13 @@
-import { useEffect, useRef } from 'react';
+import { useState, useEffect, useRef } from 'react';
 import gsap from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
 import {
   BarChart, Bar, LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, Cell,
 } from 'recharts';
-import ComingSoonWrapper from '../components/ComingSoonWrapper';
+import { fetchCryptoOnChain, type CryptoOnChainData } from '../services/api';
+
 
 gsap.registerPlugin(ScrollTrigger);
-
-const overviewCards = [
-  { label: 'BTC Price', value: '$97,250', icon: '₿' },
-  { label: 'Market Cap', value: '$1.92T', icon: '◉' },
-  { label: '24h Volume', value: '$38.5B', icon: '↔' },
-  { label: 'Active Addresses', value: '1.02M', icon: '◎' },
-];
-
-const exchangeFlows = [
-  { day: 'Mon', flow: 2400 },
-  { day: 'Tue', flow: -1800 },
-  { day: 'Wed', flow: -3200 },
-  { day: 'Thu', flow: 800 },
-  { day: 'Fri', flow: -2100 },
-  { day: 'Sat', flow: 500 },
-  { day: 'Sun', flow: -1500 },
-];
-
-const whaleTransactions = [
-  { time: '1h ago', from: '3FZbgi...', to: 'Binance', amount: 452, value: 43900000, type: 'Transfer' },
-  { time: '2h ago', from: 'Coinbase', to: '1A1zP1...', amount: 1100, value: 107000000, type: 'Withdrawal' },
-  { time: '3h ago', from: 'bc1qxy...', to: 'Kraken', amount: 890, value: 86500000, type: 'Deposit' },
-  { time: '5h ago', from: '3J98t1...', to: '1FeexV...', amount: 2100, value: 204000000, type: 'Transfer' },
-  { time: '8h ago', from: 'Binance', to: 'bc1q42...', amount: 650, value: 63200000, type: 'Withdrawal' },
-];
 
 const typeBadge = (t: string) => {
   if (t === 'Withdrawal') return 'bg-emerald/20 text-emerald';
@@ -45,38 +21,28 @@ const fmtUSD = (v: number) => {
   return `$${v.toLocaleString()}`;
 };
 
-// Generate 30-day active address data oscillating between 800K-1.1M
-const activeAddressesData = Array.from({ length: 30 }, (_, i) => ({
-  day: `${i + 1}`,
-  addresses: Math.round(950000 + Math.sin(i * 0.5) * 120000 + Math.cos(i * 0.3) * 40000 + (Math.sin(i * 1.2) * 30000)),
-}));
-
-const onChainIndicators = [
-  {
-    name: 'NVT Ratio',
-    value: 62.4,
-    badge: 'Normal',
-    badgeColor: 'bg-amber-500/20 text-amber-400',
-    explanation: 'Network Value to Transaction ratio. Elevated (>70) suggests overvaluation; Normal (45-70); Low (<45) suggests undervaluation.',
-  },
-  {
-    name: 'MVRV Z-Score',
-    value: 1.8,
-    badge: 'Neutral',
-    badgeColor: 'bg-amber-500/20 text-amber-400',
-    explanation: 'Market Value to Realized Value Z-Score. Overvalued (>7), Neutral (-1 to 7), Undervalued (<-1).',
-  },
-  {
-    name: 'SOPR',
-    value: 1.04,
-    badge: 'Profit Taking',
-    badgeColor: 'bg-emerald/20 text-emerald',
-    explanation: 'Spent Output Profit Ratio. >1 indicates holders are selling at a profit (profit taking); <1 indicates capitulation.',
-  },
-];
-
 export default function CryptoOnChain() {
+  const [data, setData] = useState<CryptoOnChainData | null>(null);
+  const [loading, setLoading] = useState(true);
   const sectionRef = useRef<HTMLDivElement>(null);
+
+  useEffect(() => {
+    fetchCryptoOnChain()
+      .then(setData)
+      .catch(console.error)
+      .finally(() => setLoading(false));
+  }, []);
+
+  const overviewCards = data ? [
+    { label: 'BTC Price', value: data.btcPrice, icon: '₿' },
+    { label: 'Market Cap', value: data.marketCap, icon: '◉' },
+    { label: '24h Volume', value: data.volume24h, icon: '↔' },
+    { label: 'Active Addresses', value: data.activeAddresses, icon: '◎' },
+  ] : [];
+  const exchangeFlows = data?.exchangeFlows ?? [];
+  const whaleTransactions = data?.whaleTransactions ?? [];
+  const activeAddressesData = data?.activeAddressesData ?? [];
+  const onChainIndicators = data?.onChainIndicators ?? [];
 
   useEffect(() => {
     const ctx = gsap.context(() => {
@@ -88,14 +54,25 @@ export default function CryptoOnChain() {
     return () => ctx.revert();
   }, []);
 
+  if (loading) {
+    return (
+      <div className="max-w-7xl mx-auto px-6 pt-32 pb-24 text-center">
+        <div className="animate-pulse">
+          <div className="h-10 bg-charcoal rounded w-1/3 mx-auto mb-4" />
+          <div className="h-6 bg-charcoal rounded w-1/2 mx-auto" />
+        </div>
+        <p className="text-slategray text-sm mt-4">Loading on-chain analytics...</p>
+      </div>
+    );
+  }
+
   return (
-    <ComingSoonWrapper featureName="Crypto On-Chain Analytics" description="Track whale movements, exchange flows, and on-chain indicators in real-time.">
       <div ref={sectionRef}>
       {/* Hero */}
       <section className="crypto-section max-w-7xl mx-auto px-6 pt-24 pb-12">
         <div className="flex items-center gap-3 mb-3">
           <h1 className="text-4xl md:text-5xl font-display font-light text-offwhite">Crypto On-Chain Analytics</h1>
-          <span className="px-1.5 py-0.5 text-[10px] font-mono font-medium bg-emerald/20 text-emerald rounded">PRO</span>
+          <span className="px-1.5 py-0.5 text-[10px] font-mono font-medium bg-emerald/20 text-emerald rounded">LIVE</span>
         </div>
         <p className="text-slategray text-lg">Deep dive into Bitcoin blockchain metrics and whale activity</p>
       </section>
@@ -211,6 +188,5 @@ export default function CryptoOnChain() {
       </section>
 
       </div>
-    </ComingSoonWrapper>
   );
 }

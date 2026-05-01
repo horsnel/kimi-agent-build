@@ -4,7 +4,7 @@ import { ScrollTrigger } from 'gsap/ScrollTrigger';
 import {
   ScatterChart, Scatter, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, Cell, Legend,
 } from 'recharts';
-import PremiumGate from '../components/PremiumGate';
+
 
 gsap.registerPlugin(ScrollTrigger);
 
@@ -66,14 +66,12 @@ export default function FedDecoder() {
   }, []);
 
   return (
-    <div ref={sectionRef} className="relative">
-      {/* Blurred content behind overlay */}
-      <div className="filter blur-md select-none pointer-events-none" aria-hidden="true">
+    <div ref={sectionRef}>
       {/* Hero */}
       <section className="fed-section max-w-7xl mx-auto px-6 pt-24 pb-12">
         <div className="flex items-center gap-3 mb-3">
           <h1 className="text-4xl md:text-5xl font-display font-light text-offwhite">Fed Policy Decoder</h1>
-          <span className="px-1.5 py-0.5 text-[10px] font-mono font-medium bg-emerald/20 text-emerald rounded">PRO</span>
+          <span className="px-1.5 py-0.5 text-[10px] font-mono font-medium bg-emerald/20 text-emerald rounded">LIVE</span>
         </div>
         <p className="text-slategray text-lg">Decode FOMC statements and understand monetary policy implications</p>
       </section>
@@ -183,19 +181,6 @@ export default function FedDecoder() {
           <p className="text-xs text-slategray mt-4 font-mono">Source: CME FedWatch Tool — Implied probability</p>
         </div>
       </section>
-
-      {/* Premium Gate */}
-      <section className="fed-section max-w-7xl mx-auto px-6 py-12">
-        <PremiumGate featureName="Fed Policy Decoder" description="Get real-time FOMC analysis, dot plot tracking, and rate forecast models." />
-      </section>
-      </div>
-
-      {/* Coming Soon Overlay */}
-      <div className="absolute inset-0 z-10 flex items-center justify-center bg-obsidian/60 backdrop-blur-sm pt-24">
-        <div className="w-full max-w-lg px-6">
-          <PremiumGate featureName="Fed Policy Decoder" description="Get real-time FOMC analysis, dot plot tracking, and rate forecast models." />
-        </div>
-      </div>
     </div>
   );
 }

@@ -2,47 +2,12 @@ import { useState, useEffect, useRef } from 'react';
 import gsap from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
 import { ClockIcon, FilterIcon } from '../components/CustomIcons';
+import { fetchEconomicCalendar, type EconomicEvent as ApiEconomicEvent } from '../services/api';
 
 gsap.registerPlugin(ScrollTrigger);
 
 type Importance = 'High' | 'Medium' | 'Low';
-
-interface EconomicEvent {
-  id: number;
-  date: string;
-  time: string;
-  event: string;
-  country: string;
-  flag: string;
-  importance: Importance;
-  actual: string | null;
-  forecast: string | null;
-  previous: string | null;
-  isPast: boolean;
-}
-
-const economicEvents: EconomicEvent[] = [
-  { id: 1, date: 'Mar 4', time: '08:30 ET', event: 'ISM Manufacturing PMI', country: 'US', flag: '🇺🇸', importance: 'High', actual: '52.3', forecast: '51.8', previous: '51.2', isPast: true },
-  { id: 2, date: 'Mar 4', time: '10:00 ET', event: 'Construction Spending', country: 'US', flag: '🇺🇸', importance: 'Low', actual: '0.6%', forecast: '0.4%', previous: '0.3%', isPast: true },
-  { id: 3, date: 'Mar 5', time: '04:30 GMT', event: 'Services PMI', country: 'EU', flag: '🇪🇺', importance: 'Medium', actual: '51.2', forecast: '50.8', previous: '50.7', isPast: true },
-  { id: 4, date: 'Mar 5', time: '08:15 ET', event: 'ADP Non-Farm Employment', country: 'US', flag: '🇺🇸', importance: 'Medium', actual: '142K', forecast: '150K', previous: '111K', isPast: true },
-  { id: 5, date: 'Mar 5', time: '12:00 GMT', event: 'ECB Rate Decision', country: 'EU', flag: '🇪🇺', importance: 'High', actual: '4.00%', forecast: '4.00%', previous: '4.25%', isPast: true },
-  { id: 6, date: 'Mar 6', time: '02:00 JST', event: 'BoJ Policy Statement', country: 'JP', flag: '🇯🇵', importance: 'High', actual: '-0.10%', forecast: '-0.10%', previous: '-0.10%', isPast: true },
-  { id: 7, date: 'Mar 6', time: '08:30 ET', event: 'Jobless Claims', country: 'US', flag: '🇺🇸', importance: 'Medium', actual: '215K', forecast: '220K', previous: '218K', isPast: true },
-  { id: 8, date: 'Mar 6', time: '07:00 GMT', event: 'GDP (QoQ)', country: 'UK', flag: '🇬🇧', importance: 'High', actual: '0.3%', forecast: '0.2%', previous: '-0.1%', isPast: true },
-  { id: 9, date: 'Mar 7', time: '08:30 ET', event: 'Non-Farm Payrolls', country: 'US', flag: '🇺🇸', importance: 'High', actual: '275K', forecast: '200K', previous: '229K', isPast: true },
-  { id: 10, date: 'Mar 7', time: '08:30 ET', event: 'Unemployment Rate', country: 'US', flag: '🇺🇸', importance: 'High', actual: '3.9%', forecast: '4.0%', previous: '3.7%', isPast: true },
-  { id: 11, date: 'Mar 10', time: '01:30 CST', event: 'CPI (YoY)', country: 'CN', flag: '🇨🇳', importance: 'High', actual: null, forecast: '0.5%', previous: '0.3%', isPast: false },
-  { id: 12, date: 'Mar 11', time: '08:30 ET', event: 'CPI (MoM)', country: 'US', flag: '🇺🇸', importance: 'High', actual: null, forecast: '0.3%', previous: '0.4%', isPast: false },
-  { id: 13, date: 'Mar 11', time: '08:30 ET', event: 'Core CPI (YoY)', country: 'US', flag: '🇺🇸', importance: 'High', actual: null, forecast: '3.7%', previous: '3.9%', isPast: false },
-  { id: 14, date: 'Mar 12', time: '08:30 ET', event: 'Retail Sales (MoM)', country: 'US', flag: '🇺🇸', importance: 'Medium', actual: null, forecast: '0.5%', previous: '0.6%', isPast: false },
-  { id: 15, date: 'Mar 12', time: '07:00 GMT', event: 'Manufacturing PMI', country: 'UK', flag: '🇬🇧', importance: 'Medium', actual: null, forecast: '47.5', previous: '47.1', isPast: false },
-  { id: 16, date: 'Mar 13', time: '08:30 ET', event: 'PPI (MoM)', country: 'US', flag: '🇺🇸', importance: 'Medium', actual: null, forecast: '0.2%', previous: '0.3%', isPast: false },
-  { id: 17, date: 'Mar 14', time: '10:00 ET', event: 'Consumer Sentiment', country: 'US', flag: '🇺🇸', importance: 'Medium', actual: null, forecast: '77.0', previous: '76.9', isPast: false },
-  { id: 18, date: 'Mar 18', time: '14:00 ET', event: 'Fed Rate Decision', country: 'US', flag: '🇺🇸', importance: 'High', actual: null, forecast: '5.25%', previous: '5.50%', isPast: false },
-  { id: 19, date: 'Mar 20', time: '02:00 JST', event: 'BoJ Rate Decision', country: 'JP', flag: '🇯🇵', importance: 'High', actual: null, forecast: '-0.10%', previous: '-0.10%', isPast: false },
-  { id: 20, date: 'Mar 21', time: '07:00 GMT', event: 'Retail Sales (MoM)', country: 'UK', flag: '🇬🇧', importance: 'Medium', actual: null, forecast: '0.8%', previous: '0.5%', isPast: false },
-];
+type EconomicEvent = ApiEconomicEvent;
 
 const timeFilters = ['This Week', 'This Month', 'Next Month'] as const;
 const countryFilters = [
@@ -77,7 +42,16 @@ function compareActualForecast(actual: string | null, forecast: string | null): 
 export default function EconomicCalendar() {
   const [timeFilter, setTimeFilter] = useState<string>('This Week');
   const [selectedCountries, setSelectedCountries] = useState<string[]>([]);
+  const [economicEvents, setEconomicEvents] = useState<EconomicEvent[]>([]);
+  const [loading, setLoading] = useState(true);
   const sectionRef = useRef<HTMLDivElement>(null);
+
+  useEffect(() => {
+    fetchEconomicCalendar()
+      .then(setEconomicEvents)
+      .catch(console.error)
+      .finally(() => setLoading(false));
+  }, []);
 
   useEffect(() => {
     const ctx = gsap.context(() => {
@@ -116,6 +90,18 @@ export default function EconomicCalendar() {
   const highImpact = filtered.filter((e) => e.importance === 'High').length;
   const countries = new Set(filtered.map((e) => e.country)).size;
   const upcoming = filtered.filter((e) => !e.isPast).length;
+
+  if (loading) {
+    return (
+      <div className="max-w-7xl mx-auto px-6 pt-32 pb-24 text-center">
+        <div className="animate-pulse">
+          <div className="h-10 bg-charcoal rounded w-1/3 mx-auto mb-4" />
+          <div className="h-6 bg-charcoal rounded w-1/2 mx-auto" />
+        </div>
+        <p className="text-slategray text-sm mt-4">Loading economic calendar...</p>
+      </div>
+    );
+  }
 
   return (
     <div ref={sectionRef}>

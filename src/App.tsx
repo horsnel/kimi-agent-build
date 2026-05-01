@@ -23,12 +23,20 @@ import FedDecoder from './pages/FedDecoder';
 import CryptoOnChain from './pages/CryptoOnChain';
 import HedgeFundTracker from './pages/HedgeFundTracker';
 import IPOPipeline from './pages/IPOPipeline';
+import AIAdvisor from './pages/AIAdvisor';
+import RealTimeAlerts from './pages/RealTimeAlerts';
+import PortfolioOptimizer from './pages/PortfolioOptimizer';
 import MemberDashboard from './pages/MemberDashboard';
 import NewsletterArchive from './pages/NewsletterArchive';
 import Glossary from './pages/Glossary';
 import PodcastHub from './pages/PodcastHub';
 import ContributorPortal from './pages/ContributorPortal';
 import NotFound from './pages/NotFound';
+import ArticleDetail from './pages/ArticleDetail';
+import PrivacyPolicy from './pages/PrivacyPolicy';
+import TermsOfService from './pages/TermsOfService';
+import Disclaimer from './pages/Disclaimer';
+import CookiePolicy from './pages/CookiePolicy';
 
 export default function App() {
   return (
@@ -58,11 +66,22 @@ export default function App() {
           <Route path="/premium/crypto-onchain" element={<CryptoOnChain />} />
           <Route path="/premium/hedge-fund" element={<HedgeFundTracker />} />
           <Route path="/premium/ipo-pipeline" element={<IPOPipeline />} />
+          <Route path="/premium/ai-advisor" element={<AIAdvisor />} />
+          <Route path="/premium/real-time-alerts" element={<RealTimeAlerts />} />
+          <Route path="/premium/portfolio-optimizer" element={<PortfolioOptimizer />} />
           <Route path="/dashboard" element={<MemberDashboard />} />
           <Route path="/newsletter" element={<NewsletterArchive />} />
           <Route path="/glossary" element={<Glossary />} />
           <Route path="/podcast" element={<PodcastHub />} />
           <Route path="/contribute" element={<ContributorPortal />} />
+          <Route path="/news/:id" element={<ArticleDetail />} />
+          <Route path="/research/:id" element={<ArticleDetail />} />
+          <Route path="/education/:id" element={<ArticleDetail />} />
+          <Route path="/editorial/:id" element={<ArticleDetail />} />
+          <Route path="/privacy" element={<PrivacyPolicy />} />
+          <Route path="/terms" element={<TermsOfService />} />
+          <Route path="/disclaimer" element={<Disclaimer />} />
+          <Route path="/cookies" element={<CookiePolicy />} />
           <Route path="*" element={<NotFound />} />
         </Routes>
       </main>

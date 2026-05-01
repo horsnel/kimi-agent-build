@@ -1,4 +1,5 @@
 import { useState, useEffect, useRef, useMemo } from 'react';
+import { Link } from 'react-router';
 import gsap from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
 import { AreaChart, Area, ResponsiveContainer } from 'recharts';
@@ -248,32 +249,34 @@ export default function News() {
       {/* Featured Article */}
       {featured && (
         <section className="news-section max-w-7xl mx-auto px-6 pb-8">
-          <div className="relative rounded-xl overflow-hidden min-h-[320px] md:min-h-[400px] bg-gradient-to-br from-charcoal via-deepblack to-charcoal border border-subtleborder group cursor-pointer">
-            <div className="absolute inset-0 bg-gradient-to-r from-obsidian/90 via-obsidian/70 to-transparent z-10" />
-            <div className="absolute inset-0 bg-gradient-to-t from-obsidian/80 via-transparent to-transparent z-10" />
-            <div className="absolute top-10 right-10 w-64 h-64 bg-emerald/5 rounded-full blur-3xl" />
-            <div className="absolute bottom-0 right-20 w-48 h-48 bg-chartblue/5 rounded-full blur-3xl" />
-            <div className="relative z-20 p-8 md:p-12 flex flex-col justify-end h-full min-h-[320px] md:min-h-[400px]">
-              <div className="flex items-center gap-3 mb-4">
-                <CategoryBadge category={featured.category} />
-                <span className="text-xs font-mono text-slategray flex items-center gap-1">
-                  <ClockIcon size={12} /> {featured.date}
-                </span>
-              </div>
-              <h2 className="text-2xl md:text-4xl font-display font-light text-offwhite max-w-3xl mb-3 leading-tight group-hover:text-emerald transition-colors">
-                {featured.headline}
-              </h2>
-              <p className="text-slategray max-w-2xl leading-relaxed mb-4 text-sm md:text-base">
-                {featured.excerpt}
-              </p>
-              <div className="flex items-center justify-between">
-                <span className="text-xs font-mono text-slategray">By {featured.author}</span>
-                <span className="text-emerald flex items-center gap-1 text-sm font-mono group-hover:gap-2 transition-all">
-                  Read More <ArrowRightIcon size={14} />
-                </span>
+          <Link to={`/news/${featured.id}`} className="block">
+            <div className="relative rounded-xl overflow-hidden min-h-[320px] md:min-h-[400px] bg-gradient-to-br from-charcoal via-deepblack to-charcoal border border-subtleborder group cursor-pointer">
+              <div className="absolute inset-0 bg-gradient-to-r from-obsidian/90 via-obsidian/70 to-transparent z-10" />
+              <div className="absolute inset-0 bg-gradient-to-t from-obsidian/80 via-transparent to-transparent z-10" />
+              <div className="absolute top-10 right-10 w-64 h-64 bg-emerald/5 rounded-full blur-3xl" />
+              <div className="absolute bottom-0 right-20 w-48 h-48 bg-chartblue/5 rounded-full blur-3xl" />
+              <div className="relative z-20 p-8 md:p-12 flex flex-col justify-end h-full min-h-[320px] md:min-h-[400px]">
+                <div className="flex items-center gap-3 mb-4">
+                  <CategoryBadge category={featured.category} />
+                  <span className="text-xs font-mono text-slategray flex items-center gap-1">
+                    <ClockIcon size={12} /> {featured.date}
+                  </span>
+                </div>
+                <h2 className="text-2xl md:text-4xl font-display font-light text-offwhite max-w-3xl mb-3 leading-tight group-hover:text-emerald transition-colors">
+                  {featured.headline}
+                </h2>
+                <p className="text-slategray max-w-2xl leading-relaxed mb-4 text-sm md:text-base">
+                  {featured.excerpt}
+                </p>
+                <div className="flex items-center justify-between">
+                  <span className="text-xs font-mono text-slategray">By {featured.author}</span>
+                  <span className="text-emerald flex items-center gap-1 text-sm font-mono group-hover:gap-2 transition-all">
+                    Read More <ArrowRightIcon size={14} />
+                  </span>
+                </div>
               </div>
             </div>
-          </div>
+          </Link>
         </section>
       )}
 
@@ -300,9 +303,10 @@ export default function News() {
       <section className="news-section max-w-7xl mx-auto px-6 pb-12">
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
           {filtered.map((article) => (
-            <article
+            <Link
               key={article.id}
-              className="group bg-charcoal border border-subtleborder rounded-xl p-6 hover:border-emerald/50 transition-colors cursor-pointer"
+              to={`/news/${article.id}`}
+              className="group bg-charcoal border border-subtleborder rounded-xl p-6 hover:border-emerald/50 transition-colors cursor-pointer block"
             >
               <div className="flex items-center gap-3 mb-3">
                 <CategoryBadge category={article.category} />
@@ -322,7 +326,7 @@ export default function News() {
                   <ArrowRightIcon size={14} />
                 </span>
               </div>
-            </article>
+            </Link>
           ))}
         </div>
       </section>

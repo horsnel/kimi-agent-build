@@ -184,7 +184,7 @@ export default function Home() {
                 </h3>
                 <p className="text-slategray leading-relaxed mb-6">{article.subtitle}</p>
                 <Link
-                  to="/research"
+                  to={`/editorial/${idx}`}
                   className="inline-flex items-center gap-2 text-sm text-emerald hover:text-offwhite transition-colors"
                 >
                   Read Analysis <ArrowRightIcon size={16} />

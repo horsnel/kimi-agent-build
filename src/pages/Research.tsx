@@ -8,6 +8,7 @@ gsap.registerPlugin(ScrollTrigger);
 
 const articles = [
   {
+    id: 0,
     title: 'Q3 Macro Outlook: The Liquidity Crunch',
     abstract: 'Central bank balance sheets are contracting at an unprecedented pace. We analyze the downstream effects on credit markets, emerging economies, and sovereign debt yields.',
     image: '/images/article_thumb_1.jpg',
@@ -17,6 +18,7 @@ const articles = [
     featured: true,
   },
   {
+    id: 1,
     title: 'The Architecture of Trustless Settlement',
     abstract: 'How zero-knowledge proofs are reshaping clearing and custody infrastructure across institutional finance.',
     image: '/images/article_thumb_2.jpg',
@@ -26,6 +28,7 @@ const articles = [
     featured: false,
   },
   {
+    id: 2,
     title: 'Silicon Minds: AI Trading Systems',
     abstract: 'A deep-dive into the neural architectures powering modern algorithmic trading desks and their alpha generation capabilities.',
     image: '/images/article_thumb_3.jpg',
@@ -35,6 +38,7 @@ const articles = [
     featured: false,
   },
   {
+    id: 3,
     title: 'Network Effects in Digital Economies',
     abstract: 'Analyzing the topological properties of value flows in decentralized financial networks.',
     image: '/images/article_thumb_4.jpg',
@@ -44,6 +48,7 @@ const articles = [
     featured: false,
   },
   {
+    id: 4,
     title: 'Refraction: Risk Through Many Lenses',
     abstract: 'Multi-factor risk decomposition for modern portfolios spanning traditional and digital assets.',
     image: '/images/article_thumb_5.jpg',
@@ -53,6 +58,7 @@ const articles = [
     featured: false,
   },
   {
+    id: 5,
     title: 'Data Centers of Capital',
     abstract: 'The physical infrastructure behind financial computation and its implications for latency arbitrage.',
     image: '/images/article_thumb_6.jpg',
@@ -129,7 +135,7 @@ export default function Research() {
               {featured.abstract}
             </p>
             <Link
-              to="#"
+              to={`/research/${featured.id}`}
               className="inline-flex items-center gap-2 px-6 py-3 bg-emerald text-obsidian text-sm font-medium hover:bg-emerald/90 transition-colors"
             >
               Read Full Report <ArrowRightIcon size={16} />
@@ -147,9 +153,10 @@ export default function Research() {
 
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
           {archive.map((article, idx) => (
-            <article
+            <Link
               key={idx}
-              className="research-card group bg-charcoal border border-subtleborder rounded-xl overflow-hidden hover:border-emerald/50 transition-colors"
+              to={`/research/${article.id}`}
+              className="research-card group bg-charcoal border border-subtleborder rounded-xl overflow-hidden hover:border-emerald/50 transition-colors block"
             >
               <div className="overflow-hidden">
                 <img
@@ -179,7 +186,7 @@ export default function Research() {
                   </span>
                 </div>
               </div>
-            </article>
+            </Link>
           ))}
         </div>
       </section>

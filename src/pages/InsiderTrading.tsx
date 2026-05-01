@@ -1,37 +1,13 @@
-import { useEffect, useRef } from 'react';
+import { useState, useEffect, useRef } from 'react';
 import gsap from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
 import {
   BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer,
 } from 'recharts';
-import ComingSoonWrapper from '../components/ComingSoonWrapper';
+import { fetchInsiderTrading, type InsiderFiling } from '../services/api';
+
 
 gsap.registerPlugin(ScrollTrigger);
-
-const filings = [
-  { date: 'Jan 22, 2026', insider: 'Tim Cook', title: 'CEO', company: 'AAPL', transaction: 'Sale', shares: 100000, price: 210, totalValue: 21000000 },
-  { date: 'Jan 21, 2026', insider: 'Jensen Huang', title: 'CEO', company: 'NVDA', transaction: 'Sale', shares: 50000, price: 620, totalValue: 31000000 },
-  { date: 'Jan 20, 2026', insider: 'Satya Nadella', title: 'CEO', company: 'MSFT', transaction: 'Purchase', shares: 10000, price: 420, totalValue: 4200000 },
-  { date: 'Jan 19, 2026', insider: 'Mark Zuckerberg', title: 'CEO', company: 'META', transaction: 'Sale', shares: 28000, price: 520, totalValue: 14560000 },
-  { date: 'Jan 18, 2026', insider: 'Andy Jassy', title: 'CEO', company: 'AMZN', transaction: 'Sale', shares: 20000, price: 185, totalValue: 3700000 },
-  { date: 'Jan 17, 2026', insider: 'Jamie Dimon', title: 'CEO', company: 'JPM', transaction: 'Sale', shares: 75000, price: 168, totalValue: 12600000 },
-  { date: 'Jan 16, 2026', insider: 'Lisa Su', title: 'CEO', company: 'AMD', transaction: 'Purchase', shares: 15000, price: 145, totalValue: 2175000 },
-  { date: 'Jan 15, 2026', insider: 'Safra Catz', title: 'CEO', company: 'ORCL', transaction: 'Sale', shares: 40000, price: 132, totalValue: 5280000 },
-  { date: 'Jan 14, 2026', insider: 'Arvind Krishna', title: 'CEO', company: 'IBM', transaction: 'Purchase', shares: 8000, price: 198, totalValue: 1584000 },
-  { date: 'Jan 13, 2026', insider: 'David Solomon', title: 'CEO', company: 'GS', transaction: 'Sale', shares: 18000, price: 425, totalValue: 7650000 },
-  { date: 'Jan 12, 2026', insider: 'Jane Fraser', title: 'CEO', company: 'C', transaction: 'Purchase', shares: 25000, price: 62, totalValue: 1550000 },
-  { date: 'Jan 11, 2026', insider: 'Brian Moynihan', title: 'CEO', company: 'BAC', transaction: 'Sale', shares: 35000, price: 38, totalValue: 1330000 },
-  { date: 'Jan 10, 2026', insider: 'Pat Gelsinger', title: 'Former CEO', company: 'INTC', transaction: 'Sale', shares: 50000, price: 24, totalValue: 1200000 },
-  { date: 'Jan 9, 2026', insider: 'Reed Hastings', title: 'Chairman', company: 'NFLX', transaction: 'Sale', shares: 12000, price: 680, totalValue: 8160000 },
-];
-
-const topSellers = [
-  { name: 'J. Huang (NVDA)', value: 31.0 },
-  { name: 'T. Cook (AAPL)', value: 21.0 },
-  { name: 'M. Zuckerberg (META)', value: 14.56 },
-  { name: 'J. Dimon (JPM)', value: 12.6 },
-  { name: 'D. Solomon (GS)', value: 7.65 },
-];
 
 const clusters = [
   { title: 'Multiple AAPL Execs Sold', description: '3 insiders sold in past week', totalValue: '$42M', badge: 'crimson' },
@@ -46,7 +22,22 @@ const fmtCurrency = (v: number) => {
 };
 
 export default function InsiderTrading() {
+  const [filings, setFilings] = useState<InsiderFiling[]>([]);
+  const [loading, setLoading] = useState(true);
   const sectionRef = useRef<HTMLDivElement>(null);
+
+  useEffect(() => {
+    fetchInsiderTrading()
+      .then(setFilings)
+      .catch(console.error)
+      .finally(() => setLoading(false));
+  }, []);
+
+  const topSellers = filings
+    .filter((f) => f.transaction === 'Sale')
+    .sort((a, b) => b.totalValue - a.totalValue)
+    .slice(0, 5)
+    .map((f) => ({ name: `${f.insider.split(' ')[0][0]}. ${f.insider.split(' ').slice(1).join(' ')} (${f.company})`, value: Math.round(f.totalValue / 1000000 * 100) / 100 }));
 
   useEffect(() => {
     const ctx = gsap.context(() => {
@@ -58,14 +49,25 @@ export default function InsiderTrading() {
     return () => ctx.revert();
   }, []);
 
+  if (loading) {
+    return (
+      <div className="max-w-7xl mx-auto px-6 pt-32 pb-24 text-center">
+        <div className="animate-pulse">
+          <div className="h-10 bg-charcoal rounded w-1/3 mx-auto mb-4" />
+          <div className="h-6 bg-charcoal rounded w-1/2 mx-auto" />
+        </div>
+        <p className="text-slategray text-sm mt-4">Loading insider trading data...</p>
+      </div>
+    );
+  }
+
   return (
-    <ComingSoonWrapper featureName="Insider Trading Dashboard" description="Track Form 4 filings, insider sentiment, and congressional trading in real-time.">
       <div ref={sectionRef}>
         {/* Hero */}
         <section className="ins-section max-w-7xl mx-auto px-6 pt-24 pb-12">
           <div className="flex items-center gap-3 mb-3">
             <h1 className="text-4xl md:text-5xl font-display font-light text-offwhite">Insider Trading Dashboard</h1>
-            <span className="px-1.5 py-0.5 text-[10px] font-mono font-medium bg-emerald/20 text-emerald rounded">PRO</span>
+            <span className="px-1.5 py-0.5 text-[10px] font-mono font-medium bg-emerald/20 text-emerald rounded">LIVE</span>
           </div>
           <p className="text-slategray text-lg">Track Form 4 filings and insider activity</p>
         </section>
@@ -171,6 +173,5 @@ export default function InsiderTrading() {
           </div>
         </section>
       </div>
-    </ComingSoonWrapper>
   );
 }

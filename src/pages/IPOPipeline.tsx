@@ -1,10 +1,11 @@
-import { useEffect, useRef } from 'react';
+import { useState, useEffect, useRef } from 'react';
 import gsap from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
 import {
   BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer,
 } from 'recharts';
-import ComingSoonWrapper from '../components/ComingSoonWrapper';
+import { fetchIpoPipeline, type IpoData } from '../services/api';
+
 
 gsap.registerPlugin(ScrollTrigger);
 
@@ -17,39 +18,11 @@ const ipoCalendar = [
   { month: 'Oct 2026', count: 7 },
 ];
 
-const upcomingIPOs = [
-  { company: 'Stripe', date: 'May 2026', valuation: 65, underwriters: 'GS / MS', sector: 'Fintech', risk: 'Medium' },
-  { company: 'Databricks', date: 'Jun 2026', valuation: 43, underwriters: 'JPM / GS', sector: 'Enterprise Software', risk: 'Low' },
-  { company: 'Canva', date: 'Jun 2026', valuation: 26, underwriters: 'MS / UBS', sector: 'Design SaaS', risk: 'Low' },
-  { company: 'SpaceX Spinoff', date: 'Jul 2026', valuation: 15, underwriters: 'Unspecified', sector: 'Aerospace', risk: 'High' },
-  { company: 'Discord', date: 'Jul 2026', valuation: 15, underwriters: 'GS / MS', sector: 'Communication', risk: 'Medium' },
-  { company: 'Plaid', date: 'Aug 2026', valuation: 12, underwriters: 'JPM / Citi', sector: 'Fintech', risk: 'Low' },
-  { company: 'Anduril', date: 'Sep 2026', valuation: 8, underwriters: 'Unspecified', sector: 'Defense Tech', risk: 'High' },
-  { company: 'Wiz', date: 'Sep 2026', valuation: 7, underwriters: 'GS / MS', sector: 'Cybersecurity', risk: 'Low' },
-  { company: 'Rippling', date: 'Oct 2026', valuation: 5, underwriters: 'Unspecified', sector: 'HR SaaS', risk: 'Medium' },
-];
-
 const riskBadge = (r: string) => {
   if (r === 'Low') return 'bg-emerald/20 text-emerald';
   if (r === 'Medium') return 'bg-amber-500/20 text-amber-400';
   return 'bg-crimson/20 text-crimson';
 };
-
-const recentIPOs = [
-  { company: 'Arm Holdings', ipoPrice: 51, currentPrice: 68, returnPct: 33.3 },
-  { company: 'Instacart', ipoPrice: 30, currentPrice: 28, returnPct: -6.7 },
-  { company: 'Klaviyo', ipoPrice: 30, currentPrice: 36, returnPct: 20.0 },
-  { company: 'Birkenstock', ipoPrice: 46, currentPrice: 52, returnPct: 13.0 },
-  { company: 'Cava', ipoPrice: 22, currentPrice: 48, returnPct: 118.2 },
-  { company: 'Oddity Tech', ipoPrice: 35, currentPrice: 42, returnPct: 20.0 },
-];
-
-const spacs = [
-  { name: 'Aurora Acquisition Corp.', ticker: 'AURC', status: 'Searching', target: 'Fintech', trust: '$240M' },
-  { name: 'Horizon Capital II', ticker: 'HZNC', status: 'Filed', target: 'Healthcare', trust: '$180M' },
-  { name: 'Graphite Holdings', ticker: 'GRPH', status: 'Merger Vote', target: 'AI/ML', trust: '$320M' },
-  { name: 'Vantage Point Inc.', ticker: 'VPTI', status: 'Closing', target: 'Clean Energy', trust: '$150M' },
-];
 
 const spacBadge = (s: string) => {
   if (s === 'Searching') return 'bg-amber-500/20 text-amber-400';
@@ -59,7 +32,20 @@ const spacBadge = (s: string) => {
 };
 
 export default function IPOPipeline() {
+  const [ipoData, setIpoData] = useState<IpoData | null>(null);
+  const [loading, setLoading] = useState(true);
   const sectionRef = useRef<HTMLDivElement>(null);
+
+  useEffect(() => {
+    fetchIpoPipeline()
+      .then(setIpoData)
+      .catch(console.error)
+      .finally(() => setLoading(false));
+  }, []);
+
+  const upcomingIPOs = ipoData?.upcoming ?? [];
+  const recentIPOs = ipoData?.recent ?? [];
+  const spacs = ipoData?.spacs ?? [];
 
   useEffect(() => {
     const ctx = gsap.context(() => {
@@ -71,14 +57,25 @@ export default function IPOPipeline() {
     return () => ctx.revert();
   }, []);
 
+  if (loading) {
+    return (
+      <div className="max-w-7xl mx-auto px-6 pt-32 pb-24 text-center">
+        <div className="animate-pulse">
+          <div className="h-10 bg-charcoal rounded w-1/3 mx-auto mb-4" />
+          <div className="h-6 bg-charcoal rounded w-1/2 mx-auto" />
+        </div>
+        <p className="text-slategray text-sm mt-4">Loading IPO pipeline data...</p>
+      </div>
+    );
+  }
+
   return (
-    <ComingSoonWrapper featureName="IPO Pipeline" description="Track upcoming IPOs, recent listings, and SPAC activity with risk assessments.">
       <div ref={sectionRef}>
       {/* Hero */}
       <section className="ipo-section max-w-7xl mx-auto px-6 pt-24 pb-12">
         <div className="flex items-center gap-3 mb-3">
           <h1 className="text-4xl md:text-5xl font-display font-light text-offwhite">IPO Pipeline</h1>
-          <span className="px-1.5 py-0.5 text-[10px] font-mono font-medium bg-emerald/20 text-emerald rounded">PRO</span>
+          <span className="px-1.5 py-0.5 text-[10px] font-mono font-medium bg-emerald/20 text-emerald rounded">LIVE</span>
         </div>
         <p className="text-slategray text-lg">Track upcoming public offerings and recently listed companies</p>
       </section>
@@ -202,6 +199,5 @@ export default function IPOPipeline() {
       </section>
 
       </div>
-    </ComingSoonWrapper>
   );
 }

@@ -5,7 +5,7 @@ import {
   RadarChart, Radar, PolarGrid, PolarAngleAxis, PolarRadiusAxis,
   BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, Cell, Legend,
 } from 'recharts';
-import ComingSoonWrapper from '../components/ComingSoonWrapper';
+
 
 gsap.registerPlugin(ScrollTrigger);
 
@@ -72,13 +72,12 @@ export default function SectorRotation() {
   }, []);
 
   return (
-    <ComingSoonWrapper featureName="Sector Rotation Tracker" description="Get real-time sector rotation signals with institutional-grade money flow data.">
       <div ref={sectionRef}>
         {/* Hero */}
         <section className="sr-section max-w-7xl mx-auto px-6 pt-24 pb-12">
           <div className="flex items-center gap-3 mb-3">
             <h1 className="text-4xl md:text-5xl font-display font-light text-offwhite">Sector Rotation Tracker</h1>
-            <span className="px-1.5 py-0.5 text-[10px] font-mono font-medium bg-emerald/20 text-emerald rounded">PRO</span>
+            <span className="px-1.5 py-0.5 text-[10px] font-mono font-medium bg-emerald/20 text-emerald rounded">LIVE</span>
           </div>
           <p className="text-slategray text-lg">Dynamic sector allocation signals based on macro regime</p>
         </section>
@@ -180,6 +179,5 @@ export default function SectorRotation() {
           </div>
         </section>
       </div>
-    </ComingSoonWrapper>
   );
 }

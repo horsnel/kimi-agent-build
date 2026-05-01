@@ -4,21 +4,12 @@ import { ScrollTrigger } from 'gsap/ScrollTrigger';
 import {
   PieChart, Pie, Cell, Tooltip, ResponsiveContainer, Legend,
 } from 'recharts';
-import ComingSoonWrapper from '../components/ComingSoonWrapper';
+import { fetchHedgeFundTracker, type HedgeFundData } from '../services/api';
+
 
 gsap.registerPlugin(ScrollTrigger);
 
-interface FundData {
-  name: string;
-  aum: string;
-  holdings: number;
-  topHolding: string;
-  positions: { stock: string; shares: string; value: number; pct: number; change: string }[];
-  sectors: { name: string; value: number }[];
-  notableMoves: { title: string; detail: string; badge: string }[];
-}
-
-const funds: Record<string, FundData> = {
+const defaultFunds: Record<string, HedgeFundData> = {
   Citadel: {
     name: 'Citadel',
     aum: '$63B',
@@ -219,8 +210,6 @@ const funds: Record<string, FundData> = {
   },
 };
 
-const fundKeys = Object.keys(funds);
-
 const sectorColors: Record<string, string> = {
   Technology: '#10B981',
   Healthcare: '#3B82F6',
@@ -238,9 +227,22 @@ const changeBadge = (c: string) => {
 };
 
 export default function HedgeFundTracker() {
+  const [funds, setFunds] = useState<Record<string, HedgeFundData>>(defaultFunds);
+  const [loading, setLoading] = useState(true);
   const [selected, setSelected] = useState<string>('Citadel');
   const sectionRef = useRef<HTMLDivElement>(null);
-  const fund = funds[selected];
+
+  useEffect(() => {
+    fetchHedgeFundTracker()
+      .then((data) => {
+        if (data && Object.keys(data).length > 0) {
+          setFunds(data);
+          if (!data[selected] && Object.keys(data).length > 0) setSelected(Object.keys(data)[0]);
+        }
+      })
+      .catch(console.error)
+      .finally(() => setLoading(false));
+  }, []);
 
   useEffect(() => {
     const ctx = gsap.context(() => {
@@ -252,14 +254,28 @@ export default function HedgeFundTracker() {
     return () => ctx.revert();
   }, []);
 
+  if (loading) {
+    return (
+      <div className="max-w-7xl mx-auto px-6 pt-32 pb-24 text-center">
+        <div className="animate-pulse">
+          <div className="h-10 bg-charcoal rounded w-1/3 mx-auto mb-4" />
+          <div className="h-6 bg-charcoal rounded w-1/2 mx-auto" />
+        </div>
+        <p className="text-slategray text-sm mt-4">Loading hedge fund data...</p>
+      </div>
+    );
+  }
+
+  const fundKeys = Object.keys(funds);
+  const fund = funds[selected];
+
   return (
-    <ComingSoonWrapper featureName="Hedge Fund Tracker" description="Monitor 13F filings, hedge fund positions, and notable portfolio changes.">
       <div ref={sectionRef}>
       {/* Hero */}
       <section className="hf-section max-w-7xl mx-auto px-6 pt-24 pb-12">
         <div className="flex items-center gap-3 mb-3">
           <h1 className="text-4xl md:text-5xl font-display font-light text-offwhite">Hedge Fund Tracker</h1>
-          <span className="px-1.5 py-0.5 text-[10px] font-mono font-medium bg-emerald/20 text-emerald rounded">PRO</span>
+          <span className="px-1.5 py-0.5 text-[10px] font-mono font-medium bg-emerald/20 text-emerald rounded">LIVE</span>
         </div>
         <p className="text-slategray text-lg">Monitor institutional positions from the latest 13F filings</p>
       </section>
@@ -375,6 +391,5 @@ export default function HedgeFundTracker() {
       )}
 
       </div>
-    </ComingSoonWrapper>
   );
 }

@@ -4,127 +4,12 @@ import { ScrollTrigger } from 'gsap/ScrollTrigger';
 import {
   BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, Cell, Legend,
 } from 'recharts';
-import ComingSoonWrapper from '../components/ComingSoonWrapper';
+import { fetchEarningsCalendar, type EarningsCompany } from '../services/api';
+
 
 gsap.registerPlugin(ScrollTrigger);
 
-interface CompanyData {
-  name: string;
-  epsHistory: { quarter: string; estimate: number; actual: number }[];
-  whisperNumber: number;
-  consensusEPS: number;
-  sentiment: 'Bullish' | 'Neutral' | 'Bearish';
-  beatRate: number;
-}
-
-const companyData: Record<string, CompanyData> = {
-  AAPL: {
-    name: 'Apple Inc.',
-    epsHistory: [
-      { quarter: 'Q1 2025', estimate: 1.90, actual: 2.10 },
-      { quarter: 'Q2 2025', estimate: 1.55, actual: 1.65 },
-      { quarter: 'Q3 2025', estimate: 1.45, actual: 1.52 },
-      { quarter: 'Q4 2025', estimate: 2.40, actual: 2.50 },
-    ],
-    whisperNumber: 2.58,
-    consensusEPS: 2.45,
-    sentiment: 'Bullish',
-    beatRate: 82,
-  },
-  MSFT: {
-    name: 'Microsoft Corp.',
-    epsHistory: [
-      { quarter: 'Q1 2025', estimate: 2.78, actual: 2.95 },
-      { quarter: 'Q2 2025', estimate: 2.95, actual: 3.10 },
-      { quarter: 'Q3 2025', estimate: 3.05, actual: 3.22 },
-      { quarter: 'Q4 2025', estimate: 3.18, actual: 3.30 },
-    ],
-    whisperNumber: 3.35,
-    consensusEPS: 3.22,
-    sentiment: 'Bullish',
-    beatRate: 88,
-  },
-  GOOGL: {
-    name: 'Alphabet Inc.',
-    epsHistory: [
-      { quarter: 'Q1 2025', estimate: 1.52, actual: 1.59 },
-      { quarter: 'Q2 2025', estimate: 1.65, actual: 1.72 },
-      { quarter: 'Q3 2025', estimate: 1.78, actual: 1.84 },
-      { quarter: 'Q4 2025', estimate: 1.95, actual: 2.02 },
-    ],
-    whisperNumber: 2.05,
-    consensusEPS: 1.98,
-    sentiment: 'Neutral',
-    beatRate: 75,
-  },
-  AMZN: {
-    name: 'Amazon.com Inc.',
-    epsHistory: [
-      { quarter: 'Q1 2025', estimate: 0.82, actual: 0.98 },
-      { quarter: 'Q2 2025', estimate: 1.05, actual: 1.18 },
-      { quarter: 'Q3 2025', estimate: 1.22, actual: 1.35 },
-      { quarter: 'Q4 2025', estimate: 1.48, actual: 1.62 },
-    ],
-    whisperNumber: 1.68,
-    consensusEPS: 1.52,
-    sentiment: 'Bullish',
-    beatRate: 78,
-  },
-  META: {
-    name: 'Meta Platforms',
-    epsHistory: [
-      { quarter: 'Q1 2025', estimate: 4.35, actual: 4.72 },
-      { quarter: 'Q2 2025', estimate: 4.80, actual: 5.16 },
-      { quarter: 'Q3 2025', estimate: 5.10, actual: 5.42 },
-      { quarter: 'Q4 2025', estimate: 5.50, actual: 5.88 },
-    ],
-    whisperNumber: 5.95,
-    consensusEPS: 5.62,
-    sentiment: 'Bullish',
-    beatRate: 85,
-  },
-  TSLA: {
-    name: 'Tesla Inc.',
-    epsHistory: [
-      { quarter: 'Q1 2025', estimate: 0.75, actual: 0.62 },
-      { quarter: 'Q2 2025', estimate: 0.82, actual: 0.78 },
-      { quarter: 'Q3 2025', estimate: 0.90, actual: 0.85 },
-      { quarter: 'Q4 2025', estimate: 1.05, actual: 0.95 },
-    ],
-    whisperNumber: 0.92,
-    consensusEPS: 1.02,
-    sentiment: 'Bearish',
-    beatRate: 42,
-  },
-  NVDA: {
-    name: 'NVIDIA Corp.',
-    epsHistory: [
-      { quarter: 'Q1 2025', estimate: 0.64, actual: 0.82 },
-      { quarter: 'Q2 2025', estimate: 0.90, actual: 1.12 },
-      { quarter: 'Q3 2025', estimate: 1.20, actual: 1.45 },
-      { quarter: 'Q4 2025', estimate: 1.55, actual: 1.82 },
-    ],
-    whisperNumber: 1.90,
-    consensusEPS: 1.65,
-    sentiment: 'Bullish',
-    beatRate: 92,
-  },
-  NFLX: {
-    name: 'Netflix Inc.',
-    epsHistory: [
-      { quarter: 'Q1 2025', estimate: 4.50, actual: 5.28 },
-      { quarter: 'Q2 2025', estimate: 5.80, actual: 6.10 },
-      { quarter: 'Q3 2025', estimate: 6.40, actual: 7.02 },
-      { quarter: 'Q4 2025', estimate: 7.20, actual: 7.85 },
-    ],
-    whisperNumber: 8.10,
-    consensusEPS: 7.50,
-    sentiment: 'Bullish',
-    beatRate: 80,
-  },
-};
-
-const tickers = Object.keys(companyData);
+type CompanyData = EarningsCompany;
 
 const sentimentBadge = (s: string) => {
   if (s === 'Bullish') return 'bg-emerald/20 text-emerald';
@@ -134,8 +19,23 @@ const sentimentBadge = (s: string) => {
 
 export default function EarningsPreview() {
   const [selected, setSelected] = useState<string>('AAPL');
+  const [companyData, setCompanyData] = useState<Record<string, CompanyData>>({});
+  const [loading, setLoading] = useState(true);
   const sectionRef = useRef<HTMLDivElement>(null);
 
+  useEffect(() => {
+    fetchEarningsCalendar()
+      .then((data) => {
+        const map: Record<string, CompanyData> = {};
+        data.forEach((c) => { map[c.ticker] = c; });
+        setCompanyData(map);
+        if (!map[selected] && data.length > 0) setSelected(data[0].ticker);
+      })
+      .catch(console.error)
+      .finally(() => setLoading(false));
+  }, []);
+
+  const tickers = Object.keys(companyData);
   const data = companyData[selected];
 
   useEffect(() => {
@@ -148,14 +48,25 @@ export default function EarningsPreview() {
     return () => ctx.revert();
   }, []);
 
+  if (loading) {
+    return (
+      <div className="max-w-7xl mx-auto px-6 pt-32 pb-24 text-center">
+        <div className="animate-pulse">
+          <div className="h-10 bg-charcoal rounded w-1/3 mx-auto mb-4" />
+          <div className="h-6 bg-charcoal rounded w-1/2 mx-auto" />
+        </div>
+        <p className="text-slategray text-sm mt-4">Loading earnings data...</p>
+      </div>
+    );
+  }
+
   return (
-    <ComingSoonWrapper featureName="Earnings Preview Engine" description="Get whisper numbers, earnings estimates, and surprise predictions before reports.">
       <div ref={sectionRef}>
       {/* Hero */}
       <section className="ep-section max-w-7xl mx-auto px-6 pt-24 pb-12">
         <div className="flex items-center gap-3 mb-3">
           <h1 className="text-4xl md:text-5xl font-display font-light text-offwhite">Earnings Preview Engine</h1>
-          <span className="px-1.5 py-0.5 text-[10px] font-mono font-medium bg-emerald/20 text-emerald rounded">PRO</span>
+          <span className="px-1.5 py-0.5 text-[10px] font-mono font-medium bg-emerald/20 text-emerald rounded">LIVE</span>
         </div>
         <p className="text-slategray text-lg">Prepare for upcoming earnings with data-driven analysis</p>
       </section>
@@ -175,7 +86,7 @@ export default function EarningsPreview() {
               }`}
             >
               <p className="text-sm font-mono font-medium">{ticker}</p>
-              <p className="text-[10px] text-slategray mt-1 truncate">{companyData[ticker].name}</p>
+              <p className="text-[10px] text-slategray mt-1 truncate">{companyData[ticker]?.name}</p>
             </button>
           ))}
         </div>
@@ -248,6 +159,5 @@ export default function EarningsPreview() {
       )}
 
       </div>
-    </ComingSoonWrapper>
   );
 }

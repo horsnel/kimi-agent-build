@@ -186,3 +186,24 @@ export const ChevronDownIcon: React.FC<IconProps> = ({ className = '', size = 16
     <path d="M4 6l4 4 4-4" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
   </svg>
 );
+
+export const ArrowLeftIcon: React.FC<IconProps> = ({ className = '', size = 20 }) => (
+  <svg width={size} height={size} viewBox="0 0 20 20" fill="none" className={className}>
+    <path d="M16 10H4M8 6l-4 4 4 4" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round" />
+  </svg>
+);
+
+export const ShareIcon: React.FC<IconProps> = ({ className = '', size = 20 }) => (
+  <svg width={size} height={size} viewBox="0 0 20 20" fill="none" className={className}>
+    <circle cx="15" cy="5" r="2.5" stroke="currentColor" strokeWidth="1.5" />
+    <circle cx="5" cy="10" r="2.5" stroke="currentColor" strokeWidth="1.5" />
+    <circle cx="15" cy="15" r="2.5" stroke="currentColor" strokeWidth="1.5" />
+    <path d="M7.5 11l5 2.5M7.5 9l5-2.5" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" />
+  </svg>
+);
+
+export const BookmarkIcon: React.FC<IconProps> = ({ className = '', size = 20 }) => (
+  <svg width={size} height={size} viewBox="0 0 20 20" fill="none" className={className}>
+    <path d="M4 3a1 1 0 011-1h10a1 1 0 011 1v15l-6-3.5L4 18V3z" stroke="currentColor" strokeWidth="1.5" strokeLinejoin="round" />
+  </svg>
+);
