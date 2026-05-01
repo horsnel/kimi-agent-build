@@ -5,6 +5,7 @@ import {
   BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, Cell, Legend,
 } from 'recharts';
 import { fetchEarningsCalendar, type EarningsCompany } from '../services/api';
+import { useGeoCurrency } from '../hooks/useGeoCurrency';
 
 
 gsap.registerPlugin(ScrollTrigger);
@@ -22,6 +23,7 @@ export default function EarningsPreview() {
   const [companyData, setCompanyData] = useState<Record<string, CompanyData>>({});
   const [loading, setLoading] = useState(true);
   const sectionRef = useRef<HTMLDivElement>(null);
+  const { formatLocal } = useGeoCurrency();
 
   useEffect(() => {
     fetchEarningsCalendar()
@@ -125,12 +127,12 @@ export default function EarningsPreview() {
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
               <div className="bg-charcoal border border-subtleborder rounded-xl p-6">
                 <p className="text-xs font-mono text-slategray uppercase tracking-wider mb-2">Whisper Number</p>
-                <p className="text-2xl font-display font-bold text-offwhite">${data.whisperNumber.toFixed(2)}</p>
+                <p className="text-2xl font-display font-bold text-offwhite">{formatLocal(data.whisperNumber)}</p>
                 <p className="text-xs text-slategray mt-1">Street whisper vs consensus</p>
               </div>
               <div className="bg-charcoal border border-subtleborder rounded-xl p-6">
                 <p className="text-xs font-mono text-slategray uppercase tracking-wider mb-2">Consensus EPS</p>
-                <p className="text-2xl font-display font-bold text-offwhite">${data.consensusEPS.toFixed(2)}</p>
+                <p className="text-2xl font-display font-bold text-offwhite">{formatLocal(data.consensusEPS)}</p>
                 <p className="text-xs text-slategray mt-1">Analyst consensus estimate</p>
               </div>
               <div className="bg-charcoal border border-subtleborder rounded-xl p-6">

@@ -5,6 +5,18 @@ import {
   PieChart, Pie, Cell, Tooltip, ResponsiveContainer, Legend,
 } from 'recharts';
 import { fetchHedgeFundTracker, type HedgeFundData } from '../services/api';
+import { useGeoCurrency } from '../hooks/useGeoCurrency';
+
+// Convert "$1.92T" or "$890M" style strings to USD number
+function parseDollarString(s: string): number {
+  if (!s || !s.startsWith('$')) return 0;
+  const num = parseFloat(s.replace(/[$,]/g, ''));
+  if (s.includes('T')) return num * 1e12;
+  if (s.includes('B')) return num * 1e9;
+  if (s.includes('M')) return num * 1e6;
+  if (s.includes('K')) return num * 1e3;
+  return num;
+}
 
 
 gsap.registerPlugin(ScrollTrigger);
@@ -12,7 +24,7 @@ gsap.registerPlugin(ScrollTrigger);
 const defaultFunds: Record<string, HedgeFundData> = {
   Citadel: {
     name: 'Citadel',
-    aum: '$63B',
+    aum: 63e9,
     holdings: 1247,
     topHolding: 'AAPL',
     positions: [
@@ -45,7 +57,7 @@ const defaultFunds: Record<string, HedgeFundData> = {
   },
   Bridgewater: {
     name: 'Bridgewater Associates',
-    aum: '$97B',
+    aum: 97e9,
     holdings: 892,
     topHolding: 'GLD',
     positions: [
@@ -78,7 +90,7 @@ const defaultFunds: Record<string, HedgeFundData> = {
   },
   'Pershing Square': {
     name: 'Pershing Square',
-    aum: '$18B',
+    aum: 18e9,
     holdings: 34,
     topHolding: 'AAPL',
     positions: [
@@ -111,7 +123,7 @@ const defaultFunds: Record<string, HedgeFundData> = {
   },
   'Tiger Global': {
     name: 'Tiger Global',
-    aum: '$24B',
+    aum: 24e9,
     holdings: 156,
     topHolding: 'MSFT',
     positions: [
@@ -144,7 +156,7 @@ const defaultFunds: Record<string, HedgeFundData> = {
   },
   Renaissance: {
     name: 'Renaissance Technologies',
-    aum: '$106B',
+    aum: 106e9,
     holdings: 3456,
     topHolding: 'NVDA',
     positions: [
@@ -177,7 +189,7 @@ const defaultFunds: Record<string, HedgeFundData> = {
   },
   'Two Sigma': {
     name: 'Two Sigma',
-    aum: '$58B',
+    aum: 58e9,
     holdings: 2103,
     topHolding: 'AMZN',
     positions: [
@@ -227,6 +239,7 @@ const changeBadge = (c: string) => {
 };
 
 export default function HedgeFundTracker() {
+  const { formatLarge } = useGeoCurrency();
   const [funds, setFunds] = useState<Record<string, HedgeFundData>>(defaultFunds);
   const [loading, setLoading] = useState(true);
   const [selected, setSelected] = useState<string>('Citadel');
@@ -297,7 +310,7 @@ export default function HedgeFundTracker() {
               >
                 <p className="text-sm font-medium text-offwhite mb-2">{f.name}</p>
                 <div className="flex items-center gap-3 text-xs font-mono text-slategray">
-                  <span>{f.aum} AUM</span>
+                  <span>{formatLarge(typeof f.aum === 'number' ? f.aum : parseDollarString(f.aum))} AUM</span>
                   <span>·</span>
                   <span>{f.holdings} holdings</span>
                 </div>
@@ -332,7 +345,7 @@ export default function HedgeFundTracker() {
                       <tr key={p.stock} className="border-b border-subtleborder/50 hover:bg-deepblack/50 transition-colors">
                         <td className="p-4 text-sm font-mono font-medium text-emerald">{p.stock}</td>
                         <td className="p-4 text-sm font-mono text-offwhite text-right">{p.shares}</td>
-                        <td className="p-4 text-sm font-mono text-offwhite text-right">${p.value.toLocaleString()}M</td>
+                        <td className="p-4 text-sm font-mono text-offwhite text-right">{formatLarge(p.value * 1e6)}</td>
                         <td className="p-4 text-sm font-mono text-offwhite text-right">{p.pct}%</td>
                         <td className="p-4 text-center">
                           <span className={`px-2 py-0.5 text-xs font-mono font-medium rounded ${changeBadge(p.change)}`}>{p.change}</span>

@@ -5,26 +5,24 @@ import {
   BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer,
 } from 'recharts';
 import { fetchInsiderTrading, type InsiderFiling } from '../services/api';
+import { useGeoCurrency } from '../hooks/useGeoCurrency';
 
 
 gsap.registerPlugin(ScrollTrigger);
 
 const clusters = [
-  { title: 'Multiple AAPL Execs Sold', description: '3 insiders sold in past week', totalValue: '$42M', badge: 'crimson' },
-  { title: 'NVDA Directors Buying', description: '3 directors purchased', totalValue: '$8.5M', badge: 'emerald' },
-  { title: 'JPM CFO Sells $12M', description: 'Largest single insider sale this week', totalValue: '$12M', badge: 'crimson' },
+  { title: 'Multiple AAPL Execs Sold', description: '3 insiders sold in past week', totalValue: 42000000, badge: 'crimson' },
+  { title: 'NVDA Directors Buying', description: '3 directors purchased', totalValue: 8500000, badge: 'emerald' },
+  { title: 'JPM CFO Sells $12M', description: 'Largest single insider sale this week', totalValue: 12000000, badge: 'crimson' },
 ];
 
-const fmtCurrency = (v: number) => {
-  if (v >= 1000000) return `$${(v / 1000000).toFixed(1)}M`;
-  if (v >= 1000) return `$${(v / 1000).toFixed(0)}K`;
-  return `$${v}`;
-};
+
 
 export default function InsiderTrading() {
   const [filings, setFilings] = useState<InsiderFiling[]>([]);
   const [loading, setLoading] = useState(true);
   const sectionRef = useRef<HTMLDivElement>(null);
+  const { formatLocal, formatLarge, formatChartTick } = useGeoCurrency();
 
   useEffect(() => {
     fetchInsiderTrading()
@@ -77,12 +75,12 @@ export default function InsiderTrading() {
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
             <div className="bg-charcoal border border-emerald/30 rounded-xl p-6">
               <p className="text-xs font-mono text-slategray uppercase tracking-wider mb-2">Total Buys</p>
-              <p className="text-3xl font-display font-bold text-emerald">$142.5M</p>
+              <p className="text-3xl font-display font-bold text-emerald">{formatLarge(142500000)}</p>
               <p className="text-xs text-emerald/60 mt-1 font-mono">23 transactions</p>
             </div>
             <div className="bg-charcoal border border-crimson/30 rounded-xl p-6">
               <p className="text-xs font-mono text-slategray uppercase tracking-wider mb-2">Total Sells</p>
-              <p className="text-3xl font-display font-bold text-crimson">$893.2M</p>
+              <p className="text-3xl font-display font-bold text-crimson">{formatLarge(893200000)}</p>
               <p className="text-xs text-crimson/60 mt-1 font-mono">58 transactions</p>
             </div>
             <div className="bg-charcoal border border-amber-500/30 rounded-xl p-6">
@@ -126,8 +124,8 @@ export default function InsiderTrading() {
                         </span>
                       </td>
                       <td className="p-4 text-sm font-mono text-offwhite text-right">{f.shares.toLocaleString()}</td>
-                      <td className="p-4 text-sm font-mono text-offwhite text-right">${f.price}</td>
-                      <td className="p-4 text-sm font-mono text-offwhite text-right">{fmtCurrency(f.totalValue)}</td>
+                      <td className="p-4 text-sm font-mono text-offwhite text-right">{formatLocal(f.price)}</td>
+                      <td className="p-4 text-sm font-mono text-offwhite text-right">{formatLarge(f.totalValue)}</td>
                     </tr>
                   ))}
                 </tbody>
@@ -149,7 +147,7 @@ export default function InsiderTrading() {
                   </span>
                 </div>
                 <p className="text-xs text-slategray mb-2">{c.description}</p>
-                <p className={`text-lg font-display font-bold ${c.badge === 'emerald' ? 'text-emerald' : 'text-crimson'}`}>{c.totalValue} total</p>
+                <p className={`text-lg font-display font-bold ${c.badge === 'emerald' ? 'text-emerald' : 'text-crimson'}`}>{formatLarge(c.totalValue)} total</p>
               </div>
             ))}
           </div>
@@ -163,9 +161,9 @@ export default function InsiderTrading() {
               <ResponsiveContainer width="100%" height="100%">
                 <BarChart data={topSellers} layout="vertical">
                   <CartesianGrid strokeDasharray="3 3" stroke="#222222" />
-                  <XAxis type="number" tick={{ fill: '#6B7280', fontSize: 11 }} tickFormatter={(v: number) => `$${v}M`} />
+                  <XAxis type="number" tick={{ fill: '#6B7280', fontSize: 11 }} tickFormatter={(v: number) => formatChartTick(v * 1e6)} />
                   <YAxis type="category" dataKey="name" tick={{ fill: '#E8E8E6', fontSize: 11 }} width={160} />
-                  <Tooltip contentStyle={{ backgroundColor: '#111111', border: '1px solid #222222', borderRadius: '8px', color: '#E8E8E6' }} formatter={(v: number) => [`$${v}M`, 'Total Value']} />
+                  <Tooltip contentStyle={{ backgroundColor: '#111111', border: '1px solid #222222', borderRadius: '8px', color: '#E8E8E6' }} formatter={(v: number) => [formatLarge(v * 1e6), 'Total Value']} />
                   <Bar dataKey="value" fill="#EF4444" radius={[0, 4, 4, 0]} />
                 </BarChart>
               </ResponsiveContainer>

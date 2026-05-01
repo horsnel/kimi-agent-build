@@ -4,8 +4,20 @@ import { ScrollTrigger } from 'gsap/ScrollTrigger';
 import { FilterIcon, SearchIcon, TrendUpIcon, TrendDownIcon } from '../components/CustomIcons';
 import { Link } from 'react-router';
 import { fetchStockScreener, type StockScreenerResult } from '../services/api';
+import { LocalPrice, useGeoCurrency } from '../hooks/useGeoCurrency';
 
 gsap.registerPlugin(ScrollTrigger);
+
+// Convert "$1.92T" or "$890M" style strings to USD number
+function parseDollarString(s: string): number {
+  if (!s || !s.startsWith('$')) return 0;
+  const num = parseFloat(s.replace(/[$,]/g, ''));
+  if (s.includes('T')) return num * 1e12;
+  if (s.includes('B')) return num * 1e9;
+  if (s.includes('M')) return num * 1e6;
+  if (s.includes('K')) return num * 1e3;
+  return num;
+}
 
 type MarketCap = 'All' | 'Mega' | 'Large' | 'Mid' | 'Small';
 type SortField = 'ticker' | 'price' | 'change' | 'marketCap' | 'pe' | 'dividendYield' | 'volume' | 'sector';
@@ -70,6 +82,7 @@ function SortHeader({ field, sortField, sortDir, onSort, children }: { field: So
 }
 
 export default function StockScreener() {
+  const { formatLarge } = useGeoCurrency();
   const [allStocks, setAllStocks] = useState<Stock[]>(fallbackStocks);
   const [loading, setLoading] = useState(true);
   const [marketCap, setMarketCap] = useState<MarketCap>('All');
@@ -409,14 +422,14 @@ export default function StockScreener() {
                       </Link>
                     </td>
                     <td className="px-4 py-3 text-sm text-offwhite">{stock.company}</td>
-                    <td className="px-4 py-3 text-sm text-offwhite font-mono">${stock.price.toFixed(2)}</td>
+                    <td className="px-4 py-3 text-sm text-offwhite font-mono"><LocalPrice usd={stock.price} short /></td>
                     <td className="px-4 py-3 text-sm font-mono">
                       <span className={`flex items-center gap-1 ${stock.change >= 0 ? 'text-emerald' : 'text-crimson'}`}>
                         {stock.change >= 0 ? <TrendUpIcon size={12} /> : <TrendDownIcon size={12} />}
                         {stock.change >= 0 ? '+' : ''}{stock.change.toFixed(2)}%
                       </span>
                     </td>
-                    <td className="px-4 py-3 text-sm text-slategray font-mono">{stock.marketCap}</td>
+                    <td className="px-4 py-3 text-sm text-slategray font-mono">{formatLarge(parseDollarString(stock.marketCap))}</td>
                     <td className="px-4 py-3 text-sm text-slategray font-mono">{stock.pe.toFixed(1)}</td>
                     <td className="px-4 py-3 text-sm text-slategray font-mono">{stock.dividendYield.toFixed(1)}%</td>
                     <td className="px-4 py-3 text-sm text-slategray font-mono">{stock.volume}</td>
@@ -453,11 +466,11 @@ export default function StockScreener() {
                 <div className="grid grid-cols-4 gap-2 text-xs font-mono">
                   <div>
                     <p className="text-slategray">Price</p>
-                    <p className="text-offwhite">${stock.price.toFixed(2)}</p>
+                    <p className="text-offwhite"><LocalPrice usd={stock.price} short /></p>
                   </div>
                   <div>
                     <p className="text-slategray">Mkt Cap</p>
-                    <p className="text-offwhite">{stock.marketCap}</p>
+                    <p className="text-offwhite">{formatLarge(parseDollarString(stock.marketCap))}</p>
                   </div>
                   <div>
                     <p className="text-slategray">P/E</p>

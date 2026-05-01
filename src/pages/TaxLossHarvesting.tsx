@@ -2,11 +2,9 @@ import { useState, useEffect, useRef, useMemo } from 'react';
 import gsap from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
 import { BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, Cell } from 'recharts';
+import { useGeoCurrency } from '../hooks/useGeoCurrency';
 
 gsap.registerPlugin(ScrollTrigger);
-
-const fmt = (val: number) =>
-  new Intl.NumberFormat('en-US', { style: 'currency', currency: 'USD', minimumFractionDigits: 0, maximumFractionDigits: 0 }).format(val);
 
 const fmtPct = (val: number) => `${val >= 0 ? '+' : ''}${val.toFixed(1)}%`;
 
@@ -38,6 +36,7 @@ const REPLACEMENT_ETFs: Record<string, string> = {
 const TAX_BRACKETS = [10, 12, 22, 24, 32, 35, 37];
 
 export default function TaxLossHarvesting() {
+  const { formatLocal, formatChartTick } = useGeoCurrency();
   const [selectedLosses, setSelectedLosses] = useState<Set<string>>(new Set());
   const [taxBracket, setTaxBracket] = useState(24);
   const sectionRef = useRef<HTMLDivElement>(null);
@@ -112,16 +111,16 @@ export default function TaxLossHarvesting() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
           <div className="bg-charcoal border border-emerald/30 rounded-xl p-5 text-center">
             <p className="text-xs font-mono text-slategray uppercase tracking-wider mb-2">Total Unrealized Gains</p>
-            <p className="text-2xl font-mono text-emerald font-bold">{fmt(totalGains)}</p>
+            <p className="text-2xl font-mono text-emerald font-bold">{formatLocal(totalGains)}</p>
           </div>
           <div className="bg-charcoal border border-crimson/30 rounded-xl p-5 text-center">
             <p className="text-xs font-mono text-slategray uppercase tracking-wider mb-2">Total Unrealized Losses</p>
-            <p className="text-2xl font-mono text-crimson font-bold">{fmt(totalLosses)}</p>
+            <p className="text-2xl font-mono text-crimson font-bold">{formatLocal(totalLosses)}</p>
           </div>
           <div className="bg-charcoal border border-subtleborder rounded-xl p-5 text-center">
             <p className="text-xs font-mono text-slategray uppercase tracking-wider mb-2">Net Position</p>
             <p className={`text-2xl font-mono font-bold ${totalGains - totalLosses >= 0 ? 'text-emerald' : 'text-crimson'}`}>
-              {fmt(totalGains - totalLosses)}
+              {formatLocal(totalGains - totalLosses)}
             </p>
           </div>
         </div>
@@ -169,10 +168,10 @@ export default function TaxLossHarvesting() {
                     </td>
                     <td className="py-3 text-sm font-mono font-medium text-emerald">{h.ticker}</td>
                     <td className="py-3 text-sm font-mono text-offwhite text-right">{h.shares}</td>
-                    <td className="py-3 text-sm font-mono text-slategray text-right">${h.avgCost.toFixed(2)}</td>
-                    <td className="py-3 text-sm font-mono text-offwhite text-right">${h.currentPrice.toFixed(2)}</td>
+                    <td className="py-3 text-sm font-mono text-slategray text-right">{formatLocal(h.avgCost)}</td>
+                    <td className="py-3 text-sm font-mono text-offwhite text-right">{formatLocal(h.currentPrice)}</td>
                     <td className={`py-3 text-sm font-mono text-right ${h.isLoss ? 'text-crimson' : 'text-emerald'}`}>
-                      {h.isLoss ? '-' : '+'}{fmt(Math.abs(h.gainLoss))}
+                      {h.isLoss ? '-' : '+'}{formatLocal(Math.abs(h.gainLoss))}
                     </td>
                     <td className={`py-3 text-sm font-mono text-right ${h.isLoss ? 'text-crimson' : 'text-emerald'}`}>
                       {fmtPct(h.gainLossPct)}
@@ -207,12 +206,12 @@ export default function TaxLossHarvesting() {
               <div className="mt-6 space-y-4">
                 <div className="bg-deepblack border border-crimson/30 rounded-xl p-5 text-center">
                   <p className="text-xs font-mono text-slategray uppercase tracking-wider mb-2">Total Harvestable Losses</p>
-                  <p className="text-3xl font-display font-bold text-crimson">{fmt(selectedTotalLoss)}</p>
+                  <p className="text-3xl font-display font-bold text-crimson">{formatLocal(selectedTotalLoss)}</p>
                   <p className="text-xs font-mono text-slategray mt-1">{selectedLosses.size} position{selectedLosses.size > 1 ? 's' : ''} selected</p>
                 </div>
                 <div className="bg-deepblack border border-emerald/30 rounded-xl p-5 text-center">
                   <p className="text-xs font-mono text-slategray uppercase tracking-wider mb-2">Estimated Tax Savings</p>
-                  <p className="text-3xl font-display font-bold text-emerald">{fmt(taxSavings)}</p>
+                  <p className="text-3xl font-display font-bold text-emerald">{formatLocal(taxSavings)}</p>
                   <p className="text-xs font-mono text-slategray mt-1">at {taxBracket}% tax rate</p>
                 </div>
               </div>
@@ -248,8 +247,8 @@ export default function TaxLossHarvesting() {
                 <BarChart data={chartData} barGap={8}>
                   <CartesianGrid strokeDasharray="3 3" stroke="#222222" />
                   <XAxis dataKey="name" tick={{ fill: '#6B7280', fontSize: 11 }} axisLine={{ stroke: '#222222' }} />
-                  <YAxis tick={{ fill: '#6B7280', fontSize: 11 }} axisLine={{ stroke: '#222222' }} tickFormatter={(v: number) => `$${(v / 1000).toFixed(0)}K`} />
-                  <Tooltip contentStyle={{ backgroundColor: '#111111', border: '1px solid #222222', borderRadius: '8px', color: '#E8E8E6' }} formatter={(v: number) => fmt(v)} />
+                  <YAxis tick={{ fill: '#6B7280', fontSize: 11 }} axisLine={{ stroke: '#222222' }} tickFormatter={(v: number) => formatChartTick(v)} />
+                  <Tooltip contentStyle={{ backgroundColor: '#111111', border: '1px solid #222222', borderRadius: '8px', color: '#E8E8E6' }} formatter={(v: number) => formatLocal(v)} />
                   <Bar dataKey="before" name="Before" radius={[4, 4, 0, 0]}>
                     {chartData.map((_, i) => (
                       <Cell key={i} fill={i === 0 ? '#EF4444' : '#6B7280'} />

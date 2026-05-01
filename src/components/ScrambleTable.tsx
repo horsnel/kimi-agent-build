@@ -1,6 +1,7 @@
 import { useEffect, useRef, useState } from 'react';
 import gsap from 'gsap';
 import { HexagonIcon } from './CustomIcons';
+import { useGeoCurrency } from '../hooks/useGeoCurrency';
 
 const scrambleChars = ['$', '%', '#', '@', '&', '*', '!', '?', '0', '1', '2', '3', '4', '5', '6', '7', '8', '9'];
 
@@ -8,20 +9,20 @@ interface OrderRow {
   asset: string;
   type: string;
   volume: string;
-  price: string;
+  price: number;
   status: 'active' | 'pending' | 'inactive';
   latency: string;
 }
 
 const initialData: OrderRow[] = [
-  { asset: 'AAPL', type: 'BUY', volume: '2.4M', price: '$228.50', status: 'active', latency: '12ms' },
-  { asset: 'NVDA', type: 'SELL', volume: '890K', price: '$138.20', status: 'active', latency: '8ms' },
-  { asset: 'TSLA', type: 'BUY', volume: '1.1M', price: '$420.80', status: 'pending', latency: '23ms' },
-  { asset: 'MSFT', type: 'BUY', volume: '560K', price: '$445.30', status: 'active', latency: '15ms' },
-  { asset: 'AMZN', type: 'SELL', volume: '340K', price: '$198.60', status: 'active', latency: '11ms' },
-  { asset: 'GOOGL', type: 'BUY', volume: '780K', price: '$176.40', status: 'pending', latency: '19ms' },
-  { asset: 'META', type: 'SELL', volume: '420K', price: '$612.80', status: 'active', latency: '9ms' },
-  { asset: 'AMD', type: 'BUY', volume: '1.5M', price: '$124.60', status: 'active', latency: '14ms' },
+  { asset: 'AAPL', type: 'BUY', volume: '2.4M', price: 228.50, status: 'active', latency: '12ms' },
+  { asset: 'NVDA', type: 'SELL', volume: '890K', price: 138.20, status: 'active', latency: '8ms' },
+  { asset: 'TSLA', type: 'BUY', volume: '1.1M', price: 420.80, status: 'pending', latency: '23ms' },
+  { asset: 'MSFT', type: 'BUY', volume: '560K', price: 445.30, status: 'active', latency: '15ms' },
+  { asset: 'AMZN', type: 'SELL', volume: '340K', price: 198.60, status: 'active', latency: '11ms' },
+  { asset: 'GOOGL', type: 'BUY', volume: '780K', price: 176.40, status: 'pending', latency: '19ms' },
+  { asset: 'META', type: 'SELL', volume: '420K', price: 612.80, status: 'active', latency: '9ms' },
+  { asset: 'AMD', type: 'BUY', volume: '1.5M', price: 124.60, status: 'active', latency: '14ms' },
 ];
 
 function scrambleText(element: HTMLElement, finalText: string, duration = 0.8) {
@@ -57,6 +58,7 @@ export default function ScrambleTable() {
   const rowRefs = useRef<(HTMLTableRowElement | null)[]>([]);
   const cellRefs = useRef<(HTMLTableCellElement | null)[][]>([]);
   const isPausedRef = useRef(false);
+  const { formatLocalShort } = useGeoCurrency();
 
   const handleMouseEnter = () => {
     isPausedRef.current = true;
@@ -74,7 +76,7 @@ export default function ScrambleTable() {
         asset: ['AAPL', 'NVDA', 'TSLA', 'MSFT', 'AMZN', 'GOOGL', 'META', 'AMD', 'NFLX', 'CRM'][Math.floor(Math.random() * 10)],
         type: Math.random() > 0.5 ? 'BUY' : 'SELL',
         volume: `${(Math.random() * 3).toFixed(1)}M`,
-        price: `$${(100 + Math.random() * 500).toFixed(2)}`,
+        price: +(100 + Math.random() * 500).toFixed(2),
         status: Math.random() > 0.3 ? 'active' : 'pending',
         latency: `${Math.floor(Math.random() * 25 + 5)}ms`,
       };
@@ -158,6 +160,8 @@ export default function ScrambleTable() {
                       <HexagonIcon status={row.status} size={14} />
                       {statusMap[row.status].label}
                     </span>
+                  ) : key === 'price' ? (
+                    formatLocalShort(row.price)
                   ) : (
                     row[key]
                   )}

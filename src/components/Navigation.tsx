@@ -1,7 +1,7 @@
-import { useState, useEffect, type FormEvent } from 'react';
-import { Link, useLocation } from 'react-router';
+import { useState, useEffect } from 'react';
+import { Link, useLocation, useNavigate } from 'react-router';
 import { SigmaIcon, MenuIcon, XIcon, ChevronDownIcon } from './CustomIcons';
-import { useWaitlist } from '../hooks/useWaitlist';
+import { useAuth } from '../hooks/useAuth';
 
 interface NavLink {
   label: string;
@@ -30,7 +30,7 @@ const navGroups: NavGroup[] = [
     label: 'Tools',
     children: [
       { label: 'All Tools', path: '/tools' },
-      { label: 'Compound Interest', path: '/tools' },
+      { label: 'Compound Interest', path: '/tools/compound' },
       { label: 'Retirement Score', path: '/tools/retirement' },
       { label: 'Mortgage Calculator', path: '/tools/mortgage' },
       { label: 'Portfolio Backtester', path: '/tools/backtester' },
@@ -79,12 +79,18 @@ export default function Navigation() {
   const [mobileOpen, setMobileOpen] = useState(false);
   const [openDropdown, setOpenDropdown] = useState<string | null>(null);
   const [mobileAccordion, setMobileAccordion] = useState<string | null>(null);
-  const [showAuthModal, setShowAuthModal] = useState(false);
-  const [authMode, setAuthMode] = useState<'signin' | 'waitlist'>('signin');
-  const [waitlistEmail, setWaitlistEmail] = useState('');
-  const [waitlistSubmitted, setWaitlistSubmitted] = useState(false);
-  const { submitEmail } = useWaitlist();
+  const [userMenuOpen, setUserMenuOpen] = useState(false);
   const location = useLocation();
+  const navigate = useNavigate();
+  const { getUser, signOut } = useAuth();
+  const [loggedIn, setLoggedIn] = useState(false);
+  const [userName, setUserName] = useState('');
+
+  useEffect(() => {
+    const user = getUser();
+    setLoggedIn(!!user);
+    if (user) setUserName(user.firstName);
+  }, [location.pathname, getUser]);
 
   useEffect(() => {
     const handleScroll = () => {
@@ -97,7 +103,20 @@ export default function Navigation() {
   useEffect(() => {
     setMobileOpen(false);
     setOpenDropdown(null);
+    setUserMenuOpen(false);
   }, [location.pathname]);
+
+  // Lock body scroll when mobile nav is open
+  useEffect(() => {
+    if (mobileOpen) {
+      document.body.classList.add('nav-open');
+    } else {
+      document.body.classList.remove('nav-open');
+    }
+    return () => {
+      document.body.classList.remove('nav-open');
+    };
+  }, [mobileOpen]);
 
   const isActiveGroup = (group: NavGroup) => {
     if (group.path && location.pathname === group.path) return true;
@@ -111,18 +130,11 @@ export default function Navigation() {
     return location.pathname.startsWith('/premium');
   };
 
-  const openAuth = (mode: 'signin' | 'waitlist') => {
-    setAuthMode(mode);
-    setWaitlistSubmitted(false);
-    setWaitlistEmail('');
-    setShowAuthModal(true);
-  };
-
-  const handleWaitlistSubmit = async (e: FormEvent<HTMLFormElement>) => {
-    e.preventDefault();
-    if (!waitlistEmail.trim()) return;
-    const ok = await submitEmail(waitlistEmail.trim());
-    if (ok) setWaitlistSubmitted(true);
+  const handleSignOut = () => {
+    signOut();
+    setLoggedIn(false);
+    setUserMenuOpen(false);
+    navigate('/');
   };
 
   return (
@@ -208,26 +220,87 @@ export default function Navigation() {
           })}
         </div>
 
+        {/* Desktop Auth Area */}
         <div className="hidden lg:flex items-center gap-3">
-          <button onClick={() => openAuth('signin')} className="px-4 py-1.5 text-sm font-medium text-offwhite border border-subtleborder rounded hover:bg-charcoal transition-colors">
-            Sign In
-          </button>
-          <button onClick={() => openAuth('waitlist')} className="px-4 py-1.5 text-sm font-medium text-obsidian bg-emerald rounded hover:bg-emerald/90 transition-colors">
-            Get Started
-          </button>
+          {loggedIn ? (
+            <div className="relative" onMouseEnter={() => setUserMenuOpen(true)} onMouseLeave={() => setUserMenuOpen(false)}>
+              <button
+                onClick={() => setUserMenuOpen(!userMenuOpen)}
+                className="flex items-center gap-2 px-3 py-1.5 text-sm font-medium text-offwhite border border-subtleborder rounded-lg hover:bg-charcoal transition-colors"
+              >
+                <div className="w-6 h-6 bg-emerald/20 border border-emerald/30 rounded-full flex items-center justify-center">
+                  <span className="text-xs font-mono text-emerald">{userName.charAt(0).toUpperCase()}</span>
+                </div>
+                <span className="text-offwhite">{userName}</span>
+                <ChevronDownIcon size={12} className="text-slategray" />
+              </button>
+              {userMenuOpen && (
+                <div className="absolute top-full right-0 mt-1 w-48 bg-charcoal border border-subtleborder rounded-xl py-2 shadow-xl">
+                  <Link
+                    to="/dashboard"
+                    className="block px-4 py-2 text-sm text-slategray hover:text-offwhite hover:bg-deepblack/50 transition-colors"
+                  >
+                    Dashboard
+                  </Link>
+                  <Link
+                    to="/dashboard"
+                    className="block px-4 py-2 text-sm text-slategray hover:text-offwhite hover:bg-deepblack/50 transition-colors"
+                  >
+                    Settings
+                  </Link>
+                  <div className="border-t border-subtleborder my-1" />
+                  <button
+                    onClick={handleSignOut}
+                    className="w-full text-left px-4 py-2 text-sm text-crimson hover:bg-deepblack/50 transition-colors"
+                  >
+                    Sign Out
+                  </button>
+                </div>
+              )}
+            </div>
+          ) : (
+            <>
+              <Link to="/signin" className="px-4 py-1.5 text-sm font-medium text-offwhite border border-subtleborder rounded hover:bg-charcoal transition-colors">
+                Sign In
+              </Link>
+              <Link to="/signup" className="px-4 py-1.5 text-sm font-medium text-obsidian bg-emerald rounded hover:bg-emerald/90 transition-colors">
+                Get Started
+              </Link>
+            </>
+          )}
         </div>
 
-        <button
-          className="lg:hidden text-offwhite"
-          onClick={() => setMobileOpen(!mobileOpen)}
-        >
-          {mobileOpen ? <XIcon size={24} /> : <MenuIcon size={24} />}
-        </button>
+        {/* Mobile Auth Buttons - visible alongside hamburger */}
+        <div className="flex lg:hidden items-center gap-2">
+          {!loggedIn ? (
+            <>
+              <Link to="/signin" className="px-3 py-1.5 text-xs font-medium text-offwhite border border-subtleborder rounded hover:bg-charcoal transition-colors">
+                Sign In
+              </Link>
+              <Link to="/signup" className="px-3 py-1.5 text-xs font-medium text-obsidian bg-emerald rounded hover:bg-emerald/90 transition-colors">
+                Get Started
+              </Link>
+            </>
+          ) : (
+            <Link to="/dashboard" className="flex items-center gap-1.5 px-2 py-1 text-xs font-medium text-offwhite border border-subtleborder rounded hover:bg-charcoal transition-colors">
+              <div className="w-5 h-5 bg-emerald/20 border border-emerald/30 rounded-full flex items-center justify-center">
+                <span className="text-[9px] font-mono text-emerald">{userName.charAt(0).toUpperCase()}</span>
+              </div>
+              <span className="hidden sm:inline">{userName}</span>
+            </Link>
+          )}
+          <button
+            className="text-offwhite"
+            onClick={() => setMobileOpen(!mobileOpen)}
+          >
+            {mobileOpen ? <XIcon size={24} /> : <MenuIcon size={24} />}
+          </button>
+        </div>
       </div>
 
       {/* Mobile Nav */}
       {mobileOpen && (
-        <div className="lg:hidden bg-obsidian/95 backdrop-blur-md border-t border-subtleborder max-h-[80vh] overflow-y-auto">
+        <div className="lg:hidden bg-obsidian/95 backdrop-blur-md border-t border-subtleborder fixed inset-0 top-16 z-40 overflow-y-auto">
           <div className="px-6 py-4 flex flex-col gap-1">
             {navGroups.map((group) => {
               if (group.children.length === 0) {
@@ -287,65 +360,26 @@ export default function Navigation() {
               );
             })}
             <div className="flex gap-3 pt-4 mt-2 border-t border-subtleborder">
-              <button onClick={() => openAuth('signin')} className="flex-1 px-4 py-2 text-sm text-offwhite border border-subtleborder rounded">
-                Sign In
-              </button>
-              <button onClick={() => openAuth('waitlist')} className="flex-1 px-4 py-2 text-sm text-obsidian bg-emerald rounded">
-                Get Started
-              </button>
+              {loggedIn ? (
+                <>
+                  <Link to="/dashboard" onClick={() => setMobileOpen(false)} className="flex-1 px-4 py-2 text-sm text-offwhite border border-subtleborder rounded text-center">
+                    Dashboard
+                  </Link>
+                  <button onClick={handleSignOut} className="flex-1 px-4 py-2 text-sm text-crimson border border-subtleborder rounded">
+                    Sign Out
+                  </button>
+                </>
+              ) : (
+                <>
+                  <Link to="/signin" onClick={() => setMobileOpen(false)} className="flex-1 px-4 py-2 text-sm text-offwhite border border-subtleborder rounded text-center">
+                    Sign In
+                  </Link>
+                  <Link to="/signup" onClick={() => setMobileOpen(false)} className="flex-1 px-4 py-2 text-sm text-obsidian bg-emerald rounded text-center">
+                    Get Started
+                  </Link>
+                </>
+              )}
             </div>
-          </div>
-        </div>
-      )}
-
-      {/* Auth Modal */}
-      {showAuthModal && (
-        <div className="fixed inset-0 z-[60] flex items-center justify-center bg-obsidian/70 backdrop-blur-sm" onClick={() => setShowAuthModal(false)}>
-          <div className="bg-charcoal border border-subtleborder rounded-xl p-8 max-w-md w-full mx-4" onClick={(e) => e.stopPropagation()}>
-            <div className="flex items-center justify-between mb-6">
-              <h2 className="text-xl font-display font-medium text-offwhite">
-                {authMode === 'signin' ? 'Sign In' : 'Join the Waitlist'}
-              </h2>
-              <button onClick={() => setShowAuthModal(false)} className="text-slategray hover:text-offwhite transition-colors">
-                <XIcon size={20} />
-              </button>
-            </div>
-            {authMode === 'signin' ? (
-              <div className="space-y-4">
-                <div>
-                  <label className="block text-xs font-mono text-slategray uppercase tracking-wider mb-2">Email</label>
-                  <input type="email" placeholder="your@email.com" className="w-full bg-deepblack border border-subtleborder rounded-lg px-4 py-2.5 text-sm text-offwhite focus:outline-none focus:border-emerald/50" />
-                </div>
-                <div>
-                  <label className="block text-xs font-mono text-slategray uppercase tracking-wider mb-2">Password</label>
-                  <input type="password" placeholder="••••••••" className="w-full bg-deepblack border border-subtleborder rounded-lg px-4 py-2.5 text-sm text-offwhite focus:outline-none focus:border-emerald/50" />
-                </div>
-                <button className="w-full px-4 py-2.5 bg-emerald text-obsidian font-medium text-sm rounded-lg hover:bg-emerald/90 transition-colors">
-                  Sign In
-                </button>
-                <p className="text-xs text-slategray text-center">Authentication coming soon — this is a preview</p>
-              </div>
-            ) : waitlistSubmitted ? (
-              <div className="bg-emerald/10 border border-emerald/30 rounded-lg p-4 text-center">
-                <svg width="32" height="32" viewBox="0 0 48 48" fill="none" className="mx-auto mb-2">
-                  <circle cx="24" cy="24" r="22" stroke="#10B981" strokeWidth="2" />
-                  <path d="M16 24l5 5 11-11" stroke="#10B981" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" />
-                </svg>
-                <p className="text-sm text-emerald font-medium">You're on the waitlist!</p>
-                <p className="text-xs text-slategray mt-1">We'll notify you when new features launch.</p>
-              </div>
-            ) : (
-              <form onSubmit={handleWaitlistSubmit} className="space-y-4">
-                <p className="text-sm text-slategray">Get early access to Sigma Capital features and updates.</p>
-                <div>
-                  <label className="block text-xs font-mono text-slategray uppercase tracking-wider mb-2">Email</label>
-                  <input type="email" value={waitlistEmail} onChange={(e) => setWaitlistEmail(e.target.value)} placeholder="your@email.com" required className="w-full bg-deepblack border border-subtleborder rounded-lg px-4 py-2.5 text-sm text-offwhite focus:outline-none focus:border-emerald/50" />
-                </div>
-                <button type="submit" className="w-full px-4 py-2.5 bg-emerald text-obsidian font-medium text-sm rounded-lg hover:bg-emerald/90 transition-colors">
-                  Join Waitlist
-                </button>
-              </form>
-            )}
           </div>
         </div>
       )}

@@ -2,6 +2,7 @@
 
 import { useState } from 'react';
 import { BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, Cell } from 'recharts';
+import { useGeoCurrency } from '../hooks/useGeoCurrency';
 
 type ViewMode = 'flowmap' | 'netflows';
 
@@ -67,6 +68,7 @@ const netFlowsChartData = assetFlows.map((a) => ({
 }));
 
 export default function FlowDiagram() {
+  const { formatChartTick, formatLarge } = useGeoCurrency();
   const [viewMode, setViewMode] = useState<ViewMode>('flowmap');
 
   return (
@@ -104,16 +106,16 @@ export default function FlowDiagram() {
       <div className="grid grid-cols-3 gap-3 mb-6">
         <div className="bg-deepblack border border-subtleborder rounded-lg p-3 text-center">
           <div className="text-xs font-mono text-slategray mb-1">Total Inflow</div>
-          <div className="text-lg font-mono font-bold text-emerald">${totalInflow.toFixed(1)}B</div>
+          <div className="text-lg font-mono font-bold text-emerald">{formatLarge(totalInflow * 1e9)}</div>
         </div>
         <div className="bg-deepblack border border-subtleborder rounded-lg p-3 text-center">
           <div className="text-xs font-mono text-slategray mb-1">Total Outflow</div>
-          <div className="text-lg font-mono font-bold text-crimson">${totalOutflow.toFixed(1)}B</div>
+          <div className="text-lg font-mono font-bold text-crimson">{formatLarge(totalOutflow * 1e9)}</div>
         </div>
         <div className="bg-deepblack border border-subtleborder rounded-lg p-3 text-center">
           <div className="text-xs font-mono text-slategray mb-1">Net Flow</div>
           <div className={`text-lg font-mono font-bold ${netFlow >= 0 ? 'text-emerald' : 'text-crimson'}`}>
-            {netFlow >= 0 ? '+' : ''}${netFlow.toFixed(1)}B
+            {netFlow >= 0 ? '+' : ''}{formatLarge(netFlow * 1e9)}
           </div>
         </div>
       </div>
@@ -152,7 +154,7 @@ export default function FlowDiagram() {
                     fontSize={8}
                     fontFamily="JetBrains Mono"
                   >
-                    ${conn.amount.toFixed(1)}B
+                    {formatLarge(conn.amount * 1e9)}
                   </text>
                 </g>
               );
@@ -192,7 +194,7 @@ export default function FlowDiagram() {
                     fontSize={9}
                     fontFamily="JetBrains Mono"
                   >
-                    {asset.netFlow >= 0 ? '+' : ''}{asset.netFlow.toFixed(1)}B
+                    {asset.netFlow >= 0 ? '+' : ''}{formatLarge(asset.netFlow * 1e9)}
                   </text>
                 </g>
               );
@@ -214,7 +216,7 @@ export default function FlowDiagram() {
                 tick={{ fill: '#6B7280', fontSize: 10, fontFamily: 'JetBrains Mono' }}
                 axisLine={{ stroke: '#222222' }}
                 tickLine={{ stroke: '#222222' }}
-                tickFormatter={(v: number) => `$${v}B`}
+                tickFormatter={(v: number) => formatChartTick(v * 1e9)}
               />
               <YAxis
                 type="category"
@@ -233,7 +235,7 @@ export default function FlowDiagram() {
                   fontSize: 12,
                 }}
                 labelStyle={{ color: '#E8E8E6' }}
-                formatter={(value: number) => [`${value >= 0 ? '+' : ''}$${value.toFixed(1)}B`, 'Net Flow']}
+                formatter={(value: number) => [`${value >= 0 ? '+' : ''}${formatChartTick(value * 1e9)}`, 'Net Flow']}
               />
               <Bar dataKey="value" radius={[0, 4, 4, 0]} animationDuration={800}>
                 {netFlowsChartData.map((entry, index) => (

@@ -5,6 +5,7 @@ import {
   RadarChart, Radar, PolarGrid, PolarAngleAxis, PolarRadiusAxis,
   BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, Cell, Legend,
 } from 'recharts';
+import { useGeoCurrency } from '../hooks/useGeoCurrency';
 
 
 gsap.registerPlugin(ScrollTrigger);
@@ -60,6 +61,7 @@ const fmt = (v: number) => (v >= 0 ? `+${v.toFixed(1)}%` : `${v.toFixed(1)}%`);
 
 export default function SectorRotation() {
   const sectionRef = useRef<HTMLDivElement>(null);
+  const { formatChartTick } = useGeoCurrency();
 
   useEffect(() => {
     const ctx = gsap.context(() => {
@@ -110,9 +112,9 @@ export default function SectorRotation() {
               <ResponsiveContainer width="100%" height="100%">
                 <BarChart data={moneyFlowData} layout="vertical">
                   <CartesianGrid strokeDasharray="3 3" stroke="#222222" />
-                  <XAxis type="number" tick={{ fill: '#6B7280', fontSize: 11 }} tickFormatter={(v: number) => `$${(v / 1000).toFixed(1)}B`} />
+                  <XAxis type="number" tick={{ fill: '#6B7280', fontSize: 11 }} tickFormatter={(v: number) => formatChartTick(v * 1e6)} />
                   <YAxis type="category" dataKey="sector" tick={{ fill: '#E8E8E6', fontSize: 12 }} width={80} />
-                  <Tooltip contentStyle={{ backgroundColor: '#111111', border: '1px solid #222222', borderRadius: '8px', color: '#E8E8E6' }} formatter={(v: number) => [`$${(v / 1000).toFixed(1)}B`, 'Flow']} />
+                  <Tooltip contentStyle={{ backgroundColor: '#111111', border: '1px solid #222222', borderRadius: '8px', color: '#E8E8E6' }} formatter={(v: number) => [formatChartTick(v * 1e6), 'Flow']} />
                   <Bar dataKey="flow" radius={[0, 4, 4, 0]}>
                     {moneyFlowData.map((entry, idx) => (
                       <Cell key={idx} fill={entry.flow >= 0 ? '#10B981' : '#EF4444'} />

@@ -5,6 +5,7 @@ import {
   BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer,
 } from 'recharts';
 import { fetchIpoPipeline, type IpoData } from '../services/api';
+import { useGeoCurrency } from '../hooks/useGeoCurrency';
 
 
 gsap.registerPlugin(ScrollTrigger);
@@ -35,6 +36,7 @@ export default function IPOPipeline() {
   const [ipoData, setIpoData] = useState<IpoData | null>(null);
   const [loading, setLoading] = useState(true);
   const sectionRef = useRef<HTMLDivElement>(null);
+  const { formatLocal, formatLarge } = useGeoCurrency();
 
   useEffect(() => {
     fetchIpoPipeline()
@@ -121,7 +123,7 @@ export default function IPOPipeline() {
                   <tr key={ipo.company} className="border-b border-subtleborder/50 hover:bg-deepblack/50 transition-colors">
                     <td className="p-4 text-sm text-offwhite font-medium">{ipo.company}</td>
                     <td className="p-4 text-sm text-slategray">{ipo.date}</td>
-                    <td className="p-4 text-sm font-mono text-offwhite text-right">${ipo.valuation}B</td>
+                    <td className="p-4 text-sm font-mono text-offwhite text-right">{formatLarge(ipo.valuation * 1e9)}</td>
                     <td className="p-4 text-sm text-slategray">{ipo.underwriters}</td>
                     <td className="p-4 text-sm text-slategray">{ipo.sector}</td>
                     <td className="p-4 text-center">
@@ -145,11 +147,11 @@ export default function IPOPipeline() {
               <div className="grid grid-cols-2 gap-3 mb-3">
                 <div>
                   <p className="text-[10px] font-mono text-slategray uppercase tracking-wider">IPO Price</p>
-                  <p className="text-sm font-mono text-offwhite">${ipo.ipoPrice}</p>
+                  <p className="text-sm font-mono text-offwhite">{formatLocal(ipo.ipoPrice)}</p>
                 </div>
                 <div>
                   <p className="text-[10px] font-mono text-slategray uppercase tracking-wider">Current</p>
-                  <p className="text-sm font-mono text-offwhite">${ipo.currentPrice}</p>
+                  <p className="text-sm font-mono text-offwhite">{formatLocal(ipo.currentPrice)}</p>
                 </div>
               </div>
               <div className="flex items-center justify-between pt-3 border-t border-subtleborder">

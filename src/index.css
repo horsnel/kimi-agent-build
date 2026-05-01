@@ -5,6 +5,11 @@
 @tailwind utilities;
 
 @layer base {
+  html, body {
+    overflow-x: hidden;
+    max-width: 100vw;
+  }
+
   :root {
     --background: 0 0% 2%;
     --foreground: 60 2% 90%;
@@ -39,6 +44,15 @@
   body {
     @apply bg-obsidian text-offwhite antialiased;
     font-family: 'Inter', system-ui, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  /* Prevent body scroll when mobile nav is open */
+  body.nav-open {
+    overflow: hidden;
+    position: fixed;
+    width: 100%;
   }
 
   * {
@@ -76,4 +90,22 @@
     -webkit-text-fill-color: transparent;
     background-clip: text;
   }
+}
+
+/* Anti-flicker: GSAP animated sections should be visible immediately
+   and only animate when JS is ready. This prevents FOUC on slow mobile. */
+.gsap-not-loaded .dash-section,
+.gsap-not-loaded .mort-section,
+.gsap-not-loaded .bt-section,
+.gsap-not-loaded .pod-section {
+  opacity: 1 !important;
+  transform: none !important;
+}
+
+/* Responsive number abbreviation helpers */
+@media (max-width: 640px) {
+  .responsive-text-xl { font-size: 1.125rem !important; }
+  .responsive-text-2xl { font-size: 1.25rem !important; }
+  .responsive-text-3xl { font-size: 1.5rem !important; }
+  .responsive-text-4xl { font-size: 1.75rem !important; }
 }

@@ -5,6 +5,7 @@ import {
   BarChart, Bar, LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, Cell,
 } from 'recharts';
 import { fetchCryptoOnChain, type CryptoOnChainData } from '../services/api';
+import { useGeoCurrency } from '../hooks/useGeoCurrency';
 
 
 gsap.registerPlugin(ScrollTrigger);
@@ -15,13 +16,8 @@ const typeBadge = (t: string) => {
   return 'bg-slategray/20 text-slategray';
 };
 
-const fmtUSD = (v: number) => {
-  if (v >= 1e9) return `$${(v / 1e9).toFixed(1)}B`;
-  if (v >= 1e6) return `$${(v / 1e6).toFixed(1)}M`;
-  return `$${v.toLocaleString()}`;
-};
-
 export default function CryptoOnChain() {
+  const { formatLarge } = useGeoCurrency();
   const [data, setData] = useState<CryptoOnChainData | null>(null);
   const [loading, setLoading] = useState(true);
   const sectionRef = useRef<HTMLDivElement>(null);
@@ -140,7 +136,7 @@ export default function CryptoOnChain() {
                     <td className="p-4 text-sm font-mono text-offwhite">{tx.from}</td>
                     <td className="p-4 text-sm font-mono text-offwhite">{tx.to}</td>
                     <td className="p-4 text-sm font-mono text-offwhite text-right">{tx.amount.toLocaleString()}</td>
-                    <td className="p-4 text-sm font-mono text-emerald text-right">{fmtUSD(tx.value)}</td>
+                    <td className="p-4 text-sm font-mono text-emerald text-right">{formatLarge(tx.value)}</td>
                     <td className="p-4 text-center">
                       <span className={`px-2 py-0.5 text-xs font-mono font-medium rounded ${typeBadge(tx.type)}`}>{tx.type}</span>
                     </td>

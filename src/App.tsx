@@ -1,6 +1,7 @@
-import { Routes, Route } from 'react-router';
+import { Routes, Route, useLocation } from 'react-router';
 import Navigation from './components/Navigation';
 import Footer from './components/Footer';
+import ScrollToTop from './components/ScrollToTop';
 import Home from './pages/Home';
 import Markets from './pages/Markets';
 import Research from './pages/Research';
@@ -37,17 +38,28 @@ import PrivacyPolicy from './pages/PrivacyPolicy';
 import TermsOfService from './pages/TermsOfService';
 import Disclaimer from './pages/Disclaimer';
 import CookiePolicy from './pages/CookiePolicy';
+import CompoundInterestPage from './pages/CompoundInterestPage';
+import SignIn from './pages/SignIn';
+import SignUp from './pages/SignUp';
+import Onboarding from './pages/Onboarding';
+
+const AUTH_ROUTES = ['/signin', '/signup', '/onboarding'];
 
 export default function App() {
+  const location = useLocation();
+  const isAuthPage = AUTH_ROUTES.includes(location.pathname);
+
   return (
     <div className="min-h-screen bg-obsidian text-offwhite">
-      <Navigation />
+      <ScrollToTop />
+      {!isAuthPage && <Navigation />}
       <main>
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/markets" element={<Markets />} />
           <Route path="/research" element={<Research />} />
           <Route path="/tools" element={<Tools />} />
+          <Route path="/tools/compound" element={<CompoundInterestPage />} />
           <Route path="/calendar" element={<EconomicCalendar />} />
           <Route path="/screener" element={<StockScreener />} />
           <Route path="/stocks/:ticker" element={<StockAnalysis />} />
@@ -82,10 +94,13 @@ export default function App() {
           <Route path="/terms" element={<TermsOfService />} />
           <Route path="/disclaimer" element={<Disclaimer />} />
           <Route path="/cookies" element={<CookiePolicy />} />
+          <Route path="/signin" element={<SignIn />} />
+          <Route path="/signup" element={<SignUp />} />
+          <Route path="/onboarding" element={<Onboarding />} />
           <Route path="*" element={<NotFound />} />
         </Routes>
       </main>
-      <Footer />
+      {!isAuthPage && <Footer />}
     </div>
   );
 }

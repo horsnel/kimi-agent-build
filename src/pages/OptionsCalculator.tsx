@@ -2,13 +2,12 @@ import { useState, useEffect, useRef, useMemo } from 'react';
 import gsap from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
 import { AreaChart, Area, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, ReferenceLine } from 'recharts';
+import { useGeoCurrency } from '../hooks/useGeoCurrency';
 
 gsap.registerPlugin(ScrollTrigger);
 
-const fmt = (val: number) =>
-  new Intl.NumberFormat('en-US', { style: 'currency', currency: 'USD', minimumFractionDigits: 0, maximumFractionDigits: 0 }).format(val);
-
 export default function OptionsCalculator() {
+  const { formatLocal, formatChartTick } = useGeoCurrency();
   const [ticker, setTicker] = useState('AAPL');
   const [currentPrice, setCurrentPrice] = useState(210);
   const [strikePrice, setStrikePrice] = useState(215);
@@ -48,35 +47,35 @@ export default function OptionsCalculator() {
     return data;
   }, [currentPrice, strikePrice, premium, optionType, direction, contracts]);
 
-  // Calculate key metrics
+  // Calculate key metrics (numeric only, formatting done in render)
   const metrics = useMemo(() => {
     let breakEven: number;
-    let maxProfit: string;
-    let maxLoss: string;
+    let maxProfitValue: number | null = null; // null = Unlimited
+    let maxLossValue: number | null = null; // null = Unlimited
     let totalCost: number;
 
     totalCost = premium * contracts * 100;
 
     if (optionType === 'call' && direction === 'buy') {
       breakEven = strikePrice + premium;
-      maxProfit = 'Unlimited';
-      maxLoss = fmt(totalCost);
+      maxProfitValue = null;
+      maxLossValue = totalCost;
     } else if (optionType === 'put' && direction === 'buy') {
       breakEven = strikePrice - premium;
-      maxProfit = fmt((strikePrice - premium) * contracts * 100);
-      maxLoss = fmt(totalCost);
+      maxProfitValue = (strikePrice - premium) * contracts * 100;
+      maxLossValue = totalCost;
     } else if (optionType === 'call' && direction === 'sell') {
       breakEven = strikePrice + premium;
-      maxProfit = fmt(totalCost);
-      maxLoss = 'Unlimited';
+      maxProfitValue = totalCost;
+      maxLossValue = null;
     } else {
       // put sell
       breakEven = strikePrice - premium;
-      maxProfit = fmt(totalCost);
-      maxLoss = fmt((strikePrice - premium) * contracts * 100);
+      maxProfitValue = totalCost;
+      maxLossValue = (strikePrice - premium) * contracts * 100;
     }
 
-    return { breakEven, maxProfit, maxLoss, totalCost };
+    return { breakEven, maxProfitValue, maxLossValue, totalCost };
   }, [optionType, direction, strikePrice, premium, contracts]);
 
   useEffect(() => {
@@ -201,7 +200,7 @@ export default function OptionsCalculator() {
                 background: `linear-gradient(to right, #10B981 0%, #10B981 ${((contracts - 1) / 99) * 100}%, #0A0A0A ${((contracts - 1) / 99) * 100}%, #0A0A0A 100%)`,
               }}
             />
-            <p className="text-xs font-mono text-slategray mt-1">{contracts * 100} shares &middot; {fmt(metrics.totalCost)} {direction === 'buy' ? 'cost' : 'credit'}</p>
+            <p className="text-xs font-mono text-slategray mt-1">{contracts * 100} shares &middot; {formatLocal(metrics.totalCost)} {direction === 'buy' ? 'cost' : 'credit'}</p>
           </div>
 
           {/* Expiration */}
@@ -225,7 +224,7 @@ export default function OptionsCalculator() {
             <div>
               <p className="text-xs font-mono text-slategray uppercase tracking-wider mb-1">Strategy</p>
               <p className="text-sm font-mono text-offwhite">{strategyLabel}</p>
-              <p className="text-xs font-mono text-slategray">{ticker} ${strikePrice} {optionType} expiring in {expiration} days</p>
+              <p className="text-xs font-mono text-slategray">{ticker} {formatLocal(strikePrice)} {optionType} expiring in {expiration} days</p>
             </div>
           </div>
         </div>
@@ -251,10 +250,10 @@ export default function OptionsCalculator() {
                 </defs>
                 <CartesianGrid strokeDasharray="3 3" stroke="#222222" />
                 <XAxis dataKey="price" tick={{ fill: '#6B7280', fontSize: 11 }} axisLine={{ stroke: '#222222' }} label={{ value: 'Stock Price at Expiry', position: 'insideBottom', offset: -5, fill: '#6B7280', fontSize: 11 }} />
-                <YAxis tick={{ fill: '#6B7280', fontSize: 11 }} axisLine={{ stroke: '#222222' }} tickFormatter={(v: number) => `$${(v / 1000).toFixed(0)}K`} />
-                <Tooltip contentStyle={{ backgroundColor: '#111111', border: '1px solid #222222', borderRadius: '8px', color: '#E8E8E6' }} formatter={(v: number, name: string) => [fmt(v), name === 'profit' ? 'Profit' : 'Loss']} labelFormatter={(l: number) => `$${l} at expiry`} />
+                <YAxis tick={{ fill: '#6B7280', fontSize: 11 }} axisLine={{ stroke: '#222222' }} tickFormatter={(v: number) => formatChartTick(v)} />
+                <Tooltip contentStyle={{ backgroundColor: '#111111', border: '1px solid #222222', borderRadius: '8px', color: '#E8E8E6' }} formatter={(v: number, name: string) => [formatLocal(v), name === 'profit' ? 'Profit' : 'Loss']} labelFormatter={(l: number) => `${formatLocal(l)} at expiry`} />
                 <ReferenceLine y={0} stroke="#6B7280" strokeWidth={1} strokeDasharray="5 5" />
-                <ReferenceLine x={strikePrice} stroke="#F59E0B" strokeDasharray="5 5" label={{ value: `Strike $${strikePrice}`, fill: '#F59E0B', fontSize: 10, position: 'insideTopRight' }} />
+                <ReferenceLine x={strikePrice} stroke="#F59E0B" strokeDasharray="5 5" label={{ value: `Strike ${formatLocal(strikePrice)}`, fill: '#F59E0B', fontSize: 10, position: 'insideTopRight' }} />
                 <Area type="monotone" dataKey="profit" stroke="#10B981" strokeWidth={2} fill="url(#profitGrad)" name="profit" />
                 <Area type="monotone" dataKey="loss" stroke="#EF4444" strokeWidth={2} fill="url(#lossGrad)" name="loss" />
               </AreaChart>
@@ -268,21 +267,21 @@ export default function OptionsCalculator() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
           <div className="bg-charcoal border border-subtleborder rounded-xl p-5 text-center">
             <p className="text-xs font-mono text-slategray uppercase tracking-wider mb-2">Break-Even Price</p>
-            <p className="text-2xl font-mono text-offwhite font-bold">${metrics.breakEven.toFixed(2)}</p>
+            <p className="text-2xl font-mono text-offwhite font-bold">{formatLocal(metrics.breakEven)}</p>
             <p className="text-xs font-mono text-slategray mt-1">stock must {optionType === 'call' ? 'rise above' : 'fall below'} this price</p>
           </div>
           <div className="bg-charcoal border border-emerald/30 rounded-xl p-5 text-center">
             <p className="text-xs font-mono text-slategray uppercase tracking-wider mb-2">Max Profit</p>
-            <p className="text-2xl font-mono text-emerald font-bold">{metrics.maxProfit}</p>
+            <p className="text-2xl font-mono text-emerald font-bold">{metrics.maxProfitValue === null ? 'Unlimited' : formatLocal(metrics.maxProfitValue)}</p>
             <p className="text-xs font-mono text-slategray mt-1">
-              {direction === 'buy' && optionType === 'call' ? 'theoretically unlimited' : direction === 'buy' ? `strike - premium = $${(strikePrice - premium).toFixed(2)}` : 'premium collected'}
+              {direction === 'buy' && optionType === 'call' ? 'theoretically unlimited' : direction === 'buy' ? `strike - premium = ${formatLocal(strikePrice - premium)}` : 'premium collected'}
             </p>
           </div>
           <div className="bg-charcoal border border-crimson/30 rounded-xl p-5 text-center">
             <p className="text-xs font-mono text-slategray uppercase tracking-wider mb-2">Max Loss</p>
-            <p className="text-2xl font-mono text-crimson font-bold">{metrics.maxLoss}</p>
+            <p className="text-2xl font-mono text-crimson font-bold">{metrics.maxLossValue === null ? 'Unlimited' : formatLocal(metrics.maxLossValue)}</p>
             <p className="text-xs font-mono text-slategray mt-1">
-              {direction === 'buy' ? 'premium paid' : direction === 'sell' && optionType === 'call' ? 'theoretically unlimited' : `strike - premium = $${(strikePrice - premium).toFixed(2)}`}
+              {direction === 'buy' ? 'premium paid' : direction === 'sell' && optionType === 'call' ? 'theoretically unlimited' : `strike - premium = ${formatLocal(strikePrice - premium)}`}
             </p>
           </div>
         </div>

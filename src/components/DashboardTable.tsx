@@ -3,6 +3,18 @@ import { Link } from 'react-router';
 import { HexagonIcon, ArrowUpRightIcon } from './CustomIcons';
 import { fetchCryptoOverview, type CryptoAsset } from '../services/api';
 import { useIsMobile } from '../hooks/use-mobile';
+import { LocalPrice, useGeoCurrency } from '../hooks/useGeoCurrency';
+
+// Convert "$1.92T" or "$890M" style strings to USD number for currency conversion
+function parseDollarString(s: string): number {
+  if (!s || !s.startsWith('$')) return 0;
+  const num = parseFloat(s.replace(/[$,]/g, ''));
+  if (s.includes('T')) return num * 1e12;
+  if (s.includes('B')) return num * 1e9;
+  if (s.includes('M')) return num * 1e6;
+  if (s.includes('K')) return num * 1e3;
+  return num;
+}
 
 interface AssetRow {
   rank: number;
@@ -44,6 +56,7 @@ export default function DashboardTable({ filterSector, maxRows = 12 }: Dashboard
   const [sortDir, setSortDir] = useState<SortDir>('asc');
   const [assetData, setAssetData] = useState<AssetRow[]>(fallbackData);
   const [loading, setLoading] = useState(true);
+  const { formatLarge } = useGeoCurrency();
   const isMobile = useIsMobile();
 
   useEffect(() => {
@@ -142,8 +155,8 @@ export default function DashboardTable({ filterSector, maxRows = 12 }: Dashboard
               </span>
             </div>
             <div className="flex items-center justify-between text-xs font-mono text-slategray">
-              <span className="text-offwhite">${row.price.toLocaleString('en-US', { minimumFractionDigits: 2 })}</span>
-              <span>MCap: {row.marketCap}</span>
+              <span className="text-offwhite"><LocalPrice usd={row.price} short /></span>
+              <span>MCap: {formatLarge(parseDollarString(row.marketCap))}</span>
             </div>
           </div>
         ))}
@@ -199,13 +212,13 @@ export default function DashboardTable({ filterSector, maxRows = 12 }: Dashboard
                 </div>
               </td>
               <td className="py-3 px-4 text-sm font-mono text-offwhite">
-                ${row.price.toLocaleString('en-US', { minimumFractionDigits: 2 })}
+                <LocalPrice usd={row.price} short />
               </td>
               <td className={`py-3 px-4 text-sm font-mono ${row.change24h >= 0 ? 'text-emerald' : 'text-crimson'}`}>
                 {row.change24h >= 0 ? '+' : ''}{row.change24h.toFixed(2)}%
               </td>
-              <td className="py-3 px-4 text-sm font-mono text-offwhite">{row.marketCap}</td>
-              <td className="py-3 px-4 text-sm font-mono text-offwhite">{row.volume24h}</td>
+              <td className="py-3 px-4 text-sm font-mono text-offwhite">{formatLarge(parseDollarString(row.marketCap))}</td>
+              <td className="py-3 px-4 text-sm font-mono text-offwhite">{formatLarge(parseDollarString(row.volume24h))}</td>
               <td className="py-3 px-4 text-sm font-mono text-slategray">{row.sector}</td>
               <td className="py-3 px-4">
                 <span className="flex items-center gap-2">

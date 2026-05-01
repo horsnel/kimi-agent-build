@@ -1,27 +1,29 @@
 import { useState, useEffect, useRef } from 'react';
-import { Link } from 'react-router';
+import { Link, useNavigate } from 'react-router';
 import gsap from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
 import { TrendUpIcon, TrendDownIcon, BellIcon, ArrowRightIcon, BookOpenIcon, ClockIcon } from '../components/CustomIcons';
+import { useAuth } from '../hooks/useAuth';
+import { LocalPrice } from '../hooks/useGeoCurrency';
 
 gsap.registerPlugin(ScrollTrigger);
 
 const stats = [
-  { label: 'Portfolio Value', value: '$284,520', change: null },
-  { label: 'Total Gain/Loss', value: '+$34,520', change: '+13.8%' },
+  { label: 'Portfolio Value', usd: 284520, change: null },
+  { label: 'Total Gain/Loss', usd: 34520, isGain: true, change: '+13.8%' },
   { label: 'Watchlist Count', value: '8', change: null },
   { label: 'Alert Count', value: '3', change: null },
 ];
 
 const watchlist = [
-  { ticker: 'AAPL', price: '$210.35', change: '+1.2%', note: 'Earnings next week', up: true },
-  { ticker: 'MSFT', price: '$420.18', change: '-0.3%', note: 'Cloud growth play', up: false },
-  { ticker: 'NVDA', price: '$620.45', change: '+3.5%', note: 'AI leader', up: true },
-  { ticker: 'TSLA', price: '$238.90', change: '-1.8%', note: 'Watching dip', up: false },
-  { ticker: 'GOOGL', price: '$175.20', change: '+0.8%', note: 'Ad revenue recovery', up: true },
-  { ticker: 'AMZN', price: '$185.40', change: '+1.5%', note: 'AWS momentum', up: true },
-  { ticker: 'META', price: '$520.30', change: '+2.1%', note: 'Reels growth', up: true },
-  { ticker: 'JPM', price: '$198.75', change: '+0.4%', note: 'Rate beneficiary', up: true },
+  { ticker: 'AAPL', price: 210.35, change: '+1.2%', note: 'Earnings next week', up: true },
+  { ticker: 'MSFT', price: 420.18, change: '-0.3%', note: 'Cloud growth play', up: false },
+  { ticker: 'NVDA', price: 620.45, change: '+3.5%', note: 'AI leader', up: true },
+  { ticker: 'TSLA', price: 238.90, change: '-1.8%', note: 'Watching dip', up: false },
+  { ticker: 'GOOGL', price: 175.20, change: '+0.8%', note: 'Ad revenue recovery', up: true },
+  { ticker: 'AMZN', price: 185.40, change: '+1.5%', note: 'AWS momentum', up: true },
+  { ticker: 'META', price: 520.30, change: '+2.1%', note: 'Reels growth', up: true },
+  { ticker: 'JPM', price: 198.75, change: '+0.4%', note: 'Rate beneficiary', up: true },
 ];
 
 const recentAlerts = [
@@ -38,6 +40,10 @@ const savedResearch = [
 ];
 
 export default function MemberDashboard() {
+  const navigate = useNavigate();
+  const { getUser } = useAuth();
+  const user = getUser();
+
   const [emailAlerts, setEmailAlerts] = useState({
     priceAlerts: true,
     earningsAlerts: true,
@@ -45,6 +51,12 @@ export default function MemberDashboard() {
     researchUpdates: true,
   });
   const sectionRef = useRef<HTMLDivElement>(null);
+
+  useEffect(() => {
+    if (!user) {
+      navigate('/signin', { replace: true });
+    }
+  }, [user, navigate]);
 
   useEffect(() => {
     const ctx = gsap.context(() => {
@@ -80,7 +92,7 @@ export default function MemberDashboard() {
         <h1 className="text-4xl md:text-5xl font-display font-light text-offwhite mb-2">
           Dashboard
         </h1>
-        <p className="text-slategray text-lg">Welcome back, Investor</p>
+        <p className="text-slategray text-lg">Welcome back, {user?.firstName || 'Investor'}</p>
       </section>
 
       {/* Stats Row */}
@@ -89,7 +101,13 @@ export default function MemberDashboard() {
           {stats.map((stat) => (
             <div key={stat.label} className="bg-charcoal border border-subtleborder rounded-xl p-6">
               <p className="text-xs font-mono text-slategray uppercase tracking-wider mb-2">{stat.label}</p>
-              <p className="text-2xl md:text-3xl font-display font-light text-offwhite">{stat.value}</p>
+              <p className="text-lg sm:text-2xl md:text-3xl font-display font-light text-offwhite truncate">
+                {stat.usd !== undefined ? (
+                  <LocalPrice usd={stat.usd} short />
+                ) : (
+                  stat.value
+                )}
+              </p>
               {stat.change && (
                 <span className="text-sm font-mono text-emerald flex items-center gap-1 mt-1">
                   <TrendUpIcon size={14} />
@@ -130,7 +148,7 @@ export default function MemberDashboard() {
                           {stock.ticker}
                         </Link>
                       </td>
-                      <td className="py-3 text-right text-sm font-mono text-offwhite">{stock.price}</td>
+                      <td className="py-3 text-right text-sm font-mono text-offwhite"><LocalPrice usd={stock.price} short /></td>
                       <td className="py-3 text-right">
                         <span className={`text-sm font-mono flex items-center justify-end gap-1 ${stock.up ? 'text-emerald' : 'text-crimson'}`}>
                           {stock.up ? <TrendUpIcon size={12} /> : <TrendDownIcon size={12} />}
@@ -225,23 +243,7 @@ export default function MemberDashboard() {
         </div>
       </section>
 
-      {/* Upgrade Banner */}
-      <section className="dash-section max-w-7xl mx-auto px-6 py-8 pb-16">
-        <div className="bg-emerald/10 border border-emerald/30 rounded-xl p-8 flex flex-col md:flex-row items-center justify-between gap-6">
-          <div>
-            <h3 className="text-xl font-display font-medium text-offwhite mb-2">Upgrade to Premium</h3>
-            <p className="text-sm text-slategray max-w-lg">
-              Unlock advanced analytics, real-time alerts, exclusive research, and institutional-grade tools. Join thousands of serious investors.
-            </p>
-          </div>
-          <Link
-            to="/premium/sector-rotation"
-            className="flex-shrink-0 px-6 py-3 bg-emerald text-obsidian text-sm font-medium hover:bg-emerald/90 transition-colors rounded-lg flex items-center gap-2"
-          >
-            Upgrade Now <ArrowRightIcon size={16} />
-          </Link>
-        </div>
-      </section>
+
     </div>
   );
 }

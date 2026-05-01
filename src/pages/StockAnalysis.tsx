@@ -6,6 +6,7 @@ import { ScrollTrigger } from 'gsap/ScrollTrigger';
 import { AreaChart, Area, BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, Cell } from 'recharts';
 import { TrendUpIcon, TrendDownIcon, ArrowRightIcon, ClockIcon } from '../components/CustomIcons';
 import { fetchStockDetail, type StockDetail } from '../services/api';
+import { LocalPrice, useGeoCurrency } from '../hooks/useGeoCurrency';
 
 gsap.registerPlugin(ScrollTrigger);
 
@@ -90,16 +91,18 @@ export default function StockAnalysis() {
 
   const timeframes: Timeframe[] = ['1D', '1W', '1M', '3M', '1Y'];
 
+  const { formatLocal } = useGeoCurrency();
+
   const keyStats = [
-    { label: 'Open', value: `$${s.open.toFixed(2)}` },
-    { label: 'High', value: `$${s.high.toFixed(2)}` },
-    { label: 'Low', value: `$${s.low.toFixed(2)}` },
+    { label: 'Open', value: formatLocal(s.open) },
+    { label: 'High', value: formatLocal(s.high) },
+    { label: 'Low', value: formatLocal(s.low) },
     { label: 'Volume', value: s.volume },
     { label: 'Avg Volume', value: s.avgVolume },
     { label: 'Market Cap', value: s.marketCap },
     { label: 'P/E Ratio', value: s.pe.toFixed(1) },
-    { label: 'EPS', value: `$${s.eps.toFixed(2)}` },
-    { label: 'Dividend', value: `$${s.dividend.toFixed(2)}` },
+    { label: 'EPS', value: formatLocal(s.eps) },
+    { label: 'Dividend', value: formatLocal(s.dividend) },
     { label: 'Beta', value: s.beta.toFixed(2) },
   ];
 
@@ -149,12 +152,12 @@ export default function StockAnalysis() {
           </div>
           <div className="text-right">
             <p className="text-3xl md:text-4xl font-display font-light text-offwhite">
-              ${s.price.toFixed(2)}
+              <LocalPrice usd={s.price} />
             </p>
             <div className="flex gap-4 text-xs font-mono text-slategray mt-1 justify-end">
               <span>Mkt Cap: {s.marketCap}</span>
               <span>P/E: {s.pe.toFixed(1)}</span>
-              <span>EPS: ${s.eps.toFixed(2)}</span>
+              <span>EPS: <LocalPrice usd={s.eps} short /></span>
               <span>Beta: {s.beta.toFixed(2)}</span>
             </div>
           </div>
@@ -166,7 +169,7 @@ export default function StockAnalysis() {
         <div className="bg-charcoal border border-subtleborder rounded-xl p-5">
           <div className="flex items-center justify-between mb-2">
             <span className="text-xs font-mono text-slategray">52-Week Range</span>
-            <span className="text-xs font-mono text-offwhite">${s.price.toFixed(2)}</span>
+            <span className="text-xs font-mono text-offwhite"><LocalPrice usd={s.price} short /></span>
           </div>
           <div className="relative h-2 bg-deepblack rounded-full overflow-hidden">
             <div
@@ -179,8 +182,8 @@ export default function StockAnalysis() {
             />
           </div>
           <div className="flex justify-between mt-2">
-            <span className="text-xs font-mono text-crimson">${s.week52Low.toFixed(2)}</span>
-            <span className="text-xs font-mono text-emerald">${s.week52High.toFixed(2)}</span>
+            <span className="text-xs font-mono text-crimson">{formatLocal(s.week52Low)}</span>
+            <span className="text-xs font-mono text-emerald">{formatLocal(s.week52High)}</span>
           </div>
         </div>
       </section>

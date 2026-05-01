@@ -225,7 +225,7 @@ export interface DataManifest {
 
 export interface HedgeFundData {
   name: string;
-  aum: string;
+  aum: number | string;
   holdings: number;
   topHolding: string;
   positions: {

@@ -1,5 +1,6 @@
 import { Link } from 'react-router';
 import { SigmaIcon } from './CustomIcons';
+import { CurrencyIndicator } from '../hooks/useGeoCurrency';
 
 interface FooterLink {
   label: string;
@@ -20,7 +21,7 @@ const footerSections: { title: string; links: FooterLink[] }[] = [
   {
     title: 'Tools',
     links: [
-      { label: 'Compound Interest', path: '/tools' },
+      { label: 'Compound Interest', path: '/tools/compound' },
       { label: 'Retirement Score', path: '/tools/retirement' },
       { label: 'Mortgage Calculator', path: '/tools/mortgage' },
       { label: 'Backtester', path: '/tools/backtester' },
@@ -134,6 +135,7 @@ export default function Footer() {
               <span className="text-xs font-mono text-slategray">
                 Data delayed by 15 min
               </span>
+              <CurrencyIndicator />
             </div>
             <p className="text-[10px] font-mono text-slategray/60 max-w-xl text-center md:text-right">
               This site is for informational purposes only and does not constitute financial advice. Past performance is not indicative of future results.

@@ -4,6 +4,7 @@ import { ScrollTrigger } from 'gsap/ScrollTrigger';
 import {
   AreaChart, Area, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer,
 } from 'recharts';
+import { useGeoCurrency } from '../hooks/useGeoCurrency';
 
 
 gsap.registerPlugin(ScrollTrigger);
@@ -40,6 +41,7 @@ export default function DCFValuation() {
   const [terminalGrowth, setTerminalGrowth] = useState(2.5);
   const [projectionYears, setProjectionYears] = useState<5 | 10>(10);
   const sectionRef = useRef<HTMLDivElement>(null);
+  const { formatLocal, formatLarge, formatChartTick } = useGeoCurrency();
 
   const filtered = tickers.filter((t) => t.toLowerCase().includes(input.toLowerCase()));
   const stock = stocks[selectedStock];
@@ -113,8 +115,7 @@ export default function DCFValuation() {
     return () => ctx.revert();
   }, []);
 
-  const fmtB = (v: number) => `$${(v / 1e9).toFixed(1)}B`;
-  const fmtM = (v: number) => `$${(v / 1e6).toFixed(0)}M`;
+
 
   return (
       <div ref={sectionRef}>
@@ -220,12 +221,12 @@ export default function DCFValuation() {
           <div className="space-y-4">
             <div className="bg-charcoal border border-emerald/30 rounded-xl p-6 text-center">
               <p className="text-xs font-mono text-slategray uppercase tracking-wider mb-2">Intrinsic Value per Share</p>
-              <p className="text-5xl font-display font-bold text-emerald">${dcfResult.intrinsicPerShare.toFixed(2)}</p>
+              <p className="text-5xl font-display font-bold text-emerald">{formatLocal(dcfResult.intrinsicPerShare)}</p>
             </div>
             <div className="grid grid-cols-2 gap-4">
               <div className="bg-charcoal border border-subtleborder rounded-xl p-5">
                 <p className="text-xs font-mono text-slategray uppercase tracking-wider mb-1">Current Price</p>
-                <p className="text-xl font-mono text-offwhite">${stock.price}</p>
+                <p className="text-xl font-mono text-offwhite">{formatLocal(stock.price)}</p>
               </div>
               <div className="bg-charcoal border border-subtleborder rounded-xl p-5">
                 <p className="text-xs font-mono text-slategray uppercase tracking-wider mb-1">Upside / Downside</p>
@@ -237,11 +238,11 @@ export default function DCFValuation() {
             <div className="grid grid-cols-2 gap-4">
               <div className="bg-charcoal border border-subtleborder rounded-xl p-4">
                 <p className="text-xs font-mono text-slategray uppercase tracking-wider mb-1">PV of FCFs</p>
-                <p className="text-sm font-mono text-offwhite">{fmtB(dcfResult.totalPV)}</p>
+                <p className="text-sm font-mono text-offwhite">{formatLarge(dcfResult.totalPV)}</p>
               </div>
               <div className="bg-charcoal border border-subtleborder rounded-xl p-4">
                 <p className="text-xs font-mono text-slategray uppercase tracking-wider mb-1">PV of Terminal</p>
-                <p className="text-sm font-mono text-offwhite">{fmtB(dcfResult.pvTerminal)}</p>
+                <p className="text-sm font-mono text-offwhite">{formatLarge(dcfResult.pvTerminal)}</p>
               </div>
             </div>
           </div>
@@ -263,8 +264,8 @@ export default function DCFValuation() {
                 </defs>
                 <CartesianGrid strokeDasharray="3 3" stroke="#222222" />
                 <XAxis dataKey="rate" tick={{ fill: '#6B7280', fontSize: 11 }} />
-                <YAxis tick={{ fill: '#6B7280', fontSize: 11 }} tickFormatter={(v: number) => `$${v}`} />
-                <Tooltip contentStyle={{ backgroundColor: '#111111', border: '1px solid #222222', borderRadius: '8px', color: '#E8E8E6' }} formatter={(v: number) => [`$${v}`, 'Intrinsic Value']} />
+                <YAxis tick={{ fill: '#6B7280', fontSize: 11 }} tickFormatter={(v: number) => formatChartTick(v)} />
+                <Tooltip contentStyle={{ backgroundColor: '#111111', border: '1px solid #222222', borderRadius: '8px', color: '#E8E8E6' }} formatter={(v: number) => [formatLocal(v), 'Intrinsic Value']} />
                 <Area type="monotone" dataKey="value" stroke="#10B981" strokeWidth={2} fill="url(#sensGrad)" />
               </AreaChart>
             </ResponsiveContainer>
@@ -294,11 +295,11 @@ export default function DCFValuation() {
                 {dcfResult.rows.map((row) => (
                   <tr key={row.year} className="border-b border-subtleborder/50 hover:bg-deepblack/50 transition-colors">
                     <td className="p-4 text-sm text-offwhite font-mono">{row.year}</td>
-                    <td className="p-4 text-sm font-mono text-offwhite text-right">{fmtB(row.revenue)}</td>
-                    <td className="p-4 text-sm font-mono text-offwhite text-right">{fmtB(row.ebitda)}</td>
-                    <td className="p-4 text-sm font-mono text-offwhite text-right">{fmtB(row.fcf)}</td>
+                    <td className="p-4 text-sm font-mono text-offwhite text-right">{formatLarge(row.revenue)}</td>
+                    <td className="p-4 text-sm font-mono text-offwhite text-right">{formatLarge(row.ebitda)}</td>
+                    <td className="p-4 text-sm font-mono text-offwhite text-right">{formatLarge(row.fcf)}</td>
                     <td className="p-4 text-sm font-mono text-slategray text-right">{row.discountFactor.toFixed(4)}</td>
-                    <td className="p-4 text-sm font-mono text-emerald text-right">{fmtM(row.pvFcf)}</td>
+                    <td className="p-4 text-sm font-mono text-emerald text-right">{formatLarge(row.pvFcf)}</td>
                   </tr>
                 ))}
               </tbody>

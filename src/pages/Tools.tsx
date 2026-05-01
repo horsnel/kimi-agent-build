@@ -12,7 +12,7 @@ const toolsList = [
     title: 'Compound Interest',
     description: 'Project wealth growth with adjustable capital and yield parameters.',
     icon: <CalculatorIcon size={24} />,
-    path: '/tools',
+    path: '/tools/compound',
   },
   {
     title: 'Retirement Score',

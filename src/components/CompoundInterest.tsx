@@ -1,6 +1,7 @@
 import { useState, useEffect, useRef } from 'react';
 import gsap from 'gsap';
 import { CalculatorIcon } from './CustomIcons';
+import { useGeoCurrency } from '../hooks/useGeoCurrency';
 
 type Period = 5 | 10 | 15 | 20 | 30;
 
@@ -10,6 +11,7 @@ export default function CompoundInterest() {
   const [period, setPeriod] = useState<Period>(10);
   const [displayValue, setDisplayValue] = useState(155280);
   const displayRef = useRef<HTMLSpanElement>(null);
+  const { formatLocalShort, currency } = useGeoCurrency();
 
   const calculate = (p: number, r: number, years: number) => {
     return Math.round(p * Math.pow(1 + r / 100, years));
@@ -30,14 +32,7 @@ export default function CompoundInterest() {
     });
   }, [principal, rate, period]);
 
-  const formatCurrency = (val: number) => {
-    return new Intl.NumberFormat('en-US', {
-      style: 'currency',
-      currency: 'USD',
-      minimumFractionDigits: 0,
-      maximumFractionDigits: 0,
-    }).format(val);
-  };
+  const formatCurrency = (val: number) => formatLocalShort(val);
 
   const isHighValue = displayValue > 1000000;
 
@@ -69,8 +64,8 @@ export default function CompoundInterest() {
               }}
             />
             <div className="flex justify-between mt-1 text-xs font-mono text-slategray">
-              <span>$1K</span>
-              <span>$500K</span>
+              <span>{currency.symbol}1K</span>
+              <span>{currency.symbol}500K</span>
             </div>
           </div>
 

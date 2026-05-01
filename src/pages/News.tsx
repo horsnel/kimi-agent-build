@@ -5,6 +5,7 @@ import { ScrollTrigger } from 'gsap/ScrollTrigger';
 import { AreaChart, Area, ResponsiveContainer } from 'recharts';
 import { ClockIcon, ArrowRightIcon } from '../components/CustomIcons';
 import { fetchNews, fetchMarketIndices, fetchCryptoOverview, type NewsArticle as ApiNewsArticle, type MarketIndex, type CryptoAsset } from '../services/api';
+import { useGeoCurrency } from '../hooks/useGeoCurrency';
 
 gsap.registerPlugin(ScrollTrigger);
 
@@ -119,7 +120,7 @@ const fallbackMarketCharts = [
   { title: '10Y Yield', value: '4.08%', change: '-0.12%', up: false, data: generateSparkline(4.1, 20, 0.005) },
   { title: 'VIX', value: '14.32', change: '-5.2%', up: true, data: generateSparkline(15, 20, 0.02) },
   { title: 'DXY', value: '103.45', change: '-0.38%', up: false, data: generateSparkline(104, 20, 0.006) },
-  { title: 'BTC/USD', value: '$101,243', change: '+4.7%', up: true, data: generateSparkline(100000, 20, 0.015) },
+  { title: 'BTC/USD', value: '101243', change: '+4.7%', up: true, data: generateSparkline(100000, 20, 0.015) },
 ];
 
 const newsCategories: NewsCategory[] = ['All', 'Market Analysis', 'Economic Data', 'Earnings', 'Fed Policy', 'Crypto'];
@@ -140,6 +141,7 @@ function CategoryBadge({ category }: { category: string }) {
 }
 
 export default function News() {
+  const { formatLocalShort } = useGeoCurrency();
   const [newsArticles, setNewsArticles] = useState<NewsArticle[]>(fallbackNewsArticles);
   const [marketCharts, setMarketCharts] = useState(fallbackMarketCharts);
   const [loading, setLoading] = useState(true);
@@ -185,7 +187,7 @@ export default function News() {
         if (btc) {
           charts.push({
             title: 'BTC/USD',
-            value: `$${btc.price.toLocaleString('en-US', { maximumFractionDigits: 0 })}`,
+            value: formatLocalShort(btc.price),
             change: `${btc.change24h >= 0 ? '+' : ''}${btc.change24h.toFixed(1)}%`,
             up: btc.change24h >= 0,
             data: btc.sparkline.length > 0 ? btc.sparkline.map((v: number) => ({ v })) : generateSparkline(btc.price, 20, 0.015),

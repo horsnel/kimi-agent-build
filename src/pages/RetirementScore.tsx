@@ -2,13 +2,12 @@ import { useState, useEffect, useRef, useMemo } from 'react';
 import gsap from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
 import { AreaChart, Area, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, ReferenceLine } from 'recharts';
+import { useGeoCurrency } from '../hooks/useGeoCurrency';
 
 gsap.registerPlugin(ScrollTrigger);
 
-const fmt = (val: number) =>
-  new Intl.NumberFormat('en-US', { style: 'currency', currency: 'USD', minimumFractionDigits: 0, maximumFractionDigits: 0 }).format(val);
-
 export default function RetirementScore() {
+  const { formatLocal, formatChartTick } = useGeoCurrency();
   const [currentAge, setCurrentAge] = useState(30);
   const [retirementAge, setRetirementAge] = useState(65);
   const [annualIncome, setAnnualIncome] = useState(85000);
@@ -66,9 +65,9 @@ export default function RetirementScore() {
   const sliders = [
     { label: 'Current Age', value: currentAge, setter: setCurrentAge, min: 18, max: 65, step: 1, display: `${currentAge}` },
     { label: 'Retirement Age', value: retirementAge, setter: setRetirementAge, min: 55, max: 75, step: 1, display: `${retirementAge}` },
-    { label: 'Annual Income', value: annualIncome, setter: setAnnualIncome, min: 30000, max: 500000, step: 5000, display: fmt(annualIncome) },
-    { label: 'Current Savings', value: currentSavings, setter: setCurrentSavings, min: 0, max: 2000000, step: 10000, display: fmt(currentSavings) },
-    { label: 'Monthly Contribution', value: monthlyContribution, setter: setMonthlyContribution, min: 0, max: 5000, step: 50, display: fmt(monthlyContribution) },
+    { label: 'Annual Income', value: annualIncome, setter: setAnnualIncome, min: 30000, max: 500000, step: 5000, display: formatLocal(annualIncome) },
+    { label: 'Current Savings', value: currentSavings, setter: setCurrentSavings, min: 0, max: 2000000, step: 10000, display: formatLocal(currentSavings) },
+    { label: 'Monthly Contribution', value: monthlyContribution, setter: setMonthlyContribution, min: 0, max: 5000, step: 50, display: formatLocal(monthlyContribution) },
     { label: 'Expected Return', value: expectedReturn, setter: setExpectedReturn, min: 4, max: 12, step: 0.5, display: `${expectedReturn}%` },
   ];
 
@@ -138,11 +137,11 @@ export default function RetirementScore() {
             <div className="grid grid-cols-2 gap-4">
               <div className="bg-charcoal border border-subtleborder rounded-xl p-4">
                 <p className="text-xs font-mono text-slategray uppercase tracking-wider mb-1">Projected Savings</p>
-                <p className="text-xl font-mono text-offwhite">{fmt(calculations.fv)}</p>
+                <p className="text-xl font-mono text-offwhite">{formatLocal(calculations.fv)}</p>
               </div>
               <div className="bg-charcoal border border-subtleborder rounded-xl p-4">
                 <p className="text-xs font-mono text-slategray uppercase tracking-wider mb-1">Monthly Retirement Income</p>
-                <p className="text-xl font-mono text-emerald">{fmt(calculations.monthlyRetirementIncome)}</p>
+                <p className="text-xl font-mono text-emerald">{formatLocal(calculations.monthlyRetirementIncome)}</p>
               </div>
             </div>
 
@@ -154,12 +153,12 @@ export default function RetirementScore() {
                     {gap >= 0 ? 'Monthly Surplus' : 'Monthly Shortfall'}
                   </p>
                   <p className={`text-2xl font-display font-bold ${gap >= 0 ? 'text-emerald' : 'text-crimson'}`}>
-                    {gap >= 0 ? '+' : '-'}{fmt(Math.abs(gap))}
+                    {gap >= 0 ? '+' : '-'}{formatLocal(Math.abs(gap))}
                   </p>
                 </div>
                 <div className="text-right">
-                  <p className="text-xs font-mono text-slategray mb-1">Target: {fmt(calculations.targetMonthlyIncome)}/mo</p>
-                  <p className="text-xs font-mono text-slategray">Projected: {fmt(calculations.monthlyRetirementIncome)}/mo</p>
+                  <p className="text-xs font-mono text-slategray mb-1">Target: {formatLocal(calculations.targetMonthlyIncome)}/mo</p>
+                  <p className="text-xs font-mono text-slategray">Projected: {formatLocal(calculations.monthlyRetirementIncome)}/mo</p>
                 </div>
               </div>
             </div>
@@ -183,8 +182,8 @@ export default function RetirementScore() {
                 </defs>
                 <CartesianGrid strokeDasharray="3 3" stroke="#222222" />
                 <XAxis dataKey="age" tick={{ fill: '#6B7280', fontSize: 11 }} axisLine={{ stroke: '#222222' }} />
-                <YAxis tick={{ fill: '#6B7280', fontSize: 11 }} axisLine={{ stroke: '#222222' }} tickFormatter={(v: number) => `$${(v / 1000000).toFixed(1)}M`} />
-                <Tooltip contentStyle={{ backgroundColor: '#111111', border: '1px solid #222222', borderRadius: '8px', color: '#E8E8E6' }} formatter={(v: number) => fmt(v)} labelFormatter={(l: number) => `Age ${l}`} />
+                <YAxis tick={{ fill: '#6B7280', fontSize: 11 }} axisLine={{ stroke: '#222222' }} tickFormatter={(v: number) => formatChartTick(v)} />
+                <Tooltip contentStyle={{ backgroundColor: '#111111', border: '1px solid #222222', borderRadius: '8px', color: '#E8E8E6' }} formatter={(v: number) => formatLocal(v)} labelFormatter={(l: number) => `Age ${l}`} />
                 <ReferenceLine x={retirementAge} stroke="#F59E0B" strokeDasharray="5 5" label={{ value: 'Retire', fill: '#F59E0B', fontSize: 11 }} />
                 <Area type="monotone" dataKey="savings" stroke="#10B981" strokeWidth={2} fill="url(#savingsGrad)" />
               </AreaChart>

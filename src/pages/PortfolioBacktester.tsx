@@ -3,11 +3,9 @@ import { Link } from 'react-router';
 import gsap from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
 import { AreaChart, Area, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer } from 'recharts';
+import { useGeoCurrency } from '../hooks/useGeoCurrency';
 
 gsap.registerPlugin(ScrollTrigger);
-
-const fmt = (val: number) =>
-  new Intl.NumberFormat('en-US', { style: 'currency', currency: 'USD', minimumFractionDigits: 0, maximumFractionDigits: 0 }).format(val);
 
 type AllocKey = 'stocks' | 'bonds' | 'cash' | 'realEstate' | 'gold';
 
@@ -51,6 +49,7 @@ function seededRandom(seed: number) {
 }
 
 export default function PortfolioBacktester() {
+  const { formatLocal, formatLocalShort, formatChartTick } = useGeoCurrency();
   const [allocation, setAllocation] = useState<Allocation>({ stocks: 60, bonds: 20, cash: 5, realEstate: 10, gold: 5 });
   const [period, setPeriod] = useState<10 | 20 | 30 | 50>(20);
   const [initialInvestment, setInitialInvestment] = useState(100000);
@@ -221,7 +220,7 @@ export default function PortfolioBacktester() {
             <div>
               <div className="flex justify-between mb-2">
                 <label className="text-xs font-mono text-slategray uppercase tracking-wider">Initial Investment</label>
-                <span className="text-sm font-mono text-offwhite">{fmt(initialInvestment)}</span>
+                <span className="text-sm font-mono text-offwhite">{formatLocal(initialInvestment)}</span>
               </div>
               <input type="range" min={10000} max={1000000} step={10000} value={initialInvestment} onChange={(e) => setInitialInvestment(Number(e.target.value))} className="w-full h-1.5 bg-deepblack rounded-full appearance-none cursor-pointer accent-emerald" style={{ background: `linear-gradient(to right, #10B981 0%, #10B981 ${((initialInvestment - 10000) / 990000) * 100}%, #0A0A0A ${((initialInvestment - 10000) / 990000) * 100}%, #0A0A0A 100%)` }} />
             </div>
@@ -234,19 +233,19 @@ export default function PortfolioBacktester() {
         <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
           <div className="bg-charcoal border border-emerald/30 rounded-xl p-5 text-center">
             <p className="text-xs font-mono text-slategray uppercase tracking-wider mb-2">Final Value</p>
-            <p className="text-2xl font-mono text-emerald font-bold">{fmt(results.finalValue)}</p>
+            <p className="text-lg sm:text-2xl font-mono text-emerald font-bold truncate">{formatLocalShort(results.finalValue)}</p>
           </div>
           <div className="bg-charcoal border border-subtleborder rounded-xl p-5 text-center">
             <p className="text-xs font-mono text-slategray uppercase tracking-wider mb-2">CAGR</p>
-            <p className="text-2xl font-mono text-offwhite font-bold">{results.cagr.toFixed(1)}%</p>
+            <p className="text-lg sm:text-2xl font-mono text-offwhite font-bold">{results.cagr.toFixed(1)}%</p>
           </div>
           <div className="bg-charcoal border border-subtleborder rounded-xl p-5 text-center">
             <p className="text-xs font-mono text-slategray uppercase tracking-wider mb-2">Max Drawdown</p>
-            <p className="text-2xl font-mono text-crimson font-bold">{results.maxDrawdown.toFixed(1)}%</p>
+            <p className="text-lg sm:text-2xl font-mono text-crimson font-bold">{results.maxDrawdown.toFixed(1)}%</p>
           </div>
           <div className="bg-charcoal border border-subtleborder rounded-xl p-5 text-center">
             <p className="text-xs font-mono text-slategray uppercase tracking-wider mb-2">Sharpe Ratio</p>
-            <p className="text-2xl font-mono text-offwhite font-bold">{results.sharpe.toFixed(2)}</p>
+            <p className="text-lg sm:text-2xl font-mono text-offwhite font-bold">{results.sharpe.toFixed(2)}</p>
           </div>
         </div>
       </section>
@@ -255,7 +254,7 @@ export default function PortfolioBacktester() {
       <section className="bt-section max-w-7xl mx-auto px-6 py-6">
         <div className="bg-charcoal border border-subtleborder rounded-xl p-6">
           <h2 className="text-lg font-display font-light text-offwhite mb-1">Portfolio Growth vs S&P 500</h2>
-          <p className="text-xs font-mono text-slategray mb-4">{period}-year backtest starting from {fmt(initialInvestment)}</p>
+          <p className="text-xs font-mono text-slategray mb-4">{period}-year backtest starting from {formatLocalShort(initialInvestment)}</p>
           <div className="h-80">
             <ResponsiveContainer width="100%" height="100%">
               <AreaChart data={results.chartData}>
@@ -271,8 +270,8 @@ export default function PortfolioBacktester() {
                 </defs>
                 <CartesianGrid strokeDasharray="3 3" stroke="#222222" />
                 <XAxis dataKey="year" tick={{ fill: '#6B7280', fontSize: 11 }} axisLine={{ stroke: '#222222' }} />
-                <YAxis tick={{ fill: '#6B7280', fontSize: 11 }} axisLine={{ stroke: '#222222' }} tickFormatter={(v: number) => `$${(v / 1000).toFixed(0)}K`} />
-                <Tooltip contentStyle={{ backgroundColor: '#111111', border: '1px solid #222222', borderRadius: '8px', color: '#E8E8E6' }} formatter={(v: number) => fmt(v)} />
+                <YAxis tick={{ fill: '#6B7280', fontSize: 11 }} axisLine={{ stroke: '#222222' }} tickFormatter={(v: number) => formatChartTick(v)} />
+                <Tooltip contentStyle={{ backgroundColor: '#111111', border: '1px solid #222222', borderRadius: '8px', color: '#E8E8E6' }} formatter={(v: number) => formatLocal(v)} />
                 <Area type="monotone" dataKey="portfolio" stroke="#10B981" strokeWidth={2} fill="url(#portGrad)" name="Portfolio" />
                 <Area type="monotone" dataKey="sp500" stroke="#3B82F6" strokeWidth={2} fill="url(#spGrad)" name="S&P 500" />
               </AreaChart>
@@ -305,7 +304,7 @@ export default function PortfolioBacktester() {
                     <td className={`py-2.5 text-sm font-mono text-right ${row.sp500Return >= 0 ? 'text-emerald' : 'text-crimson'}`}>
                       {row.sp500Return >= 0 ? '+' : ''}{row.sp500Return.toFixed(1)}%
                     </td>
-                    <td className="py-2.5 text-sm font-mono text-offwhite text-right">{fmt(row.portfolioValue)}</td>
+                    <td className="py-2.5 text-sm font-mono text-offwhite text-right">{formatLocalShort(row.portfolioValue)}</td>
                   </tr>
                 ))}
               </tbody>
@@ -314,19 +313,7 @@ export default function PortfolioBacktester() {
         </div>
       </section>
 
-      {/* Premium gate */}
-      <section className="bt-section max-w-7xl mx-auto px-6 py-8 pb-20">
-        <div className="bg-charcoal border border-emerald/30 rounded-xl p-8 text-center">
-          <div className="inline-flex items-center gap-2 mb-3">
-            <span className="px-1.5 py-0.5 text-[10px] font-mono font-medium bg-emerald/20 text-emerald rounded">PRO</span>
-            <h3 className="text-lg font-display font-light text-offwhite">Advanced Backtesting</h3>
-          </div>
-          <p className="text-sm text-slategray mb-4 max-w-lg mx-auto">Unlock advanced backtesting with Monte Carlo simulations, custom benchmark comparisons, and detailed risk analytics.</p>
-          <button className="bg-emerald text-obsidian font-mono font-medium px-6 py-2.5 rounded-lg hover:bg-emerald/90 transition-colors">
-            Upgrade to Sigma Pro
-          </button>
-        </div>
-      </section>
+
     </div>
   );
 }

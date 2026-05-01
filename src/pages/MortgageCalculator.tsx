@@ -2,13 +2,12 @@ import { useState, useEffect, useRef, useMemo } from 'react';
 import gsap from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
 import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer } from 'recharts';
+import { useGeoCurrency } from '../hooks/useGeoCurrency';
 
 gsap.registerPlugin(ScrollTrigger);
 
-const fmt = (val: number) =>
-  new Intl.NumberFormat('en-US', { style: 'currency', currency: 'USD', minimumFractionDigits: 0, maximumFractionDigits: 0 }).format(val);
-
 export default function MortgageCalculator() {
+  const { formatLocal, formatLocalShort, formatChartTick } = useGeoCurrency();
   // Mortgage inputs
   const [homePrice, setHomePrice] = useState(450000);
   const [downPaymentPct, setDownPaymentPct] = useState(20);
@@ -127,14 +126,14 @@ export default function MortgageCalculator() {
             <div>
               <div className="flex justify-between mb-2">
                 <label className="text-xs font-mono text-slategray uppercase tracking-wider">Home Price</label>
-                <span className="text-sm font-mono text-offwhite">{fmt(homePrice)}</span>
+                <span className="text-sm font-mono text-offwhite">{formatLocal(homePrice)}</span>
               </div>
               <input type="range" min={100000} max={2000000} step={10000} value={homePrice} onChange={(e) => setHomePrice(Number(e.target.value))} className="w-full h-1.5 bg-deepblack rounded-full appearance-none cursor-pointer accent-emerald" style={sliderBg(homePrice, 100000, 2000000)} />
             </div>
             <div>
               <div className="flex justify-between mb-2">
                 <label className="text-xs font-mono text-slategray uppercase tracking-wider">Down Payment</label>
-                <span className="text-sm font-mono text-offwhite">{downPaymentPct}% ({fmt(homePrice * downPaymentPct / 100)})</span>
+                <span className="text-sm font-mono text-offwhite">{downPaymentPct}% ({formatLocal(homePrice * downPaymentPct / 100)})</span>
               </div>
               <input type="range" min={5} max={50} step={1} value={downPaymentPct} onChange={(e) => setDownPaymentPct(Number(e.target.value))} className="w-full h-1.5 bg-deepblack rounded-full appearance-none cursor-pointer accent-emerald" style={sliderBg(downPaymentPct, 5, 50)} />
             </div>
@@ -158,14 +157,14 @@ export default function MortgageCalculator() {
             <div>
               <div className="flex justify-between mb-2">
                 <label className="text-xs font-mono text-slategray uppercase tracking-wider">Property Tax (yr)</label>
-                <span className="text-sm font-mono text-offwhite">{fmt(propertyTax)}</span>
+                <span className="text-sm font-mono text-offwhite">{formatLocal(propertyTax)}</span>
               </div>
               <input type="range" min={0} max={15000} step={500} value={propertyTax} onChange={(e) => setPropertyTax(Number(e.target.value))} className="w-full h-1.5 bg-deepblack rounded-full appearance-none cursor-pointer accent-emerald" style={sliderBg(propertyTax, 0, 15000)} />
             </div>
             <div>
               <div className="flex justify-between mb-2">
                 <label className="text-xs font-mono text-slategray uppercase tracking-wider">Insurance (yr)</label>
-                <span className="text-sm font-mono text-offwhite">{fmt(insurance)}</span>
+                <span className="text-sm font-mono text-offwhite">{formatLocal(insurance)}</span>
               </div>
               <input type="range" min={0} max={5000} step={100} value={insurance} onChange={(e) => setInsurance(Number(e.target.value))} className="w-full h-1.5 bg-deepblack rounded-full appearance-none cursor-pointer accent-emerald" style={sliderBg(insurance, 0, 5000)} />
             </div>
@@ -177,7 +176,7 @@ export default function MortgageCalculator() {
             <div>
               <div className="flex justify-between mb-2">
                 <label className="text-xs font-mono text-slategray uppercase tracking-wider">Monthly Rent</label>
-                <span className="text-sm font-mono text-offwhite">{fmt(monthlyRent)}</span>
+                <span className="text-sm font-mono text-offwhite">{formatLocal(monthlyRent)}</span>
               </div>
               <input type="range" min={500} max={5000} step={100} value={monthlyRent} onChange={(e) => setMonthlyRent(Number(e.target.value))} className="w-full h-1.5 bg-deepblack rounded-full appearance-none cursor-pointer accent-emerald" style={sliderBg(monthlyRent, 500, 5000)} />
             </div>
@@ -193,13 +192,13 @@ export default function MortgageCalculator() {
             <div className="mt-8 space-y-4">
               <div className="bg-deepblack border border-subtleborder rounded-xl p-5 text-center">
                 <p className="text-xs font-mono text-slategray uppercase tracking-wider mb-2">Monthly Mortgage Payment</p>
-                <p className="text-4xl font-display font-bold text-emerald">{fmt(calculations.totalMonthlyPayment)}</p>
+                <p className="text-2xl sm:text-3xl md:text-4xl font-display font-bold text-emerald truncate">{formatLocalShort(calculations.totalMonthlyPayment)}</p>
                 <p className="text-xs font-mono text-slategray mt-2">incl. tax & insurance</p>
               </div>
               <div className="bg-deepblack border border-subtleborder rounded-xl p-5 text-center">
                 <p className="text-xs font-mono text-slategray uppercase tracking-wider mb-2">Current Monthly Rent</p>
-                <p className="text-4xl font-display font-bold text-crimson">{fmt(monthlyRent)}</p>
-                <p className="text-xs font-mono text-slategray mt-2">{calculations.totalMonthlyPayment > monthlyRent ? `${fmt(calculations.totalMonthlyPayment - monthlyRent)} more than rent` : `${fmt(monthlyRent - calculations.totalMonthlyPayment)} less than rent`}</p>
+                <p className="text-2xl sm:text-3xl md:text-4xl font-display font-bold text-crimson truncate">{formatLocalShort(monthlyRent)}</p>
+                <p className="text-xs font-mono text-slategray mt-2">{calculations.totalMonthlyPayment > monthlyRent ? `${formatLocal(calculations.totalMonthlyPayment - monthlyRent)} more than rent` : `${formatLocal(monthlyRent - calculations.totalMonthlyPayment)} less than rent`}</p>
               </div>
             </div>
           </div>
@@ -211,25 +210,25 @@ export default function MortgageCalculator() {
         <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
           <div className="bg-charcoal border border-emerald/30 rounded-xl p-6 text-center">
             <p className="text-xs font-mono text-slategray uppercase tracking-wider mb-2">Monthly Payment</p>
-            <p className="text-3xl font-display font-bold text-emerald">{fmt(calculations.totalMonthlyPayment)}</p>
-            <p className="text-xs font-mono text-slategray mt-1">PI: {fmt(calculations.monthlyMortgage)} + TI: {fmt(calculations.totalMonthlyPayment - calculations.monthlyMortgage)}</p>
+            <p className="text-2xl sm:text-3xl font-display font-bold text-emerald truncate">{formatLocalShort(calculations.totalMonthlyPayment)}</p>
+            <p className="text-xs font-mono text-slategray mt-1">PI: {formatLocal(calculations.monthlyMortgage)} + TI: {formatLocal(calculations.totalMonthlyPayment - calculations.monthlyMortgage)}</p>
           </div>
           <div className="bg-charcoal border border-subtleborder rounded-xl p-6 text-center">
             <p className="text-xs font-mono text-slategray uppercase tracking-wider mb-2">30-Year Total Cost</p>
             <div className="space-y-2 mt-2">
               <div>
                 <p className="text-xs font-mono text-slategray">Mortgage</p>
-                <p className="text-lg font-mono text-emerald">{fmt(calculations.totalMortgageCost)}</p>
+                <p className="text-lg font-mono text-emerald">{formatLocal(calculations.totalMortgageCost)}</p>
               </div>
               <div>
                 <p className="text-xs font-mono text-slategray">Rent</p>
-                <p className="text-lg font-mono text-crimson">{fmt(calculations.totalRentCost)}</p>
+                <p className="text-lg font-mono text-crimson">{formatLocal(calculations.totalRentCost)}</p>
               </div>
             </div>
           </div>
           <div className="bg-charcoal border border-subtleborder rounded-xl p-6 text-center">
             <p className="text-xs font-mono text-slategray uppercase tracking-wider mb-2">Break-Even Year</p>
-            <p className="text-3xl font-display font-bold text-offwhite">Year {calculations.breakEvenYear}</p>
+            <p className="text-2xl sm:text-3xl font-display font-bold text-offwhite">Year {calculations.breakEvenYear}</p>
             <p className="text-xs font-mono text-slategray mt-1">when mortgage cost &le; rent cost</p>
           </div>
         </div>
@@ -245,8 +244,8 @@ export default function MortgageCalculator() {
               <LineChart data={calculations.chartData}>
                 <CartesianGrid strokeDasharray="3 3" stroke="#222222" />
                 <XAxis dataKey="year" tick={{ fill: '#6B7280', fontSize: 11 }} axisLine={{ stroke: '#222222' }} label={{ value: 'Year', position: 'insideBottom', offset: -5, fill: '#6B7280', fontSize: 11 }} />
-                <YAxis tick={{ fill: '#6B7280', fontSize: 11 }} axisLine={{ stroke: '#222222' }} tickFormatter={(v: number) => `$${(v / 1000000).toFixed(1)}M`} />
-                <Tooltip contentStyle={{ backgroundColor: '#111111', border: '1px solid #222222', borderRadius: '8px', color: '#E8E8E6' }} formatter={(v: number) => fmt(v)} labelFormatter={(l: number) => `Year ${l}`} />
+                <YAxis tick={{ fill: '#6B7280', fontSize: 11 }} axisLine={{ stroke: '#222222' }} tickFormatter={(v: number) => formatChartTick(v)} />
+                <Tooltip contentStyle={{ backgroundColor: '#111111', border: '1px solid #222222', borderRadius: '8px', color: '#E8E8E6' }} formatter={(v: number) => formatLocal(v)} labelFormatter={(l: number) => `Year ${l}`} />
                 <Line type="monotone" dataKey="mortgage" stroke="#10B981" strokeWidth={2} dot={false} name="Mortgage" />
                 <Line type="monotone" dataKey="rent" stroke="#EF4444" strokeWidth={2} dot={false} name="Rent" />
               </LineChart>
@@ -262,30 +261,30 @@ export default function MortgageCalculator() {
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             <div>
               <p className="text-xs font-mono text-slategray uppercase tracking-wider mb-1">Home Value (30yr @3%/yr)</p>
-              <p className="text-xl font-mono text-emerald">{fmt(calculations.homeValue30)}</p>
+              <p className="text-xl font-mono text-emerald">{formatLocal(calculations.homeValue30)}</p>
             </div>
             <div>
               <p className="text-xs font-mono text-slategray uppercase tracking-wider mb-1">Total Equity Built</p>
-              <p className="text-xl font-mono text-emerald">{fmt(calculations.totalEquity)}</p>
+              <p className="text-xl font-mono text-emerald">{formatLocal(calculations.totalEquity)}</p>
             </div>
             <div>
               <p className="text-xs font-mono text-slategray uppercase tracking-wider mb-1">Total Rent Paid (30yr)</p>
-              <p className="text-xl font-mono text-crimson">{fmt(calculations.totalRentCost)}</p>
-              <p className="text-xs font-mono text-slategray mt-1">$0 equity built from rent</p>
+              <p className="text-xl font-mono text-crimson">{formatLocal(calculations.totalRentCost)}</p>
+              <p className="text-xs font-mono text-slategray mt-1">{formatLocal(0)} equity built from rent</p>
             </div>
           </div>
           <div className="mt-4 pt-4 border-t border-subtleborder flex flex-wrap gap-6">
             <div>
               <p className="text-xs font-mono text-slategray uppercase tracking-wider mb-1">Down Payment</p>
-              <p className="text-sm font-mono text-offwhite">{fmt(calculations.downPayment)}</p>
+              <p className="text-sm font-mono text-offwhite">{formatLocal(calculations.downPayment)}</p>
             </div>
             <div>
               <p className="text-xs font-mono text-slategray uppercase tracking-wider mb-1">Loan Amount</p>
-              <p className="text-sm font-mono text-offwhite">{fmt(calculations.loanAmount)}</p>
+              <p className="text-sm font-mono text-offwhite">{formatLocal(calculations.loanAmount)}</p>
             </div>
             <div>
               <p className="text-xs font-mono text-slategray uppercase tracking-wider mb-1">Total Interest Paid</p>
-              <p className="text-sm font-mono text-crimson">{fmt(Math.max(0, calculations.totalInterestPaid))}</p>
+              <p className="text-sm font-mono text-crimson">{formatLocal(Math.max(0, calculations.totalInterestPaid))}</p>
             </div>
           </div>
         </div>

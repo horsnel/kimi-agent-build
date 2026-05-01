@@ -1,6 +1,7 @@
 import { useRef, useEffect, useState } from 'react';
 import { TrendUpIcon, TrendDownIcon } from './CustomIcons';
 import { fetchMarketIndices, fetchCryptoOverview } from '../services/api';
+import { useGeoCurrency } from '../hooks/useGeoCurrency';
 
 interface TickerItem {
   symbol: string;
@@ -27,18 +28,17 @@ const defaultTickers: TickerItem[] = [
   { symbol: 'AMZN', price: '$198.60', change: '+0.7%', up: true },
 ];
 
-function formatPrice(val: number, name: string): string {
+function formatPriceLocal(val: number, name: string, formatLocalShort: (n: number) => string): string {
   if (name.includes('S&P') || name.includes('DOW') || name === 'VIX' || name.includes('NASDAQ')) {
     return val.toLocaleString('en-US', { minimumFractionDigits: 2 });
   }
-  if (val >= 1000) return `$${val.toLocaleString('en-US', { maximumFractionDigits: 0 })}`;
-  if (val >= 1) return `$${val.toLocaleString('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 })}`;
-  return `$${val.toFixed(4)}`;
+  return formatLocalShort(val);
 }
 
 export default function TickerTape() {
   const tapeRef = useRef<HTMLDivElement>(null);
   const [tickers, setTickers] = useState<TickerItem[]>(defaultTickers);
+  const { formatLocalShort } = useGeoCurrency();
 
   useEffect(() => {
     async function loadTickerData() {
@@ -54,7 +54,7 @@ export default function TickerTape() {
         for (const idx of indices.slice(0, 4)) {
           items.push({
             symbol: idx.name === 'S&P 500' ? 'SPX' : idx.name === 'NASDAQ' ? 'NDX' : idx.name === 'DOW' ? 'DJI' : idx.symbol,
-            price: formatPrice(idx.value, idx.name),
+            price: formatPriceLocal(idx.value, idx.name, formatLocalShort),
             change: `${idx.changePercent >= 0 ? '+' : ''}${idx.changePercent.toFixed(1)}%`,
             up: idx.changePercent >= 0,
           });
@@ -64,7 +64,7 @@ export default function TickerTape() {
         for (const c of crypto.slice(0, 5)) {
           items.push({
             symbol: c.ticker,
-            price: formatPrice(c.price, c.name),
+            price: formatPriceLocal(c.price, c.name, formatLocalShort),
             change: `${c.change24h >= 0 ? '+' : ''}${c.change24h.toFixed(1)}%`,
             up: c.change24h >= 0,
           });

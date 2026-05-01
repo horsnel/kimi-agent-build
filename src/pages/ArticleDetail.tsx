@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import { useParams, Link } from 'react-router';
+import { useParams, useLocation, Link } from 'react-router';
 import { ArrowLeftIcon, ClockIcon, ShareIcon, BookmarkIcon } from '../components/CustomIcons';
 import { fetchNews, type NewsArticle as ApiNewsArticle } from '../services/api';
 
@@ -440,7 +440,11 @@ function CategoryBadge({ category, type }: { category: string; type: string }) {
 }
 
 export default function ArticleDetail() {
-  const { type, id } = useParams<{ type: string; id: string }>();
+  const { id } = useParams<{ id: string }>();
+  const location = useLocation();
+  // Extract type from URL path (e.g. /editorial/0 → 'editorial', /news/5 → 'news')
+  const type = location.pathname.split('/')[1] || '';
+  
   const [newsArticles, setNewsArticles] = useState<ApiNewsArticle[]>([]);
   const [loading, setLoading] = useState(true);
   const [bookmarked, setBookmarked] = useState(false);
@@ -579,13 +583,11 @@ export default function ArticleDetail() {
 
   return (
     <div className="max-w-4xl mx-auto px-6 pt-24 pb-24">
-      {/* Breadcrumb */}
-      <div className="flex items-center gap-2 text-xs font-mono text-slategray mb-8">
-        <Link to={backLink} className="hover:text-emerald transition-colors flex items-center gap-1">
-          <ArrowLeftIcon size={12} /> {backLabel}
+      {/* Back Link */}
+      <div className="mb-8">
+        <Link to={backLink} className="text-xs font-mono text-slategray hover:text-emerald transition-colors flex items-center gap-1">
+          <ArrowLeftIcon size={12} /> Back to {backLabel}
         </Link>
-        <span>/</span>
-        <span className="text-offwhite truncate max-w-xs">{title}</span>
       </div>
 
       {/* Header */}
