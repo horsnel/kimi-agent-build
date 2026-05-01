@@ -5,6 +5,11 @@ on:
     branches: [main]
   workflow_dispatch:
 
+env:
+  # CRITICAL: Must be 'development' — GitHub Actions runner defaults to 'production'
+  # which causes npm ci to skip devDependencies (vite, @vitejs/plugin-react, etc.)
+  NODE_ENV: development
+
 jobs:
   deploy-preview:
     name: 🔍 Preview Deploy

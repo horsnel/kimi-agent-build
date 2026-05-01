@@ -56,8 +56,9 @@ permissions:
   contents: write
 
 env:
-  # NOTE: Do NOT set NODE_ENV=production globally — it causes npm ci to skip
-  # devDependencies, which breaks the Vite build (needs @vitejs/plugin-react etc.)
+  # CRITICAL: Must be 'development' — GitHub Actions runner defaults to 'production'
+  # which causes npm ci to skip devDependencies (vite, @vitejs/plugin-react, etc.)
+  NODE_ENV: development
 
 jobs:
   # ────────────────────────────────────────────────────────────────────────────
