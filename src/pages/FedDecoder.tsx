@@ -66,7 +66,9 @@ export default function FedDecoder() {
   }, []);
 
   return (
-    <div ref={sectionRef}>
+    <div ref={sectionRef} className="relative">
+      {/* Blurred content behind overlay */}
+      <div className="filter blur-md select-none pointer-events-none" aria-hidden="true">
       {/* Hero */}
       <section className="fed-section max-w-7xl mx-auto px-6 pt-24 pb-12">
         <div className="flex items-center gap-3 mb-3">
@@ -186,6 +188,14 @@ export default function FedDecoder() {
       <section className="fed-section max-w-7xl mx-auto px-6 py-12">
         <PremiumGate featureName="Fed Policy Decoder" description="Get real-time FOMC analysis, dot plot tracking, and rate forecast models." />
       </section>
+      </div>
+
+      {/* Coming Soon Overlay */}
+      <div className="absolute inset-0 z-10 flex items-center justify-center bg-obsidian/60 backdrop-blur-sm pt-24">
+        <div className="w-full max-w-lg px-6">
+          <PremiumGate featureName="Fed Policy Decoder" description="Get real-time FOMC analysis, dot plot tracking, and rate forecast models." />
+        </div>
+      </div>
     </div>
   );
 }

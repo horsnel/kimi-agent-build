@@ -1,7 +1,15 @@
-import { useRef, useEffect } from 'react';
+import { useRef, useEffect, useState } from 'react';
 import { TrendUpIcon, TrendDownIcon } from './CustomIcons';
+import { fetchMarketIndices, fetchCryptoOverview } from '../services/api';
 
-const tickers = [
+interface TickerItem {
+  symbol: string;
+  price: string;
+  change: string;
+  up: boolean;
+}
+
+const defaultTickers: TickerItem[] = [
   { symbol: 'BTC', price: '$97,420', change: '+2.4%', up: true },
   { symbol: 'ETH', price: '$3,580', change: '+1.8%', up: true },
   { symbol: 'SPX', price: '5,980.25', change: '+0.6%', up: true },
@@ -19,8 +27,58 @@ const tickers = [
   { symbol: 'AMZN', price: '$198.60', change: '+0.7%', up: true },
 ];
 
+function formatPrice(val: number, name: string): string {
+  if (name.includes('S&P') || name.includes('DOW') || name === 'VIX' || name.includes('NASDAQ')) {
+    return val.toLocaleString('en-US', { minimumFractionDigits: 2 });
+  }
+  if (val >= 1000) return `$${val.toLocaleString('en-US', { maximumFractionDigits: 0 })}`;
+  if (val >= 1) return `$${val.toLocaleString('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 })}`;
+  return `$${val.toFixed(4)}`;
+}
+
 export default function TickerTape() {
   const tapeRef = useRef<HTMLDivElement>(null);
+  const [tickers, setTickers] = useState<TickerItem[]>(defaultTickers);
+
+  useEffect(() => {
+    async function loadTickerData() {
+      try {
+        const [indices, crypto] = await Promise.all([
+          fetchMarketIndices(),
+          fetchCryptoOverview(),
+        ]);
+
+        const items: TickerItem[] = [];
+
+        // Add market indices
+        for (const idx of indices.slice(0, 4)) {
+          items.push({
+            symbol: idx.name === 'S&P 500' ? 'SPX' : idx.name === 'NASDAQ' ? 'NDX' : idx.name === 'DOW' ? 'DJI' : idx.symbol,
+            price: formatPrice(idx.value, idx.name),
+            change: `${idx.changePercent >= 0 ? '+' : ''}${idx.changePercent.toFixed(1)}%`,
+            up: idx.changePercent >= 0,
+          });
+        }
+
+        // Add top cryptos
+        for (const c of crypto.slice(0, 5)) {
+          items.push({
+            symbol: c.ticker,
+            price: formatPrice(c.price, c.name),
+            change: `${c.change24h >= 0 ? '+' : ''}${c.change24h.toFixed(1)}%`,
+            up: c.change24h >= 0,
+          });
+        }
+
+        if (items.length > 0) {
+          setTickers(items);
+        }
+      } catch (e) {
+        // Keep default tickers
+      }
+    }
+    loadTickerData();
+  }, []);
 
   useEffect(() => {
     const tape = tapeRef.current;
@@ -43,7 +101,7 @@ export default function TickerTape() {
     animationId = requestAnimationFrame(animate);
     
     return () => cancelAnimationFrame(animationId);
-  }, []);
+  }, [tickers]);
 
   const content = (
     <>

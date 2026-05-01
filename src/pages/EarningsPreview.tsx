@@ -4,7 +4,7 @@ import { ScrollTrigger } from 'gsap/ScrollTrigger';
 import {
   BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, Cell, Legend,
 } from 'recharts';
-import PremiumGate from '../components/PremiumGate';
+import ComingSoonWrapper from '../components/ComingSoonWrapper';
 
 gsap.registerPlugin(ScrollTrigger);
 
@@ -149,7 +149,8 @@ export default function EarningsPreview() {
   }, []);
 
   return (
-    <div ref={sectionRef}>
+    <ComingSoonWrapper featureName="Earnings Preview Engine" description="Get whisper numbers, earnings estimates, and surprise predictions before reports.">
+      <div ref={sectionRef}>
       {/* Hero */}
       <section className="ep-section max-w-7xl mx-auto px-6 pt-24 pb-12">
         <div className="flex items-center gap-3 mb-3">
@@ -246,10 +247,7 @@ export default function EarningsPreview() {
         </>
       )}
 
-      {/* Premium Gate */}
-      <section className="ep-section max-w-7xl mx-auto px-6 py-12">
-        <PremiumGate featureName="Earnings Preview Engine" description="Access AI-powered earnings predictions, whisper numbers, and real-time sentiment analysis." />
-      </section>
-    </div>
+      </div>
+    </ComingSoonWrapper>
   );
 }

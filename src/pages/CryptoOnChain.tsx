@@ -4,7 +4,7 @@ import { ScrollTrigger } from 'gsap/ScrollTrigger';
 import {
   BarChart, Bar, LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, Cell,
 } from 'recharts';
-import PremiumGate from '../components/PremiumGate';
+import ComingSoonWrapper from '../components/ComingSoonWrapper';
 
 gsap.registerPlugin(ScrollTrigger);
 
@@ -89,7 +89,8 @@ export default function CryptoOnChain() {
   }, []);
 
   return (
-    <div ref={sectionRef}>
+    <ComingSoonWrapper featureName="Crypto On-Chain Analytics" description="Track whale movements, exchange flows, and on-chain indicators in real-time.">
+      <div ref={sectionRef}>
       {/* Hero */}
       <section className="crypto-section max-w-7xl mx-auto px-6 pt-24 pb-12">
         <div className="flex items-center gap-3 mb-3">
@@ -209,10 +210,7 @@ export default function CryptoOnChain() {
         </div>
       </section>
 
-      {/* Premium Gate */}
-      <section className="crypto-section max-w-7xl mx-auto px-6 py-12">
-        <PremiumGate featureName="Crypto On-Chain Analytics" description="Access real-time whale tracking, on-chain indicators, and blockchain flow analysis." />
-      </section>
-    </div>
+      </div>
+    </ComingSoonWrapper>
   );
 }

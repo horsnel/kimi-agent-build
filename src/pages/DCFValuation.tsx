@@ -4,7 +4,7 @@ import { ScrollTrigger } from 'gsap/ScrollTrigger';
 import {
   AreaChart, Area, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer,
 } from 'recharts';
-import PremiumGate from '../components/PremiumGate';
+import ComingSoonWrapper from '../components/ComingSoonWrapper';
 
 gsap.registerPlugin(ScrollTrigger);
 
@@ -117,7 +117,8 @@ export default function DCFValuation() {
   const fmtM = (v: number) => `$${(v / 1e6).toFixed(0)}M`;
 
   return (
-    <div ref={sectionRef}>
+    <ComingSoonWrapper featureName="DCF Valuation Models" description="Access institutional-grade DCF models with sensitivity analysis and comparable valuations.">
+      <div ref={sectionRef}>
       {/* Hero */}
       <section className="dcf-section max-w-7xl mx-auto px-6 pt-24 pb-12">
         <div className="flex items-center gap-3 mb-3">
@@ -307,10 +308,7 @@ export default function DCFValuation() {
         </div>
       </section>
 
-      {/* Premium Gate */}
-      <section className="dcf-section max-w-7xl mx-auto px-6 py-12">
-        <PremiumGate featureName="DCF Valuation Models" description="Access advanced DCF models with Monte Carlo simulations and scenario analysis." />
-      </section>
-    </div>
+      </div>
+    </ComingSoonWrapper>
   );
 }

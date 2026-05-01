@@ -1,7 +1,8 @@
-import { useState, useEffect, useRef, useMemo } from 'react';
+import { useState, useEffect, useRef, useMemo, type FormEvent } from 'react';
 import gsap from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
 import { SearchIcon, ArrowRightIcon, BookOpenIcon, ClockIcon } from '../components/CustomIcons';
+import { useWaitlist } from '../hooks/useWaitlist';
 
 gsap.registerPlugin(ScrollTrigger);
 
@@ -109,8 +110,11 @@ export default function NewsletterArchive() {
   const [search, setSearch] = useState('');
   const [activeCategory, setActiveCategory] = useState<Category>('All');
   const [currentPage, setCurrentPage] = useState(1);
+  const [subscribeEmail, setSubscribeEmail] = useState('');
+  const [subscribed, setSubscribed] = useState(false);
   const sectionRef = useRef<HTMLDivElement>(null);
   const ITEMS_PER_PAGE = 6;
+  const { submitEmail } = useWaitlist();
 
   useEffect(() => {
     const ctx = gsap.context(() => {
@@ -135,6 +139,16 @@ export default function NewsletterArchive() {
     return () => ctx.revert();
   }, []);
 
+  const handleSubscribe = (e: FormEvent) => {
+    e.preventDefault();
+    if (!subscribeEmail.trim()) return;
+    const ok = submitEmail(subscribeEmail.trim());
+    if (ok) {
+      setSubscribed(true);
+      setSubscribeEmail('');
+    }
+  };
+
   const filtered = useMemo(() => {
     return newsletters.filter((n) => {
       const matchesSearch = n.title.toLowerCase().includes(search.toLowerCase()) || n.excerpt.toLowerCase().includes(search.toLowerCase());
@@ -158,25 +172,41 @@ export default function NewsletterArchive() {
 
       {/* Subscribe CTA */}
       <section className="nl-section max-w-7xl mx-auto px-4 sm:px-6 pb-8">
-        <div className="bg-emerald/10 border border-emerald/30 rounded-xl p-4 sm:p-6 flex flex-col md:flex-row items-start md:items-center justify-between gap-4 sm:gap-6">
-          <div className="flex items-start sm:items-center gap-3">
-            <BookOpenIcon size={24} className="text-emerald flex-shrink-0 mt-0.5 sm:mt-0" />
+        {subscribed ? (
+          <div className="bg-emerald/10 border border-emerald/30 rounded-xl p-4 sm:p-6 flex items-center gap-3">
+            <svg width="24" height="24" viewBox="0 0 48 48" fill="none" className="shrink-0">
+              <circle cx="24" cy="24" r="22" stroke="#10B981" strokeWidth="2" />
+              <path d="M16 24l5 5 11-11" stroke="#10B981" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" />
+            </svg>
             <div>
-              <h3 className="text-base sm:text-lg font-display font-medium text-offwhite">Get the Weekly Market Brief</h3>
-              <p className="text-xs sm:text-sm text-slategray">Actionable insights every Friday morning</p>
+              <h3 className="text-base font-display font-medium text-offwhite">You're subscribed!</h3>
+              <p className="text-xs text-slategray">You'll receive the Weekly Market Brief every Friday morning.</p>
             </div>
           </div>
-          <div className="flex flex-col sm:flex-row items-stretch sm:items-center gap-2 sm:gap-3 w-full md:w-auto">
-            <input
-              type="email"
-              placeholder="Enter your email"
-              className="w-full sm:w-64 bg-deepblack border border-subtleborder rounded-lg px-4 py-2.5 text-sm text-offwhite placeholder:text-slategray focus:outline-none focus:border-emerald/50 transition-colors"
-            />
-            <button className="px-5 py-2.5 bg-emerald text-obsidian text-sm font-medium rounded-lg hover:bg-emerald/90 transition-colors flex items-center justify-center gap-2 flex-shrink-0">
-              Subscribe <ArrowRightIcon size={14} />
-            </button>
+        ) : (
+          <div className="bg-emerald/10 border border-emerald/30 rounded-xl p-4 sm:p-6 flex flex-col md:flex-row items-start md:items-center justify-between gap-4 sm:gap-6">
+            <div className="flex items-start sm:items-center gap-3">
+              <BookOpenIcon size={24} className="text-emerald flex-shrink-0 mt-0.5 sm:mt-0" />
+              <div>
+                <h3 className="text-base sm:text-lg font-display font-medium text-offwhite">Get the Weekly Market Brief</h3>
+                <p className="text-xs sm:text-sm text-slategray">Actionable insights every Friday morning</p>
+              </div>
+            </div>
+            <form onSubmit={handleSubscribe} className="flex flex-col sm:flex-row items-stretch sm:items-center gap-2 sm:gap-3 w-full md:w-auto">
+              <input
+                type="email"
+                value={subscribeEmail}
+                onChange={(e) => setSubscribeEmail(e.target.value)}
+                placeholder="Enter your email"
+                required
+                className="w-full sm:w-64 bg-deepblack border border-subtleborder rounded-lg px-4 py-2.5 text-sm text-offwhite placeholder:text-slategray focus:outline-none focus:border-emerald/50 transition-colors"
+              />
+              <button type="submit" className="px-5 py-2.5 bg-emerald text-obsidian text-sm font-medium rounded-lg hover:bg-emerald/90 transition-colors flex items-center justify-center gap-2 flex-shrink-0">
+                Subscribe <ArrowRightIcon size={14} />
+              </button>
+            </form>
           </div>
-        </div>
+        )}
       </section>
 
       {/* Search + Filter */}

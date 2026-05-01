@@ -1,29 +1,30 @@
-import { useState } from 'react';
+import { useState, type FormEvent } from 'react';
 import React from 'react';
+import { useWaitlist } from '../hooks/useWaitlist';
 
 interface PremiumGateProps {
   featureName: string;
   description: string;
 }
 
-const PremiumGate: React.FC<PremiumGateProps> = ({ description }) => {
-  const [isAnnual, setIsAnnual] = useState(false);
-  const [premiumAlert, setPremiumAlert] = useState<string | null>(null);
+const PremiumGate: React.FC<PremiumGateProps> = ({ featureName, description }) => {
+  const [email, setEmail] = useState('');
+  const [submitted, setSubmitted] = useState(false);
+  const { submitEmail } = useWaitlist();
 
-  const features = [
-    'Unlimited access to all premium tools & analytics',
-    'Real-time alerts with AI-powered signal detection',
-    'Priority support & early access to new features',
-  ];
-
-  const monthlyPrice = 29;
-  const annualPrice = 23;
+  const handleSubmit = (e: FormEvent<HTMLFormElement>) => {
+    e.preventDefault();
+    if (!email.trim()) return;
+    const ok = submitEmail(email.trim());
+    if (ok) {
+      setSubmitted(true);
+    }
+  };
 
   return (
-    <div className="bg-charcoal border border-subtleborder rounded-xl p-6">
+    <div className="bg-charcoal border border-emerald/20 rounded-xl p-6 sm:p-8 text-center">
       {/* Blurred preview area */}
-      <div className="relative filter blur-sm select-none pointer-events-none h-[200px] bg-deepblack border border-subtleborder rounded-lg p-6 mb-6 overflow-hidden">
-        {/* Placeholder chart-like content */}
+      <div className="relative filter blur-sm select-none pointer-events-none h-[160px] bg-deepblack border border-subtleborder rounded-lg p-6 mb-6 overflow-hidden">
         <div className="flex items-end gap-2 h-full">
           <div className="w-full h-1/3 bg-emerald/20 rounded-sm" />
           <div className="w-full h-1/2 bg-emerald/15 rounded-sm" />
@@ -38,140 +39,57 @@ const PremiumGate: React.FC<PremiumGateProps> = ({ description }) => {
         </div>
       </div>
 
-      {/* Unlock banner */}
-      <div className="flex items-center justify-center gap-2 mb-6">
-        <svg
-          width={20}
-          height={20}
-          viewBox="0 0 20 20"
-          fill="none"
-          className="text-emerald"
-          aria-hidden="true"
-        >
-          <path
-            d="M10 2L3 5v4.5a9 9 0 007 8.5 9 9 0 007-8.5V5l-7-3z"
-            stroke="currentColor"
-            strokeWidth="1.5"
-            strokeLinejoin="round"
-          />
-          <path
-            d="M7 10l2 2 4-4"
-            stroke="currentColor"
-            strokeWidth="1.5"
-            strokeLinecap="round"
-            strokeLinejoin="round"
-          />
+      {/* Coming Soon Badge */}
+      <div className="inline-flex items-center gap-2 px-4 py-2 bg-emerald/10 border border-emerald/30 rounded-full mb-4">
+        <svg width="16" height="16" viewBox="0 0 20 20" fill="none" className="text-emerald">
+          <circle cx="10" cy="10" r="8" stroke="currentColor" strokeWidth="1.5" />
+          <path d="M10 6v4l3 3" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" />
         </svg>
-        <span className="text-offwhite font-display font-medium text-lg">
-          Unlock with Sigma Premium
-        </span>
+        <span className="text-sm font-mono font-medium text-emerald tracking-wider">COMING SOON</span>
       </div>
 
-      {/* Feature description */}
-      <p className="text-slategray text-sm text-center mb-6">
+      {/* Feature Name */}
+      <h3 className="text-xl font-display font-medium text-offwhite mb-2">
+        {featureName}
+      </h3>
+
+      {/* Description */}
+      <p className="text-sm text-slategray mb-6 max-w-md mx-auto">
         {description}
       </p>
 
-      {/* Feature bullet points */}
-      <ul className="space-y-3 mb-8">
-        {features.map((feature, idx) => (
-          <li key={idx} className="flex items-start gap-3">
-            <svg
-              width={18}
-              height={18}
-              viewBox="0 0 18 18"
-              fill="none"
-              className="text-emerald mt-0.5 shrink-0"
-              aria-hidden="true"
-            >
-              <circle cx="9" cy="9" r="8" stroke="currentColor" strokeWidth="1.5" />
-              <path
-                d="M6 9l2 2 4-4"
-                stroke="currentColor"
-                strokeWidth="1.5"
-                strokeLinecap="round"
-                strokeLinejoin="round"
-              />
-            </svg>
-            <span className="text-sm text-offwhite">{feature}</span>
-          </li>
-        ))}
-      </ul>
-
-      {/* Pricing toggle */}
-      <div className="flex items-center justify-center gap-3 mb-6">
-        <span
-          className={`text-sm font-medium transition-colors ${
-            !isAnnual ? 'text-offwhite' : 'text-slategray'
-          }`}
-        >
-          Monthly
-        </span>
-        <button
-          onClick={() => setIsAnnual(!isAnnual)}
-          className={`relative w-11 h-6 rounded-full transition-colors ${
-            isAnnual ? 'bg-emerald' : 'bg-subtleborder'
-          }`}
-          role="switch"
-          aria-checked={isAnnual}
-          aria-label="Toggle annual pricing"
-        >
-          <span
-            className={`absolute top-0.5 left-0.5 w-5 h-5 bg-offwhite rounded-full transition-transform ${
-              isAnnual ? 'translate-x-5' : 'translate-x-0'
-            }`}
-          />
-        </button>
-        <span
-          className={`text-sm font-medium transition-colors ${
-            isAnnual ? 'text-offwhite' : 'text-slategray'
-          }`}
-        >
-          Annual
-          <span className="ml-1.5 text-xs text-emerald font-mono">-21%</span>
-        </span>
-      </div>
-
-      {/* Price display */}
-      <div className="text-center mb-8">
-        <span className="text-4xl font-display font-semibold text-offwhite">
-          ${isAnnual ? annualPrice : monthlyPrice}
-        </span>
-        <span className="text-slategray text-sm">/mo</span>
-        {isAnnual && (
-          <p className="text-xs text-slategray mt-1">
-            Billed annually at ${annualPrice * 12}/year
-          </p>
-        )}
-      </div>
-
-      {/* CTA buttons */}
-      <div className="flex flex-col sm:flex-row items-center gap-3">
-        <button
-          onClick={() => {
-            setPremiumAlert('Premium features coming soon!');
-            setTimeout(() => setPremiumAlert(null), 3000);
-          }}
-          className="w-full sm:w-auto px-6 py-3 bg-emerald text-obsidian font-medium text-sm rounded-lg hover:bg-emerald/90 transition-colors"
-        >
-          Upgrade Now
-        </button>
-        <button
-          onClick={() => {
-            setPremiumAlert('Sign in functionality coming soon!');
-            setTimeout(() => setPremiumAlert(null), 3000);
-          }}
-          className="w-full sm:w-auto px-6 py-3 border border-subtleborder text-offwhite font-medium text-sm rounded-lg hover:bg-deepblack transition-colors"
-        >
-          Sign In to Access
-        </button>
-      </div>
-
-      {/* Alert toast */}
-      {premiumAlert && (
-        <div className="mt-4 text-center text-sm text-emerald">
-          {premiumAlert}
+      {/* Waitlist Form */}
+      {submitted ? (
+        <div className="bg-emerald/10 border border-emerald/30 rounded-lg p-4">
+          <svg width="32" height="32" viewBox="0 0 48 48" fill="none" className="mx-auto mb-2">
+            <circle cx="24" cy="24" r="22" stroke="#10B981" strokeWidth="2" />
+            <path d="M16 24l5 5 11-11" stroke="#10B981" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" />
+          </svg>
+          <p className="text-sm text-emerald font-medium">You're on the waitlist!</p>
+          <p className="text-xs text-slategray mt-1">We'll notify you when {featureName} launches.</p>
         </div>
+      ) : (
+        <form onSubmit={handleSubmit} className="max-w-sm mx-auto">
+          <p className="text-sm text-offwhite mb-3">Join the waitlist for early access</p>
+          <div className="flex flex-col sm:flex-row gap-2">
+            <input
+              type="email"
+              value={email}
+              onChange={(e) => setEmail(e.target.value)}
+              placeholder="Enter your email"
+              required
+              className="flex-1 px-4 py-2.5 bg-deepblack border border-subtleborder rounded-lg text-sm text-offwhite placeholder:text-slategray focus:outline-none focus:border-emerald/50 transition-colors"
+              aria-label="Email address for waitlist"
+            />
+            <button
+              type="submit"
+              className="px-5 py-2.5 bg-emerald text-obsidian font-medium text-sm rounded-lg hover:bg-emerald/90 transition-colors whitespace-nowrap"
+            >
+              Join Waitlist
+            </button>
+          </div>
+          <p className="text-xs text-slategray mt-2">We respect your privacy. No spam, ever.</p>
+        </form>
       )}
     </div>
   );

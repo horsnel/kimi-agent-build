@@ -4,7 +4,7 @@ import { ScrollTrigger } from 'gsap/ScrollTrigger';
 import {
   BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer,
 } from 'recharts';
-import PremiumGate from '../components/PremiumGate';
+import ComingSoonWrapper from '../components/ComingSoonWrapper';
 
 gsap.registerPlugin(ScrollTrigger);
 
@@ -72,7 +72,8 @@ export default function IPOPipeline() {
   }, []);
 
   return (
-    <div ref={sectionRef}>
+    <ComingSoonWrapper featureName="IPO Pipeline" description="Track upcoming IPOs, recent listings, and SPAC activity with risk assessments.">
+      <div ref={sectionRef}>
       {/* Hero */}
       <section className="ipo-section max-w-7xl mx-auto px-6 pt-24 pb-12">
         <div className="flex items-center gap-3 mb-3">
@@ -200,10 +201,7 @@ export default function IPOPipeline() {
         </div>
       </section>
 
-      {/* Premium Gate */}
-      <section className="ipo-section max-w-7xl mx-auto px-6 py-12">
-        <PremiumGate featureName="IPO Pipeline" description="Get early access to IPO research, valuation analysis, and allocation opportunities." />
-      </section>
-    </div>
+      </div>
+    </ComingSoonWrapper>
   );
 }

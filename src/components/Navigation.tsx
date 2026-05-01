@@ -2,6 +2,10 @@ import { useState, useEffect } from 'react';
 import { Link, useLocation } from 'react-router';
 import { SigmaIcon, MenuIcon, XIcon, ChevronDownIcon } from './CustomIcons';
 
+function ComingSoonAlert() {
+  return alert('This feature is coming soon. Join our waitlist to get early access!');
+}
+
 interface NavLink {
   label: string;
   path: string;
@@ -171,8 +175,8 @@ export default function Navigation() {
                         <span className="flex items-center justify-between">
                           {child.label}
                           {child.pro && (
-                            <span className="ml-1 px-1 py-0.5 text-[9px] font-mono bg-emerald/20 text-emerald rounded">
-                              PRO
+                            <span className="ml-1 px-1 py-0.5 text-[9px] font-mono bg-amber-500/20 text-amber-400 rounded">
+                              SOON
                             </span>
                           )}
                         </span>
@@ -186,10 +190,10 @@ export default function Navigation() {
         </div>
 
         <div className="hidden lg:flex items-center gap-3">
-          <button className="px-4 py-1.5 text-sm font-medium text-offwhite border border-subtleborder rounded hover:bg-charcoal transition-colors">
+          <button onClick={() => ComingSoonAlert()} className="px-4 py-1.5 text-sm font-medium text-offwhite border border-subtleborder rounded hover:bg-charcoal transition-colors">
             Sign In
           </button>
-          <button className="px-4 py-1.5 text-sm font-medium text-obsidian bg-emerald rounded hover:bg-emerald/90 transition-colors">
+          <button onClick={() => ComingSoonAlert()} className="px-4 py-1.5 text-sm font-medium text-obsidian bg-emerald rounded hover:bg-emerald/90 transition-colors">
             Get Started
           </button>
         </div>
@@ -251,8 +255,8 @@ export default function Navigation() {
                           <span className="flex items-center gap-2">
                             {child.label}
                             {child.pro && (
-                              <span className="px-1 py-0.5 text-[9px] font-mono bg-emerald/20 text-emerald rounded">
-                                PRO
+                              <span className="px-1 py-0.5 text-[9px] font-mono bg-amber-500/20 text-amber-400 rounded">
+                                SOON
                               </span>
                             )}
                           </span>
@@ -264,10 +268,10 @@ export default function Navigation() {
               );
             })}
             <div className="flex gap-3 pt-4 mt-2 border-t border-subtleborder">
-              <button className="flex-1 px-4 py-2 text-sm text-offwhite border border-subtleborder rounded">
+              <button onClick={() => ComingSoonAlert()} className="flex-1 px-4 py-2 text-sm text-offwhite border border-subtleborder rounded">
                 Sign In
               </button>
-              <button className="flex-1 px-4 py-2 text-sm text-obsidian bg-emerald rounded">
+              <button onClick={() => ComingSoonAlert()} className="flex-1 px-4 py-2 text-sm text-obsidian bg-emerald rounded">
                 Get Started
               </button>
             </div>

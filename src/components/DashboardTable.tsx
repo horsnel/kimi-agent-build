@@ -1,6 +1,8 @@
-import { useState, useMemo } from 'react';
+import { useState, useMemo, useEffect } from 'react';
 import { Link } from 'react-router';
 import { HexagonIcon, ArrowUpRightIcon } from './CustomIcons';
+import { fetchCryptoOverview, type CryptoAsset } from '../services/api';
+import { useIsMobile } from '../hooks/use-mobile';
 
 interface AssetRow {
   rank: number;
@@ -14,7 +16,7 @@ interface AssetRow {
   status: 'active' | 'pending' | 'inactive';
 }
 
-const assetData: AssetRow[] = [
+const fallbackData: AssetRow[] = [
   { rank: 1, asset: 'Bitcoin', ticker: 'BTC', price: 97420.50, change24h: 2.41, marketCap: '$1.92T', volume24h: '$42.1B', sector: 'Currency', status: 'active' },
   { rank: 2, asset: 'Ethereum', ticker: 'ETH', price: 3580.20, change24h: 1.82, marketCap: '$430B', volume24h: '$18.3B', sector: 'Smart Contract', status: 'active' },
   { rank: 3, asset: 'Solana', ticker: 'SOL', price: 198.40, change24h: 5.63, marketCap: '$94B', volume24h: '$5.2B', sector: 'L1', status: 'active' },
@@ -40,6 +42,36 @@ interface DashboardTableProps {
 export default function DashboardTable({ filterSector, maxRows = 12 }: DashboardTableProps) {
   const [sortKey, setSortKey] = useState<SortKey>('rank');
   const [sortDir, setSortDir] = useState<SortDir>('asc');
+  const [assetData, setAssetData] = useState<AssetRow[]>(fallbackData);
+  const [loading, setLoading] = useState(true);
+  const isMobile = useIsMobile();
+
+  useEffect(() => {
+    async function loadCrypto() {
+      try {
+        const data: CryptoAsset[] = await fetchCryptoOverview();
+        if (data && data.length > 0) {
+          const rows: AssetRow[] = data.map(item => ({
+            rank: item.rank,
+            asset: item.name,
+            ticker: item.ticker,
+            price: item.price,
+            change24h: item.change24h,
+            marketCap: item.marketCap,
+            volume24h: item.volume24h,
+            sector: item.sector,
+            status: item.rank <= 5 ? 'active' as const : 'pending' as const,
+          }));
+          setAssetData(rows);
+        }
+      } catch (e) {
+        console.warn('DashboardTable: using fallback data', e);
+      } finally {
+        setLoading(false);
+      }
+    }
+    loadCrypto();
+  }, []);
 
   const filtered = useMemo(() => {
     let data = [...assetData];
@@ -47,7 +79,7 @@ export default function DashboardTable({ filterSector, maxRows = 12 }: Dashboard
       data = data.filter((d) => d.sector === filterSector);
     }
     return data.slice(0, maxRows);
-  }, [filterSector, maxRows]);
+  }, [filterSector, maxRows, assetData]);
 
   const sorted = useMemo(() => {
     const data = [...filtered];
@@ -84,8 +116,48 @@ export default function DashboardTable({ filterSector, maxRows = 12 }: Dashboard
     { key: 'status', label: 'Status' },
   ];
 
+  // Mobile card view
+  if (isMobile) {
+    return (
+      <div className="space-y-3">
+        {loading && (
+          <div className="flex items-center gap-2 px-4 py-2 text-xs font-mono text-emerald">
+            <span className="w-2 h-2 bg-emerald rounded-full animate-pulse" /> Loading live data...
+          </div>
+        )}
+        {sorted.map((row) => (
+          <div key={row.ticker} className="bg-deepblack border border-subtleborder rounded-lg p-4">
+            <div className="flex items-center justify-between mb-2">
+              <div className="flex items-center gap-2">
+                <div className="w-7 h-7 rounded-full bg-charcoal border border-subtleborder flex items-center justify-center text-xs font-mono font-bold text-offwhite">
+                  {row.ticker[0]}
+                </div>
+                <div>
+                  <div className="text-sm font-medium text-offwhite">{row.asset}</div>
+                  <div className="text-xs font-mono text-slategray">{row.ticker}</div>
+                </div>
+              </div>
+              <span className={`text-sm font-mono font-medium ${row.change24h >= 0 ? 'text-emerald' : 'text-crimson'}`}>
+                {row.change24h >= 0 ? '+' : ''}{row.change24h.toFixed(2)}%
+              </span>
+            </div>
+            <div className="flex items-center justify-between text-xs font-mono text-slategray">
+              <span className="text-offwhite">${row.price.toLocaleString('en-US', { minimumFractionDigits: 2 })}</span>
+              <span>MCap: {row.marketCap}</span>
+            </div>
+          </div>
+        ))}
+      </div>
+    );
+  }
+
   return (
     <div className="w-full overflow-x-auto">
+      {loading && (
+        <div className="flex items-center gap-2 px-4 py-2 text-xs font-mono text-emerald">
+          <span className="w-2 h-2 bg-emerald rounded-full animate-pulse" /> Loading live data...
+        </div>
+      )}
       <table className="w-full">
         <thead>
           <tr className="border-b border-subtleborder">

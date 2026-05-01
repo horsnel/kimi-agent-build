@@ -4,7 +4,7 @@ import { SigmaIcon, GlobeIcon, BookOpenIcon, CalculatorIcon, ShieldIcon } from '
 interface FooterLink {
   label: string;
   path: string;
-  pro?: boolean;
+  soon?: boolean;
 }
 
 const footerSections: { title: string; links: FooterLink[] }[] = [
@@ -47,10 +47,14 @@ const footerSections: { title: string; links: FooterLink[] }[] = [
   {
     title: 'Premium',
     links: [
-      { label: 'Sector Rotation', path: '/premium/sector-rotation', pro: true },
-      { label: 'Insider Trading', path: '/premium/insider-trading', pro: true },
-      { label: 'Earnings Preview', path: '/premium/earnings-preview', pro: true },
-      { label: 'DCF Valuation', path: '/premium/valuation', pro: true },
+      { label: 'Sector Rotation', path: '/premium/sector-rotation', soon: true },
+      { label: 'Insider Trading', path: '/premium/insider-trading', soon: true },
+      { label: 'Earnings Preview', path: '/premium/earnings-preview', soon: true },
+      { label: 'DCF Valuation', path: '/premium/valuation', soon: true },
+      { label: 'Fed Decoder', path: '/premium/fed-decoder', soon: true },
+      { label: 'Crypto On-Chain', path: '/premium/crypto-onchain', soon: true },
+      { label: 'Hedge Fund Tracker', path: '/premium/hedge-fund', soon: true },
+      { label: 'IPO Pipeline', path: '/premium/ipo-pipeline', soon: true },
     ],
   },
 ];
@@ -83,9 +87,9 @@ export default function Footer() {
                       className="text-sm text-slategray hover:text-offwhite transition-colors flex items-center gap-1"
                     >
                       {link.label}
-                      {link.pro && (
-                        <span className="ml-0.5 px-1 py-0.5 text-[8px] font-mono bg-emerald/20 text-emerald rounded">
-                          PRO
+                      {link.soon && (
+                        <span className="ml-0.5 px-1 py-0.5 text-[8px] font-mono bg-amber-500/20 text-amber-400 rounded">
+                          SOON
                         </span>
                       )}
                     </Link>

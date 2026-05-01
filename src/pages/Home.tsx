@@ -1,4 +1,4 @@
-import { useEffect, useRef } from 'react';
+import { useEffect, useRef, useState, type FormEvent } from 'react';
 import { Link } from 'react-router';
 import gsap from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
@@ -7,6 +7,7 @@ import BentoGrid from '../components/BentoGrid';
 import ScrambleTable from '../components/ScrambleTable';
 import DashboardTable from '../components/DashboardTable';
 import { ArrowRightIcon, LayerStackIcon, ClockIcon, ZapIcon } from '../components/CustomIcons';
+import { useWaitlist } from '../hooks/useWaitlist';
 
 gsap.registerPlugin(ScrollTrigger);
 
@@ -38,6 +39,19 @@ export default function Home() {
   const heroRef = useRef<HTMLDivElement>(null);
   const heroTextRef = useRef<HTMLDivElement>(null);
   const sectionsRef = useRef<(HTMLElement | null)[]>([]);
+  const [waitlistEmail, setWaitlistEmail] = useState('');
+  const [waitlistSubmitted, setWaitlistSubmitted] = useState(false);
+  const { submitEmail } = useWaitlist();
+
+  const handleWaitlistSubmit = (e: FormEvent) => {
+    e.preventDefault();
+    if (!waitlistEmail.trim()) return;
+    const ok = submitEmail(waitlistEmail.trim());
+    if (ok) {
+      setWaitlistSubmitted(true);
+      setWaitlistEmail('');
+    }
+  };
 
   useEffect(() => {
     const ctx = gsap.context(() => {
@@ -199,6 +213,49 @@ export default function Home() {
           <div className="bg-charcoal border border-subtleborder rounded-xl overflow-hidden">
             <DashboardTable maxRows={6} />
           </div>
+        </div>
+      </section>
+
+      {/* Waitlist CTA */}
+      <section
+        ref={(el) => { sectionsRef.current[4] = el; }}
+        className="max-w-7xl mx-auto px-6 py-24"
+      >
+        <div className="bg-gradient-to-br from-charcoal to-deepblack border border-emerald/20 rounded-2xl p-8 md:p-12 text-center">
+          <h2 className="text-3xl md:text-4xl font-display font-light text-offwhite mb-3">
+            Join the <span className="text-gradient-green">Waitlist</span>
+          </h2>
+          <p className="text-slategray max-w-lg mx-auto mb-8">
+            Get early access to premium tools, real-time alerts, and AI-powered market intelligence. Be the first to know when we launch.
+          </p>
+          {waitlistSubmitted ? (
+            <div className="bg-emerald/10 border border-emerald/30 rounded-xl p-6 max-w-md mx-auto">
+              <svg width="40" height="40" viewBox="0 0 48 48" fill="none" className="mx-auto mb-3">
+                <circle cx="24" cy="24" r="22" stroke="#10B981" strokeWidth="2" />
+                <path d="M16 24l5 5 11-11" stroke="#10B981" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" />
+              </svg>
+              <p className="text-emerald font-medium">You're on the list!</p>
+              <p className="text-xs text-slategray mt-1">We'll notify you when premium features launch.</p>
+            </div>
+          ) : (
+            <form onSubmit={handleWaitlistSubmit} className="flex flex-col sm:flex-row gap-3 max-w-md mx-auto">
+              <input
+                type="email"
+                value={waitlistEmail}
+                onChange={(e) => setWaitlistEmail(e.target.value)}
+                placeholder="Enter your email"
+                required
+                className="flex-1 px-4 py-3 bg-deepblack border border-subtleborder rounded-lg text-sm text-offwhite placeholder:text-slategray focus:outline-none focus:border-emerald/50 transition-colors"
+              />
+              <button
+                type="submit"
+                className="px-6 py-3 bg-emerald text-obsidian font-medium text-sm rounded-lg hover:bg-emerald/90 transition-colors whitespace-nowrap"
+              >
+                Get Early Access
+              </button>
+            </form>
+          )}
+          <p className="text-xs text-slategray mt-4">No spam. Unsubscribe anytime.</p>
         </div>
       </section>
     </div>

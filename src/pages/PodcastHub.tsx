@@ -136,7 +136,10 @@ export default function PodcastHub() {
         <h1 className="text-4xl md:text-5xl font-display font-light text-offwhite mb-2">
           Podcast Hub
         </h1>
-        <p className="text-slategray text-lg">Market insights and expert interviews on demand</p>
+        <div className="flex items-center gap-3">
+          <p className="text-slategray text-lg">Market insights and expert interviews on demand</p>
+          <span className="px-2 py-0.5 text-[10px] font-mono bg-amber-500/20 text-amber-400 rounded">COMING SOON</span>
+        </div>
       </section>
 
       {/* Featured Episode */}
@@ -158,7 +161,7 @@ export default function PodcastHub() {
             </div>
 
             <div className="flex items-center gap-6 mb-6">
-              <button className="w-14 h-14 bg-emerald rounded-full flex items-center justify-center hover:bg-emerald/90 transition-colors group">
+              <button onClick={() => alert('Podcast streaming coming soon! Join our waitlist to get notified.')} className="w-14 h-14 bg-emerald rounded-full flex items-center justify-center hover:bg-emerald/90 transition-colors group relative">
                 <svg width="20" height="20" viewBox="0 0 20 20" fill="none" className="text-obsidian ml-0.5">
                   <path d="M5 3l12 7-12 7V3z" fill="currentColor" />
                 </svg>
@@ -237,7 +240,7 @@ export default function PodcastHub() {
                 <span className={`px-2 py-0.5 text-xs font-mono rounded ${categoryColors[episode.category]}`}>
                   {episode.category}
                 </span>
-                <button className="w-10 h-10 bg-emerald/10 border border-emerald/30 rounded-full flex items-center justify-center hover:bg-emerald/20 transition-colors group-hover:border-emerald/50">
+                <button onClick={() => alert('Podcast streaming coming soon!')} className="w-10 h-10 bg-emerald/10 border border-emerald/30 rounded-full flex items-center justify-center hover:bg-emerald/20 transition-colors group-hover:border-emerald/50">
                   <svg width="14" height="14" viewBox="0 0 14 14" fill="none" className="text-emerald ml-0.5">
                     <path d="M4 2l8 5-8 5V2z" fill="currentColor" />
                   </svg>
@@ -281,19 +284,19 @@ export default function PodcastHub() {
           <h2 className="text-xl font-display font-medium text-offwhite mb-2">Subscribe On</h2>
           <p className="text-sm text-slategray mb-6">Listen wherever you get your podcasts</p>
           <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
-            <button className="w-full sm:w-auto px-6 py-3 bg-deepblack border border-subtleborder rounded-xl text-offwhite text-sm font-medium hover:border-emerald/50 hover:text-emerald transition-colors flex items-center justify-center gap-2">
+            <button onClick={() => alert('Podcast streaming coming soon!')} className="w-full sm:w-auto px-6 py-3 bg-deepblack border border-subtleborder rounded-xl text-offwhite text-sm font-medium hover:border-emerald/50 hover:text-emerald transition-colors flex items-center justify-center gap-2">
               <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" className="text-slategray">
                 <path d="M18.71 19.5C17.88 20.74 17 21.95 15.66 21.97C14.32 21.99 13.89 21.18 12.37 21.18C10.84 21.18 10.37 21.95 9.1 21.99C7.79 22.03 6.8 20.68 5.96 19.47C4.25 16.56 2.93 11.3 4.7 7.72C5.57 5.94 7.36 4.86 9.28 4.84C10.56 4.82 11.78 5.71 12.58 5.71C13.38 5.71 14.86 4.62 16.42 4.8C17.09 4.83 18.89 5.09 20.04 6.78C19.93 6.85 17.69 8.16 17.72 10.88C17.75 14.14 20.6 15.18 20.63 15.2C20.61 15.27 20.17 16.78 19.08 18.34L18.71 19.5ZM13 3.5C13.73 2.67 14.94 2.04 15.94 2C16.07 3.17 15.6 4.35 14.9 5.19C14.21 6.04 13.07 6.7 11.95 6.61C11.8 5.46 12.36 4.26 13 3.5Z" />
               </svg>
               Apple Podcasts
             </button>
-            <button className="w-full sm:w-auto px-6 py-3 bg-deepblack border border-subtleborder rounded-xl text-offwhite text-sm font-medium hover:border-emerald/50 hover:text-emerald transition-colors flex items-center justify-center gap-2">
+            <button onClick={() => alert('Podcast streaming coming soon!')} className="w-full sm:w-auto px-6 py-3 bg-deepblack border border-subtleborder rounded-xl text-offwhite text-sm font-medium hover:border-emerald/50 hover:text-emerald transition-colors flex items-center justify-center gap-2">
               <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" className="text-slategray">
                 <path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm4.64 14.36c-.24.24-.56.36-.88.36s-.64-.12-.88-.36l-2.88-2.88c-.24-.24-.36-.56-.36-.88V8c0-.68.56-1.24 1.24-1.24s1.24.56 1.24 1.24v4.12l2.52 2.52c.48.48.48 1.24 0 1.72z" />
               </svg>
               Spotify
             </button>
-            <button className="w-full sm:w-auto px-6 py-3 bg-deepblack border border-subtleborder rounded-xl text-offwhite text-sm font-medium hover:border-emerald/50 hover:text-emerald transition-colors flex items-center justify-center gap-2">
+            <button onClick={() => alert('Podcast streaming coming soon!')} className="w-full sm:w-auto px-6 py-3 bg-deepblack border border-subtleborder rounded-xl text-offwhite text-sm font-medium hover:border-emerald/50 hover:text-emerald transition-colors flex items-center justify-center gap-2">
               <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" className="text-slategray">
                 <path d="M10 15l5.19-3L10 9v6m11.56-7.83c.13.47.22 1.1.28 1.9.07.8.1 1.49.1 2.09L22 12c0 2.19-.16 3.8-.44 4.83-.25.9-.83 1.48-1.73 1.73-.47.13-1.33.22-2.65.28-1.3.07-2.49.1-3.59.1L12 19c-4.19 0-6.8-.16-7.83-.44-.9-.25-1.48-.83-1.73-1.73-.13-.47-.22-1.1-.28-1.9-.07-.8-.1-1.49-.1-2.09L2 12c0-2.19.16-3.8.44-4.83.25-.9.83-1.48 1.73-1.73.47-.13 1.33-.22 2.65-.28 1.3-.07 2.49-.1 3.59-.1L12 5c4.19 0 6.8.16 7.83.44.9.25 1.48.83 1.73 1.73z" />
               </svg>

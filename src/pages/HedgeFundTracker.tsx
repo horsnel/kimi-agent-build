@@ -4,7 +4,7 @@ import { ScrollTrigger } from 'gsap/ScrollTrigger';
 import {
   PieChart, Pie, Cell, Tooltip, ResponsiveContainer, Legend,
 } from 'recharts';
-import PremiumGate from '../components/PremiumGate';
+import ComingSoonWrapper from '../components/ComingSoonWrapper';
 
 gsap.registerPlugin(ScrollTrigger);
 
@@ -253,7 +253,8 @@ export default function HedgeFundTracker() {
   }, []);
 
   return (
-    <div ref={sectionRef}>
+    <ComingSoonWrapper featureName="Hedge Fund Tracker" description="Monitor 13F filings, hedge fund positions, and notable portfolio changes.">
+      <div ref={sectionRef}>
       {/* Hero */}
       <section className="hf-section max-w-7xl mx-auto px-6 pt-24 pb-12">
         <div className="flex items-center gap-3 mb-3">
@@ -373,10 +374,7 @@ export default function HedgeFundTracker() {
         </>
       )}
 
-      {/* Premium Gate */}
-      <section className="hf-section max-w-7xl mx-auto px-6 py-12">
-        <PremiumGate featureName="Hedge Fund Tracker" description="Track 13F filings from top funds with real-time position updates and sector analysis." />
-      </section>
-    </div>
+      </div>
+    </ComingSoonWrapper>
   );
 }

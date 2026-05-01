@@ -978,9 +978,18 @@ const MOCK_HEDGE_FUNDS: Record<string, HedgeFundData> = {
 
 export async function fetchMarketIndices(): Promise<MarketIndex[]> {
   try {
-    const response = await fetch('/data/market_indices.json');
+    const response = await fetch('/data/indices.json');
     if (!response.ok) throw new Error(`HTTP ${response.status}`);
-    return await response.json();
+    const raw = await response.json();
+    // Transform scraper format to MarketIndex format
+    return raw.map((item: any) => ({
+      symbol: item.ticker?.replace('^', '') || item.name?.charAt(0) || '',
+      name: item.name,
+      value: parseFloat(String(item.value).replace(/,/g, '')),
+      change: parseFloat(String(item.change).replace('+', '')),
+      changePercent: item.changePercent || 0,
+      sparkline: item.sparkline?.length ? item.sparkline : MOCK_MARKET_INDICES.find(m => m.name === item.name)?.sparkline || [],
+    }));
   } catch (error) {
     console.warn('Using mock data for market indices:', error);
     return MOCK_MARKET_INDICES;
@@ -1011,13 +1020,35 @@ export async function fetchStockDetail(ticker: string): Promise<StockDetail> {
 
 export async function fetchCryptoOverview(): Promise<CryptoAsset[]> {
   try {
-    const response = await fetch('/data/crypto_overview.json');
+    const response = await fetch('/data/crypto.json');
     if (!response.ok) throw new Error(`HTTP ${response.status}`);
-    return await response.json();
+    const raw = await response.json();
+    // Transform CoinGecko scraper format to CryptoAsset format
+    const sectorMap: Record<string, string> = { BTC: 'Currency', ETH: 'Smart Contract', USDT: 'Stablecoin', USDC: 'Stablecoin', SOL: 'L1', BNB: 'L1', XRP: 'L1', ADA: 'L1', DOGE: 'Meme', DOT: 'L1', LINK: 'Oracle', AVAX: 'L1', MATIC: 'L1', UNI: 'DeFi', ATOM: 'L1' };
+    return raw.slice(0, 20).map((item: any) => ({
+      rank: item.rank || item.market_cap_rank || 0,
+      name: item.name,
+      ticker: (item.symbol || item.ticker || '').toUpperCase(),
+      price: item.price || item.current_price || 0,
+      change24h: item.change24h || item.price_change_percentage_24h || 0,
+      change7d: item.change7d || item.price_change_percentage_7d || 0,
+      marketCap: formatLargeNumber(item.marketCap || item.market_cap || 0),
+      volume24h: formatLargeNumber(item.volume24h || item.total_volume || 0),
+      sparkline: item.sparkline?.length ? item.sparkline : [],
+      sector: sectorMap[(item.symbol || item.ticker || '').toUpperCase()] || 'Other',
+    }));
   } catch (error) {
     console.warn('Using mock data for crypto overview:', error);
     return MOCK_CRYPTO_OVERVIEW;
   }
+}
+
+function formatLargeNumber(num: number): string {
+  if (num >= 1e12) return `$${(num / 1e12).toFixed(2)}T`;
+  if (num >= 1e9) return `$${(num / 1e9).toFixed(1)}B`;
+  if (num >= 1e6) return `$${(num / 1e6).toFixed(1)}M`;
+  if (num >= 1e3) return `$${(num / 1e3).toFixed(1)}K`;
+  return `$${num.toFixed(2)}`;
 }
 
 export async function fetchCryptoOnChain(): Promise<CryptoOnChainData> {
@@ -1057,7 +1088,19 @@ export async function fetchFearGreed(): Promise<FearGreedData> {
   try {
     const response = await fetch('/data/fear_greed.json');
     if (!response.ok) throw new Error(`HTTP ${response.status}`);
-    return await response.json();
+    const raw = await response.json();
+    // Transform scraper format: { current: { value, label }, oneWeekAgo: { value, label }, ... }
+    if (raw.current) {
+      return {
+        currentValue: raw.current.value,
+        currentLabel: raw.current.label,
+        oneWeekAgo: raw.oneWeekAgo?.value || 55,
+        oneMonthAgo: raw.oneMonthAgo?.value || 42,
+        oneYearAgo: raw.oneYearAgo?.value || 35,
+        components: raw.components || MOCK_FEAR_GREED.components,
+      };
+    }
+    return raw;
   } catch (error) {
     console.warn('Using mock data for fear & greed:', error);
     return MOCK_FEAR_GREED;
