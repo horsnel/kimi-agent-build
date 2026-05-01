@@ -73,3 +73,41 @@ Stage Summary:
 - HTTP cache persists between GitHub Actions runs (saves ScrapingAnt credits)
 - Newsletter Archive fully responsive on mobile
 - All changes deployed to sigma-capital.pages.dev
+
+---
+Task ID: 3
+Agent: Main Agent
+Task: Production readiness verification - Formspree waitlist, final deployment
+
+Work Log:
+- Verified all live data connections already in place:
+  - BentoGrid: fetchMarketIndices + fetchFearGreed
+  - TickerTape: fetchMarketIndices + fetchCryptoOverview
+  - DashboardTable: fetchCryptoOverview
+  - StockScreener: fetchStockScreener (with fallback mock data)
+  - News: fetchNews + fetchMarketIndices + fetchCryptoOverview
+- Verified all 8 premium pages wrapped with ComingSoonWrapper
+- Verified SOON badges on nav and footer for premium links
+- Verified podcast page has "COMING SOON" badge and alert on play buttons
+- Verified SPA _redirects for Cloudflare Pages
+- Verified mobile card view for DashboardTable
+- Verified Sign In/Get Started show "coming soon" alerts
+- Upgraded useWaitlist hook to use Formspree for server-side email persistence
+  - Free Formspree endpoint stores emails permanently (was localStorage-only before)
+  - localStorage now used as dedup cache + offline fallback
+  - Updated Home, PremiumGate, NewsletterArchive to handle async submitEmail
+- Committed as d905869, pushed to main
+- Deployed to Cloudflare Pages: https://222f4374.sigma-capital.pages.dev
+- Verified live data endpoints:
+  - /data/indices.json: S&P 500 at 7,209, NASDAQ at 24,892, DOW at 49,652
+  - /data/fear_greed.json: CNN Fear & Greed at 67 (Greed)
+  - /data/crypto.json: BTC at $77,270 with sparkline data
+- Verified SPA routing: /markets and /news both return 200
+- Verified GitHub Actions: Intraday scrape succeeding, Deploy workflow succeeding
+
+Stage Summary:
+- All pages connected to live data with mock fallback
+- All premium tools marked "Coming Soon" with waitlist
+- Email waitlist now persists to Formspree (server-side)
+- Site fully deployed and operational at sigma-capital.pages.dev
+- Production ready
