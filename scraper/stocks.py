@@ -7,10 +7,11 @@ Scrapes:
   - Stock detail pages (AAPL, MSFT, NVDA, TSLA)
 
 Credit strategy:
-  - Market indices: yfinance direct (FREE) → Google Finance via ScrapingAnt fallback
-  - Stock screener: yfinance direct (FREE)
-  - Stock detail: yfinance direct (FREE)
-  - All yfinance calls use caching to avoid 429 rate limits
+  - Market indices: Stooq CSV (primary, FREE) → yfinance fallback → previous data
+  - Stock screener: Stooq CSV (primary, FREE) → yfinance fallback → previous data
+  - Stock detail: Stooq CSV (primary, FREE) → yfinance fallback → previous data
+  - Stooq has no rate limiting, no auth required, no ScrapingAnt credits used
+  - yfinance only used as fallback when Stooq fails (with generous delays to avoid 429)
 """
 
 import json
@@ -22,6 +23,7 @@ from config import (
     get_yf_ticker,
     rate_limit,
     safe_float,
+    safe_int,
     safe_get,
     save_json,
     utc_now_iso,
@@ -196,49 +198,165 @@ SCREENER_TICKERS = [
 ]
 
 
-def scrape_stock_screener() -> list[dict]:
-    """Get data for 24 major stocks."""
-    print("\n📋 Scraping stock screener (24 tickers) …")
+# Stooq ticker mapping for screener stocks
+STOOQ_SCREENER = {
+    "AAPL": "aapl", "MSFT": "msft", "GOOGL": "googl", "AMZN": "amzn",
+    "NVDA": "nvda", "META": "meta", "TSLA": "tsla", "JPM": "jpm",
+    "V": "v", "JNJ": "jnj", "WMT": "wmt", "PG": "pg",
+    "UNH": "unh", "HD": "hd", "MA": "ma", "DIS": "dis",
+    "NFLX": "nflx", "PYPL": "pypl", "INTC": "intc", "CSCO": "csco",
+    "PFE": "pfe", "BA": "ba", "XOM": "xom", "CVX": "cvx",
+}
+
+
+def _scrape_screener_from_stooq() -> list[dict]:
+    """Scrape all screener stocks from Stooq free CSV API.
+    
+    Stooq provides free, no-auth CSV data for individual stocks.
+    URL format: https://stooq.com/q/l/?s={symbol}&f=sd2t2ohlcv&h&e=csv
+    This is much more reliable than yfinance which gets 429 rate-limited.
+    """
+    import csv
+    import io
+    
+    print("  🔄 Using Stooq CSV API (free, no rate limiting) …")
     results = []
-
+    
     for ticker_symbol in SCREENER_TICKERS:
+        stooq_sym = STOOQ_SCREENER.get(ticker_symbol, ticker_symbol.lower())
         try:
-            ticker = get_yf_ticker(ticker_symbol)
-            info = ticker.info
+            url = f"https://stooq.com/q/l/?s={stooq_sym}&f=sd2t2ohlcv&h&e=csv"
+            resp = safe_get(url, headers={"Accept": "text/csv"}, use_proxy=False, cache_category="stocks")
+            if resp is None:
+                print(f"  ✗ {ticker_symbol}: Stooq CSV failed")
+                continue
 
-            price = safe_float(info.get("currentPrice") or info.get("regularMarketPrice"))
-            prev_close = safe_float(info.get("regularMarketPreviousClose") or info.get("previousClose"))
-
-            change_pct = 0
-            if price and prev_close:
-                change_pct = round(((price - prev_close) / prev_close) * 100, 2)
-
-            market_cap = safe_float(info.get("marketCap"))
-            pe = safe_float(info.get("trailingPE"))
-            div_yield = safe_float(info.get("dividendYield"))
-            if div_yield is not None:
-                div_yield = round(div_yield * 100, 2)
-            volume = safe_int(info.get("volume"))
-            sector = info.get("sector", "")
-            company = info.get("longName") or info.get("shortName") or ticker_symbol
-
-            results.append({
-                "ticker": ticker_symbol,
-                "company": company,
-                "price": price,
-                "change": change_pct,
-                "marketCap": market_cap,
-                "pe": pe,
-                "dividendYield": div_yield,
-                "volume": volume,
-                "sector": sector,
-            })
-            print(f"  ✓ {ticker_symbol}: ${price}")
-
+            reader = csv.DictReader(io.StringIO(resp.text))
+            for row in reader:
+                close_str = row.get("Close", "").strip()
+                open_str = row.get("Open", "").strip()
+                high_str = row.get("High", "").strip()
+                low_str = row.get("Low", "").strip()
+                vol_str = row.get("Volume", "").strip()
+                
+                close = safe_float(close_str.replace(",", ""))
+                open_price = safe_float(open_str.replace(",", ""))
+                
+                if close is not None:
+                    change_pct = 0
+                    if open_price and open_price > 0:
+                        change_pct = round(((close - open_price) / open_price) * 100, 2)
+                    
+                    volume = safe_int(vol_str.replace(",", ""))
+                    
+                    results.append({
+                        "ticker": ticker_symbol,
+                        "company": ticker_symbol,  # Stooq doesn't provide company names
+                        "price": close,
+                        "change": change_pct,
+                        "marketCap": None,
+                        "pe": None,
+                        "dividendYield": None,
+                        "volume": volume,
+                        "sector": "",
+                    })
+                    print(f"  ✓ {ticker_symbol}: ${close:,.2f} ({change_pct:+.2f}%) (via Stooq)")
+                else:
+                    print(f"  ✗ {ticker_symbol}: no close price in Stooq data")
         except Exception as exc:
-            print(f"  ✗ {ticker_symbol} failed: {exc}")
-
+            print(f"  ✗ {ticker_symbol} Stooq failed: {exc}")
+        
         rate_limit()
+    
+    return results
+
+
+def scrape_stock_screener() -> list[dict]:
+    """Get data for 24 major stocks.
+    
+    Strategy:
+      1. Stooq free CSV API (primary — no rate limiting, no auth)
+      2. yfinance fallback (if Stooq returns < 10 results)
+      3. Previously saved data (ultimate fallback)
+    """
+    print("\n📋 Scraping stock screener (24 tickers) …")
+    
+    # Strategy 1: Stooq (free, no rate limiting)
+    results = _scrape_screener_from_stooq()
+    
+    # Strategy 2: yfinance fallback for missing tickers (with generous delays)
+    if len(results) < 10:
+        print(f"  ⚠ Only got {len(results)} from Stooq, trying yfinance for missing …")
+        found_tickers = {r["ticker"] for r in results}
+        missing = [t for t in SCREENER_TICKERS if t not in found_tickers]
+        
+        for ticker_symbol in missing:
+            try:
+                import time
+                time.sleep(2)  # Extra delay to avoid 429
+                ticker = get_yf_ticker(ticker_symbol)
+                info = ticker.info
+
+                price = safe_float(info.get("currentPrice") or info.get("regularMarketPrice"))
+                prev_close = safe_float(info.get("regularMarketPreviousClose") or info.get("previousClose"))
+
+                change_pct = 0
+                if price and prev_close:
+                    change_pct = round(((price - prev_close) / prev_close) * 100, 2)
+
+                market_cap = safe_float(info.get("marketCap"))
+                pe = safe_float(info.get("trailingPE"))
+                div_yield = safe_float(info.get("dividendYield"))
+                if div_yield is not None:
+                    div_yield = round(div_yield * 100, 2)
+                volume = safe_int(info.get("volume"))
+                sector = info.get("sector", "")
+                company = info.get("longName") or info.get("shortName") or ticker_symbol
+
+                results.append({
+                    "ticker": ticker_symbol,
+                    "company": company,
+                    "price": price,
+                    "change": change_pct,
+                    "marketCap": market_cap,
+                    "pe": pe,
+                    "dividendYield": div_yield,
+                    "volume": volume,
+                    "sector": sector,
+                })
+                print(f"  ✓ {ticker_symbol}: ${price} (via yfinance)")
+
+            except Exception as exc:
+                exc_str = str(exc)
+                if "429" in exc_str:
+                    print(f"  ⛔ {ticker_symbol}: Yahoo 429 rate limited — stopping yfinance attempts")
+                    break
+                print(f"  ✗ {ticker_symbol} failed: {exc}")
+
+            rate_limit()
+    
+    # Strategy 3: Use previously saved data for any still missing
+    if len(results) < len(SCREENER_TICKERS):
+        prev_data = {}
+        screener_path = DATA_DIR / "screener.json"
+        if screener_path.exists():
+            try:
+                with open(screener_path, "r") as f:
+                    prev = json.load(f)
+                    if isinstance(prev, list):
+                        for item in prev:
+                            if isinstance(item, dict) and "ticker" in item:
+                                prev_data[item["ticker"]] = item
+            except Exception:
+                pass
+        
+        found_tickers = {r["ticker"] for r in results}
+        for ticker_symbol in SCREENER_TICKERS:
+            if ticker_symbol not in found_tickers and ticker_symbol in prev_data:
+                prev = prev_data[ticker_symbol]
+                prev["stale"] = True
+                results.append(prev)
+                print(f"  ⚠ {ticker_symbol}: using previous data (may be stale)")
 
     save_json("screener.json", results)
     return results
@@ -255,106 +373,237 @@ CHART_PERIODS = [
 ]
 
 
-def scrape_stock_detail(ticker_symbol: str) -> dict | None:
-    """Get detailed stock data including price history and earnings."""
-    print(f"\n📈 Scraping stock detail: {ticker_symbol} …")
+def _scrape_detail_from_stooq(ticker_symbol: str) -> dict | None:
+    """Scrape basic stock detail from Stooq free CSV API.
+    
+    Returns a detail dict with price data from Stooq (no auth, no rate limiting).
+    Missing fields (marketCap, PE, etc.) are set to None and will be
+    filled by yfinance if available, or kept as None.
+    """
+    import csv
+    import io
+    
+    stooq_sym = ticker_symbol.lower()
     try:
-        ticker = get_yf_ticker(ticker_symbol)
-        info = ticker.info
+        url = f"https://stooq.com/q/l/?s={stooq_sym}&f=sd2t2ohlcv&h&e=csv"
+        resp = safe_get(url, headers={"Accept": "text/csv"}, use_proxy=False, cache_category="stocks")
+        if resp is None:
+            return None
 
-        price = safe_float(info.get("currentPrice") or info.get("regularMarketPrice"))
-        prev_close = safe_float(info.get("regularMarketPreviousClose") or info.get("previousClose"))
-        change = round(price - prev_close, 2) if price and prev_close else 0
-        change_pct = round((change / prev_close) * 100, 2) if prev_close else 0
+        reader = csv.DictReader(io.StringIO(resp.text))
+        for row in reader:
+            close_str = row.get("Close", "").strip().replace(",", "")
+            open_str = row.get("Open", "").strip().replace(",", "")
+            high_str = row.get("High", "").strip().replace(",", "")
+            low_str = row.get("Low", "").strip().replace(",", "")
+            vol_str = row.get("Volume", "").strip().replace(",", "")
+            
+            close = safe_float(close_str)
+            open_price = safe_float(open_str)
+            high = safe_float(high_str)
+            low = safe_float(low_str)
+            volume = safe_int(vol_str)
+            
+            if close is None:
+                return None
+            
+            change = round(close - (open_price or close), 2)
+            prev_close = open_price or close
+            change_pct = round((change / prev_close) * 100, 2) if prev_close else 0
+            
+            detail = {
+                "ticker": ticker_symbol,
+                "company": ticker_symbol,
+                "currentPrice": close,
+                "change": change,
+                "changePercent": change_pct,
+                "marketCap": None,
+                "pe": None,
+                "eps": None,
+                "beta": None,
+                "fiftyTwoWeekLow": low,
+                "fiftyTwoWeekHigh": high,
+                "volume": volume,
+                "averageVolume": None,
+                "dividendYield": None,
+                "open": open_price,
+                "dayHigh": high,
+                "dayLow": low,
+                "sector": "",
+                "industry": "",
+                "priceHistory": {},
+                "earnings": [],
+                "recommendations": [],
+                "updatedAt": utc_now_iso(),
+            }
+            print(f"  ✓ {ticker_symbol}: ${close:,.2f} ({change_pct:+.2f}%) (via Stooq)")
+            return detail
+    except Exception as exc:
+        print(f"  ✗ {ticker_symbol} Stooq detail failed: {exc}")
+    
+    return None
 
+
+def scrape_stock_detail(ticker_symbol: str) -> dict | None:
+    """Get detailed stock data including price history and earnings.
+    
+    Strategy:
+      1. Stooq free CSV API (primary — no rate limiting, no auth)
+      2. yfinance fallback with generous delays (only if Stooq fails)
+      3. Previously saved data (ultimate fallback)
+    """
+    print(f"\n📈 Scraping stock detail: {ticker_symbol} …")
+    
+    # Strategy 1: Try Stooq first (free, no rate limiting)
+    detail = _scrape_detail_from_stooq(ticker_symbol)
+    
+    # Strategy 2: yfinance fallback (with 3s delay to avoid 429)
+    if detail is None:
+        import time
+        time.sleep(3)
+        try:
+            ticker = get_yf_ticker(ticker_symbol)
+            info = ticker.info
+
+            price = safe_float(info.get("currentPrice") or info.get("regularMarketPrice"))
+            prev_close = safe_float(info.get("regularMarketPreviousClose") or info.get("previousClose"))
+            change = round(price - prev_close, 2) if price and prev_close else 0
+            change_pct = round((change / prev_close) * 100, 2) if prev_close else 0
+
+            detail = {
+                "ticker": ticker_symbol,
+                "company": info.get("longName") or info.get("shortName") or ticker_symbol,
+                "currentPrice": price,
+                "change": change,
+                "changePercent": change_pct,
+                "marketCap": safe_float(info.get("marketCap")),
+                "pe": safe_float(info.get("trailingPE")),
+                "eps": safe_float(info.get("trailingEps")),
+                "beta": safe_float(info.get("beta")),
+                "fiftyTwoWeekLow": safe_float(info.get("fiftyTwoWeekLow")),
+                "fiftyTwoWeekHigh": safe_float(info.get("fiftyTwoWeekHigh")),
+                "volume": safe_int(info.get("volume")),
+                "averageVolume": safe_int(info.get("averageVolume")),
+                "dividendYield": safe_float(info.get("dividendYield")),
+                "open": safe_float(info.get("regularMarketOpen") or info.get("open")),
+                "dayHigh": safe_float(info.get("dayHigh")),
+                "dayLow": safe_float(info.get("dayLow")),
+                "sector": info.get("sector", ""),
+                "industry": info.get("industry", ""),
+                "priceHistory": {},
+                "earnings": [],
+                "recommendations": [],
+                "updatedAt": utc_now_iso(),
+            }
+            print(f"  ✓ {ticker_symbol}: ${price} (via yfinance)")
+
+            # Price history for charts (only if yfinance worked)
+            for period, interval in CHART_PERIODS:
+                try:
+                    hist = ticker.history(period=period, interval=interval)
+                    if not hist.empty:
+                        detail["priceHistory"][f"{period}"] = [
+                            {
+                                "date": str(idx.date()) if hasattr(idx, "date") else str(idx),
+                                "close": round(float(row["Close"]), 2),
+                                "volume": int(row["Volume"]) if row["Volume"] else 0,
+                            }
+                            for idx, row in hist.iterrows()
+                        ]
+                except Exception:
+                    detail["priceHistory"][f"{period}"] = []
+                rate_limit()
+
+            # Earnings history
+            try:
+                qe = ticker.quarterly_earnings
+                if qe is not None and not qe.empty:
+                    for idx, row in qe.iterrows():
+                        actual = safe_float(row.get("Actual"))
+                        estimate = safe_float(row.get("Estimate"))
+                        detail["earnings"].append({
+                            "quarter": str(idx),
+                            "epsActual": actual,
+                            "epsEstimate": estimate,
+                            "beat": actual is not None and estimate is not None and actual > estimate,
+                        })
+                else:
+                    detail["earnings"] = _mock_earnings(ticker_symbol)
+            except Exception:
+                detail["earnings"] = _mock_earnings(ticker_symbol)
+
+            # Analyst recommendations
+            try:
+                recs = ticker.recommendations
+                if recs is not None and not recs.empty:
+                    for idx, row in recs.head(10).iterrows():
+                        detail["recommendations"].append({
+                            "date": str(idx),
+                            "firm": row.get("Firm", ""),
+                            "grade": row.get("To Grade", ""),
+                            "action": row.get("Action", ""),
+                        })
+            except Exception:
+                pass
+
+        except Exception as exc:
+            exc_str = str(exc)
+            if "429" in exc_str:
+                print(f"  ⛔ {ticker_symbol}: Yahoo 429 rate limited — skipping yfinance")
+            else:
+                print(f"  ✗ {ticker_symbol} detail failed: {exc}")
+            traceback.print_exc()
+    
+    # Strategy 3: Use previously saved data as fallback
+    if detail is None:
+        filepath = DATA_DIR / "stocks" / f"{ticker_symbol}.json"
+        if filepath.exists():
+            try:
+                with open(filepath, "r") as f:
+                    detail = json.load(f)
+                    detail["stale"] = True
+                    detail["updatedAt"] = utc_now_iso()
+                    print(f"  ⚠ {ticker_symbol}: using previous data (may be stale)")
+            except Exception:
+                pass
+    
+    # Still no data — create minimal mock
+    if detail is None:
+        print(f"  ⚠ {ticker_symbol}: all sources failed, creating minimal entry")
         detail = {
             "ticker": ticker_symbol,
-            "company": info.get("longName") or info.get("shortName") or ticker_symbol,
-            "currentPrice": price,
-            "change": change,
-            "changePercent": change_pct,
-            "marketCap": safe_float(info.get("marketCap")),
-            "pe": safe_float(info.get("trailingPE")),
-            "eps": safe_float(info.get("trailingEps")),
-            "beta": safe_float(info.get("beta")),
-            "fiftyTwoWeekLow": safe_float(info.get("fiftyTwoWeekLow")),
-            "fiftyTwoWeekHigh": safe_float(info.get("fiftyTwoWeekHigh")),
-            "volume": safe_int(info.get("volume")),
-            "averageVolume": safe_int(info.get("averageVolume")),
-            "dividendYield": safe_float(info.get("dividendYield")),
-            "open": safe_float(info.get("regularMarketOpen") or info.get("open")),
-            "dayHigh": safe_float(info.get("dayHigh")),
-            "dayLow": safe_float(info.get("dayLow")),
-            "sector": info.get("sector", ""),
-            "industry": info.get("industry", ""),
+            "company": ticker_symbol,
+            "currentPrice": None,
+            "change": 0,
+            "changePercent": 0,
+            "marketCap": None,
+            "pe": None,
+            "eps": None,
+            "beta": None,
+            "fiftyTwoWeekLow": None,
+            "fiftyTwoWeekHigh": None,
+            "volume": None,
+            "averageVolume": None,
+            "dividendYield": None,
+            "open": None,
+            "dayHigh": None,
+            "dayLow": None,
+            "sector": "",
+            "industry": "",
             "priceHistory": {},
-            "earnings": [],
+            "earnings": _mock_earnings(ticker_symbol),
             "recommendations": [],
             "updatedAt": utc_now_iso(),
+            "stale": True,
         }
 
-        # Price history for charts
-        for period, interval in CHART_PERIODS:
-            try:
-                hist = ticker.history(period=period, interval=interval)
-                if not hist.empty:
-                    detail["priceHistory"][f"{period}"] = [
-                        {
-                            "date": str(idx.date()) if hasattr(idx, "date") else str(idx),
-                            "close": round(float(row["Close"]), 2),
-                            "volume": int(row["Volume"]) if row["Volume"] else 0,
-                        }
-                        for idx, row in hist.iterrows()
-                    ]
-            except Exception:
-                detail["priceHistory"][f"{period}"] = []
-            rate_limit()
+    # Save to stocks/{ticker}.json
+    filepath = DATA_DIR / "stocks" / f"{ticker_symbol}.json"
+    with open(filepath, "w", encoding="utf-8") as f:
+        json.dump(detail, f, indent=2, ensure_ascii=False, default=str)
+    print(f"  ✓ Saved stocks/{ticker_symbol}.json")
 
-        # Earnings history
-        try:
-            qe = ticker.quarterly_earnings
-            if qe is not None and not qe.empty:
-                for idx, row in qe.iterrows():
-                    actual = safe_float(row.get("Actual"))
-                    estimate = safe_float(row.get("Estimate"))
-                    detail["earnings"].append({
-                        "quarter": str(idx),
-                        "epsActual": actual,
-                        "epsEstimate": estimate,
-                        "beat": actual is not None and estimate is not None and actual > estimate,
-                    })
-            else:
-                detail["earnings"] = _mock_earnings(ticker_symbol)
-        except Exception:
-            detail["earnings"] = _mock_earnings(ticker_symbol)
-
-        # Analyst recommendations
-        try:
-            recs = ticker.recommendations
-            if recs is not None and not recs.empty:
-                for idx, row in recs.head(10).iterrows():
-                    detail["recommendations"].append({
-                        "date": str(idx),
-                        "firm": row.get("Firm", ""),
-                        "grade": row.get("To Grade", ""),
-                        "action": row.get("Action", ""),
-                    })
-        except Exception:
-            pass
-
-        # Save to stocks/{ticker}.json
-        filepath = DATA_DIR / "stocks" / f"{ticker_symbol}.json"
-        import json
-        with open(filepath, "w", encoding="utf-8") as f:
-            json.dump(detail, f, indent=2, ensure_ascii=False, default=str)
-        print(f"  ✓ Saved stocks/{ticker_symbol}.json")
-
-        return detail
-
-    except Exception as exc:
-        print(f"  ✗ {ticker_symbol} detail failed: {exc}")
-        traceback.print_exc()
-        return None
+    return detail
 
 
 def _mock_earnings(ticker_symbol: str) -> list[dict]:

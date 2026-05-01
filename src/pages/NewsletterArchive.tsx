@@ -157,22 +157,22 @@ export default function NewsletterArchive() {
       </section>
 
       {/* Subscribe CTA */}
-      <section className="nl-section max-w-7xl mx-auto px-6 pb-8">
-        <div className="bg-emerald/10 border border-emerald/30 rounded-xl p-6 flex flex-col md:flex-row items-center justify-between gap-6">
-          <div className="flex items-center gap-3">
-            <BookOpenIcon size={24} className="text-emerald" />
+      <section className="nl-section max-w-7xl mx-auto px-4 sm:px-6 pb-8">
+        <div className="bg-emerald/10 border border-emerald/30 rounded-xl p-4 sm:p-6 flex flex-col md:flex-row items-start md:items-center justify-between gap-4 sm:gap-6">
+          <div className="flex items-start sm:items-center gap-3">
+            <BookOpenIcon size={24} className="text-emerald flex-shrink-0 mt-0.5 sm:mt-0" />
             <div>
-              <h3 className="text-lg font-display font-medium text-offwhite">Get the Weekly Market Brief</h3>
-              <p className="text-sm text-slategray">Actionable insights every Friday morning</p>
+              <h3 className="text-base sm:text-lg font-display font-medium text-offwhite">Get the Weekly Market Brief</h3>
+              <p className="text-xs sm:text-sm text-slategray">Actionable insights every Friday morning</p>
             </div>
           </div>
-          <div className="flex items-center gap-3 w-full md:w-auto">
+          <div className="flex flex-col sm:flex-row items-stretch sm:items-center gap-2 sm:gap-3 w-full md:w-auto">
             <input
               type="email"
               placeholder="Enter your email"
-              className="flex-1 md:w-64 bg-deepblack border border-subtleborder rounded-lg px-4 py-2.5 text-sm text-offwhite placeholder:text-slategray focus:outline-none focus:border-emerald/50 transition-colors"
+              className="w-full sm:w-64 bg-deepblack border border-subtleborder rounded-lg px-4 py-2.5 text-sm text-offwhite placeholder:text-slategray focus:outline-none focus:border-emerald/50 transition-colors"
             />
-            <button className="px-5 py-2.5 bg-emerald text-obsidian text-sm font-medium rounded-lg hover:bg-emerald/90 transition-colors flex items-center gap-2 flex-shrink-0">
+            <button className="px-5 py-2.5 bg-emerald text-obsidian text-sm font-medium rounded-lg hover:bg-emerald/90 transition-colors flex items-center justify-center gap-2 flex-shrink-0">
               Subscribe <ArrowRightIcon size={14} />
             </button>
           </div>
@@ -180,9 +180,9 @@ export default function NewsletterArchive() {
       </section>
 
       {/* Search + Filter */}
-      <section className="nl-section max-w-7xl mx-auto px-6 py-4">
-        <div className="flex flex-col md:flex-row items-start md:items-center gap-4">
-          <div className="relative flex-1 w-full md:max-w-sm">
+      <section className="nl-section max-w-7xl mx-auto px-4 sm:px-6 py-4">
+        <div className="flex flex-col gap-3">
+          <div className="relative w-full md:max-w-sm">
             <SearchIcon size={16} className="absolute left-3 top-1/2 -translate-y-1/2 text-slategray" />
             <input
               type="text"
@@ -192,12 +192,12 @@ export default function NewsletterArchive() {
               className="w-full bg-charcoal border border-subtleborder rounded-lg pl-10 pr-4 py-2.5 text-sm text-offwhite placeholder:text-slategray focus:outline-none focus:border-emerald/50 transition-colors"
             />
           </div>
-          <div className="flex flex-wrap gap-2">
+          <div className="flex flex-wrap gap-1.5 sm:gap-2">
             {categories.map((cat) => (
               <button
                 key={cat}
                 onClick={() => { setActiveCategory(cat); setCurrentPage(1); }}
-                className={`px-3 py-1.5 text-xs font-mono rounded-lg transition-colors ${
+                className={`px-2 sm:px-3 py-1 sm:py-1.5 text-[10px] sm:text-xs font-mono rounded-lg transition-colors whitespace-nowrap ${
                   activeCategory === cat
                     ? 'bg-emerald text-obsidian'
                     : 'bg-charcoal border border-subtleborder text-slategray hover:text-offwhite hover:border-slategray'
@@ -211,29 +211,29 @@ export default function NewsletterArchive() {
       </section>
 
       {/* Newsletter List */}
-      <section className="nl-section max-w-7xl mx-auto px-6 py-8">
-        <div className="space-y-4">
+      <section className="nl-section max-w-7xl mx-auto px-4 sm:px-6 py-6 sm:py-8">
+        <div className="space-y-3 sm:space-y-4">
           {paginated.map((issue, idx) => (
             <article
               key={idx}
-              className="bg-charcoal border border-subtleborder rounded-xl p-6 hover:border-emerald/50 transition-colors group cursor-pointer"
+              className="bg-charcoal border border-subtleborder rounded-xl p-4 sm:p-6 hover:border-emerald/50 transition-colors group cursor-pointer"
             >
-              <div className="flex flex-col md:flex-row md:items-start justify-between gap-4">
-                <div className="flex-1">
-                  <div className="flex flex-wrap items-center gap-3 mb-3">
-                    <span className={`px-2 py-0.5 text-xs font-mono rounded ${categoryColors[issue.category] || 'bg-emerald/20 text-emerald'}`}>
+              <div className="flex flex-col md:flex-row md:items-start justify-between gap-3 sm:gap-4">
+                <div className="flex-1 min-w-0">
+                  <div className="flex flex-wrap items-center gap-2 sm:gap-3 mb-2 sm:mb-3">
+                    <span className={`px-2 py-0.5 text-[10px] sm:text-xs font-mono rounded ${categoryColors[issue.category] || 'bg-emerald/20 text-emerald'}`}>
                       {issue.category}
                     </span>
-                    <span className="text-xs font-mono text-slategray flex items-center gap-1">
-                      <ClockIcon size={12} /> {issue.date}
+                    <span className="text-[10px] sm:text-xs font-mono text-slategray flex items-center gap-1">
+                      <ClockIcon size={10} className="sm:w-3 sm:h-3" /> {issue.date}
                     </span>
                   </div>
-                  <h3 className="text-lg font-display font-medium text-offwhite mb-2 group-hover:text-emerald transition-colors">
+                  <h3 className="text-base sm:text-lg font-display font-medium text-offwhite mb-1.5 sm:mb-2 group-hover:text-emerald transition-colors leading-snug">
                     {issue.title}
                   </h3>
-                  <p className="text-sm text-slategray leading-relaxed">{issue.excerpt}</p>
+                  <p className="text-xs sm:text-sm text-slategray leading-relaxed line-clamp-3 sm:line-clamp-none">{issue.excerpt}</p>
                 </div>
-                <div className="flex-shrink-0 text-emerald opacity-0 group-hover:opacity-100 transition-opacity">
+                <div className="hidden md:flex flex-shrink-0 text-emerald opacity-0 group-hover:opacity-100 transition-opacity">
                   <ArrowRightIcon size={20} />
                 </div>
               </div>
@@ -250,13 +250,13 @@ export default function NewsletterArchive() {
 
       {/* Pagination */}
       {totalPages > 1 && (
-        <section className="nl-section max-w-7xl mx-auto px-6 pb-16">
-          <div className="flex items-center justify-center gap-2">
+        <section className="nl-section max-w-7xl mx-auto px-4 sm:px-6 pb-12 sm:pb-16">
+          <div className="flex items-center justify-center gap-1.5 sm:gap-2">
             {Array.from({ length: totalPages }, (_, i) => i + 1).map((page) => (
               <button
                 key={page}
                 onClick={() => setCurrentPage(page)}
-                className={`w-10 h-10 rounded-lg text-sm font-mono transition-colors ${
+                className={`w-9 h-9 sm:w-10 sm:h-10 rounded-lg text-xs sm:text-sm font-mono transition-colors ${
                   currentPage === page
                     ? 'bg-emerald text-obsidian'
                     : 'bg-charcoal border border-subtleborder text-slategray hover:text-offwhite hover:border-slategray'
