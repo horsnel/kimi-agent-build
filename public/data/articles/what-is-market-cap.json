@@ -1,0 +1,62 @@
+{
+  "id": "what-is-market-cap",
+  "type": "glossary",
+  "title": "What Is Market Capitalization? Definition, Formula & Examples",
+  "slug": "what-is-market-cap",
+  "date": "2026-05-01",
+  "displayDate": "May 1, 2026",
+  "author": "Sigma Capital",
+  "category": "Education",
+  "tags": [
+    "market cap",
+    "financial terms",
+    "investing basics",
+    "market cap definition",
+    "stock market terminology"
+  ],
+  "metaDescription": "What is Market Capitalization? Learn the definition, formula, and real-world examples of Market Cap. Our comprehensive guide explains how Market Cap works and why it matters for investors.",
+  "excerpt": "Market capitalization is the total dollar value of a company's outstanding shares, calculated by multiplying the current share price by the total number of shares. It represents the market's valuation...",
+  "content": {
+    "definition": "Market capitalization is the total dollar value of a company's outstanding shares, calculated by multiplying the current share price by the total number of shares. It represents the market's valuation of a company and is used to classify companies by size: large-cap ($10B+), mid-cap ($2-10B), and small-cap ($300M-2B). Market cap helps investors gauge a company's size, risk profile, and growth potential.",
+    "formula": "Market Cap = Current Share Price × Total Outstanding Shares",
+    "example": "Apple with 15.5 billion shares at $180/share has a market cap of approximately $2.79 trillion, making it one of the world's most valuable companies. A smaller company with 50 million shares at $40/share has a $2 billion market cap.",
+    "types": "Large-cap stocks ($10B+) tend to be more stable with dividends. Mid-cap stocks ($2-10B) offer growth potential with moderate risk. Small-cap stocks ($300M-2B) have higher growth potential but greater volatility and risk. Mega-cap ($200B+) companies like Apple and Microsoft dominate major indices.",
+    "whyItMatters": "Understanding Market Cap is essential for making informed investment decisions. Whether you are evaluating individual stocks, planning your portfolio allocation, or comparing investment options, Market Cap provides a quantitative framework that removes guesswork and helps you assess value objectively. Professional investors, analysts, and financial advisors all rely on Market Cap as a core metric in their decision-making process.",
+    "relatedTerms": [
+      {
+        "term": "P/E Ratio",
+        "slug": "what-is-p-e-ratio"
+      },
+      {
+        "term": "Dividend Yield",
+        "slug": "what-is-dividend-yield"
+      },
+      {
+        "term": "Dollar-Cost Averaging",
+        "slug": "what-is-dollar-cost-averaging"
+      },
+      {
+        "term": "ETF",
+        "slug": "what-is-etf"
+      }
+    ],
+    "relatedTools": [
+      {
+        "name": "Stock Screener",
+        "path": "/screener"
+      },
+      {
+        "name": "Compound Interest Calculator",
+        "path": "/tools/compound"
+      }
+    ]
+  },
+  "readingTime": 6,
+  "updatedAt": "2026-05-01T19:19:03.528Z",
+  "image": {
+    "src": "/images/articles/what-is-market-cap.jpg",
+    "alt": "Business theme with stock market document, currency, and mobile display.",
+    "credit": "Hanna Pad / Pexels",
+    "creditUrl": "https://www.pexels.com/photo/photo-of-person-holding-white-printer-paper-6802043/"
+  }
+}

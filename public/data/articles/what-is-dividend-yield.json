@@ -1,0 +1,62 @@
+{
+  "id": "what-is-dividend-yield",
+  "type": "glossary",
+  "title": "What Is Dividend Yield? Definition, Formula & Examples",
+  "slug": "what-is-dividend-yield",
+  "date": "2026-05-01",
+  "displayDate": "May 1, 2026",
+  "author": "Sigma Capital",
+  "category": "Education",
+  "tags": [
+    "dividend yield",
+    "financial terms",
+    "investing basics",
+    "dividend yield definition",
+    "stock market terminology"
+  ],
+  "metaDescription": "What is Dividend Yield? Learn the definition, formula, and real-world examples of Dividend Yield. Our comprehensive guide explains how Dividend Yield works and why it matters for investors.",
+  "excerpt": "Dividend yield measures the annual dividend income relative to the stock price, expressed as a percentage. It tells investors how much cash return they can expect from dividends alone, separate from a...",
+  "content": {
+    "definition": "Dividend yield measures the annual dividend income relative to the stock price, expressed as a percentage. It tells investors how much cash return they can expect from dividends alone, separate from any stock price appreciation. A stock priced at $100 paying $3 in annual dividends has a 3% dividend yield. This metric is particularly important for income-focused investors and retirees who rely on portfolio cash flow.",
+    "formula": "Dividend Yield = Annual Dividends Per Share / Share Price × 100%",
+    "example": "Coca-Cola trades at $60/share and pays $1.84 annually in dividends. Its dividend yield is 3.07% ($1.84 / $60 × 100). If you invest $10,000 in KO, you would receive approximately $307 per year in dividend income.",
+    "types": "High-yield stocks (4%+) often come from utilities, REITs, and MLPs but may signal financial stress. Moderate-yield stocks (2-4%) from established companies offer income plus growth potential. Low-yield or zero-yield growth stocks reinvest earnings for expansion rather than distributing cash.",
+    "whyItMatters": "Understanding Dividend Yield is essential for making informed investment decisions. Whether you are evaluating individual stocks, planning your portfolio allocation, or comparing investment options, Dividend Yield provides a quantitative framework that removes guesswork and helps you assess value objectively. Professional investors, analysts, and financial advisors all rely on Dividend Yield as a core metric in their decision-making process.",
+    "relatedTerms": [
+      {
+        "term": "P/E Ratio",
+        "slug": "what-is-p-e-ratio"
+      },
+      {
+        "term": "Market Cap",
+        "slug": "what-is-market-cap"
+      },
+      {
+        "term": "Dollar-Cost Averaging",
+        "slug": "what-is-dollar-cost-averaging"
+      },
+      {
+        "term": "ETF",
+        "slug": "what-is-etf"
+      }
+    ],
+    "relatedTools": [
+      {
+        "name": "Stock Screener",
+        "path": "/screener"
+      },
+      {
+        "name": "Compound Interest Calculator",
+        "path": "/tools/compound"
+      }
+    ]
+  },
+  "readingTime": 6,
+  "updatedAt": "2026-05-01T19:19:32.756Z",
+  "image": {
+    "src": "/images/articles/what-is-dividend-yield.jpg",
+    "alt": "Scrabble tiles forming the word 'YIELD' on a marble surface, symbolizing finance and investment.",
+    "credit": "Markus Winkler / Pexels",
+    "creditUrl": "https://www.pexels.com/photo/scrabble-letters-spelling-yield-on-a-white-table-18512943/"
+  }
+}

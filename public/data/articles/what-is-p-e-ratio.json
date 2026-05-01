@@ -1,0 +1,62 @@
+{
+  "id": "what-is-p-e-ratio",
+  "type": "glossary",
+  "title": "What Is Price-to-Earnings Ratio? Definition, Formula & Examples",
+  "slug": "what-is-p-e-ratio",
+  "date": "2026-05-01",
+  "displayDate": "May 1, 2026",
+  "author": "Sigma Capital",
+  "category": "Education",
+  "tags": [
+    "p/e ratio",
+    "financial terms",
+    "investing basics",
+    "p/e ratio definition",
+    "stock market terminology"
+  ],
+  "metaDescription": "What is Price-to-Earnings Ratio? Learn the definition, formula, and real-world examples of P/E Ratio. Our comprehensive guide explains how P/E Ratio works and why it matters for investors.",
+  "excerpt": "The P/E ratio measures a company's current share price relative to its earnings per share (EPS). It is calculated by dividing the market price per share by the EPS. A P/E of 15 means investors are wil...",
+  "content": {
+    "definition": "The P/E ratio measures a company's current share price relative to its earnings per share (EPS). It is calculated by dividing the market price per share by the EPS. A P/E of 15 means investors are willing to pay $15 for every $1 of earnings. This ratio helps investors assess whether a stock is overvalued or undervalued compared to its peers and historical averages.",
+    "formula": "P/E Ratio = Share Price / Earnings Per Share",
+    "example": "If Company XYZ trades at $150/share and earned $10/share in the last 12 months, its P/E ratio is 15x ($150 / $10). The S&P 500 historical average P/E is approximately 15-17x.",
+    "types": "Trailing P/E uses past 12 months of earnings (more reliable), while Forward P/E uses projected future earnings (more speculative but forward-looking). A high P/E may indicate growth expectations or overvaluation; a low P/E may suggest value or declining prospects.",
+    "whyItMatters": "Understanding P/E Ratio is essential for making informed investment decisions. Whether you are evaluating individual stocks, planning your portfolio allocation, or comparing investment options, P/E Ratio provides a quantitative framework that removes guesswork and helps you assess value objectively. Professional investors, analysts, and financial advisors all rely on P/E Ratio as a core metric in their decision-making process.",
+    "relatedTerms": [
+      {
+        "term": "Market Cap",
+        "slug": "what-is-market-cap"
+      },
+      {
+        "term": "Dividend Yield",
+        "slug": "what-is-dividend-yield"
+      },
+      {
+        "term": "Dollar-Cost Averaging",
+        "slug": "what-is-dollar-cost-averaging"
+      },
+      {
+        "term": "ETF",
+        "slug": "what-is-etf"
+      }
+    ],
+    "relatedTools": [
+      {
+        "name": "Stock Screener",
+        "path": "/screener"
+      },
+      {
+        "name": "Compound Interest Calculator",
+        "path": "/tools/compound"
+      }
+    ]
+  },
+  "readingTime": 6,
+  "updatedAt": "2026-05-01T19:19:20.976Z",
+  "image": {
+    "src": "/images/articles/what-is-p-e-ratio.jpg",
+    "alt": "Gold coins scattered with a stock market graph and a percentage symbol on an orange background.",
+    "credit": "Nataliya Vaitkevich / Pexels",
+    "creditUrl": "https://www.pexels.com/photo/gold-coins-on-orange-background-6120252/"
+  }
+}

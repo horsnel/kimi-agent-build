@@ -1,0 +1,62 @@
+{
+  "id": "what-is-bull-market",
+  "type": "glossary",
+  "title": "What Is Bull Market? Definition, Formula & Examples",
+  "slug": "what-is-bull-market",
+  "date": "2026-05-01",
+  "displayDate": "May 1, 2026",
+  "author": "Sigma Capital",
+  "category": "Education",
+  "tags": [
+    "bull market",
+    "financial terms",
+    "investing basics",
+    "bull market definition",
+    "stock market terminology"
+  ],
+  "metaDescription": "What is Bull Market? Learn the definition, formula, and real-world examples of Bull Market. Our comprehensive guide explains how Bull Market works and why it matters for investors.",
+  "excerpt": "A bull market is an extended period of rising asset prices, typically defined as a 20% or greater increase from a recent low. Bull markets are characterized by investor optimism, strong economic growt...",
+  "content": {
+    "definition": "A bull market is an extended period of rising asset prices, typically defined as a 20% or greater increase from a recent low. Bull markets are characterized by investor optimism, strong economic growth, rising corporate profits, and increasing employment. The longest bull market in U.S. history ran from March 2009 to March 2020, lasting nearly 11 years with the S&P 500 gaining over 400%. Understanding bull market dynamics helps investors stay invested and avoid costly attempts at market timing.",
+    "formula": "Bull Market Threshold = Most Recent Low × 1.20 (a 20% increase confirms a new bull market)",
+    "example": "The S&P 500 bottomed at 3,577 in October 2022. When it rose 20% above that level (above 4,292) in June 2023, it confirmed a new bull market. The index continued climbing, reaching 5,400+ in 2024.",
+    "types": "Secular bull markets last 10-20 years driven by structural economic shifts (e.g., 1982-2000 technology boom). Cyclical bull markets last 1-5 years within longer secular trends. Rally phases within bear markets can temporarily rise 20%+ before resuming decline.",
+    "whyItMatters": "Understanding Bull Market is essential for making informed investment decisions. Whether you are evaluating individual stocks, planning your portfolio allocation, or comparing investment options, Bull Market provides a quantitative framework that removes guesswork and helps you assess value objectively. Professional investors, analysts, and financial advisors all rely on Bull Market as a core metric in their decision-making process.",
+    "relatedTerms": [
+      {
+        "term": "P/E Ratio",
+        "slug": "what-is-p-e-ratio"
+      },
+      {
+        "term": "Market Cap",
+        "slug": "what-is-market-cap"
+      },
+      {
+        "term": "Dividend Yield",
+        "slug": "what-is-dividend-yield"
+      },
+      {
+        "term": "Dollar-Cost Averaging",
+        "slug": "what-is-dollar-cost-averaging"
+      }
+    ],
+    "relatedTools": [
+      {
+        "name": "Stock Screener",
+        "path": "/screener"
+      },
+      {
+        "name": "Compound Interest Calculator",
+        "path": "/tools/compound"
+      }
+    ]
+  },
+  "readingTime": 6,
+  "updatedAt": "2026-05-01T19:19:34.489Z",
+  "image": {
+    "src": "/images/articles/what-is-bull-market.jpg",
+    "alt": "Detailed view of a cryptocurrency trading chart on a computer screen, showing market trends and price movements.",
+    "credit": "AlphaTradeZone / Pexels",
+    "creditUrl": "https://www.pexels.com/photo/computer-screen-displaying-a-graph-5831266/"
+  }
+}

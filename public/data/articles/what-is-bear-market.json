@@ -1,0 +1,62 @@
+{
+  "id": "what-is-bear-market",
+  "type": "glossary",
+  "title": "What Is Bear Market? Definition, Formula & Examples",
+  "slug": "what-is-bear-market",
+  "date": "2026-05-01",
+  "displayDate": "May 1, 2026",
+  "author": "Sigma Capital",
+  "category": "Education",
+  "tags": [
+    "bear market",
+    "financial terms",
+    "investing basics",
+    "bear market definition",
+    "stock market terminology"
+  ],
+  "metaDescription": "What is Bear Market? Learn the definition, formula, and real-world examples of Bear Market. Our comprehensive guide explains how Bear Market works and why it matters for investors.",
+  "excerpt": "A bear market occurs when an asset or index falls 20% or more from its recent peak, typically accompanied by widespread pessimism, declining corporate earnings, and economic contraction. Bear markets ...",
+  "content": {
+    "definition": "A bear market occurs when an asset or index falls 20% or more from its recent peak, typically accompanied by widespread pessimism, declining corporate earnings, and economic contraction. Bear markets are a normal part of market cycles, occurring roughly every 5-7 years on average. While painful, they historically present excellent buying opportunities for long-term investors, as markets have always eventually recovered and reached new highs.",
+    "formula": "Bear Market Threshold = Most Recent Peak × 0.80 (a 20% decline confirms a bear market)",
+    "example": "In 2022, the S&P 500 peaked at 4,797 in January and fell to 3,577 by October — a decline of 25.4%, officially entering bear market territory. Investors who stayed the course saw the market recover fully within 18 months.",
+    "types": "Secular bear markets are prolonged (10+ years) with fundamentally weak economics. Cyclical bear markets last months to 1-2 years within broader uptrends. A \"correction\" is a 10-20% decline — less severe but more common, occurring about once per year on average.",
+    "whyItMatters": "Understanding Bear Market is essential for making informed investment decisions. Whether you are evaluating individual stocks, planning your portfolio allocation, or comparing investment options, Bear Market provides a quantitative framework that removes guesswork and helps you assess value objectively. Professional investors, analysts, and financial advisors all rely on Bear Market as a core metric in their decision-making process.",
+    "relatedTerms": [
+      {
+        "term": "P/E Ratio",
+        "slug": "what-is-p-e-ratio"
+      },
+      {
+        "term": "Market Cap",
+        "slug": "what-is-market-cap"
+      },
+      {
+        "term": "Dividend Yield",
+        "slug": "what-is-dividend-yield"
+      },
+      {
+        "term": "Dollar-Cost Averaging",
+        "slug": "what-is-dollar-cost-averaging"
+      }
+    ],
+    "relatedTools": [
+      {
+        "name": "Stock Screener",
+        "path": "/screener"
+      },
+      {
+        "name": "Compound Interest Calculator",
+        "path": "/tools/compound"
+      }
+    ]
+  },
+  "readingTime": 6,
+  "updatedAt": "2026-05-01T19:19:19.208Z",
+  "image": {
+    "src": "/images/articles/what-is-bear-market.jpg",
+    "alt": "Detailed view of a cryptocurrency trading chart on a computer screen, showing market trends and price movements.",
+    "credit": "AlphaTradeZone / Pexels",
+    "creditUrl": "https://www.pexels.com/photo/computer-screen-displaying-a-graph-5831266/"
+  }
+}

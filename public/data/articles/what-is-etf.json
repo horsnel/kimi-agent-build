@@ -1,0 +1,62 @@
+{
+  "id": "what-is-etf",
+  "type": "glossary",
+  "title": "What Is Exchange-Traded Fund? Definition, Formula & Examples",
+  "slug": "what-is-etf",
+  "date": "2026-05-01",
+  "displayDate": "May 1, 2026",
+  "author": "Sigma Capital",
+  "category": "Education",
+  "tags": [
+    "etf",
+    "financial terms",
+    "investing basics",
+    "etf definition",
+    "stock market terminology"
+  ],
+  "metaDescription": "What is Exchange-Traded Fund? Learn the definition, formula, and real-world examples of ETF. Our comprehensive guide explains how ETF works and why it matters for investors.",
+  "excerpt": "An ETF is a pooled investment vehicle that holds a basket of securities — such as stocks, bonds, or commodities — and trades on a stock exchange like a single stock. ETFs offer instant diversification...",
+  "content": {
+    "definition": "An ETF is a pooled investment vehicle that holds a basket of securities — such as stocks, bonds, or commodities — and trades on a stock exchange like a single stock. ETFs offer instant diversification, low expense ratios (often 0.03-0.20%), tax efficiency, and intraday liquidity. They have revolutionized investing by making professional-grade diversification accessible to everyone with as little as $1 through fractional shares.",
+    "formula": "ETF Price = Net Asset Value (NAV) of Underlying Holdings / Shares Outstanding",
+    "example": "SPY (SPDR S&P 500 ETF) holds all 500 stocks in the S&P 500 index. Buying one share gives you proportional exposure to all 500 companies. If the S&P 500 rises 10%, SPY rises approximately 10% minus its tiny 0.09% expense ratio.",
+    "types": "Broad-market ETFs (VTI, SPY) cover entire markets. Sector ETFs (XLK, XLF) target specific industries. Bond ETFs (BND, AGG) provide fixed-income exposure. Commodity ETFs (GLD, SLV) track physical commodities. International ETFs (VXUS, EFA) offer global diversification.",
+    "whyItMatters": "Understanding ETF is essential for making informed investment decisions. Whether you are evaluating individual stocks, planning your portfolio allocation, or comparing investment options, ETF provides a quantitative framework that removes guesswork and helps you assess value objectively. Professional investors, analysts, and financial advisors all rely on ETF as a core metric in their decision-making process.",
+    "relatedTerms": [
+      {
+        "term": "P/E Ratio",
+        "slug": "what-is-p-e-ratio"
+      },
+      {
+        "term": "Market Cap",
+        "slug": "what-is-market-cap"
+      },
+      {
+        "term": "Dividend Yield",
+        "slug": "what-is-dividend-yield"
+      },
+      {
+        "term": "Dollar-Cost Averaging",
+        "slug": "what-is-dollar-cost-averaging"
+      }
+    ],
+    "relatedTools": [
+      {
+        "name": "Stock Screener",
+        "path": "/screener"
+      },
+      {
+        "name": "Compound Interest Calculator",
+        "path": "/tools/compound"
+      }
+    ]
+  },
+  "readingTime": 6,
+  "updatedAt": "2026-05-01T19:19:37.573Z",
+  "image": {
+    "src": "/images/articles/what-is-etf.jpg",
+    "alt": "Wooden tiles spelling ETF growth on a wooden surface, symbolizing investment strategy.",
+    "credit": "Markus Winkler / Pexels",
+    "creditUrl": "https://www.pexels.com/photo/the-word-eft-growth-written-on-wooden-blocks-19856572/"
+  }
+}

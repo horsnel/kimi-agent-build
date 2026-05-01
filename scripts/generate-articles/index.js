@@ -191,9 +191,25 @@ async function fetchMarketData() {
   try {
     const indicesPath = path.join(DATA_DIR, 'indices.json');
     if (fs.existsSync(indicesPath)) {
-      return JSON.parse(fs.readFileSync(indicesPath, 'utf8'));
+      const raw = JSON.parse(fs.readFileSync(indicesPath, 'utf8'));
+      // indices.json is an array of { name, value, changePercent, ... }
+      if (Array.isArray(raw)) {
+        const find = (name) => raw.find(i => i.name && i.name.toLowerCase().includes(name.toLowerCase()));
+        const sp500 = find('s&p') || find('sp 500') || raw[0];
+        const nasdaq = find('nasdaq') || raw[1];
+        const dow = find('dow') || find('dow jones') || raw[2];
+        return {
+          sp500: { value: parseFloat(String(sp500?.value || '5412.8').replace(/,/g, '')), change: sp500?.changePercent || 0.22, name: sp500?.name || 'S&P 500' },
+          nasdaq: { value: parseFloat(String(nasdaq?.value || '16985.4').replace(/,/g, '')), change: nasdaq?.changePercent || 0.75, name: nasdaq?.name || 'NASDAQ' },
+          dow: { value: parseFloat(String(dow?.value || '39482.3').replace(/,/g, '')), change: dow?.changePercent || -0.34, name: dow?.name || 'Dow Jones' },
+          tenYearYield: { value: 4.08, change: -0.12, name: '10Y Treasury' },
+          vix: { value: 14.32, change: -5.2, name: 'VIX' },
+          btc: { value: 101243, change: 4.7, name: 'Bitcoin' },
+        };
+      }
+      return raw; // Already in object format
     }
-  } catch (e) { /* fallback to defaults */ }
+  } catch (e) { console.log('  ⚠ Could not parse indices.json, using defaults'); }
   
   // Default market data
   return {
@@ -256,13 +272,8 @@ async function serpiSearch(query) {
 
 // ── Article Generators ───────────────────────────────────────────────────────
 
-// AUTHORS rotation
-const AUTHORS = [
-  'Sarah Chen', 'Michael Torres', 'Emily Watson', 'David Kim',
-  'Alex Rivera', 'Jennifer Park', 'Robert Chen', 'Layla Hassan',
-  'Maria Santos', 'Hans Mueller', 'Priya Sharma', 'James O\'Brien',
-];
-function randomAuthor() { return AUTHORS[Math.floor(Math.random() * AUTHORS.length)]; }
+// All articles published under Sigma Capital brand
+const AUTHOR = 'Sigma Capital';
 
 // ── MARKET WRAP ──────────────────────────────────────────────────────────────
 async function generateMarketWrap() {
@@ -285,7 +296,7 @@ async function generateMarketWrap() {
     slug,
     date: dateStr,
     displayDate,
-    author: 'Market Desk',
+    author: AUTHOR,
     category: 'Market Analysis',
     tags: ['stock market', 'S&P 500', 'market recap', 'market performance', 'daily market wrap'],
     metaDescription: `Complete stock market recap for ${displayDate}. S&P 500 ${spUp ? 'gained' : 'lost'} ${Math.abs(market.sp500.change).toFixed(2)}%, closing at ${market.sp500.value.toLocaleString()}. Get the full market wrap with key movers and analysis.`,
@@ -368,7 +379,7 @@ async function generateSectorAnalysis() {
     slug,
     date: dateStr,
     displayDate,
-    author: randomAuthor(),
+    author: AUTHOR,
     category: 'Market Analysis',
     tags: [`${sector.name.toLowerCase()} stocks`, 'sector analysis', 'sector rotation', 'stock sectors', sector.leaders.map(s => s.toLowerCase()).join(' ')],
     metaDescription: `${sector.name} sector analysis for ${displayDate}. The sector is ${up ? 'up' : 'down'} ${Math.abs(sector.change).toFixed(1)}% with leaders including ${sector.leaders.join(', ')}. Get the full investment thesis, risks, and outlook.`,
@@ -468,7 +479,7 @@ async function generateHowTo() {
     slug,
     date: dateStr,
     displayDate: formatDisplayDate(today),
-    author: randomAuthor(),
+    author: AUTHOR,
     category: 'Education',
     tags: topic.keywords.split(', '),
     metaDescription: `${topic.title}. Learn ${topic.keywords.split(',')[0]} with our step-by-step guide. Includes formulas, examples, and free calculators to help you make better financial decisions.`,
@@ -574,7 +585,7 @@ async function generateGlossary() {
     slug,
     date: dateStr,
     displayDate: formatDisplayDate(today),
-    author: 'Research Desk',
+    author: AUTHOR,
     category: 'Education',
     tags: [term.term.toLowerCase(), 'financial terms', 'investing basics', `${term.term.toLowerCase()} definition`, 'stock market terminology'],
     metaDescription: `What is ${term.full || term.term}? Learn the definition, formula, and real-world examples of ${term.term}. Our comprehensive guide explains how ${term.term} works and why it matters for investors.`,
@@ -667,7 +678,7 @@ async function generateListicle() {
     slug,
     date: dateStr,
     displayDate: formatDisplayDate(today),
-    author: randomAuthor(),
+    author: AUTHOR,
     category: 'Education',
     tags: template.keywords.split(', '),
     metaDescription: `${title}. Our expert analysis covers the top picks with detailed reasoning, key metrics, and actionable insights for investors at every level.`,
@@ -738,7 +749,7 @@ async function generateComparison() {
     slug,
     date: dateStr,
     displayDate: formatDisplayDate(today),
-    author: randomAuthor(),
+    author: AUTHOR,
     category: 'Education',
     tags: topic.keywords.split(', '),
     metaDescription: `${title}. We compare ${topic.left.name} vs ${topic.right.name} across key factors including costs, tax implications, and suitability to help you make the right choice.`,
