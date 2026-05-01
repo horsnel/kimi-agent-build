@@ -1,25 +1,25 @@
 {
-  "lastUpdated": "2026-05-01T15:36:04Z",
+  "lastUpdated": "2026-05-01T16:35:52Z",
   "scrapers": {
     "indices": {
       "status": "success",
-      "timestamp": "2026-05-01T15:35:53Z",
-      "duration": "68.6s"
+      "timestamp": "2026-05-01T16:35:40Z",
+      "duration": "66.1s"
     },
     "crypto": {
       "status": "success",
-      "timestamp": "2026-05-01T15:36:02Z",
-      "duration": "9.2s"
+      "timestamp": "2026-05-01T16:35:50Z",
+      "duration": "9.6s"
     },
     "fear_greed": {
       "status": "success",
-      "timestamp": "2026-05-01T15:36:04Z",
-      "duration": "1.9s"
+      "timestamp": "2026-05-01T16:35:52Z",
+      "duration": "1.7s"
     },
     "crypto_fear_greed": {
       "status": "success",
-      "timestamp": "2026-05-01T15:36:04Z",
-      "duration": "0.3s"
+      "timestamp": "2026-05-01T16:35:52Z",
+      "duration": "0.1s"
     }
   },
   "status": "success",
