@@ -65,6 +65,9 @@ jobs:
       - name: 📦 Install dependencies
         run: npm ci
 
+      - name: ✅ Verify build tools
+        run: npx vite --version
+
       # ── STEP 1: Fetch real data ────────────────────────────────────────────
       - name: 📡 Fetch real-time data (news + market)
         env:
