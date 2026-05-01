@@ -3,6 +3,24 @@ import { useParams, useLocation, Link } from 'react-router';
 import { ArrowLeftIcon, ClockIcon, ShareIcon, BookmarkIcon } from '../components/CustomIcons';
 import { fetchNews, type NewsArticle as ApiNewsArticle } from '../services/api';
 
+/* ── Generated article types ── */
+interface GeneratedArticle {
+  id: string;
+  type: string;
+  title: string;
+  slug: string;
+  date: string;
+  displayDate: string;
+  author: string;
+  category: string;
+  tags: string[];
+  metaDescription: string;
+  excerpt: string;
+  content: Record<string, unknown>;
+  readingTime: number;
+  image: { src: string; alt: string; credit?: string; creditUrl?: string };
+}
+
 /* ── Research article data (mirrors Research.tsx) ── */
 interface ResearchArticle {
   id: number;
@@ -431,7 +449,16 @@ function CategoryBadge({ category, type }: { category: string; type: string }) {
     'Editorial': 'bg-emerald/20 text-emerald border-emerald/30',
   };
 
-  const styles = type === 'news' ? newsStyles : type === 'research' ? researchStyles : type === 'education' ? eduStyles : homeStyles;
+  const generatedStyles: Record<string, string> = {
+    'Market Analysis': 'bg-emerald/20 text-emerald border-emerald/30',
+    'Education': 'bg-rose-500/20 text-rose-400 border-rose-500/30',
+    'Economic Data': 'bg-amber-500/20 text-amber-400 border-amber-500/30',
+    'Earnings': 'bg-chartblue/20 text-chartblue border-chartblue/30',
+    'Fed Policy': 'bg-purple-500/20 text-purple-400 border-purple-500/30',
+    'Crypto': 'bg-cyan-500/20 text-cyan-400 border-cyan-500/30',
+  };
+
+  const styles = type === 'news' ? newsStyles : type === 'research' ? researchStyles : type === 'education' ? eduStyles : type === 'generated' ? generatedStyles : homeStyles;
   return (
     <span className={`inline-flex items-center px-2 py-0.5 text-xs font-mono rounded border ${styles[category] || 'bg-slategray/20 text-slategray border-slategray/30'}`}>
       {category}
@@ -439,19 +466,373 @@ function CategoryBadge({ category, type }: { category: string; type: string }) {
   );
 }
 
+/* ── Rich content renderer for generated articles ── */
+function GeneratedArticleContent({ article }: { article: GeneratedArticle }) {
+  const c = article.content;
+
+  // Market Wrap type
+  if (article.type === 'market-wrap') {
+    const intro = (c.introduction as string) || '';
+    const indices = (c.keyIndices as { name: string; value: string; change: string; up: boolean }[]) || [];
+    const drivers = (c.marketDrivers as string[]) || [];
+    const outlook = (c.outlook as string) || '';
+    return (
+      <div className="space-y-8">
+        <p className="text-offwhite/90 leading-relaxed text-base md:text-lg">{intro}</p>
+        {indices.length > 0 && (
+          <div>
+            <h2 className="text-xl font-display font-light text-offwhite mb-4">Key Market Indices</h2>
+            <div className="grid grid-cols-2 md:grid-cols-3 gap-3">
+              {indices.map((idx) => (
+                <div key={idx.name} className="bg-charcoal border border-subtleborder rounded-lg p-3">
+                  <p className="text-xs font-mono text-slategray">{idx.name}</p>
+                  <p className="text-sm font-mono text-offwhite">{idx.value}</p>
+                  <p className={`text-xs font-mono ${idx.up ? 'text-emerald' : 'text-crimson'}`}>
+                    {idx.change}
+                  </p>
+                </div>
+              ))}
+            </div>
+          </div>
+        )}
+        {drivers.length > 0 && (
+          <div>
+            <h2 className="text-xl font-display font-light text-offwhite mb-4">Market Drivers</h2>
+            <ul className="space-y-2">
+              {drivers.map((d, i) => (
+                <li key={i} className="flex items-start gap-2 text-offwhite/90 text-base">
+                  <span className="text-emerald mt-1.5 flex-shrink-0">&#9654;</span>
+                  {d}
+                </li>
+              ))}
+            </ul>
+          </div>
+        )}
+        {outlook && (
+          <div className="border-l-2 border-emerald/40 pl-4">
+            <h2 className="text-xl font-display font-light text-offwhite mb-2">Outlook</h2>
+            <p className="text-offwhite/90 leading-relaxed text-base">{outlook}</p>
+          </div>
+        )}
+      </div>
+    );
+  }
+
+  // Glossary type
+  if (article.type === 'glossary') {
+    const definition = (c.definition as string) || '';
+    const formula = (c.formula as string) || '';
+    const example = (c.example as string) || '';
+    const types = (c.types as string) || '';
+    const whyItMatters = (c.whyItMatters as string) || '';
+    const relatedTerms = (c.relatedTerms as { term: string; slug: string }[]) || [];
+    const relatedTools = (c.relatedTools as { name: string; path: string }[]) || [];
+    return (
+      <div className="space-y-8">
+        <div className="bg-charcoal border border-emerald/30 rounded-xl p-6">
+          <h2 className="text-xs font-mono text-emerald mb-2 uppercase tracking-wider">Definition</h2>
+          <p className="text-offwhite leading-relaxed text-base md:text-lg">{definition}</p>
+        </div>
+        {formula && (
+          <div className="bg-charcoal border border-subtleborder rounded-xl p-6">
+            <h2 className="text-xs font-mono text-chartblue mb-2 uppercase tracking-wider">Formula</h2>
+            <p className="font-mono text-offwhite text-base">{formula}</p>
+          </div>
+        )}
+        {example && (
+          <div>
+            <h2 className="text-xl font-display font-light text-offwhite mb-3">Example</h2>
+            <p className="text-offwhite/90 leading-relaxed text-base">{example}</p>
+          </div>
+        )}
+        {types && (
+          <div>
+            <h2 className="text-xl font-display font-light text-offwhite mb-3">Types & Variations</h2>
+            <p className="text-offwhite/90 leading-relaxed text-base">{types}</p>
+          </div>
+        )}
+        {whyItMatters && (
+          <div className="border-l-2 border-emerald/40 pl-4">
+            <h2 className="text-xl font-display font-light text-offwhite mb-2">Why It Matters</h2>
+            <p className="text-offwhite/90 leading-relaxed text-base">{whyItMatters}</p>
+          </div>
+        )}
+        {relatedTerms.length > 0 && (
+          <div>
+            <h2 className="text-xl font-display font-light text-offwhite mb-3">Related Terms</h2>
+            <div className="flex flex-wrap gap-2">
+              {relatedTerms.map((rt) => (
+                <Link
+                  key={rt.slug}
+                  to={`/news/article/${rt.slug}`}
+                  className="px-3 py-1.5 text-xs font-mono bg-charcoal border border-subtleborder rounded-lg text-slategray hover:text-emerald hover:border-emerald/40 transition-colors"
+                >
+                  {rt.term}
+                </Link>
+              ))}
+            </div>
+          </div>
+        )}
+        {relatedTools.length > 0 && (
+          <div>
+            <h2 className="text-xl font-display font-light text-offwhite mb-3">Related Tools</h2>
+            <div className="flex flex-wrap gap-2">
+              {relatedTools.map((tool) => (
+                <Link
+                  key={tool.path}
+                  to={tool.path}
+                  className="px-3 py-1.5 text-xs font-mono bg-emerald/10 border border-emerald/30 rounded-lg text-emerald hover:bg-emerald/20 transition-colors"
+                >
+                  {tool.name}
+                </Link>
+              ))}
+            </div>
+          </div>
+        )}
+      </div>
+    );
+  }
+
+  // Listicle type
+  if (article.type === 'listicle') {
+    const intro = (c.introduction as string) || '';
+    const items = (c.items as { name: string; detail: string }[]) || [];
+    const disclaimer = (c.disclaimer as string) || '';
+    return (
+      <div className="space-y-8">
+        <p className="text-offwhite/90 leading-relaxed text-base md:text-lg">{intro}</p>
+        {items.map((item, i) => (
+          <div key={i} className="bg-charcoal border border-subtleborder rounded-xl p-5 md:p-6">
+            <div className="flex items-center gap-3 mb-3">
+              <span className="flex items-center justify-center w-8 h-8 rounded-full bg-emerald/20 text-emerald text-sm font-mono font-bold flex-shrink-0">
+                {i + 1}
+              </span>
+              <h3 className="text-lg font-display font-medium text-offwhite">{item.name}</h3>
+            </div>
+            <p className="text-offwhite/80 leading-relaxed text-base pl-11">{item.detail}</p>
+          </div>
+        ))}
+        {disclaimer && (
+          <p className="text-sm text-slategray italic border-t border-subtleborder pt-4">{disclaimer}</p>
+        )}
+      </div>
+    );
+  }
+
+  // Comparison type
+  if (article.type === 'comparison') {
+    const intro = (c.introduction as string) || '';
+    const leftSide = (c.leftSide as { name: string; points: string[] }) || { name: '', points: [] };
+    const rightSide = (c.rightSide as { name: string; points: string[] }) || { name: '', points: [] };
+    const verdict = (c.verdict as string) || '';
+    const relatedTools = (c.relatedTools as { name: string; path: string }[]) || [];
+    return (
+      <div className="space-y-8">
+        <p className="text-offwhite/90 leading-relaxed text-base md:text-lg">{intro}</p>
+        <div className="grid md:grid-cols-2 gap-4">
+          <div className="bg-charcoal border border-emerald/30 rounded-xl p-5">
+            <h3 className="text-lg font-display font-medium text-emerald mb-4">{leftSide.name}</h3>
+            <ul className="space-y-3">
+              {leftSide.points.map((p, i) => (
+                <li key={i} className="flex items-start gap-2 text-offwhite/90 text-sm">
+                  <span className="text-emerald mt-0.5 flex-shrink-0">&#10003;</span>
+                  {p}
+                </li>
+              ))}
+            </ul>
+          </div>
+          <div className="bg-charcoal border border-chartblue/30 rounded-xl p-5">
+            <h3 className="text-lg font-display font-medium text-chartblue mb-4">{rightSide.name}</h3>
+            <ul className="space-y-3">
+              {rightSide.points.map((p, i) => (
+                <li key={i} className="flex items-start gap-2 text-offwhite/90 text-sm">
+                  <span className="text-chartblue mt-0.5 flex-shrink-0">&#10003;</span>
+                  {p}
+                </li>
+              ))}
+            </ul>
+          </div>
+        </div>
+        {verdict && (
+          <div className="bg-charcoal border border-emerald/40 rounded-xl p-6">
+            <h2 className="text-xs font-mono text-emerald mb-2 uppercase tracking-wider">The Verdict</h2>
+            <p className="text-offwhite/90 leading-relaxed text-base">{verdict}</p>
+          </div>
+        )}
+        {relatedTools.length > 0 && (
+          <div>
+            <h2 className="text-xl font-display font-light text-offwhite mb-3">Related Tools</h2>
+            <div className="flex flex-wrap gap-2">
+              {relatedTools.map((tool) => (
+                <Link
+                  key={tool.path}
+                  to={tool.path}
+                  className="px-3 py-1.5 text-xs font-mono bg-emerald/10 border border-emerald/30 rounded-lg text-emerald hover:bg-emerald/20 transition-colors"
+                >
+                  {tool.name}
+                </Link>
+              ))}
+            </div>
+          </div>
+        )}
+      </div>
+    );
+  }
+
+  // How-To type
+  if (article.type === 'how-to') {
+    const intro = (c.introduction as string) || '';
+    const steps = (c.steps as { heading: string; body: string }[]) || [];
+    const keyTakeaways = (c.keyTakeaways as string[]) || [];
+    const relatedTools = (c.relatedTools as { name: string; path: string }[]) || [];
+    return (
+      <div className="space-y-8">
+        <p className="text-offwhite/90 leading-relaxed text-base md:text-lg">{intro}</p>
+        {steps.map((step, i) => (
+          <div key={i} className="border-l-2 border-emerald/40 pl-5">
+            <div className="flex items-center gap-2 mb-2">
+              <span className="text-xs font-mono text-emerald bg-emerald/10 px-2 py-0.5 rounded">Step {i + 1}</span>
+              <h3 className="text-lg font-display font-medium text-offwhite">{step.heading}</h3>
+            </div>
+            <p className="text-offwhite/80 leading-relaxed text-base">{step.body}</p>
+          </div>
+        ))}
+        {keyTakeaways.length > 0 && (
+          <div className="bg-charcoal border border-emerald/30 rounded-xl p-6">
+            <h2 className="text-xs font-mono text-emerald mb-3 uppercase tracking-wider">Key Takeaways</h2>
+            <ul className="space-y-2">
+              {keyTakeaways.map((t, i) => (
+                <li key={i} className="flex items-start gap-2 text-offwhite/90 text-sm">
+                  <span className="text-emerald mt-0.5 flex-shrink-0">&#10003;</span>
+                  {t}
+                </li>
+              ))}
+            </ul>
+          </div>
+        )}
+        {relatedTools.length > 0 && (
+          <div>
+            <h2 className="text-xl font-display font-light text-offwhite mb-3">Try It Yourself</h2>
+            <div className="flex flex-wrap gap-2">
+              {relatedTools.map((tool) => (
+                <Link
+                  key={tool.path}
+                  to={tool.path}
+                  className="px-3 py-1.5 text-xs font-mono bg-emerald/10 border border-emerald/30 rounded-lg text-emerald hover:bg-emerald/20 transition-colors"
+                >
+                  {tool.name}
+                </Link>
+              ))}
+            </div>
+          </div>
+        )}
+      </div>
+    );
+  }
+
+  // Sector type
+  if (article.type === 'sector') {
+    const intro = (c.introduction as string) || '';
+    const thesis = (c.investmentThesis as string) || '';
+    const keyStocks = (c.keyStocks as { ticker: string; name: string; commentary: string }[]) || [];
+    const risks = (c.risks as string) || '';
+    const outlook = (c.outlook as string) || '';
+    return (
+      <div className="space-y-8">
+        <p className="text-offwhite/90 leading-relaxed text-base md:text-lg">{intro}</p>
+        {thesis && (
+          <div className="bg-charcoal border border-emerald/30 rounded-xl p-6">
+            <h2 className="text-xs font-mono text-emerald mb-2 uppercase tracking-wider">Investment Thesis</h2>
+            <p className="text-offwhite/90 leading-relaxed text-base">{thesis}</p>
+          </div>
+        )}
+        {keyStocks.length > 0 && (
+          <div>
+            <h2 className="text-xl font-display font-light text-offwhite mb-4">Key Stocks</h2>
+            <div className="space-y-3">
+              {keyStocks.map((stock) => (
+                <Link
+                  key={stock.ticker}
+                  to={`/stocks/${stock.ticker}`}
+                  className="block bg-charcoal border border-subtleborder rounded-xl p-4 hover:border-emerald/50 transition-colors group"
+                >
+                  <div className="flex items-center gap-3 mb-1">
+                    <span className="text-sm font-mono font-bold text-emerald">{stock.ticker}</span>
+                    <span className="text-sm text-slategray">{stock.name}</span>
+                    <span className="ml-auto text-emerald opacity-0 group-hover:opacity-100 transition-opacity text-xs">&#8594;</span>
+                  </div>
+                  <p className="text-offwhite/80 text-sm leading-relaxed">{stock.commentary}</p>
+                </Link>
+              ))}
+            </div>
+          </div>
+        )}
+        {risks && (
+          <div className="bg-charcoal border border-crimson/30 rounded-xl p-6">
+            <h2 className="text-xs font-mono text-crimson mb-2 uppercase tracking-wider">Risks</h2>
+            <p className="text-offwhite/90 leading-relaxed text-base">{risks}</p>
+          </div>
+        )}
+        {outlook && (
+          <div className="border-l-2 border-emerald/40 pl-4">
+            <h2 className="text-xl font-display font-light text-offwhite mb-2">Outlook</h2>
+            <p className="text-offwhite/90 leading-relaxed text-base">{outlook}</p>
+          </div>
+        )}
+      </div>
+    );
+  }
+
+  // Fallback: render content fields as paragraphs
+  return (
+    <div className="space-y-4">
+      {Object.entries(c).map(([key, value]) => {
+        if (typeof value === 'string' && value.length > 0) {
+          return (
+            <div key={key}>
+              <h2 className="text-lg font-display font-light text-offwhite mb-2 capitalize">{key.replace(/([A-Z])/g, ' $1')}</h2>
+              <p className="text-offwhite/90 leading-relaxed text-base">{value}</p>
+            </div>
+          );
+        }
+        return null;
+      })}
+    </div>
+  );
+}
+
 export default function ArticleDetail() {
-  const { id } = useParams<{ id: string }>();
+  const { id } = useParams<{ id: string; slug: string }>();
   const location = useLocation();
+  // Detect generated article route: /news/article/:slug
+  const pathParts = location.pathname.split('/').filter(Boolean);
+  const isGeneratedArticle = pathParts.length >= 3 && pathParts[0] === 'news' && pathParts[1] === 'article';
+  const articleSlug = isGeneratedArticle ? pathParts[2] : null;
   // Extract type from URL path (e.g. /editorial/0 → 'editorial', /news/5 → 'news')
-  const type = location.pathname.split('/')[1] || '';
+  const type = isGeneratedArticle ? 'generated' : (pathParts[0] || '');
   
   const [newsArticles, setNewsArticles] = useState<ApiNewsArticle[]>([]);
+  const [generatedArticle, setGeneratedArticle] = useState<GeneratedArticle | null>(null);
   const [loading, setLoading] = useState(true);
   const [bookmarked, setBookmarked] = useState(false);
   const [shareToast, setShareToast] = useState(false);
 
   useEffect(() => {
-    if (type === 'news') {
+    if (isGeneratedArticle && articleSlug) {
+      fetch(`/data/articles/${articleSlug}.json`)
+        .then((res) => {
+          if (!res.ok) throw new Error('Not found');
+          return res.json();
+        })
+        .then((data: GeneratedArticle) => {
+          setGeneratedArticle(data);
+          setLoading(false);
+        })
+        .catch(() => {
+          setGeneratedArticle(null);
+          setLoading(false);
+        });
+    } else if (type === 'news') {
       fetchNews().then((data) => {
         setNewsArticles(data);
         setLoading(false);
@@ -459,7 +840,22 @@ export default function ArticleDetail() {
     } else {
       setLoading(false);
     }
-  }, [type]);
+  }, [isGeneratedArticle, articleSlug, type]);
+
+  // SEO: set document title and meta description
+  useEffect(() => {
+    if (generatedArticle) {
+      document.title = `${generatedArticle.title} — Sigma Capital`;
+      const metaDesc = document.querySelector('meta[name="description"]');
+      if (metaDesc) metaDesc.setAttribute('content', generatedArticle.metaDescription);
+      else {
+        const meta = document.createElement('meta');
+        meta.name = 'description';
+        meta.content = generatedArticle.metaDescription;
+        document.head.appendChild(meta);
+      }
+    }
+  }, [generatedArticle]);
 
   const articleId = parseInt(id || '0', 10);
 
@@ -472,10 +868,20 @@ export default function ArticleDetail() {
   let category = '';
   let image = '';
   let readTime = '';
-  let backLink = '/';
-  let backLabel = 'Back';
+  let backLink = '/news';
+  let backLabel = 'Insights & Guides';
 
-  if (type === 'news') {
+  // Generated article
+  if (isGeneratedArticle && generatedArticle) {
+    title = generatedArticle.title;
+    excerpt = generatedArticle.excerpt;
+    content = [];
+    date = generatedArticle.displayDate;
+    author = generatedArticle.author;
+    category = generatedArticle.category;
+    image = generatedArticle.image.src;
+    readTime = `${generatedArticle.readingTime} min`;
+  } else if (type === 'news') {
     const article = newsArticles[articleId];
     if (article) {
       title = article.headline;
@@ -626,6 +1032,16 @@ export default function ArticleDetail() {
             </button>
           </div>
         </div>
+        {/* Tags for generated articles */}
+        {isGeneratedArticle && generatedArticle && generatedArticle.tags.length > 0 && (
+          <div className="flex flex-wrap gap-2 mt-4">
+            {generatedArticle.tags.map((tag) => (
+              <span key={tag} className="px-2 py-0.5 text-xs font-mono bg-charcoal border border-subtleborder rounded text-slategray">
+                {tag}
+              </span>
+            ))}
+          </div>
+        )}
       </div>
 
       {/* Hero Image */}
@@ -637,12 +1053,23 @@ export default function ArticleDetail() {
 
       {/* Article Content */}
       <article className="prose-custom">
-        {content.map((paragraph, idx) => (
-          <p key={idx} className="text-offwhite/90 leading-relaxed mb-6 text-base md:text-lg">
-            {paragraph}
-          </p>
-        ))}
+        {isGeneratedArticle && generatedArticle ? (
+          <GeneratedArticleContent article={generatedArticle} />
+        ) : (
+          content.map((paragraph, idx) => (
+            <p key={idx} className="text-offwhite/90 leading-relaxed mb-6 text-base md:text-lg">
+              {paragraph}
+            </p>
+          ))
+        )}
       </article>
+
+      {/* Image Credit */}
+      {isGeneratedArticle && generatedArticle?.image?.credit && (
+        <p className="text-xs text-slategray mt-4">
+          Photo: <a href={generatedArticle.image.creditUrl} target="_blank" rel="noopener noreferrer" className="hover:text-emerald transition-colors">{generatedArticle.image.credit}</a>
+        </p>
+      )}
 
       {/* Bottom Navigation */}
       <div className="mt-16 pt-8 border-t border-subtleborder flex items-center justify-between">

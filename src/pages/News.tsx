@@ -132,6 +132,7 @@ function CategoryBadge({ category }: { category: string }) {
     'Earnings': 'bg-chartblue/20 text-chartblue border-chartblue/30',
     'Fed Policy': 'bg-purple-500/20 text-purple-400 border-purple-500/30',
     'Crypto': 'bg-cyan-500/20 text-cyan-400 border-cyan-500/30',
+    'Education': 'bg-rose-500/20 text-rose-400 border-rose-500/30',
   };
   return (
     <span className={`inline-flex items-center px-2 py-0.5 text-xs font-mono rounded border ${styles[category] || 'bg-slategray/20 text-slategray border-slategray/30'}`}>
@@ -140,13 +141,43 @@ function CategoryBadge({ category }: { category: string }) {
   );
 }
 
+/* ── Generated article types ── */
+interface GeneratedArticleSummary {
+  id: string;
+  type: string;
+  title: string;
+  slug: string;
+  date: string;
+  displayDate: string;
+  author: string;
+  category: string;
+  tags: string[];
+  metaDescription: string;
+  excerpt: string;
+  image: { src: string; alt: string };
+  readingTime: number;
+}
+
+type InsightsTab = 'All' | 'Market Analysis' | 'Education';
+const insightsTabs: InsightsTab[] = ['All', 'Market Analysis', 'Education'];
+
 export default function News() {
   const { formatLocalShort } = useGeoCurrency();
   const [newsArticles, setNewsArticles] = useState<NewsArticle[]>(fallbackNewsArticles);
   const [marketCharts, setMarketCharts] = useState(fallbackMarketCharts);
   const [loading, setLoading] = useState(true);
   const [activeCategory, setActiveCategory] = useState<NewsCategory>('All');
+  const [generatedArticles, setGeneratedArticles] = useState<GeneratedArticleSummary[]>([]);
+  const [activeInsightsTab, setActiveInsightsTab] = useState<InsightsTab>('All');
   const sectionRef = useRef<HTMLDivElement>(null);
+
+  // Fetch generated articles from JSON
+  useEffect(() => {
+    fetch('/data/articles/index.json')
+      .then((res) => res.json())
+      .then((data: GeneratedArticleSummary[]) => setGeneratedArticles(data))
+      .catch(() => {/* silently fail — section simply won't render */});
+  }, []);
 
   useEffect(() => {
     async function loadData() {
@@ -334,7 +365,7 @@ export default function News() {
       </section>
 
       {/* Market in 5 Charts */}
-      <section className="news-section max-w-7xl mx-auto px-6 pb-24">
+      <section className="news-section max-w-7xl mx-auto px-6 pb-12">
         <div className="flex items-center gap-3 mb-6">
           <h2 className="text-2xl font-display font-light text-offwhite">Market in 5 Charts</h2>
           {loading && <span className="w-2 h-2 bg-emerald rounded-full animate-pulse" />}
@@ -370,6 +401,77 @@ export default function News() {
           ))}
         </div>
       </section>
+
+      {/* Insights & Guides */}
+      {generatedArticles.length > 0 && (
+        <section className="news-section max-w-7xl mx-auto px-6 pb-24">
+          <h2 className="text-2xl font-display font-light text-offwhite mb-6">Insights & Guides</h2>
+
+          {/* Insights tabs */}
+          <div className="flex flex-wrap gap-2 mb-6">
+            {insightsTabs.map((tab) => (
+              <button
+                key={tab}
+                onClick={() => setActiveInsightsTab(tab)}
+                className={`px-4 py-2 text-xs font-mono rounded-lg border transition-colors ${
+                  activeInsightsTab === tab
+                    ? 'bg-emerald text-obsidian border-emerald'
+                    : 'bg-charcoal border-subtleborder text-slategray hover:text-offwhite hover:border-slategray'
+                }`}
+              >
+                {tab}
+              </button>
+            ))}
+          </div>
+
+          {/* Articles grid */}
+          <div className="grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
+            {generatedArticles
+              .filter((a) => activeInsightsTab === 'All' || a.category === activeInsightsTab)
+              .map((article) => (
+                <Link
+                  key={article.slug}
+                  to={`/news/article/${article.slug}`}
+                  className="group relative rounded-xl overflow-hidden border border-subtleborder hover:border-emerald/50 transition-colors cursor-pointer block min-h-[320px]"
+                >
+                  {/* Background image */}
+                  <div
+                    className="absolute inset-0 bg-cover bg-center transition-transform duration-500 group-hover:scale-105"
+                    style={{ backgroundImage: `url(${article.image.src})` }}
+                  />
+                  {/* Gradient overlay */}
+                  <div className="absolute inset-0 bg-gradient-to-t from-obsidian via-obsidian/80 to-obsidian/30" />
+
+                  {/* Content */}
+                  <div className="relative z-10 p-4 sm:p-6 flex flex-col justify-end h-full min-h-[320px]">
+                    <div className="flex items-center gap-2 mb-3">
+                      <CategoryBadge category={article.category} />
+                      <span className="text-xs font-mono text-slategray">{article.readingTime} min read</span>
+                    </div>
+                    <h3 className="text-lg sm:text-xl font-display font-light text-offwhite mb-2 group-hover:text-emerald transition-colors leading-snug">
+                      {article.title}
+                    </h3>
+                    <p className="text-sm text-slategray leading-relaxed mb-4 line-clamp-3">
+                      {article.excerpt}
+                    </p>
+                    <div className="flex items-center justify-between">
+                      <div className="flex items-center gap-2 text-xs font-mono text-slategray">
+                        <span>By {article.author}</span>
+                        <span className="text-slategray/40">·</span>
+                        <span className="flex items-center gap-1">
+                          <ClockIcon size={10} /> {article.displayDate}
+                        </span>
+                      </div>
+                      <span className="text-emerald opacity-0 group-hover:opacity-100 transition-opacity">
+                        <ArrowRightIcon size={14} />
+                      </span>
+                    </div>
+                  </div>
+                </Link>
+              ))}
+          </div>
+        </section>
+      )}
     </div>
   );
 }

@@ -86,6 +86,7 @@ export default function App() {
           <Route path="/glossary" element={<Glossary />} />
           <Route path="/podcast" element={<PodcastHub />} />
           <Route path="/contribute" element={<ContributorPortal />} />
+          <Route path="/news/article/:slug" element={<ArticleDetail />} />
           <Route path="/news/:id" element={<ArticleDetail />} />
           <Route path="/research/:id" element={<ArticleDetail />} />
           <Route path="/education/:id" element={<ArticleDetail />} />
