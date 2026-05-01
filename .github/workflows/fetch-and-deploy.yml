@@ -42,10 +42,10 @@ env:
   NODE_ENV: production
 
 jobs:
-  fetch-data:
-    name: 📡 Fetch Real Data
+  fetch-build-deploy:
+    name: 📡 Fetch → 🏗️ Build → 🚀 Deploy
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 25
 
     steps:
       - name: 📥 Checkout repository
@@ -65,6 +65,7 @@ jobs:
       - name: 📦 Install dependencies
         run: npm ci
 
+      # ── STEP 1: Fetch real data ────────────────────────────────────────────
       - name: 📡 Fetch real-time data (news + market)
         env:
           SERPER_API_KEY_1: ${{ secrets.SERPER_API_KEY_1 }}
@@ -81,10 +82,8 @@ jobs:
           echo "📄 Article files: $(ls public/data/articles/*.json 2>/dev/null | grep -v index.json | wc -l)"
           echo "📈 Indices: $(node -e "try{console.log(require('./public/data/indices.json').length)}catch{console.log(0)}")"
           echo "₿  Crypto assets: $(node -e "try{console.log(require('./public/data/crypto.json').length)}catch{console.log(0)}")"
-          echo "😱 Fear & Greed: $(node -e "try{console.log(require('./public/data/fear_greed.json').currentValue)}catch{console.log('N/A')}")"
-          echo "📊 Yield curve points: $(node -e "try{console.log(require('./public/data/yield_curve.json').length)}catch{console.log(0)}")"
-          echo "📅 Manifest: $(node -e "try{console.log(require('./public/data/manifest.json').lastUpdated)}catch{console.log('N/A')}")"
 
+      # ── STEP 2: Commit data changes ────────────────────────────────────────
       - name: 💾 Commit & push data changes
         id: commit
         run: |
@@ -101,48 +100,14 @@ jobs:
             echo "✅ Data committed and pushed"
           fi
 
-      - name: 📤 Upload data artifact
-        uses: actions/upload-artifact@v4
-        with:
-          name: site-data
-          path: |
-            public/data/
-            public/images/articles/
-          retention-days: 1
-
-  build-and-deploy:
-    name: 🚀 Build & Deploy to Cloudflare
-    needs: fetch-data
-    runs-on: ubuntu-latest
-    timeout-minutes: 15
-    if: ${{ github.event.inputs.skip_deploy != 'true' }}
-
-    steps:
-      - name: 📥 Checkout repository
-        uses: actions/checkout@v4
-        with:
-          ref: main
-
-      - name: 🟢 Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: '20'
-          cache: 'npm'
-          cache-dependency-path: package-lock.json
-
-      - name: 📦 Install dependencies
-        run: npm ci
-
-      - name: 📥 Download data artifact
-        uses: actions/download-artifact@v4
-        with:
-          name: site-data
-          path: public/
-
+      # ── STEP 3: Build ──────────────────────────────────────────────────────
       - name: 🏗️ Build site
+        if: ${{ github.event.inputs.skip_deploy != 'true' }}
         run: npm run build
 
+      # ── STEP 4: Deploy ─────────────────────────────────────────────────────
       - name: 🚀 Deploy to Cloudflare Pages
+        if: ${{ github.event.inputs.skip_deploy != 'true' }}
         uses: cloudflare/wrangler-action@v3
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
@@ -150,6 +115,7 @@ jobs:
           command: pages deploy dist --project-name=sigma-capital
 
       - name: ✅ Deployment summary
+        if: ${{ github.event.inputs.skip_deploy != 'true' }}
         run: |
           echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
           echo "🚀 Sigma Capital deployed successfully!"
@@ -158,15 +124,13 @@ jobs:
           echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
 
   # ────────────────────────────────────────────────────────────────────────────
-  # Optional: Also generate SEO articles after data fetch
-  # Runs the article generator with Tavily for richer content
+  # Optional: Generate SEO articles (only on midnight & 6AM runs)
   # ────────────────────────────────────────────────────────────────────────────
   generate-seo-articles:
     name: 📰 Generate SEO Articles
-    needs: fetch-data
+    needs: fetch-build-deploy
     runs-on: ubuntu-latest
     timeout-minutes: 30
-    # Only generate SEO articles on the midnight and 6AM runs (not every 6 hours)
     if: ${{ github.event_name == 'schedule' && (github.event.schedule == '0 0 * * *' || github.event.schedule == '0 6 * * *') }}
 
     steps:
@@ -186,12 +150,6 @@ jobs:
 
       - name: 📦 Install dependencies
         run: npm ci
-
-      - name: 📥 Download data artifact
-        uses: actions/download-artifact@v4
-        with:
-          name: site-data
-          path: public/
 
       - name: 📰 Generate SEO articles
         env:
@@ -218,30 +176,6 @@ jobs:
             git push
             echo "✅ Articles committed and pushed"
           fi
-
-  # Final deploy after SEO articles are generated
-  final-deploy:
-    name: 🚀 Final Deploy (with articles)
-    needs: generate-seo-articles
-    runs-on: ubuntu-latest
-    timeout-minutes: 15
-    if: ${{ always() && needs.generate-seo-articles.result == 'success' }}
-
-    steps:
-      - name: 📥 Checkout repository
-        uses: actions/checkout@v4
-        with:
-          ref: main
-
-      - name: 🟢 Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: '20'
-          cache: 'npm'
-          cache-dependency-path: package-lock.json
-
-      - name: 📦 Install dependencies
-        run: npm ci
 
       - name: 🏗️ Build site
         run: npm run build
