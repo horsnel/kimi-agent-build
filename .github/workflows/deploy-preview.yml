@@ -1,26 +1,35 @@
-name: Deploy to Cloudflare Pages
+name: Deploy Preview
+
 on:
-  push:
+  pull_request:
     branches: [main]
   workflow_dispatch:
 
 jobs:
-  deploy:
+  deploy-preview:
+    name: 🔍 Preview Deploy
     runs-on: ubuntu-latest
+    timeout-minutes: 10
+
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
+      - name: 📥 Checkout
+        uses: actions/checkout@v4
+
+      - name: 🟢 Setup Node.js
+        uses: actions/setup-node@v4
         with:
           node-version: '20'
           cache: 'npm'
-      - name: Install dependencies
+
+      - name: 📦 Install dependencies
         run: npm ci
-      - name: Build
+
+      - name: 🏗️ Build
         run: npm run build
-      - name: Deploy to Cloudflare Pages
-        uses: cloudflare/pages-action@v1
+
+      - name: 🔍 Deploy preview to Cloudflare Pages
+        uses: cloudflare/wrangler-action@v3
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          projectName: sigma-capital
-          directory: dist
+          command: pages deploy dist --project-name=sigma-capital --branch=${{ github.head_ref }}

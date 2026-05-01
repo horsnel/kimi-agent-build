@@ -1,0 +1,65 @@
+{
+  "upcoming": [
+    {
+      "company": "Stripe",
+      "date": "2026",
+      "valuation": 65,
+      "underwriters": "GS / MS",
+      "sector": "Fintech",
+      "risk": "Medium"
+    },
+    {
+      "company": "Databricks",
+      "date": "2026",
+      "valuation": 43,
+      "underwriters": "JPM / GS",
+      "sector": "Enterprise Software",
+      "risk": "Low"
+    },
+    {
+      "company": "Canva",
+      "date": "2026",
+      "valuation": 26,
+      "underwriters": "MS / UBS",
+      "sector": "Design SaaS",
+      "risk": "Low"
+    },
+    {
+      "company": "Discord",
+      "date": "2026",
+      "valuation": 15,
+      "underwriters": "GS / MS",
+      "sector": "Communication",
+      "risk": "Medium"
+    }
+  ],
+  "recent": [
+    {
+      "company": "Arm Holdings",
+      "ipoPrice": 51,
+      "currentPrice": 68,
+      "returnPct": 33.3
+    },
+    {
+      "company": "Klaviyo",
+      "ipoPrice": 30,
+      "currentPrice": 36,
+      "returnPct": 20
+    },
+    {
+      "company": "Birkenstock",
+      "ipoPrice": 46,
+      "currentPrice": 52,
+      "returnPct": 13
+    }
+  ],
+  "spacs": [
+    {
+      "name": "Aurora Acquisition Corp.",
+      "ticker": "AURC",
+      "status": "Searching",
+      "target": "Fintech",
+      "trust": "$240M"
+    }
+  ]
+}

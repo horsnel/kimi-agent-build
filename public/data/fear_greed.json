@@ -1,23 +1,37 @@
 {
-  "current": {
-    "value": 67,
-    "label": "Greed"
-  },
-  "previousClose": {
-    "value": 67,
-    "label": "Greed"
-  },
-  "oneWeekAgo": {
-    "value": 66,
-    "label": "Greed"
-  },
-  "oneMonthAgo": {
-    "value": 14,
-    "label": "Extreme Fear"
-  },
-  "oneYearAgo": {
-    "value": 41,
-    "label": "Fear"
-  },
-  "source": "cnn"
+  "currentValue": 50,
+  "currentLabel": "Neutral",
+  "oneWeekAgo": 50,
+  "oneMonthAgo": 39,
+  "oneYearAgo": 43,
+  "components": [
+    {
+      "label": "Stock Price Momentum",
+      "value": 56
+    },
+    {
+      "label": "Stock Price Strength",
+      "value": 41
+    },
+    {
+      "label": "Market Volatility",
+      "value": 40
+    },
+    {
+      "label": "Safe Haven Demand",
+      "value": 50
+    },
+    {
+      "label": "Junk Bond Demand",
+      "value": 57
+    },
+    {
+      "label": "Market Breadth",
+      "value": 41
+    },
+    {
+      "label": "Put/Call Ratio",
+      "value": 52
+    }
+  ]
 }

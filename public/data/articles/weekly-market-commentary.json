@@ -1,0 +1,53 @@
+{
+  "id": "weekly-market-commentary",
+  "type": "news",
+  "title": "Weekly market commentary",
+  "slug": "weekly-market-commentary",
+  "date": "2026-05-01",
+  "displayDate": "May 1, 2026",
+  "author": "Sigma Capital",
+  "category": "Global Markets",
+  "tags": [
+    "global markets",
+    "financial news",
+    "market update",
+    "www.blackrock.com"
+  ],
+  "metaDescription": "[Aladdin  Aladdin](https://www.blackrock.com/aladdin)",
+  "excerpt": "[Aladdin  Aladdin](https://www.blackrock.com/aladdin)",
+  "content": {
+    "introduction": "[Aladdin  Aladdin](https://www.blackrock.com/aladdin)",
+    "body": [
+      "[Our company  Our company](https://www.blackrock.com/corporate)",
+      "[Sign In](/us/individual/sign-on.oauth?redirectUrl=%2Fus%2Findividual%2Finsights%2Fblackrock-investment-institute%2Fweekly-commentary%3FsignInAppWithOkta%3Dtrue \"Sign In\")",
+      "* [Manage communications](/us/individual/sign-on.saml?redirectUrl=%2Fus%2Findividual%2Finsights%2Fblackrock-investment-institute%2Fweekly-commentary%3FsignInAppWithOkta%3Dtrue \"Manage communications\")\n* [Mutual Fund & 529 accounts](https://my.accessportals.com/app/blk/login?redirectUrl=/us/individual/insights/blackrock-investment-institute/weekly-commentary?signInAppWithOkta=true \"Mutual Fund & 529 accounts\")",
+      "Leave the BlackRock site for Individuals to explore other content",
+      "[Advisors](https://www.blackrock.com/us/financial-professionals?userType=intermediaries&removeUserType=true)",
+      "[Institutions](https://www.blackrock.com/institutions/en-us?userType=institutional)",
+      "I consult or invest on behalf of a financial institution."
+    ],
+    "keyTakeaways": [],
+    "source": "www.blackrock.com",
+    "sourceUrl": "https://www.blackrock.com/us/individual/insights/blackrock-investment-institute/weekly-commentary"
+  },
+  "readingTime": 3,
+  "updatedAt": "2026-05-01T22:02:12.776Z",
+  "images": {
+    "thumbnail": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Weekly market commentary"
+    },
+    "hero": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Weekly market commentary"
+    },
+    "mid": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Weekly market commentary"
+    }
+  },
+  "image": {
+    "src": "/images/article_thumb_6.jpg",
+    "alt": "Weekly market commentary"
+  }
+}

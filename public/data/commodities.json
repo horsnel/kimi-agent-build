@@ -1,0 +1,56 @@
+{
+  "commodities": [
+    {
+      "name": "Gold",
+      "price": 2350,
+      "change": 0.8,
+      "unit": "USD/oz"
+    },
+    {
+      "name": "Silver",
+      "price": 28.5,
+      "change": 1.2,
+      "unit": "USD/oz"
+    },
+    {
+      "name": "Crude Oil (WTI)",
+      "price": 78.5,
+      "change": -1.5,
+      "unit": "USD/bbl"
+    },
+    {
+      "name": "Natural Gas",
+      "price": 2.15,
+      "change": 0.5,
+      "unit": "USD/MMBtu"
+    },
+    {
+      "name": "Copper",
+      "price": 4.52,
+      "change": 0.3,
+      "unit": "USD/lb"
+    }
+  ],
+  "correlationMatrix": [
+    [
+      1,
+      0.85,
+      -0.2
+    ],
+    [
+      0.85,
+      1,
+      -0.15
+    ],
+    [
+      -0.2,
+      -0.15,
+      1
+    ]
+  ],
+  "commodityNames": [
+    "Gold",
+    "Silver",
+    "WTI Oil"
+  ]
+}

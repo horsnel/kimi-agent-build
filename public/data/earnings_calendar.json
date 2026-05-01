@@ -1,0 +1,242 @@
+[
+  {
+    "ticker": "AAPL",
+    "name": "Apple Inc.",
+    "epsHistory": [
+      {
+        "quarter": "Q1 2025",
+        "estimate": 1.05,
+        "actual": 1.68
+      },
+      {
+        "quarter": "Q2 2025",
+        "estimate": 1.4,
+        "actual": 2.11
+      },
+      {
+        "quarter": "Q3 2025",
+        "estimate": 1.11,
+        "actual": 1.3
+      },
+      {
+        "quarter": "Q4 2025",
+        "estimate": 1.36,
+        "actual": 1.2
+      }
+    ],
+    "whisperNumber": 2.79,
+    "consensusEPS": 3.57,
+    "sentiment": "Bullish",
+    "beatRate": 86
+  },
+  {
+    "ticker": "MSFT",
+    "name": "Microsoft Corp.",
+    "epsHistory": [
+      {
+        "quarter": "Q1 2025",
+        "estimate": 1.29,
+        "actual": 2.01
+      },
+      {
+        "quarter": "Q2 2025",
+        "estimate": 1.1,
+        "actual": 1.49
+      },
+      {
+        "quarter": "Q3 2025",
+        "estimate": 2.73,
+        "actual": 1.95
+      },
+      {
+        "quarter": "Q4 2025",
+        "estimate": 1.37,
+        "actual": 3.06
+      }
+    ],
+    "whisperNumber": 3.3,
+    "consensusEPS": 2.86,
+    "sentiment": "Bullish",
+    "beatRate": 89
+  },
+  {
+    "ticker": "GOOGL",
+    "name": "Alphabet Inc.",
+    "epsHistory": [
+      {
+        "quarter": "Q1 2025",
+        "estimate": 2.73,
+        "actual": 1.75
+      },
+      {
+        "quarter": "Q2 2025",
+        "estimate": 2.27,
+        "actual": 2.09
+      },
+      {
+        "quarter": "Q3 2025",
+        "estimate": 1.04,
+        "actual": 2.47
+      },
+      {
+        "quarter": "Q4 2025",
+        "estimate": 1.96,
+        "actual": 1.77
+      }
+    ],
+    "whisperNumber": 3.06,
+    "consensusEPS": 4.25,
+    "sentiment": "Bullish",
+    "beatRate": 82
+  },
+  {
+    "ticker": "AMZN",
+    "name": "Amazon.com Inc.",
+    "epsHistory": [
+      {
+        "quarter": "Q1 2025",
+        "estimate": 2.93,
+        "actual": 1.13
+      },
+      {
+        "quarter": "Q2 2025",
+        "estimate": 2.31,
+        "actual": 1.66
+      },
+      {
+        "quarter": "Q3 2025",
+        "estimate": 1.8,
+        "actual": 1.85
+      },
+      {
+        "quarter": "Q4 2025",
+        "estimate": 2.15,
+        "actual": 1.79
+      }
+    ],
+    "whisperNumber": 3.55,
+    "consensusEPS": 3.24,
+    "sentiment": "Bullish",
+    "beatRate": 83
+  },
+  {
+    "ticker": "META",
+    "name": "Meta Platforms",
+    "epsHistory": [
+      {
+        "quarter": "Q1 2025",
+        "estimate": 1.25,
+        "actual": 1.4
+      },
+      {
+        "quarter": "Q2 2025",
+        "estimate": 1.58,
+        "actual": 1.89
+      },
+      {
+        "quarter": "Q3 2025",
+        "estimate": 1.97,
+        "actual": 2.02
+      },
+      {
+        "quarter": "Q4 2025",
+        "estimate": 1.05,
+        "actual": 2.96
+      }
+    ],
+    "whisperNumber": 1.84,
+    "consensusEPS": 4.16,
+    "sentiment": "Neutral",
+    "beatRate": 90
+  },
+  {
+    "ticker": "TSLA",
+    "name": "Tesla Inc.",
+    "epsHistory": [
+      {
+        "quarter": "Q1 2025",
+        "estimate": 1.96,
+        "actual": 2.85
+      },
+      {
+        "quarter": "Q2 2025",
+        "estimate": 2.95,
+        "actual": 2.95
+      },
+      {
+        "quarter": "Q3 2025",
+        "estimate": 2.78,
+        "actual": 3.09
+      },
+      {
+        "quarter": "Q4 2025",
+        "estimate": 1.42,
+        "actual": 2.63
+      }
+    ],
+    "whisperNumber": 3.29,
+    "consensusEPS": 2.19,
+    "sentiment": "Neutral",
+    "beatRate": 70
+  },
+  {
+    "ticker": "NVDA",
+    "name": "NVIDIA Corp.",
+    "epsHistory": [
+      {
+        "quarter": "Q1 2025",
+        "estimate": 1.25,
+        "actual": 2.38
+      },
+      {
+        "quarter": "Q2 2025",
+        "estimate": 1.07,
+        "actual": 2.96
+      },
+      {
+        "quarter": "Q3 2025",
+        "estimate": 2.8,
+        "actual": 2.81
+      },
+      {
+        "quarter": "Q4 2025",
+        "estimate": 1.92,
+        "actual": 2.48
+      }
+    ],
+    "whisperNumber": 3.22,
+    "consensusEPS": 2.5,
+    "sentiment": "Bullish",
+    "beatRate": 94
+  },
+  {
+    "ticker": "NFLX",
+    "name": "Netflix Inc.",
+    "epsHistory": [
+      {
+        "quarter": "Q1 2025",
+        "estimate": 1.88,
+        "actual": 2.94
+      },
+      {
+        "quarter": "Q2 2025",
+        "estimate": 1.15,
+        "actual": 2.76
+      },
+      {
+        "quarter": "Q3 2025",
+        "estimate": 2.95,
+        "actual": 1.96
+      },
+      {
+        "quarter": "Q4 2025",
+        "estimate": 1.31,
+        "actual": 2.47
+      }
+    ],
+    "whisperNumber": 2.23,
+    "consensusEPS": 3.65,
+    "sentiment": "Bullish",
+    "beatRate": 79
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "code": "USD",
+    "name": "US Dollar",
+    "strength": 85,
+    "change": 0.2
+  },
+  {
+    "code": "EUR",
+    "name": "Euro",
+    "strength": 72,
+    "change": -0.3
+  },
+  {
+    "code": "GBP",
+    "name": "British Pound",
+    "strength": 68,
+    "change": 0.1
+  },
+  {
+    "code": "JPY",
+    "name": "Japanese Yen",
+    "strength": 55,
+    "change": -0.5
+  },
+  {
+    "code": "CHF",
+    "name": "Swiss Franc",
+    "strength": 75,
+    "change": 0.15
+  },
+  {
+    "code": "CAD",
+    "name": "Canadian Dollar",
+    "strength": 62,
+    "change": -0.2
+  },
+  {
+    "code": "AUD",
+    "name": "Australian Dollar",
+    "strength": 58,
+    "change": 0.3
+  },
+  {
+    "code": "CNY",
+    "name": "Chinese Yuan",
+    "strength": 60,
+    "change": -0.1
+  }
+]

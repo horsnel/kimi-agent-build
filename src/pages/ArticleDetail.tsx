@@ -1,9 +1,16 @@
 import { useState, useEffect } from 'react';
-import { useParams, useLocation, Link } from 'react-router';
+import { useParams, useLocation, Link, Navigate } from 'react-router';
 import { ArrowLeftIcon, ClockIcon, ShareIcon, BookmarkIcon } from '../components/CustomIcons';
 import { fetchNews, type NewsArticle as ApiNewsArticle } from '../services/api';
 
 /* ── Generated article types ── */
+interface ArticleImage {
+  src: string;
+  alt: string;
+  credit?: string;
+  creditUrl?: string;
+}
+
 interface GeneratedArticle {
   id: string;
   type: string;
@@ -11,14 +18,18 @@ interface GeneratedArticle {
   slug: string;
   date: string;
   displayDate: string;
-  author: string;
   category: string;
   tags: string[];
   metaDescription: string;
   excerpt: string;
   content: Record<string, unknown>;
   readingTime: number;
-  image: { src: string; alt: string; credit?: string; creditUrl?: string };
+  image?: { src: string; alt: string; credit?: string; creditUrl?: string };
+  images?: {
+    thumbnail: ArticleImage;
+    hero: ArticleImage;
+    mid: ArticleImage;
+  };
 }
 
 /* ── Research article data (mirrors Research.tsx) ── */
@@ -469,6 +480,17 @@ function CategoryBadge({ category, type }: { category: string; type: string }) {
 /* ── Rich content renderer for generated articles ── */
 function GeneratedArticleContent({ article }: { article: GeneratedArticle }) {
   const c = article.content;
+  const midImage = article.images?.mid;
+
+  // Helper to render mid-article image after a specific section
+  const MidArticleImage = () => {
+    if (!midImage) return null;
+    return (
+      <div className="my-8 rounded-xl overflow-hidden border border-subtleborder">
+        <img src={midImage.src} alt={midImage.alt} className="w-full h-56 md:h-72 object-cover" />
+      </div>
+    );
+  };
 
   // Market Wrap type
   if (article.type === 'market-wrap') {
@@ -508,6 +530,7 @@ function GeneratedArticleContent({ article }: { article: GeneratedArticle }) {
             </ul>
           </div>
         )}
+        <MidArticleImage />
         {outlook && (
           <div className="border-l-2 border-emerald/40 pl-4">
             <h2 className="text-xl font-display font-light text-offwhite mb-2">Outlook</h2>
@@ -545,6 +568,7 @@ function GeneratedArticleContent({ article }: { article: GeneratedArticle }) {
             <p className="text-offwhite/90 leading-relaxed text-base">{example}</p>
           </div>
         )}
+        <MidArticleImage />
         {types && (
           <div>
             <h2 className="text-xl font-display font-light text-offwhite mb-3">Types & Variations</h2>
@@ -598,18 +622,22 @@ function GeneratedArticleContent({ article }: { article: GeneratedArticle }) {
     const intro = (c.introduction as string) || '';
     const items = (c.items as { name: string; detail: string }[]) || [];
     const disclaimer = (c.disclaimer as string) || '';
+    const midIdx = Math.floor(items.length / 2);
     return (
       <div className="space-y-8">
         <p className="text-offwhite/90 leading-relaxed text-base md:text-lg">{intro}</p>
         {items.map((item, i) => (
-          <div key={i} className="bg-charcoal border border-subtleborder rounded-xl p-5 md:p-6">
-            <div className="flex items-center gap-3 mb-3">
-              <span className="flex items-center justify-center w-8 h-8 rounded-full bg-emerald/20 text-emerald text-sm font-mono font-bold flex-shrink-0">
-                {i + 1}
-              </span>
-              <h3 className="text-lg font-display font-medium text-offwhite">{item.name}</h3>
+          <div key={i}>
+            <div className="bg-charcoal border border-subtleborder rounded-xl p-5 md:p-6">
+              <div className="flex items-center gap-3 mb-3">
+                <span className="flex items-center justify-center w-8 h-8 rounded-full bg-emerald/20 text-emerald text-sm font-mono font-bold flex-shrink-0">
+                  {i + 1}
+                </span>
+                <h3 className="text-lg font-display font-medium text-offwhite">{item.name}</h3>
+              </div>
+              <p className="text-offwhite/80 leading-relaxed text-base pl-11">{item.detail}</p>
             </div>
-            <p className="text-offwhite/80 leading-relaxed text-base pl-11">{item.detail}</p>
+            {i === midIdx && <MidArticleImage />}
           </div>
         ))}
         {disclaimer && (
@@ -653,6 +681,7 @@ function GeneratedArticleContent({ article }: { article: GeneratedArticle }) {
             </ul>
           </div>
         </div>
+        <MidArticleImage />
         {verdict && (
           <div className="bg-charcoal border border-emerald/40 rounded-xl p-6">
             <h2 className="text-xs font-mono text-emerald mb-2 uppercase tracking-wider">The Verdict</h2>
@@ -685,16 +714,20 @@ function GeneratedArticleContent({ article }: { article: GeneratedArticle }) {
     const steps = (c.steps as { heading: string; body: string }[]) || [];
     const keyTakeaways = (c.keyTakeaways as string[]) || [];
     const relatedTools = (c.relatedTools as { name: string; path: string }[]) || [];
+    const midStepIdx = Math.floor(steps.length / 2);
     return (
       <div className="space-y-8">
         <p className="text-offwhite/90 leading-relaxed text-base md:text-lg">{intro}</p>
         {steps.map((step, i) => (
-          <div key={i} className="border-l-2 border-emerald/40 pl-5">
-            <div className="flex items-center gap-2 mb-2">
-              <span className="text-xs font-mono text-emerald bg-emerald/10 px-2 py-0.5 rounded">Step {i + 1}</span>
-              <h3 className="text-lg font-display font-medium text-offwhite">{step.heading}</h3>
+          <div key={i}>
+            <div className="border-l-2 border-emerald/40 pl-5">
+              <div className="flex items-center gap-2 mb-2">
+                <span className="text-xs font-mono text-emerald bg-emerald/10 px-2 py-0.5 rounded">Step {i + 1}</span>
+                <h3 className="text-lg font-display font-medium text-offwhite">{step.heading}</h3>
+              </div>
+              <p className="text-offwhite/80 leading-relaxed text-base">{step.body}</p>
             </div>
-            <p className="text-offwhite/80 leading-relaxed text-base">{step.body}</p>
+            {i === midStepIdx && <MidArticleImage />}
           </div>
         ))}
         {keyTakeaways.length > 0 && (
@@ -767,6 +800,7 @@ function GeneratedArticleContent({ article }: { article: GeneratedArticle }) {
             </div>
           </div>
         )}
+        <MidArticleImage />
         {risks && (
           <div className="bg-charcoal border border-crimson/30 rounded-xl p-6">
             <h2 className="text-xs font-mono text-crimson mb-2 uppercase tracking-wider">Risks</h2>
@@ -842,6 +876,15 @@ export default function ArticleDetail() {
     }
   }, [isGeneratedArticle, articleSlug, type]);
 
+  // Redirect /news/:id to /news/article/:slug when the article has a slug
+  const articleId = parseInt(id || '0', 10);
+  if (type === 'news' && newsArticles.length > 0) {
+    const newsArticle = newsArticles[articleId];
+    if (newsArticle?.articleSlug) {
+      return <Navigate to={`/news/article/${newsArticle.articleSlug}`} replace />;
+    }
+  }
+
   // SEO: set document title and meta description
   useEffect(() => {
     if (generatedArticle) {
@@ -856,8 +899,6 @@ export default function ArticleDetail() {
       }
     }
   }, [generatedArticle]);
-
-  const articleId = parseInt(id || '0', 10);
 
   // Determine article data based on type
   let title = '';
@@ -877,18 +918,23 @@ export default function ArticleDetail() {
     excerpt = generatedArticle.excerpt;
     content = [];
     date = generatedArticle.displayDate;
-    author = generatedArticle.author;
+    author = ''; // No individual author for generated articles
     category = generatedArticle.category;
-    image = generatedArticle.image.src;
+    image = generatedArticle.images?.hero?.src || generatedArticle.image?.src || '';
     readTime = `${generatedArticle.readingTime} min`;
   } else if (type === 'news') {
     const article = newsArticles[articleId];
     if (article) {
+      // If the news article has a slug, redirect to the generated article page
+      if (article.articleSlug) {
+        return <Navigate to={`/news/article/${article.articleSlug}`} replace />;
+      }
+      // Otherwise show basic info from the news listing
       title = article.headline;
       excerpt = article.excerpt;
-      content = generateNewsContent(article);
+      content = [article.excerpt];
       date = article.date;
-      author = article.author;
+      author = '';
       category = article.category;
       image = '';
     }
@@ -937,16 +983,7 @@ export default function ArticleDetail() {
     backLabel = 'Home';
   }
 
-  function generateNewsContent(article: ApiNewsArticle): string[] {
-    // Generate expanded content from news article data
-    return [
-      article.excerpt,
-      `The development has sent ripples through financial markets as investors and analysts assess the potential implications for monetary policy, corporate earnings, and economic growth trajectories. Market participants are closely monitoring the situation for further signals that could influence asset pricing across equities, fixed income, and currency markets.`,
-      `According to industry experts, this development represents a significant inflection point in the current market cycle. "We are seeing a structural shift in market dynamics that could persist for several quarters," noted a senior strategist at a leading investment bank. The consensus view among analysts is that the implications extend beyond short-term trading considerations to affect strategic asset allocation decisions for institutional and retail investors alike.`,
-      `Historical precedent suggests that similar developments have typically led to increased market volatility in the near term, followed by a re-pricing of risk assets as the new information is fully incorporated into market expectations. Investors with longer time horizons may find opportunities in the dislocation, while those with shorter horizons should exercise caution and maintain adequate liquidity reserves to weather potential periods of heightened volatility.`,
-      `Looking ahead, the key question for markets is whether this development marks the beginning of a sustained trend or represents a temporary deviation from the prevailing market narrative. Upcoming economic data releases, corporate earnings reports, and central bank communications will provide critical information for distinguishing between these scenarios. Investors should maintain diversified portfolios and avoid making concentrated bets on a single outcome until the picture becomes clearer.`,
-    ];
-  }
+
 
   const handleShare = async () => {
     const url = window.location.href;
@@ -1014,7 +1051,12 @@ export default function ArticleDetail() {
           {excerpt}
         </p>
         <div className="flex items-center justify-between mt-6 pt-6 border-t border-subtleborder">
-          <span className="text-sm font-mono text-slategray">By {author}</span>
+          {!isGeneratedArticle && author && (
+            <span className="text-sm font-mono text-slategray">By {author}</span>
+          )}
+          {isGeneratedArticle && (
+            <span className="text-sm font-mono text-slategray">Sigma Capital</span>
+          )}
           <div className="flex items-center gap-3">
             <button
               onClick={handleShare}
@@ -1045,11 +1087,20 @@ export default function ArticleDetail() {
       </div>
 
       {/* Hero Image */}
-      {image && (
+      {isGeneratedArticle && generatedArticle?.images?.hero ? (
+        <div className="mb-10 rounded-xl overflow-hidden border border-subtleborder">
+          <img src={generatedArticle.images.hero.src} alt={generatedArticle.images.hero.alt || title} className="w-full h-64 md:h-96 object-cover" />
+          {generatedArticle.images.hero.credit && (
+            <p className="text-xs text-slategray mt-2 px-1">
+              Photo: <a href={generatedArticle.images.hero.creditUrl} target="_blank" rel="noopener noreferrer" className="hover:text-emerald transition-colors">{generatedArticle.images.hero.credit}</a>
+            </p>
+          )}
+        </div>
+      ) : image ? (
         <div className="mb-10 rounded-xl overflow-hidden border border-subtleborder">
           <img src={image} alt={title} className="w-full h-64 md:h-96 object-cover" />
         </div>
-      )}
+      ) : null}
 
       {/* Article Content */}
       <article className="prose-custom">
@@ -1064,10 +1115,10 @@ export default function ArticleDetail() {
         )}
       </article>
 
-      {/* Image Credit */}
-      {isGeneratedArticle && generatedArticle?.image?.credit && (
-        <p className="text-xs text-slategray mt-4">
-          Photo: <a href={generatedArticle.image.creditUrl} target="_blank" rel="noopener noreferrer" className="hover:text-emerald transition-colors">{generatedArticle.image.credit}</a>
+      {/* Mid-article Image Credit */}
+      {isGeneratedArticle && generatedArticle?.images?.mid?.credit && (
+        <p className="text-xs text-slategray mt-2 px-1">
+          Photo: <a href={generatedArticle.images.mid.creditUrl} target="_blank" rel="noopener noreferrer" className="hover:text-emerald transition-colors">{generatedArticle.images.mid.credit}</a>
         </p>
       )}
 

@@ -1,62 +1,36 @@
 {
   "id": "what-is-p-e-ratio",
   "type": "glossary",
-  "title": "What Is Price-to-Earnings Ratio? Definition, Formula & Examples",
+  "title": "What Is Price-to-Earnings Ratio? Definition, Formula & How to Use It",
   "slug": "what-is-p-e-ratio",
-  "date": "2026-05-01",
-  "displayDate": "May 1, 2026",
-  "author": "Sigma Capital",
+  "date": "2026-05-02",
+  "displayDate": "May 2, 2026",
   "category": "Education",
-  "tags": [
-    "p/e ratio",
-    "financial terms",
-    "investing basics",
-    "p/e ratio definition",
-    "stock market terminology"
-  ],
-  "metaDescription": "What is Price-to-Earnings Ratio? Learn the definition, formula, and real-world examples of P/E Ratio. Our comprehensive guide explains how P/E Ratio works and why it matters for investors.",
-  "excerpt": "The P/E ratio measures a company's current share price relative to its earnings per share (EPS). It is calculated by dividing the market price per share by the EPS. A P/E of 15 means investors are wil...",
+  "tags": ["p/e ratio", "financial terms", "investing basics", "p/e ratio definition", "stock market terminology"],
+  "metaDescription": "What is P/E ratio? Learn the definition, formula, and how to use the price-to-earnings ratio for stock valuation. Complete guide with real examples.",
+  "excerpt": "The P/E ratio measures a stock's price relative to its earnings. Learn how to calculate, interpret, and use P/E ratios for smarter investment decisions.",
   "content": {
-    "definition": "The P/E ratio measures a company's current share price relative to its earnings per share (EPS). It is calculated by dividing the market price per share by the EPS. A P/E of 15 means investors are willing to pay $15 for every $1 of earnings. This ratio helps investors assess whether a stock is overvalued or undervalued compared to its peers and historical averages.",
-    "formula": "P/E Ratio = Share Price / Earnings Per Share",
-    "example": "If Company XYZ trades at $150/share and earned $10/share in the last 12 months, its P/E ratio is 15x ($150 / $10). The S&P 500 historical average P/E is approximately 15-17x.",
-    "types": "Trailing P/E uses past 12 months of earnings (more reliable), while Forward P/E uses projected future earnings (more speculative but forward-looking). A high P/E may indicate growth expectations or overvaluation; a low P/E may suggest value or declining prospects.",
-    "whyItMatters": "Understanding P/E Ratio is essential for making informed investment decisions. Whether you are evaluating individual stocks, planning your portfolio allocation, or comparing investment options, P/E Ratio provides a quantitative framework that removes guesswork and helps you assess value objectively. Professional investors, analysts, and financial advisors all rely on P/E Ratio as a core metric in their decision-making process.",
+    "definition": "The price-to-earnings ratio, commonly abbreviated as P/E ratio, is one of the most widely used valuation metrics in finance and investing. It measures the relationship between a company's current stock price and its earnings per share (EPS), effectively telling you how much investors are willing to pay for each dollar of the company's earnings. A P/E ratio of 15, for example, means investors are paying $15 for every $1 of earnings the company generates. The P/E ratio serves as a fundamental benchmark for determining whether a stock is overvalued, undervalued, or fairly priced relative to its earnings power, its industry peers, or the broader market. The metric was popularized by Benjamin Graham, the father of value investing and mentor to Warren Buffett, who used it as a primary screening tool to identify stocks trading below their intrinsic value. While the P/E ratio is intuitively simple — divide price by earnings — its proper interpretation requires understanding several nuances including the difference between trailing and forward P/E, the impact of cyclicality on earnings, the effect of accounting choices on reported earnings, and the importance of comparing P/E against growth rates and industry norms rather than in isolation. The P/E ratio is most useful as a comparative tool: comparing a company's current P/E to its own historical range, to its peers in the same industry, or to the overall market provides far more insight than looking at the absolute P/E number alone. It is essential to remember that the P/E ratio is a measure of valuation, not quality — a low P/E does not necessarily mean a stock is cheap, and a high P/E does not necessarily mean it is expensive, because the ratio must be interpreted in the context of the company's growth prospects, competitive position, and the sustainability of its earnings.",
+    "formula": "The P/E ratio formula is straightforward: P/E Ratio = Current Market Price per Share / Earnings per Share (EPS). For example, if a company's stock trades at $150 and its EPS over the past 12 months is $10, the trailing P/E ratio is 15x ($150 / $10). There are two primary variants of the P/E ratio. The trailing P/E (or TTM P/E) uses earnings from the most recent four quarters, providing an objective, historical measure based on actual reported results. The forward P/E uses analyst consensus estimates for earnings over the next four quarters, providing a forward-looking measure that reflects expected earnings growth but introduces forecast uncertainty. For example, if the same company is expected to earn $12.50 per share next year, its forward P/E would be 12x ($150 / $12.50), which is lower than the trailing P/E, indicating that analysts expect earnings growth. A related and often more informative metric is the PEG ratio, which incorporates earnings growth: PEG Ratio = P/E Ratio / Expected Annual Earnings Growth Rate. A PEG ratio below 1.0 suggests that a stock may be undervalued relative to its growth rate, while a PEG above 1.5 may indicate overvaluation. For cyclical companies, the Shiller P/E (also known as CAPE — Cyclically Adjusted Price-to-Earnings) uses 10-year average inflation-adjusted earnings to smooth out business cycle fluctuations, providing a more stable valuation benchmark. The current Shiller P/E for the S&P 500 is approximately 34, significantly above the long-term average of 17, suggesting elevated market valuations by historical standards.",
+    "example": "Let us examine how P/E ratios work in practice using real-world scenarios. Consider two companies in the same industry: Company A trades at $100 with EPS of $5 (P/E = 20x) and Company B trades at $80 with EPS of $4 (P/E = 20x). Both have the same P/E ratio, but this does not mean they are equally attractive investments. If Company A is growing earnings at 15% annually while Company B grows at only 5%, Company A's PEG ratio is 1.33 (20/15) while Company B's is 4.0 (20/5), suggesting Company A offers better value relative to its growth. Looking at the S&P 500 as a whole, the trailing P/E has historically averaged approximately 16-17x, but has ranged from as low as 6x during the Great Depression to over 40x during the dot-com bubble. In 2026, the S&P 500 trailing P/E sits at approximately 22-24x, above the historical average, reflecting both strong corporate earnings and elevated investor optimism. Technology stocks tend to carry higher P/E ratios than utility or consumer staples stocks because the market prices in higher expected growth. As of 2026, the technology sector trades at approximately 28-32x trailing earnings, while utilities trade at 16-18x. This difference reflects the market's expectation that technology companies will grow earnings significantly faster than utilities. For individual stock analysis, comparing a company's current P/E to its 5-year and 10-year historical ranges provides valuable context. If a quality company typically trades at 20-25x earnings but is currently at 15x due to a temporary setback, it may represent a value opportunity. Conversely, if a company has historically traded at 12-15x but now commands 30x because of market euphoria, the risk of a valuation contraction may be significant.",
+    "types": "Several variations of the P/E ratio provide different perspectives on valuation. The trailing P/E (TTM) uses the most recent four quarters of actual earnings, making it objective but backward-looking. The forward P/E uses projected earnings for the next four quarters, making it forward-looking but dependent on analyst forecasts that are frequently inaccurate. The cyclically-adjusted P/E (CAPE or Shiller P/E) uses 10-year average real earnings to smooth out business cycle effects, making it particularly useful for evaluating market-level valuations over long periods. The relative P/E compares a stock's P/E to a benchmark such as the S&P 500 or its industry average, providing context for whether the valuation is high or low relative to peers. The justified P/E calculates what the P/E should be based on fundamentals using the Gordon Growth Model: Justified P/E = (Dividend Payout Ratio) / (Required Return - Growth Rate). This framework connects valuation to fundamental drivers including profitability, growth, and risk. Negative P/E ratios occur when a company has negative earnings (losses), and in these cases the P/E is typically reported as N/A rather than a negative number. For unprofitable companies, alternative valuation metrics like Price-to-Sales (P/S), Price-to-Book (P/B), or Enterprise Value-to-Revenue (EV/Revenue) may be more appropriate. Each variant provides a different lens through which to evaluate a company's valuation, and the most effective analysis uses multiple P/E measures alongside other valuation metrics to develop a comprehensive view.",
+    "whyItMatters": "The P/E ratio matters because it provides a quick, standardized way to assess whether a stock or market is expensive or cheap relative to its earnings power. For individual investors, understanding P/E ratios helps avoid two of the most common investment mistakes: overpaying for popular stocks during periods of market euphoria and overlooking quality companies that are temporarily out of favor. During the dot-com bubble, many technology stocks traded at P/E ratios of 50-100x or even had negative earnings, and investors who ignored these valuation signals suffered catastrophic losses when the bubble burst. Conversely, during market panics, quality companies can see their P/E ratios compress to unusually low levels, creating opportunities for patient investors. The P/E ratio also matters for portfolio construction and asset allocation decisions. When the overall market's P/E is elevated relative to historical norms — as it is in 2026 with the S&P 500 trading at 22-24x trailing earnings — investors may want to increase their allocation to value-oriented strategies, international markets with lower valuations, or fixed income to reduce the risk of a valuation-driven correction. The Shiller CAPE ratio, in particular, has demonstrated a strong inverse correlation with subsequent 10-year returns: when the CAPE is in its highest decile, subsequent 10-year annualized returns average approximately 3-5%, compared to 10-13% when the CAPE is in its lowest decile. This does not mean you should try to time the market based on P/E ratios, but it does suggest that investors should temper their return expectations during periods of elevated valuations and consider diversifying into asset classes with more attractive valuation profiles.",
     "relatedTerms": [
-      {
-        "term": "Market Cap",
-        "slug": "what-is-market-cap"
-      },
-      {
-        "term": "Dividend Yield",
-        "slug": "what-is-dividend-yield"
-      },
-      {
-        "term": "Dollar-Cost Averaging",
-        "slug": "what-is-dollar-cost-averaging"
-      },
-      {
-        "term": "ETF",
-        "slug": "what-is-etf"
-      }
+      {"term": "Market Cap", "slug": "what-is-market-cap"},
+      {"term": "Dividend Yield", "slug": "what-is-dividend-yield"},
+      {"term": "ETF", "slug": "what-is-etf"},
+      {"term": "Bull Market", "slug": "what-is-bull-market"}
     ],
     "relatedTools": [
-      {
-        "name": "Stock Screener",
-        "path": "/screener"
-      },
-      {
-        "name": "Compound Interest Calculator",
-        "path": "/tools/compound"
-      }
+      {"name": "Stock Screener", "path": "/screener"},
+      {"name": "Compound Interest Calculator", "path": "/tools/compound"}
     ]
   },
-  "readingTime": 6,
-  "updatedAt": "2026-05-01T19:19:20.976Z",
-  "image": {
-    "src": "/images/articles/what-is-p-e-ratio.jpg",
-    "alt": "Gold coins scattered with a stock market graph and a percentage symbol on an orange background.",
-    "credit": "Nataliya Vaitkevich / Pexels",
-    "creditUrl": "https://www.pexels.com/photo/gold-coins-on-orange-background-6120252/"
+  "readingTime": 8,
+  "updatedAt": "2026-05-02T00:00:00.000Z",
+  "images": {
+    "thumbnail": {"src": "/images/articles/what-is-p-e-ratio-thumb.jpg", "alt": "Price-to-earnings ratio analysis"},
+    "hero": {"src": "/images/articles/what-is-p-e-ratio-hero.jpg", "alt": "Financial analysis and stock valuation"},
+    "mid": {"src": "/images/articles/what-is-p-e-ratio-mid.jpg", "alt": "Stock market data and analytics", "credit": "3844328 / Pixabay", "creditUrl": "https://pixabay.com/users/3844328-3844328/"}
   }
 }

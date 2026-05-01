@@ -1,165 +1,148 @@
 {
-  "current": {
-    "value": 26,
-    "classification": "Fear"
-  },
+  "currentValue": 50,
+  "currentLabel": "Neutral",
   "history": [
     {
-      "timestamp": 1777593600,
-      "value": 26,
-      "classification": "Fear"
+      "day": 1,
+      "value": 50
     },
     {
-      "timestamp": 1777507200,
-      "value": 29,
-      "classification": "Fear"
+      "day": 2,
+      "value": 55
     },
     {
-      "timestamp": 1777420800,
-      "value": 26,
-      "classification": "Fear"
+      "day": 3,
+      "value": 59
     },
     {
-      "timestamp": 1777334400,
-      "value": 33,
-      "classification": "Fear"
+      "day": 4,
+      "value": 61
     },
     {
-      "timestamp": 1777248000,
-      "value": 47,
-      "classification": "Neutral"
+      "day": 5,
+      "value": 62
     },
     {
-      "timestamp": 1777161600,
-      "value": 33,
-      "classification": "Fear"
+      "day": 6,
+      "value": 61
     },
     {
-      "timestamp": 1777075200,
-      "value": 31,
-      "classification": "Fear"
+      "day": 7,
+      "value": 58
     },
     {
-      "timestamp": 1776988800,
-      "value": 39,
-      "classification": "Fear"
+      "day": 8,
+      "value": 54
     },
     {
-      "timestamp": 1776902400,
-      "value": 46,
-      "classification": "Fear"
+      "day": 9,
+      "value": 49
     },
     {
-      "timestamp": 1776816000,
-      "value": 32,
-      "classification": "Fear"
+      "day": 10,
+      "value": 45
     },
     {
-      "timestamp": 1776729600,
-      "value": 33,
-      "classification": "Fear"
+      "day": 11,
+      "value": 41
     },
     {
-      "timestamp": 1776643200,
-      "value": 29,
-      "classification": "Fear"
+      "day": 12,
+      "value": 39
     },
     {
-      "timestamp": 1776556800,
-      "value": 27,
-      "classification": "Fear"
+      "day": 13,
+      "value": 38
     },
     {
-      "timestamp": 1776470400,
-      "value": 26,
-      "classification": "Fear"
+      "day": 14,
+      "value": 39
     },
     {
-      "timestamp": 1776384000,
-      "value": 21,
-      "classification": "Extreme Fear"
+      "day": 15,
+      "value": 42
     },
     {
-      "timestamp": 1776297600,
-      "value": 23,
-      "classification": "Extreme Fear"
+      "day": 16,
+      "value": 47
     },
     {
-      "timestamp": 1776211200,
-      "value": 23,
-      "classification": "Extreme Fear"
+      "day": 17,
+      "value": 51
     },
     {
-      "timestamp": 1776124800,
-      "value": 21,
-      "classification": "Extreme Fear"
+      "day": 18,
+      "value": 56
     },
     {
-      "timestamp": 1776038400,
-      "value": 12,
-      "classification": "Extreme Fear"
+      "day": 19,
+      "value": 60
     },
     {
-      "timestamp": 1775952000,
-      "value": 16,
-      "classification": "Extreme Fear"
+      "day": 20,
+      "value": 62
     },
     {
-      "timestamp": 1775865600,
-      "value": 15,
-      "classification": "Extreme Fear"
+      "day": 21,
+      "value": 62
     },
     {
-      "timestamp": 1775779200,
-      "value": 16,
-      "classification": "Extreme Fear"
+      "day": 22,
+      "value": 60
     },
     {
-      "timestamp": 1775692800,
-      "value": 14,
-      "classification": "Extreme Fear"
+      "day": 23,
+      "value": 57
     },
     {
-      "timestamp": 1775606400,
-      "value": 17,
-      "classification": "Extreme Fear"
+      "day": 24,
+      "value": 53
     },
     {
-      "timestamp": 1775520000,
-      "value": 11,
-      "classification": "Extreme Fear"
+      "day": 25,
+      "value": 48
     },
     {
-      "timestamp": 1775433600,
-      "value": 13,
-      "classification": "Extreme Fear"
+      "day": 26,
+      "value": 43
     },
     {
-      "timestamp": 1775347200,
-      "value": 12,
-      "classification": "Extreme Fear"
+      "day": 27,
+      "value": 40
     },
     {
-      "timestamp": 1775260800,
-      "value": 11,
-      "classification": "Extreme Fear"
+      "day": 28,
+      "value": 38
     },
     {
-      "timestamp": 1775174400,
-      "value": 9,
-      "classification": "Extreme Fear"
+      "day": 29,
+      "value": 38
     },
     {
-      "timestamp": 1775088000,
-      "value": 12,
-      "classification": "Extreme Fear"
+      "day": 30,
+      "value": 40
     }
   ],
-  "components": {
-    "socialMedia": 34,
-    "volatility": 35,
-    "marketMomentum": 22,
-    "dominance": 35
-  },
-  "source": "alternative.me"
+  "components": [
+    {
+      "label": "Social Media",
+      "value": 47,
+      "color": "#10B981"
+    },
+    {
+      "label": "Volatility",
+      "value": 60,
+      "color": "#F59E0B"
+    },
+    {
+      "label": "Market Momentum",
+      "value": 41,
+      "color": "#3B82F6"
+    },
+    {
+      "label": "Dominance",
+      "value": 46,
+      "color": "#8B5CF6"
+    }
+  ]
 }

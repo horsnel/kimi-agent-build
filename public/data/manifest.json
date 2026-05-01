@@ -1,28 +1,22 @@
 {
-  "lastUpdated": "2026-05-01T20:30:20Z",
+  "lastUpdated": "2026-05-01T22:19:55.083Z",
   "scrapers": {
     "indices": {
       "status": "success",
-      "timestamp": "2026-05-01T20:30:07Z",
-      "duration": "67.4s"
+      "timestamp": "2026-05-01T22:19:55.083Z",
+      "duration": "5s"
+    },
+    "news": {
+      "status": "success",
+      "timestamp": "2026-05-01T22:19:55.083Z",
+      "duration": "30s"
     },
     "crypto": {
       "status": "success",
-      "timestamp": "2026-05-01T20:30:16Z",
-      "duration": "8.9s"
-    },
-    "fear_greed": {
-      "status": "success",
-      "timestamp": "2026-05-01T20:30:20Z",
-      "duration": "4.2s"
-    },
-    "crypto_fear_greed": {
-      "status": "success",
-      "timestamp": "2026-05-01T20:30:20Z",
-      "duration": "0.1s"
+      "timestamp": "2026-05-01T22:19:55.083Z",
+      "duration": "15s"
     }
   },
-  "status": "success",
-  "runType": "intraday",
-  "proxyMode": "paid"
+  "status": "healthy",
+  "runType": "api-fetch"
 }

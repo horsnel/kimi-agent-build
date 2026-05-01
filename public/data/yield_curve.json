@@ -1,28 +1,42 @@
-{
-  "maturities": [
-    "3M",
-    "6M",
-    "1Y",
-    "2Y",
-    "3Y",
-    "5Y",
-    "7Y",
-    "10Y",
-    "20Y",
-    "30Y"
-  ],
-  "yields": [
-    3.68,
-    3.72,
-    3.71,
-    3.84,
-    3.86,
-    3.97,
-    4.16,
-    4.36,
-    4.92,
-    4.94
-  ],
-  "date": "2026-04-28",
-  "inverted": true
-}
+[
+  {
+    "maturity": "3M",
+    "yield": 4.3
+  },
+  {
+    "maturity": "6M",
+    "yield": 4.25
+  },
+  {
+    "maturity": "1Y",
+    "yield": 4.15
+  },
+  {
+    "maturity": "2Y",
+    "yield": 4.05
+  },
+  {
+    "maturity": "3Y",
+    "yield": 4
+  },
+  {
+    "maturity": "5Y",
+    "yield": 4.05
+  },
+  {
+    "maturity": "7Y",
+    "yield": 4.1
+  },
+  {
+    "maturity": "10Y",
+    "yield": 4.2
+  },
+  {
+    "maturity": "20Y",
+    "yield": 4.5
+  },
+  {
+    "maturity": "30Y",
+    "yield": 4.45
+  }
+]

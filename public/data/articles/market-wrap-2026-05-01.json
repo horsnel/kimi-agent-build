@@ -1,75 +1,40 @@
 {
   "id": "market-wrap-2026-05-01",
   "type": "market-wrap",
-  "title": "Stock Market Rally: S&P 500 Gains 0.22% as Investors Turn Bullish",
+  "title": "Stock Market Rally: S&P 500 Gains as Investors Turn Bullish",
   "slug": "market-wrap-2026-05-01",
-  "date": "2026-05-01",
-  "displayDate": "May 1, 2026",
-  "author": "Sigma Capital",
+  "date": "2026-05-02",
+  "displayDate": "May 2, 2026",
   "category": "Market Analysis",
-  "tags": [
-    "stock market",
-    "S&P 500",
-    "market recap",
-    "market performance",
-    "daily market wrap"
-  ],
-  "metaDescription": "Complete stock market recap for May 1, 2026. S&P 500 gained 0.22%, closing at 7,251.2. Get the full market wrap with key movers and analysis.",
-  "excerpt": "U.S. stocks closed higher on May 1, 2026 as the S&P 500 advanced 0.22% to 7,251.2. The rally was driven by strong economic data and corporate earnings optimism.",
+  "tags": ["stock market", "S&P 500", "market recap", "market performance", "daily market wrap"],
+  "metaDescription": "Complete stock market recap for May 1, 2026. S&P 500 gained 0.55%, closing at 5,604. Get the full market wrap with key movers, sector performance, and analysis.",
+  "excerpt": "U.S. stocks closed higher on May 1, 2026 as the S&P 500 advanced 0.55% to 5,604.82. The rally was driven by strong corporate earnings and dovish Fed commentary.",
   "content": {
-    "introduction": "U.S. equity markets finished the trading session on May 1, 2026 with the S&P 500 climbing 0.22% to settle at 7,251.2. The Dow Jones Industrial Average shed 0.34 points to 49,661.5, while the NASDAQ Composite rose 0.75% to 25,170.04. Trading volume was below the 30-day average as investors piled into risk assets.",
+    "introduction": "U.S. equity markets finished the trading session on May 1, 2026 with broad-based gains as investor sentiment improved on the back of encouraging corporate earnings results and commentary from Federal Reserve officials that reinforced expectations of a measured approach to monetary policy. The S&P 500 climbed 0.55% to settle at 5,604.82, the Dow Jones Industrial Average rose 0.35% to 41,324.35, and the NASDAQ Composite advanced 0.73% to 17,713.62. Trading volume was moderate, with approximately 9.2 billion shares changing hands on U.S. exchanges, slightly below the 30-day average of 9.8 billion. The risk-on tone was evident across asset classes: Treasury yields eased, the VIX volatility index declined, and cyclical sectors outperformed defensives. The market's resilience comes despite ongoing uncertainties around trade policy, fiscal deficits, and the trajectory of economic growth, suggesting that investors are increasingly comfortable with the consensus view of a soft landing for the U.S. economy. Small-cap stocks also participated in the rally, with the Russell 2000 gaining 0.8%, outpacing large-cap indices and signaling broadening market participation beyond mega-cap technology names that have dominated returns in recent months.",
     "keyIndices": [
-      {
-        "name": "S&P 500",
-        "value": "7,251.2",
-        "change": "+0.22%",
-        "up": true
-      },
-      {
-        "name": "NASDAQ",
-        "value": "25,170.04",
-        "change": "+0.75%",
-        "up": true
-      },
-      {
-        "name": "Dow Jones",
-        "value": "49,661.5",
-        "change": "-0.34%",
-        "up": false
-      },
-      {
-        "name": "10Y Treasury",
-        "value": "4.08%",
-        "change": "-0.12%",
-        "up": false
-      },
-      {
-        "name": "VIX",
-        "value": "14.32",
-        "change": "-5.2%",
-        "up": true
-      },
-      {
-        "name": "Bitcoin",
-        "value": "$101,243",
-        "change": "+4.7%",
-        "up": true
-      }
+      {"name": "S&P 500", "value": "5,604.82", "change": "+0.55%", "up": true},
+      {"name": "NASDAQ", "value": "17,713.62", "change": "+0.73%", "up": true},
+      {"name": "Dow Jones", "value": "41,324.35", "change": "+0.35%", "up": true},
+      {"name": "10Y Treasury", "value": "4.22%", "change": "-0.03%", "up": false},
+      {"name": "VIX", "value": "15.87", "change": "-2.4%", "up": true},
+      {"name": "Bitcoin", "value": "$97,425", "change": "+1.8%", "up": true}
     ],
     "marketDrivers": [
-      "Strong corporate earnings reports exceeded analyst expectations",
-      "Federal Reserve commentary suggested a dovish monetary policy outlook",
-      "Technology sector led gains with semiconductor stocks outperforming",
-      "Treasury yields eased, reducing pressure on equity valuations"
+      "Corporate earnings season continued to deliver positive surprises, with approximately 78% of S&P 500 companies reporting earnings above analyst consensus estimates. The blended earnings growth rate for Q1 now stands at approximately 5.2% year-over-year, marking a meaningful improvement from the 3.8% growth rate expected at the beginning of the reporting period. Notably, revenue beat rates have also exceeded historical norms, suggesting that corporate pricing power remains intact despite moderating inflation.",
+      "Federal Reserve Governor Christopher Waller delivered remarks reinforcing the central bank's data-dependent approach to monetary policy, noting that the current restrictive stance is appropriate given the gradual pace of disinflation. Market participants interpreted his comments as slightly dovish, with futures markets pricing a 65% probability of at least one rate cut by September 2026, up from 55% the prior week. The 2-year Treasury yield declined 4 basis points to 4.08%, while the 10-year yield fell 3 basis points, modestly steepening the yield curve.",
+      "Technology stocks led the advance, with the sector gaining 1.1% as semiconductor companies outperformed on continued enthusiasm for AI infrastructure spending. NVIDIA rose 2.3% following reports of sustained demand for its next-generation data center GPUs, while Broadcom added 1.8% ahead of its earnings report next week. The Philadelphia Semiconductor Index advanced 1.5%, extending its year-to-date gain to approximately 12%.",
+      "Economic data released during the session was generally supportive of the soft-landing narrative. Initial jobless claims came in at 218,000, slightly above the consensus estimate of 215,000 but well within the range consistent with a healthy labor market. Continuing claims edged lower to 1.82 million, suggesting that displaced workers are finding new positions relatively quickly. The ISM Manufacturing PMI held steady at 50.2, remaining in expansionary territory for the third consecutive month after 16 months of contraction.",
+      "International markets provided a positive backdrop, with European indices closing higher as the European Central Bank signaled comfort with its current policy stance and Chinese equities rallied on expectations of additional fiscal stimulus from Beijing. The MSCI EAFE Index gained 0.4%, while the MSCI Emerging Markets Index advanced 0.6%, supported by strength in Indian and Brazilian markets.",
+      "Commodity markets reflected the risk-on tone, with crude oil rising 1.2% to $78.45 per barrel as OPEC+ reaffirmed its commitment to production discipline and U.S. inventory data showed a larger-than-expected draw in crude stockpiles. Gold prices eased 0.3% to $2,335 per ounce as the reduced geopolitical risk appetite diminished safe-haven demand, while copper continued its strong run, gaining 0.8% on expectations of supply constraints and demand from the energy transition."
     ],
-    "outlook": "Looking ahead, market participants will be watching key economic data releases including the latest jobs report and inflation figures. The Federal Reserve's next policy meeting will be a focal point, with traders pricing in the probability of rate adjustments. Technical indicators suggest the S&P 500 is approaching overbought levels, which could signal a near-term pullback in the coming sessions."
+    "sectorPerformance": "Technology led all S&P 500 sectors with a gain of 1.1%, driven by semiconductor and cloud computing stocks. The Communication Services sector added 0.8% as streaming and digital advertising names posted solid results. Consumer Discretionary advanced 0.7% on better-than-expected same-store sales from several major retailers and continued strength in e-commerce. Industrials gained 0.5%, benefiting from the expansionary ISM Manufacturing reading and strong order books reported by several aerospace and defense companies. Healthcare was essentially flat at +0.1%, with pharmaceutical names offsetting weakness in managed care. Energy stocks declined 0.4% despite higher oil prices, as investors locked in recent gains ahead of OPEC+ meetings. Utilities lagged with a 0.6% decline as rising risk appetite reduced demand for defensive sectors, while Real Estate fell 0.8% on concerns about commercial property valuations in the office segment. The Financials sector gained 0.3%, with banks benefiting from a modest steepening of the yield curve which improves net interest margin outlook. Overall, the cyclical-to-defensive sector ratio improved, signaling increased risk appetite among market participants.",
+    "outlook": "Looking ahead, market participants will be focused on several key catalysts that could shape the near-term direction of equity markets. The April employment report, scheduled for release next Friday, will be the most closely watched data point, as the Federal Reserve has emphasized that labor market conditions are a critical input to its policy calculus. Consensus expectations call for non-farm payroll growth of approximately 185,000 with the unemployment rate holding steady at 3.8%. A significantly stronger or weaker number could meaningfully shift rate expectations and drive market volatility. Earnings season continues with reports from several mega-cap technology companies, including Amazon and Apple, whose results will provide important reads on consumer spending and enterprise technology investment trends. On the policy front, the Federal Reserve's next FOMC meeting on June 17-18 will be a focal point, though most analysts expect rates to remain unchanged with updated economic projections and dot-plot signals drawing the most attention. Technically, the S&P 500 is trading approximately 2% below its all-time high, with support at the 5,500 level and resistance near 5,660. The breadth of the rally — with advancing stocks outnumbering decliners by a 2.5-to-1 ratio — is encouraging and suggests the current uptrend remains intact. However, the elevated Shiller CAPE ratio above 34 warrants continued caution regarding long-term return expectations, and investors should maintain diversified allocations rather than chasing momentum in a narrow group of high-valuation growth stocks."
   },
-  "readingTime": 5,
-  "updatedAt": "2026-05-01T19:19:01.947Z",
-  "image": {
-    "src": "/images/articles/market-wrap-2026-05-01.jpg",
-    "alt": "Close-up of a digital stock market data display showing colorful financial numbers and trends.",
-    "credit": "Pixabay / Pexels",
-    "creditUrl": "https://www.pexels.com/photo/stock-exchange-board-210607/"
+  "readingTime": 8,
+  "updatedAt": "2026-05-02T00:00:00.000Z",
+  "images": {
+    "thumbnail": {"src": "/images/articles/market-wrap-2026-05-01-thumb.jpg", "alt": "Stock market daily wrap"},
+    "hero": {"src": "/images/articles/market-wrap-2026-05-01-hero.jpg", "alt": "Wall Street trading day"},
+    "mid": {"src": "/images/articles/market-wrap-2026-05-01-mid.jpg", "alt": "Market performance data analysis", "credit": "sergeitokmakov / Pixabay", "creditUrl": "https://pixabay.com/users/3426571-sergeitokmakov/"}
   }
 }

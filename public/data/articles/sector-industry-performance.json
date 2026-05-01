@@ -1,0 +1,52 @@
+{
+  "id": "sector-industry-performance",
+  "type": "news",
+  "title": "Sector & Industry Performance",
+  "slug": "sector-industry-performance",
+  "date": "2026-05-01",
+  "displayDate": "May 1, 2026",
+  "author": "Sigma Capital",
+  "category": "Sector Performance",
+  "tags": [
+    "sector performance",
+    "financial news",
+    "market update"
+  ],
+  "metaDescription": "As of 2026-05-01, the industrial sector shows strong performance, while technology and healthcare sectors are also leading. Sector weightings vary by market, wi",
+  "excerpt": "As of 2026-05-01, the industrial sector shows strong performance, while technology and healthcare sectors are also leading. Sector weightings vary by market, with technology dominating in the U.S. and healthcare in China. Current year-to-date performance highlights sector-specific trends.",
+  "content": {
+    "introduction": "As of 2026-05-01, the industrial sector shows strong performance, while technology and healthcare sectors are also leading. Sector weightings vary by market, with technology dominating in the U.S. and healthcare in China. Current year-to-date performance highlights sector-specific trends.",
+    "body": [
+      "Latest sector performance overview of United States, China, Japan, Germany and other major stock markets, as well as sector weighting and performance by",
+      "Get the latest sector news and performance with Fidelity's Sector research tools. Review industries, fundamentals and performance.",
+      "Today's, weekly, monthly, quarterly and year to date stock performance of sectors within Total Market - CSIMarket."
+    ],
+    "keyTakeaways": [
+      "As of 2026-05-01, the industrial sector shows strong performance, while technology and healthcare sectors are also leadi",
+      "Latest sector performance overview of United States, China, Japan, Germany and other major stock markets, as well as sec",
+      "Get the latest sector news and performance with Fidelity's Sector research tools. Review industries, fundamentals and pe"
+    ],
+    "source": "Bloomberg",
+    "sourceUrl": "https://www.bloomberg.com/markets/sectors"
+  },
+  "readingTime": 3,
+  "updatedAt": "2026-05-01T22:19:40.419Z",
+  "images": {
+    "thumbnail": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Sector & Industry Performance"
+    },
+    "hero": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Sector & Industry Performance"
+    },
+    "mid": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Sector & Industry Performance"
+    }
+  },
+  "image": {
+    "src": "/images/article_thumb_5.jpg",
+    "alt": "Sector & Industry Performance"
+  }
+}

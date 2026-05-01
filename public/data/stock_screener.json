@@ -1,0 +1,98 @@
+[
+  {
+    "ticker": "AAPL",
+    "company": "Apple Inc.",
+    "price": 227.63,
+    "change": 1.24,
+    "marketCap": "$3.52T",
+    "marketCapCategory": "Mega",
+    "pe": 37.2,
+    "dividendYield": 0.5,
+    "volume": "52.3M",
+    "sector": "Technology"
+  },
+  {
+    "ticker": "MSFT",
+    "company": "Microsoft Corp.",
+    "price": 415.56,
+    "change": 0.87,
+    "marketCap": "$3.09T",
+    "marketCapCategory": "Mega",
+    "pe": 35.8,
+    "dividendYield": 0.7,
+    "volume": "22.1M",
+    "sector": "Technology"
+  },
+  {
+    "ticker": "GOOGL",
+    "company": "Alphabet Inc.",
+    "price": 174.82,
+    "change": -0.32,
+    "marketCap": "$2.16T",
+    "marketCapCategory": "Mega",
+    "pe": 24.1,
+    "dividendYield": 0,
+    "volume": "28.9M",
+    "sector": "Technology"
+  },
+  {
+    "ticker": "AMZN",
+    "company": "Amazon.com Inc.",
+    "price": 205.74,
+    "change": 1.85,
+    "marketCap": "$2.14T",
+    "marketCapCategory": "Mega",
+    "pe": 62.4,
+    "dividendYield": 0,
+    "volume": "48.7M",
+    "sector": "Consumer"
+  },
+  {
+    "ticker": "NVDA",
+    "company": "NVIDIA Corp.",
+    "price": 875.28,
+    "change": 3.42,
+    "marketCap": "$2.16T",
+    "marketCapCategory": "Mega",
+    "pe": 68.3,
+    "dividendYield": 0.02,
+    "volume": "41.5M",
+    "sector": "Technology"
+  },
+  {
+    "ticker": "META",
+    "company": "Meta Platforms Inc.",
+    "price": 505.95,
+    "change": -0.56,
+    "marketCap": "$1.29T",
+    "marketCapCategory": "Mega",
+    "pe": 27.9,
+    "dividendYield": 0.4,
+    "volume": "18.3M",
+    "sector": "Technology"
+  },
+  {
+    "ticker": "TSLA",
+    "company": "Tesla Inc.",
+    "price": 188.13,
+    "change": -2.18,
+    "marketCap": "$599B",
+    "marketCapCategory": "Mega",
+    "pe": 44.6,
+    "dividendYield": 0,
+    "volume": "112.7M",
+    "sector": "Consumer"
+  },
+  {
+    "ticker": "JPM",
+    "company": "JPMorgan Chase & Co.",
+    "price": 198.47,
+    "change": 0.64,
+    "marketCap": "$572B",
+    "marketCapCategory": "Mega",
+    "pe": 12.1,
+    "dividendYield": 2.3,
+    "volume": "9.8M",
+    "sector": "Finance"
+  }
+]

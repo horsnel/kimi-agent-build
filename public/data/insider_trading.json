@@ -1,0 +1,62 @@
+[
+  {
+    "date": "April 30, 2026",
+    "insider": "Tim Cook",
+    "title": "CEO",
+    "company": "AAPL",
+    "transaction": "Sale",
+    "shares": 100000,
+    "price": 220,
+    "totalValue": 22000000
+  },
+  {
+    "date": "April 29, 2026",
+    "insider": "Jensen Huang",
+    "title": "CEO",
+    "company": "NVDA",
+    "transaction": "Sale",
+    "shares": 50000,
+    "price": 880,
+    "totalValue": 44000000
+  },
+  {
+    "date": "April 28, 2026",
+    "insider": "Satya Nadella",
+    "title": "CEO",
+    "company": "MSFT",
+    "transaction": "Purchase",
+    "shares": 10000,
+    "price": 420,
+    "totalValue": 4200000
+  },
+  {
+    "date": "April 27, 2026",
+    "insider": "Mark Zuckerberg",
+    "title": "CEO",
+    "company": "META",
+    "transaction": "Sale",
+    "shares": 28000,
+    "price": 510,
+    "totalValue": 14280000
+  },
+  {
+    "date": "April 26, 2026",
+    "insider": "Andy Jassy",
+    "title": "CEO",
+    "company": "AMZN",
+    "transaction": "Sale",
+    "shares": 20000,
+    "price": 190,
+    "totalValue": 3800000
+  },
+  {
+    "date": "April 25, 2026",
+    "insider": "Jamie Dimon",
+    "title": "CEO",
+    "company": "JPM",
+    "transaction": "Sale",
+    "shares": 75000,
+    "price": 200,
+    "totalValue": 15000000
+  }
+]
