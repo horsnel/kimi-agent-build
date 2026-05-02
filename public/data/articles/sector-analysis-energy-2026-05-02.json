@@ -1,0 +1,50 @@
+{
+  "id": "sector-analysis-energy-2026-05-02",
+  "type": "sector",
+  "title": "Energy Sector Underperforming: -0.5% This Week — Key Stocks and Outlook",
+  "slug": "sector-analysis-energy-2026-05-02",
+  "date": "2026-05-02",
+  "displayDate": "May 2, 2026",
+  "author": "Sigma Capital",
+  "category": "Market Analysis",
+  "tags": [
+    "energy stocks",
+    "sector analysis",
+    "sector rotation",
+    "stock sectors",
+    "xom cvx cop"
+  ],
+  "metaDescription": "Energy sector analysis for May 2, 2026. The sector is down 0.5% with leaders including XOM, CVX, COP. Get the full investment thesis, risks, and outlook.",
+  "excerpt": "The Energy sector is lagging behind with a -0.5% change this week. We analyze the key drivers, top stocks, and what investors should watch next.",
+  "content": {
+    "introduction": "The Energy sector has been facing headwinds in recent trading sessions, posting a decline of 0.5% compared to the broader S&P 500. This performance reflects the underlying dynamics shaping the sector, from macroeconomic forces to company-specific catalysts that are driving investor positioning.",
+    "investmentThesis": "OPEC+ production discipline and strategic reserves replenishment support crude prices. Energy companies are returning record cash to shareholders through buybacks and dividends.",
+    "keyStocks": [
+      {
+        "ticker": "XOM",
+        "name": "Exxon Mobil",
+        "commentary": "XOM remains a core holding in the Energy sector, with investors watching upcoming earnings and guidance for direction."
+      },
+      {
+        "ticker": "CVX",
+        "name": "Chevron Corp.",
+        "commentary": "CVX remains a core holding in the Energy sector, with investors watching upcoming earnings and guidance for direction."
+      },
+      {
+        "ticker": "COP",
+        "name": "ConocoPhillips",
+        "commentary": "COP remains a core holding in the Energy sector, with investors watching upcoming earnings and guidance for direction."
+      }
+    ],
+    "risks": "Global demand slowdown, renewable energy transition, and geopolitical supply disruptions.",
+    "outlook": "Investors should monitor the Energy sector for signs of stabilization and mean reversion. Position sizing and risk management remain critical, particularly given the macro uncertainty surrounding Fed policy and global growth expectations."
+  },
+  "readingTime": 7,
+  "updatedAt": "2026-05-02T03:42:11.656Z",
+  "image": {
+    "src": "/images/article_thumb_2.jpg",
+    "alt": "energy industry business",
+    "credit": "Sigma Capital",
+    "creditUrl": "https://sigma-capital.pages.dev"
+  }
+}
