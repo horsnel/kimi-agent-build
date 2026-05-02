@@ -34,10 +34,31 @@
     "metaDescription": "Day trading requires knowledge of market news, setting aside funds and time, starting small, and using stop-loss orders to manage risk. Focus on a few liquid st",
     "excerpt": "Day trading requires knowledge of market news, setting aside funds and time, starting small, and using stop-loss orders to manage risk. Focus on a few liquid stocks and avoid emotional trading.",
     "image": {
-      "src": "/images/article_thumb_4.jpg",
+      "src": "/images/articles/10-day-trading-tips-for-beginners-getting-started-thumb.jpg",
       "alt": "10 Day Trading Tips for Beginners Getting Started"
     },
     "readingTime": 8
+  },
+  {
+    "id": "4-strategies-for-investing-in-ai-stocks",
+    "type": "news",
+    "title": "4 strategies for investing in AI stocks",
+    "slug": "4-strategies-for-investing-in-ai-stocks",
+    "date": "2026-05-02",
+    "displayDate": "May 2, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Invest in AI stocks through legacy companies with AI exposure, direct AI companies, publicly traded AI funds, and consider in-house AI development for long-term",
+    "excerpt": "Invest in AI stocks through legacy companies with AI exposure, direct AI companies, publicly traded AI funds, and consider in-house AI development for long-term growth. Diversification and strategic planning are key.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "4 strategies for investing in AI stocks"
+    },
+    "readingTime": 3
   },
   {
     "id": "5-common-investment-mistakes-beginners-make-and-how-to-avoid-them",
@@ -73,7 +94,7 @@
     "metaDescription": "Vanguard Total International Stock ETF (VXUS) and Fidelity Zero International Index Fund (FZILX) are top picks for 2026, offering broad exposure to internationa",
     "excerpt": "Vanguard Total International Stock ETF (VXUS) and Fidelity Zero International Index Fund (FZILX) are top picks for 2026, offering broad exposure to international markets. Xtrackers MSCI EAFE Hedged Equity ETF (DBEF) and Schwab Fundamental International Equity Index Fund (SFNNX) also provide strong i",
     "image": {
-      "src": "/images/article_thumb_5.jpg",
+      "src": "/images/articles/7-best-international-stock-funds-to-buy-for-2026-thumb.jpg",
       "alt": "7 Best International Stock Funds to Buy for 2026"
     },
     "readingTime": 9
@@ -98,6 +119,27 @@
     "readingTime": 10
   },
   {
+    "id": "adamas-trust-q1-2026-slides-ead-surges-45-as-portfolio-hits-10-9b",
+    "type": "news",
+    "title": "Adamas Trust Q1 2026 slides: EAD surges 45% as portfolio hits $10.9B",
+    "slug": "adamas-trust-q1-2026-slides-ead-surges-45-as-portfolio-hits-10-9b",
+    "date": "2026-05-02",
+    "displayDate": "May 2, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Adamas Trust's EAD surged 45% in Q1 2026, reaching $10.9 billion. The increase reflects strong earnings and capital strength. The portfolio growth is notable.",
+    "excerpt": "Adamas Trust's EAD surged 45% in Q1 2026, reaching $10.9 billion. The increase reflects strong earnings and capital strength. The portfolio growth is notable.",
+    "image": {
+      "src": "/images/articles/adamas-trust-q1-2026-slides-ead-surges-45-as-portfolio-hits-10-9b-thumb.jpg",
+      "alt": "Adamas Trust Q1 2026 slides: EAD surges 45% as portfolio hits $10.9B"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "analysis-assessing-inflation-s-impact",
     "type": "news",
     "title": "Analysis: Assessing Inflation’s Impact",
@@ -113,7 +155,7 @@
     "metaDescription": "Inflation raises living costs, influences interest rates, and affects investment decisions, while persistent high inflation continues to challenge consumers and",
     "excerpt": "Inflation raises living costs, influences interest rates, and affects investment decisions, while persistent high inflation continues to challenge consumers and policymakers. Energy and shelter remain major inflation drivers, and protection strategies are crucial for portfolios.",
     "image": {
-      "src": "/images/article_thumb_6.jpg",
+      "src": "/images/articles/analysis-assessing-inflation-s-impact-thumb.jpg",
       "alt": "Analysis: Assessing Inflation’s Impact"
     },
     "readingTime": 10
@@ -134,10 +176,52 @@
     "metaDescription": "Asian stock markets plunged due to Trump's ultimatum on Iran, causing significant drops in key indexes. Trump threatened to destroy Iran's energy infrastructure",
     "excerpt": "Asian stock markets plunged due to Trump's ultimatum on Iran, causing significant drops in key indexes. Trump threatened to destroy Iran's energy infrastructure if Iran didn't reopen the Strait of Hormuz. This heightened global energy crisis fears.",
     "image": {
-      "src": "/images/article_thumb_6.jpg",
+      "src": "/images/articles/asian-stock-markets-plunge-amid-trump-s-ultimatum-on-iran-hero.jpg",
       "alt": "Asian stock markets plunge amid Trump’s ultimatum on Iran"
     },
     "readingTime": 9
+  },
+  {
+    "id": "asset-allocation-insights-march-2026",
+    "type": "news",
+    "title": "Asset Allocation Insights - March 2026",
+    "slug": "asset-allocation-insights-march-2026",
+    "date": "2026-05-02",
+    "displayDate": "May 2, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "In March 2026, equity overweight remains due to AI-driven growth, while bonds are underweighted. U.S. equities are balanced with real estate adjustments. Portfo",
+    "excerpt": "In March 2026, equity overweight remains due to AI-driven growth, while bonds are underweighted. U.S. equities are balanced with real estate adjustments. Portfolios favor cyclical momentum and risk assets.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Asset Allocation Insights - March 2026"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "asset-allocation-outlook-2q-2026-beyond-the-conflict",
+    "type": "news",
+    "title": "Asset Allocation Outlook 2Q 2026: Beyond the Conflict",
+    "slug": "asset-allocation-outlook-2q-2026-beyond-the-conflict",
+    "date": "2026-05-02",
+    "displayDate": "May 2, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Despite Middle East conflict, growth and risk assets remain constructive; focus on post-conflict portfolio adjustments and stable Fed rate approach.",
+    "excerpt": "Despite Middle East conflict, growth and risk assets remain constructive; focus on post-conflict portfolio adjustments and stable Fed rate approach.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Asset Allocation Outlook 2Q 2026: Beyond the Conflict"
+    },
+    "readingTime": 3
   },
   {
     "id": "average-inflation-rate-in-the-united-states-from-1980-to-2031",
@@ -155,10 +239,31 @@
     "metaDescription": "The average inflation rate in the U.S. from 1980 to 2025 was 3.29%, with a notable spike in 2021 and 2022 due to the COVID-19 pandemic. In 2025, it dropped to 2",
     "excerpt": "The average inflation rate in the U.S. from 1980 to 2025 was 3.29%, with a notable spike in 2021 and 2022 due to the COVID-19 pandemic. In 2025, it dropped to 2.7%, but remained above the Federal Reserve's 2% target. Inflation impacts consumer spending and wage growth, particularly affecting low-inc",
     "image": {
-      "src": "/images/article_thumb_3.jpg",
+      "src": "/images/articles/average-inflation-rate-in-the-united-states-from-1980-to-2031-hero.jpg",
       "alt": "Average inflation rate in the United States from 1980 to 2031"
     },
     "readingTime": 13
+  },
+  {
+    "id": "big-firms-quarterly-results-may-signal-what-s-next-for-the-economy",
+    "type": "news",
+    "title": "Big firms’ quarterly results may signal what’s next for the economy",
+    "slug": "big-firms-quarterly-results-may-signal-what-s-next-for-the-economy",
+    "date": "2026-05-02",
+    "displayDate": "May 2, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Big firms' quarterly earnings reports often indicate economic trends; recent results suggest a strong stock market and cautious corporate outlooks. The S&P 500 ",
+    "excerpt": "Big firms' quarterly earnings reports often indicate economic trends; recent results suggest a strong stock market and cautious corporate outlooks. The S&P 500 continues to grow, and optimism around AI boosts earnings.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Big firms’ quarterly results may signal what’s next for the economy"
+    },
+    "readingTime": 3
   },
   {
     "id": "big-tech-capex-ranked-what-alphabet-amazon-apple-meta-and-microsoft-are-spending",
@@ -176,7 +281,7 @@
     "metaDescription": "In 2026, Big Tech companies, including Alphabet, Amazon, Apple, Meta, and Microsoft, are investing heavily in AI, with combined capital expenditures reaching $6",
     "excerpt": "In 2026, Big Tech companies, including Alphabet, Amazon, Apple, Meta, and Microsoft, are investing heavily in AI, with combined capital expenditures reaching $650 billion. This surge in spending is aimed at dominating the AI market.",
     "image": {
-      "src": "/images/article_thumb_1.jpg",
+      "src": "/images/articles/big-tech-capex-ranked-what-alphabet-amazon-apple-meta-and-microsoft-are-spending-hero.jpg",
       "alt": "Big Tech capex ranked: What Alphabet, Amazon, Apple, Meta, and Microsoft are spending as AI investment surges"
     },
     "readingTime": 8
@@ -197,7 +302,7 @@
     "metaDescription": "Big Tech companies reported earnings that exceeded forecasts but fell short of high investor expectations regarding AI spending. The Magnificent 7 tech firms co",
     "excerpt": "Big Tech companies reported earnings that exceeded forecasts but fell short of high investor expectations regarding AI spending. The Magnificent 7 tech firms continue to lead stock market performance. AI investment remains a key focus for these companies.",
     "image": {
-      "src": "/images/article_thumb_1.jpg",
+      "src": "/images/articles/big-tech-earnings-test-record-stock-market-rally-as-ai-spending-takes-center-sta-hero.jpg",
       "alt": "Big Tech earnings test record stock market rally as AI spending takes center stage"
     },
     "readingTime": 10
@@ -218,7 +323,7 @@
     "metaDescription": "On May 1, 2026, Bitcoin was priced at $78,178.28 and Ethereum at $2,308.85, both showing significant increases from previous days. These prices reflect a bullis",
     "excerpt": "On May 1, 2026, Bitcoin was priced at $78,178.28 and Ethereum at $2,308.85, both showing significant increases from previous days. These prices reflect a bullish market trend for both cryptocurrencies.",
     "image": {
-      "src": "/images/article_thumb_2.jpg",
+      "src": "/images/articles/bitcoin-and-ethereum-prices-today-friday-may-1-2026-prices-moving-higher-this-mo-hero.jpg",
       "alt": "Bitcoin and ethereum prices today, Friday, May 1, 2026: Prices moving higher this morning"
     },
     "readingTime": 6
@@ -239,7 +344,7 @@
     "metaDescription": "Rising Treasury yields are drawing capital away from Bitcoin, increasing crash risk as investors seek safer bonds. Analysts link this trend to hawkish Federal R",
     "excerpt": "Rising Treasury yields are drawing capital away from Bitcoin, increasing crash risk as investors seek safer bonds. Analysts link this trend to hawkish Federal Reserve policies. Bitcoin's price remains vulnerable as bond yields continue to rise globally.",
     "image": {
-      "src": "/images/article_thumb_5.jpg",
+      "src": "/images/articles/bitcoin-btc-price-analysis-crash-risk-rises-as-bond-yields-surge-hero.jpg",
       "alt": "Bitcoin (BTC) price analysis: Crash risk rises as bond yields surge"
     },
     "readingTime": 9
@@ -280,7 +385,7 @@
     "metaDescription": "Bitcoin is expected to reach $76,000-$82,000 by May 2026, with a potential breakout above $80,000 if institutional participation continues. Predictions also sug",
     "excerpt": "Bitcoin is expected to reach $76,000-$82,000 by May 2026, with a potential breakout above $80,000 if institutional participation continues. Predictions also suggest a possible high of $118,156.45 by 2031. Analysts foresee a new high of $84K by April 30, 2026.",
     "image": {
-      "src": "/images/article_thumb_5.jpg",
+      "src": "/images/articles/bitcoin-price-prediction-2026-2031-is-80k-next-hero.jpg",
       "alt": "Bitcoin Price Prediction 2026-2031: Is $80K Next?"
     },
     "readingTime": 11
@@ -301,7 +406,7 @@
     "metaDescription": "The CBO projects a temporary economic slowdown in 2025 followed by stable growth, with inflation easing and interest rates declining. Unemployment is expected t",
     "excerpt": "The CBO projects a temporary economic slowdown in 2025 followed by stable growth, with inflation easing and interest rates declining. Unemployment is expected to rise slightly before falling. The Federal Reserve forecasts similar trends.",
     "image": {
-      "src": "/images/article_thumb_5.jpg",
+      "src": "/images/articles/cbo-releases-economic-projections-from-2025-to-2028-2025-09-19-hero.jpg",
       "alt": "CBO Releases Economic Projections From 2025 to 2028-2025-09-19"
     },
     "readingTime": 13
@@ -322,7 +427,7 @@
     "metaDescription": "The Northeast Area Consumer Price Index for March 2026 was 344.142, a 3.6 percent increase from March 2025. The index rose 0.9 percent from February 2026, with ",
     "excerpt": "The Northeast Area Consumer Price Index for March 2026 was 344.142, a 3.6 percent increase from March 2025. The index rose 0.9 percent from February 2026, with energy prices up 10.1 percent year-over-year. Food prices increased 3.3 percent over the year.",
     "image": {
-      "src": "/images/article_thumb_6.jpg",
+      "src": "/images/articles/consumer-price-index-northeast-region-march-2026-hero.jpg",
       "alt": "Consumer Price Index, Northeast region — March 2026"
     },
     "readingTime": 10
@@ -343,7 +448,7 @@
     "metaDescription": "Consumer prices rose 3.3% in March due to a spike in energy prices caused by the Iran conflict, according to the Bureau of Labor Statistics. This increase took ",
     "excerpt": "Consumer prices rose 3.3% in March due to a spike in energy prices caused by the Iran conflict, according to the Bureau of Labor Statistics. This increase took the Federal Reserve further from its inflation target. The rise was driven by soaring energy costs linked to the conflict.",
     "image": {
-      "src": "/images/article_thumb_4.jpg",
+      "src": "/images/articles/consumer-prices-rose-3-3-in-march-as-energy-prices-spiked-due-to-iran-conflict-hero.jpg",
       "alt": "Consumer prices rose 3.3% in March, as energy prices spiked due to Iran conflict"
     },
     "readingTime": 9
@@ -384,7 +489,7 @@
     "metaDescription": "The White House is expected to announce details of a strategic Bitcoin reserve within weeks. Patrick Witt, the lead crypto advisor, hinted at a significant deve",
     "excerpt": "The White House is expected to announce details of a strategic Bitcoin reserve within weeks. Patrick Witt, the lead crypto advisor, hinted at a significant development. This update is anticipated to impact Bitcoin's market dynamics.",
     "image": {
-      "src": "/images/article_thumb_1.jpg",
+      "src": "/images/articles/crypto-market-update-white-house-teases-bitcoin-stockpile-update-hero.jpg",
       "alt": "Crypto Market Update: White House Teases Bitcoin Stockpile Update"
     },
     "readingTime": 9
@@ -405,7 +510,7 @@
     "metaDescription": "Bitcoin is holding above $78,000, with the crypto market cap near $2.6 trillion, driven by strong ETF inflows. The price has risen significantly over the past m",
     "excerpt": "Bitcoin is holding above $78,000, with the crypto market cap near $2.6 trillion, driven by strong ETF inflows. The price has risen significantly over the past month, but remains below the $80,000 mark. Institutional demand remains high, but analysts caution about market volatility.",
     "image": {
-      "src": "/images/article_thumb_3.jpg",
+      "src": "/images/articles/crypto-markets-today-may-1-bitcoin-holds-above-78-000-as-tech-stocks-set-new-hig-hero.jpg",
       "alt": "Crypto Markets Today, May 1: Bitcoin Holds Above $78,000 as Tech Stocks Set New Highs"
     },
     "readingTime": 8
@@ -446,7 +551,7 @@
     "metaDescription": "As of today, Ethereum's price is $2,308.85, reflecting a significant increase from its price a year ago. Analysts predict a potential range of $4,970–$7,460 by ",
     "excerpt": "As of today, Ethereum's price is $2,308.85, reflecting a significant increase from its price a year ago. Analysts predict a potential range of $4,970–$7,460 by May 1, 2026, based on current trends.",
     "image": {
-      "src": "/images/article_thumb_4.jpg",
+      "src": "/images/articles/current-price-of-ethereum-for-may-1-2026-hero.jpg",
       "alt": "Current price of Ethereum for May 1, 2026"
     },
     "readingTime": 9
@@ -572,6 +677,27 @@
       "alt": "Fed holds rates steady but with highest level of dissent since 1992"
     },
     "readingTime": 7
+  },
+  {
+    "id": "federal-funds-rate-history-1990-to-2026",
+    "type": "news",
+    "title": "Federal Funds Rate History 1990 to 2026",
+    "slug": "federal-funds-rate-history-1990-to-2026",
+    "date": "2026-05-02",
+    "displayDate": "May 2, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Funds Rate was near zero in 2020 due to the COVID-19 pandemic, then gradually increased to around 0.25% in 2026. The Federal Reserve has been adjust",
+    "excerpt": "The Federal Funds Rate was near zero in 2020 due to the COVID-19 pandemic, then gradually increased to around 0.25% in 2026. The Federal Reserve has been adjusting rates to manage economic conditions since 1990.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Federal Funds Rate History 1990 to 2026"
+    },
+    "readingTime": 3
   },
   {
     "id": "federal-reserve-balance-sheet-qt",
@@ -1047,6 +1173,27 @@
     "readingTime": 10
   },
   {
+    "id": "q1-2026-earnings-call-remarks-from-our-ceo",
+    "type": "news",
+    "title": "Q1 2026 earnings call: Remarks from our CEO",
+    "slug": "q1-2026-earnings-call-remarks-from-our-ceo",
+    "date": "2026-05-02",
+    "displayDate": "May 2, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Sundar Pichai announced Q1 2026 results with 63% growth, surpassing $20 billion in revenue for Google Cloud. The CEO highlighted successful AI investments and a",
+    "excerpt": "Sundar Pichai announced Q1 2026 results with 63% growth, surpassing $20 billion in revenue for Google Cloud. The CEO highlighted successful AI investments and a strong start to the year.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Q1 2026 earnings call: Remarks from our CEO"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "q1-2026-earnings-season-recap",
     "type": "market-wrap",
     "title": "Q1 2026 Earnings Season Recap: Key Takeaways and Market Impact",
@@ -1438,6 +1585,27 @@
     "readingTime": 11
   },
   {
+    "id": "these-are-the-stocks-reporting-earnings-today-april-29-2026",
+    "type": "news",
+    "title": "These Are the Stocks Reporting Earnings Today – April 29, 2026",
+    "slug": "these-are-the-stocks-reporting-earnings-today-april-29-2026",
+    "date": "2026-05-02",
+    "displayDate": "May 2, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "AerCap Holdings and SoFi Technologies are set to report earnings today, April 29, 2026. AFLAC, Allstate, O'Reilly Auto, and American Water are also scheduled to",
+    "excerpt": "AerCap Holdings and SoFi Technologies are set to report earnings today, April 29, 2026. AFLAC, Allstate, O'Reilly Auto, and American Water are also scheduled to report. Earnings reports are crucial for investors.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "These Are the Stocks Reporting Earnings Today – April 29, 2026"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "top-crypto-assets-by-market-cap",
     "type": "listicle",
     "title": "Top 7 Cryptocurrencies by Market Cap in 2026",
@@ -1708,6 +1876,27 @@
     "readingTime": 8
   },
   {
+    "id": "washington-on-edge-as-week-brings-an-array-of-economic-data-and-a-royal-visit",
+    "type": "news",
+    "title": "Washington on Edge as Week Brings an Array of Economic Data and a Royal Visit",
+    "slug": "washington-on-edge-as-week-brings-an-array-of-economic-data-and-a-royal-visit",
+    "date": "2026-05-02",
+    "displayDate": "May 2, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Washington is tense due to upcoming economic data releases and a royal visit, amid heightened security following a recent assassination attempt on President Tru",
+    "excerpt": "Washington is tense due to upcoming economic data releases and a royal visit, amid heightened security following a recent assassination attempt on President Trump. The week also features critical discussions on the Iran war and the Strait of Hormuz. The Federal Reserve's interest rate decision is hi",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Washington on Edge as Week Brings an Array of Economic Data and a Royal Visit"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "weekly-market-commentary",
     "type": "news",
     "title": "Weekly market commentary",
@@ -1946,7 +2135,7 @@
     "metaDescription": "Watch for the FOMC decision, Q1 GDP release, and major tech earnings. Inflation and Middle East tensions remain key factors.",
     "excerpt": "Watch for the FOMC decision, Q1 GDP release, and major tech earnings. Inflation and Middle East tensions remain key factors.",
     "image": {
-      "src": "/images/article_thumb_2.jpg",
+      "src": "/images/articles/what-to-look-out-for-in-economic-data-this-week-april-27-may-1-hero.jpg",
       "alt": "What to Look Out for in Economic Data This Week (April 27-May 1)"
     },
     "readingTime": 8
@@ -2010,7 +2199,7 @@
     "metaDescription": "High-yield savings accounts, stocks, and ETFs are top investments for 2026, offering growth potential and diversification. Bonds and municipal bonds provide sta",
     "excerpt": "High-yield savings accounts, stocks, and ETFs are top investments for 2026, offering growth potential and diversification. Bonds and municipal bonds provide stable returns, while international equities may offer additional growth opportunities. Consider risk tolerance and market conditions when choo",
     "image": {
-      "src": "/images/article_thumb_4.jpg",
+      "src": "/images/articles/10-best-investments-where-to-invest-in-2026-thumb.jpg",
       "alt": "10 Best Investments: Where to Invest in 2026"
     },
     "readingTime": 8
@@ -2031,7 +2220,7 @@
     "metaDescription": "Four S&P 500 stocks turned $10,000 into $109,607 in four months. This exceptional growth highlights the market's volatility and potential for high returns. The ",
     "excerpt": "Four S&P 500 stocks turned $10,000 into $109,607 in four months. This exceptional growth highlights the market's volatility and potential for high returns. The specific stocks are not identified here.",
     "image": {
-      "src": "/images/article_thumb_1.jpg",
+      "src": "/images/articles/4-s-p-500-stocks-turn-10-000-to-109-607-in-four-months-thumb.jpg",
       "alt": "4 S&P 500 Stocks Turn $10,000 To $109,607 In Four Months"
     },
     "readingTime": 8
@@ -2053,31 +2242,10 @@
     "metaDescription": "![investinglive.com](https://images.investinglive.com/fl-static/investing-live-logo.svg \"Forex News, Technical Analysis & Trading Tools\")\n![investinglive.com](h",
     "excerpt": "![investinglive.com](https://images.investinglive.com/fl-static/investing-live-logo.svg \"Forex News, Technical Analysis & Trading Tools\")\n![investinglive.com](https://images.investinglive.com/fl-static/investing-live-logo.svg \"Forex News, Technical Analysis & Trading Tools\")",
     "image": {
-      "src": "/images/article_thumb_3.jpg",
+      "src": "/images/articles/a-trifecta-of-key-us-economic-releases-will-play-out-this-week-thumb.jpg",
       "alt": "A trifecta of key US economic releases will play out this week"
     },
     "readingTime": 5
-  },
-  {
-    "id": "adamas-trust-q1-2026-slides-ead-surges-45-as-portfolio-hits-10-9b",
-    "type": "news",
-    "title": "Adamas Trust Q1 2026 slides: EAD surges 45% as portfolio hits $10.9B",
-    "slug": "adamas-trust-q1-2026-slides-ead-surges-45-as-portfolio-hits-10-9b",
-    "date": "2026-05-01",
-    "displayDate": "May 1, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Adamas Trust's Q1 2026 earnings showed EAD surged 45% to $10.9 billion, driven by strong portfolio growth and earnings momentum. EAD per share increased 45% yea",
-    "excerpt": "Adamas Trust's Q1 2026 earnings showed EAD surged 45% to $10.9 billion, driven by strong portfolio growth and earnings momentum. EAD per share increased 45% year-over-year to $0.29. The company's GAAP EPS was $0.41.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Adamas Trust Q1 2026 slides: EAD surges 45% as portfolio hits $10.9B"
-    },
-    "readingTime": 12
   },
   {
     "id": "analyst-shares-new-bitcoin-prediction-for-all-of-2026",
@@ -2119,69 +2287,6 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "Apple stock sees slight bump following Q2 2026 earnings report"
-    },
-    "readingTime": 9
-  },
-  {
-    "id": "asset-allocation-insights-march-2026",
-    "type": "news",
-    "title": "Asset Allocation Insights - March 2026",
-    "slug": "asset-allocation-insights-march-2026",
-    "date": "2026-05-01",
-    "displayDate": "May 1, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Rising energy prices impact Europe, UK, and Japan; long-duration bonds are attractive due to steep yield curves; equities remain favored over bonds.",
-    "excerpt": "Rising energy prices impact Europe, UK, and Japan; long-duration bonds are attractive due to steep yield curves; equities remain favored over bonds.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Asset Allocation Insights - March 2026"
-    },
-    "readingTime": 7
-  },
-  {
-    "id": "asset-allocation-outlook-2q-2026-beyond-the-conflict",
-    "type": "news",
-    "title": "Asset Allocation Outlook 2Q 2026: Beyond the Conflict",
-    "slug": "asset-allocation-outlook-2q-2026-beyond-the-conflict",
-    "date": "2026-05-01",
-    "displayDate": "May 1, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Despite Middle East conflict disruptions, the outlook for global equities remains constructive, with a focus on U.S. and emerging markets, and selective equity ",
-    "excerpt": "Despite Middle East conflict disruptions, the outlook for global equities remains constructive, with a focus on U.S. and emerging markets, and selective equity exposure is still seen as structurally sound. Wellington Management maintains a moderately overweight view on global equities despite market",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Asset Allocation Outlook 2Q 2026: Beyond the Conflict"
-    },
-    "readingTime": 12
-  },
-  {
-    "id": "big-firms-quarterly-results-may-signal-what-s-next-for-the-economy",
-    "type": "news",
-    "title": "Big firms’ quarterly results may signal what’s next for the economy",
-    "slug": "big-firms-quarterly-results-may-signal-what-s-next-for-the-economy",
-    "date": "2026-05-01",
-    "displayDate": "May 1, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Big firms' quarterly results often indicate economic trends; recent reports from major companies suggest a potential economic recovery; analysts closely monitor",
-    "excerpt": "Big firms' quarterly results often indicate economic trends; recent reports from major companies suggest a potential economic recovery; analysts closely monitor these reports for future economic direction.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Big firms’ quarterly results may signal what’s next for the economy"
     },
     "readingTime": 9
   },
@@ -2336,27 +2441,6 @@
     "readingTime": 8
   },
   {
-    "id": "federal-funds-rate-history-1990-to-2026",
-    "type": "news",
-    "title": "Federal Funds Rate History 1990 to 2026",
-    "slug": "federal-funds-rate-history-1990-to-2026",
-    "date": "2026-05-01",
-    "displayDate": "May 1, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Funds Rate was near-zero in 2020 due to the COVID-19 pandemic, but it has since increased. As of 2026, the rate is higher than in 2020 but still rel",
-    "excerpt": "The Federal Funds Rate was near-zero in 2020 due to the COVID-19 pandemic, but it has since increased. As of 2026, the rate is higher than in 2020 but still relatively low historically. The Federal Reserve adjusts the rate to influence economic activity.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Federal Funds Rate History 1990 to 2026"
-    },
-    "readingTime": 9
-  },
-  {
     "id": "global-market-insights-asian-alliance-international-and-2-additional-penny-stock",
     "type": "news",
     "title": "Global Market Insights: Asian Alliance International And 2 Additional Penny Stocks",
@@ -2485,27 +2569,6 @@
       "alt": "Jefferies flags 4 charts that show the stock sell-off could soon turn into a new rally"
     },
     "readingTime": 5
-  },
-  {
-    "id": "q1-2026-earnings-call-remarks-from-our-ceo",
-    "type": "news",
-    "title": "Q1 2026 earnings call: Remarks from our CEO",
-    "slug": "q1-2026-earnings-call-remarks-from-our-ceo",
-    "date": "2026-05-01",
-    "displayDate": "May 1, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "CEO remarks highlight strong Q1 2026 performance, AI and cybersecurity driving growth, and market confidence remains high. Earnings call indicates robust demand",
-    "excerpt": "CEO remarks highlight strong Q1 2026 performance, AI and cybersecurity driving growth, and market confidence remains high. Earnings call indicates robust demand for AI products and cybersecurity services. Market impact is positive, with CEO confidence at a four-year high.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Q1 2026 earnings call: Remarks from our CEO"
-    },
-    "readingTime": 7
   },
   {
     "id": "q1-2026-earnings-here-s-what-every-music-company-made-updating",
