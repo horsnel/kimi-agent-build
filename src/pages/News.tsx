@@ -150,25 +150,33 @@ export default function News() {
   }, []);
 
   useEffect(() => {
+    // Small delay to let DOM settle after SPA navigation, then refresh ScrollTrigger
+    const timer = setTimeout(() => {
+      ScrollTrigger.refresh();
+    }, 100);
+
     const ctx = gsap.context(() => {
       gsap.fromTo(
         '.news-section',
-        { opacity: 0, y: 50 },
+        { opacity: 0, y: 30 },
         {
           opacity: 1,
           y: 0,
-          duration: 0.8,
-          stagger: 0.15,
-          ease: 'power3.out',
+          duration: 0.6,
+          stagger: 0.1,
+          ease: 'power2.out',
           scrollTrigger: {
             trigger: sectionRef.current,
-            start: 'top 80%',
+            start: 'top 90%',
           },
         }
       );
     }, sectionRef);
 
-    return () => ctx.revert();
+    return () => {
+      clearTimeout(timer);
+      ctx.revert();
+    };
   }, []);
 
   const featured = newsArticles.find((a) => a.featured);

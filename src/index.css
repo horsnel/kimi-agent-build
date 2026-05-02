@@ -91,12 +91,9 @@
   }
 }
 
-/* Anti-flicker: GSAP animated sections should be visible immediately
+/* Anti-flicker: all GSAP-animated sections should be visible by default
    and only animate when JS is ready. This prevents FOUC on slow mobile. */
-.gsap-not-loaded .dash-section,
-.gsap-not-loaded .mort-section,
-.gsap-not-loaded .bt-section,
-.gsap-not-loaded .pod-section {
+.gsap-not-loaded [class*="-section"] {
   opacity: 1 !important;
   transform: none !important;
 }

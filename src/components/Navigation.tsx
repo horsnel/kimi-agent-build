@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react';
+import React, { useState, useEffect } from 'react';
 import { Link, useLocation, useNavigate } from 'react-router';
 import { SigmaIcon, MenuIcon, XIcon, ChevronDownIcon } from './CustomIcons';
 import { useAuth } from '../hooks/useAuth';
@@ -74,7 +74,7 @@ const navGroups: NavGroup[] = [
   },
 ];
 
-export default function Navigation() {
+function Navigation() {
   const [scrolled, setScrolled] = useState(false);
   const [mobileOpen, setMobileOpen] = useState(false);
   const [openDropdown, setOpenDropdown] = useState<string | null>(null);
@@ -94,7 +94,8 @@ export default function Navigation() {
 
   useEffect(() => {
     const handleScroll = () => {
-      setScrolled(window.scrollY > 80);
+      const isScrolled = window.scrollY > 80;
+      setScrolled(prev => prev === isScrolled ? prev : isScrolled);
     };
     window.addEventListener('scroll', handleScroll, { passive: true });
     return () => window.removeEventListener('scroll', handleScroll);
@@ -387,3 +388,5 @@ export default function Navigation() {
     </nav>
   );
 }
+
+export default React.memo(Navigation);
