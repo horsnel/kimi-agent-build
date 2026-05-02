@@ -28,3 +28,24 @@ Stage Summary:
 - Legal pages created at /privacy, /terms, /disclaimer, /cookies
 - Footer now includes legal links
 - Site deployed at https://sigma-capital.pages.dev
+
+---
+Task ID: 3
+Agent: Main Agent
+Task: Fix Cloudflare deployment with new API token
+
+Work Log:
+- Received new Cloudflare API token ([REDACTED])
+- Updated CLOUDFLARE_API_TOKEN GitHub secret
+- Verified token is active via /user/tokens/verify endpoint
+- Discovered account ID mismatch: old account a3b3d388de22a4074b01905e65aeb92c vs new account 9bd9a7308b74fc0440c7e6cd601f6eef
+- Updated CLOUDFLARE_ACCOUNT_ID GitHub secret to match the new token's account
+- Verified token has Cloudflare Pages deploy permissions via API test
+- Triggered manual workflow dispatch — build + deploy SUCCEEDED
+- Deployed to: https://04bb2145.sigma-capital.pages.dev
+
+Stage Summary:
+- CLOUDFLARE_API_TOKEN secret updated ✅
+- CLOUDFLARE_ACCOUNT_ID secret corrected ✅
+- Full CI/CD pipeline now working: Fetch → Build → Deploy ✅
+- Live site: https://sigma-capital.pages.dev ✅
