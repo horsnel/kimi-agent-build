@@ -1,5 +1,5 @@
 import { useRef, useMemo, Suspense, Component, type ReactNode } from 'react';
-import { Canvas, useFrame } from '@react-three/fiber';
+import { Canvas, useFrame, useThree } from '@react-three/fiber';
 import * as THREE from 'three';
 
 const vertexShader = `
@@ -156,6 +156,26 @@ const fragmentShader = `
   }
 `;
 
+// Handle WebGL context loss gracefully
+function ContextLossHandler() {
+  const { gl } = useThree();
+  useMemo(() => {
+    const canvas = gl.domElement;
+    const handleContextLoss = (e: WebGLContextEvent) => {
+      e.preventDefault();
+      console.warn('WebGL context lost — globe will attempt recovery');
+    };
+    canvas.addEventListener('webglcontextlost', handleContextLoss);
+    canvas.addEventListener('webglcontextrestored', () => {
+      console.info('WebGL context restored — globe recovered');
+    });
+    return () => {
+      canvas.removeEventListener('webglcontextlost', handleContextLoss);
+    };
+  }, [gl]);
+  return null;
+}
+
 function OrbitalCore() {
   const meshRef = useRef<THREE.Mesh>(null);
   const wireRef = useRef<THREE.Mesh>(null);
@@ -202,7 +222,7 @@ function OrbitalCore() {
   return (
     <group>
       <mesh ref={meshRef}>
-        <icosahedronGeometry args={[2, 6]} />
+        <icosahedronGeometry args={[2, 5]} />
         <shaderMaterial
           vertexShader={vertexShader}
           fragmentShader={fragmentShader}
@@ -260,10 +280,12 @@ export default function HeroOrbital() {
       <div className="absolute inset-0 z-0">
         <Canvas
         camera={{ position: [0, 0, 6], fov: 45 }}
-        dpr={[1, 2]}
-        gl={{ antialias: false, alpha: true }}
+        dpr={[1, 1.5]}
+        gl={{ antialias: false, alpha: true, powerPreference: 'default' }}
         style={{ background: 'transparent' }}
+        onError={(err) => { console.error('Canvas error:', err); }}
       >
+        <ContextLossHandler />
         <ambientLight intensity={0.2} />
         <pointLight position={[10, 10, 10]} intensity={0.5} color="#10B981" />
         <pointLight position={[-10, -10, -10]} intensity={0.3} color="#3B82F6" />
