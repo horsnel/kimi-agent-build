@@ -6,18 +6,54 @@
   "date": "2026-05-02",
   "displayDate": "May 2, 2026",
   "category": "Market Analysis",
-  "tags": ["stock market", "S&P 500", "market recap", "market performance", "daily market wrap"],
-  "metaDescription": "Complete stock market recap for May 1, 2026. S&P 500 gained 0.55%, closing at 5,604. Get the full market wrap with key movers, sector performance, and analysis.",
-  "excerpt": "U.S. stocks closed higher on May 1, 2026 as the S&P 500 advanced 0.55% to 5,604.82. The rally was driven by strong corporate earnings and dovish Fed commentary.",
+  "tags": [
+    "stock market",
+    "S&P 500",
+    "market recap",
+    "market performance",
+    "daily market wrap"
+  ],
+  "metaDescription": "U.S. equity markets finished the trading session on May 1, 2026 with broad-based gains as investor sentiment improved on the back of encouraging corporate earni",
+  "excerpt": "U.S. equity markets finished the trading session on May 1, 2026 with broad-based gains as investor sentiment improved on the back of encouraging corporate earnings results and commentary from Federal Reserve officials that reinforced expectations of a measured approach to monetary policy. The S&P 50",
   "content": {
     "introduction": "U.S. equity markets finished the trading session on May 1, 2026 with broad-based gains as investor sentiment improved on the back of encouraging corporate earnings results and commentary from Federal Reserve officials that reinforced expectations of a measured approach to monetary policy. The S&P 500 climbed 0.55% to settle at 5,604.82, the Dow Jones Industrial Average rose 0.35% to 41,324.35, and the NASDAQ Composite advanced 0.73% to 17,713.62. Trading volume was moderate, with approximately 9.2 billion shares changing hands on U.S. exchanges, slightly below the 30-day average of 9.8 billion. The risk-on tone was evident across asset classes: Treasury yields eased, the VIX volatility index declined, and cyclical sectors outperformed defensives. The market's resilience comes despite ongoing uncertainties around trade policy, fiscal deficits, and the trajectory of economic growth, suggesting that investors are increasingly comfortable with the consensus view of a soft landing for the U.S. economy. Small-cap stocks also participated in the rally, with the Russell 2000 gaining 0.8%, outpacing large-cap indices and signaling broadening market participation beyond mega-cap technology names that have dominated returns in recent months.",
     "keyIndices": [
-      {"name": "S&P 500", "value": "5,604.82", "change": "+0.55%", "up": true},
-      {"name": "NASDAQ", "value": "17,713.62", "change": "+0.73%", "up": true},
-      {"name": "Dow Jones", "value": "41,324.35", "change": "+0.35%", "up": true},
-      {"name": "10Y Treasury", "value": "4.22%", "change": "-0.03%", "up": false},
-      {"name": "VIX", "value": "15.87", "change": "-2.4%", "up": true},
-      {"name": "Bitcoin", "value": "$97,425", "change": "+1.8%", "up": true}
+      {
+        "name": "S&P 500",
+        "value": "5,604.82",
+        "change": "+0.55%",
+        "up": true
+      },
+      {
+        "name": "NASDAQ",
+        "value": "17,713.62",
+        "change": "+0.73%",
+        "up": true
+      },
+      {
+        "name": "Dow Jones",
+        "value": "41,324.35",
+        "change": "+0.35%",
+        "up": true
+      },
+      {
+        "name": "10Y Treasury",
+        "value": "4.22%",
+        "change": "-0.03%",
+        "up": false
+      },
+      {
+        "name": "VIX",
+        "value": "15.87",
+        "change": "-2.4%",
+        "up": true
+      },
+      {
+        "name": "Bitcoin",
+        "value": "$97,425",
+        "change": "+1.8%",
+        "up": true
+      }
     ],
     "marketDrivers": [
       "Corporate earnings season continued to deliver positive surprises, with approximately 78% of S&P 500 companies reporting earnings above analyst consensus estimates. The blended earnings growth rate for Q1 now stands at approximately 5.2% year-over-year, marking a meaningful improvement from the 3.8% growth rate expected at the beginning of the reporting period. Notably, revenue beat rates have also exceeded historical norms, suggesting that corporate pricing power remains intact despite moderating inflation.",
@@ -28,13 +64,39 @@
       "Commodity markets reflected the risk-on tone, with crude oil rising 1.2% to $78.45 per barrel as OPEC+ reaffirmed its commitment to production discipline and U.S. inventory data showed a larger-than-expected draw in crude stockpiles. Gold prices eased 0.3% to $2,335 per ounce as the reduced geopolitical risk appetite diminished safe-haven demand, while copper continued its strong run, gaining 0.8% on expectations of supply constraints and demand from the energy transition."
     ],
     "sectorPerformance": "Technology led all S&P 500 sectors with a gain of 1.1%, driven by semiconductor and cloud computing stocks. The Communication Services sector added 0.8% as streaming and digital advertising names posted solid results. Consumer Discretionary advanced 0.7% on better-than-expected same-store sales from several major retailers and continued strength in e-commerce. Industrials gained 0.5%, benefiting from the expansionary ISM Manufacturing reading and strong order books reported by several aerospace and defense companies. Healthcare was essentially flat at +0.1%, with pharmaceutical names offsetting weakness in managed care. Energy stocks declined 0.4% despite higher oil prices, as investors locked in recent gains ahead of OPEC+ meetings. Utilities lagged with a 0.6% decline as rising risk appetite reduced demand for defensive sectors, while Real Estate fell 0.8% on concerns about commercial property valuations in the office segment. The Financials sector gained 0.3%, with banks benefiting from a modest steepening of the yield curve which improves net interest margin outlook. Overall, the cyclical-to-defensive sector ratio improved, signaling increased risk appetite among market participants.",
-    "outlook": "Looking ahead, market participants will be focused on several key catalysts that could shape the near-term direction of equity markets. The April employment report, scheduled for release next Friday, will be the most closely watched data point, as the Federal Reserve has emphasized that labor market conditions are a critical input to its policy calculus. Consensus expectations call for non-farm payroll growth of approximately 185,000 with the unemployment rate holding steady at 3.8%. A significantly stronger or weaker number could meaningfully shift rate expectations and drive market volatility. Earnings season continues with reports from several mega-cap technology companies, including Amazon and Apple, whose results will provide important reads on consumer spending and enterprise technology investment trends. On the policy front, the Federal Reserve's next FOMC meeting on June 17-18 will be a focal point, though most analysts expect rates to remain unchanged with updated economic projections and dot-plot signals drawing the most attention. Technically, the S&P 500 is trading approximately 2% below its all-time high, with support at the 5,500 level and resistance near 5,660. The breadth of the rally — with advancing stocks outnumbering decliners by a 2.5-to-1 ratio — is encouraging and suggests the current uptrend remains intact. However, the elevated Shiller CAPE ratio above 34 warrants continued caution regarding long-term return expectations, and investors should maintain diversified allocations rather than chasing momentum in a narrow group of high-valuation growth stocks."
+    "outlook": "Looking ahead, market participants will be focused on several key catalysts that could shape the near-term direction of equity markets. The April employment report, scheduled for release next Friday, will be the most closely watched data point, as the Federal Reserve has emphasized that labor market conditions are a critical input to its policy calculus. Consensus expectations call for non-farm payroll growth of approximately 185,000 with the unemployment rate holding steady at 3.8%. A significantly stronger or weaker number could meaningfully shift rate expectations and drive market volatility. Earnings season continues with reports from several mega-cap technology companies, including Amazon and Apple, whose results will provide important reads on consumer spending and enterprise technology investment trends. On the policy front, the Federal Reserve's next FOMC meeting on June 17-18 will be a focal point, though most analysts expect rates to remain unchanged with updated economic projections and dot-plot signals drawing the most attention. Technically, the S&P 500 is trading approximately 2% below its all-time high, with support at the 5,500 level and resistance near 5,660. The breadth of the rally — with advancing stocks outnumbering decliners by a 2.5-to-1 ratio — is encouraging and suggests the current uptrend remains intact. However, the elevated Shiller CAPE ratio above 34 warrants continued caution regarding long-term return expectations, and investors should maintain diversified allocations rather than chasing momentum in a narrow group of high-valuation growth stocks.",
+    "body": [
+      "S&P 500 gains indicate a bullish market shift, supported by strong corporate earnings and resilient consumer spending. Historical data suggests these gains may continue. Investor sentiment has shifted from pessimism to optimism.",
+      "# Stock market bulls see signs rally could endure after S&P 500 back at highs | Reuters\n\nSkip to main content\n\nExclusive news, data and analytics for financial market professionals Learn more about Refinitiv\n\n in New York City\n\nTraders work on the floor at the New York Stock Exchange (NYSE) in New York City, U.S., April 16, 2026. REUTERS/Jeenah Moon Purchase Licensing Rights, opens new tab\n\n   Summary\n   Companies\n\n   Historical data shows S&P 500 often extends gains after new highs following pullbacks of 5.0%-9.9%\n   Investor sentiment shifts from pessimism to optimism, with aggressive buying by hedge funds\n   Options market sees surge in bullish bets as underexposed investors chase upside [...] Two weeks after ​such a recovery, the S&P 500 has ⁠posted a median return of 0.66%, with gains widening to 1.01% one month later — broadly in line with median forward returns for any comparable period since 1957, suggesting stocks have historically built on momentum rather than stalled at new highs.\n\nFor investors wary of a bull trap — where a declining asset appears ​to reverse higher, luring in buyers, only to resume its downward trend — the historical record is reassuring.\n\nIn roughly two-thirds of the 38 instances when ​the S&P 500 overcame ⁠a 5%-9.9% pullback, stocks were higher two weeks and one month later. [...] \"This is consistent with equity implied volatility and skew normalizing even as the underlying conflict persists, as the market shifts to pricing resolution,\" DeSimone said.\n\nLine chart showing options market sentiment has swung from deep pessimism to optimism\n\n## NO BULL TRAP HERE\n\nHistory too favors stock bulls.\n\nSince 1957, when the S&P 500 has logged a fresh record after recovering from a pullback of 5% to 10%, it has tended to extend those gains over the subsequent two weeks to one month, ​a Reuters analysis of LSEG data showed.",
+      "## It’s Not Just the Heavy Weights\n\nThe rally isn’t limited to the heaviest weighted stocks in the S&P 500. The S&P 500 Equal-Weighted Index ($SPXEW), which gives an equal weight to all stocks in the index, also moved higher. This indicates that participation is broadening.\n\nChart of S&P 500 Equal Weighted Index ($SPXEW) from StockCharts: spikes higher\n\nS&P 500 Equal Weighted Index ($SPXEW) Spikes Higher. Chart source: StockCharts.com.\n\nSmall-cap stocks are also showing signs of strength. The S&P 600 Small-Cap Index ($SML) also hit a record close, suggesting investors are feeling optimistic about the domestic economy.\n\n and Starbucks (SBUX) suggest consumers are still spending. [...] Consumer spending is a key driver of the economy, and as long as the labor market remains stable, consumers will continue to spend on travel, dining, and plenty of packages arriving at the front door.\n\nThe S&P 500 Retail ETF (XRT) bounced off its 200-day simple moving average (red line), and momentum looks like it’s getting ready to move higher, as seen by the Relative Strength Index (RSI) and Percentage Price Oscillator (PPO). The RSI has turned higher at around the 50 level and the PPO looks like it may cross back to the upside. Both indicators are displayed in the panels below the price chart.\n\nChart of S&P Retail ETF (XRT) from StockCharts: Rises After Pulling Back\n\nS&P Retail ETF (XRT) Rises After Pulling Back. Chart source: StockCharts.com. [...] # What’s Really Driving this Stock Market Rally? Start With These Charts\n\nJayanthi Gopalakrishnan\n\nby Jayanthi Gopalakrishnan,\n\nDirector of Site Content, StockCharts.com\n\nKey Takeaways\n\n New highs in the S&P 500, Nasdaq, and small-caps suggest strength beyond mega-cap tech.\n Strong corporate earnings are driving the stock market higher.\n Consumer spending remains resilient despite inflation concerns.\n\nAnd there it goes again.\n\nThe S&P 500 ($SPX) and Nasdaq Composite ($COMPQ) closed at new highs, ending April on a strong note. Not long ago, that outcome seemed unlikely. But the stock market can change on a dime, and what happened in April is a reminder of why it pays to follow the market.",
+      "Standard and Poor's 500 Index is a capitalization-weighted stock market index measuring the performance of 500 large publicly traded companies in the United States. This index covers a wide range of industries, including technology, healthcare, energy, and finance. It serves as a benchmark for the overall health of the U.S. stock market, as well as a reflection of the country's economic strength.  \nSubstantial gains in the S&P 500 are often interpreted as positive signals for the economy, while losses can be seen as indicators of potential trouble. Investors use this index as a barometer for their own portfolios and to assess the performance of individual stocks. The S&P 500 index plays a vital role in the financial world and is closely watched by analysts and policymakers. [...] SP:SPXEducation\n\nby TradingView\n\n2323\n\nSP500 Price Update – Clean & Clear ExplanationS&P 500 in a structured bullish setup forming after a period of consolidation. Price action has been ranging between multiple clearly marked zones, with repeated reactions from both demand and supply areas. Earlier sessions show choppy movement, but the market gradually builds higher lows and highe\n\nVANTAGE:SP500Long\n\nby Pintu\\_sahu01\n\n1111\n\nKelly Criterion: Why You SHOULD Use Leverage — And By How MuchHow much should you allocate to a certain investment? How much should you leverage? If you have $10,000 available to invest, how much should you put into a stock like Tesla, and how much should go into an index fund like the S&P 500? Most investors have no idea what the optimal allocations are to [...] OANDA:SPX500USD\n\nby rsitrades\n\n33\n\nHellena | SPX500 (4H): SHORT to 38.2% Fibo area of 6900 .Last week, the price continued its upward trend, indicating an extension of the intermediate-term Wave 1. I still believe we should expect a corrective move in Wave 2. In light of this, I suggest looking at the 6900 level as a target. This is the 38.2% Fibonacci level. The price may reach slightly\n\nOANDA:SPX500USDShort\n\nby Hellena\\_Trade\n\n33\n\nSPX500 Will Keep Growing! HI,Traders ! #US500 is trading in an Uptrend and the price Made a bullish breakout Of the key horizontal Level of 7141.46 and the Breakout is confirmed so We are bullish biased And we will be expecting A further bullish continuation ! Comment and subscribe to help us grow !\n\nGBEBROKERS:US500Long\n\nby kacim\\_elloitt\n\n11",
+      "With U.S. equities lazily grinding higher, the market’s recent behavior is showing a surprising level of complacency as the S&P 500 Index has seen a historic 29% rise since April 8. In just four months, investors have completely reversed both market sentiment, from uncertainty and fear to bullish optimism, and the economic outlook, from recession to a disinflationary capital-spending boom.\n\nMorgan Stanley’s Global Investment Committee understands the thinking that underpins this best-case scenario: that tariffs will prove navigable and non-inflationary; that growth in generative AI, combined with a capex boom spurred by the new tax law, will improve corporate profit margins and productivity; and that the weak U.S. dollar will help exporters.",
+      "## Investing Groups\n\n## Portfolios\n\n## Find & Compare\n\n## Subscriptions\n\n# Investor sentiment turns mixed as bullish views ease, shows latest AAII survey\n\nBullish sentiment among individual investors declined, while bearish views increased and neutral sentiment rose, pointing to a more mixed overall market outlook, according to the latest survey from the American Association of Individual Investors (AAII).\n\nThe American Association of Individual\n\n## Quick Insights\n\n### What does the latest AAII survey reveal about investor sentiment for US equities?\n\n### How have US and global equity markets responded to recent Fed decisions and economic data?\n\n### How are changes in oil prices and geopolitical events affecting US stock volatility?\n\n### Recommended For You\n\n### More Trending News"
+    ],
+    "keyTakeaways": [
+      "The S&P 500 climbed 0.55% to settle at 5,604.82, the Dow Jones Industrial Average rose 0.35% to 41,324.35, and the NASDAQ Composite advanced 0.73% to 17,713.62.",
+      "Trading volume was moderate, with approximately 9.2 billion shares changing hands on U.S.",
+      "exchanges, slightly below the 30-day average of 9.8 billion.",
+      "The risk-on tone was evident across asset classes: Treasury yields eased, the VIX volatility index declined, and cyclical sectors outperformed defensives.",
+      "S&P 500 gains indicate a bullish market shift, supported by strong corporate earnings and resilient consumer spending."
+    ]
   },
-  "readingTime": 8,
-  "updatedAt": "2026-05-02T00:00:00.000Z",
+  "readingTime": 12,
+  "updatedAt": "2026-05-02T09:13:02.341Z",
   "images": {
-    "thumbnail": {"src": "/images/articles/market-wrap-2026-05-01-thumb.jpg", "alt": "Stock market daily wrap"},
-    "hero": {"src": "/images/articles/market-wrap-2026-05-01-hero.jpg", "alt": "Wall Street trading day"},
-    "mid": {"src": "/images/articles/market-wrap-2026-05-01-mid.jpg", "alt": "Market performance data analysis", "credit": "sergeitokmakov / Pixabay", "creditUrl": "https://pixabay.com/users/3426571-sergeitokmakov/"}
+    "thumbnail": {
+      "src": "/images/articles/market-wrap-2026-05-01-thumb.jpg",
+      "alt": "Stock market daily wrap"
+    },
+    "hero": {
+      "src": "/images/articles/market-wrap-2026-05-01-hero.jpg",
+      "alt": "Wall Street trading day"
+    },
+    "mid": {
+      "src": "/images/articles/market-wrap-2026-05-01-mid.jpg",
+      "alt": "Market performance data analysis",
+      "credit": "sergeitokmakov / Pixabay",
+      "creditUrl": "https://pixabay.com/users/3426571-sergeitokmakov/"
+    }
   }
 }

@@ -6,18 +6,54 @@
   "date": "2026-05-02",
   "displayDate": "May 2, 2026",
   "category": "Fed Policy",
-  "tags": ["fed policy", "FOMC", "rate decision", "monetary policy", "june meeting"],
-  "metaDescription": "Preview of the June 2026 FOMC meeting. Key data points, dot plot expectations, and scenarios for the next Fed rate decision. What traders and investors should watch.",
-  "excerpt": "The June 2026 FOMC meeting will feature updated economic projections and the latest dot plot. With markets pricing a 65% chance of a September rate cut, the June meeting could be pivotal in shaping expectations for the second half of the year.",
+  "tags": [
+    "fed policy",
+    "FOMC",
+    "rate decision",
+    "monetary policy",
+    "june meeting"
+  ],
+  "metaDescription": "The upcoming June 17-18 FOMC meeting is shaping up to be one of the most consequential of 2026, not because market participants expect a rate change at the meet",
+  "excerpt": "The upcoming June 17-18 FOMC meeting is shaping up to be one of the most consequential of 2026, not because market participants expect a rate change at the meeting itself, but because it will be accompanied by an updated Summary of Economic Projections (SEP) and dot plot that could significantly res",
   "content": {
     "introduction": "The upcoming June 17-18 FOMC meeting is shaping up to be one of the most consequential of 2026, not because market participants expect a rate change at the meeting itself, but because it will be accompanied by an updated Summary of Economic Projections (SEP) and dot plot that could significantly reshape expectations for the remainder of the year. The March SEP showed a median expectation of two rate cuts in 2026, but the slower-than-anticipated pace of disinflation has led many analysts to expect a revision downward to just one cut. However, the April and May inflation and labor market data releases before the meeting could shift this calculus in either direction, making the incoming data flow over the next six weeks critically important for market positioning. The stakes are particularly high because the June meeting is the last one before the summer break, meaning that any shift in the committee's forward guidance will set the tone for market expectations through the traditionally low-liquidity months of July and August. This preview examines the key data points, scenarios, and market implications that traders should be monitoring in the run-up to the June decision.",
     "keyIndices": [
-      {"name": "Core PCE (YoY)", "value": "2.6%", "change": "-0.2pp", "up": true},
-      {"name": "Unemployment Rate", "value": "3.9%", "change": "+0.1pp", "up": false},
-      {"name": "GDP Growth (Q1)", "value": "2.1%", "change": "-0.4pp", "up": false},
-      {"name": "Sept Cut Probability", "value": "65%", "change": "+5pp", "up": true},
-      {"name": "2Y/10Y Spread", "value": "-6bp", "change": "+3bp", "up": true},
-      {"name": "Financial Conditions", "value": "-0.12", "change": "Tighter", "up": false}
+      {
+        "name": "Core PCE (YoY)",
+        "value": "2.6%",
+        "change": "-0.2pp",
+        "up": true
+      },
+      {
+        "name": "Unemployment Rate",
+        "value": "3.9%",
+        "change": "+0.1pp",
+        "up": false
+      },
+      {
+        "name": "GDP Growth (Q1)",
+        "value": "2.1%",
+        "change": "-0.4pp",
+        "up": false
+      },
+      {
+        "name": "Sept Cut Probability",
+        "value": "65%",
+        "change": "+5pp",
+        "up": true
+      },
+      {
+        "name": "2Y/10Y Spread",
+        "value": "-6bp",
+        "change": "+3bp",
+        "up": true
+      },
+      {
+        "name": "Financial Conditions",
+        "value": "-0.12",
+        "change": "Tighter",
+        "up": false
+      }
     ],
     "marketDrivers": [
       "The inflation data path between now and June is the single most important variable for the meeting outcome. The April and May CPI reports, scheduled for release on May 13 and June 10 respectively, along with the April and May PCE price index reports, will determine whether the committee can signal increased confidence in the disinflationary trend. Consensus expectations for April headline CPI call for a 0.3% month-over-month increase, while core CPI is expected to rise 0.2%. If both readings come in at or below expectations, the committee will have a strong basis for upgrading its assessment of inflation progress in the June statement. Conversely, an upside surprise in either report could push the first rate cut expectations toward December or even into 2027, creating significant repricing risk across fixed-income and equity markets.",
@@ -28,13 +64,37 @@
       "Finally, fiscal policy dynamics could influence the committee's thinking. The federal budget deficit continues to run at an elevated level, with the Treasury issuing large volumes of debt to fund government operations. This increased supply of Treasury securities interacts with the Fed's ongoing QT program, creating additional upward pressure on term premiums. If the Treasury announces changes to its issuance strategy at the May Quarterly Refunding announcement, this could affect the yield curve dynamics that the committee monitors as part of its financial conditions assessment."
     ],
     "sectorPerformance": "Market positioning ahead of the June FOMC meeting has been relatively balanced, with modest net-long positioning in Treasury futures and neutral positioning in equity index futures. The options market is pricing elevated implied volatility for the June meeting date, with the CME FedWatch implied volatility at approximately 15% above normal levels, reflecting the uncertainty around the dot plot and SEP updates. Rate-sensitive sectors including real estate, utilities, and REITs have been range-bound as investors await clarity on the rate path, while financial stocks have benefited from the steepening yield curve and expectations of sustained net interest margin support. In the credit markets, investment-grade corporate bond spreads have tightened modestly over the past month to approximately 95 basis points over Treasuries, while high-yield spreads have been stable at around 340 basis points. The front end of the curve has been more volatile than the long end, reflecting the greater uncertainty about the near-term rate path. Money market rates are fully pricing no change at the June meeting, with the overnight index swap (OIS) market implying less than a 5% probability of a rate change.",
-    "outlook": "The base case scenario for the June meeting remains a hold with updated projections that signal one rate cut in 2026, likely in September or December. Under this scenario, the statement is expected to acknowledge further progress on inflation while maintaining the data-dependent language that has characterized recent communications. The risk scenarios are asymmetric: a downside surprise in inflation could accelerate the timeline for the first cut and trigger a significant rally in bonds and rate-sensitive equities, while an upside inflation surprise could push the first cut into 2027 and lead to a sharp repricing higher in yields. For traders, the optimal strategy ahead of June may be to maintain a balanced portfolio with tactical hedges against tail risks in both directions. The period between the May and June meetings will feature an unusually dense calendar of important economic data releases, creating multiple opportunities for position adjustments as the information flow evolves. Key dates to watch include the May 13 CPI release, the May 16 retail sales report, the June 5 employment report, and the June 10 CPI release. Each of these data points has the potential to shift market expectations meaningfully and create trading opportunities across asset classes."
+    "outlook": "The base case scenario for the June meeting remains a hold with updated projections that signal one rate cut in 2026, likely in September or December. Under this scenario, the statement is expected to acknowledge further progress on inflation while maintaining the data-dependent language that has characterized recent communications. The risk scenarios are asymmetric: a downside surprise in inflation could accelerate the timeline for the first cut and trigger a significant rally in bonds and rate-sensitive equities, while an upside inflation surprise could push the first cut into 2027 and lead to a sharp repricing higher in yields. For traders, the optimal strategy ahead of June may be to maintain a balanced portfolio with tactical hedges against tail risks in both directions. The period between the May and June meetings will feature an unusually dense calendar of important economic data releases, creating multiple opportunities for position adjustments as the information flow evolves. Key dates to watch include the May 13 CPI release, the May 16 retail sales report, the June 5 employment report, and the June 10 CPI release. Each of these data points has the potential to shift market expectations meaningfully and create trading opportunities across asset classes.",
+    "body": [
+      "The FOMC June 2026 meeting is expected to maintain steady rates, with market impact on borrowing costs and economic stress. Traders should watch for inflation data and labor market shifts. The Fed's next move is likely a pause rather than a hike.",
+      "Polymarket traders assign a 95.5% implied probability to no change in the federal funds rate at the June 16-17, 2026 FOMC meeting, reflecting strong consensus after the Federal Reserve's April 29 decision to hold the target range steady at 3.50%-3.75%. Chair Powell highlighted the economy's firm footing, with solid GDP growth, stable unemployment around current levels despite subdued job gains, and elevated inflation that has ticked higher recently, diminishing near-term rate-cut urgency while futures markets price a steady path near 3.6%. This positioning aligns with recent Fed minutes and speeches emphasizing balanced risks amid transitory shocks. Realistic challenges include a sharp labor market downturn—such as weakening nonfarm payrolls ahead—or surging inflation data prompting a [...] Polymarket traders assign a 95.5% implied probability to no change in the federal funds rate at the June 16-17, 2026 FOMC meeting, reflecting strong consensus after the Federal Reserve's April 29 decision to hold the target range steady at 3.50%-3.75%. Chair Powell highlighted the economy's firm footing, with solid GDP growth, stable unemployment around current levels despite subdued job gains, and elevated inflation that has ticked higher recently, diminishing near-term rate-cut urgency while futures markets price a steady path near 3.6%. This positioning aligns with recent Fed minutes and speeches emphasizing balanced risks amid transitory shocks. Realistic challenges include a sharp labor market downturn—such as weakening nonfarm payrolls ahead—or surging inflation data prompting a [...] 50+ bps decrease dips to 10%1%\n\nFed minutes reveal deep divisions among officials over further rate cuts, with many expecting only one cut next year and some opposing even the December cut due to inflation concerns; the cautious outlook and split dampened market bets on a 50+ bps decrease by June 2026\n\nCNBC\nmariemontcapital.com\nchase.com\n\nFed Chair Jerome Powell states the Fed's next move is unlikely to be a rate hike, reinforcing market expectations of a pause or continued easing rather than large increases\n\n50+ bps increase dips to 0%4%\n\nFed Chair Jerome Powell states the Fed's next move is unlikely to be a rate hike, reinforcing market expectations of a pause or continued easing rather than large increases\n\nFedWatch - CME Group\nusbank.com\nReuters",
+      "Investor implications:\n\n    If there is major organizational change at the Fed, investors should brace for interim bond market volatility.\n    Challenges at the Fed stoke uncertainty in markets. Given all this, we expect a weaker U.S. dollar, a steepening yield curve and higher “term premiums”—the extra yield long-term bond investors demand to compensate for future policy-related uncertainty.\n\nIf there is major organizational change at the Fed, investors should brace for interim bond market volatility.\n\n1. 5\n\n   Trade Uncertainty Could Continue Moving Markets\n\n   Two main trade items remain on the policy agenda in 2026: [...] Investor implications:\n\n    Greater policy clarity with an improving macro backdrop should benefit insurance and biotech companies, with lower rates and looser regulations likely supporting mergers and acquisitions.\n    Corporate tax cuts under OBBBA could also benefit biotech and medtech firms by allowing them to claim R&D tax benefits, among others.\n    Health care has typically been the best-performing sector in midterm election years. Given the recent tailwinds, these stocks may still have room to run in 2026. [...] Investor implications:\n\n    Stocks initially rallied on the Supreme Court ruling. However, the administration's response, uncertainty around possible refunds and their potential to expand the U.S. deficit, could introduce fresh volatility into equity markets. Greater deficit expansion and debt issuance could also put upward pressure on long-term bond yields.\n    Headline-driven risk around the USMCA between now and the renegotiation is likely. However, a reaffirmation of trade relations with the U.S.’s two largest trading partners would provide some clarity for investors and potentially boost investments tied to the “near-shoring” theme, in which companies relocating production or supply chains closer to home markets stand to benefit.\n2. 6\n\n   CLARITY for Digital Assets",
+      "The stagflation risk is real. Towards the end of last year, the weakening job market said “cut,” while the tariff-induced price pressures said “hold.” In both speeches and votes on monetary policy, differences within the FOMC were on full display (three voting members dissented in mid-December, the most since September 2019). Most members clearly weighted the risks to the labor market more heavily than those of inflation, including Fed Chair Jerome Powell, though he did so while chanting the mantra that “there is no risk-free path for policy.” [...] To be clear, in our view, recent divisions are understandable given the balance of risks and do not signal any underlying problems with the committee. The inherent ambiguity in the monetary-policy path out of stagflation was amplified by the disruption to the dataflow from the October government shutdown. We will not speculate on when and how much the Fed will cut rates next year, though market expectations are for two 25-basis-point cuts. We do expect that in the second half of the year, the data will provide more clarity as to which side of the stagflation dilemma, and therefore, which side of the Fed’s dual mandate, requires more attention. [...] Looking ahead to 2026, we anticipate that overall growth will continue apace, even as the job market has clearly slowed. We expect this year to bring increased focus on the Federal Reserve’s interest rates decisions, the weakening job market and AI’s impact on it, valuations of AI-related firms, affordability challenges (such as health care and electricity prices), and the country’s limited fiscal space.\n\nIn this policy brief, we dive into each of these issues, examining how they may impact the broader economy in the year ahead.\n\n## The Federal Reserve’s stagflation challenge",
+      "Participants generally anticipated that the pace of real GDP growth would remain solid in 2026. Most participants expected growth to be supported by AI-related investment, continued favorable financial conditions, fiscal policy, or changes in regulatory policy. Most participants cautioned that the recent developments in the Middle East had raised the uncertainty surrounding their outlook for economic activity and had increased the associated downside risks. [...] The manager then discussed international developments. Foreign equities outperformed U.S. equities in 2025 and in early 2026, but their prices had declined more than those of U.S. equities since the start of the conflict in the Middle East. The exchange value of the dollar had experienced sharp swings over the previous several weeks but was roughly unchanged, on net, year to date. Sentiment toward the dollar appeared to have become more positive in the last several days of the intermeeting period, buoyed by the dollar's traditional safe-haven status and the U.S.'s position as a net energy exporter. With elevated energy prices causing global inflationary pressures, several central banks previously expected by market participants to either remain on hold or ease policy further—including the [...] In conjunction with this FOMC meeting, participants submitted their projections of the most likely outcomes for real GDP growth, the unemployment rate, and inflation for each year from 2026 through 2028 and over the longer run. The projections were based on participants' individual assessments of appropriate monetary policy, including their projections of the federal funds rate. Participants also provided their individual assessments of the level of uncertainty and the balance of risks associated with their projections. The Summary of Economic Projections was released to the public following the conclusion of the meeting.",
+      "## How Rate Shifts Impact Your Portfolio\n\nRate shifts can affect a portfolio because they affect borrowing costs for both companies and consumers. When rates go up, running a business becomes more expensive. Consumers face greater economic stress and can find it harder to pay their expenses. That means downward pressure on corporate earnings and share prices. When rates go down, consumers feel relief from pressure. Companies find it less expensive to operate, enabling higher profits, so likely, increased market caps with improved share prices. [...] The markets and the economy are in uncertain times. It’s impossible to know what the Federal Reserve will do in setting interest rates because the future effect of inflationary pressures is hazy. If the Fed increases interest rates in response to inflation at a future Fed meeting, virtually all asset classes will feel downward pressure. Rather than trying to time the market, experts suggest holding to your existing allocations unless something fundamental in your life has changed, in which case, talk to your financial advisor.\n\n## Frequently Asked Questions (FAQs)\n\nWhen Is The Next Fed Meeting In 2026?\n\nThe next FOMC meeting is scheduled for June 16 and 17, with the decision made on the second day. There is a Summary of Economic Projections that will be produced for that meeting. [...] ## Will The Fed Raise Interest Rates In 2026?\n\nCould the Fed, instead, raise interest rates this year? Some think it’s likely. “There’s an old Wall Street adage that markets dislike uncertainty,” said Robert Johnson, CEO of Economic Index Associates, and professor of finance at Creighton University’s Heider College of Business. “President Trump actually prides himself on being unpredictable. What you have with the Fed is the Fed trying to kick a field goal through moving goal posts. For the first time in years, the prevailing sentiment is that a rate hike is much more likely than a rate cut.”\n\n## How Rate Shifts Impact Your Portfolio"
+    ],
+    "keyTakeaways": [
+      "The March SEP showed a median expectation of two rate cuts in 2026, but the slower-than-anticipated pace of disinflation has led many analysts to expect a revision downward to just one cut.",
+      "This preview examines the key data points, scenarios, and market implications that traders should be monitoring in the run-up to the June decision.",
+      "The FOMC June 2026 meeting is expected to maintain steady rates, with market impact on borrowing costs and economic stress.",
+      "Traders should watch for inflation data and labor market shifts.",
+      "The Fed's next move is likely a pause rather than a hike."
+    ]
   },
-  "readingTime": 10,
-  "updatedAt": "2026-05-02T00:00:00.000Z",
+  "readingTime": 14,
+  "updatedAt": "2026-05-02T09:12:19.475Z",
   "images": {
-    "thumbnail": {"src": "/images/articles/fomc-meeting-preview-june-2026-thumb.jpg", "alt": "FOMC meeting preview"},
-    "hero": {"src": "/images/articles/fomc-meeting-preview-june-2026-hero.jpg", "alt": "Central bank meeting hall"},
-    "mid": {"src": "/images/articles/fomc-meeting-preview-june-2026-mid.jpg", "alt": "Policy documents and economic data"}
+    "thumbnail": {
+      "src": "/images/articles/fomc-meeting-preview-june-2026-thumb.jpg",
+      "alt": "FOMC meeting preview"
+    },
+    "hero": {
+      "src": "/images/articles/fomc-meeting-preview-june-2026-hero.jpg",
+      "alt": "Central bank meeting hall"
+    },
+    "mid": {
+      "src": "/images/articles/fomc-meeting-preview-june-2026-mid.jpg",
+      "alt": "Policy documents and economic data"
+    }
   }
 }

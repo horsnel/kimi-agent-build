@@ -817,6 +817,154 @@ function GeneratedArticleContent({ article }: { article: GeneratedArticle }) {
     );
   }
 
+  // News type
+  if (article.type === 'news') {
+    const intro = (c.introduction as string) || '';
+    const body = (c.body as string[]) || [];
+    const keyTakeaways = (c.keyTakeaways as string[]) || [];
+    const source = (c.source as string) || '';
+    const sourceUrl = (c.sourceUrl as string) || '';
+    const midIdx = Math.floor(body.length / 2);
+    return (
+      <div className="space-y-8">
+        {intro && (
+          <p className="text-offwhite/90 leading-relaxed text-base md:text-lg">{intro}</p>
+        )}
+        {body.map((paragraph, i) => (
+          <div key={i}>
+            <p className="text-offwhite/85 leading-relaxed text-base">{paragraph}</p>
+            {i === midIdx && <MidArticleImage />}
+          </div>
+        ))}
+        {body.length === 0 && !intro && (
+          <p className="text-slategray italic">Full article content coming soon.</p>
+        )}
+        {keyTakeaways.length > 0 && (
+          <div className="bg-charcoal border border-emerald/30 rounded-xl p-6">
+            <h2 className="text-xs font-mono text-emerald mb-3 uppercase tracking-wider">Key Takeaways</h2>
+            <ul className="space-y-2">
+              {keyTakeaways.map((t, i) => (
+                <li key={i} className="flex items-start gap-2 text-offwhite/90 text-sm">
+                  <span className="text-emerald mt-0.5 flex-shrink-0">&#10003;</span>
+                  {t}
+                </li>
+              ))}
+            </ul>
+          </div>
+        )}
+        {source && (
+          <div className="border-t border-subtleborder pt-4 mt-8">
+            <p className="text-xs font-mono text-slategray">
+              Source{sourceUrl ? (
+                <>: <a href={sourceUrl} target="_blank" rel="noopener noreferrer" className="hover:text-emerald transition-colors">{source}</a></>
+              ) : `: ${source}`}
+            </p>
+          </div>
+        )}
+      </div>
+    );
+  }
+
+  // Earnings type
+  if (article.type === 'earnings') {
+    const intro = (c.introduction as string) || '';
+    const keyIndices = (c.keyIndices as { name: string; value: string; change: string; up: boolean }[]) || [];
+    const marketDrivers = (c.marketDrivers as string[]) || [];
+    const outlook = (c.outlook as string) || '';
+    const sectorPerformance = (c.sectorPerformance as { sector: string; change: string; up: boolean }[]) || [];
+    return (
+      <div className="space-y-8">
+        {intro && <p className="text-offwhite/90 leading-relaxed text-base md:text-lg">{intro}</p>}
+        {keyIndices.length > 0 && (
+          <div>
+            <h2 className="text-xl font-display font-light text-offwhite mb-4">Key Metrics</h2>
+            <div className="grid grid-cols-2 md:grid-cols-3 gap-3">
+              {keyIndices.map((idx) => (
+                <div key={idx.name} className="bg-charcoal border border-subtleborder rounded-lg p-3">
+                  <p className="text-xs font-mono text-slategray">{idx.name}</p>
+                  <p className="text-sm font-mono text-offwhite">{idx.value}</p>
+                  <p className={`text-xs font-mono ${idx.up ? 'text-emerald' : 'text-crimson'}`}>{idx.change}</p>
+                </div>
+              ))}
+            </div>
+          </div>
+        )}
+        {marketDrivers.length > 0 && (
+          <div>
+            <h2 className="text-xl font-display font-light text-offwhite mb-4">Earnings Highlights</h2>
+            <ul className="space-y-3">
+              {marketDrivers.map((d, i) => (
+                <li key={i} className="flex items-start gap-2 text-offwhite/90 text-base">
+                  <span className="text-emerald mt-1.5 flex-shrink-0">&#9654;</span>
+                  {d}
+                </li>
+              ))}
+            </ul>
+          </div>
+        )}
+        <MidArticleImage />
+        {sectorPerformance.length > 0 && (
+          <div>
+            <h2 className="text-xl font-display font-light text-offwhite mb-4">Sector Performance</h2>
+            <div className="grid grid-cols-2 md:grid-cols-3 gap-2">
+              {sectorPerformance.map((s) => (
+                <div key={s.sector} className="bg-charcoal border border-subtleborder rounded-lg p-3 flex items-center justify-between">
+                  <span className="text-sm text-offwhite">{s.sector}</span>
+                  <span className={`text-xs font-mono ${s.up ? 'text-emerald' : 'text-crimson'}`}>{s.change}</span>
+                </div>
+              ))}
+            </div>
+          </div>
+        )}
+        {outlook && (
+          <div className="border-l-2 border-emerald/40 pl-4">
+            <h2 className="text-xl font-display font-light text-offwhite mb-2">Outlook</h2>
+            <p className="text-offwhite/90 leading-relaxed text-base">{outlook}</p>
+          </div>
+        )}
+      </div>
+    );
+  }
+
+  // Economic type
+  if (article.type === 'economic') {
+    const intro = (c.introduction as string) || '';
+    const body = (c.body as string[]) || [];
+    const keyTakeaways = (c.keyTakeaways as string[]) || [];
+    const outlook = (c.outlook as string) || '';
+    const midIdx = Math.floor(body.length / 2);
+    return (
+      <div className="space-y-8">
+        {intro && <p className="text-offwhite/90 leading-relaxed text-base md:text-lg">{intro}</p>}
+        {body.map((paragraph, i) => (
+          <div key={i}>
+            <p className="text-offwhite/85 leading-relaxed text-base">{paragraph}</p>
+            {i === midIdx && <MidArticleImage />}
+          </div>
+        ))}
+        {keyTakeaways.length > 0 && (
+          <div className="bg-charcoal border border-emerald/30 rounded-xl p-6">
+            <h2 className="text-xs font-mono text-emerald mb-3 uppercase tracking-wider">Key Takeaways</h2>
+            <ul className="space-y-2">
+              {keyTakeaways.map((t, i) => (
+                <li key={i} className="flex items-start gap-2 text-offwhite/90 text-sm">
+                  <span className="text-emerald mt-0.5 flex-shrink-0">&#10003;</span>
+                  {t}
+                </li>
+              ))}
+            </ul>
+          </div>
+        )}
+        {outlook && (
+          <div className="border-l-2 border-emerald/40 pl-4">
+            <h2 className="text-xl font-display font-light text-offwhite mb-2">Outlook</h2>
+            <p className="text-offwhite/90 leading-relaxed text-base">{outlook}</p>
+          </div>
+        )}
+      </div>
+    );
+  }
+
   // Fallback: render content fields as paragraphs
   return (
     <div className="space-y-4">
