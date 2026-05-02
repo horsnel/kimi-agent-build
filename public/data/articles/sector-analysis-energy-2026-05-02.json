@@ -1,7 +1,7 @@
 {
   "id": "sector-analysis-energy-2026-05-02",
-  "type": "sector",
-  "title": "Energy Sector Underperforming: -0.5% This Week — Key Stocks and Outlook",
+  "type": "news",
+  "title": "Energy Sector Underperforming: -0.5% This Week \u2014 Key Stocks and Outlook",
   "slug": "sector-analysis-energy-2026-05-02",
   "date": "2026-05-02",
   "displayDate": "May 2, 2026",
@@ -17,29 +17,14 @@
   "metaDescription": "Energy sector analysis for May 2, 2026. The sector is down 0.5% with leaders including XOM, CVX, COP. Get the full investment thesis, risks, and outlook.",
   "excerpt": "The Energy sector is lagging behind with a -0.5% change this week. We analyze the key drivers, top stocks, and what investors should watch next.",
   "content": {
-    "introduction": "The Energy sector has been facing headwinds in recent trading sessions, posting a decline of 0.5% compared to the broader S&P 500. This performance reflects the underlying dynamics shaping the sector, from macroeconomic forces to company-specific catalysts that are driving investor positioning.",
-    "investmentThesis": "OPEC+ production discipline and strategic reserves replenishment support crude prices. Energy companies are returning record cash to shareholders through buybacks and dividends.",
-    "keyStocks": [
-      {
-        "ticker": "XOM",
-        "name": "Exxon Mobil",
-        "commentary": "XOM remains a core holding in the Energy sector, with investors watching upcoming earnings and guidance for direction."
-      },
-      {
-        "ticker": "CVX",
-        "name": "Chevron Corp.",
-        "commentary": "CVX remains a core holding in the Energy sector, with investors watching upcoming earnings and guidance for direction."
-      },
-      {
-        "ticker": "COP",
-        "name": "ConocoPhillips",
-        "commentary": "COP remains a core holding in the Energy sector, with investors watching upcoming earnings and guidance for direction."
-      }
-    ],
-    "risks": "Global demand slowdown, renewable energy transition, and geopolitical supply disruptions.",
-    "outlook": "Investors should monitor the Energy sector for signs of stabilization and mean reversion. Position sizing and risk management remain critical, particularly given the macro uncertainty surrounding Fed policy and global growth expectations."
+    "introduction": "Market developments in the market analysis space are drawing significant attention from investors and analysts alike, with implications for portfolio strategy and risk management. The Energy sector is lagging behind with a -0.5% change this week. We analyze the key drivers, top stocks, and what investors should watch next.",
+    "body": [
+      "## Market Overview\n\nEnergy Sector Underperforming: -0.5% This Week \u2014 Key Stocks and Outlook. The current market environment is characterized by a complex interplay of macroeconomic forces, sector-specific dynamics, and geopolitical considerations. Investors are navigating a landscape where traditional correlations are shifting, and the dispersion of returns across sectors and individual securities is creating both risks and opportunities for active management.",
+      "## Key Developments\n\nSeveral important trends are shaping the investment landscape. Corporate earnings continue to be a primary driver of equity market performance, with results reflecting both the resilience of the economy and the challenges posed by inflation and interest rate policy. Sector rotation patterns indicate shifting investor preferences, as growth and value styles alternate in leadership depending on the prevailing macroeconomic narrative.",
+      "## What Investors Should Watch\n\nGoing forward, market participants should monitor a range of indicators including Federal Reserve communications, economic data releases, and corporate earnings reports. Geopolitical developments have the potential to introduce additional volatility, particularly in energy markets and supply chain sensitive sectors. Maintaining a well-diversified portfolio and a long-term perspective remains the most prudent approach to navigating the current environment."
+    ]
   },
-  "readingTime": 7,
+  "readingTime": 3,
   "updatedAt": "2026-05-02T18:40:37.364Z",
   "image": {
     "src": "/images/article_thumb_1.jpg",

@@ -1,0 +1,142 @@
+name: 🧠 AI Pipeline (LLM + KV)
+
+# ──────────────────────────────────────────────────────────────────────────────
+# Sigma Capital — AI-Powered Article Pipeline
+#
+# New architecture:
+#   1. Scrapes financial data via Serper.dev + Tavily
+#   2. Rewrites articles through Z.ai LLM for quality
+#   3. Pushes clean articles to Pipeline Worker API (Cloudflare KV)
+#   4. Builds and deploys site to Cloudflare Pages
+#
+# Key difference from old pipeline:
+#   - Articles go to Worker KV API (fast edge reads)
+#   - LLM rewriting happens IN the pipeline (no more junk articles)
+#   - Repo is no longer bloated with 146+ article JSON files
+#   - Worker KV is the source of truth for articles
+# ──────────────────────────────────────────────────────────────────────────────
+
+on:
+  schedule:
+    - cron: '0 0 * * *'    # Midnight UTC
+    - cron: '0 6 * * *'    # 6AM UTC
+    - cron: '0 12 * * *'   # 12PM UTC
+    - cron: '0 18 * * *'   # 6PM UTC
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'Pipeline mode (quality, generate, sync)'
+        required: false
+        default: 'quality'
+      max_articles:
+        description: 'Max articles to process'
+        required: false
+        default: '10'
+
+permissions:
+  contents: write
+
+env:
+  NODE_ENV: development
+  PIPELINE_API_URL: https://sigma-pipeline.odehebuka48.workers.dev
+
+jobs:
+  # ────────────────────────────────────────────────────────────────────────────
+  # JOB 1: Scrape data + Rewrite with LLM + Push to Worker KV
+  # ────────────────────────────────────────────────────────────────────────────
+  fetch-rewrite-push:
+    name: "📡 Fetch → 🧠 Rewrite → 📤 Push to KV"
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      - name: "📥 Checkout repository"
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+          persist-credentials: true
+
+      - name: "🟢 Setup Node.js 20"
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+          cache-dependency-path: package-lock.json
+
+      - name: "📦 Install dependencies (including dev)"
+        run: npm ci --include=dev
+
+      # ── STEP 1: Fetch real data (market indices, crypto, news headlines) ────
+      - name: "📡 Fetch real-time data"
+        env:
+          SERPER_API_KEY_1: ${{ secrets.SERPER_API_KEY_1 }}
+          SERPER_API_KEY_2: ${{ secrets.SERPER_API_KEY_2 }}
+          TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
+          FREEPIK_API_KEY: ${{ secrets.FREEPIK_API_KEY }}
+        run: |
+          echo "=== Fetching real data at $(date -u) ==="
+          node scripts/fetch-real-data.cjs --type=all || true
+
+      # ── STEP 2: LLM Article Quality Pipeline ───────────────────────────────
+      - name: "🧠 LLM Quality Check + Rewrite bad articles"
+        env:
+          PIPELINE_API_URL: ${{ env.PIPELINE_API_URL }}
+        run: |
+          echo "=== Running LLM article pipeline ==="
+          MODE="${{ github.event.inputs.mode || 'quality' }}"
+          MAX="${{ github.event.inputs.max_articles || '10' }}"
+          node scripts/pipeline-llm.mjs --mode=$MODE --max=$MAX --delay=3000
+
+      # ── STEP 3: Generate new articles if scheduled ─────────────────────────
+      - name: "📰 Generate new daily articles"
+        if: ${{ github.event_name == 'schedule' }}
+        env:
+          PIPELINE_API_URL: ${{ env.PIPELINE_API_URL }}
+        run: |
+          echo "=== Generating new articles ==="
+          node scripts/pipeline-llm.mjs --mode=generate --max=5 --delay=3000 || true
+
+      # ── STEP 4: Sync all articles to Worker KV ─────────────────────────────
+      - name: "🔄 Sync articles to Pipeline KV"
+        env:
+          PIPELINE_API_URL: ${{ env.PIPELINE_API_URL }}
+        run: |
+          echo "=== Syncing articles to Worker KV ==="
+          node scripts/pipeline-llm.mjs --mode=sync
+
+      # ── STEP 5: Commit data changes to repo ────────────────────────────────
+      - name: "💾 Commit & push data changes"
+        run: |
+          git config user.name "Sigma Data Bot"
+          git config user.email "data-bot@sigmacapital.dev"
+          git add public/data/ public/images/articles/ 2>/dev/null || true
+          if git diff --staged --quiet; then
+            echo "No data changes to commit"
+          else
+            git commit -m "📡 data: AI pipeline $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            git push
+            echo "✅ Data committed and pushed"
+          fi
+
+      # ── STEP 6: Build and Deploy ───────────────────────────────────────────
+      - name: "🏗️ Build site"
+        run: |
+          npm run build
+          du -sh dist/
+
+      - name: "🚀 Deploy to Cloudflare Pages"
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: pages deploy dist --project-name=sigma-capital
+
+      - name: "✅ Pipeline summary"
+        run: |
+          echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+          echo "🧠 AI Pipeline Complete!"
+          echo "📍 Site: https://sigma-capital.pages.dev"
+          echo "📡 API: ${{ env.PIPELINE_API_URL }}"
+          echo "⏰ $(date -u)"
+          echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
