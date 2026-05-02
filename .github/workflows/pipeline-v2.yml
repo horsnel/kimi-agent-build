@@ -1,19 +1,15 @@
-name: 🧠 AI Pipeline (LLM + KV)
+name: 🧠 AI Pipeline (Data + Deploy)
 
 # ──────────────────────────────────────────────────────────────────────────────
-# Sigma Capital — AI-Powered Article Pipeline
+# Sigma Capital — Data Pipeline + Deploy
 #
-# New architecture:
-#   1. Scrapes financial data via Serper.dev + Tavily
-#   2. Rewrites articles through Z.ai LLM for quality
-#   3. Pushes clean articles to Pipeline Worker API (Cloudflare KV)
-#   4. Builds and deploys site to Cloudflare Pages
+# Architecture:
+#   - This workflow: Scrape data + Build + Deploy to Cloudflare Pages
+#   - Pipeline Worker: LLM rewriting (triggered separately via API)
+#   - Worker KV: Article storage for fast edge reads
 #
-# Key difference from old pipeline:
-#   - Articles go to Worker KV API (fast edge reads)
-#   - LLM rewriting happens IN the pipeline (no more junk articles)
-#   - Repo is no longer bloated with 146+ article JSON files
-#   - Worker KV is the source of truth for articles
+# The LLM rewriting runs on the Pipeline Worker (Cloudflare edge),
+# which can access Workers AI. GitHub Actions just handles scraping + deploy.
 # ──────────────────────────────────────────────────────────────────────────────
 
 on:
@@ -22,16 +18,26 @@ on:
     - cron: '0 6 * * *'    # 6AM UTC
     - cron: '0 12 * * *'   # 12PM UTC
     - cron: '0 18 * * *'   # 6PM UTC
+  push:
+    branches: [main]
+    paths:
+      - 'src/**'
+      - 'public/**'
+      - 'package.json'
+      - 'vite.config.ts'
+      - 'index.html'
   workflow_dispatch:
     inputs:
-      mode:
-        description: 'Pipeline mode (quality, generate, sync)'
+      skip_scrape:
+        description: 'Skip data scraping (just build + deploy)'
         required: false
-        default: 'quality'
-      max_articles:
-        description: 'Max articles to process'
+        type: boolean
+        default: false
+      trigger_llm:
+        description: 'Trigger LLM rewrite on Worker'
         required: false
-        default: '10'
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -42,12 +48,12 @@ env:
 
 jobs:
   # ────────────────────────────────────────────────────────────────────────────
-  # JOB 1: Scrape data + Rewrite with LLM + Push to Worker KV
+  # JOB 1: Scrape Data + Build + Deploy
   # ────────────────────────────────────────────────────────────────────────────
-  fetch-rewrite-push:
-    name: "📡 Fetch → 🧠 Rewrite → 📤 Push to KV"
+  fetch-build-deploy:
+    name: "📡 Fetch → 🏗️ Build → 🚀 Deploy"
     runs-on: ubuntu-latest
-    timeout-minutes: 30
+    timeout-minutes: 25
 
     steps:
       - name: "📥 Checkout repository"
@@ -67,8 +73,9 @@ jobs:
       - name: "📦 Install dependencies (including dev)"
         run: npm ci --include=dev
 
-      # ── STEP 1: Fetch real data (market indices, crypto, news headlines) ────
+      # ── STEP 1: Fetch real data ──────────────────────────────────────────────
       - name: "📡 Fetch real-time data"
+        if: ${{ github.event.inputs.skip_scrape != 'true' }}
         env:
           SERPER_API_KEY_1: ${{ secrets.SERPER_API_KEY_1 }}
           SERPER_API_KEY_2: ${{ secrets.SERPER_API_KEY_2 }}
@@ -78,34 +85,55 @@ jobs:
           echo "=== Fetching real data at $(date -u) ==="
           node scripts/fetch-real-data.cjs --type=all || true
 
-      # ── STEP 2: LLM Article Quality Pipeline ───────────────────────────────
-      - name: "🧠 LLM Quality Check + Rewrite bad articles"
-        env:
-          PIPELINE_API_URL: ${{ env.PIPELINE_API_URL }}
+      - name: "📊 Data summary"
+        if: ${{ github.event.inputs.skip_scrape != 'true' }}
         run: |
-          echo "=== Running LLM article pipeline ==="
-          MODE="${{ github.event.inputs.mode || 'quality' }}"
-          MAX="${{ github.event.inputs.max_articles || '10' }}"
-          node scripts/pipeline-llm.mjs --mode=$MODE --max=$MAX --delay=3000
+          echo "Articles: $(ls public/data/articles/*.json 2>/dev/null | grep -v index.json | wc -l)"
+          echo "News: $(node -e "try{console.log(require('./public/data/news.json').length)}catch{console.log(0)}")"
 
-      # ── STEP 3: Generate new articles if scheduled ─────────────────────────
-      - name: "📰 Generate new daily articles"
-        if: ${{ github.event_name == 'schedule' }}
-        env:
-          PIPELINE_API_URL: ${{ env.PIPELINE_API_URL }}
-        run: |
-          echo "=== Generating new articles ==="
-          node scripts/pipeline-llm.mjs --mode=generate --max=5 --delay=3000 || true
-
-      # ── STEP 4: Sync all articles to Worker KV ─────────────────────────────
+      # ── STEP 2: Sync articles to Worker KV ──────────────────────────────────
       - name: "🔄 Sync articles to Pipeline KV"
-        env:
-          PIPELINE_API_URL: ${{ env.PIPELINE_API_URL }}
         run: |
           echo "=== Syncing articles to Worker KV ==="
-          node scripts/pipeline-llm.mjs --mode=sync
+          ARTICLES=$(ls public/data/articles/*.json 2>/dev/null | grep -v index.json | wc -l)
+          echo "Syncing $ARTICLES articles..."
+          
+          # Build a JSON array of all articles and push to the Worker API
+          node -e "
+            const fs = require('fs');
+            const path = require('path');
+            const dir = 'public/data/articles';
+            const files = fs.readdirSync(dir).filter(f => f.endsWith('.json') && f !== 'index.json');
+            const articles = files.map(f => JSON.parse(fs.readFileSync(path.join(dir, f), 'utf8'))).filter(a => a.slug);
+            
+            async function push() {
+              const batchSize = 10;
+              let synced = 0;
+              for (let i = 0; i < articles.length; i += batchSize) {
+                const batch = articles.slice(i, i + batchSize);
+                const resp = await fetch('${{ env.PIPELINE_API_URL }}/api/articles/bulk', {
+                  method: 'POST',
+                  headers: { 'Content-Type': 'application/json' },
+                  body: JSON.stringify({ articles: batch })
+                });
+                const data = await resp.json();
+                synced += data.synced || 0;
+              }
+              console.log('Synced ' + synced + ' articles to Worker KV');
+            }
+            push().catch(e => console.error('Sync failed:', e.message));
+          "
 
-      # ── STEP 5: Commit data changes to repo ────────────────────────────────
+      # ── STEP 3: Trigger LLM rewrite on Worker (optional) ───────────────────
+      - name: "🧠 Trigger LLM rewrite on Pipeline Worker"
+        if: ${{ github.event.inputs.trigger_llm == 'true' || (github.event_name == 'schedule' && github.event.schedule == '0 0 * * *') }}
+        run: |
+          echo "=== Triggering LLM rewrite on Worker ==="
+          curl -s -X POST "${{ env.PIPELINE_API_URL }}/api/pipeline/run" \
+            -H "Content-Type: application/json" \
+            -d '{"type":"news","maxArticles":5}' || echo "Worker LLM trigger failed (non-blocking)"
+
+      # ── STEP 4: Commit data changes ─────────────────────────────────────────
       - name: "💾 Commit & push data changes"
         run: |
           git config user.name "Sigma Data Bot"
@@ -114,12 +142,12 @@ jobs:
           if git diff --staged --quiet; then
             echo "No data changes to commit"
           else
-            git commit -m "📡 data: AI pipeline $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            git commit -m "📡 data: pipeline $(date -u +%Y-%m-%dT%H:%M:%SZ)"
             git push
             echo "✅ Data committed and pushed"
           fi
 
-      # ── STEP 6: Build and Deploy ───────────────────────────────────────────
+      # ── STEP 5: Build and Deploy ────────────────────────────────────────────
       - name: "🏗️ Build site"
         run: |
           npm run build
@@ -137,6 +165,6 @@ jobs:
           echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
           echo "🧠 AI Pipeline Complete!"
           echo "📍 Site: https://sigma-capital.pages.dev"
-          echo "📡 API: ${{ env.PIPELINE_API_URL }}"
+          echo "📡 KV API: ${{ env.PIPELINE_API_URL }}"
           echo "⏰ $(date -u)"
           echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
