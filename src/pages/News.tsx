@@ -5,6 +5,7 @@ import { ScrollTrigger } from 'gsap/ScrollTrigger';
 import { AreaChart, Area, ResponsiveContainer } from 'recharts';
 import { ClockIcon, ArrowRightIcon } from '../components/CustomIcons';
 import { fetchNews, fetchMarketIndices, fetchCryptoOverview, type NewsArticle as ApiNewsArticle, type MarketIndex, type CryptoAsset } from '../services/api';
+import { fetchPipelineArticles, type PipelineArticleSummary } from '../services/pipeline';
 import { useGeoCurrency } from '../hooks/useGeoCurrency';
 
 gsap.registerPlugin(ScrollTrigger);
@@ -68,7 +69,9 @@ interface GeneratedArticleSummary {
   metaDescription: string;
   excerpt: string;
   image: { src: string; alt: string };
+  thumbnail?: string;
   readingTime: number;
+  pipeline?: boolean; // true if from pipeline Worker
 }
 
 type InsightsTab = 'All' | 'Market Analysis' | 'Company News' | 'Economic Indicators' | 'Sector Performance' | 'Global Markets' | 'Investment Strategies' | 'Fed Policy' | 'Earnings' | 'Economic Data' | 'Crypto' | 'Education';
@@ -84,12 +87,42 @@ export default function News() {
   const [activeInsightsTab, setActiveInsightsTab] = useState<InsightsTab>('All');
   const sectionRef = useRef<HTMLDivElement>(null);
 
-  // Fetch generated articles from JSON
+  // Fetch generated articles from static JSON + pipeline Worker
   useEffect(() => {
+    // Fetch static articles
     fetch('/data/articles/index.json')
       .then((res) => res.json())
       .then((data: GeneratedArticleSummary[]) => setGeneratedArticles(data))
-      .catch(() => {/* silently fail — section simply won't render */});
+      .catch(() => {/* silently fail */});
+
+    // Fetch pipeline articles and merge
+    fetchPipelineArticles(30)
+      .then((pipelineArticles) => {
+        if (pipelineArticles.length > 0) {
+          const mapped: GeneratedArticleSummary[] = pipelineArticles.map((a) => ({
+            id: a.id,
+            type: a.type || 'news',
+            title: a.title,
+            slug: a.slug,
+            date: a.date,
+            displayDate: a.displayDate || new Date(a.date).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' }),
+            category: a.category,
+            tags: a.tags || [],
+            metaDescription: a.metaDescription || '',
+            excerpt: a.excerpt || '',
+            image: a.image || { src: '', alt: a.title },
+            readingTime: a.readingTime || 5,
+            pipeline: true,
+          }));
+          setGeneratedArticles((prev) => {
+            // Merge: pipeline articles first (they're fresher), deduplicate by slug
+            const existingSlugs = new Set(prev.map((a) => a.slug));
+            const newPipeline = mapped.filter((a) => !existingSlugs.has(a.slug));
+            return [...newPipeline, ...prev];
+          });
+        }
+      })
+      .catch(() => {/* silently fail */});
   }, []);
 
   useEffect(() => {
@@ -391,6 +424,9 @@ export default function News() {
                   {/* Content */}
                   <div className="relative z-10 p-4 sm:p-6 flex flex-col justify-end h-full min-h-[320px]">
                     <div className="flex items-center gap-2 mb-3">
+                      {article.pipeline && (
+                        <span className="inline-flex items-center px-1.5 py-0.5 text-[10px] font-mono font-bold rounded bg-emerald/20 text-emerald border border-emerald/30 uppercase tracking-wider">Live</span>
+                      )}
                       <CategoryBadge category={article.category} />
                       <span className="text-xs font-mono text-slategray">{article.readingTime} min read</span>
                     </div>

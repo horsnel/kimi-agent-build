@@ -2,6 +2,7 @@ import { useState, useEffect } from 'react';
 import { useParams, useLocation, Link, Navigate } from 'react-router';
 import { ArrowLeftIcon, ClockIcon, ShareIcon, BookmarkIcon } from '../components/CustomIcons';
 import { fetchNews, type NewsArticle as ApiNewsArticle } from '../services/api';
+import { fetchPipelineArticle, type PipelineArticleSummary } from '../services/pipeline';
 
 /* ── Generated article types ── */
 interface ArticleImage {
@@ -1001,9 +1002,10 @@ export default function ArticleDetail() {
 
   useEffect(() => {
     if (isGeneratedArticle && articleSlug) {
+      // Try static JSON first, fall back to pipeline Worker API
       fetch(`/data/articles/${articleSlug}.json`)
         .then((res) => {
-          if (!res.ok) throw new Error('Not found');
+          if (!res.ok) throw new Error('Not found in static files');
           return res.json();
         })
         .then((data: GeneratedArticle) => {
@@ -1011,8 +1013,35 @@ export default function ArticleDetail() {
           setLoading(false);
         })
         .catch(() => {
-          setGeneratedArticle(null);
-          setLoading(false);
+          // Static file not found — try pipeline Worker
+          fetchPipelineArticle(articleSlug)
+            .then((pipelineData) => {
+              if (pipelineData && pipelineData.content) {
+                const mapped: GeneratedArticle = {
+                  id: pipelineData.id,
+                  type: pipelineData.type || 'news',
+                  title: pipelineData.title,
+                  slug: pipelineData.slug,
+                  date: pipelineData.date,
+                  displayDate: pipelineData.displayDate || new Date(pipelineData.date).toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' }),
+                  category: pipelineData.category,
+                  tags: pipelineData.tags || [],
+                  metaDescription: pipelineData.metaDescription || '',
+                  excerpt: pipelineData.excerpt || '',
+                  content: pipelineData.content as Record<string, unknown>,
+                  readingTime: pipelineData.readingTime || 5,
+                  image: pipelineData.image,
+                };
+                setGeneratedArticle(mapped);
+              } else {
+                setGeneratedArticle(null);
+              }
+              setLoading(false);
+            })
+            .catch(() => {
+              setGeneratedArticle(null);
+              setLoading(false);
+            });
         });
     } else if (type === 'news') {
       fetchNews().then((data) => {
