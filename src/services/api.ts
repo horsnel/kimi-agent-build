@@ -253,9 +253,9 @@ export async function fetchMarketIndices(): Promise<MarketIndex[]> {
     return raw.map((item: any) => ({
       symbol: item.ticker?.replace('^', '') || item.name?.charAt(0) || '',
       name: item.name,
-      value: parseFloat(String(item.value).replace(/,/g, '')),
-      change: parseFloat(String(item.change).replace('+', '')),
-      changePercent: item.changePercent || 0,
+      value: parseFloat(String(item.value).replace(/,/g, '')) || 0,
+      change: parseFloat(String(item.change).replace('+', '')) || 0,
+      changePercent: parseFloat(String(item.changePercent || 0)) || 0,
       sparkline: item.sparkline?.length ? item.sparkline : [],
     }));
   } catch (error) {
@@ -321,11 +321,11 @@ export async function fetchCryptoOverview(): Promise<CryptoAsset[]> {
       rank: item.rank || item.market_cap_rank || 0,
       name: item.name,
       ticker: (item.symbol || item.ticker || '').toUpperCase(),
-      price: item.price || item.current_price || 0,
-      change24h: item.change24h || item.price_change_percentage_24h || 0,
-      change7d: item.change7d || item.price_change_percentage_7d || 0,
-      marketCap: formatLargeNumber(item.marketCap || item.market_cap || 0),
-      volume24h: formatLargeNumber(item.volume24h || item.total_volume || 0),
+      price: parseFloat(String(item.price || item.current_price || 0)) || 0,
+      change24h: parseFloat(String(item.change24h || item.price_change_percentage_24h || 0)) || 0,
+      change7d: parseFloat(String(item.change7d || item.price_change_percentage_7d || 0)) || 0,
+      marketCap: formatLargeNumber(parseFloat(String(item.marketCap || item.market_cap || 0)) || 0),
+      volume24h: formatLargeNumber(parseFloat(String(item.volume24h || item.total_volume || 0)) || 0),
       sparkline: item.sparkline?.length ? item.sparkline : [],
       sector: sectorMap[(item.symbol || item.ticker || '').toUpperCase()] || 'Other',
     }));

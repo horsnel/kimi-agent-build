@@ -2,7 +2,6 @@ import { useEffect, useRef, useState, type FormEvent } from 'react';
 import { Link } from 'react-router';
 import gsap from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
-import HeroOrbital from '../components/HeroOrbital';
 import BentoGrid from '../components/BentoGrid';
 import ScrambleTable from '../components/ScrambleTable';
 import DashboardTable from '../components/DashboardTable';
@@ -92,7 +91,16 @@ export default function Home() {
     <div>
       {/* Hero */}
       <section ref={heroRef} className="relative min-h-screen flex items-center justify-center overflow-hidden">
-        <HeroOrbital />
+        {/* CSS animated background — replaces Three.js HeroOrbital for reliability */}
+        <div className="absolute inset-0 z-0">
+          <div className="absolute inset-0 bg-gradient-to-br from-obsidian via-deepblack to-obsidian" />
+          <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[600px] h-[600px] bg-emerald/5 rounded-full blur-[120px] animate-pulse" />
+          <div className="absolute top-1/3 right-1/4 w-[300px] h-[300px] bg-chartblue/5 rounded-full blur-[80px] animate-pulse" style={{ animationDelay: '1s' }} />
+          {/* Orbital rings */}
+          <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[500px] h-[500px] border border-slategray/10 rounded-full animate-spin" style={{ animationDuration: '30s' }} />
+          <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[700px] h-[700px] border border-emerald/10 rounded-full animate-spin" style={{ animationDuration: '45s', animationDirection: 'reverse' }} />
+          <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[900px] h-[900px] border border-chartblue/5 rounded-full animate-spin" style={{ animationDuration: '60s' }} />
+        </div>
         <div ref={heroTextRef} className="relative z-10 text-center px-6 max-w-4xl mx-auto">
           <h1 className="text-5xl md:text-7xl lg:text-8xl font-display font-light tracking-tight text-offwhite mb-6">
             Market Intelligence.

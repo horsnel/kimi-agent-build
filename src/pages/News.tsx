@@ -118,12 +118,13 @@ export default function News() {
 
         // Map market indices
         indicesData.slice(0, 4).forEach((idx: MarketIndex) => {
+          const pct = Number(idx.changePercent) || 0;
           charts.push({
             title: idx.name,
-            value: idx.value.toLocaleString('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 }),
-            change: `${idx.changePercent >= 0 ? '+' : ''}${idx.changePercent.toFixed(2)}%`,
-            up: idx.changePercent >= 0,
-            data: idx.sparkline.length > 0 ? idx.sparkline.map((v: number) => ({ v })) : generateSparkline(idx.value, 20, 0.008),
+            value: Number(idx.value).toLocaleString('en-US', { minimumFractionDigits: 2, maximumFractionDigits: 2 }),
+            change: `${pct >= 0 ? '+' : ''}${pct.toFixed(2)}%`,
+            up: pct >= 0,
+            data: idx.sparkline.length > 0 ? idx.sparkline.map((v: number) => ({ v })) : generateSparkline(Number(idx.value) || 0, 20, 0.008),
           });
         });
 
@@ -133,8 +134,8 @@ export default function News() {
           charts.push({
             title: 'BTC/USD',
             value: formatLocalShort(btc.price),
-            change: `${btc.change24h >= 0 ? '+' : ''}${btc.change24h.toFixed(1)}%`,
-            up: btc.change24h >= 0,
+            change: `${Number(btc.change24h) >= 0 ? '+' : ''}${Number(btc.change24h).toFixed(1)}%`,
+            up: Number(btc.change24h) >= 0,
             data: btc.sparkline.length > 0 ? btc.sparkline.map((v: number) => ({ v })) : generateSparkline(btc.price, 20, 0.015),
           });
         }
@@ -382,7 +383,7 @@ export default function News() {
                   {/* Background image */}
                   <div
                     className="absolute inset-0 bg-cover bg-center transition-transform duration-500 group-hover:scale-105"
-                    style={{ backgroundImage: `url(${article.image.src})` }}
+                    style={{ backgroundImage: article.image?.src ? `url(${article.image.src})` : article.thumbnail ? `url(${article.thumbnail})` : 'none' }}
                   />
                   {/* Gradient overlay */}
                   <div className="absolute inset-0 bg-gradient-to-t from-obsidian via-obsidian/80 to-obsidian/30" />

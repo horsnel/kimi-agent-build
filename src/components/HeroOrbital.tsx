@@ -1,4 +1,4 @@
-import { useRef, useMemo, Suspense } from 'react';
+import { useRef, useMemo, Suspense, Component, type ReactNode } from 'react';
 import { Canvas, useFrame } from '@react-three/fiber';
 import * as THREE from 'three';
 
@@ -237,10 +237,28 @@ function OrbitalCore() {
   );
 }
 
+// ── Three.js Error Boundary ────────────────────────────────────────────────
+class ThreeErrorBoundary extends Component<{ children: ReactNode }, { hasError: boolean }> {
+  state = { hasError: false };
+  static getDerivedStateFromError() { return { hasError: true }; }
+  render() {
+    if (this.state.hasError) {
+      // Graceful fallback: just a subtle gradient instead of 3D orbital
+      return (
+        <div className="absolute inset-0 z-0 bg-gradient-to-br from-obsidian via-deepblack to-obsidian">
+          <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-96 h-96 bg-emerald/5 rounded-full blur-3xl" />
+        </div>
+      );
+    }
+    return this.props.children;
+  }
+}
+
 export default function HeroOrbital() {
   return (
-    <div className="absolute inset-0 z-0">
-      <Canvas
+    <ThreeErrorBoundary>
+      <div className="absolute inset-0 z-0">
+        <Canvas
         camera={{ position: [0, 0, 6], fov: 45 }}
         dpr={[1, 2]}
         gl={{ antialias: false, alpha: true }}
@@ -254,5 +272,6 @@ export default function HeroOrbital() {
         </Suspense>
       </Canvas>
     </div>
+    </ThreeErrorBoundary>
   );
 }
