@@ -49,3 +49,32 @@ Stage Summary:
 - CLOUDFLARE_ACCOUNT_ID secret corrected ✅
 - Full CI/CD pipeline now working: Fetch → Build → Deploy ✅
 - Live site: https://sigma-capital.pages.dev ✅
+
+---
+Task ID: 4
+Agent: Main Agent
+Task: Fix all UX bugs, optimize performance, check scraper, deploy via CLI
+
+Work Log:
+- Diagnosed 8 root cause bugs via code analysis
+- Fix 1: Removed leftover Vite template CSS from App.css (max-width:1280px, padding, text-align:center causing layout fights)
+- Fix 2: Changed ComingSoonWrapper overlay from absolute→fixed positioning so it centers in viewport instead of tall content
+- Fix 3: Added ScrollTrigger.refresh() delay in News.tsx to fix GSAP opacity:0 race condition on SPA navigation
+- Fix 4: Changed anti-flicker CSS guard from 4 specific classes to generic [class*="-section"] selector
+- Fix 5: Added ErrorBoundary class component + Suspense with PageLoader spinner + lazy() for all 30+ page routes
+- Fix 6: Added null guard for document.getElementById('root') in main.tsx
+- Fix 7: Removed debug inspectAttr() plugin, added manualChunks for vendor-react/three/charts/gsap
+- Fix 8: Added React.memo to Navigation + memoized scroll handler
+- Ran news scraper: generated news.json (20 articles) + newsletter.json (12 issues)
+- Discovered scripts/ directory was missing from local clone — restored via git rebase from remote
+- Resolved merge conflict in App.tsx (kept ErrorBoundary + Suspense version + added /news/article/:slug route)
+- Built successfully with code splitting: main index only 44KB, three.js isolated in 1MB chunk
+- Deployed to Cloudflare Pages via CLI: https://3bb89ee1.sigma-capital.pages.dev
+- Pushed all fixes to GitHub (commit 18d0ce1)
+
+Stage Summary:
+- All 8 bugs fixed ✅
+- Code splitting reduces initial load significantly ✅
+- News scraper working, generated 20 articles ✅
+- Deployed via Cloudflare Wrangler CLI ✅
+- Changes pushed to GitHub, CI/CD will auto-deploy ✅
