@@ -126,22 +126,22 @@
   "components": [
     {
       "label": "Social Media",
-      "value": 48,
+      "value": 40,
       "color": "#10B981"
     },
     {
       "label": "Volatility",
-      "value": 49,
+      "value": 45,
       "color": "#F59E0B"
     },
     {
       "label": "Market Momentum",
-      "value": 54,
+      "value": 48,
       "color": "#3B82F6"
     },
     {
       "label": "Dominance",
-      "value": 55,
+      "value": 52,
       "color": "#8B5CF6"
     }
   ]
