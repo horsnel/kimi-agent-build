@@ -1,5 +1,26 @@
 [
   {
+    "id": "10-day-trading-tips-for-beginners-getting-started",
+    "type": "news",
+    "title": "10 Day Trading Tips for Beginners Getting Started",
+    "slug": "10-day-trading-tips-for-beginners-getting-started",
+    "date": "2026-05-03",
+    "displayDate": "May 3, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "To start day trading, gain knowledge, use technical analysis, and manage risks. Start with small investments and set clear price targets and stop-losses. Levera",
+    "excerpt": "To start day trading, gain knowledge, use technical analysis, and manage risks. Start with small investments and set clear price targets and stop-losses. Leverage technology for better market insights.",
+    "image": {
+      "src": "/images/articles/10-day-trading-tips-for-beginners-getting-started-thumb.jpg",
+      "alt": "10 Day Trading Tips for Beginners Getting Started"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "2026-market-outlook-risks-and-opportunities-the-wall-street-sweeper-with-russell",
     "type": "news",
     "title": "2026 Market Outlook: Risks and Opportunities - The Wall Street Sweeper with Russell Hackmann",
@@ -63,6 +84,27 @@
     "readingTime": 3
   },
   {
+    "id": "analysis-assessing-inflation-s-impact",
+    "type": "news",
+    "title": "Analysis: Assessing Inflation’s Impact",
+    "slug": "analysis-assessing-inflation-s-impact",
+    "date": "2026-05-03",
+    "displayDate": "May 3, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Inflation reduces purchasing power, making everyday goods more expensive, which can strain household budgets and impact long-term savings. Persistently higher p",
+    "excerpt": "Inflation reduces purchasing power, making everyday goods more expensive, which can strain household budgets and impact long-term savings. Persistently higher prices also stress consumers, affecting both physical and mental health. The correlation between inflation rates and expectations continues t",
+    "image": {
+      "src": "/images/articles/analysis-assessing-inflation-s-impact-thumb.jpg",
+      "alt": "Analysis: Assessing Inflation’s Impact"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "asian-stock-markets-plunge-amid-trump-s-ultimatum-on-iran",
     "type": "news",
     "title": "Asian stock markets plunge amid Trump’s ultimatum on Iran",
@@ -122,6 +164,27 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "Asset Allocation Outlook 2Q 2026: Beyond the Conflict"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "average-inflation-rate-in-the-united-states-from-1980-to-2031",
+    "type": "news",
+    "title": "Average inflation rate in the United States from 1980 to 2031",
+    "slug": "average-inflation-rate-in-the-united-states-from-1980-to-2031",
+    "date": "2026-05-03",
+    "displayDate": "May 3, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The average inflation rate in the United States from 1980 to 2026 was approximately 3.1% per year. This data is based on the Consumer Price Index (CPI) publishe",
+    "excerpt": "The average inflation rate in the United States from 1980 to 2026 was approximately 3.1% per year. This data is based on the Consumer Price Index (CPI) published by the Bureau of Labor Statistics.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Average inflation rate in the United States from 1980 to 2031"
     },
     "readingTime": 3
   },
@@ -252,6 +315,48 @@
     "readingTime": 3
   },
   {
+    "id": "current-u-s-inflation-rate-is-2-4-chart-and-why-it-matters",
+    "type": "news",
+    "title": "Current U.S. Inflation Rate Is 2.4%: Chart and Why It Matters",
+    "slug": "current-u-s-inflation-rate-is-2-4-chart-and-why-it-matters",
+    "date": "2026-05-03",
+    "displayDate": "May 3, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The U.S. inflation rate is 2.4% as of February 2026, remaining stable from January. This rate is crucial for economic planning and policy decisions.",
+    "excerpt": "The U.S. inflation rate is 2.4% as of February 2026, remaining stable from January. This rate is crucial for economic planning and policy decisions.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Current U.S. Inflation Rate Is 2.4%: Chart and Why It Matters"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "dow-jones-and-u-s-stock-market-outlook-u-s-blockade-on-hormuz-begins-wall-street",
+    "type": "news",
+    "title": "Dow Jones And U.S. Stock Market Outlook: U.S. Blockade On Hormuz Begins - Wall Street Withstands The Pressure",
+    "slug": "dow-jones-and-u-s-stock-market-outlook-u-s-blockade-on-hormuz-begins-wall-street",
+    "date": "2026-05-03",
+    "displayDate": "May 3, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The U.S. stock market showed resilience despite the blockade on the Strait of Hormuz, with Dow Jones futures remaining stable and markets rallying. Sandisk reac",
+    "excerpt": "The U.S. stock market showed resilience despite the blockade on the Strait of Hormuz, with Dow Jones futures remaining stable and markets rallying. Sandisk reached new highs amid the situation.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Dow Jones And U.S. Stock Market Outlook: U.S. Blockade On Hormuz Begins - Wall Street Withstands The Pressure"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "earnings-calendar-analyst-estimates-and-stocks-to-watch",
     "type": "news",
     "title": "Earnings Calendar, Analyst Estimates And Stocks To Watch",
@@ -290,6 +395,27 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "Earnings Calendar and Analysis for This Week (May 4-8)"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "economic-data-on-factory-orders-and-fed-speech-highlight-monday-s-calendar",
+    "type": "news",
+    "title": "Economic data on factory orders and Fed speech highlight Monday’s calendar",
+    "slug": "economic-data-on-factory-orders-and-fed-speech-highlight-monday-s-calendar",
+    "date": "2026-05-03",
+    "displayDate": "May 3, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Monday's economic calendar features factory orders data and a speech from Federal Reserve Governor Christopher Waller. These key events highlight the manufactur",
+    "excerpt": "Monday's economic calendar features factory orders data and a speech from Federal Reserve Governor Christopher Waller. These key events highlight the manufacturing sector and monetary policy outlook.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Economic data on factory orders and Fed speech highlight Monday’s calendar"
     },
     "readingTime": 3
   },
@@ -483,6 +609,27 @@
     "readingTime": 3
   },
   {
+    "id": "how-much-of-your-portfolio-should-be-in-non-u-s-stocks",
+    "type": "news",
+    "title": "How Much of Your Portfolio Should Be in Non‑U.S. Stocks?",
+    "slug": "how-much-of-your-portfolio-should-be-in-non-u-s-stocks",
+    "date": "2026-05-03",
+    "displayDate": "May 3, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "For most long-term investors, international stocks should make up 5% to 40% of their portfolio, balancing diversification and risk. J.P. Morgan suggests a 30% a",
+    "excerpt": "For most long-term investors, international stocks should make up 5% to 40% of their portfolio, balancing diversification and risk. J.P. Morgan suggests a 30% allocation for better returns, while experts recommend 35%-40% for global markets.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "How Much of Your Portfolio Should Be in Non‑U.S. Stocks?"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "intel-s-stock-soars-20-as-results-top-estimates-with-chipmaker-showing-signs-of-",
     "type": "news",
     "title": "Intel's stock soars 20% as results top estimates, with chipmaker showing signs of growth",
@@ -500,6 +647,27 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "Intel's stock soars 20% as results top estimates, with chipmaker showing signs of growth"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "march-2026-investment-strategy-best-sectors-market-trends",
+    "type": "news",
+    "title": "March 2026 Investment Strategy: Best Sectors & Market Trends",
+    "slug": "march-2026-investment-strategy-best-sectors-market-trends",
+    "date": "2026-05-03",
+    "displayDate": "May 3, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "For March 2026, maintain equal weight in equities, prefer fixed deposits and short-term high-quality carry-oriented products in fixed income, and expect near-te",
+    "excerpt": "For March 2026, maintain equal weight in equities, prefer fixed deposits and short-term high-quality carry-oriented products in fixed income, and expect near-term market volatility.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "March 2026 Investment Strategy: Best Sectors & Market Trends"
     },
     "readingTime": 3
   },
@@ -542,6 +710,27 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "Meta stock sinks after Q1 earnings as company raises 2026 AI spending forecast to $125 billion-$145 billion"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "new-economic-data-highlights-the-strength-and-resilience-of-president-trump-s-ec",
+    "type": "news",
+    "title": "New Economic Data Highlights the Strength and Resilience of President Trump’s Economy",
+    "slug": "new-economic-data-highlights-the-strength-and-resilience-of-president-trump-s-ec",
+    "date": "2026-05-03",
+    "displayDate": "May 3, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Recent economic data shows strong growth and resilience in the U.S. economy under President Trump, with notable progress in housing and manufacturing. GDP growt",
+    "excerpt": "Recent economic data shows strong growth and resilience in the U.S. economy under President Trump, with notable progress in housing and manufacturing. GDP growth has exceeded expectations, and job creation is robust. The administration's pro-growth policies are credited for these results.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "New Economic Data Highlights the Strength and Resilience of President Trump’s Economy"
     },
     "readingTime": 3
   },
@@ -756,6 +945,27 @@
     "readingTime": 3
   },
   {
+    "id": "us-earnings-season-q1-2026",
+    "type": "news",
+    "title": "US earnings season - Q1 2026",
+    "slug": "us-earnings-season-q1-2026",
+    "date": "2026-05-03",
+    "displayDate": "May 3, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "US earnings season for Q1 2026 is forecasted to show a 13.2% growth for the S&P 500, marking the sixth consecutive quarter of double-digit earnings growth. The ",
+    "excerpt": "US earnings season for Q1 2026 is forecasted to show a 13.2% growth for the S&P 500, marking the sixth consecutive quarter of double-digit earnings growth. The Information Technology sector is driving this growth with a 45% expansion. Earnings for the Finance sector are expected to increase by 26.7%",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "US earnings season - Q1 2026"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "us-economic-forecast-q1-2026",
     "type": "news",
     "title": "US Economic Forecast Q1 2026",
@@ -819,6 +1029,27 @@
     "readingTime": 3
   },
   {
+    "id": "wall-st-week-ahead-industrial-sector-s-gains-to-be-tested-as-earnings-ramp-up",
+    "type": "news",
+    "title": "Wall St Week Ahead: Industrial sector's gains to be tested as earnings ramp up",
+    "slug": "wall-st-week-ahead-industrial-sector-s-gains-to-be-tested-as-earnings-ramp-up",
+    "date": "2026-05-03",
+    "displayDate": "May 3, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The industrial sector's strong performance is facing scrutiny as earnings increase. The S&P 500 industrials index has outperformed the broader S&P 500 this year",
+    "excerpt": "The industrial sector's strong performance is facing scrutiny as earnings increase. The S&P 500 industrials index has outperformed the broader S&P 500 this year. Investors will watch closely to see if the sector can maintain its gains.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Wall St Week Ahead: Industrial sector's gains to be tested as earnings ramp up"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "wall-st-week-ahead-us-earnings-season-set-to-test-war-rattled-stocks",
     "type": "news",
     "title": "Wall St Week Ahead US earnings season set to test war-rattled stocks",
@@ -840,6 +1071,27 @@
     "readingTime": 3
   },
   {
+    "id": "washington-on-edge-as-week-brings-an-array-of-economic-data-and-a-royal-visit",
+    "type": "news",
+    "title": "Washington on Edge as Week Brings an Array of Economic Data and a Royal Visit",
+    "slug": "washington-on-edge-as-week-brings-an-array-of-economic-data-and-a-royal-visit",
+    "date": "2026-05-03",
+    "displayDate": "May 3, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Washington is tense due to upcoming economic data releases and a royal visit amidst ongoing political and international tensions. The week includes critical dec",
+    "excerpt": "Washington is tense due to upcoming economic data releases and a royal visit amidst ongoing political and international tensions. The week includes critical decisions on interest rates and funding. The situation remains volatile.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Washington on Edge as Week Brings an Array of Economic Data and a Royal Visit"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "weekly-market-commentary",
     "type": "news",
     "title": "Weekly market commentary",
@@ -857,6 +1109,48 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "Weekly market commentary"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "weekly-market-update-stocks-gain-0-9-as-energy-rises-and-basic-materials-fall",
+    "type": "news",
+    "title": "Weekly Market Update: Stocks Gain 0.9% as Energy Rises and Basic Materials Fall",
+    "slug": "weekly-market-update-stocks-gain-0-9-as-energy-rises-and-basic-materials-fall",
+    "date": "2026-05-03",
+    "displayDate": "May 3, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Morningstar US Market Index rose 0.9%, with energy up 3.42% and basic materials down 1.98%. Large-cap stocks gained 1.01%, mid-cap stocks rose 0.75%, and sm",
+    "excerpt": "The Morningstar US Market Index rose 0.9%, with energy up 3.42% and basic materials down 1.98%. Large-cap stocks gained 1.01%, mid-cap stocks rose 0.75%, and small-cap stocks increased 0.03%.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Weekly Market Update: Stocks Gain 0.9% as Energy Rises and Basic Materials Fall"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "weekly-market-update-tech-stocks-lead-market-lower-basic-materials-gain",
+    "type": "news",
+    "title": "Weekly Market Update: Tech Stocks Lead Market Lower, Basic Materials Gain",
+    "slug": "weekly-market-update-tech-stocks-lead-market-lower-basic-materials-gain",
+    "date": "2026-05-03",
+    "displayDate": "May 3, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Tech stocks led declines, while basic materials gained in the latest market update. Key tech companies fell after earnings, but basic materials stocks rose. For",
+    "excerpt": "Tech stocks led declines, while basic materials gained in the latest market update. Key tech companies fell after earnings, but basic materials stocks rose. For detailed information, visit Morningstar's weekly market update.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Weekly Market Update: Tech Stocks Lead Market Lower, Basic Materials Gain"
     },
     "readingTime": 3
   },
@@ -920,27 +1214,6 @@
     "excerpt": "Our curated list of the 10 best dividend stocks for 2026. Each pick includes detailed analysis of yield, payout history, and why it deserves a spot in your income portfolio.",
     "image": null,
     "readingTime": 14
-  },
-  {
-    "id": "10-day-trading-tips-for-beginners-getting-started",
-    "type": "news",
-    "title": "10 Day Trading Tips for Beginners Getting Started",
-    "slug": "10-day-trading-tips-for-beginners-getting-started",
-    "date": "2026-05-02",
-    "displayDate": "May 2, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Day trading requires knowledge of market news, setting aside funds and time, starting small, and using stop-loss orders to manage risk. Focus on a few liquid st",
-    "excerpt": "Day trading requires knowledge of market news, setting aside funds and time, starting small, and using stop-loss orders to manage risk. Focus on a few liquid stocks and avoid emotional trading.",
-    "image": {
-      "src": "/images/articles/10-day-trading-tips-for-beginners-getting-started-thumb.jpg",
-      "alt": "10 Day Trading Tips for Beginners Getting Started"
-    },
-    "readingTime": 6
   },
   {
     "id": "5-common-investment-mistakes-beginners-make-and-how-to-avoid-them",
@@ -1020,48 +1293,6 @@
       "alt": "Adamas Trust Q1 2026 slides: EAD surges 45% as portfolio hits $10.9B"
     },
     "readingTime": 3
-  },
-  {
-    "id": "analysis-assessing-inflation-s-impact",
-    "type": "news",
-    "title": "Analysis: Assessing Inflation’s Impact",
-    "slug": "analysis-assessing-inflation-s-impact",
-    "date": "2026-05-02",
-    "displayDate": "May 2, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Inflation raises living costs, influences interest rates, and affects investment decisions, while persistent high inflation continues to challenge consumers and",
-    "excerpt": "Inflation raises living costs, influences interest rates, and affects investment decisions, while persistent high inflation continues to challenge consumers and policymakers. Energy and shelter remain major inflation drivers, and protection strategies are crucial for portfolios.",
-    "image": {
-      "src": "/images/articles/analysis-assessing-inflation-s-impact-thumb.jpg",
-      "alt": "Analysis: Assessing Inflation’s Impact"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "average-inflation-rate-in-the-united-states-from-1980-to-2031",
-    "type": "news",
-    "title": "Average inflation rate in the United States from 1980 to 2031",
-    "slug": "average-inflation-rate-in-the-united-states-from-1980-to-2031",
-    "date": "2026-05-02",
-    "displayDate": "May 2, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The average inflation rate in the U.S. from 1980 to 2025 was 3.29%, with a notable spike in 2021 and 2022 due to the COVID-19 pandemic. In 2025, it dropped to 2",
-    "excerpt": "The average inflation rate in the U.S. from 1980 to 2025 was 3.29%, with a notable spike in 2021 and 2022 due to the COVID-19 pandemic. In 2025, it dropped to 2.7%, but remained above the Federal Reserve's 2% target. Inflation impacts consumer spending and wage growth, particularly affecting low-inc",
-    "image": {
-      "src": "/images/articles/average-inflation-rate-in-the-united-states-from-1980-to-2031-hero.jpg",
-      "alt": "Average inflation rate in the United States from 1980 to 2031"
-    },
-    "readingTime": 9
   },
   {
     "id": "big-firms-quarterly-results-may-signal-what-s-next-for-the-economy",
@@ -1334,27 +1565,6 @@
     "readingTime": 14
   },
   {
-    "id": "current-u-s-inflation-rate-is-2-4-chart-and-why-it-matters",
-    "type": "news",
-    "title": "Current U.S. Inflation Rate Is 2.4%: Chart and Why It Matters",
-    "slug": "current-u-s-inflation-rate-is-2-4-chart-and-why-it-matters",
-    "date": "2026-05-02",
-    "displayDate": "May 2, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The current U.S. inflation rate is 2.4% as of May 2024, the lowest in over three years. This rate is below the Federal Reserve's long-term target of 2%. It indi",
-    "excerpt": "The current U.S. inflation rate is 2.4% as of May 2024, the lowest in over three years. This rate is below the Federal Reserve's long-term target of 2%. It indicates a stable economic environment.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Current U.S. Inflation Rate Is 2.4%: Chart and Why It Matters"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "etf-vs-mutual-fund-which-is-better-for-your-portfolio",
     "type": "news",
     "title": "ETF vs Mutual Fund: Which Is Better for Your Portfolio?",
@@ -1517,27 +1727,6 @@
     "readingTime": 3
   },
   {
-    "id": "how-much-of-your-portfolio-should-be-in-non-u-s-stocks",
-    "type": "news",
-    "title": "How Much of Your Portfolio Should Be in Non‑U.S. Stocks?",
-    "slug": "how-much-of-your-portfolio-should-be-in-non-u-s-stocks",
-    "date": "2026-05-02",
-    "displayDate": "May 2, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "For most long-term investors, international stocks should make up 5% to 40% of their portfolio, balancing diversification and risk. This range helps achieve bet",
-    "excerpt": "For most long-term investors, international stocks should make up 5% to 40% of their portfolio, balancing diversification and risk. This range helps achieve better returns and mitigates U.S. market risks. Consult financial advisors for personalized advice.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "How Much of Your Portfolio Should Be in Non‑U.S. Stocks?"
-    },
-    "readingTime": 9
-  },
-  {
     "id": "how-to-analyze-earnings-reports",
     "type": "how-to",
     "title": "How to Analyze Corporate Earnings Reports: A Step-by-Step Guide",
@@ -1677,27 +1866,6 @@
     "readingTime": 10
   },
   {
-    "id": "march-2026-investment-strategy-best-sectors-market-trends",
-    "type": "news",
-    "title": "March 2026 Investment Strategy: Best Sectors & Market Trends",
-    "slug": "march-2026-investment-strategy-best-sectors-market-trends",
-    "date": "2026-05-02",
-    "displayDate": "May 2, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Best sectors for March 2026 include defense, IT, and commodities; market trends favor value stocks and energy sectors. Crude oil prices remain a concern for FMC",
-    "excerpt": "Best sectors for March 2026 include defense, IT, and commodities; market trends favor value stocks and energy sectors. Crude oil prices remain a concern for FMCG and paints. Market volatility continues due to geopolitical tensions.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "March 2026 Investment Strategy: Best Sectors & Market Trends"
-    },
-    "readingTime": 5
-  },
-  {
     "id": "market-wrap-2026-05-01",
     "type": "news",
     "title": "Stock Market Rally: S&P 500 Gains as Investors Turn Bullish",
@@ -1779,27 +1947,6 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "Monthly Advance Report on Durable Goods Manufacturers' Shipments Inventories and Orders - Press Releases"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "new-economic-data-highlights-the-strength-and-resilience-of-president-trump-s-ec",
-    "type": "news",
-    "title": "New Economic Data Highlights the Strength and Resilience of President Trump’s Economy",
-    "slug": "new-economic-data-highlights-the-strength-and-resilience-of-president-trump-s-ec",
-    "date": "2026-05-02",
-    "displayDate": "May 2, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Recent economic data shows strong growth and resilience in the U.S. economy under President Trump, with notable progress in housing and manufacturing. GDP growt",
-    "excerpt": "Recent economic data shows strong growth and resilience in the U.S. economy under President Trump, with notable progress in housing and manufacturing. GDP growth has exceeded expectations, and job creation is robust. This indicates a thriving economy prioritizing American jobs and manufacturing.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "New Economic Data Highlights the Strength and Resilience of President Trump’s Economy"
     },
     "readingTime": 3
   },
@@ -2318,27 +2465,6 @@
     "readingTime": 3
   },
   {
-    "id": "wall-st-week-ahead-industrial-sector-s-gains-to-be-tested-as-earnings-ramp-up",
-    "type": "news",
-    "title": "Wall St Week Ahead: Industrial sector's gains to be tested as earnings ramp up",
-    "slug": "wall-st-week-ahead-industrial-sector-s-gains-to-be-tested-as-earnings-ramp-up",
-    "date": "2026-05-02",
-    "displayDate": "May 2, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The industrial sector's gains are being tested as earnings ramp up, with the S&P 500 industrials index up over 19% this year. Upcoming earnings reports from maj",
-    "excerpt": "The industrial sector's gains are being tested as earnings ramp up, with the S&P 500 industrials index up over 19% this year. Upcoming earnings reports from major companies will determine sector performance. The market's rebound is crucial for this assessment.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Wall St Week Ahead: Industrial sector's gains to be tested as earnings ramp up"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "wall-street-s-hunt-for-cheaper-stocks-goes-global",
     "type": "news",
     "title": "Wall Street’s Hunt for Cheaper Stocks Goes Global",
@@ -2379,69 +2505,6 @@
       "alt": "WarrenAI Vs ChatGPT: The Best AI Tool For Investors in 2026"
     },
     "readingTime": 3
-  },
-  {
-    "id": "washington-on-edge-as-week-brings-an-array-of-economic-data-and-a-royal-visit",
-    "type": "news",
-    "title": "Washington on Edge as Week Brings an Array of Economic Data and a Royal Visit",
-    "slug": "washington-on-edge-as-week-brings-an-array-of-economic-data-and-a-royal-visit",
-    "date": "2026-05-02",
-    "displayDate": "May 2, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Washington is tense due to upcoming economic data releases and a royal visit, amid heightened security following a recent assassination attempt on President Tru",
-    "excerpt": "Washington is tense due to upcoming economic data releases and a royal visit, amid heightened security following a recent assassination attempt on President Trump. The week also features critical discussions on the Iran war and the Strait of Hormuz. The Federal Reserve's interest rate decision is hi",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Washington on Edge as Week Brings an Array of Economic Data and a Royal Visit"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "weekly-market-update-stocks-gain-0-9-as-energy-rises-and-basic-materials-fall",
-    "type": "news",
-    "title": "Weekly Market Update: Stocks Gain 0.9% as Energy Rises and Basic Materials Fall",
-    "slug": "weekly-market-update-stocks-gain-0-9-as-energy-rises-and-basic-materials-fall",
-    "date": "2026-05-02",
-    "displayDate": "May 2, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The stock market gained 0.9% this week, with energy stocks rising and basic materials declining. Five9 and Bloom Energy led gains, while Roblox and Wingstop suf",
-    "excerpt": "The stock market gained 0.9% this week, with energy stocks rising and basic materials declining. Five9 and Bloom Energy led gains, while Roblox and Wingstop suffered significant losses. The S&P 500 is down 6.9% year to date.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Weekly Market Update: Stocks Gain 0.9% as Energy Rises and Basic Materials Fall"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "weekly-market-update-tech-stocks-lead-market-lower-basic-materials-gain",
-    "type": "news",
-    "title": "Weekly Market Update: Tech Stocks Lead Market Lower, Basic Materials Gain",
-    "slug": "weekly-market-update-tech-stocks-lead-market-lower-basic-materials-gain",
-    "date": "2026-05-02",
-    "displayDate": "May 2, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Tech stocks led declines, while basic materials gained, reflecting a sector rotation in early 2026. The technology sector underperformed, and basic materials su",
-    "excerpt": "Tech stocks led declines, while basic materials gained, reflecting a sector rotation in early 2026. The technology sector underperformed, and basic materials surged, driven by AI demand. This shift indicates a fundamental change in market dynamics.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Weekly Market Update: Tech Stocks Lead Market Lower, Basic Materials Gain"
-    },
-    "readingTime": 5
   },
   {
     "id": "what-is-asset-allocation",
