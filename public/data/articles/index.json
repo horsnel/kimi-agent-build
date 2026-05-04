@@ -21,6 +21,27 @@
     "readingTime": 3
   },
   {
+    "id": "apple-stock-sees-slight-bump-following-q2-2026-earnings-report",
+    "type": "news",
+    "title": "Apple stock sees slight bump following Q2 2026 earnings report",
+    "slug": "apple-stock-sees-slight-bump-following-q2-2026-earnings-report",
+    "date": "2026-05-04",
+    "displayDate": "May 4, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Apple stock rose 5.35% to close at $271.35 following its Q2 2026 earnings report, driven by strong iPhone demand and Services expansion. Analysts projected 13 t",
+    "excerpt": "Apple stock rose 5.35% to close at $271.35 following its Q2 2026 earnings report, driven by strong iPhone demand and Services expansion. Analysts projected 13 to 16 percent revenue growth for the quarter.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Apple stock sees slight bump following Q2 2026 earnings report"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "asian-stock-markets-plunge-amid-trump-s-ultimatum-on-iran",
     "type": "news",
     "title": "Asian stock markets plunge amid Trump’s ultimatum on Iran",
@@ -38,6 +59,69 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "Asian stock markets plunge amid Trump’s ultimatum on Iran"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "asset-allocation-insights-march-2026",
+    "type": "news",
+    "title": "Asset Allocation Insights - March 2026",
+    "slug": "asset-allocation-insights-march-2026",
+    "date": "2026-05-04",
+    "displayDate": "May 4, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "In March 2026, equity overweight remains due to cyclical momentum and AI-driven growth, while bonds are underweighted. U.S. equities are balanced with real esta",
+    "excerpt": "In March 2026, equity overweight remains due to cyclical momentum and AI-driven growth, while bonds are underweighted. U.S. equities are balanced with real estate adjustments. Treasury trends are positive.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Asset Allocation Insights - March 2026"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "asset-allocation-outlook-2q-2026-beyond-the-conflict",
+    "type": "news",
+    "title": "Asset Allocation Outlook 2Q 2026: Beyond the Conflict",
+    "slug": "asset-allocation-outlook-2q-2026-beyond-the-conflict",
+    "date": "2026-05-04",
+    "displayDate": "May 4, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Despite Middle East conflict, the outlook for global equities remains constructive, with a focus on U.S. and emerging markets. Non-U.S. developed markets and bo",
+    "excerpt": "Despite Middle East conflict, the outlook for global equities remains constructive, with a focus on U.S. and emerging markets. Non-U.S. developed markets and bonds are also seen as attractive. Inflation and energy prices are key concerns.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Asset Allocation Outlook 2Q 2026: Beyond the Conflict"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "berkshire-director-flags-distorted-s-p-500-sees-banks-as-undervalued-opportunity",
+    "type": "news",
+    "title": "Berkshire director flags 'distorted' S&P 500, sees banks as undervalued opportunity - CNBC interview (SP500:)",
+    "slug": "berkshire-director-flags-distorted-s-p-500-sees-banks-as-undervalued-opportunity",
+    "date": "2026-05-04",
+    "displayDate": "May 4, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Berkshire Hathaway director Chris Davis claims the S&P 500 is distorted with inflated valuations, while financial stocks are undervalued. Davis highlights narro",
+    "excerpt": "Berkshire Hathaway director Chris Davis claims the S&P 500 is distorted with inflated valuations, while financial stocks are undervalued. Davis highlights narrowing market leadership and suggests banks as a good investment opportunity.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Berkshire director flags 'distorted' S&P 500, sees banks as undervalued opportunity - CNBC interview (SP500:)"
     },
     "readingTime": 3
   },
@@ -252,6 +336,27 @@
     "readingTime": 3
   },
   {
+    "id": "health-care-sector-investing-in-stocks-that-help-keep-you-well",
+    "type": "news",
+    "title": "Health care sector: Investing in stocks that help keep you well",
+    "slug": "health-care-sector-investing-in-stocks-that-help-keep-you-well",
+    "date": "2026-05-04",
+    "displayDate": "May 4, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Investing in healthcare stocks can provide stable returns and growth. Top picks include NVO for its strong pharmaceutical portfolio and medical innovations. Con",
+    "excerpt": "Investing in healthcare stocks can provide stable returns and growth. Top picks include NVO for its strong pharmaceutical portfolio and medical innovations. Consider ETFs like iShares US Healthcare for diversified exposure.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Health care sector: Investing in stocks that help keep you well"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "how-is-the-economy-doing-right-now",
     "type": "news",
     "title": "How Is the Economy Doing Right Now?",
@@ -294,6 +399,27 @@
     "readingTime": 3
   },
   {
+    "id": "intel-s-stock-soars-20-as-results-top-estimates-with-chipmaker-showing-signs-of-",
+    "type": "news",
+    "title": "Intel's stock soars 20% as results top estimates, with chipmaker showing signs of growth",
+    "slug": "intel-s-stock-soars-20-as-results-top-estimates-with-chipmaker-showing-signs-of-",
+    "date": "2026-05-04",
+    "displayDate": "May 4, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Intel's stock surged 20% after strong first-quarter earnings, with adjusted earnings per share of 29 cents and revenue of $13.58 billion, significantly exceedin",
+    "excerpt": "Intel's stock surged 20% after strong first-quarter earnings, with adjusted earnings per share of 29 cents and revenue of $13.58 billion, significantly exceeding Wall Street's estimates. The chipmaker's revenue rose more than 7%, indicating growth.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Intel's stock soars 20% as results top estimates, with chipmaker showing signs of growth"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "market-movers-blog-markets-unmoved-by-central-bank-holds",
     "type": "news",
     "title": "Market Movers blog: Markets unmoved by central bank holds",
@@ -311,6 +437,27 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "Market Movers blog: Markets unmoved by central bank holds"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "meta-stock-sinks-after-q1-earnings-as-company-raises-2026-ai-spending-forecast-t",
+    "type": "news",
+    "title": "Meta stock sinks after Q1 earnings as company raises 2026 AI spending forecast to $125 billion-$145 billion",
+    "slug": "meta-stock-sinks-after-q1-earnings-as-company-raises-2026-ai-spending-forecast-t",
+    "date": "2026-05-04",
+    "displayDate": "May 4, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Meta stock fell 10% after Q1 earnings, with the company raising its 2026 AI spending forecast to $125-$145 billion. The stock dropped 8% in after-hours trading ",
+    "excerpt": "Meta stock fell 10% after Q1 earnings, with the company raising its 2026 AI spending forecast to $125-$145 billion. The stock dropped 8% in after-hours trading following the earnings report.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Meta stock sinks after Q1 earnings as company raises 2026 AI spending forecast to $125 billion-$145 billion"
     },
     "readingTime": 3
   },
@@ -357,6 +504,48 @@
     "readingTime": 3
   },
   {
+    "id": "q4-earnings-call-remarks-from-our-ceo",
+    "type": "news",
+    "title": "Q4 earnings call: Remarks from our CEO",
+    "slug": "q4-earnings-call-remarks-from-our-ceo",
+    "date": "2026-05-04",
+    "displayDate": "May 4, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "CEO remarks highlighted Alphabet's record $400 billion revenue, focus on search innovation, and positive feedback on Gemini app. Sundar Pichai emphasized upcomi",
+    "excerpt": "CEO remarks highlighted Alphabet's record $400 billion revenue, focus on search innovation, and positive feedback on Gemini app. Sundar Pichai emphasized upcoming search advancements in 2025.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Q4 earnings call: Remarks from our CEO"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "revisiting-professional-forecasters-past-performance-and-the-outlook-for-2026",
+    "type": "news",
+    "title": "Revisiting Professional Forecasters’ Past Performance and the Outlook for 2026",
+    "slug": "revisiting-professional-forecasters-past-performance-and-the-outlook-for-2026",
+    "date": "2026-05-04",
+    "displayDate": "May 4, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Professional forecasters expect 1.9% GDP growth and 2.9% CPI increase for 2026. The 2025 forecasts have been accurate. The Philadelphia Fed's SPF survey provide",
+    "excerpt": "Professional forecasters expect 1.9% GDP growth and 2.9% CPI increase for 2026. The 2025 forecasts have been accurate. The Philadelphia Fed's SPF survey provides detailed economic projections for 2026-2029.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Revisiting Professional Forecasters’ Past Performance and the Outlook for 2026"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "s-p-500-forecast-what-now-for-us-stock-markets",
     "type": "news",
     "title": "S&P 500 forecast: What now for US stock markets?",
@@ -374,6 +563,48 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "S&P 500 forecast: What now for US stock markets?"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "s-p-500-nasdaq-end-higher-notch-weekly-gains-after-earnings-heavy-week",
+    "type": "news",
+    "title": "S&P 500, Nasdaq end higher, notch weekly gains after earnings-heavy week",
+    "slug": "s-p-500-nasdaq-end-higher-notch-weekly-gains-after-earnings-heavy-week",
+    "date": "2026-05-04",
+    "displayDate": "May 4, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The S&P 500 and Nasdaq ended higher, marking their sixth consecutive weekly gains, driven by strong tech earnings, particularly from Apple. This streak is their",
+    "excerpt": "The S&P 500 and Nasdaq ended higher, marking their sixth consecutive weekly gains, driven by strong tech earnings, particularly from Apple. This streak is their longest since October 2024.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "S&P 500, Nasdaq end higher, notch weekly gains after earnings-heavy week"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "s-p-500-profit-eyes-sharpest-quarterly-growth-in-four-years-after-big-tech-resul",
+    "type": "news",
+    "title": "S&P 500 profit eyes sharpest quarterly growth in four years after Big Tech results",
+    "slug": "s-p-500-profit-eyes-sharpest-quarterly-growth-in-four-years-after-big-tech-resul",
+    "date": "2026-05-04",
+    "displayDate": "May 4, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "S&P 500 profits are projected to grow 27.8% in the first quarter, marking the sharpest quarterly growth in four years, driven by strong earnings from Big Tech c",
+    "excerpt": "S&P 500 profits are projected to grow 27.8% in the first quarter, marking the sharpest quarterly growth in four years, driven by strong earnings from Big Tech companies. This growth surpasses earlier expectations and signals robust corporate performance.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "S&P 500 profit eyes sharpest quarterly growth in four years after Big Tech results"
     },
     "readingTime": 3
   },
@@ -420,6 +651,48 @@
     "readingTime": 3
   },
   {
+    "id": "stock-market-sectors-101-a-guide-to-all-11-sectors",
+    "type": "news",
+    "title": "Stock Market Sectors 101: A Guide to All 11 Sectors",
+    "slug": "stock-market-sectors-101-a-guide-to-all-11-sectors",
+    "date": "2026-05-04",
+    "displayDate": "May 4, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The stock market comprises 11 sectors: information technology, financials, communication services, consumer discretionary, industrials, materials, consumer stap",
+    "excerpt": "The stock market comprises 11 sectors: information technology, financials, communication services, consumer discretionary, industrials, materials, consumer staples, energy, utilities, health care, and real estate. Consumer staples and utilities are often considered defensive sectors.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Stock Market Sectors 101: A Guide to All 11 Sectors"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "stock-market-today-mar-4-u-s-and-european-stocks-rise-despite-asia-market-meltdo",
+    "type": "news",
+    "title": "Stock Market Today, Mar. 4: U.S. and European stocks rise despite Asia market meltdown",
+    "slug": "stock-market-today-mar-4-u-s-and-european-stocks-rise-despite-asia-market-meltdo",
+    "date": "2026-05-04",
+    "displayDate": "May 4, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "On March 4, 2026, U.S. and European stocks rose while Asian markets experienced significant declines due to geopolitical tensions. Nasdaq and Russell 2000 saw g",
+    "excerpt": "On March 4, 2026, U.S. and European stocks rose while Asian markets experienced significant declines due to geopolitical tensions. Nasdaq and Russell 2000 saw gains. Crypto-linked stocks surged amid easing oil prices.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Stock Market Today, Mar. 4: U.S. and European stocks rise despite Asia market meltdown"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "stock-market-today-stock-market-news-and-analysis",
     "type": "news",
     "title": "Stock Market Today: Stock Market News And Analysis",
@@ -437,6 +710,27 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "Stock Market Today: Stock Market News And Analysis"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "the-best-healthcare-stocks-to-buy",
+    "type": "news",
+    "title": "The Best Healthcare Stocks to Buy",
+    "slug": "the-best-healthcare-stocks-to-buy",
+    "date": "2026-05-04",
+    "displayDate": "May 4, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "HCA Healthcare and Abbott Laboratories are top healthcare stocks for long-term growth. Coloplast and Philips are also strong picks in the healthcare sector.",
+    "excerpt": "HCA Healthcare and Abbott Laboratories are top healthcare stocks for long-term growth. Coloplast and Philips are also strong picks in the healthcare sector.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "The Best Healthcare Stocks to Buy"
     },
     "readingTime": 3
   },
@@ -479,6 +773,27 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "The S&P 500's Top-Performing Sectors: 3 Lead the Pack in 2025"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "top-3-price-prediction-bitcoin-ethereum-ripple-btc-extends-rally-eth-and-xrp-nea",
+    "type": "news",
+    "title": "Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC extends rally, ETH and XRP near key resistance zones",
+    "slug": "top-3-price-prediction-bitcoin-ethereum-ripple-btc-extends-rally-eth-and-xrp-nea",
+    "date": "2026-05-04",
+    "displayDate": "May 4, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin is bullish, Ethereum breaks key EMA, and Ripple stabilizes above support. Analysts predict Bitcoin may reach $80,000 in April 2026. Ethereum and XRP sho",
+    "excerpt": "Bitcoin is bullish, Ethereum breaks key EMA, and Ripple stabilizes above support. Analysts predict Bitcoin may reach $80,000 in April 2026. Ethereum and XRP show potential for significant price movements.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC extends rally, ETH and XRP near key resistance zones"
     },
     "readingTime": 3
   },
@@ -609,6 +924,27 @@
     "readingTime": 3
   },
   {
+    "id": "why-one-economist-recommends-a-100-stock-portfolio-during-your-working-years",
+    "type": "news",
+    "title": "Why One Economist Recommends a 100% Stock Portfolio During Your Working Years",
+    "slug": "why-one-economist-recommends-a-100-stock-portfolio-during-your-working-years",
+    "date": "2026-05-04",
+    "displayDate": "May 4, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "An economist recommends a 100% stock portfolio during working years because income acts as a safety net, allowing for higher risk. This advice is based on the i",
+    "excerpt": "An economist recommends a 100% stock portfolio during working years because income acts as a safety net, allowing for higher risk. This advice is based on the idea that human capital provides diversification. Always consider personal financial circumstances.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Why One Economist Recommends a 100% Stock Portfolio During Your Working Years"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "2026-market-outlook-risks-and-opportunities-the-wall-street-sweeper-with-russell",
     "type": "news",
     "title": "2026 Market Outlook: Risks and Opportunities - The Wall Street Sweeper with Russell Hackmann",
@@ -689,48 +1025,6 @@
     "image": {
       "src": "/images/articles/analysis-assessing-inflation-s-impact-thumb.jpg",
       "alt": "Analysis: Assessing Inflation’s Impact"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "asset-allocation-insights-march-2026",
-    "type": "news",
-    "title": "Asset Allocation Insights - March 2026",
-    "slug": "asset-allocation-insights-march-2026",
-    "date": "2026-05-03",
-    "displayDate": "May 3, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "In 2026, AI's disruptive impact led to a sell-off in software stocks, prompting sector rotation. Invesco's outlook highlights opportunities in private credit, e",
-    "excerpt": "In 2026, AI's disruptive impact led to a sell-off in software stocks, prompting sector rotation. Invesco's outlook highlights opportunities in private credit, equity, real assets, and hedge funds. Fidelity notes significant shifts in US equity and global markets.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Asset Allocation Insights - March 2026"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "asset-allocation-outlook-2q-2026-beyond-the-conflict",
-    "type": "news",
-    "title": "Asset Allocation Outlook 2Q 2026: Beyond the Conflict",
-    "slug": "asset-allocation-outlook-2q-2026-beyond-the-conflict",
-    "date": "2026-05-03",
-    "displayDate": "May 3, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Despite Middle East conflict, growth and risk assets remain constructive; focus on global equities, especially U.S. and emerging markets; expect Fed to take a w",
-    "excerpt": "Despite Middle East conflict, growth and risk assets remain constructive; focus on global equities, especially U.S. and emerging markets; expect Fed to take a wait-and-see approach on rate changes.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Asset Allocation Outlook 2Q 2026: Beyond the Conflict"
     },
     "readingTime": 3
   },
@@ -1050,27 +1344,6 @@
     "readingTime": 3
   },
   {
-    "id": "intel-s-stock-soars-20-as-results-top-estimates-with-chipmaker-showing-signs-of-",
-    "type": "news",
-    "title": "Intel's stock soars 20% as results top estimates, with chipmaker showing signs of growth",
-    "slug": "intel-s-stock-soars-20-as-results-top-estimates-with-chipmaker-showing-signs-of-",
-    "date": "2026-05-03",
-    "displayDate": "May 3, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Intel's stock soared 20% after hours following a strong first-quarter report that exceeded Wall Street's expectations, with earnings of 29 cents per share. Reve",
-    "excerpt": "Intel's stock soared 20% after hours following a strong first-quarter report that exceeded Wall Street's expectations, with earnings of 29 cents per share. Revenue rose more than 7%, indicating signs of growth for the chipmaker.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Intel's stock soars 20% as results top estimates, with chipmaker showing signs of growth"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "march-2026-investment-strategy-best-sectors-market-trends",
     "type": "news",
     "title": "March 2026 Investment Strategy: Best Sectors & Market Trends",
@@ -1109,27 +1382,6 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "Market surge led by healthcare and communication services, technology faces turbulence"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "meta-stock-sinks-after-q1-earnings-as-company-raises-2026-ai-spending-forecast-t",
-    "type": "news",
-    "title": "Meta stock sinks after Q1 earnings as company raises 2026 AI spending forecast to $125 billion-$145 billion",
-    "slug": "meta-stock-sinks-after-q1-earnings-as-company-raises-2026-ai-spending-forecast-t",
-    "date": "2026-05-03",
-    "displayDate": "May 3, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Meta stock dropped 8% after Q1 earnings as the company raised its 2026 AI spending forecast to $125-$145 billion, exceeding previous estimates. Despite strong e",
-    "excerpt": "Meta stock dropped 8% after Q1 earnings as the company raised its 2026 AI spending forecast to $125-$145 billion, exceeding previous estimates. Despite strong earnings, concerns over high capital expenditures impacted investor sentiment.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Meta stock sinks after Q1 earnings as company raises 2026 AI spending forecast to $125 billion-$145 billion"
     },
     "readingTime": 3
   },
@@ -1256,27 +1508,6 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "The Best AI Stocks to Buy Now"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "the-best-healthcare-stocks-to-buy",
-    "type": "news",
-    "title": "The Best Healthcare Stocks to Buy",
-    "slug": "the-best-healthcare-stocks-to-buy",
-    "date": "2026-05-03",
-    "displayDate": "May 3, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "HCA Healthcare and Abbott Laboratories are strong long-term healthcare stocks. Coloplast and Philips also show potential. Consider these for investment.",
-    "excerpt": "HCA Healthcare and Abbott Laboratories are strong long-term healthcare stocks. Coloplast and Philips also show potential. Consider these for investment.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "The Best Healthcare Stocks to Buy"
     },
     "readingTime": 3
   },
@@ -1445,27 +1676,6 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "Why are S&P 500 and Nasdaq up while Dow Jones down today, and will US stock markets continue to witness wi"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "why-one-economist-recommends-a-100-stock-portfolio-during-your-working-years",
-    "type": "news",
-    "title": "Why One Economist Recommends a 100% Stock Portfolio During Your Working Years",
-    "slug": "why-one-economist-recommends-a-100-stock-portfolio-during-your-working-years",
-    "date": "2026-05-03",
-    "displayDate": "May 3, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "An economist recommends a 100% stock portfolio during working years because human capital provides diversification, allowing for higher risk tolerance. This adv",
-    "excerpt": "An economist recommends a 100% stock portfolio during working years because human capital provides diversification, allowing for higher risk tolerance. This advice is based on the idea that income acts like a bond, enabling more aggressive stock investments. However, individual financial situations ",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Why One Economist Recommends a 100% Stock Portfolio During Your Working Years"
     },
     "readingTime": 3
   },
@@ -2243,27 +2453,6 @@
     "readingTime": 3
   },
   {
-    "id": "revisiting-professional-forecasters-past-performance-and-the-outlook-for-2026",
-    "type": "news",
-    "title": "Revisiting Professional Forecasters’ Past Performance and the Outlook for 2026",
-    "slug": "revisiting-professional-forecasters-past-performance-and-the-outlook-for-2026",
-    "date": "2026-05-02",
-    "displayDate": "May 2, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Professional forecasters predict 1.9% GDP growth for 2026, with significant variance among predictions. The consensus outlook is lower than the top forecasts, w",
-    "excerpt": "Professional forecasters predict 1.9% GDP growth for 2026, with significant variance among predictions. The consensus outlook is lower than the top forecasts, which average 2.5%. The outlook for inflation is expected to be 2.9%.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Revisiting Professional Forecasters’ Past Performance and the Outlook for 2026"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "roth-ira-vs-traditional-ira-complete-comparison-guide",
     "type": "news",
     "title": "Roth IRA vs Traditional IRA: Complete Comparison Guide",
@@ -3004,27 +3193,6 @@
       "alt": "Analyst shares new Bitcoin prediction for all of 2026"
     },
     "readingTime": 3
-  },
-  {
-    "id": "apple-stock-sees-slight-bump-following-q2-2026-earnings-report",
-    "type": "news",
-    "title": "Apple stock sees slight bump following Q2 2026 earnings report",
-    "slug": "apple-stock-sees-slight-bump-following-q2-2026-earnings-report",
-    "date": "2026-05-01",
-    "displayDate": "May 1, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Apple stock rose slightly after Q2 2026 earnings report, gaining 5.35% in after-hours trading. The initial dip was followed by a sharp rebound. CEO Tim Cook and",
-    "excerpt": "Apple stock rose slightly after Q2 2026 earnings report, gaining 5.35% in after-hours trading. The initial dip was followed by a sharp rebound. CEO Tim Cook and CFO Kevan Parekh expressed optimism about future demand.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Apple stock sees slight bump following Q2 2026 earnings report"
-    },
-    "readingTime": 8
   },
   {
     "id": "big-tech-earnings-fuels-mixed-stock-moves-as-apple-pops-meta-plunges-and-alphabe",
