@@ -3,8 +3,8 @@
   "type": "news",
   "title": "US Economic Forecast Q1 2026",
   "slug": "us-economic-forecast-q1-2026",
-  "date": "2026-05-03",
-  "displayDate": "May 3, 2026",
+  "date": "2026-05-04",
+  "displayDate": "May 4, 2026",
   "author": "Sigma Capital",
   "category": "Economic Indicators",
   "tags": [
@@ -12,10 +12,10 @@
     "financial news",
     "market update"
   ],
-  "metaDescription": "The U.S. economy showed a rebound in Q1 2026, slightly below forecasts, with real business investment accelerating and stock markets strong. Inflation expectati",
-  "excerpt": "The U.S. economy showed a rebound in Q1 2026, slightly below forecasts, with real business investment accelerating and stock markets strong. Inflation expectations have decreased, but core inflation remains above the Fed’s target. Economic growth is expected at a healthy 2.4% for 2026.",
+  "metaDescription": "The U.S. economy grew at a 2.0% annual rate in Q1 2026, up from 0.5% in Q4 2025, with business investment expected to accelerate and inflation expectations decl",
+  "excerpt": "The U.S. economy grew at a 2.0% annual rate in Q1 2026, up from 0.5% in Q4 2025, with business investment expected to accelerate and inflation expectations declining. The federal deficit is projected to remain high, and oil prices remain elevated. Economic growth is still expected at 2.4% for 2026.",
   "content": {
-    "introduction": "The U.S. economy showed a rebound in Q1 2026, slightly below forecasts, with real business investment accelerating and stock markets strong. Inflation expectations have decreased, but core inflation remains above the Fed’s target. Economic growth is expected at a healthy 2.4% for 2026.",
+    "introduction": "The U.S. economy grew at a 2.0% annual rate in Q1 2026, up from 0.5% in Q4 2025, with business investment expected to accelerate and inflation expectations declining. The federal deficit is projected to remain high, and oil prices remain elevated. Economic growth is still expected at 2.4% for 2026.",
     "body": [
       "This reflects the sizable capital expenditure plans that AI “hyperscalers” have announced for this year.[4](https://www.deloitte.com/us/en/insights/topics/economy/us-economic-forecast/united-states-outlook-analysis.html#endnote-4)We now expect real business investment to grow by 4% in 2026—an acceleration from the second half of 2025. The federal deficit is expected to remain above 6% of GDP through 2030, exceeding the Congressional Budget Office’s (CBO) baseline expectation.[6](https://www.deloitte.com/us/en/insights/topics/economy/us-economic-forecast/united-states-outlook-analysis.html#endnote-6)The larger expected deficit is partially due to our lower forecast for net migration. Companies are attempting to reclaim tariffs they paid after the Supreme Court ruled that the tariffs imposed under the International Emergency Economic Powers Act are impermissible.[11](https://www.deloitte.com/us/en/insights/topics/economy/us-economic-forecast/united-states-outlook-analysis.html#endnote-11) Because we expect companies to recoup those funds, they are also likely to be more restrained in the near term when passing tariff costs on to consumers. The University of Michigan’s survey of inflation expectations in five years was 3.2% in March, down from 4.1% one year earlier.[12](https://www.deloitte.com/us/en/insights/topics/economy/us-economic-forecast/united-states-outlook-analysis.html#endnote-12). Stock markets have shown considerable strength, with the S&P 500 stock price continuing to grow at double-digit year-over-year rates at the time of this writing.[13](https://www.deloitte.com/us/en/insights/topics/economy/us-economic-forecast/united-states-outlook-analysis.html#endnote-13)Optimism around the potential of AI has boosted earnings and raised expectations of future growth.",
       "* The Middle East conflict has not just lifted oil prices, but forecast uncertainty is even snaking its way into other areas like food security for some nations. * The U.S. is facing this new shock from a solid starting point, and overall economic growth in 2026 is still expected to run at a healthy 2.4%. We expect shipment activity to normalize by June, but oil prices remain elevated through mid-2026, reflecting tighter markets (as some supply remains offline) and a higher risk premium (Chart 1). At this point, the direct impact of higher oil prices shaves only a few tenths from economic growth in 2026 and adds about 0.8 percentage points to headline CPI, with a peak of 3.8% in the second quarter, while secondary effects contribute roughly a quarter of that to core inflation. Core inflation is still running above the Fed’s 2% target, tariff-related price pressures are still filtering through, and now the energy shock provides less scope for further disinflation (Chart 2).",
@@ -30,14 +30,14 @@
     "sourceUrl": "https://www.deloitte.com/us/en/insights/topics/economy/us-economic-forecast/united-states-outlook-analysis.html"
   },
   "readingTime": 3,
-  "updatedAt": "2026-05-03T03:37:46.715Z",
+  "updatedAt": "2026-05-04T03:36:07.313Z",
   "images": {
     "thumbnail": {
-      "src": "/images/article_thumb_3.jpg",
+      "src": "/images/article_thumb_4.jpg",
       "alt": "US Economic Forecast Q1 2026"
     },
     "hero": {
-      "src": "/images/article_thumb_6.jpg",
+      "src": "/images/article_thumb_3.jpg",
       "alt": "US Economic Forecast Q1 2026"
     },
     "mid": {
@@ -46,7 +46,7 @@
     }
   },
   "image": {
-    "src": "/images/article_thumb_1.jpg",
+    "src": "/images/article_thumb_5.jpg",
     "alt": "US Economic Forecast Q1 2026"
   }
 }

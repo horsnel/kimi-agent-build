@@ -1,0 +1,52 @@
+{
+  "id": "how-is-the-economy-doing-right-now",
+  "type": "news",
+  "title": "How Is the Economy Doing Right Now?",
+  "slug": "how-is-the-economy-doing-right-now",
+  "date": "2026-05-04",
+  "displayDate": "May 4, 2026",
+  "author": "Sigma Capital",
+  "category": "Economic Indicators",
+  "tags": [
+    "economic indicators",
+    "financial news",
+    "market update"
+  ],
+  "metaDescription": "The economy is generally strong with slowing inflation, but unemployment is rising slightly. Real GDP grew by 0.5% in Q4 2025.",
+  "excerpt": "The economy is generally strong with slowing inflation, but unemployment is rising slightly. Real GDP grew by 0.5% in Q4 2025.",
+  "content": {
+    "introduction": "The economy is generally strong with slowing inflation, but unemployment is rising slightly. Real GDP grew by 0.5% in Q4 2025.",
+    "body": [
+      "The state of the economy is generally strong and inflation is slowing down, but still remains elevated.",
+      "Inflation outside of gas and air travel are starting to trend upward slowly as unemployment is starting to trend upward. People have more wealth",
+      "Real gross domestic product (GDP) increased at an annual rate of 0.5 percent in the fourth quarter of 2025 (October, November, and December),"
+    ],
+    "keyTakeaways": [
+      "The economy is generally strong with slowing inflation, but unemployment is rising slightly. Real GDP grew by 0",
+      "The state of the economy is generally strong and inflation is slowing down, but still remains elevated.",
+      "Inflation outside of gas and air travel are starting to trend upward slowly as unemployment is starting to trend upward."
+    ],
+    "source": "NerdWallet",
+    "sourceUrl": "https://www.nerdwallet.com/finance/learn/state-of-the-economy"
+  },
+  "readingTime": 3,
+  "updatedAt": "2026-05-04T03:36:07.313Z",
+  "images": {
+    "thumbnail": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "How Is the Economy Doing Right Now?"
+    },
+    "hero": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "How Is the Economy Doing Right Now?"
+    },
+    "mid": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "How Is the Economy Doing Right Now?"
+    }
+  },
+  "image": {
+    "src": "/images/article_thumb_5.jpg",
+    "alt": "How Is the Economy Doing Right Now?"
+  }
+}
