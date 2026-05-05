@@ -3,8 +3,8 @@
   "type": "news",
   "title": "Stock Market Today: Stock Market News And Analysis",
   "slug": "stock-market-today-stock-market-news-and-analysis",
-  "date": "2026-05-04",
-  "displayDate": "May 4, 2026",
+  "date": "2026-05-05",
+  "displayDate": "May 5, 2026",
   "author": "Sigma Capital",
   "category": "Market Analysis",
   "tags": [
@@ -12,28 +12,28 @@
     "financial news",
     "market update"
   ],
-  "metaDescription": "The Dow Jones Industrial Average rose today, driven by strong earnings from Apple, while Roblox, Sandisk, and Western Digital experienced significant declines. ",
-  "excerpt": "The Dow Jones Industrial Average rose today, driven by strong earnings from Apple, while Roblox, Sandisk, and Western Digital experienced significant declines. MarketWatch offers the latest stock market and financial news. Investor's Business Daily provides real-time stock market analysis.",
+  "metaDescription": "The Dow fell 152.87, NASDAQ rose 222.13, and S&P 500 increased by 21.11 today. For detailed news, visit MarketWatch or Briefing.com.",
+  "excerpt": "The Dow fell 152.87, NASDAQ rose 222.13, and S&P 500 increased by 21.11 today. For detailed news, visit MarketWatch or Briefing.com.",
   "content": {
-    "introduction": "The Dow Jones Industrial Average rose today, driven by strong earnings from Apple, while Roblox, Sandisk, and Western Digital experienced significant declines. MarketWatch offers the latest stock market and financial news. Investor's Business Daily provides real-time stock market analysis.",
+    "introduction": "The Dow fell 152.87, NASDAQ rose 222.13, and S&P 500 increased by 21.11 today. For detailed news, visit MarketWatch or Briefing.com.",
     "body": [
       "The latest news and updates on the stock market today. Get up to speed with overnight summaries, stock market updates, and pre-open stock analysis of the",
-      "Stock Market Today: Dow Rises As Apple Jumps On Earnings; Roblox, Sandisk, Western Digital Dive (Live Coverage). BREAKING: Dow Futures Rise; U.S. To Guide",
-      "MarketWatch provides the latest stock market, financial and business news. Get stock market quotes, personal finance advice, company news and more."
+      "MarketWatch provides the latest stock market, financial and business news. Get stock market quotes, personal finance advice, company news and more.",
+      "U.S. Stock Market Today ; DOW. 49,499.27. -152.87 ; NASDAQ. 25,114.44. +222.13 ; S&P. 7,230.12. +21.11."
     ],
     "keyTakeaways": [
-      "The Dow Jones Industrial Average rose today, driven by strong earnings from Apple, while Roblox, Sandisk, and Western Di",
+      "The Dow fell 152.87, NASDAQ rose 222",
       "The latest news and updates on the stock market today. Get up to speed with overnight summaries, stock market updates, a",
-      "Stock Market Today: Dow Rises As Apple Jumps On Earnings; Roblox, Sandisk, Western Digital Dive (Live Coverage). BREAKIN"
+      "MarketWatch provides the latest stock market, financial and business news. Get stock market quotes, personal finance adv"
     ],
     "source": "Investor's Business Daily",
     "sourceUrl": "https://www.investors.com/news/stock-market-today-stock-market-news/"
   },
   "readingTime": 3,
-  "updatedAt": "2026-05-04T03:36:07.313Z",
+  "updatedAt": "2026-05-05T03:23:16.954Z",
   "images": {
     "thumbnail": {
-      "src": "/images/article_thumb_2.jpg",
+      "src": "/images/article_thumb_4.jpg",
       "alt": "Stock Market Today: Stock Market News And Analysis"
     },
     "hero": {
@@ -46,7 +46,7 @@
     }
   },
   "image": {
-    "src": "/images/article_thumb_4.jpg",
+    "src": "/images/article_thumb_3.jpg",
     "alt": "Stock Market Today: Stock Market News And Analysis"
   }
 }

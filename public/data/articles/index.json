@@ -1,5 +1,614 @@
 [
   {
+    "id": "a-divided-fed-holds-rates-steady",
+    "type": "news",
+    "title": "A Divided Fed Holds Rates Steady",
+    "slug": "a-divided-fed-holds-rates-steady",
+    "date": "2026-05-05",
+    "displayDate": "May 5, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Reserve held its benchmark interest rate steady on Wednesday, marking the third consecutive meeting without change. This decision was notably divide",
+    "excerpt": "The Federal Reserve held its benchmark interest rate steady on Wednesday, marking the third consecutive meeting without change. This decision was notably divided, with eight voting to maintain the rate and four dissenting, reflecting rising inflation concerns. Fed Chair Jerome Powell's term ends May",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "A Divided Fed Holds Rates Steady"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "analyst-predicts-shocking-sign-behind-bitcoin-s-price",
+    "type": "news",
+    "title": "Analyst predicts shocking sign behind Bitcoin’s price",
+    "slug": "analyst-predicts-shocking-sign-behind-bitcoin-s-price",
+    "date": "2026-05-05",
+    "displayDate": "May 5, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Despite Bitcoin's price recovery to $80,000, analysts warn of a liquidity drain that may undermine its stability. An analyst predicts a significant \"god candle\"",
+    "excerpt": "Despite Bitcoin's price recovery to $80,000, analysts warn of a liquidity drain that may undermine its stability. An analyst predicts a significant \"god candle\" event, similar to a past surge, but emphasizes the need for Bitcoin to pass a critical test. The current price rise lacks the foundation to",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Analyst predicts shocking sign behind Bitcoin’s price"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "asset-allocation-insights-march-2026",
+    "type": "news",
+    "title": "Asset Allocation Insights - March 2026",
+    "slug": "asset-allocation-insights-march-2026",
+    "date": "2026-05-05",
+    "displayDate": "May 5, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "In March 2026, an equity overweight is recommended due to cyclical momentum and AI-driven growth, while bonds are underweighted. U.S. equities remain positive, ",
+    "excerpt": "In March 2026, an equity overweight is recommended due to cyclical momentum and AI-driven growth, while bonds are underweighted. U.S. equities remain positive, but real estate exposure is reduced. Portfolios are adjusted to balance growth and risk.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Asset Allocation Insights - March 2026"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "asset-allocation-outlook-2q-2026-beyond-the-conflict",
+    "type": "news",
+    "title": "Asset Allocation Outlook 2Q 2026: Beyond the Conflict",
+    "slug": "asset-allocation-outlook-2q-2026-beyond-the-conflict",
+    "date": "2026-05-05",
+    "displayDate": "May 5, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Despite Middle East conflict, the outlook for global equities remains constructive, with a focus on U.S. and emerging markets. Non-U.S. developed markets and bo",
+    "excerpt": "Despite Middle East conflict, the outlook for global equities remains constructive, with a focus on U.S. and emerging markets. Non-U.S. developed markets and bonds are also seen as attractive. Inflation and energy prices are key considerations.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Asset Allocation Outlook 2Q 2026: Beyond the Conflict"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "big-tech-earnings-show-split-between-ai-trade-winners-and-losers",
+    "type": "news",
+    "title": "Big Tech Earnings Show Split Between AI Trade Winners and Losers",
+    "slug": "big-tech-earnings-show-split-between-ai-trade-winners-and-losers",
+    "date": "2026-05-05",
+    "displayDate": "May 5, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Big Tech earnings reveal a split between AI trade winners and losers, with some companies thriving while others struggle. Investors are closely analyzing perfor",
+    "excerpt": "Big Tech earnings reveal a split between AI trade winners and losers, with some companies thriving while others struggle. Investors are closely analyzing performance to identify successful AI strategies. The AI market is showing significant growth, but not all companies are benefiting equally.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Big Tech Earnings Show Split Between AI Trade Winners and Losers"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "bitcoin-price-analysis-today-daily-order-flow-turns-bullish-as-btc-tests-80k-acc",
+    "type": "news",
+    "title": "Bitcoin Price Analysis Today: Daily Order Flow Turns Bullish as BTC Tests $80k Acceptance",
+    "slug": "bitcoin-price-analysis-today-daily-order-flow-turns-bullish-as-btc-tests-80k-acc",
+    "date": "2026-05-05",
+    "displayDate": "May 5, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin is trading near $80,328, up about 2.25% on the session, with a bullish daily trend as it tests $80k acceptance. A sustained hold above $80,150 would sup",
+    "excerpt": "Bitcoin is trading near $80,328, up about 2.25% on the session, with a bullish daily trend as it tests $80k acceptance. A sustained hold above $80,150 would support further gains.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Bitcoin Price Analysis Today: Daily Order Flow Turns Bullish as BTC Tests $80k Acceptance"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "bitcoin-price-btc-is-up-19-in-30-days-is-the-bear-market-officially-over",
+    "type": "news",
+    "title": "Bitcoin Price: BTC Is Up 19% in 30 Days — Is the Bear Market Officially Over?",
+    "slug": "bitcoin-price-btc-is-up-19-in-30-days-is-the-bear-market-officially-over",
+    "date": "2026-05-05",
+    "displayDate": "May 5, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin's price has risen 19% in 30 days, but the bear market is not officially over yet due to mixed signals. A sustained close above $82,228 or a green May cl",
+    "excerpt": "Bitcoin's price has risen 19% in 30 days, but the bear market is not officially over yet due to mixed signals. A sustained close above $82,228 or a green May close would confirm the bottom. Current price is $80,200.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Bitcoin Price: BTC Is Up 19% in 30 Days — Is the Bear Market Officially Over?"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "canada-s-jobs-market-expected-to-chug-along-even-as-labour-force-shrinks",
+    "type": "news",
+    "title": "Canada’s jobs market expected to chug along even as labour force shrinks",
+    "slug": "canada-s-jobs-market-expected-to-chug-along-even-as-labour-force-shrinks",
+    "date": "2026-05-05",
+    "displayDate": "May 5, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Canada's jobs market is expected to remain stable despite a shrinking labor force, with modest unemployment rate declines and gradual improvements in per-worker",
+    "excerpt": "Canada's jobs market is expected to remain stable despite a shrinking labor force, with modest unemployment rate declines and gradual improvements in per-worker conditions. Economists anticipate a gain of about 25,000 jobs in April, following earlier losses. The labor market remains weak, with chall",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Canada’s jobs market expected to chug along even as labour force shrinks"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "earnings-calendar-and-analysis-for-this-week-may-4-8",
+    "type": "news",
+    "title": "Earnings Calendar and Analysis for This Week (May 4-8)",
+    "slug": "earnings-calendar-and-analysis-for-this-week-may-4-8",
+    "date": "2026-05-05",
+    "displayDate": "May 5, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "This week's earnings reports include major companies like PayPal, Palantir, and Toyota. Key segments in AI and semiconductors are expected to perform well. Focu",
+    "excerpt": "This week's earnings reports include major companies like PayPal, Palantir, and Toyota. Key segments in AI and semiconductors are expected to perform well. Focus on yen-buying interventions' impact on Japanese corporate earnings.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Earnings Calendar and Analysis for This Week (May 4-8)"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "federal-reserve-keeps-interest-rates-steady-as-inflation-uncertainty-rises",
+    "type": "news",
+    "title": "Federal Reserve keeps interest rates steady as inflation uncertainty rises",
+    "slug": "federal-reserve-keeps-interest-rates-steady-as-inflation-uncertainty-rises",
+    "date": "2026-05-05",
+    "displayDate": "May 5, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Reserve kept interest rates steady amid rising inflation and economic uncertainty. Powell indicated he would stay on the Board of Governors. The Fed",
+    "excerpt": "The Federal Reserve kept interest rates steady amid rising inflation and economic uncertainty. Powell indicated he would stay on the Board of Governors. The Fed noted elevated inflation and high economic outlook uncertainty.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Federal Reserve keeps interest rates steady as inflation uncertainty rises"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "four-key-takeaways-from-jerome-powell-s-final-rate-decision-as-fed-chair",
+    "type": "news",
+    "title": "Four key takeaways from Jerome Powell's final rate decision as Fed chair",
+    "slug": "four-key-takeaways-from-jerome-powell-s-final-rate-decision-as-fed-chair",
+    "date": "2026-05-05",
+    "displayDate": "May 5, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Jerome Powell's final rate decision as Fed chair kept US interest rates steady, despite pressure from President Trump. Powell emphasized the Fed's independence ",
+    "excerpt": "Jerome Powell's final rate decision as Fed chair kept US interest rates steady, despite pressure from President Trump. Powell emphasized the Fed's independence and will stay until a Trump probe is resolved. Powell's decision was cautious amid inflation fears from the US-Iran conflict.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Four key takeaways from Jerome Powell's final rate decision as Fed chair"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "fourth-quarter-2025-survey-of-professional-forecasters",
+    "type": "news",
+    "title": "Fourth Quarter 2025 Survey of Professional Forecasters",
+    "slug": "fourth-quarter-2025-survey-of-professional-forecasters",
+    "date": "2026-05-05",
+    "displayDate": "May 5, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Fourth Quarter 2025 Survey of Professional Forecasters showed slight upward revisions for 2025 inflation but stable expectations for 2026-2027, with GDP gro",
+    "excerpt": "The Fourth Quarter 2025 Survey of Professional Forecasters showed slight upward revisions for 2025 inflation but stable expectations for 2026-2027, with GDP growth at 1.2% for 2025. The survey also indicated balanced risks and unchanged uncertainty for longer-term inflation expectations.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Fourth Quarter 2025 Survey of Professional Forecasters"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "gdp-advance-estimate-4th-quarter-and-year-2025",
+    "type": "news",
+    "title": "GDP (Advance Estimate), 4th Quarter and Year 2025",
+    "slug": "gdp-advance-estimate-4th-quarter-and-year-2025",
+    "date": "2026-05-05",
+    "displayDate": "May 5, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Real GDP grew 1.4% in Q4 2025, down from 4.4% in Q3 2025, primarily due to decreases in government spending and exports. The increase was driven by consumer spe",
+    "excerpt": "Real GDP grew 1.4% in Q4 2025, down from 4.4% in Q3 2025, primarily due to decreases in government spending and exports. The increase was driven by consumer spending and investment. Annual real GDP growth for 2025 was 2.2%.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "GDP (Advance Estimate), 4th Quarter and Year 2025"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "international-diversification-is-finally-paying-off",
+    "type": "news",
+    "title": "International Diversification Is Finally Paying Off",
+    "slug": "international-diversification-is-finally-paying-off",
+    "date": "2026-05-05",
+    "displayDate": "May 5, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "International diversification has historically shown long-term benefits, often underperforming in the short term but outperforming in the long term. Recent tren",
+    "excerpt": "International diversification has historically shown long-term benefits, often underperforming in the short term but outperforming in the long term. Recent trends suggest international stocks are now more attractive than U.S. shares. This shift may indicate that diversification is finally delivering",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "International Diversification Is Finally Paying Off"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "pentagon-strikes-deals-with-8-big-tech-companies-after-shunning-anthropic",
+    "type": "news",
+    "title": "Pentagon strikes deals with 8 Big Tech companies after shunning Anthropic",
+    "slug": "pentagon-strikes-deals-with-8-big-tech-companies-after-shunning-anthropic",
+    "date": "2026-05-05",
+    "displayDate": "May 5, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Pentagon has signed AI contracts with eight major tech companies, excluding Anthropic, for classified networks. The companies include Google, Microsoft, and",
+    "excerpt": "The Pentagon has signed AI contracts with eight major tech companies, excluding Anthropic, for classified networks. The companies include Google, Microsoft, and Amazon Web Services. The decision followed Anthropic's refusal to allow military use of its AI for certain purposes.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Pentagon strikes deals with 8 Big Tech companies after shunning Anthropic"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "revisiting-professional-forecasters-past-performance-and-the-outlook-for-2026",
+    "type": "news",
+    "title": "Revisiting Professional Forecasters’ Past Performance and the Outlook for 2026",
+    "slug": "revisiting-professional-forecasters-past-performance-and-the-outlook-for-2026",
+    "date": "2026-05-05",
+    "displayDate": "May 5, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Professional forecasters expect 1.9% GDP growth and 2.9% CPI increase for 2026. The forecasts for 2025 have been accurate. The Philadelphia Fed's SPF survey pro",
+    "excerpt": "Professional forecasters expect 1.9% GDP growth and 2.9% CPI increase for 2026. The forecasts for 2025 have been accurate. The Philadelphia Fed's SPF survey provides detailed economic projections for 2026-2029.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Revisiting Professional Forecasters’ Past Performance and the Outlook for 2026"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "s-p-500-earnings-are-handily-topping-expectations-it-s-good-news-for-investors",
+    "type": "news",
+    "title": "S&P 500 Earnings Are Handily Topping Expectations—It's Good News for Investors",
+    "slug": "s-p-500-earnings-are-handily-topping-expectations-it-s-good-news-for-investors",
+    "date": "2026-05-05",
+    "displayDate": "May 5, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "S&P 500 earnings are expected to grow by 27%, the highest since Q4 2021, indicating strong corporate performance. This growth is driven by companies that have a",
+    "excerpt": "S&P 500 earnings are expected to grow by 27%, the highest since Q4 2021, indicating strong corporate performance. This growth is driven by companies that have already reported results and estimates for those yet to report. Investors are likely to benefit from this positive trend.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "S&P 500 Earnings Are Handily Topping Expectations—It's Good News for Investors"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "s-p-500-forecast-what-now-for-us-stock-markets",
+    "type": "news",
+    "title": "S&P 500 forecast: What now for US stock markets?",
+    "slug": "s-p-500-forecast-what-now-for-us-stock-markets",
+    "date": "2026-05-05",
+    "displayDate": "May 5, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The S&P 500 is expected to rally 12% this year according to Goldman Sachs, while short-term forecasts suggest a 2.10% rise in the next three months. The current",
+    "excerpt": "The S&P 500 is expected to rally 12% this year according to Goldman Sachs, while short-term forecasts suggest a 2.10% rise in the next three months. The current trend is positive but challenging to justify bullishly.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "S&P 500 forecast: What now for US stock markets?"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "stock-market-today-stock-market-news-and-analysis",
+    "type": "news",
+    "title": "Stock Market Today: Stock Market News And Analysis",
+    "slug": "stock-market-today-stock-market-news-and-analysis",
+    "date": "2026-05-05",
+    "displayDate": "May 5, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Dow fell 152.87, NASDAQ rose 222.13, and S&P 500 increased by 21.11 today. For detailed news, visit MarketWatch or Briefing.com.",
+    "excerpt": "The Dow fell 152.87, NASDAQ rose 222.13, and S&P 500 increased by 21.11 today. For detailed news, visit MarketWatch or Briefing.com.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Stock Market Today: Stock Market News And Analysis"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "tech-weekly-markets-start-may-on-tightrope-after-mixed-earnings",
+    "type": "news",
+    "title": "Tech Weekly: Markets Start May on Tightrope After Mixed Earnings",
+    "slug": "tech-weekly-markets-start-may-on-tightrope-after-mixed-earnings",
+    "date": "2026-05-05",
+    "displayDate": "May 5, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The S&P 500 and Nasdaq saw their biggest monthly gains since 2020, with weekly gains of 0.91% and 1.08% respectively, driven by positive sentiment after robust ",
+    "excerpt": "The S&P 500 and Nasdaq saw their biggest monthly gains since 2020, with weekly gains of 0.91% and 1.08% respectively, driven by positive sentiment after robust earnings. Despite mixed earnings, market stability remains uncertain as May begins.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Tech Weekly: Markets Start May on Tightrope After Mixed Earnings"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "the-s-p-500-s-top-performing-sectors-3-lead-the-pack-in-2025",
+    "type": "news",
+    "title": "The S&P 500's Top-Performing Sectors: 3 Lead the Pack in 2025",
+    "slug": "the-s-p-500-s-top-performing-sectors-3-lead-the-pack-in-2025",
+    "date": "2026-05-05",
+    "displayDate": "May 5, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "In 2025, the S&P 500's top sectors were technology, communications, and industrials, driven by AI adoption and strong performance in aerospace and defense. Tech",
+    "excerpt": "In 2025, the S&P 500's top sectors were technology, communications, and industrials, driven by AI adoption and strong performance in aerospace and defense. Technology led with a 24.6% return, followed by communications at 23%. Industrials also performed well, boosted by defense and aerospace.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "The S&P 500's Top-Performing Sectors: 3 Lead the Pack in 2025"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "us-earnings-season-q1-2026",
+    "type": "news",
+    "title": "US earnings season - Q1 2026",
+    "slug": "us-earnings-season-q1-2026",
+    "date": "2026-05-05",
+    "displayDate": "May 5, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "US earnings season for Q1 2026 saw the S&P 500 index grow by 13.2%, marking the sixth consecutive quarter of double-digit earnings growth. The Finance sector an",
+    "excerpt": "US earnings season for Q1 2026 saw the S&P 500 index grow by 13.2%, marking the sixth consecutive quarter of double-digit earnings growth. The Finance sector and Investment Banks/Managers industry also reported significant earnings increases.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "US earnings season - Q1 2026"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "us-economic-forecast-q1-2026",
+    "type": "news",
+    "title": "US Economic Forecast Q1 2026",
+    "slug": "us-economic-forecast-q1-2026",
+    "date": "2026-05-05",
+    "displayDate": "May 5, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The U.S. economy is projected to grow at 2.4% in Q1 2026, with elevated oil prices impacting inflation. Business investment is expected to accelerate, and stock",
+    "excerpt": "The U.S. economy is projected to grow at 2.4% in Q1 2026, with elevated oil prices impacting inflation. Business investment is expected to accelerate, and stock markets have shown resilience despite market volatility.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "US Economic Forecast Q1 2026"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "us-stocks-are-off-to-their-worst-start-versus-the-global-market-since-1995",
+    "type": "news",
+    "title": "US stocks are off to their worst start versus the global market since 1995",
+    "slug": "us-stocks-are-off-to-their-worst-start-versus-the-global-market-since-1995",
+    "date": "2026-05-05",
+    "displayDate": "May 5, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "U.S. stocks have had their worst start to the year since 1995 compared to global markets. This trend is confirmed by data from Goldman Sachs. The year 1995 is t",
+    "excerpt": "U.S. stocks have had their worst start to the year since 1995 compared to global markets. This trend is confirmed by data from Goldman Sachs. The year 1995 is the benchmark for comparison.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "US stocks are off to their worst start versus the global market since 1995"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "wall-street-s-hunt-for-cheaper-stocks-goes-global",
+    "type": "news",
+    "title": "Wall Street’s Hunt for Cheaper Stocks Goes Global",
+    "slug": "wall-street-s-hunt-for-cheaper-stocks-goes-global",
+    "date": "2026-05-05",
+    "displayDate": "May 5, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Wall Street is increasingly looking abroad for cheaper stocks due to high valuations and a weak dollar in the U.S. This global hunt is reshaping investment stra",
+    "excerpt": "Wall Street is increasingly looking abroad for cheaper stocks due to high valuations and a weak dollar in the U.S. This global hunt is reshaping investment strategies. The trend reflects a shift away from traditional U.S. market dominance.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Wall Street’s Hunt for Cheaper Stocks Goes Global"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "weekly-market-commentary",
+    "type": "news",
+    "title": "Weekly market commentary",
+    "slug": "weekly-market-commentary",
+    "date": "2026-05-05",
+    "displayDate": "May 5, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The stock market experienced volatility last week due to economic data, interest rate changes, and global events. The S&P 500 reached a new high despite many st",
+    "excerpt": "The stock market experienced volatility last week due to economic data, interest rate changes, and global events. The S&P 500 reached a new high despite many stocks losing value. Investors reacted to a flood of news and data.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Weekly market commentary"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "weekly-market-update-stocks-gain-0-9-as-energy-rises-and-basic-materials-fall",
+    "type": "news",
+    "title": "Weekly Market Update: Stocks Gain 0.9% as Energy Rises and Basic Materials Fall",
+    "slug": "weekly-market-update-stocks-gain-0-9-as-energy-rises-and-basic-materials-fall",
+    "date": "2026-05-05",
+    "displayDate": "May 5, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Morningstar US Market Index rose 0.9%, with energy up 3.42% and basic materials down 1.98%. Large-cap stocks gained 1.01%, mid-cap stocks rose 0.75%, and sm",
+    "excerpt": "The Morningstar US Market Index rose 0.9%, with energy up 3.42% and basic materials down 1.98%. Large-cap stocks gained 1.01%, mid-cap stocks rose 0.75%, and small-cap stocks increased by 0.03%. For more details, visit Morningstar's official website.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Weekly Market Update: Stocks Gain 0.9% as Energy Rises and Basic Materials Fall"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "weekly-market-update-tech-stocks-lead-market-lower-basic-materials-gain",
+    "type": "news",
+    "title": "Weekly Market Update: Tech Stocks Lead Market Lower, Basic Materials Gain",
+    "slug": "weekly-market-update-tech-stocks-lead-market-lower-basic-materials-gain",
+    "date": "2026-05-05",
+    "displayDate": "May 5, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Tech stocks led declines, while basic materials gained in the weekly market update. Oracle and Broadcom fell sharply after earnings. Basic materials outperforme",
+    "excerpt": "Tech stocks led declines, while basic materials gained in the weekly market update. Oracle and Broadcom fell sharply after earnings. Basic materials outperformed despite tech sector losses.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Weekly Market Update: Tech Stocks Lead Market Lower, Basic Materials Gain"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "why-one-economist-recommends-a-100-stock-portfolio-during-your-working-years",
+    "type": "news",
+    "title": "Why One Economist Recommends a 100% Stock Portfolio During Your Working Years",
+    "slug": "why-one-economist-recommends-a-100-stock-portfolio-during-your-working-years",
+    "date": "2026-05-05",
+    "displayDate": "May 5, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "An economist recommends a 100% stock portfolio during working years because income acts as a safety net, allowing for higher risk investments. This approach lev",
+    "excerpt": "An economist recommends a 100% stock portfolio during working years because income acts as a safety net, allowing for higher risk investments. This approach leverages human capital, which provides diversification. However, individual financial situations should be considered.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Why One Economist Recommends a 100% Stock Portfolio During Your Working Years"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "10-day-trading-tips-for-beginners-getting-started",
     "type": "news",
     "title": "10 Day Trading Tips for Beginners Getting Started",
@@ -105,48 +714,6 @@
     "readingTime": 3
   },
   {
-    "id": "asset-allocation-insights-march-2026",
-    "type": "news",
-    "title": "Asset Allocation Insights - March 2026",
-    "slug": "asset-allocation-insights-march-2026",
-    "date": "2026-05-04",
-    "displayDate": "May 4, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "In March 2026, equity overweight remains due to cyclical momentum and AI-driven growth, while bonds are underweighted. U.S. equities are balanced with real esta",
-    "excerpt": "In March 2026, equity overweight remains due to cyclical momentum and AI-driven growth, while bonds are underweighted. U.S. equities are balanced with real estate adjustments. Treasury trends are positive.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Asset Allocation Insights - March 2026"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "asset-allocation-outlook-2q-2026-beyond-the-conflict",
-    "type": "news",
-    "title": "Asset Allocation Outlook 2Q 2026: Beyond the Conflict",
-    "slug": "asset-allocation-outlook-2q-2026-beyond-the-conflict",
-    "date": "2026-05-04",
-    "displayDate": "May 4, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Despite Middle East conflict, the outlook for global equities remains constructive, with a focus on U.S. and emerging markets. Non-U.S. developed markets and bo",
-    "excerpt": "Despite Middle East conflict, the outlook for global equities remains constructive, with a focus on U.S. and emerging markets. Non-U.S. developed markets and bonds are also seen as attractive. Inflation and energy prices are key concerns.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Asset Allocation Outlook 2Q 2026: Beyond the Conflict"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "average-inflation-rate-in-the-united-states-from-1980-to-2031",
     "type": "news",
     "title": "Average inflation rate in the United States from 1980 to 2031",
@@ -248,27 +815,6 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "Bitcoin Price Prediction as BTC Breaks Above $80,000"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "canada-s-jobs-market-expected-to-chug-along-even-as-labour-force-shrinks",
-    "type": "news",
-    "title": "Canada’s jobs market expected to chug along even as labour force shrinks",
-    "slug": "canada-s-jobs-market-expected-to-chug-along-even-as-labour-force-shrinks",
-    "date": "2026-05-04",
-    "displayDate": "May 4, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Canada's jobs market is expected to remain stable despite a shrinking labor force, with employment likely improving per-worker conditions. The unemployment rate",
-    "excerpt": "Canada's jobs market is expected to remain stable despite a shrinking labor force, with employment likely improving per-worker conditions. The unemployment rate is projected to drop to 6.6% in April 2026. Labor force growth has slowed significantly, impacting job market saturation.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Canada’s jobs market expected to chug along even as labour force shrinks"
     },
     "readingTime": 3
   },
@@ -441,27 +987,6 @@
     "readingTime": 3
   },
   {
-    "id": "earnings-calendar-and-analysis-for-this-week-may-4-8",
-    "type": "news",
-    "title": "Earnings Calendar and Analysis for This Week (May 4-8)",
-    "slug": "earnings-calendar-and-analysis-for-this-week-may-4-8",
-    "date": "2026-05-04",
-    "displayDate": "May 4, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "This week's earnings reports include major companies, with significant market impact expected. Key financial results will be released, influencing stock market ",
-    "excerpt": "This week's earnings reports include major companies, with significant market impact expected. Key financial results will be released, influencing stock market trends. Stay updated for precise financial insights.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Earnings Calendar and Analysis for This Week (May 4-8)"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "economic-indicators-key-statistics-for-the-uk-economy",
     "type": "news",
     "title": "Economic indicators: Key statistics for the UK economy",
@@ -521,69 +1046,6 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "Fed holds rates steady but with highest level of dissent since 1992"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "federal-reserve-keeps-interest-rates-steady-as-inflation-uncertainty-rises",
-    "type": "news",
-    "title": "Federal Reserve keeps interest rates steady as inflation uncertainty rises",
-    "slug": "federal-reserve-keeps-interest-rates-steady-as-inflation-uncertainty-rises",
-    "date": "2026-05-04",
-    "displayDate": "May 4, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Reserve kept interest rates steady amid rising inflation uncertainty. This decision was made for the third consecutive meeting. Current date is May ",
-    "excerpt": "The Federal Reserve kept interest rates steady amid rising inflation uncertainty. This decision was made for the third consecutive meeting. Current date is May 4, 2026.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Federal Reserve keeps interest rates steady as inflation uncertainty rises"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "four-key-takeaways-from-jerome-powell-s-final-rate-decision-as-fed-chair",
-    "type": "news",
-    "title": "Four key takeaways from Jerome Powell's final rate decision as Fed chair",
-    "slug": "four-key-takeaways-from-jerome-powell-s-final-rate-decision-as-fed-chair",
-    "date": "2026-05-04",
-    "displayDate": "May 4, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Jerome Powell's final rate decision as Fed chair maintained steady rates, emphasized inflation control at 2%, and highlighted tariffs as a primary inflation dri",
-    "excerpt": "Jerome Powell's final rate decision as Fed chair maintained steady rates, emphasized inflation control at 2%, and highlighted tariffs as a primary inflation driver.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Four key takeaways from Jerome Powell's final rate decision as Fed chair"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "gdp-advance-estimate-4th-quarter-and-year-2025",
-    "type": "news",
-    "title": "GDP (Advance Estimate), 4th Quarter and Year 2025",
-    "slug": "gdp-advance-estimate-4th-quarter-and-year-2025",
-    "date": "2026-05-04",
-    "displayDate": "May 4, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Real GDP grew 1.4% annually in Q4 2025, down from 4.4% in Q3 2025, according to the U.S. Bureau of Economic Analysis. The growth was driven by consumer spending",
-    "excerpt": "Real GDP grew 1.4% annually in Q4 2025, down from 4.4% in Q3 2025, according to the U.S. Bureau of Economic Analysis. The growth was driven by consumer spending and investment. Government spending and exports decreased.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "GDP (Advance Estimate), 4th Quarter and Year 2025"
     },
     "readingTime": 3
   },
@@ -882,48 +1344,6 @@
     "readingTime": 3
   },
   {
-    "id": "revisiting-professional-forecasters-past-performance-and-the-outlook-for-2026",
-    "type": "news",
-    "title": "Revisiting Professional Forecasters’ Past Performance and the Outlook for 2026",
-    "slug": "revisiting-professional-forecasters-past-performance-and-the-outlook-for-2026",
-    "date": "2026-05-04",
-    "displayDate": "May 4, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Professional forecasters expect 1.9% GDP growth and 2.9% CPI increase for 2026. The 2025 forecasts have been accurate. The Philadelphia Fed's SPF survey provide",
-    "excerpt": "Professional forecasters expect 1.9% GDP growth and 2.9% CPI increase for 2026. The 2025 forecasts have been accurate. The Philadelphia Fed's SPF survey provides detailed economic projections for 2026-2029.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Revisiting Professional Forecasters’ Past Performance and the Outlook for 2026"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "s-p-500-forecast-what-now-for-us-stock-markets",
-    "type": "news",
-    "title": "S&P 500 forecast: What now for US stock markets?",
-    "slug": "s-p-500-forecast-what-now-for-us-stock-markets",
-    "date": "2026-05-04",
-    "displayDate": "May 4, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The S&P 500 is currently trending positively but faces challenges in sustaining bullish forecasts. Corporate earnings and economic factors will influence future",
-    "excerpt": "The S&P 500 is currently trending positively but faces challenges in sustaining bullish forecasts. Corporate earnings and economic factors will influence future performance. Analysts project moderate growth in the coming months.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "S&P 500 forecast: What now for US stock markets?"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "s-p-500-nasdaq-end-higher-notch-weekly-gains-after-earnings-heavy-week",
     "type": "news",
     "title": "S&P 500, Nasdaq end higher, notch weekly gains after earnings-heavy week",
@@ -1071,27 +1491,6 @@
     "readingTime": 3
   },
   {
-    "id": "stock-market-today-stock-market-news-and-analysis",
-    "type": "news",
-    "title": "Stock Market Today: Stock Market News And Analysis",
-    "slug": "stock-market-today-stock-market-news-and-analysis",
-    "date": "2026-05-04",
-    "displayDate": "May 4, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Dow Jones Industrial Average rose today, driven by strong earnings from Apple, while Roblox, Sandisk, and Western Digital experienced significant declines. ",
-    "excerpt": "The Dow Jones Industrial Average rose today, driven by strong earnings from Apple, while Roblox, Sandisk, and Western Digital experienced significant declines. MarketWatch offers the latest stock market and financial news. Investor's Business Daily provides real-time stock market analysis.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Stock Market Today: Stock Market News And Analysis"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "the-best-healthcare-stocks-to-buy",
     "type": "news",
     "title": "The Best Healthcare Stocks to Buy",
@@ -1151,27 +1550,6 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "The Fed - April 28-29, 2026 FOMC Meeting"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "the-s-p-500-s-top-performing-sectors-3-lead-the-pack-in-2025",
-    "type": "news",
-    "title": "The S&P 500's Top-Performing Sectors: 3 Lead the Pack in 2025",
-    "slug": "the-s-p-500-s-top-performing-sectors-3-lead-the-pack-in-2025",
-    "date": "2026-05-04",
-    "displayDate": "May 4, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "In 2025, the S&P 500's top sectors were technology, communications, and industrials, driven by AI adoption. Tech led with AI advancements, communications thrive",
-    "excerpt": "In 2025, the S&P 500's top sectors were technology, communications, and industrials, driven by AI adoption. Tech led with AI advancements, communications thrived due to infrastructure growth, and industrials benefited from steady demand. These sectors outperformed the index, shaping market trends.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "The S&P 500's Top-Performing Sectors: 3 Lead the Pack in 2025"
     },
     "readingTime": 3
   },
@@ -1239,90 +1617,6 @@
     "readingTime": 3
   },
   {
-    "id": "us-earnings-season-q1-2026",
-    "type": "news",
-    "title": "US earnings season - Q1 2026",
-    "slug": "us-earnings-season-q1-2026",
-    "date": "2026-05-04",
-    "displayDate": "May 4, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Q1 2026 US earnings season peaks between April 27 and May 15, with May 7 expected to be the busiest day. The S&P 500 earnings growth is projected at 19%, th",
-    "excerpt": "The Q1 2026 US earnings season peaks between April 27 and May 15, with May 7 expected to be the busiest day. The S&P 500 earnings growth is projected at 19%, the highest in over four years. Financials lead reporting, with strong year-over-year earnings growth.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "US earnings season - Q1 2026"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "us-economic-forecast-q1-2026",
-    "type": "news",
-    "title": "US Economic Forecast Q1 2026",
-    "slug": "us-economic-forecast-q1-2026",
-    "date": "2026-05-04",
-    "displayDate": "May 4, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The U.S. economy grew at a 2.0% annual rate in Q1 2026, up from 0.5% in Q4 2025, with business investment expected to accelerate and inflation expectations decl",
-    "excerpt": "The U.S. economy grew at a 2.0% annual rate in Q1 2026, up from 0.5% in Q4 2025, with business investment expected to accelerate and inflation expectations declining. The federal deficit is projected to remain high, and oil prices remain elevated. Economic growth is still expected at 2.4% for 2026.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "US Economic Forecast Q1 2026"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "us-stocks-are-off-to-their-worst-start-versus-the-global-market-since-1995",
-    "type": "news",
-    "title": "US stocks are off to their worst start versus the global market since 1995",
-    "slug": "us-stocks-are-off-to-their-worst-start-versus-the-global-market-since-1995",
-    "date": "2026-05-04",
-    "displayDate": "May 4, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "U.S. stocks have had their worst start since 1995 compared to global markets. This trend is according to Goldman Sachs data. The current year shows the worst pe",
-    "excerpt": "U.S. stocks have had their worst start since 1995 compared to global markets. This trend is according to Goldman Sachs data. The current year shows the worst performance since 1995.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "US stocks are off to their worst start versus the global market since 1995"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "wall-street-s-hunt-for-cheaper-stocks-goes-global",
-    "type": "news",
-    "title": "Wall Street’s Hunt for Cheaper Stocks Goes Global",
-    "slug": "wall-street-s-hunt-for-cheaper-stocks-goes-global",
-    "date": "2026-05-04",
-    "displayDate": "May 4, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Wall Street is increasingly looking abroad for cheaper stocks due to high valuations and a weak dollar. This trend reflects a shift in investment strategies as ",
-    "excerpt": "Wall Street is increasingly looking abroad for cheaper stocks due to high valuations and a weak dollar. This trend reflects a shift in investment strategies as firms seek better opportunities outside the U.S. market.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Wall Street’s Hunt for Cheaper Stocks Goes Global"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "warrenai-vs-chatgpt-the-best-ai-tool-for-investors-in-2026",
     "type": "news",
     "title": "WarrenAI Vs ChatGPT: The Best AI Tool For Investors in 2026",
@@ -1361,69 +1655,6 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "WATCH: Powell says he plans to stay at Fed after chair term ends amid legal attacks by the Trump administration"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "weekly-market-commentary",
-    "type": "news",
-    "title": "Weekly market commentary",
-    "slug": "weekly-market-commentary",
-    "date": "2026-05-04",
-    "displayDate": "May 4, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Current market commentary highlights supply-driven inflation and structural changes due to geopolitical tensions. Recent trends show energy and industrial mater",
-    "excerpt": "Current market commentary highlights supply-driven inflation and structural changes due to geopolitical tensions. Recent trends show energy and industrial material disruptions affecting inflation. Experts emphasize the need for diversified strategies to navigate these shifts.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Weekly market commentary"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "weekly-market-update-stocks-gain-0-9-as-energy-rises-and-basic-materials-fall",
-    "type": "news",
-    "title": "Weekly Market Update: Stocks Gain 0.9% as Energy Rises and Basic Materials Fall",
-    "slug": "weekly-market-update-stocks-gain-0-9-as-energy-rises-and-basic-materials-fall",
-    "date": "2026-05-04",
-    "displayDate": "May 4, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Morningstar US Market Index rose 0.9%, with energy up 3.42% and basic materials down 1.98%. Large-cap stocks gained 1.01%, mid-cap stocks rose 0.75%, and sm",
-    "excerpt": "The Morningstar US Market Index rose 0.9%, with energy up 3.42% and basic materials down 1.98%. Large-cap stocks gained 1.01%, mid-cap stocks rose 0.75%, and small-cap stocks increased 0.03%. Technology fell 2.18% for the week.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Weekly Market Update: Stocks Gain 0.9% as Energy Rises and Basic Materials Fall"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "weekly-market-update-tech-stocks-lead-market-lower-basic-materials-gain",
-    "type": "news",
-    "title": "Weekly Market Update: Tech Stocks Lead Market Lower, Basic Materials Gain",
-    "slug": "weekly-market-update-tech-stocks-lead-market-lower-basic-materials-gain",
-    "date": "2026-05-04",
-    "displayDate": "May 4, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Tech stocks led declines, while basic materials gained in the latest market update. Tech fell 2.18% with Oracle and Broadcom dropping after earnings. Basic mate",
-    "excerpt": "Tech stocks led declines, while basic materials gained in the latest market update. Tech fell 2.18% with Oracle and Broadcom dropping after earnings. Basic materials rose, outperforming the tech sector.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Weekly Market Update: Tech Stocks Lead Market Lower, Basic Materials Gain"
     },
     "readingTime": 3
   },
@@ -1512,27 +1743,6 @@
     "readingTime": 3
   },
   {
-    "id": "why-one-economist-recommends-a-100-stock-portfolio-during-your-working-years",
-    "type": "news",
-    "title": "Why One Economist Recommends a 100% Stock Portfolio During Your Working Years",
-    "slug": "why-one-economist-recommends-a-100-stock-portfolio-during-your-working-years",
-    "date": "2026-05-04",
-    "displayDate": "May 4, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "An economist recommends a 100% stock portfolio during working years because income acts as a safety net, allowing for higher risk. This advice is based on the i",
-    "excerpt": "An economist recommends a 100% stock portfolio during working years because income acts as a safety net, allowing for higher risk. This advice is based on the idea that human capital provides diversification. Always consider personal financial circumstances.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Why One Economist Recommends a 100% Stock Portfolio During Your Working Years"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "2026-market-outlook-risks-and-opportunities-the-wall-street-sweeper-with-russell",
     "type": "news",
     "title": "2026 Market Outlook: Risks and Opportunities - The Wall Street Sweeper with Russell Hackmann",
@@ -1550,27 +1760,6 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "2026 Market Outlook: Risks and Opportunities - The Wall Street Sweeper with Russell Hackmann"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "a-divided-fed-holds-rates-steady",
-    "type": "news",
-    "title": "A Divided Fed Holds Rates Steady",
-    "slug": "a-divided-fed-holds-rates-steady",
-    "date": "2026-05-03",
-    "displayDate": "May 3, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Reserve held interest rates steady in a highly divided decision, with rising inflation concerns and three dissenting officials. Powell indicated he ",
-    "excerpt": "The Federal Reserve held interest rates steady in a highly divided decision, with rising inflation concerns and three dissenting officials. Powell indicated he would remain on the Board of Governors. Markets expect no changes for the rest of the year and into 2027.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "A Divided Fed Holds Rates Steady"
     },
     "readingTime": 3
   },
@@ -1764,27 +1953,6 @@
     "readingTime": 3
   },
   {
-    "id": "fourth-quarter-2025-survey-of-professional-forecasters",
-    "type": "news",
-    "title": "Fourth Quarter 2025 Survey of Professional Forecasters",
-    "slug": "fourth-quarter-2025-survey-of-professional-forecasters",
-    "date": "2026-05-03",
-    "displayDate": "May 3, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The ECB Survey of Professional Forecasters for Q4 2025 shows slight upward inflation revisions for 2025 but no change for 2026-2027. Philadelphia Fed's Q4 2025 ",
-    "excerpt": "The ECB Survey of Professional Forecasters for Q4 2025 shows slight upward inflation revisions for 2025 but no change for 2026-2027. Philadelphia Fed's Q4 2025 survey forecasts a 22.9% risk of negative GDP in Q4 2025. GDP growth expectations for 2025 are 1.2%, 2026 at 1.1%, and 2027 at 1.4%.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Fourth Quarter 2025 Survey of Professional Forecasters"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "get-your-portfolio-s-passport-stamped-reasons-to-consider-international-investin",
     "type": "news",
     "title": "Get your portfolio’s passport stamped: Reasons to consider international investing",
@@ -1886,27 +2054,6 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "Stock Market Under the Trump Administration: What is Driving Markets in 2026?"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "tech-weekly-markets-start-may-on-tightrope-after-mixed-earnings",
-    "type": "news",
-    "title": "Tech Weekly: Markets Start May on Tightrope After Mixed Earnings",
-    "slug": "tech-weekly-markets-start-may-on-tightrope-after-mixed-earnings",
-    "date": "2026-05-03",
-    "displayDate": "May 3, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The S&P 500 and Nasdaq saw their biggest monthly gains since 2020, with weekly gains of 0.91% and 1.08% respectively, driven by positive sentiment after robust ",
-    "excerpt": "The S&P 500 and Nasdaq saw their biggest monthly gains since 2020, with weekly gains of 0.91% and 1.08% respectively, driven by positive sentiment after robust earnings. Despite mixed earnings reports, market stability remains uncertain as May begins.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Tech Weekly: Markets Start May on Tightrope After Mixed Earnings"
     },
     "readingTime": 3
   },
