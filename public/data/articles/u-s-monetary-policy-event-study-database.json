@@ -1,0 +1,52 @@
+{
+  "id": "u-s-monetary-policy-event-study-database",
+  "type": "news",
+  "title": "U.S. Monetary Policy Event-Study Database",
+  "slug": "u-s-monetary-policy-event-study-database",
+  "date": "2026-05-06",
+  "displayDate": "May 6, 2026",
+  "author": "Sigma Capital",
+  "category": "Fed Policy",
+  "tags": [
+    "fed policy",
+    "financial news",
+    "market update"
+  ],
+  "metaDescription": "The U.S. Monetary Policy Event-Study Database tracks high-frequency interest rate and asset price changes around FOMC events. It provides data for constructing ",
+  "excerpt": "The U.S. Monetary Policy Event-Study Database tracks high-frequency interest rate and asset price changes around FOMC events. It provides data for constructing monetary policy surprises and includes measures from various studies. The database is publicly available and updated regularly.",
+  "content": {
+    "introduction": "The U.S. Monetary Policy Event-Study Database tracks high-frequency interest rate and asset price changes around FOMC events. It provides data for constructing monetary policy surprises and includes measures from various studies. The database is publicly available and updated regularly.",
+    "body": [
+      "# U.S. Monetary Policy Event-Study Database. The U.S. Monetary Policy Event-Study Database (USMPD) collects high-frequency changes of interest rates and asset prices around Federal Open Market Committee (FOMC) communication events. The changes and returns are based on high-frequency market data and calculated over intraday windows covering four different types of FOMC communication events:. High-frequency monetary policy surprises can be constructed from the data in the USMPD in different ways. The USMPD includes all the necessary data to calculate other commonly used measures of monetary policy surprises, such as those of Gürkaynak, Sack, and Swanson (2005), Jarociński and Karadi (2020), and Miranda-Agrippino and Ricco (2021). The two figures below illustrate the content of the USMPD and the derived monetary policy surprises, focusing on the communication events on days with FOMC meetings. Figure 2 plots the time series, starting in 2020, of the three monetary policy surprises constructed from these rate changes. “Deconstructing Monetary Policy Surprises—The Role of Information Shocks.” *American Economic Journal: Macroeconomics* 12(2, April), pp.",
+      "The U.S. Monetary Policy Event-Study Database collects high-frequency changes of interest rates and asset prices around Federal Open Market Committee (FOMC)",
+      "Bank Series Content Type Author JEL Classification. # Financial Market Effects of FOMC Communication: Evidence from a New Event-Study Database. **Abstract:**  This paper introduces the U.S. Monetary Policy Event-Study Database (USMPD), a novel, public, and regularly updated dataset of financial market data around Federal Open Market Committee (FOMC) policy announcements, press conferences, and minutes releases. Using the rich high-frequency data in the USMPD, we document several new empirical findings. Large monetary policy surprises have made a comeback in recent years, and post-meeting press conferences have become the most important source of policy news. Monetary policy surprises have pronounced negative effects on breakeven inflation based on Treasury yields. Risk assets, including dividend derivatives, also respond strongly and negatively to monetary policy surprises, consistent with conventional channels of monetary transmission. Press conferences have stronger effects than FOMC statements on most asset prices. Finally, the term structure evidence shows peak effects on market-based inflation and dividend expectations at horizons of several years. + **ORCID iD:**  0000-0002-2711-816X. + **ORCID iD:**  0000-0002-6260-2133."
+    ],
+    "keyTakeaways": [
+      "The U.S",
+      "# U.S",
+      "The U.S"
+    ],
+    "source": "Federal Reserve Bank of San Francisco",
+    "sourceUrl": "https://www.frbsf.org/research-and-insights/data-and-indicators/us-monetary-policy-event-study-database/"
+  },
+  "readingTime": 3,
+  "updatedAt": "2026-05-06T14:23:21.331Z",
+  "images": {
+    "thumbnail": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "U.S. Monetary Policy Event-Study Database"
+    },
+    "hero": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "U.S. Monetary Policy Event-Study Database"
+    },
+    "mid": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "U.S. Monetary Policy Event-Study Database"
+    }
+  },
+  "image": {
+    "src": "/images/article_thumb_4.jpg",
+    "alt": "U.S. Monetary Policy Event-Study Database"
+  }
+}
