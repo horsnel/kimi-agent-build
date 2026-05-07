@@ -42,6 +42,27 @@
     "readingTime": 3
   },
   {
+    "id": "a-divided-fed-holds-rates-steady",
+    "type": "news",
+    "title": "A Divided Fed Holds Rates Steady",
+    "slug": "a-divided-fed-holds-rates-steady",
+    "date": "2026-05-07",
+    "displayDate": "May 7, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Reserve held interest rates steady at 3.5-3.75%, with significant dissent, as policymakers considered inflation and leadership changes. Jerome Powel",
+    "excerpt": "The Federal Reserve held interest rates steady at 3.5-3.75%, with significant dissent, as policymakers considered inflation and leadership changes. Jerome Powell indicated he would stay on the Board of Governors. Stephen Miran dissented for a reduction.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "A Divided Fed Holds Rates Steady"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "ag-and-food-statistics-charting-the-essentials-food-prices-and-spending",
     "type": "news",
     "title": "Ag and Food Statistics: Charting the Essentials - Food Prices and Spending",
@@ -63,6 +84,27 @@
     "readingTime": 3
   },
   {
+    "id": "applovin-reports-q1-2026-earnings-today-what-the-1-3-conversion-rate-means-for-t",
+    "type": "news",
+    "title": "AppLovin Reports Q1 2026 Earnings Today. What the 1.3% Conversion Rate Means for the Stock",
+    "slug": "applovin-reports-q1-2026-earnings-today-what-the-1-3-conversion-rate-means-for-t",
+    "date": "2026-05-07",
+    "displayDate": "May 7, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "A 1.3% conversion rate indicates AppLovin's efficiency in turning ad impressions into revenue, but it's below industry averages, potentially impacting stock per",
+    "excerpt": "A 1.3% conversion rate indicates AppLovin's efficiency in turning ad impressions into revenue, but it's below industry averages, potentially impacting stock performance. AppLovin reported strong earnings for Q1 2026, with EPS of $3.57. The company's revenue and EBITDA forecasts remain robust.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "AppLovin Reports Q1 2026 Earnings Today. What the 1.3% Conversion Rate Means for the Stock"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "asian-stock-markets-plunge-amid-trump-s-ultimatum-on-iran",
     "type": "news",
     "title": "Asian stock markets plunge amid Trump’s ultimatum on Iran",
@@ -80,6 +122,27 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "Asian stock markets plunge amid Trump’s ultimatum on Iran"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "big-tech-earnings-test-record-stock-market-rally-as-ai-spending-takes-center-sta",
+    "type": "news",
+    "title": "Big Tech earnings test record stock market rally as AI spending takes center stage",
+    "slug": "big-tech-earnings-test-record-stock-market-rally-as-ai-spending-takes-center-sta",
+    "date": "2026-05-07",
+    "displayDate": "May 7, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Big Tech companies are increasing AI spending, but mixed earnings and forecasts led to a 3% drop in stock prices. The AI-driven market rally faces scrutiny as e",
+    "excerpt": "Big Tech companies are increasing AI spending, but mixed earnings and forecasts led to a 3% drop in stock prices. The AI-driven market rally faces scrutiny as earnings reports come in. Investors are closely watching to see if AI gains can sustain the record S&P 500.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Big Tech earnings test record stock market rally as AI spending takes center stage"
     },
     "readingTime": 3
   },
@@ -126,6 +189,69 @@
     "readingTime": 3
   },
   {
+    "id": "bitcoin-price-analysis-btc-hits-key-decision-zone-after-20-monthly-rally",
+    "type": "news",
+    "title": "Bitcoin Price Analysis: BTC Hits Key Decision Zone After 20% Monthly Rally",
+    "slug": "bitcoin-price-analysis-btc-hits-key-decision-zone-after-20-monthly-rally",
+    "date": "2026-05-07",
+    "displayDate": "May 7, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin has rallied 20% monthly, reaching $80K, and is now testing a key resistance at $83K, with breakout confirmation needed for further gains.",
+    "excerpt": "Bitcoin has rallied 20% monthly, reaching $80K, and is now testing a key resistance at $83K, with breakout confirmation needed for further gains.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Bitcoin Price Analysis: BTC Hits Key Decision Zone After 20% Monthly Rally"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "bitcoin-price-prediction-we-asked-chatgpt-about-bitcoin-s-realistic-price-by-yea",
+    "type": "news",
+    "title": "Bitcoin Price Prediction: We Asked ChatGPT About Bitcoin’s Realistic Price by Year-End",
+    "slug": "bitcoin-price-prediction-we-asked-chatgpt-about-bitcoin-s-realistic-price-by-yea",
+    "date": "2026-05-07",
+    "displayDate": "May 7, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "By year-end 2026, Bitcoin's price is projected to be $98,000, a 33% gain from its current price but still below its all-time high. This forecast reflects a 50% ",
+    "excerpt": "By year-end 2026, Bitcoin's price is projected to be $98,000, a 33% gain from its current price but still below its all-time high. This forecast reflects a 50% chance of this outcome. Analysts predict Bitcoin will not surpass its previous peak this year.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Bitcoin Price Prediction: We Asked ChatGPT About Bitcoin’s Realistic Price by Year-End"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "canada-s-jobs-market-expected-to-chug-along-even-as-labour-force-shrinks",
+    "type": "news",
+    "title": "Canada’s jobs market expected to chug along even as labour force shrinks",
+    "slug": "canada-s-jobs-market-expected-to-chug-along-even-as-labour-force-shrinks",
+    "date": "2026-05-07",
+    "displayDate": "May 7, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Canada's jobs market is expected to remain stable despite a shrinking labor force, with modest unemployment rate improvements and gradual per-worker condition i",
+    "excerpt": "Canada's jobs market is expected to remain stable despite a shrinking labor force, with modest unemployment rate improvements and gradual per-worker condition improvements. Economists anticipate a gain of about 25,000 jobs in April, following earlier losses.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Canada’s jobs market expected to chug along even as labour force shrinks"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "clarity-act-back-on-track",
     "type": "news",
     "title": "CLARITY Act Back on Track",
@@ -143,6 +269,27 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "CLARITY Act Back on Track"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "crypto-bull-run-outlook-2026-key-signals-from-the-2025-cycle",
+    "type": "news",
+    "title": "Crypto Bull Run Outlook 2026: Key Signals from the 2025 Cycle",
+    "slug": "crypto-bull-run-outlook-2026-key-signals-from-the-2025-cycle",
+    "date": "2026-05-07",
+    "displayDate": "May 7, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin shows strong bullish momentum with key moving averages reclaimed, while institutional flows and market structure indicate a sustainable 2026 bull run. C",
+    "excerpt": "Bitcoin shows strong bullish momentum with key moving averages reclaimed, while institutional flows and market structure indicate a sustainable 2026 bull run. Consolidation and selective growth are expected, driven by institutional investments. Bitcoin remains the market leader.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Crypto Bull Run Outlook 2026: Key Signals from the 2025 Cycle"
     },
     "readingTime": 3
   },
@@ -210,6 +357,27 @@
     "readingTime": 3
   },
   {
+    "id": "fed-holds-rates-steady-but-with-highest-level-of-dissent-since-1992",
+    "type": "news",
+    "title": "Fed holds rates steady but with highest level of dissent since 1992",
+    "slug": "fed-holds-rates-steady-but-with-highest-level-of-dissent-since-1992",
+    "date": "2026-05-07",
+    "displayDate": "May 7, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Reserve held interest rates steady, marking the highest level of dissent among policymakers since 1992. This decision reflects internal disagreement",
+    "excerpt": "The Federal Reserve held interest rates steady, marking the highest level of dissent among policymakers since 1992. This decision reflects internal disagreements despite economic expectations.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Fed holds rates steady but with highest level of dissent since 1992"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "federal-open-market-committee",
     "type": "news",
     "title": "Federal Open Market Committee",
@@ -227,6 +395,69 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "Federal Open Market Committee"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "federal-reserve-leaves-interest-rates-unchanged-as-powell-s-chairmanship-nears-e",
+    "type": "news",
+    "title": "Federal Reserve leaves interest rates unchanged as Powell's chairmanship nears end",
+    "slug": "federal-reserve-leaves-interest-rates-unchanged-as-powell-s-chairmanship-nears-e",
+    "date": "2026-05-07",
+    "displayDate": "May 7, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Reserve left interest rates unchanged in April 2026, marking likely the last meeting under Chair Jerome Powell, who plans to stay on temporarily as ",
+    "excerpt": "The Federal Reserve left interest rates unchanged in April 2026, marking likely the last meeting under Chair Jerome Powell, who plans to stay on temporarily as a Board member. Powell cited concerns about legal attacks on the Fed and the war in the Middle East as factors. His term as chair officially",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Federal Reserve leaves interest rates unchanged as Powell's chairmanship nears end"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "fourth-quarter-2025-survey-of-professional-forecasters",
+    "type": "news",
+    "title": "Fourth Quarter 2025 Survey of Professional Forecasters",
+    "slug": "fourth-quarter-2025-survey-of-professional-forecasters",
+    "date": "2026-05-07",
+    "displayDate": "May 7, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The ECB Survey of Professional Forecasters for Q4 2025 slightly revised inflation expectations upwards for 2025 but kept them unchanged for 2026-2027. GDP growt",
+    "excerpt": "The ECB Survey of Professional Forecasters for Q4 2025 slightly revised inflation expectations upwards for 2025 but kept them unchanged for 2026-2027. GDP growth expectations were 1.2% for 2025, 1.1% for 2026, and 1.4% for 2027. Philadelphia Fed's survey showed median inflation and GDP growth projec",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Fourth Quarter 2025 Survey of Professional Forecasters"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "how-investors-may-respond-to-dexcom-dxcm-strong-q1-2026-earnings-and-reaffirmed-",
+    "type": "news",
+    "title": "How Investors May Respond To DexCom (DXCM) Strong Q1 2026 Earnings And Reaffirmed Revenue Outlook",
+    "slug": "how-investors-may-respond-to-dexcom-dxcm-strong-q1-2026-earnings-and-reaffirmed-",
+    "date": "2026-05-07",
+    "displayDate": "May 7, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Investors likely responded positively to DexCom's strong Q1 2026 earnings and reaffirmed revenue outlook of $5.16B-$5.25B, with raised operating and EBITDA marg",
+    "excerpt": "Investors likely responded positively to DexCom's strong Q1 2026 earnings and reaffirmed revenue outlook of $5.16B-$5.25B, with raised operating and EBITDA margin targets. The positive earnings call results and growth projections likely boosted investor confidence.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "How Investors May Respond To DexCom (DXCM) Strong Q1 2026 Earnings And Reaffirmed Revenue Outlook"
     },
     "readingTime": 3
   },
@@ -378,6 +609,27 @@
     "readingTime": 3
   },
   {
+    "id": "new-economic-data-highlights-the-strength-and-resilience-of-president-trump-s-ec",
+    "type": "news",
+    "title": "New Economic Data Highlights the Strength and Resilience of President Trump’s Economy",
+    "slug": "new-economic-data-highlights-the-strength-and-resilience-of-president-trump-s-ec",
+    "date": "2026-05-07",
+    "displayDate": "May 7, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Recent economic data shows strong growth and resilience under President Trump, with notable progress in housing and manufacturing. GDP growth exceeded expectati",
+    "excerpt": "Recent economic data shows strong growth and resilience under President Trump, with notable progress in housing and manufacturing. GDP growth exceeded expectations, and job creation surged. The economy is experiencing robust momentum and investment.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "New Economic Data Highlights the Strength and Resilience of President Trump’s Economy"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "oracle-sets-the-date-for-its-third-quarter-fiscal-year-2026-earnings-announcemen",
     "type": "news",
     "title": "Oracle Sets the Date for its Third Quarter Fiscal Year 2026 Earnings Announcement",
@@ -399,6 +651,27 @@
     "readingTime": 3
   },
   {
+    "id": "revisiting-professional-forecasters-past-performance-and-the-outlook-for-2026",
+    "type": "news",
+    "title": "Revisiting Professional Forecasters’ Past Performance and the Outlook for 2026",
+    "slug": "revisiting-professional-forecasters-past-performance-and-the-outlook-for-2026",
+    "date": "2026-05-07",
+    "displayDate": "May 7, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "For 2026, professional forecasters predict 1.9% GDP growth and a 2.9% increase in the consumer price index. These forecasts are based on recent trends and exper",
+    "excerpt": "For 2026, professional forecasters predict 1.9% GDP growth and a 2.9% increase in the consumer price index. These forecasts are based on recent trends and expert analysis. The data is current as of May 2026.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Revisiting Professional Forecasters’ Past Performance and the Outlook for 2026"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "s-p-500-tornado-warning-rally-nears-final-wave-as-bear-market-risk-builds",
     "type": "news",
     "title": "S&P 500 Tornado Warning: Rally Nears Final Wave as Bear Market Risk Builds",
@@ -416,6 +689,27 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "S&P 500 Tornado Warning: Rally Nears Final Wave as Bear Market Risk Builds"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "sector-performance-drivers-why-mega-cap-exposure-matters",
+    "type": "news",
+    "title": "Sector Performance Drivers: Why Mega-Cap Exposure Matters",
+    "slug": "sector-performance-drivers-why-mega-cap-exposure-matters",
+    "date": "2026-05-07",
+    "displayDate": "May 7, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Mega-cap companies significantly influence sector returns, but ETFs often underweight them due to regulatory caps, creating a gap in sector exposure that can mi",
+    "excerpt": "Mega-cap companies significantly influence sector returns, but ETFs often underweight them due to regulatory caps, creating a gap in sector exposure that can mislead investors about their actual holdings. BlackRock's TOPT ETF helps close this gap, aligning exposures closer to benchmarks.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Sector Performance Drivers: Why Mega-Cap Exposure Matters"
     },
     "readingTime": 3
   },
@@ -504,6 +798,27 @@
     "readingTime": 3
   },
   {
+    "id": "stock-market-under-the-trump-administration-what-is-driving-markets-in-2026",
+    "type": "news",
+    "title": "Stock Market Under the Trump Administration: What is Driving Markets in 2026?",
+    "slug": "stock-market-under-the-trump-administration-what-is-driving-markets-in-2026",
+    "date": "2026-05-07",
+    "displayDate": "May 7, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "In 2026, government policy under President Trump significantly drives stock market trends, particularly in energy and housing sectors. Key decisions, like urgin",
+    "excerpt": "In 2026, government policy under President Trump significantly drives stock market trends, particularly in energy and housing sectors. Key decisions, like urging oil companies to invest in Venezuela, directly impact specific stocks. The administration's fiscal policies also influence market dynamics",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Stock Market Under the Trump Administration: What is Driving Markets in 2026?"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "tech-weekly-markets-start-may-on-tightrope-after-mixed-earnings",
     "type": "news",
     "title": "Tech Weekly: Markets Start May on Tightrope After Mixed Earnings",
@@ -521,6 +836,27 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "Tech Weekly: Markets Start May on Tightrope After Mixed Earnings"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "the-best-healthcare-stocks-to-buy",
+    "type": "news",
+    "title": "The Best Healthcare Stocks to Buy",
+    "slug": "the-best-healthcare-stocks-to-buy",
+    "date": "2026-05-07",
+    "displayDate": "May 7, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "HCA Healthcare and Abbott Laboratories are strong long-term healthcare stocks. Coloplast and Philips are also notable options.",
+    "excerpt": "HCA Healthcare and Abbott Laboratories are strong long-term healthcare stocks. Coloplast and Philips are also notable options.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "The Best Healthcare Stocks to Buy"
     },
     "readingTime": 3
   },
@@ -672,27 +1008,6 @@
     "readingTime": 3
   },
   {
-    "id": "a-divided-fed-holds-rates-steady",
-    "type": "news",
-    "title": "A Divided Fed Holds Rates Steady",
-    "slug": "a-divided-fed-holds-rates-steady",
-    "date": "2026-05-06",
-    "displayDate": "May 6, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Reserve held interest rates steady at 3.5 to 3.75 percent, with a highly divisive decision marked by Governor Stephen Miran's sixth consecutive diss",
-    "excerpt": "The Federal Reserve held interest rates steady at 3.5 to 3.75 percent, with a highly divisive decision marked by Governor Stephen Miran's sixth consecutive dissent favoring a quarter-point reduction. This decision reflects the Fed's struggle with rising inflation and economic uncertainty.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "A Divided Fed Holds Rates Steady"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "analyst-predicts-shocking-sign-behind-bitcoin-s-price",
     "type": "news",
     "title": "Analyst predicts shocking sign behind Bitcoin’s price",
@@ -798,27 +1113,6 @@
     "readingTime": 3
   },
   {
-    "id": "bitcoin-price-analysis-btc-hits-key-decision-zone-after-20-monthly-rally",
-    "type": "news",
-    "title": "Bitcoin Price Analysis: BTC Hits Key Decision Zone After 20% Monthly Rally",
-    "slug": "bitcoin-price-analysis-btc-hits-key-decision-zone-after-20-monthly-rally",
-    "date": "2026-05-06",
-    "displayDate": "May 6, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Bitcoin reached a key decision zone after a 20% monthly rally, showing bullish momentum above $80K but facing resistance near $83K. The market is correcting aft",
-    "excerpt": "Bitcoin reached a key decision zone after a 20% monthly rally, showing bullish momentum above $80K but facing resistance near $83K. The market is correcting after an overbought signal. Bitcoin's future direction hinges on holding above $80K.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Bitcoin Price Analysis: BTC Hits Key Decision Zone After 20% Monthly Rally"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "bitcoin-price-btc-just-reclaimed-the-bull-market-support-band-for-the-first-time",
     "type": "news",
     "title": "Bitcoin Price: BTC Just Reclaimed the Bull Market Support Band for the First Time in 6 Months",
@@ -836,69 +1130,6 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "Bitcoin Price: BTC Just Reclaimed the Bull Market Support Band for the First Time in 6 Months"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "bitcoin-price-prediction-we-asked-chatgpt-about-bitcoin-s-realistic-price-by-yea",
-    "type": "news",
-    "title": "Bitcoin Price Prediction: We Asked ChatGPT About Bitcoin’s Realistic Price by Year-End",
-    "slug": "bitcoin-price-prediction-we-asked-chatgpt-about-bitcoin-s-realistic-price-by-yea",
-    "date": "2026-05-06",
-    "displayDate": "May 6, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "According to a Google Featured Answer, by December 31, 2026, ChatGPT predicts Bitcoin could reach $98,000, reflecting a 33% gain from its current price but stil",
-    "excerpt": "According to a Google Featured Answer, by December 31, 2026, ChatGPT predicts Bitcoin could reach $98,000, reflecting a 33% gain from its current price but still below its all-time high. This forecast does not expect Bitcoin to surpass its previous peak this year.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Bitcoin Price Prediction: We Asked ChatGPT About Bitcoin’s Realistic Price by Year-End"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "canada-s-jobs-market-expected-to-chug-along-even-as-labour-force-shrinks",
-    "type": "news",
-    "title": "Canada’s jobs market expected to chug along even as labour force shrinks",
-    "slug": "canada-s-jobs-market-expected-to-chug-along-even-as-labour-force-shrinks",
-    "date": "2026-05-06",
-    "displayDate": "May 6, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Canada's jobs market is expected to remain stable despite a shrinking labor force, with economists noting a weak rebound in job numbers. The public sector and c",
-    "excerpt": "Canada's jobs market is expected to remain stable despite a shrinking labor force, with economists noting a weak rebound in job numbers. The public sector and certain sectors like healthcare and education are driving employment gains. Permanent layoffs have decreased, but the job market remains chal",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Canada’s jobs market expected to chug along even as labour force shrinks"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "crypto-bull-run-outlook-2026-key-signals-from-the-2025-cycle",
-    "type": "news",
-    "title": "Crypto Bull Run Outlook 2026: Key Signals from the 2025 Cycle",
-    "slug": "crypto-bull-run-outlook-2026-key-signals-from-the-2025-cycle",
-    "date": "2026-05-06",
-    "displayDate": "May 6, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Bitcoin shows strong bullish momentum with key moving averages reclaimed, while institutional inflows remain robust, suggesting a potential sustained bull run i",
-    "excerpt": "Bitcoin shows strong bullish momentum with key moving averages reclaimed, while institutional inflows remain robust, suggesting a potential sustained bull run in 2026. The market is consolidating after a 2025 rally, with structural drivers intact. Expect a selective, opportunity-driven phase in 2026",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Crypto Bull Run Outlook 2026: Key Signals from the 2025 Cycle"
     },
     "readingTime": 3
   },
@@ -1004,48 +1235,6 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "ExxonMobil Announces 2025 Results"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "fed-holds-rates-steady-but-with-highest-level-of-dissent-since-1992",
-    "type": "news",
-    "title": "Fed holds rates steady but with highest level of dissent since 1992",
-    "slug": "fed-holds-rates-steady-but-with-highest-level-of-dissent-since-1992",
-    "date": "2026-05-06",
-    "displayDate": "May 6, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Fed kept interest rates steady but faced the highest level of dissent since 1992. The key rate remained between 3.5%-3.75%. This decision was notable for it",
-    "excerpt": "The Fed kept interest rates steady but faced the highest level of dissent since 1992. The key rate remained between 3.5%-3.75%. This decision was notable for its internal disagreements.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Fed holds rates steady but with highest level of dissent since 1992"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "fourth-quarter-2025-survey-of-professional-forecasters",
-    "type": "news",
-    "title": "Fourth Quarter 2025 Survey of Professional Forecasters",
-    "slug": "fourth-quarter-2025-survey-of-professional-forecasters",
-    "date": "2026-05-06",
-    "displayDate": "May 6, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Inflation expectations for 2025 were slightly revised up, while 2026 and 2027 remained unchanged. GDP growth expectations for 2025 were revised up slightly. Lon",
-    "excerpt": "Inflation expectations for 2025 were slightly revised up, while 2026 and 2027 remained unchanged. GDP growth expectations for 2025 were revised up slightly. Longer-term inflation and growth expectations stayed the same.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Fourth Quarter 2025 Survey of Professional Forecasters"
     },
     "readingTime": 3
   },
@@ -1218,27 +1407,6 @@
     "readingTime": 3
   },
   {
-    "id": "new-economic-data-highlights-the-strength-and-resilience-of-president-trump-s-ec",
-    "type": "news",
-    "title": "New Economic Data Highlights the Strength and Resilience of President Trump’s Economy",
-    "slug": "new-economic-data-highlights-the-strength-and-resilience-of-president-trump-s-ec",
-    "date": "2026-05-06",
-    "displayDate": "May 6, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Recent economic data shows strong growth and resilience in the U.S. economy under President Trump, with notable progress in housing and manufacturing. The econo",
-    "excerpt": "Recent economic data shows strong growth and resilience in the U.S. economy under President Trump, with notable progress in housing and manufacturing. The economy is experiencing robust job growth and higher wages. This growth is attributed to President Trump's pro-growth policies.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "New Economic Data Highlights the Strength and Resilience of President Trump’s Economy"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "powell-s-chair-ends-but-he-keeps-his-board-seat",
     "type": "news",
     "title": "Powell’s Chair Ends but He Keeps His Board Seat",
@@ -1277,27 +1445,6 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "Q4 earnings call: Remarks from our CEO"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "revisiting-professional-forecasters-past-performance-and-the-outlook-for-2026",
-    "type": "news",
-    "title": "Revisiting Professional Forecasters’ Past Performance and the Outlook for 2026",
-    "slug": "revisiting-professional-forecasters-past-performance-and-the-outlook-for-2026",
-    "date": "2026-05-06",
-    "displayDate": "May 6, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Professional forecasters predict 1.9% GDP growth and a 2.9% increase in the consumer price index for 2026. The forecasts for 2025 have been accurate. These proj",
-    "excerpt": "Professional forecasters predict 1.9% GDP growth and a 2.9% increase in the consumer price index for 2026. The forecasts for 2025 have been accurate. These projections are based on expert analysis.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Revisiting Professional Forecasters’ Past Performance and the Outlook for 2026"
     },
     "readingTime": 3
   },
@@ -1344,27 +1491,6 @@
     "readingTime": 3
   },
   {
-    "id": "sector-performance-drivers-why-mega-cap-exposure-matters",
-    "type": "news",
-    "title": "Sector Performance Drivers: Why Mega-Cap Exposure Matters",
-    "slug": "sector-performance-drivers-why-mega-cap-exposure-matters",
-    "date": "2026-05-06",
-    "displayDate": "May 6, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Mega-cap companies significantly influence sector performance and market returns, often dominating sector market caps and earnings. Investors need to consider t",
-    "excerpt": "Mega-cap companies significantly influence sector performance and market returns, often dominating sector market caps and earnings. Investors need to consider their exposure to these companies for accurate sector representation. Mega-cap stocks can skew sector fund performance without proper adjustm",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Sector Performance Drivers: Why Mega-Cap Exposure Matters"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "stock-market-today-stock-market-news-and-analysis",
     "type": "news",
     "title": "Stock Market Today: Stock Market News And Analysis",
@@ -1403,27 +1529,6 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "Sudden Bitcoin Price Surge Fuels Huge $16 Trillion ‘Supercycle’ Prediction"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "the-best-healthcare-stocks-to-buy",
-    "type": "news",
-    "title": "The Best Healthcare Stocks to Buy",
-    "slug": "the-best-healthcare-stocks-to-buy",
-    "date": "2026-05-06",
-    "displayDate": "May 6, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "HCA Healthcare and Abbott Laboratories are top healthcare stocks for long-term growth. Coloplast and Philips are also strong healthcare investments. Consider th",
-    "excerpt": "HCA Healthcare and Abbott Laboratories are top healthcare stocks for long-term growth. Coloplast and Philips are also strong healthcare investments. Consider these for your portfolio.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "The Best Healthcare Stocks to Buy"
     },
     "readingTime": 3
   },
@@ -2772,27 +2877,6 @@
     "readingTime": 3
   },
   {
-    "id": "big-tech-earnings-test-record-stock-market-rally-as-ai-spending-takes-center-sta",
-    "type": "news",
-    "title": "Big Tech earnings test record stock market rally as AI spending takes center stage",
-    "slug": "big-tech-earnings-test-record-stock-market-rally-as-ai-spending-takes-center-sta",
-    "date": "2026-05-03",
-    "displayDate": "May 3, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Big Tech earnings are crucial for sustaining the stock market rally, with AI spending significantly impacting their performance. Meta, Alphabet, Microsoft, and ",
-    "excerpt": "Big Tech earnings are crucial for sustaining the stock market rally, with AI spending significantly impacting their performance. Meta, Alphabet, Microsoft, and Amazon continue to invest heavily in AI. 2026 earnings will test if this spending drives growth.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Big Tech earnings test record stock market rally as AI spending takes center stage"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "bitcoin-btc-price-prediction-for-may",
     "type": "news",
     "title": "Bitcoin (BTC) Price Prediction for May",
@@ -2957,27 +3041,6 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "Profit for the biggest U.S. oil companies declined in 1st quarter – but only on paper"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "stock-market-under-the-trump-administration-what-is-driving-markets-in-2026",
-    "type": "news",
-    "title": "Stock Market Under the Trump Administration: What is Driving Markets in 2026?",
-    "slug": "stock-market-under-the-trump-administration-what-is-driving-markets-in-2026",
-    "date": "2026-05-03",
-    "displayDate": "May 3, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "In 2026, the stock market under the Trump administration is driven by new tax cuts boosting consumer spending and government policies influencing specific secto",
-    "excerpt": "In 2026, the stock market under the Trump administration is driven by new tax cuts boosting consumer spending and government policies influencing specific sectors like oil and housing. Political pressures and high deficits pose challenges, potentially leading to bond volatility and a weaker dollar. ",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Stock Market Under the Trump Administration: What is Driving Markets in 2026?"
     },
     "readingTime": 3
   },
