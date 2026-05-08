@@ -3,8 +3,8 @@
   "type": "news",
   "title": "CBO Releases Economic Projections From 2025 to 2028-2025-09-19",
   "slug": "cbo-releases-economic-projections-from-2025-to-2028-2025-09-19",
-  "date": "2026-05-02",
-  "displayDate": "May 2, 2026",
+  "date": "2026-05-08",
+  "displayDate": "May 8, 2026",
   "author": "Sigma Capital",
   "category": "Economic Data",
   "tags": [
@@ -12,20 +12,25 @@
     "financial news",
     "market update"
   ],
-  "metaDescription": "The CBO projects a temporary economic slowdown in 2025 followed by stable growth, with inflation easing and interest rates declining. Unemployment is expected t",
-  "excerpt": "The CBO projects a temporary economic slowdown in 2025 followed by stable growth, with inflation easing and interest rates declining. Unemployment is expected to rise slightly before falling. The Federal Reserve forecasts similar trends.",
+  "metaDescription": "The CBO projects economic growth to slow in 2025 due to tariffs, accelerate in 2026 from tax cuts and spending, and normalize by 2028, with output about 0.1 per",
+  "excerpt": "The CBO projects economic growth to slow in 2025 due to tariffs, accelerate in 2026 from tax cuts and spending, and normalize by 2028, with output about 0.1 percent higher than previously estimated. The projections reflect recent changes affecting the economy.",
   "content": {
-    "introduction": "Market developments in the economic data space are drawing significant attention from investors and analysts alike, with implications for portfolio strategy and risk management. The CBO projects a temporary economic slowdown in 2025 followed by stable growth, with inflation easing and interest rates declining. Unemployment is expected to rise slightly before falling. The Federal Reserve forecasts similar trends.",
+    "introduction": "The CBO projects economic growth to slow in 2025 due to tariffs, accelerate in 2026 from tax cuts and spending, and normalize by 2028, with output about 0.1 percent higher than previously estimated. The projections reflect recent changes affecting the economy.",
     "body": [
-      "## Market Overview\n\nCBO Releases Economic Projections From 2025 to 2028-2025-09-19. The current market environment is characterized by a complex interplay of macroeconomic forces, sector-specific dynamics, and geopolitical considerations. Investors are navigating a landscape where traditional correlations are shifting, and the dispersion of returns across sectors and individual securities is creating both risks and opportunities for active management.",
-      "## Key Developments\n\nSeveral important trends are shaping the investment landscape. Corporate earnings continue to be a primary driver of equity market performance, with results reflecting both the resilience of the economy and the challenges posed by inflation and interest rate policy. Sector rotation patterns indicate shifting investor preferences, as growth and value styles alternate in leadership depending on the prevailing macroeconomic narrative.",
-      "## What Investors Should Watch\n\nGoing forward, market participants should monitor a range of indicators including Federal Reserve communications, economic data releases, and corporate earnings reports. Geopolitical developments have the potential to introduce additional volatility, particularly in energy markets and supply chain sensitive sectors. Maintaining a well-diversified portfolio and a long-term perspective remains the most prudent approach to navigating the current environment."
+      "This report explains recent changes that have affected CBO's projections and provides details about the agency's latest economic forecast—namely",
+      "The growth of real GDP is projected to slow from 2.5 percent in 2024 to 1.4 percent in 2025 (see Table 2). That decline reflects a slowdown in",
+      "This report provides details about CBO's latest projections of the economy through 2028. Those projections were finalized on December 3, 2025."
+    ],
+    "keyTakeaways": [
+      "The CBO projects economic growth to slow in 2025 due to tariffs, accelerate in 2026 from tax cuts and spending, and norm",
+      "This report explains recent changes that have affected CBO's projections and provides details about the agency's latest ",
+      "The growth of real GDP is projected to slow from 2.5 percent in 2024 to 1"
     ],
     "source": "Committee for a Responsible Federal Budget",
     "sourceUrl": "https://www.crfb.org/blogs/cbo-releases-economic-projections-2025-2028"
   },
   "readingTime": 3,
-  "updatedAt": "2026-05-02T09:11:06.162Z",
+  "updatedAt": "2026-05-08T07:23:52.817Z",
   "images": {
     "thumbnail": {
       "src": "/images/article_thumb_5.jpg",
@@ -36,12 +41,12 @@
       "alt": "CBO Releases Economic Projections From 2025 to 2028-2025-09-19"
     },
     "mid": {
-      "src": "/images/article_thumb_6.jpg",
+      "src": "/images/article_thumb_4.jpg",
       "alt": "CBO Releases Economic Projections From 2025 to 2028-2025-09-19"
     }
   },
   "image": {
-    "src": "/images/articles/cbo-releases-economic-projections-from-2025-to-2028-2025-09-19-hero.jpg",
+    "src": "/images/article_thumb_4.jpg",
     "alt": "CBO Releases Economic Projections From 2025 to 2028-2025-09-19"
   }
 }
