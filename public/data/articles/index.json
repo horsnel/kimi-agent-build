@@ -1,5 +1,47 @@
 [
   {
+    "id": "a-divided-fed-holds-rates-steady",
+    "type": "news",
+    "title": "A Divided Fed Holds Rates Steady",
+    "slug": "a-divided-fed-holds-rates-steady",
+    "date": "2026-05-09",
+    "displayDate": "May 9, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Federal Reserve officials disagreed over rate policy in the most divisive meeting in decades. Jerome Powell, whose term as chair expires in...",
+    "excerpt": "Federal Reserve officials disagreed over rate policy in the most divisive meeting in decades. Jerome Powell, whose term as chair expires in...",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "A Divided Fed Holds Rates Steady"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "after-the-rate-cut-investing-beyond-u-s-markets",
+    "type": "news",
+    "title": "After The Rate Cut: Investing Beyond U.S. Markets",
+    "slug": "after-the-rate-cut-investing-beyond-u-s-markets",
+    "date": "2026-05-09",
+    "displayDate": "May 9, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "This rate cut – during a slowdown, not a slump – may support global risk assets. Here are the regions we're focusing on.",
+    "excerpt": "This rate cut – during a slowdown, not a slump – may support global risk assets. Here are the regions we're focusing on.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "After The Rate Cut: Investing Beyond U.S. Markets"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "analyst-predicts-shocking-sign-behind-bitcoin-s-price",
     "type": "news",
     "title": "Analyst predicts shocking sign behind Bitcoin’s price",
@@ -63,6 +105,27 @@
     "readingTime": 3
   },
   {
+    "id": "average-inflation-rate-in-the-united-states-from-1980-to-2031",
+    "type": "news",
+    "title": "Average inflation rate in the United States from 1980 to 2031",
+    "slug": "average-inflation-rate-in-the-united-states-from-1980-to-2031",
+    "date": "2026-05-09",
+    "displayDate": "May 9, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "In 2025, the average inflation rate in the United States stood at 2.73 percent.",
+    "excerpt": "In 2025, the average inflation rate in the United States stood at 2.73 percent.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Average inflation rate in the United States from 1980 to 2031"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "big-firms-quarterly-results-may-signal-what-s-next-for-the-economy",
     "type": "news",
     "title": "Big firms’ quarterly results may signal what’s next for the economy",
@@ -84,6 +147,27 @@
     "readingTime": 3
   },
   {
+    "id": "bitcoin-and-ethereum-prices-today-friday-may-8-2026-prices-holding-following-str",
+    "type": "news",
+    "title": "Bitcoin and ethereum prices today, Friday, May 8, 2026: Prices holding following strong jobs report",
+    "slug": "bitcoin-and-ethereum-prices-today-friday-may-8-2026-prices-holding-following-str",
+    "date": "2026-05-09",
+    "displayDate": "May 9, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin opened at $80015.27 on Friday, down 1.7% from Thursday's opening price. Bitcoin rose to $80206.01 by 7:18 a.m ET. Ethereum opened at...",
+    "excerpt": "Bitcoin opened at $80015.27 on Friday, down 1.7% from Thursday's opening price. Bitcoin rose to $80206.01 by 7:18 a.m ET. Ethereum opened at...",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Bitcoin and ethereum prices today, Friday, May 8, 2026: Prices holding following strong jobs report"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "coinbase-posts-steep-first-quarter-loss-after-slide-in-crypto-prices-shares-fall",
     "type": "news",
     "title": "Coinbase posts steep first-quarter loss after slide in crypto prices; shares fall 4%",
@@ -101,6 +185,48 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "Coinbase posts steep first-quarter loss after slide in crypto prices; shares fall 4%"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "consumer-price-index-san-diego-area-march-2026-western-information-office",
+    "type": "news",
+    "title": "Consumer Price Index, San Diego Area — March 2026 : Western Information Office",
+    "slug": "consumer-price-index-san-diego-area-march-2026-western-information-office",
+    "date": "2026-05-09",
+    "displayDate": "May 9, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Consumer Price Index for All Urban Consumers (CPI-U) for San Diego-Carlsbad advanced 1.4 percent for the two months ending in March...",
+    "excerpt": "The Consumer Price Index for All Urban Consumers (CPI-U) for San Diego-Carlsbad advanced 1.4 percent for the two months ending in March...",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Consumer Price Index, San Diego Area — March 2026 : Western Information Office"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "current-price-of-ethereum-for-may-8-2026",
+    "type": "news",
+    "title": "Current price of Ethereum for May 8, 2026",
+    "slug": "current-price-of-ethereum-for-may-8-2026",
+    "date": "2026-05-09",
+    "displayDate": "May 9, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Ethereum isn't just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of...",
+    "excerpt": "Ethereum isn't just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of...",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Current price of Ethereum for May 8, 2026"
     },
     "readingTime": 3
   },
@@ -147,6 +273,48 @@
     "readingTime": 3
   },
   {
+    "id": "federal-reserve-leaves-interest-rates-unchanged-as-powell-s-chairmanship-nears-e",
+    "type": "news",
+    "title": "Federal Reserve leaves interest rates unchanged as Powell's chairmanship nears end",
+    "slug": "federal-reserve-leaves-interest-rates-unchanged-as-powell-s-chairmanship-nears-e",
+    "date": "2026-05-09",
+    "displayDate": "May 9, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Reserve voted to leave interest rates unchanged in April amid concerns over elevated inflation as Fed Chair Jerome Powell's term...",
+    "excerpt": "The Federal Reserve voted to leave interest rates unchanged in April amid concerns over elevated inflation as Fed Chair Jerome Powell's term...",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Federal Reserve leaves interest rates unchanged as Powell's chairmanship nears end"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "food-prices-and-spending",
+    "type": "news",
+    "title": "Food Prices and Spending",
+    "slug": "food-prices-and-spending",
+    "date": "2026-05-09",
+    "displayDate": "May 9, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Retail food prices partially reflect farm-level commodity prices, but other costs of bringing food to the market (such as processing and...",
+    "excerpt": "Retail food prices partially reflect farm-level commodity prices, but other costs of bringing food to the market (such as processing and...",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Food Prices and Spending"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "fourth-quarter-2025-survey-of-professional-forecasters",
     "type": "news",
     "title": "Fourth Quarter 2025 Survey of Professional Forecasters",
@@ -189,6 +357,90 @@
     "readingTime": 3
   },
   {
+    "id": "get-your-portfolio-s-passport-stamped-reasons-to-consider-international-investin",
+    "type": "news",
+    "title": "Get your portfolio’s passport stamped: Reasons to consider international investing",
+    "slug": "get-your-portfolio-s-passport-stamped-reasons-to-consider-international-investin",
+    "date": "2026-05-09",
+    "displayDate": "May 9, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Investing in foreign companies and markets is a common way to build some diversification into your portfolio. It spreads investment risk.",
+    "excerpt": "Investing in foreign companies and markets is a common way to build some diversification into your portfolio. It spreads investment risk.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Get your portfolio’s passport stamped: Reasons to consider international investing"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "global-stock-markets-are-too-inflated-and-will-fall-top-bank-of-england-official",
+    "type": "news",
+    "title": "Global stock markets are too inflated and will fall, top Bank of England official warns",
+    "slug": "global-stock-markets-are-too-inflated-and-will-fall-top-bank-of-england-official",
+    "date": "2026-05-09",
+    "displayDate": "May 9, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Bank of England expects “an adjustment” in equity markets, Sarah Breeden, a deputy governor at the central bank, said in a BBC...",
+    "excerpt": "The Bank of England expects “an adjustment” in equity markets, Sarah Breeden, a deputy governor at the central bank, said in a BBC...",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Global stock markets are too inflated and will fall, top Bank of England official warns"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "health-care-sector-investing-in-stocks-that-help-keep-you-well",
+    "type": "news",
+    "title": "Health care sector: Investing in stocks that help keep you well",
+    "slug": "health-care-sector-investing-in-stocks-that-help-keep-you-well",
+    "date": "2026-05-09",
+    "displayDate": "May 9, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Health is wealth,” as the old saying goes, and if you value your mental and physical well-being, that...",
+    "excerpt": "Health is wealth,” as the old saying goes, and if you value your mental and physical well-being, that...",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Health care sector: Investing in stocks that help keep you well"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "how-much-of-your-portfolio-should-be-in-non-u-s-stocks",
+    "type": "news",
+    "title": "How Much of Your Portfolio Should Be in Non‑U.S. Stocks?",
+    "slug": "how-much-of-your-portfolio-should-be-in-non-u-s-stocks",
+    "date": "2026-05-09",
+    "displayDate": "May 9, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Explore why it may be beneficial to consider adding non‑U.S. equities by examining valuation shifts, volatility patterns and long‑term...",
+    "excerpt": "Explore why it may be beneficial to consider adding non‑U.S. equities by examining valuation shifts, volatility patterns and long‑term...",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "How Much of Your Portfolio Should Be in Non‑U.S. Stocks?"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "how-to-build-a-portfolio-what-to-own-what-to-skip-and-why",
     "type": "news",
     "title": "How to Build a Portfolio: What to Own, What to Skip, and Why",
@@ -227,6 +479,48 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "Is a Stock Market Rotation Underway? These Sectors Are Outpacing Tech in 2026"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "march-2026-investment-strategy-best-sectors-market-trends",
+    "type": "news",
+    "title": "March 2026 Investment Strategy: Best Sectors & Market Trends",
+    "slug": "march-2026-investment-strategy-best-sectors-market-trends",
+    "date": "2026-05-09",
+    "displayDate": "May 9, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "When geopolitical tensions rise, investors typically move towards safe haven assets. In the current environment, that shift is becoming...",
+    "excerpt": "When geopolitical tensions rise, investors typically move towards safe haven assets. In the current environment, that shift is becoming...",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "March 2026 Investment Strategy: Best Sectors & Market Trends"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "monthly-market-wrap-april-2026",
+    "type": "news",
+    "title": "Monthly Market Wrap: April 2026",
+    "slug": "monthly-market-wrap-april-2026",
+    "date": "2026-05-09",
+    "displayDate": "May 9, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Markets posted their best month in nearly six years this April as investors priced in positive steps towards a resolution of conflict in the...",
+    "excerpt": "Markets posted their best month in nearly six years this April as investors priced in positive steps towards a resolution of conflict in the...",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Monthly Market Wrap: April 2026"
     },
     "readingTime": 3
   },
@@ -378,6 +672,48 @@
     "readingTime": 3
   },
   {
+    "id": "the-10-best-companies-to-invest-in-now",
+    "type": "news",
+    "title": "The 10 Best Companies to Invest in Now",
+    "slug": "the-10-best-companies-to-invest-in-now",
+    "date": "2026-05-09",
+    "displayDate": "May 9, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The stocks of these high-quality companies look cheap today.",
+    "excerpt": "The stocks of these high-quality companies look cheap today.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "The 10 Best Companies to Invest in Now"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "the-best-healthcare-stocks-to-buy",
+    "type": "news",
+    "title": "The Best Healthcare Stocks to Buy",
+    "slug": "the-best-healthcare-stocks-to-buy",
+    "date": "2026-05-09",
+    "displayDate": "May 9, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "These 12 undervalued healthcare stocks look attractive today.",
+    "excerpt": "These 12 undervalued healthcare stocks look attractive today.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "The Best Healthcare Stocks to Buy"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "the-fed-april-28-29-2026-fomc-meeting",
     "type": "news",
     "title": "The Fed - April 28-29, 2026 FOMC Meeting",
@@ -399,6 +735,27 @@
     "readingTime": 3
   },
   {
+    "id": "the-federal-reserve-is-quickly-running-out-of-reasons-to-cut-interest-rates",
+    "type": "news",
+    "title": "The Federal Reserve is quickly running out of reasons to cut interest rates",
+    "slug": "the-federal-reserve-is-quickly-running-out-of-reasons-to-cut-interest-rates",
+    "date": "2026-05-09",
+    "displayDate": "May 9, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Friday's jobs report provided evidence that the central bank's larger concern is a cost of living that is getting increasingly hard to bear.",
+    "excerpt": "Friday's jobs report provided evidence that the central bank's larger concern is a cost of living that is getting increasingly hard to bear.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "The Federal Reserve is quickly running out of reasons to cut interest rates"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "the-odds-are-changing-investing-in-2026",
     "type": "news",
     "title": "The Odds Are Changing: Investing in 2026",
@@ -416,6 +773,27 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "The Odds Are Changing: Investing in 2026"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "these-s-p500-stocks-are-moving-in-today-s-pre-market-session",
+    "type": "news",
+    "title": "These S&P500 stocks are moving in today's pre-market session",
+    "slug": "these-s-p500-stocks-are-moving-in-today-s-pre-market-session",
+    "date": "2026-05-09",
+    "displayDate": "May 9, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The US market session of Friday has yet to be opened, let's have a look at the top S&P500 gainers and losers in the pre-market session...",
+    "excerpt": "The US market session of Friday has yet to be opened, let's have a look at the top S&P500 gainers and losers in the pre-market session...",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "These S&P500 stocks are moving in today's pre-market session"
     },
     "readingTime": 3
   },
@@ -462,6 +840,27 @@
     "readingTime": 3
   },
   {
+    "id": "us-stock-market-today-s-p-500-futures-climb-as-traders-weigh-cooling-jobs-data",
+    "type": "news",
+    "title": "US Stock Market Today S&P 500 Futures Climb As Traders Weigh Cooling Jobs Data",
+    "slug": "us-stock-market-today-s-p-500-futures-climb-as-traders-weigh-cooling-jobs-data",
+    "date": "2026-05-09",
+    "displayDate": "May 9, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Morning Bull - US Market Morning Update Friday, May, 8 2026 US stock futures are pointing higher this morning, with E-mini S&P 500...",
+    "excerpt": "The Morning Bull - US Market Morning Update Friday, May, 8 2026 US stock futures are pointing higher this morning, with E-mini S&P 500...",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "US Stock Market Today S&P 500 Futures Climb As Traders Weigh Cooling Jobs Data"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "wall-st-week-ahead-industrial-sector-s-gains-to-be-tested-as-earnings-ramp-up",
     "type": "news",
     "title": "Wall St Week Ahead: Industrial sector's gains to be tested as earnings ramp up",
@@ -479,6 +878,27 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "Wall St Week Ahead: Industrial sector's gains to be tested as earnings ramp up"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "wall-st-week-ahead-us-earnings-season-set-to-test-war-rattled-stocks",
+    "type": "news",
+    "title": "Wall St Week Ahead US earnings season set to test war-rattled stocks",
+    "slug": "wall-st-week-ahead-us-earnings-season-set-to-test-war-rattled-stocks",
+    "date": "2026-05-09",
+    "displayDate": "May 9, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Investors will seek evidence in the coming week that the U.S. corporate profit engine ​is humming along, and whether threats to that upbeat...",
+    "excerpt": "Investors will seek evidence in the coming week that the U.S. corporate profit engine ​is humming along, and whether threats to that upbeat...",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Wall St Week Ahead US earnings season set to test war-rattled stocks"
     },
     "readingTime": 3
   },
@@ -502,6 +922,27 @@
       "alt": "Wall Street is bracing for stocks to swing as the April jobs report looms"
     },
     "readingTime": 6
+  },
+  {
+    "id": "weekly-market-commentary",
+    "type": "news",
+    "title": "Weekly market commentary",
+    "slug": "weekly-market-commentary",
+    "date": "2026-05-09",
+    "displayDate": "May 9, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Stay tuned for insights on hot topics and latest trends in the financial market via the Weekly commentary by the BlackRock Investment...",
+    "excerpt": "Stay tuned for insights on hot topics and latest trends in the financial market via the Weekly commentary by the BlackRock Investment...",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Weekly market commentary"
+    },
+    "readingTime": 3
   },
   {
     "id": "weekly-market-update-tech-stocks-lead-market-lower-basic-materials-gain",
@@ -542,6 +983,27 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "When is the Fed's next meeting? See the full schedule for 2026."
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "why-are-bitcoin-ethereum-and-xrp-prices-falling-today",
+    "type": "news",
+    "title": "Why Are Bitcoin, Ethereum and XRP Prices Falling Today?",
+    "slug": "why-are-bitcoin-ethereum-and-xrp-prices-falling-today",
+    "date": "2026-05-09",
+    "displayDate": "May 9, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin dropped below $80000. Ethereum fell under $2300. XRP slipped to $1.38. The total crypto market cap shed 1.51% to $2.66 trillion,...",
+    "excerpt": "Bitcoin dropped below $80000. Ethereum fell under $2300. XRP slipped to $1.38. The total crypto market cap shed 1.51% to $2.66 trillion,...",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Why Are Bitcoin, Ethereum and XRP Prices Falling Today?"
     },
     "readingTime": 3
   },
@@ -609,27 +1071,6 @@
     "readingTime": 3
   },
   {
-    "id": "a-divided-fed-holds-rates-steady",
-    "type": "news",
-    "title": "A Divided Fed Holds Rates Steady",
-    "slug": "a-divided-fed-holds-rates-steady",
-    "date": "2026-05-08",
-    "displayDate": "May 8, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Reserve held interest rates steady, marking a pause in its rate cuts, with rising inflation concerns and three dissenting votes highlighting interna",
-    "excerpt": "The Federal Reserve held interest rates steady, marking a pause in its rate cuts, with rising inflation concerns and three dissenting votes highlighting internal divisions. The decision kept rates in the range of 3.5 to 3.75 percent. This marks one of the most divided decisions since 1992.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "A Divided Fed Holds Rates Steady"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "ag-and-food-statistics-charting-the-essentials-food-prices-and-spending",
     "type": "news",
     "title": "Ag and Food Statistics: Charting the Essentials - Food Prices and Spending",
@@ -668,27 +1109,6 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "American Airlines reports first-quarter 2026 financial results"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "average-inflation-rate-in-the-united-states-from-1980-to-2031",
-    "type": "news",
-    "title": "Average inflation rate in the United States from 1980 to 2031",
-    "slug": "average-inflation-rate-in-the-united-states-from-1980-to-2031",
-    "date": "2026-05-08",
-    "displayDate": "May 8, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The average inflation rate in the United States from 1980 to 2025 was about 3.2% annually. The highest rate was in 1980 at 12.5%. The lowest was in 1983 at 3.8%",
-    "excerpt": "The average inflation rate in the United States from 1980 to 2025 was about 3.2% annually. The highest rate was in 1980 at 12.5%. The lowest was in 1983 at 3.8%.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Average inflation rate in the United States from 1980 to 2031"
     },
     "readingTime": 3
   },
@@ -815,27 +1235,6 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "Current price of Ethereum for May 7, 2026"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "current-price-of-ethereum-for-may-8-2026",
-    "type": "news",
-    "title": "Current price of Ethereum for May 8, 2026",
-    "slug": "current-price-of-ethereum-for-may-8-2026",
-    "date": "2026-05-08",
-    "displayDate": "May 8, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "On May 8, 2026, Ethereum opened at $2,290.98, down from the previous day's opening price. This reflects a 2.5% decrease. The forecasted price for this date is $",
-    "excerpt": "On May 8, 2026, Ethereum opened at $2,290.98, down from the previous day's opening price. This reflects a 2.5% decrease. The forecasted price for this date is $2,292.31.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Current price of Ethereum for May 8, 2026"
     },
     "readingTime": 3
   },
@@ -987,69 +1386,6 @@
     "readingTime": 3
   },
   {
-    "id": "federal-reserve-leaves-interest-rates-unchanged-as-powell-s-chairmanship-nears-e",
-    "type": "news",
-    "title": "Federal Reserve leaves interest rates unchanged as Powell's chairmanship nears end",
-    "slug": "federal-reserve-leaves-interest-rates-unchanged-as-powell-s-chairmanship-nears-e",
-    "date": "2026-05-08",
-    "displayDate": "May 8, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Reserve kept interest rates unchanged in April, amid inflation concerns, as Chair Jerome Powell's term nears its end. Powell plans to stay on the Fe",
-    "excerpt": "The Federal Reserve kept interest rates unchanged in April, amid inflation concerns, as Chair Jerome Powell's term nears its end. Powell plans to stay on the Fed's board, citing legal attacks by the Trump administration. This decision prevents President Trump from appointing a new Fed chair.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Federal Reserve leaves interest rates unchanged as Powell's chairmanship nears end"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "food-prices-and-spending",
-    "type": "news",
-    "title": "Food Prices and Spending",
-    "slug": "food-prices-and-spending",
-    "date": "2026-05-08",
-    "displayDate": "May 8, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Food prices have risen significantly due to supply chain disruptions during the COVID-19 pandemic, impacting consumer spending. The USDA reports changes in food",
-    "excerpt": "Food prices have risen significantly due to supply chain disruptions during the COVID-19 pandemic, impacting consumer spending. The USDA reports changes in food expenditures and affordability over time. Global food price trends show fluctuations influenced by production, processing, and retail facto",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Food Prices and Spending"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "health-care-sector-investing-in-stocks-that-help-keep-you-well",
-    "type": "news",
-    "title": "Health care sector: Investing in stocks that help keep you well",
-    "slug": "health-care-sector-investing-in-stocks-that-help-keep-you-well",
-    "date": "2026-05-08",
-    "displayDate": "May 8, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Investing in healthcare stocks can provide stable returns due to the sector's consistent demand for health services and products. Key areas include weight loss,",
-    "excerpt": "Investing in healthcare stocks can provide stable returns due to the sector's consistent demand for health services and products. Key areas include weight loss, data analytics, robotics, and medical devices. Consult a financial advisor for personalized investment advice.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Health care sector: Investing in stocks that help keep you well"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "inflation-surges-as-effects-of-the-iran-war-show-in-prices",
     "type": "news",
     "title": "Inflation Surges as Effects of the Iran War Show in Prices",
@@ -1113,27 +1449,6 @@
     "readingTime": 3
   },
   {
-    "id": "monthly-market-wrap-april-2026",
-    "type": "news",
-    "title": "Monthly Market Wrap: April 2026",
-    "slug": "monthly-market-wrap-april-2026",
-    "date": "2026-05-08",
-    "displayDate": "May 8, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "In April 2026, markets reached all-time highs driven by strong tech earnings, with AI stocks leading a global rally. Emerging markets surged nearly 15%, and U.S",
-    "excerpt": "In April 2026, markets reached all-time highs driven by strong tech earnings, with AI stocks leading a global rally. Emerging markets surged nearly 15%, and U.S. small-caps rose 12.2%. Energy stocks rallied, but tech and financial sectors struggled amid AI concerns.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Monthly Market Wrap: April 2026"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "q4-earnings-call-remarks-from-our-ceo",
     "type": "news",
     "title": "Q4 earnings call: Remarks from our CEO",
@@ -1172,27 +1487,6 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "Stock Market Under the Trump Administration: What is Driving Markets in 2026?"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "the-best-healthcare-stocks-to-buy",
-    "type": "news",
-    "title": "The Best Healthcare Stocks to Buy",
-    "slug": "the-best-healthcare-stocks-to-buy",
-    "date": "2026-05-08",
-    "displayDate": "May 8, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Top healthcare stocks to buy include HCA Healthcare, Abbott Laboratories, and Eli Lilly & Co. These companies have strong market positions and financial health.",
-    "excerpt": "Top healthcare stocks to buy include HCA Healthcare, Abbott Laboratories, and Eli Lilly & Co. These companies have strong market positions and financial health.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "The Best Healthcare Stocks to Buy"
     },
     "readingTime": 3
   },
@@ -1239,27 +1533,6 @@
     "readingTime": 3
   },
   {
-    "id": "these-s-p500-stocks-are-moving-in-today-s-pre-market-session",
-    "type": "news",
-    "title": "These S&P500 stocks are moving in today's pre-market session",
-    "slug": "these-s-p500-stocks-are-moving-in-today-s-pre-market-session",
-    "date": "2026-05-08",
-    "displayDate": "May 8, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Today's pre-market session sees NEWMONT CORP's stock decline by 3.45% to $98.02. Intel and Microsoft are also notable movers. Intel's stock price is up.",
-    "excerpt": "Today's pre-market session sees NEWMONT CORP's stock decline by 3.45% to $98.02. Intel and Microsoft are also notable movers. Intel's stock price is up.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "These S&P500 stocks are moving in today's pre-market session"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "top-5-australian-mining-stocks-this-week-australian-mines-shines-on-scandium-sco",
     "type": "news",
     "title": "Top 5 Australian Mining Stocks This Week: Australian Mines Shines on Scandium Scoping Study",
@@ -1298,27 +1571,6 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "U.S. stocks are falling behind. It could be the beginning of an epic shift toward global markets."
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "us-stock-market-today-s-p-500-futures-climb-as-traders-weigh-cooling-jobs-data",
-    "type": "news",
-    "title": "US Stock Market Today S&P 500 Futures Climb As Traders Weigh Cooling Jobs Data",
-    "slug": "us-stock-market-today-s-p-500-futures-climb-as-traders-weigh-cooling-jobs-data",
-    "date": "2026-05-08",
-    "displayDate": "May 8, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "US stock futures climbed today, with S&P 500 futures up 0.4% and Nasdaq 100 futures up 0.6%. Traders are assessing cooling jobs data. Current date is 2026-05-08",
-    "excerpt": "US stock futures climbed today, with S&P 500 futures up 0.4% and Nasdaq 100 futures up 0.6%. Traders are assessing cooling jobs data. Current date is 2026-05-08.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "US Stock Market Today S&P 500 Futures Climb As Traders Weigh Cooling Jobs Data"
     },
     "readingTime": 3
   },
@@ -1365,27 +1617,6 @@
     "readingTime": 3
   },
   {
-    "id": "wall-st-week-ahead-us-earnings-season-set-to-test-war-rattled-stocks",
-    "type": "news",
-    "title": "Wall St Week Ahead US earnings season set to test war-rattled stocks",
-    "slug": "wall-st-week-ahead-us-earnings-season-set-to-test-war-rattled-stocks",
-    "date": "2026-05-08",
-    "displayDate": "May 8, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The US earnings season is expected to show a 14% rise in S&P 500 company earnings, despite war-related concerns. Major indexes have rebounded to record highs, d",
-    "excerpt": "The US earnings season is expected to show a 14% rise in S&P 500 company earnings, despite war-related concerns. Major indexes have rebounded to record highs, driven by easing tensions and strong corporate profits. Investors are closely watching upcoming earnings reports for further market momentum.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Wall St Week Ahead US earnings season set to test war-rattled stocks"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "wall-street-s-hunt-for-cheaper-stocks-goes-global",
     "type": "news",
     "title": "Wall Street’s Hunt for Cheaper Stocks Goes Global",
@@ -1428,27 +1659,6 @@
     "readingTime": 3
   },
   {
-    "id": "weekly-market-commentary",
-    "type": "news",
-    "title": "Weekly market commentary",
-    "slug": "weekly-market-commentary",
-    "date": "2026-05-08",
-    "displayDate": "May 8, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Strong corporate earnings and AI advancements support a pro-risk stance favoring U.S. and emerging market equities. The AI mega force is driving investment outc",
-    "excerpt": "Strong corporate earnings and AI advancements support a pro-risk stance favoring U.S. and emerging market equities. The AI mega force is driving investment outcomes, with thematic opportunities in infrastructure, defense, and energy. Recent market commentary highlights dynamic market conditions and ",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Weekly market commentary"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "weekly-market-update-stocks-remain-flat-as-energy-rises-and-financial-services-f",
     "type": "news",
     "title": "Weekly Market Update: Stocks Remain Flat as Energy Rises and Financial Services Fall",
@@ -1487,27 +1697,6 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "What to Expect from Bitcoin, ETH, XRP, Solana Options Expiry and US Nonfarm Payrolls Today?"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "why-are-bitcoin-ethereum-and-xrp-prices-falling-today",
-    "type": "news",
-    "title": "Why Are Bitcoin, Ethereum and XRP Prices Falling Today?",
-    "slug": "why-are-bitcoin-ethereum-and-xrp-prices-falling-today",
-    "date": "2026-05-08",
-    "displayDate": "May 8, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Bitcoin, Ethereum, and XRP prices are falling due to a broader market sell-off and Federal Reserve signals on interest rates. Market uncertainty and rate hike p",
-    "excerpt": "Bitcoin, Ethereum, and XRP prices are falling due to a broader market sell-off and Federal Reserve signals on interest rates. Market uncertainty and rate hike possibilities are key factors.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Why Are Bitcoin, Ethereum and XRP Prices Falling Today?"
     },
     "readingTime": 3
   },
@@ -1890,27 +2079,6 @@
     "readingTime": 3
   },
   {
-    "id": "how-much-of-your-portfolio-should-be-in-non-u-s-stocks",
-    "type": "news",
-    "title": "How Much of Your Portfolio Should Be in Non‑U.S. Stocks?",
-    "slug": "how-much-of-your-portfolio-should-be-in-non-u-s-stocks",
-    "date": "2026-05-07",
-    "displayDate": "May 7, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Experts generally recommend allocating 35%-40% of your portfolio to international stocks for diversification. This helps balance risk and can enhance long-term ",
-    "excerpt": "Experts generally recommend allocating 35%-40% of your portfolio to international stocks for diversification. This helps balance risk and can enhance long-term returns. A minimum of 5% in non-U.S. stocks is often advised for any meaningful exposure.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "How Much of Your Portfolio Should Be in Non‑U.S. Stocks?"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "initial-jobless-claims-among-economic-data-due-thursday",
     "type": "news",
     "title": "Initial jobless claims among economic data due Thursday",
@@ -1928,27 +2096,6 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "Initial jobless claims among economic data due Thursday"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "march-2026-investment-strategy-best-sectors-market-trends",
-    "type": "news",
-    "title": "March 2026 Investment Strategy: Best Sectors & Market Trends",
-    "slug": "march-2026-investment-strategy-best-sectors-market-trends",
-    "date": "2026-05-07",
-    "displayDate": "May 7, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "For March 2026, maintain equal weight in equities, prefer short-term fixed income, and keep a strategic allocation in gold. Global equities fell sharply due to ",
-    "excerpt": "For March 2026, maintain equal weight in equities, prefer short-term fixed income, and keep a strategic allocation in gold. Global equities fell sharply due to Middle East conflict, while emerging markets suffered significant losses.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "March 2026 Investment Strategy: Best Sectors & Market Trends"
     },
     "readingTime": 3
   },
@@ -2495,27 +2642,6 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "Get Ready for Major Tech Earnings Starting April 29"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "global-stock-markets-are-too-inflated-and-will-fall-top-bank-of-england-official",
-    "type": "news",
-    "title": "Global stock markets are too inflated and will fall, top Bank of England official warns",
-    "slug": "global-stock-markets-are-too-inflated-and-will-fall-top-bank-of-england-official",
-    "date": "2026-05-06",
-    "displayDate": "May 6, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Top Bank of England official Sarah Breeden warns global stock markets are overvalued and will likely fall due to macroeconomic risks. Concerns include potential",
-    "excerpt": "Top Bank of England official Sarah Breeden warns global stock markets are overvalued and will likely fall due to macroeconomic risks. Concerns include potential simultaneous risks and adjustments in private credit and AI valuations. This prediction is based on current market conditions and risks.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Global stock markets are too inflated and will fall, top Bank of England official warns"
     },
     "readingTime": 3
   },
@@ -3860,27 +3986,6 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "Economic data on factory orders and Fed speech highlight Monday’s calendar"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "get-your-portfolio-s-passport-stamped-reasons-to-consider-international-investin",
-    "type": "news",
-    "title": "Get your portfolio’s passport stamped: Reasons to consider international investing",
-    "slug": "get-your-portfolio-s-passport-stamped-reasons-to-consider-international-investin",
-    "date": "2026-05-03",
-    "displayDate": "May 3, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "International investing diversifies risk, accesses undervalued markets, and expands potential growth opportunities. It helps hedge against currency risk and sec",
-    "excerpt": "International investing diversifies risk, accesses undervalued markets, and expands potential growth opportunities. It helps hedge against currency risk and sector concentration risks in domestic markets.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Get your portfolio’s passport stamped: Reasons to consider international investing"
     },
     "readingTime": 3
   },
