@@ -1,5 +1,593 @@
 [
   {
+    "id": "analyst-predicts-shocking-sign-behind-bitcoin-s-price",
+    "type": "news",
+    "title": "Analyst predicts shocking sign behind Bitcoin’s price",
+    "slug": "analyst-predicts-shocking-sign-behind-bitcoin-s-price",
+    "date": "2026-05-09",
+    "displayDate": "May 9, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin (BTC) may have reclaimed $80,000, but one analyst warns that the move lacks the foundation to hold. On May 4, the top cryptocurrency...",
+    "excerpt": "Bitcoin (BTC) may have reclaimed $80,000, but one analyst warns that the move lacks the foundation to hold. On May 4, the top cryptocurrency...",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Analyst predicts shocking sign behind Bitcoin’s price"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "asian-stock-markets-plunge-amid-trump-s-ultimatum-on-iran",
+    "type": "news",
+    "title": "Asian stock markets plunge amid Trump’s ultimatum on Iran",
+    "slug": "asian-stock-markets-plunge-amid-trump-s-ultimatum-on-iran",
+    "date": "2026-05-09",
+    "displayDate": "May 9, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Key indexes in Japan, South Korea and Hong Kong tumble as Iran threatens attacks on energy infrastructure across region.",
+    "excerpt": "Key indexes in Japan, South Korea and Hong Kong tumble as Iran threatens attacks on energy infrastructure across region.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Asian stock markets plunge amid Trump’s ultimatum on Iran"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "asset-allocation-outlook-2q-2026-beyond-the-conflict",
+    "type": "news",
+    "title": "Asset Allocation Outlook 2Q 2026: Beyond the Conflict",
+    "slug": "asset-allocation-outlook-2q-2026-beyond-the-conflict",
+    "date": "2026-05-09",
+    "displayDate": "May 9, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Middle East conflict has made the investment calculus harder, but not enough to alter our constructive outlook or justify a material...",
+    "excerpt": "The Middle East conflict has made the investment calculus harder, but not enough to alter our constructive outlook or justify a material...",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Asset Allocation Outlook 2Q 2026: Beyond the Conflict"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "big-firms-quarterly-results-may-signal-what-s-next-for-the-economy",
+    "type": "news",
+    "title": "Big firms’ quarterly results may signal what’s next for the economy",
+    "slug": "big-firms-quarterly-results-may-signal-what-s-next-for-the-economy",
+    "date": "2026-05-09",
+    "displayDate": "May 9, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "There won't be a whole lot of economic data coming out this week, aside from some numbers on home sales, new and existing.",
+    "excerpt": "There won't be a whole lot of economic data coming out this week, aside from some numbers on home sales, new and existing.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Big firms’ quarterly results may signal what’s next for the economy"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "coinbase-posts-steep-first-quarter-loss-after-slide-in-crypto-prices-shares-fall",
+    "type": "news",
+    "title": "Coinbase posts steep first-quarter loss after slide in crypto prices; shares fall 4%",
+    "slug": "coinbase-posts-steep-first-quarter-loss-after-slide-in-crypto-prices-shares-fall",
+    "date": "2026-05-09",
+    "displayDate": "May 9, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Coinbase reported a steep first-quarter loss and missed revenue estimates, causing a 4% drop in its shares. The crypto price slide significantly impacted tradin",
+    "excerpt": "Coinbase reported a steep first-quarter loss and missed revenue estimates, causing a 4% drop in its shares. The crypto price slide significantly impacted trading volumes and revenue. This loss raises questions about the sustainability of crypto exchange business models.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Coinbase posts steep first-quarter loss after slide in crypto prices; shares fall 4%"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "european-markets-show-mixed-sentiment-as-oil-prices-climb-further",
+    "type": "news",
+    "title": "European markets show mixed sentiment as oil prices climb further",
+    "slug": "european-markets-show-mixed-sentiment-as-oil-prices-climb-further",
+    "date": "2026-05-09",
+    "displayDate": "May 9, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "European stock markets lost their enthusiasm by the early afternoon following a positive trend in the first half of the trading lead by...",
+    "excerpt": "European stock markets lost their enthusiasm by the early afternoon following a positive trend in the first half of the trading lead by...",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "European markets show mixed sentiment as oil prices climb further"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "federal-open-market-committee",
+    "type": "news",
+    "title": "Federal Open Market Committee",
+    "slug": "federal-open-market-committee",
+    "date": "2026-05-09",
+    "displayDate": "May 9, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Eight months out of the year, the financial market tends to get eerily quiet for two days. Then boom,...",
+    "excerpt": "Eight months out of the year, the financial market tends to get eerily quiet for two days. Then boom,...",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Federal Open Market Committee"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "fourth-quarter-2025-survey-of-professional-forecasters",
+    "type": "news",
+    "title": "Fourth Quarter 2025 Survey of Professional Forecasters",
+    "slug": "fourth-quarter-2025-survey-of-professional-forecasters",
+    "date": "2026-05-09",
+    "displayDate": "May 9, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The outlook for growth in the U.S. economy looks marginally better now than it did three months ago, according to 33 forecasters surveyed by...",
+    "excerpt": "The outlook for growth in the U.S. economy looks marginally better now than it did three months ago, according to 33 forecasters surveyed by...",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Fourth Quarter 2025 Survey of Professional Forecasters"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "gdp-advance-estimate-4th-quarter-and-year-2025",
+    "type": "news",
+    "title": "GDP (Advance Estimate), 4th Quarter and Year 2025",
+    "slug": "gdp-advance-estimate-4th-quarter-and-year-2025",
+    "date": "2026-05-09",
+    "displayDate": "May 9, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Real GDP grew at an annual rate of 1.4% in Q4 2025. The U.S. Bureau of Economic Analysis released this advance estimate. The increase was driven by consumer spe",
+    "excerpt": "Real GDP grew at an annual rate of 1.4% in Q4 2025. The U.S. Bureau of Economic Analysis released this advance estimate. The increase was driven by consumer spending and investment.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "GDP (Advance Estimate), 4th Quarter and Year 2025"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "how-to-build-a-portfolio-what-to-own-what-to-skip-and-why",
+    "type": "news",
+    "title": "How to Build a Portfolio: What to Own, What to Skip, and Why",
+    "slug": "how-to-build-a-portfolio-what-to-own-what-to-skip-and-why",
+    "date": "2026-05-09",
+    "displayDate": "May 9, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "How to tell if you're really a long-term investor or just a complacent one. Why investors should use mutual funds and ETFs as core portfolio...",
+    "excerpt": "How to tell if you're really a long-term investor or just a complacent one. Why investors should use mutual funds and ETFs as core portfolio...",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "How to Build a Portfolio: What to Own, What to Skip, and Why"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "is-a-stock-market-rotation-underway-these-sectors-are-outpacing-tech-in-2026",
+    "type": "news",
+    "title": "Is a Stock Market Rotation Underway? These Sectors Are Outpacing Tech in 2026",
+    "slug": "is-a-stock-market-rotation-underway-these-sectors-are-outpacing-tech-in-2026",
+    "date": "2026-05-09",
+    "displayDate": "May 9, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "While it's only a few weeks into 2026, the latest data shows that the tables are turning in the stock market.",
+    "excerpt": "While it's only a few weeks into 2026, the latest data shows that the tables are turning in the stock market.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Is a Stock Market Rotation Underway? These Sectors Are Outpacing Tech in 2026"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "q1-2026-company-earnings-in-mortgage-real-estate-homebuilding",
+    "type": "news",
+    "title": "Q1 2026 company earnings in mortgage, real estate, homebuilding",
+    "slug": "q1-2026-company-earnings-in-mortgage-real-estate-homebuilding",
+    "date": "2026-05-09",
+    "displayDate": "May 9, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "In Q1 2026, M/I Homes reported earnings per share of $2.55, Zillow's mortgages revenue increased 56% year-over-year, and overall homebuilding revenue grew 11.6%",
+    "excerpt": "In Q1 2026, M/I Homes reported earnings per share of $2.55, Zillow's mortgages revenue increased 56% year-over-year, and overall homebuilding revenue grew 11.6% to $2.55 billion.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Q1 2026 company earnings in mortgage, real estate, homebuilding"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "q1-2026-earnings-call-remarks-from-our-ceo",
+    "type": "news",
+    "title": "Q1 2026 earnings call: Remarks from our CEO",
+    "slug": "q1-2026-earnings-call-remarks-from-our-ceo",
+    "date": "2026-05-09",
+    "displayDate": "May 9, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "In Q1 2026, Google's CEO Sundar Pichai announced record revenue and highlighted advancements in AI products like the Gemini app and Waymo. Google Cloud surpasse",
+    "excerpt": "In Q1 2026, Google's CEO Sundar Pichai announced record revenue and highlighted advancements in AI products like the Gemini app and Waymo. Google Cloud surpassed $20 billion in quarterly revenue.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Q1 2026 earnings call: Remarks from our CEO"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "revisiting-professional-forecasters-past-performance-and-the-outlook-for-2026",
+    "type": "news",
+    "title": "Revisiting Professional Forecasters’ Past Performance and the Outlook for 2026",
+    "slug": "revisiting-professional-forecasters-past-performance-and-the-outlook-for-2026",
+    "date": "2026-05-09",
+    "displayDate": "May 9, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Professional forecasters expect 1.9% GDP growth and a 2.9% increase in the CPI for 2026. Forecasts from 2025 have been accurate. The outlook is based on Decembe",
+    "excerpt": "Professional forecasters expect 1.9% GDP growth and a 2.9% increase in the CPI for 2026. Forecasts from 2025 have been accurate. The outlook is based on December 2025 data.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Revisiting Professional Forecasters’ Past Performance and the Outlook for 2026"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "stock-market-today-mar-4-u-s-and-european-stocks-rise-despite-asia-market-meltdo",
+    "type": "news",
+    "title": "Stock Market Today, Mar. 4: U.S. and European stocks rise despite Asia market meltdown",
+    "slug": "stock-market-today-mar-4-u-s-and-european-stocks-rise-despite-asia-market-meltdo",
+    "date": "2026-05-09",
+    "displayDate": "May 9, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "This live blog is refreshed periodically throughout the day with the latest updates from the market. To find the latest Stock Market Today...",
+    "excerpt": "This live blog is refreshed periodically throughout the day with the latest updates from the market. To find the latest Stock Market Today...",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Stock Market Today, Mar. 4: U.S. and European stocks rise despite Asia market meltdown"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "stock-market-today-may-8-the-trade-desk-slides-after-q1-report-misses-eps-and-gu",
+    "type": "news",
+    "title": "Stock Market Today, May 8: The Trade Desk Slides After Q1 Report Misses EPS and Guidance Disappoints",
+    "slug": "stock-market-today-may-8-the-trade-desk-slides-after-q1-report-misses-eps-and-gu",
+    "date": "2026-05-09",
+    "displayDate": "May 9, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Trade Desk's stock dropped significantly after missing Q1 earnings expectations and disappointing guidance, leading to analyst downgrades. The stock fell 6%",
+    "excerpt": "The Trade Desk's stock dropped significantly after missing Q1 earnings expectations and disappointing guidance, leading to analyst downgrades. The stock fell 6% on May 8, 2026.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Stock Market Today, May 8: The Trade Desk Slides After Q1 Report Misses EPS and Guidance Disappoints"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "stocks-making-big-moves-this-week-jeld-wen-thredup-limbach-universal-logistics-a",
+    "type": "news",
+    "title": "Stocks making big moves this week: JELD-WEN, ThredUp, Limbach, Universal Logistics, and CECO Environmental",
+    "slug": "stocks-making-big-moves-this-week-jeld-wen-thredup-limbach-universal-logistics-a",
+    "date": "2026-05-09",
+    "displayDate": "May 9, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Check out the companies making headlines this week: JELD-WEN (NYSE:JELD): Building products manufacturer JELD-WEN (NYSE:JELD) rose by 5.4%...",
+    "excerpt": "Check out the companies making headlines this week: JELD-WEN (NYSE:JELD): Building products manufacturer JELD-WEN (NYSE:JELD) rose by 5.4%...",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Stocks making big moves this week: JELD-WEN, ThredUp, Limbach, Universal Logistics, and CECO Environmental"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "strategy-announces-first-quarter-2026-financial-results",
+    "type": "news",
+    "title": "Strategy Announces First Quarter 2026 Financial Results",
+    "slug": "strategy-announces-first-quarter-2026-financial-results",
+    "date": "2026-05-09",
+    "displayDate": "May 9, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin Highlights (as of May 3, 2026). 818,334 bitcoin holdings, a 22% growth year to date 2026; 9.4% BTC Yield achieved year to date...",
+    "excerpt": "Bitcoin Highlights (as of May 3, 2026). 818,334 bitcoin holdings, a 22% growth year to date 2026; 9.4% BTC Yield achieved year to date...",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Strategy Announces First Quarter 2026 Financial Results"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "the-fed-april-28-29-2026-fomc-meeting",
+    "type": "news",
+    "title": "The Fed - April 28-29, 2026 FOMC Meeting",
+    "slug": "the-fed-april-28-29-2026-fomc-meeting",
+    "date": "2026-05-09",
+    "displayDate": "May 9, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Reserve Board of Governors in Washington DC.",
+    "excerpt": "The Federal Reserve Board of Governors in Washington DC.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "The Fed - April 28-29, 2026 FOMC Meeting"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "the-odds-are-changing-investing-in-2026",
+    "type": "news",
+    "title": "The Odds Are Changing: Investing in 2026",
+    "slug": "the-odds-are-changing-investing-in-2026",
+    "date": "2026-05-09",
+    "displayDate": "May 9, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Rick Rieder explains why 2026 favors investors over gamblers, as fading inflation, softening labor and AI driven dispersion reshape income...",
+    "excerpt": "Rick Rieder explains why 2026 favors investors over gamblers, as fading inflation, softening labor and AI driven dispersion reshape income...",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "The Odds Are Changing: Investing in 2026"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "us-economic-forecast-q1-2026",
+    "type": "news",
+    "title": "US Economic Forecast Q1 2026",
+    "slug": "us-economic-forecast-q1-2026",
+    "date": "2026-05-09",
+    "displayDate": "May 9, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The U.S. economy grew 2% in Q1 2026, below expectations, while business investment and optimism around AI are driving growth. Oil prices are expected to rise sh",
+    "excerpt": "The U.S. economy grew 2% in Q1 2026, below expectations, while business investment and optimism around AI are driving growth. Oil prices are expected to rise sharply, potentially impacting inflation. Global growth remains resilient, though risks are tilted to the downside.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "US Economic Forecast Q1 2026"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "us-stock-market-outlook-where-to-find-value-after-april-s-rally",
+    "type": "news",
+    "title": "US Stock Market Outlook: Where to Find Value After April’s Rally",
+    "slug": "us-stock-market-outlook-where-to-find-value-after-april-s-rally",
+    "date": "2026-05-09",
+    "displayDate": "May 9, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The US stock market shows potential value in undervalued mega-cap tech stocks like Nvidia and Broadcom, while caution is advised for overvalued stocks like Cien",
+    "excerpt": "The US stock market shows potential value in undervalued mega-cap tech stocks like Nvidia and Broadcom, while caution is advised for overvalued stocks like Ciena and Western Digital. Focus on sectors like technology and AI for potential gains.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "US Stock Market Outlook: Where to Find Value After April’s Rally"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "wall-st-week-ahead-industrial-sector-s-gains-to-be-tested-as-earnings-ramp-up",
+    "type": "news",
+    "title": "Wall St Week Ahead: Industrial sector's gains to be tested as earnings ramp up",
+    "slug": "wall-st-week-ahead-industrial-sector-s-gains-to-be-tested-as-earnings-ramp-up",
+    "date": "2026-05-09",
+    "displayDate": "May 9, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The industrial sector has led the way for U.S. equities during a topsy-turvy year on Wall Street, but its strength will be tested as...",
+    "excerpt": "The industrial sector has led the way for U.S. equities during a topsy-turvy year on Wall Street, but its strength will be tested as...",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Wall St Week Ahead: Industrial sector's gains to be tested as earnings ramp up"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "wall-street-is-bracing-for-stocks-to-swing-as-the-april-jobs-report-looms",
+    "type": "news",
+    "title": "Wall Street is bracing for stocks to swing as the April jobs report looms",
+    "slug": "wall-street-is-bracing-for-stocks-to-swing-as-the-april-jobs-report-looms",
+    "date": "2026-05-09",
+    "displayDate": "May 9, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Wall Street anticipates volatile stock market swings due to the upcoming April jobs report, with concerns over interest rates and inflation. The report's releas",
+    "excerpt": "Wall Street anticipates volatile stock market swings due to the upcoming April jobs report, with concerns over interest rates and inflation. The report's release on April 3 could significantly impact market trends.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Wall Street is bracing for stocks to swing as the April jobs report looms"
+    },
+    "readingTime": 6
+  },
+  {
+    "id": "weekly-market-update-tech-stocks-lead-market-lower-basic-materials-gain",
+    "type": "news",
+    "title": "Weekly Market Update: Tech Stocks Lead Market Lower, Basic Materials Gain",
+    "slug": "weekly-market-update-tech-stocks-lead-market-lower-basic-materials-gain",
+    "date": "2026-05-09",
+    "displayDate": "May 9, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Tech stocks led declines, while basic materials gained in the latest market week. The Federal Reserve's rate cut initially boosted markets but later losses occu",
+    "excerpt": "Tech stocks led declines, while basic materials gained in the latest market week. The Federal Reserve's rate cut initially boosted markets but later losses occurred. Tech heavyweights Oracle and Broadcom fell sharply after earnings.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Weekly Market Update: Tech Stocks Lead Market Lower, Basic Materials Gain"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "when-is-the-fed-s-next-meeting-see-the-full-schedule-for-2026",
+    "type": "news",
+    "title": "When is the Fed's next meeting? See the full schedule for 2026.",
+    "slug": "when-is-the-fed-s-next-meeting-see-the-full-schedule-for-2026",
+    "date": "2026-05-09",
+    "displayDate": "May 9, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Open Market Committee (FOMC) — a division of the Federal Reserve responsible for setting monetary policy — will soon meet again...",
+    "excerpt": "The Federal Open Market Committee (FOMC) — a division of the Federal Reserve responsible for setting monetary policy — will soon meet again...",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "When is the Fed's next meeting? See the full schedule for 2026."
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "why-is-the-crypto-market-up-today",
+    "type": "news",
+    "title": "Why Is The Crypto Market Up Today?",
+    "slug": "why-is-the-crypto-market-up-today",
+    "date": "2026-05-09",
+    "displayDate": "May 9, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The crypto market is up 0.81% as Bitcoin crosses $81500 and Zcash rallies 22% with Trump's Project Freedom pause easing geopolitical risk.",
+    "excerpt": "The crypto market is up 0.81% as Bitcoin crosses $81500 and Zcash rallies 22% with Trump's Project Freedom pause easing geopolitical risk.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Why Is The Crypto Market Up Today?"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "xrp-price-analysis-should-you-cut-your-losses-or-hold",
+    "type": "news",
+    "title": "XRP Price Analysis: Should You Cut Your Losses or Hold?",
+    "slug": "xrp-price-analysis-should-you-cut-your-losses-or-hold",
+    "date": "2026-05-09",
+    "displayDate": "May 9, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "XRP (CRYPTO: XRP) is trading at $1.40, up 1.8% in the past 24 hours but still down 61% from its July 2025 peak of $3.65.",
+    "excerpt": "XRP (CRYPTO: XRP) is trading at $1.40, up 1.8% in the past 24 hours but still down 61% from its July 2025 peak of $3.65.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "XRP Price Analysis: Should You Cut Your Losses or Hold?"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "4-strategies-for-investing-in-ai-stocks",
     "type": "news",
     "title": "4 strategies for investing in AI stocks",
@@ -84,69 +672,6 @@
     "readingTime": 3
   },
   {
-    "id": "analyst-predicts-shocking-sign-behind-bitcoin-s-price",
-    "type": "news",
-    "title": "Analyst predicts shocking sign behind Bitcoin’s price",
-    "slug": "analyst-predicts-shocking-sign-behind-bitcoin-s-price",
-    "date": "2026-05-08",
-    "displayDate": "May 8, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Bitcoin briefly surpassed $80,000 but faces a liquidity drain, raising concerns despite its recovery. Analysts highlight a significant $4 billion drop in stable",
-    "excerpt": "Bitcoin briefly surpassed $80,000 but faces a liquidity drain, raising concerns despite its recovery. Analysts highlight a significant $4 billion drop in stablecoin reserves, indicating potential instability. This contraction in liquidity may undermine Bitcoin's recent price gains.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Analyst predicts shocking sign behind Bitcoin’s price"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "asian-stock-markets-plunge-amid-trump-s-ultimatum-on-iran",
-    "type": "news",
-    "title": "Asian stock markets plunge amid Trump’s ultimatum on Iran",
-    "slug": "asian-stock-markets-plunge-amid-trump-s-ultimatum-on-iran",
-    "date": "2026-05-08",
-    "displayDate": "May 8, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Asian stock markets plunged sharply due to Trump's ultimatum on Iran, with key indexes in Japan, South Korea, and Hong Kong falling significantly. Trump threate",
-    "excerpt": "Asian stock markets plunged sharply due to Trump's ultimatum on Iran, with key indexes in Japan, South Korea, and Hong Kong falling significantly. Trump threatened to destroy Iran's energy infrastructure if Iran didn't reopen the Strait of Hormuz. Brent crude oil prices rose amid the crisis.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Asian stock markets plunge amid Trump’s ultimatum on Iran"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "asset-allocation-outlook-2q-2026-beyond-the-conflict",
-    "type": "news",
-    "title": "Asset Allocation Outlook 2Q 2026: Beyond the Conflict",
-    "slug": "asset-allocation-outlook-2q-2026-beyond-the-conflict",
-    "date": "2026-05-08",
-    "displayDate": "May 8, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Despite the Middle East conflict, our asset allocation outlook for Q2 2026 remains constructive, with no material shift in strategy. We maintain a moderately ov",
-    "excerpt": "Despite the Middle East conflict, our asset allocation outlook for Q2 2026 remains constructive, with no material shift in strategy. We maintain a moderately overweight view on global equities due to strong earnings and supportive fiscal policy. The conflict's economic impact is uncertain, but marke",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Asset Allocation Outlook 2Q 2026: Beyond the Conflict"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "average-inflation-rate-in-the-united-states-from-1980-to-2031",
     "type": "news",
     "title": "Average inflation rate in the United States from 1980 to 2031",
@@ -227,27 +752,6 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "CBO Releases Economic Projections From 2025 to 2028-2025-09-19"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "coinbase-posts-steep-first-quarter-loss-after-slide-in-crypto-prices-shares-fall",
-    "type": "news",
-    "title": "Coinbase posts steep first-quarter loss after slide in crypto prices; shares fall 4%",
-    "slug": "coinbase-posts-steep-first-quarter-loss-after-slide-in-crypto-prices-shares-fall",
-    "date": "2026-05-08",
-    "displayDate": "May 8, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Coinbase reported a steep first-quarter loss and missed revenue estimates, causing a 4% drop in its share price. The crypto market downturn significantly impact",
-    "excerpt": "Coinbase reported a steep first-quarter loss and missed revenue estimates, causing a 4% drop in its share price. The crypto market downturn significantly impacted trading volumes and revenue. The company's financial results highlight challenges for crypto exchanges during prolonged market declines.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Coinbase posts steep first-quarter loss after slide in crypto prices; shares fall 4%"
     },
     "readingTime": 3
   },
@@ -441,27 +945,6 @@
     "readingTime": 3
   },
   {
-    "id": "european-markets-show-mixed-sentiment-as-oil-prices-climb-further",
-    "type": "news",
-    "title": "European markets show mixed sentiment as oil prices climb further",
-    "slug": "european-markets-show-mixed-sentiment-as-oil-prices-climb-further",
-    "date": "2026-05-08",
-    "displayDate": "May 8, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "European markets showed mixed sentiment as oil prices continued to rise, driven by escalating tensions in Iran. Investor sentiment remains cautious.",
-    "excerpt": "European markets showed mixed sentiment as oil prices continued to rise, driven by escalating tensions in Iran. Investor sentiment remains cautious.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "European markets show mixed sentiment as oil prices climb further"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "exxonmobil-announces-2025-results",
     "type": "news",
     "title": "ExxonMobil Announces 2025 Results",
@@ -500,27 +983,6 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "Fed holds rates steady but with highest level of dissent since 1992"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "federal-open-market-committee",
-    "type": "news",
-    "title": "Federal Open Market Committee",
-    "slug": "federal-open-market-committee",
-    "date": "2026-05-08",
-    "displayDate": "May 8, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Open Market Committee (FOMC) controls open market operations, influences the federal funds rate, and sets U.S. monetary policy. It consists of twelv",
-    "excerpt": "The Federal Open Market Committee (FOMC) controls open market operations, influences the federal funds rate, and sets U.S. monetary policy. It consists of twelve members, including the Board of Governors and rotating Reserve Bank presidents. The FOMC meets regularly to make decisions on monetary pol",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Federal Open Market Committee"
     },
     "readingTime": 3
   },
@@ -567,48 +1029,6 @@
     "readingTime": 3
   },
   {
-    "id": "fourth-quarter-2025-survey-of-professional-forecasters",
-    "type": "news",
-    "title": "Fourth Quarter 2025 Survey of Professional Forecasters",
-    "slug": "fourth-quarter-2025-survey-of-professional-forecasters",
-    "date": "2026-05-08",
-    "displayDate": "May 8, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The ECB Survey of Professional Forecasters for Q4 2025 predicted a USD/EUR exchange rate rise to 1.20 by 2030. The Philadelphia Fed's Q4 2025 survey showed medi",
-    "excerpt": "The ECB Survey of Professional Forecasters for Q4 2025 predicted a USD/EUR exchange rate rise to 1.20 by 2030. The Philadelphia Fed's Q4 2025 survey showed median expectations for a 22.9% risk of negative GDP in Q4 2025. The Survey of Professional Forecasters (SPF) is a quarterly U.S. macroeconomic ",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Fourth Quarter 2025 Survey of Professional Forecasters"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "gdp-advance-estimate-4th-quarter-and-year-2025",
-    "type": "news",
-    "title": "GDP (Advance Estimate), 4th Quarter and Year 2025",
-    "slug": "gdp-advance-estimate-4th-quarter-and-year-2025",
-    "date": "2026-05-08",
-    "displayDate": "May 8, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Real GDP grew 1.4% in Q4 2025, down from 4.4% in Q3 2025, according to the U.S. Bureau of Economic Analysis. The growth was driven by consumer spending and inve",
-    "excerpt": "Real GDP grew 1.4% in Q4 2025, down from 4.4% in Q3 2025, according to the U.S. Bureau of Economic Analysis. The growth was driven by consumer spending and investment. Exports and government spending decreased.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "GDP (Advance Estimate), 4th Quarter and Year 2025"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "health-care-sector-investing-in-stocks-that-help-keep-you-well",
     "type": "news",
     "title": "Health care sector: Investing in stocks that help keep you well",
@@ -626,27 +1046,6 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "Health care sector: Investing in stocks that help keep you well"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "how-to-build-a-portfolio-what-to-own-what-to-skip-and-why",
-    "type": "news",
-    "title": "How to Build a Portfolio: What to Own, What to Skip, and Why",
-    "slug": "how-to-build-a-portfolio-what-to-own-what-to-skip-and-why",
-    "date": "2026-05-08",
-    "displayDate": "May 8, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "To build a portfolio, focus on diversified asset classes, avoid over-concentration in any single area, and consider low-cost index funds for broad market exposu",
-    "excerpt": "To build a portfolio, focus on diversified asset classes, avoid over-concentration in any single area, and consider low-cost index funds for broad market exposure.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "How to Build a Portfolio: What to Own, What to Skip, and Why"
     },
     "readingTime": 3
   },
@@ -735,27 +1134,6 @@
     "readingTime": 3
   },
   {
-    "id": "q1-2026-earnings-call-remarks-from-our-ceo",
-    "type": "news",
-    "title": "Q1 2026 earnings call: Remarks from our CEO",
-    "slug": "q1-2026-earnings-call-remarks-from-our-ceo",
-    "date": "2026-05-08",
-    "displayDate": "May 8, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "In Q1 2026, Google Cloud surpassed $20 billion in quarterly revenue, marking a 63% growth. Sundar Pichai highlighted AI product advancements and Waymo progress ",
-    "excerpt": "In Q1 2026, Google Cloud surpassed $20 billion in quarterly revenue, marking a 63% growth. Sundar Pichai highlighted AI product advancements and Waymo progress in the earnings call.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Q1 2026 earnings call: Remarks from our CEO"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "q4-earnings-call-remarks-from-our-ceo",
     "type": "news",
     "title": "Q4 earnings call: Remarks from our CEO",
@@ -777,48 +1155,6 @@
     "readingTime": 3
   },
   {
-    "id": "revisiting-professional-forecasters-past-performance-and-the-outlook-for-2026",
-    "type": "news",
-    "title": "Revisiting Professional Forecasters’ Past Performance and the Outlook for 2026",
-    "slug": "revisiting-professional-forecasters-past-performance-and-the-outlook-for-2026",
-    "date": "2026-05-08",
-    "displayDate": "May 8, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Professional forecasters expect 1.9% GDP growth and a 2.9% increase in the consumer price index for 2026. The forecasts from 2025 have been accurate. The outloo",
-    "excerpt": "Professional forecasters expect 1.9% GDP growth and a 2.9% increase in the consumer price index for 2026. The forecasts from 2025 have been accurate. The outlook is based on data from the Federal Reserve Bank of St. Louis.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Revisiting Professional Forecasters’ Past Performance and the Outlook for 2026"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "stock-market-today-mar-4-u-s-and-european-stocks-rise-despite-asia-market-meltdo",
-    "type": "news",
-    "title": "Stock Market Today, Mar. 4: U.S. and European stocks rise despite Asia market meltdown",
-    "slug": "stock-market-today-mar-4-u-s-and-european-stocks-rise-despite-asia-market-meltdo",
-    "date": "2026-05-08",
-    "displayDate": "May 8, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "On March 4, 2026, U.S. and European stocks rose despite a significant downturn in Asian markets. The Nasdaq and S&P 500 saw gains, rebounding from earlier decli",
-    "excerpt": "On March 4, 2026, U.S. and European stocks rose despite a significant downturn in Asian markets. The Nasdaq and S&P 500 saw gains, rebounding from earlier declines.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Stock Market Today, Mar. 4: U.S. and European stocks rise despite Asia market meltdown"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "stock-market-under-the-trump-administration-what-is-driving-markets-in-2026",
     "type": "news",
     "title": "Stock Market Under the Trump Administration: What is Driving Markets in 2026?",
@@ -836,27 +1172,6 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "Stock Market Under the Trump Administration: What is Driving Markets in 2026?"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "strategy-announces-first-quarter-2026-financial-results",
-    "type": "news",
-    "title": "Strategy Announces First Quarter 2026 Financial Results",
-    "slug": "strategy-announces-first-quarter-2026-financial-results",
-    "date": "2026-05-08",
-    "displayDate": "May 8, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Strategy Inc announced its first quarter 2026 financial results, reporting a net loss of $12.54 billion and holding 818,334 BTC. The company experienced a BTC Y",
-    "excerpt": "Strategy Inc announced its first quarter 2026 financial results, reporting a net loss of $12.54 billion and holding 818,334 BTC. The company experienced a BTC Yield of 9.4% and a $5 billion gain. The unrealized loss on digital assets was $14.46 billion.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Strategy Announces First Quarter 2026 Financial Results"
     },
     "readingTime": 3
   },
@@ -899,48 +1214,6 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "The data make a clear case against Wall Street's \"Sell in May\" cliche"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "the-fed-april-28-29-2026-fomc-meeting",
-    "type": "news",
-    "title": "The Fed - April 28-29, 2026 FOMC Meeting",
-    "slug": "the-fed-april-28-29-2026-fomc-meeting",
-    "date": "2026-05-08",
-    "displayDate": "May 8, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Fed maintained the status quo, holding the fed funds rate steady at the April 28-29, 2026 FOMC meeting. Minor changes were made to the policy statement. The",
-    "excerpt": "The Fed maintained the status quo, holding the fed funds rate steady at the April 28-29, 2026 FOMC meeting. Minor changes were made to the policy statement. The economic outlook remained largely unchanged.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "The Fed - April 28-29, 2026 FOMC Meeting"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "the-odds-are-changing-investing-in-2026",
-    "type": "news",
-    "title": "The Odds Are Changing: Investing in 2026",
-    "slug": "the-odds-are-changing-investing-in-2026",
-    "date": "2026-05-08",
-    "displayDate": "May 8, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "2026 favors strategic investors due to declining inflation and evolving market dynamics, offering better opportunities than speculative gambling. BlackRock high",
-    "excerpt": "2026 favors strategic investors due to declining inflation and evolving market dynamics, offering better opportunities than speculative gambling. BlackRock highlights diversified investment options for 2026. Anticipated structural tailwinds support cautious optimism for the year.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "The Odds Are Changing: Investing in 2026"
     },
     "readingTime": 3
   },
@@ -1029,48 +1302,6 @@
     "readingTime": 3
   },
   {
-    "id": "us-economic-forecast-q1-2026",
-    "type": "news",
-    "title": "US Economic Forecast Q1 2026",
-    "slug": "us-economic-forecast-q1-2026",
-    "date": "2026-05-08",
-    "displayDate": "May 8, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The US economy in Q1 2026 is expected to face higher oil prices, with WTI oil prices potentially exceeding $100 per barrel. Real business investment is projecte",
-    "excerpt": "The US economy in Q1 2026 is expected to face higher oil prices, with WTI oil prices potentially exceeding $100 per barrel. Real business investment is projected to grow by 4%, and the federal deficit remains high. Stock markets continue to show strength.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "US Economic Forecast Q1 2026"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "us-stock-market-outlook-where-to-find-value-after-april-s-rally",
-    "type": "news",
-    "title": "US Stock Market Outlook: Where to Find Value After April’s Rally",
-    "slug": "us-stock-market-outlook-where-to-find-value-after-april-s-rally",
-    "date": "2026-05-08",
-    "displayDate": "May 8, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The US stock market outlook suggests value in technology and AI stocks, while caution is advised on overvalued stocks like Ciena and Western Digital. Expect mar",
-    "excerpt": "The US stock market outlook suggests value in technology and AI stocks, while caution is advised on overvalued stocks like Ciena and Western Digital. Expect market broadening and global opportunities beyond the US.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "US Stock Market Outlook: Where to Find Value After April’s Rally"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "us-stock-market-today-s-p-500-futures-climb-as-traders-weigh-cooling-jobs-data",
     "type": "news",
     "title": "US Stock Market Today S&P 500 Futures Climb As Traders Weigh Cooling Jobs Data",
@@ -1134,27 +1365,6 @@
     "readingTime": 3
   },
   {
-    "id": "wall-st-week-ahead-industrial-sector-s-gains-to-be-tested-as-earnings-ramp-up",
-    "type": "news",
-    "title": "Wall St Week Ahead: Industrial sector's gains to be tested as earnings ramp up",
-    "slug": "wall-st-week-ahead-industrial-sector-s-gains-to-be-tested-as-earnings-ramp-up",
-    "date": "2026-05-08",
-    "displayDate": "May 8, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The industrial sector's gains are under scrutiny as earnings reports ramp up. The sector has outperformed the S&P 500 this year. Upcoming earnings from major co",
-    "excerpt": "The industrial sector's gains are under scrutiny as earnings reports ramp up. The sector has outperformed the S&P 500 this year. Upcoming earnings from major companies will test this trend.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Wall St Week Ahead: Industrial sector's gains to be tested as earnings ramp up"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "wall-st-week-ahead-us-earnings-season-set-to-test-war-rattled-stocks",
     "type": "news",
     "title": "Wall St Week Ahead US earnings season set to test war-rattled stocks",
@@ -1172,27 +1382,6 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "Wall St Week Ahead US earnings season set to test war-rattled stocks"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "wall-street-is-bracing-for-stocks-to-swing-as-the-april-jobs-report-looms",
-    "type": "news",
-    "title": "Wall Street is bracing for stocks to swing as the April jobs report looms",
-    "slug": "wall-street-is-bracing-for-stocks-to-swing-as-the-april-jobs-report-looms",
-    "date": "2026-05-08",
-    "displayDate": "May 8, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Markets anticipate significant stock market movement following Friday's April jobs report, with options data suggesting a potential 1.3% swing in the S&P 500. S",
-    "excerpt": "Markets anticipate significant stock market movement following Friday's April jobs report, with options data suggesting a potential 1.3% swing in the S&P 500. Strong hiring could either boost or hinder stock performance, adding to market volatility.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Wall Street is bracing for stocks to swing as the April jobs report looms"
     },
     "readingTime": 3
   },
@@ -1281,27 +1470,6 @@
     "readingTime": 3
   },
   {
-    "id": "weekly-market-update-tech-stocks-lead-market-lower-basic-materials-gain",
-    "type": "news",
-    "title": "Weekly Market Update: Tech Stocks Lead Market Lower, Basic Materials Gain",
-    "slug": "weekly-market-update-tech-stocks-lead-market-lower-basic-materials-gain",
-    "date": "2026-05-08",
-    "displayDate": "May 8, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Tech stocks led declines, while basic materials gained, following the Federal Reserve's interest rate cut. US markets slipped 0.55% with technology falling 2.18",
-    "excerpt": "Tech stocks led declines, while basic materials gained, following the Federal Reserve's interest rate cut. US markets slipped 0.55% with technology falling 2.18%. Basic materials rose 3.06%.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Weekly Market Update: Tech Stocks Lead Market Lower, Basic Materials Gain"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "what-to-expect-from-bitcoin-eth-xrp-solana-options-expiry-and-us-nonfarm-payroll",
     "type": "news",
     "title": "What to Expect from Bitcoin, ETH, XRP, Solana Options Expiry and US Nonfarm Payrolls Today?",
@@ -1319,27 +1487,6 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "What to Expect from Bitcoin, ETH, XRP, Solana Options Expiry and US Nonfarm Payrolls Today?"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "when-is-the-fed-s-next-meeting-see-the-full-schedule-for-2026",
-    "type": "news",
-    "title": "When is the Fed's next meeting? See the full schedule for 2026.",
-    "slug": "when-is-the-fed-s-next-meeting-see-the-full-schedule-for-2026",
-    "date": "2026-05-08",
-    "displayDate": "May 8, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Fed's next meeting is scheduled for April 28-29, 2026, following the most recent meeting on March 17-18, 2026. The Federal Reserve's full meeting schedule f",
-    "excerpt": "The Fed's next meeting is scheduled for April 28-29, 2026, following the most recent meeting on March 17-18, 2026. The Federal Reserve's full meeting schedule for 2026 includes January 27-28 as the first meeting.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "When is the Fed's next meeting? See the full schedule for 2026."
     },
     "readingTime": 3
   },
@@ -4004,27 +4151,6 @@
     "readingTime": 3
   },
   {
-    "id": "big-firms-quarterly-results-may-signal-what-s-next-for-the-economy",
-    "type": "news",
-    "title": "Big firms’ quarterly results may signal what’s next for the economy",
-    "slug": "big-firms-quarterly-results-may-signal-what-s-next-for-the-economy",
-    "date": "2026-05-02",
-    "displayDate": "May 2, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Big firms' quarterly earnings reports often indicate economic trends; recent results suggest a strong stock market and cautious corporate outlooks. The S&P 500 ",
-    "excerpt": "Big firms' quarterly earnings reports often indicate economic trends; recent results suggest a strong stock market and cautious corporate outlooks. The S&P 500 continues to grow, and optimism around AI boosts earnings.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Big firms’ quarterly results may signal what’s next for the economy"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "bitcoin-btc-price-analysis-crash-risk-rises-as-bond-yields-surge",
     "type": "news",
     "title": "Bitcoin (BTC) price analysis: Crash risk rises as bond yields surge",
@@ -5143,27 +5269,6 @@
       "alt": "What to Look Out for in Economic Data This Week (April 27-May 1)"
     },
     "readingTime": 7
-  },
-  {
-    "id": "why-is-the-crypto-market-up-today",
-    "type": "news",
-    "title": "Why Is The Crypto Market Up Today?",
-    "slug": "why-is-the-crypto-market-up-today",
-    "date": "2026-05-02",
-    "displayDate": "May 2, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The crypto market is up today due to pre-FOMC positioning, with traders shifting from equities to cryptos as the Fed is expected to hold rates steady. The marke",
-    "excerpt": "The crypto market is up today due to pre-FOMC positioning, with traders shifting from equities to cryptos as the Fed is expected to hold rates steady. The market cap rose 1.11% to $2.54 trillion, reclaiming key support levels.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Why Is The Crypto Market Up Today?"
-    },
-    "readingTime": 8
   },
   {
     "id": "10-best-investments-where-to-invest-in-2026",
