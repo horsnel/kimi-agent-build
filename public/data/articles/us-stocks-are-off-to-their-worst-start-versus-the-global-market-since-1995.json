@@ -3,8 +3,8 @@
   "type": "news",
   "title": "US stocks are off to their worst start versus the global market since 1995",
   "slug": "us-stocks-are-off-to-their-worst-start-versus-the-global-market-since-1995",
-  "date": "2026-05-08",
-  "displayDate": "May 8, 2026",
+  "date": "2026-05-10",
+  "displayDate": "May 10, 2026",
   "author": "Sigma Capital",
   "category": "Global Markets",
   "tags": [
@@ -12,41 +12,33 @@
     "financial news",
     "market update"
   ],
-  "metaDescription": "U.S. stocks had their worst start in 2026 compared to global markets since 1995. Data from Goldman Sachs confirms this trend. This marks a significant downturn ",
-  "excerpt": "U.S. stocks had their worst start in 2026 compared to global markets since 1995. Data from Goldman Sachs confirms this trend. This marks a significant downturn in U.S. stock performance.",
+  "metaDescription": "As US valuations and price-to-earnings ratios have surged, global markets have outperformed the S&P 500.",
+  "excerpt": "As US valuations and price-to-earnings ratios have surged, global markets have outperformed the S&P 500.",
   "content": {
-    "introduction": "U.S. stocks had their worst start in 2026 compared to global markets since 1995. Data from Goldman Sachs confirms this trend. This marks a significant downturn in U.S. stock performance.",
-    "body": [
-      "U.S. stocks are having their worst start since 1995, the same year Pixar's original Toy Story was released. Yahoo Finance Host Julie Hyman,",
-      "U.S. stocks are off to their worst start of the year since 1995 against the global market, according to data from Goldman Sachs.",
-      "As a result, US stocks are off to their worst start of the year since 1995 against the global market, according to data from Goldman Sachs."
-    ],
-    "keyTakeaways": [
-      "U.S",
-      "U.S",
-      "U.S"
-    ],
+    "introduction": "As US valuations and price-to-earnings ratios have surged, global markets have outperformed the S&P 500.",
+    "body": [],
+    "keyTakeaways": [],
     "source": "Yahoo Finance",
     "sourceUrl": "https://finance.yahoo.com/news/us-stocks-are-off-to-their-worst-start-versus-the-global-market-since-1995-110019152.html"
   },
   "readingTime": 3,
-  "updatedAt": "2026-05-08T03:28:58.340Z",
+  "updatedAt": "2026-05-10T08:03:00.613Z",
   "images": {
     "thumbnail": {
-      "src": "/images/article_thumb_5.jpg",
+      "src": "/images/article_thumb_2.jpg",
       "alt": "US stocks are off to their worst start versus the global market since 1995"
     },
     "hero": {
-      "src": "/images/article_thumb_6.jpg",
+      "src": "/images/article_thumb_5.jpg",
       "alt": "US stocks are off to their worst start versus the global market since 1995"
     },
     "mid": {
-      "src": "/images/article_thumb_6.jpg",
+      "src": "/images/article_thumb_2.jpg",
       "alt": "US stocks are off to their worst start versus the global market since 1995"
     }
   },
   "image": {
-    "src": "/images/article_thumb_2.jpg",
+    "src": "/images/article_thumb_3.jpg",
     "alt": "US stocks are off to their worst start versus the global market since 1995"
   }
 }
