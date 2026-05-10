@@ -3,8 +3,8 @@
   "type": "news",
   "title": "Food Prices and Spending",
   "slug": "food-prices-and-spending",
-  "date": "2026-05-09",
-  "displayDate": "May 9, 2026",
+  "date": "2026-05-10",
+  "displayDate": "May 10, 2026",
   "author": "Sigma Capital",
   "category": "Economic Data",
   "tags": [
@@ -22,10 +22,10 @@
     "sourceUrl": "http://www.ers.usda.gov/data-products/ag-and-food-statistics-charting-the-essentials/food-prices-and-spending"
   },
   "readingTime": 3,
-  "updatedAt": "2026-05-09T07:50:44.437Z",
+  "updatedAt": "2026-05-10T03:40:20.426Z",
   "images": {
     "thumbnail": {
-      "src": "/images/article_thumb_3.jpg",
+      "src": "/images/article_thumb_2.jpg",
       "alt": "Food Prices and Spending"
     },
     "hero": {
@@ -33,12 +33,12 @@
       "alt": "Food Prices and Spending"
     },
     "mid": {
-      "src": "/images/article_thumb_1.jpg",
+      "src": "/images/article_thumb_2.jpg",
       "alt": "Food Prices and Spending"
     }
   },
   "image": {
-    "src": "/images/article_thumb_2.jpg",
+    "src": "/images/article_thumb_3.jpg",
     "alt": "Food Prices and Spending"
   }
 }
