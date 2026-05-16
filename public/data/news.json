@@ -3,7 +3,7 @@
     "id": 0,
     "headline": "US Market Outlook: Rising Yields Push Wall Street Lower at the Open; China to Purchase up to 750 Boeing Aircraft; Copper Prices Drop Amid Profit-Taking Due to Strong Dollar",
     "excerpt": "Hello, moomoo users![Good Night]Here's a preview of the NY stock market. Market Overview The US market opened with the Dow Jones Industrial...",
-    "date": "14 hours ago",
+    "date": "18 hours ago",
     "category": "Market Analysis",
     "featured": true,
     "source": "Moomoo",
@@ -34,17 +34,6 @@
   },
   {
     "id": 3,
-    "headline": "Earnings call transcript: Solana Co’s Q1 2026 reveals significant losses By Investing.com",
-    "excerpt": "Solana Co reported its Q1 2026 financial results, showcasing substantial revenue growth compared to the previous year but also significant...",
-    "date": "5 hours ago",
-    "category": "Company News",
-    "featured": false,
-    "source": "Investing.com Australia",
-    "articleSlug": "earnings-call-transcript-solana-co-s-q1-2026-reveals-significant-losses-by-inves",
-    "thumbnail": ""
-  },
-  {
-    "id": 4,
     "headline": "Q1 2026 earnings call: Remarks from our CEO",
     "excerpt": "Editor's note: On today's Q1 2026 earnings call, Google and Alphabet CEO Sundar Pichai recapped a terrific start to the year, with our AI...",
     "date": "2 weeks ago",
@@ -55,7 +44,7 @@
     "thumbnail": ""
   },
   {
-    "id": 5,
+    "id": 4,
     "headline": "Rocket Lab surges 34% in best day ever on revenue beat, record-setting launch deal",
     "excerpt": "Rocket Lab's shares blasted to a record high after the company topped first-quarter revenue estimates and announced its largest launch deal...",
     "date": "1 week ago",
@@ -63,6 +52,17 @@
     "featured": false,
     "source": "CNBC",
     "articleSlug": "rocket-lab-surges-34-in-best-day-ever-on-revenue-beat-record-setting-launch-deal",
+    "thumbnail": ""
+  },
+  {
+    "id": 5,
+    "headline": "ExxonMobil Announces 2025 Results",
+    "excerpt": "SPRING, Texas – January 30, 2026 – Exxon Mobil Corporation today announced fourth-quarter 2025 earnings of $6.5 billion, or $1.53 per share.",
+    "date": "Jan 30, 2026",
+    "category": "Company News",
+    "featured": false,
+    "source": "Exxon Mobil Corporation",
+    "articleSlug": "exxonmobil-announces-2025-results",
     "thumbnail": ""
   },
   {
@@ -100,35 +100,35 @@
   },
   {
     "id": 9,
-    "headline": "Weekly Market Update: Tech Stocks Lead Market Lower, Basic Materials Gain",
-    "excerpt": "The Morningstar US Market Index fell 0.55%. The best-performing sectors were basic materials, up 3.06%, and financial services, up 2.38%.",
-    "date": "Dec 12, 2025",
+    "headline": "The Best AI Stocks to Buy Now",
+    "excerpt": "These stock picks stand to benefit most from developing artificial intelligence technologies.",
+    "date": "1 week ago",
     "category": "Sector Performance",
     "featured": false,
     "source": "Morningstar",
-    "articleSlug": "weekly-market-update-tech-stocks-lead-market-lower-basic-materials-gain",
+    "articleSlug": "the-best-ai-stocks-to-buy-now",
     "thumbnail": ""
   },
   {
     "id": 10,
-    "headline": "Wall St Week Ahead: Industrial sector's gains to be tested as earnings ramp up",
-    "excerpt": "The industrial sector has led the way for U.S. equities during a topsy-turvy year on Wall Street, but its strength will be tested as...",
-    "date": "Jul 20, 2025",
+    "headline": "Monthly Market Wrap: April 2026",
+    "excerpt": "Markets posted their best month in nearly six years this April as investors priced in positive steps towards a resolution of conflict in the...",
+    "date": "1 week ago",
     "category": "Sector Performance",
     "featured": false,
-    "source": "Reuters",
-    "articleSlug": "wall-st-week-ahead-industrial-sector-s-gains-to-be-tested-as-earnings-ramp-up",
+    "source": "YCharts",
+    "articleSlug": "monthly-market-wrap-april-2026",
     "thumbnail": ""
   },
   {
     "id": 11,
-    "headline": "Is a Stock Market Rotation Underway? These Sectors Are Outpacing Tech in 2026",
-    "excerpt": "While it's only a few weeks into 2026, the latest data shows that the tables are turning in the stock market.",
-    "date": "Jan 16, 2026",
+    "headline": "5 Best Artificial Intelligence (AI) ETFs to Buy in 2026",
+    "excerpt": "An in-depth look at the top artificial intelligence (AI) ETFs in the U.S. stock market this year.",
+    "date": "1 week ago",
     "category": "Sector Performance",
     "featured": false,
-    "source": "Morningstar",
-    "articleSlug": "is-a-stock-market-rotation-underway-these-sectors-are-outpacing-tech-in-2026",
+    "source": "The Motley Fool",
+    "articleSlug": "5-best-artificial-intelligence-ai-etfs-to-buy-in-2026",
     "thumbnail": ""
   },
   {
@@ -166,17 +166,28 @@
   },
   {
     "id": 15,
-    "headline": "After The Rate Cut: Investing Beyond U.S. Markets",
-    "excerpt": "This rate cut – during a slowdown, not a slump – may support global risk assets. Here are the regions we're focusing on.",
-    "date": "Sep 19, 2025",
+    "headline": "What to Consider When You’re Considering Alternative Investments",
+    "excerpt": "Alternative investments – like private equity and credit, hedge funds and real assets – can help investors solve for many of these challenges and access a...",
+    "date": "Mar 9, 2026",
     "category": "Investment Strategies",
     "featured": false,
     "source": "J.P. Morgan",
-    "articleSlug": "after-the-rate-cut-investing-beyond-u-s-markets",
+    "articleSlug": "what-to-consider-when-you-re-considering-alternative-investments",
     "thumbnail": ""
   },
   {
     "id": 16,
+    "headline": "WarrenAI Vs Gemini: The Best AI Tool For Investors in 2026",
+    "excerpt": "Here's why WarrenAI is poised to be the best AI companion for investors looking to navigate the market and achieve their financial goals.",
+    "date": "2 weeks ago",
+    "category": "Investment Strategies",
+    "featured": false,
+    "source": "Investing.com",
+    "articleSlug": "warrenai-vs-gemini-the-best-ai-tool-for-investors-in-2026",
+    "thumbnail": ""
+  },
+  {
+    "id": 17,
     "headline": "March 2026 Investment Strategy: Best Sectors & Market Trends",
     "excerpt": "When geopolitical tensions rise, investors typically move towards safe haven assets. In the current environment, that shift is becoming...",
     "date": "1 month ago",
@@ -184,17 +195,6 @@
     "featured": false,
     "source": "ICICI Direct",
     "articleSlug": "march-2026-investment-strategy-best-sectors-market-trends",
-    "thumbnail": ""
-  },
-  {
-    "id": 17,
-    "headline": "How Much of Your Portfolio Should Be in Non‑U.S. Stocks?",
-    "excerpt": "Explore why it may be beneficial to consider adding non‑U.S. equities by examining valuation shifts, volatility patterns and long‑term...",
-    "date": "Jul 22, 2025",
-    "category": "Investment Strategies",
-    "featured": false,
-    "source": "J.P. Morgan",
-    "articleSlug": "how-much-of-your-portfolio-should-be-in-non-u-s-stocks",
     "thumbnail": ""
   },
   {
@@ -215,7 +215,7 @@
     "date": "2 weeks ago",
     "category": "Fed Policy",
     "featured": false,
-    "source": "Federal Reserve Board (.gov)",
+    "source": "Federal Reserve (.gov)",
     "articleSlug": "the-fed-april-28-29-2026-fomc-meeting",
     "thumbnail": ""
   },
@@ -243,13 +243,13 @@
   },
   {
     "id": 22,
-    "headline": "Data I/O Q1 2026 & M&A Announcement Earnings Call Transcript",
-    "excerpt": "Data I/O announced their Q1 2026 & M&A Announcement earnings on 5/15/2026. View DAIO's earnings results, press release, and conference call...",
-    "date": "6 hours ago",
+    "headline": "Cisco's stock pops 15% on surging AI orders, as company says it's cutting almost 4,000 jobs",
+    "excerpt": "Cisco's AI story has finally started resonating with Wall Street, with the stock hitting a record late last year and continuing to rally in...",
+    "date": "2 days ago",
     "category": "Earnings",
     "featured": false,
-    "source": "MarketBeat",
-    "articleSlug": "data-i-o-q1-2026-m-a-announcement-earnings-call-transcript",
+    "source": "CNBC",
+    "articleSlug": "cisco-s-stock-pops-15-on-surging-ai-orders-as-company-says-it-s-cutting-almost-4",
     "thumbnail": ""
   },
   {
@@ -267,7 +267,7 @@
     "id": 24,
     "headline": "Consumer Price Index, New York-Newark-Jersey City — April 2026",
     "excerpt": "The Consumer Price Index for All Urban Consumers (CPI-U) in the New York-Newark-Jersey City area advanced 1.0 percent in April, the U.S....",
-    "date": "3 days ago",
+    "date": "4 days ago",
     "category": "Economic Data",
     "featured": false,
     "source": "Bureau of Labor Statistics (.gov)",
@@ -298,35 +298,35 @@
   },
   {
     "id": 27,
-    "headline": "Current price of Ethereum for May 15, 2026",
-    "excerpt": "Ethereum isn't just digital money; it's a decentralized computing platform, meaning users can build and run apps on it without oversight of...",
-    "date": "12 hours ago",
+    "headline": "Bitcoin (BTC) Price Prediction 2026, 2027 – 2030: How High Will BTC Price Go?",
+    "excerpt": "Explore the latest Bitcoin price prediction 2025, BTC price forecast by institutions, and insights on how high Bitcoin will go this year.",
+    "date": "20 hours ago",
     "category": "Crypto",
     "featured": false,
-    "source": "Fortune",
-    "articleSlug": "current-price-of-ethereum-for-may-15-2026",
+    "source": "Coinpedia",
+    "articleSlug": "bitcoin-btc-price-prediction-2026-2027-2030-how-high-will-btc-price-go",
     "thumbnail": ""
   },
   {
     "id": 28,
-    "headline": "Ripple (XRP), Solana (SOL), and Ethereum (ETH) are Down as Bitcoin (BTC) Slips Below $80K",
-    "excerpt": "Crypto prices were supposed to be ripping higher today. Yesterday's CLARITY Act vote cleared the Senate Banking Committee 15-9—a bipartisan...",
-    "date": "9 hours ago",
+    "headline": "Bitcoin (BTC) Price Analysis – Daily Updates",
+    "excerpt": "Real-time technical chart analysis of Bitcoin price, daily BTC price predictions and expert's forecasts, Bitcoin's resistance and support...",
+    "date": "3 days ago",
     "category": "Crypto",
     "featured": false,
-    "source": "Yahoo Finance",
-    "articleSlug": "ripple-xrp-solana-sol-and-ethereum-eth-are-down-as-bitcoin-btc-slips-below-80k",
+    "source": "CryptoPotato",
+    "articleSlug": "bitcoin-btc-price-analysis-daily-updates",
     "thumbnail": ""
   },
   {
     "id": 29,
-    "headline": "Ripple (XRP), Solana (SOL), and Ethereum (ETH) are Down as Bitcoin (BTC) Slips Below $80K",
-    "excerpt": "Bitcoin slipped below $80K and dragged XRP, Solana, and Ethereum lower despite the CLARITY Act passing. Here's what's driving the slide.",
-    "date": "9 hours ago",
+    "headline": "Crypto Price Today: BTC Holds $80K, ETH at $2,250, XRP Hits $1.45 as HYPE Soars 20% on CLARITY Act Progress",
+    "excerpt": "Crypto prices rally as Bitcoin holds $80K, Ethereum steadies near $2250, XRP climbs, and HYPE surges after CLARITY Act progress.",
+    "date": "19 hours ago",
     "category": "Crypto",
     "featured": false,
-    "source": "24/7 Wall St.",
-    "articleSlug": "ripple-xrp-solana-sol-and-ethereum-eth-are-down-as-bitcoin-btc-slips-below-80k",
+    "source": "CoinGape",
+    "articleSlug": "crypto-price-today-btc-holds-80k-eth-at-2-250-xrp-hits-1-45-as-hype-soars-20-on-",
     "thumbnail": ""
   }
 ]
