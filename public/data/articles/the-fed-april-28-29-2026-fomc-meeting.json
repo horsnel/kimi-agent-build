@@ -3,8 +3,8 @@
   "type": "news",
   "title": "The Fed - April 28-29, 2026 FOMC Meeting",
   "slug": "the-fed-april-28-29-2026-fomc-meeting",
-  "date": "2026-05-16",
-  "displayDate": "May 16, 2026",
+  "date": "2026-05-17",
+  "displayDate": "May 17, 2026",
   "author": "Sigma Capital",
   "category": "Fed Policy",
   "tags": [
@@ -22,23 +22,23 @@
     "sourceUrl": "https://www.federalreserve.gov/monetarypolicy/fomcpresconf20260429.htm"
   },
   "readingTime": 3,
-  "updatedAt": "2026-05-16T03:32:16.243Z",
+  "updatedAt": "2026-05-17T03:50:27.895Z",
   "images": {
     "thumbnail": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "The Fed - April 28-29, 2026 FOMC Meeting"
-    },
-    "hero": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "The Fed - April 28-29, 2026 FOMC Meeting"
     },
+    "hero": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "The Fed - April 28-29, 2026 FOMC Meeting"
+    },
     "mid": {
-      "src": "/images/article_thumb_6.jpg",
+      "src": "/images/article_thumb_3.jpg",
       "alt": "The Fed - April 28-29, 2026 FOMC Meeting"
     }
   },
   "image": {
-    "src": "/images/article_thumb_6.jpg",
+    "src": "/images/article_thumb_3.jpg",
     "alt": "The Fed - April 28-29, 2026 FOMC Meeting"
   }
 }
