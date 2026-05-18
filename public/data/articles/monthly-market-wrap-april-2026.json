@@ -3,8 +3,8 @@
   "type": "news",
   "title": "Monthly Market Wrap: April 2026",
   "slug": "monthly-market-wrap-april-2026",
-  "date": "2026-05-16",
-  "displayDate": "May 16, 2026",
+  "date": "2026-05-18",
+  "displayDate": "May 18, 2026",
   "author": "Sigma Capital",
   "category": "Sector Performance",
   "tags": [
@@ -22,18 +22,18 @@
     "sourceUrl": "https://get.ycharts.com/resources/blog/monthly-market-wrap/"
   },
   "readingTime": 3,
-  "updatedAt": "2026-05-16T07:57:43.569Z",
+  "updatedAt": "2026-05-18T04:02:17.385Z",
   "images": {
     "thumbnail": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Monthly Market Wrap: April 2026"
-    },
-    "hero": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "Monthly Market Wrap: April 2026"
     },
+    "hero": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Monthly Market Wrap: April 2026"
+    },
     "mid": {
-      "src": "/images/article_thumb_2.jpg",
+      "src": "/images/article_thumb_5.jpg",
       "alt": "Monthly Market Wrap: April 2026"
     }
   },
