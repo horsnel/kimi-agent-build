@@ -1,5 +1,593 @@
 [
   {
+    "id": "3-ways-to-simplify-your-investment-portfolio-in-2026",
+    "type": "news",
+    "title": "3 Ways to Simplify Your Investment Portfolio in 2026",
+    "slug": "3-ways-to-simplify-your-investment-portfolio-in-2026",
+    "date": "2026-05-19",
+    "displayDate": "May 19, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Want to invest smart in 2026? Choose simplified investing over portfolio complexity.",
+    "excerpt": "Want to invest smart in 2026? Choose simplified investing over portfolio complexity.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "3 Ways to Simplify Your Investment Portfolio in 2026"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "5-things-to-know-before-the-stock-market-opens",
+    "type": "news",
+    "title": "5 Things to Know Before the Stock Market Opens",
+    "slug": "5-things-to-know-before-the-stock-market-opens",
+    "date": "2026-05-19",
+    "displayDate": "May 19, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Stock futures are slightly lower on Monday as investors prepare for a busy week of earnings reports and monitor developments in Iran.",
+    "excerpt": "Stock futures are slightly lower on Monday as investors prepare for a busy week of earnings reports and monitor developments in Iran.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "5 Things to Know Before the Stock Market Opens"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "bitcoin-btc-price-prediction-ibit-stays-neutral-as-btc-eyes-79-2k-cme-gap-after-",
+    "type": "news",
+    "title": "Bitcoin (BTC) Price Prediction: IBIT Stays Neutral as BTC Eyes $79.2K CME Gap After $75K Retest",
+    "slug": "bitcoin-btc-price-prediction-ibit-stays-neutral-as-btc-eyes-79-2k-cme-gap-after-",
+    "date": "2026-05-19",
+    "displayDate": "May 19, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin is trading in a tightly contested range as traders weigh weakening short-term momentum against the possibility of another recovery...",
+    "excerpt": "Bitcoin is trading in a tightly contested range as traders weigh weakening short-term momentum against the possibility of another recovery...",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Bitcoin (BTC) Price Prediction: IBIT Stays Neutral as BTC Eyes $79.2K CME Gap After $75K Retest"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "bitcoin-price-crash-below-77k-market-analysis-and-what-s-next-for-crypto-investo",
+    "type": "news",
+    "title": "Bitcoin Price Crash Below $77K: Market Analysis and What's Next for Crypto Investors",
+    "slug": "bitcoin-price-crash-below-77k-market-analysis-and-what-s-next-for-crypto-investo",
+    "date": "2026-05-19",
+    "displayDate": "May 19, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin plunged below $77K triggering $657M in liquidations. Discover the key drivers behind the crypto crash, market outlook,...",
+    "excerpt": "Bitcoin plunged below $77K triggering $657M in liquidations. Discover the key drivers behind the crypto crash, market outlook,...",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Bitcoin Price Crash Below $77K: Market Analysis and What's Next for Crypto Investors"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "cisco-s-stock-pops-15-on-surging-ai-orders-as-company-says-it-s-cutting-almost-4",
+    "type": "news",
+    "title": "Cisco's stock pops 15% on surging AI orders, as company says it's cutting almost 4,000 jobs",
+    "slug": "cisco-s-stock-pops-15-on-surging-ai-orders-as-company-says-it-s-cutting-almost-4",
+    "date": "2026-05-19",
+    "displayDate": "May 19, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Cisco's AI story has finally started resonating with Wall Street, with the stock hitting a record late last year and continuing to rally in...",
+    "excerpt": "Cisco's AI story has finally started resonating with Wall Street, with the stock hitting a record late last year and continuing to rally in...",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Cisco's stock pops 15% on surging AI orders, as company says it's cutting almost 4,000 jobs"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "consumer-price-index-new-york-newark-jersey-city-april-2026",
+    "type": "news",
+    "title": "Consumer Price Index, New York-Newark-Jersey City — April 2026",
+    "slug": "consumer-price-index-new-york-newark-jersey-city-april-2026",
+    "date": "2026-05-19",
+    "displayDate": "May 19, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Consumer Price Index for All Urban Consumers (CPI-U) in the New York-Newark-Jersey City area advanced 1.0 percent in April, the U.S....",
+    "excerpt": "The Consumer Price Index for All Urban Consumers (CPI-U) in the New York-Newark-Jersey City area advanced 1.0 percent in April, the U.S....",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Consumer Price Index, New York-Newark-Jersey City — April 2026"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "cpi-shows-inflation-accelerating-to-3-8-annually-in-april-after-weeks-of-war-in-",
+    "type": "news",
+    "title": "CPI Shows Inflation Accelerating to 3.8% Annually in April After Weeks of War in Iran",
+    "slug": "cpi-shows-inflation-accelerating-to-3-8-annually-in-april-after-weeks-of-war-in-",
+    "date": "2026-05-19",
+    "displayDate": "May 19, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Consumer prices in the United States rose at the fastest rate since May 2023 last month, as sharp increases in energy costs caused by war in...",
+    "excerpt": "Consumer prices in the United States rose at the fastest rate since May 2023 last month, as sharp increases in energy costs caused by war in...",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "CPI Shows Inflation Accelerating to 3.8% Annually in April After Weeks of War in Iran"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "current-u-s-inflation-rate-is-3-8-chart-and-why-it-matters",
+    "type": "news",
+    "title": "Current U.S. Inflation Rate Is 3.8%: Chart and Why It Matters",
+    "slug": "current-u-s-inflation-rate-is-3-8-chart-and-why-it-matters",
+    "date": "2026-05-19",
+    "displayDate": "May 19, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The consumer price index (CPI) increased 0.6% in April. Much of that increase came from rising energy prices. Anna Helhoski Written by.",
+    "excerpt": "The consumer price index (CPI) increased 0.6% in April. Much of that increase came from rising energy prices. Anna Helhoski Written by.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Current U.S. Inflation Rate Is 3.8%: Chart and Why It Matters"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "earnings-calendar-and-analysis-for-this-week-may-18-22",
+    "type": "news",
+    "title": "Earnings Calendar and Analysis for This Week (May 18-22)",
+    "slug": "earnings-calendar-and-analysis-for-this-week-may-18-22",
+    "date": "2026-05-19",
+    "displayDate": "May 19, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Below is a weekly earnings calendar of the most important upcoming quarterly reports scheduled to be released by publicly traded companies.",
+    "excerpt": "Below is a weekly earnings calendar of the most important upcoming quarterly reports scheduled to be released by publicly traded companies.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Earnings Calendar and Analysis for This Week (May 18-22)"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "economic-letter-from-asia-after-the-summit",
+    "type": "news",
+    "title": "Economic Letter from Asia: After the Summit",
+    "slug": "economic-letter-from-asia-after-the-summit",
+    "date": "2026-05-19",
+    "displayDate": "May 19, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "In this week's Letter, we review the key outcomes from last week's US–China summit, which, while largely symbolic as a reset in bilateral...",
+    "excerpt": "In this week's Letter, we review the key outcomes from last week's US–China summit, which, while largely symbolic as a reset in bilateral...",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Economic Letter from Asia: After the Summit"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "exxonmobil-announces-2025-results",
+    "type": "news",
+    "title": "ExxonMobil Announces 2025 Results",
+    "slug": "exxonmobil-announces-2025-results",
+    "date": "2026-05-19",
+    "displayDate": "May 19, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "SPRING, Texas – January 30, 2026 – Exxon Mobil Corporation today announced fourth-quarter 2025 earnings of $6.5 billion, or $1.53 per share.",
+    "excerpt": "SPRING, Texas – January 30, 2026 – Exxon Mobil Corporation today announced fourth-quarter 2025 earnings of $6.5 billion, or $1.53 per share.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "ExxonMobil Announces 2025 Results"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "federal-reserve-monetary-policy",
+    "type": "news",
+    "title": "Federal Reserve Monetary Policy",
+    "slug": "federal-reserve-monetary-policy",
+    "date": "2026-05-19",
+    "displayDate": "May 19, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Learn from U.S. Bank experts how Fed policy and interest rate moves intended to support labor markets and contain inflation could affect...",
+    "excerpt": "Learn from U.S. Bank experts how Fed policy and interest rate moves intended to support labor markets and contain inflation could affect...",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Federal Reserve Monetary Policy"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "how-the-federal-reserve-s-rate-decision-impacts-student-loan-interest-rates",
+    "type": "news",
+    "title": "How the Federal Reserve's rate decision impacts student loan interest rates",
+    "slug": "how-the-federal-reserve-s-rate-decision-impacts-student-loan-interest-rates",
+    "date": "2026-05-19",
+    "displayDate": "May 19, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "With another Federal Reserve meeting on the horizon, many borrowers are watching closely to see whether interest rates will change again.",
+    "excerpt": "With another Federal Reserve meeting on the horizon, many borrowers are watching closely to see whether interest rates will change again.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "How the Federal Reserve's rate decision impacts student loan interest rates"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "is-a-stock-market-rotation-underway-these-sectors-are-outpacing-tech-in-2026",
+    "type": "news",
+    "title": "Is a Stock Market Rotation Underway? These Sectors Are Outpacing Tech in 2026",
+    "slug": "is-a-stock-market-rotation-underway-these-sectors-are-outpacing-tech-in-2026",
+    "date": "2026-05-19",
+    "displayDate": "May 19, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "While it's only a few weeks into 2026, the latest data shows that the tables are turning in the stock market.",
+    "excerpt": "While it's only a few weeks into 2026, the latest data shows that the tables are turning in the stock market.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Is a Stock Market Rotation Underway? These Sectors Are Outpacing Tech in 2026"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "it-s-not-just-u-s-stocks-a-i-and-oil-are-moving-global-markets-too",
+    "type": "news",
+    "title": "It’s Not Just U.S. Stocks. A.I. and Oil Are Moving Global Markets, Too.",
+    "slug": "it-s-not-just-u-s-stocks-a-i-and-oil-are-moving-global-markets-too",
+    "date": "2026-05-19",
+    "displayDate": "May 19, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Artificial intelligence has been propelling financial markets around the world this year — but not the stocks that you may have expected.",
+    "excerpt": "Artificial intelligence has been propelling financial markets around the world this year — but not the stocks that you may have expected.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "It’s Not Just U.S. Stocks. A.I. and Oil Are Moving Global Markets, Too."
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "kevin-warsh-comes-into-the-fed-facing-a-big-family-fight-over-cutting-interest-r",
+    "type": "news",
+    "title": "Kevin Warsh comes into the Fed facing a big 'family fight' over cutting interest rates",
+    "slug": "kevin-warsh-comes-into-the-fed-facing-a-big-family-fight-over-cutting-interest-r",
+    "date": "2026-05-19",
+    "displayDate": "May 19, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "If new Federal Reserve Chair Kevin Warsh is still itching for a \"good family fight\" over monetary policy, he is likely to get one if he...",
+    "excerpt": "If new Federal Reserve Chair Kevin Warsh is still itching for a \"good family fight\" over monetary policy, he is likely to get one if he...",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Kevin Warsh comes into the Fed facing a big 'family fight' over cutting interest rates"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "q1-2026-earnings-call-remarks-from-our-ceo",
+    "type": "news",
+    "title": "Q1 2026 earnings call: Remarks from our CEO",
+    "slug": "q1-2026-earnings-call-remarks-from-our-ceo",
+    "date": "2026-05-19",
+    "displayDate": "May 19, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Editor's note: On today's Q1 2026 earnings call, Google and Alphabet CEO Sundar Pichai recapped a terrific start to the year, with our AI...",
+    "excerpt": "Editor's note: On today's Q1 2026 earnings call, Google and Alphabet CEO Sundar Pichai recapped a terrific start to the year, with our AI...",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Q1 2026 earnings call: Remarks from our CEO"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "rocket-lab-surges-34-in-best-day-ever-on-revenue-beat-record-setting-launch-deal",
+    "type": "news",
+    "title": "Rocket Lab surges 34% in best day ever on revenue beat, record-setting launch deal",
+    "slug": "rocket-lab-surges-34-in-best-day-ever-on-revenue-beat-record-setting-launch-deal",
+    "date": "2026-05-19",
+    "displayDate": "May 19, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Rocket Lab's shares blasted to a record high after the company topped first-quarter revenue estimates and announced its largest launch deal...",
+    "excerpt": "Rocket Lab's shares blasted to a record high after the company topped first-quarter revenue estimates and announced its largest launch deal...",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Rocket Lab surges 34% in best day ever on revenue beat, record-setting launch deal"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "shifting-paradigms-for-portfolio-construction-in-2026",
+    "type": "news",
+    "title": "Shifting Paradigms for Portfolio Construction in 2026",
+    "slug": "shifting-paradigms-for-portfolio-construction-in-2026",
+    "date": "2026-05-19",
+    "displayDate": "May 19, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Our Investment Outlook highlights potential ways investors can unlock catalysts across public and private markets.",
+    "excerpt": "Our Investment Outlook highlights potential ways investors can unlock catalysts across public and private markets.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Shifting Paradigms for Portfolio Construction in 2026"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "stay-informed-about-the-most-active-stocks-in-the-s-p500-index-on-monday-s-sessi",
+    "type": "news",
+    "title": "Stay informed about the most active stocks in the S&P500 index on Monday's session.",
+    "slug": "stay-informed-about-the-most-active-stocks-in-the-s-p500-index-on-monday-s-sessi",
+    "date": "2026-05-19",
+    "displayDate": "May 19, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Let's have a look at what is happening on the US markets on Monday. Below you can find the most active S&P500 stocks in today's session.",
+    "excerpt": "Let's have a look at what is happening on the US markets on Monday. Below you can find the most active S&P500 stocks in today's session.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Stay informed about the most active stocks in the S&P500 index on Monday's session."
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "stock-market-today-stock-market-news-and-analysis",
+    "type": "news",
+    "title": "Stock Market Today: Stock Market News And Analysis",
+    "slug": "stock-market-today-stock-market-news-and-analysis",
+    "date": "2026-05-19",
+    "displayDate": "May 19, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Stock Market Today highlights the latest stock market news and analysis. Updated throughout each session, it also include stock futures.",
+    "excerpt": "Stock Market Today highlights the latest stock market news and analysis. Updated throughout each session, it also include stock futures.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Stock Market Today: Stock Market News And Analysis"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "stocks-mostly-ease-with-tech-shares-while-oil-prices-climb-to-two-week-high",
+    "type": "news",
+    "title": "Stocks mostly ease with tech shares while oil prices climb to two-week high",
+    "slug": "stocks-mostly-ease-with-tech-shares-while-oil-prices-climb-to-two-week-high",
+    "date": "2026-05-19",
+    "displayDate": "May 19, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Major stock indexes mostly eased as technology shares fell on Monday, while Brent oil prices climbed to a two-week high as ​investors...",
+    "excerpt": "Major stock indexes mostly eased as technology shares fell on Monday, while Brent oil prices climbed to a two-week high as ​investors...",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Stocks mostly ease with tech shares while oil prices climb to two-week high"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "the-weekly-bottom-line",
+    "type": "news",
+    "title": "The Weekly Bottom Line",
+    "slug": "the-weekly-bottom-line",
+    "date": "2026-05-19",
+    "displayDate": "May 19, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Category: Canada · Download. Share: Canadian Highlights. March wholesale and manufacturing data point to a stabilizing goods sector,...",
+    "excerpt": "Category: Canada · Download. Share: Canadian Highlights. March wholesale and manufacturing data point to a stabilizing goods sector,...",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "The Weekly Bottom Line"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "wall-st-week-ahead-industrial-sector-s-gains-to-be-tested-as-earnings-ramp-up",
+    "type": "news",
+    "title": "Wall St Week Ahead: Industrial sector's gains to be tested as earnings ramp up",
+    "slug": "wall-st-week-ahead-industrial-sector-s-gains-to-be-tested-as-earnings-ramp-up",
+    "date": "2026-05-19",
+    "displayDate": "May 19, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The industrial sector has led the way for U.S. equities during a topsy-turvy year on Wall Street, but its strength will be tested as...",
+    "excerpt": "The industrial sector has led the way for U.S. equities during a topsy-turvy year on Wall Street, but its strength will be tested as...",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Wall St Week Ahead: Industrial sector's gains to be tested as earnings ramp up"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "weekly-market-commentary",
+    "type": "news",
+    "title": "Weekly market commentary",
+    "slug": "weekly-market-commentary",
+    "date": "2026-05-19",
+    "displayDate": "May 19, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Stay tuned for insights on hot topics and latest trends in the financial market via the Weekly commentary by the BlackRock Investment...",
+    "excerpt": "Stay tuned for insights on hot topics and latest trends in the financial market via the Weekly commentary by the BlackRock Investment...",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Weekly market commentary"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "weekly-market-update-tech-stocks-lead-market-lower-basic-materials-gain",
+    "type": "news",
+    "title": "Weekly Market Update: Tech Stocks Lead Market Lower, Basic Materials Gain",
+    "slug": "weekly-market-update-tech-stocks-lead-market-lower-basic-materials-gain",
+    "date": "2026-05-19",
+    "displayDate": "May 19, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Morningstar US Market Index fell 0.55%. The best-performing sectors were basic materials, up 3.06%, and financial services, up 2.38%.",
+    "excerpt": "The Morningstar US Market Index fell 0.55%. The best-performing sectors were basic materials, up 3.06%, and financial services, up 2.38%.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Weekly Market Update: Tech Stocks Lead Market Lower, Basic Materials Gain"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "what-to-look-out-for-in-economic-data-this-week-may-18-22",
+    "type": "news",
+    "title": "What to Look Out for in Economic Data This Week (May 18-22)",
+    "slug": "what-to-look-out-for-in-economic-data-this-week-may-18-22",
+    "date": "2026-05-19",
+    "displayDate": "May 19, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "An interesting week for economic data includes the release of the minutes from Jerome Powell's final FOMC meeting as Fed chair.",
+    "excerpt": "An interesting week for economic data includes the release of the minutes from Jerome Powell's final FOMC meeting as Fed chair.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "What to Look Out for in Economic Data This Week (May 18-22)"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "why-is-crypto-going-down-bitcoin-xrp-price-ethereum-and-dogecoin-fall-for-4th-st",
+    "type": "news",
+    "title": "Why Is Crypto Going Down? Bitcoin, XRP Price , Ethereum and Dogecoin Fall for 4th Straight Session",
+    "slug": "why-is-crypto-going-down-bitcoin-xrp-price-ethereum-and-dogecoin-fall-for-4th-st",
+    "date": "2026-05-19",
+    "displayDate": "May 19, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin (BTC) traded at $76,959 on Monday, May 18, 2026, down 1.37% as the world's largest cryptocurrency tested its 50-day exponential...",
+    "excerpt": "Bitcoin (BTC) traded at $76,959 on Monday, May 18, 2026, down 1.37% as the world's largest cryptocurrency tested its 50-day exponential...",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Why Is Crypto Going Down? Bitcoin, XRP Price , Ethereum and Dogecoin Fall for 4th Straight Session"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "10-day-trading-tips-for-beginners-getting-started",
     "type": "news",
     "title": "10 Day Trading Tips for Beginners Getting Started",
@@ -42,27 +630,6 @@
     "readingTime": 3
   },
   {
-    "id": "3-ways-to-simplify-your-investment-portfolio-in-2026",
-    "type": "news",
-    "title": "3 Ways to Simplify Your Investment Portfolio in 2026",
-    "slug": "3-ways-to-simplify-your-investment-portfolio-in-2026",
-    "date": "2026-05-18",
-    "displayDate": "May 18, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Want to invest smart in 2026? Choose simplified investing over portfolio complexity.",
-    "excerpt": "Want to invest smart in 2026? Choose simplified investing over portfolio complexity.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "3 Ways to Simplify Your Investment Portfolio in 2026"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "5-000-in-xrp-vs-5-000-in-ethereum-which-returns-more-by-2028",
     "type": "news",
     "title": "$5,000 in XRP vs $5,000 in Ethereum: Which Returns More by 2028?",
@@ -80,27 +647,6 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "$5,000 in XRP vs $5,000 in Ethereum: Which Returns More by 2028?"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "5-things-to-know-before-the-stock-market-opens",
-    "type": "news",
-    "title": "5 Things to Know Before the Stock Market Opens",
-    "slug": "5-things-to-know-before-the-stock-market-opens",
-    "date": "2026-05-18",
-    "displayDate": "May 18, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Stock futures are slightly lower on Monday as investors prepare for a busy week of earnings reports and monitor developments in Iran.",
-    "excerpt": "Stock futures are slightly lower on Monday as investors prepare for a busy week of earnings reports and monitor developments in Iran.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "5 Things to Know Before the Stock Market Opens"
     },
     "readingTime": 3
   },
@@ -252,48 +798,6 @@
     "readingTime": 3
   },
   {
-    "id": "cisco-s-stock-pops-15-on-surging-ai-orders-as-company-says-it-s-cutting-almost-4",
-    "type": "news",
-    "title": "Cisco's stock pops 15% on surging AI orders, as company says it's cutting almost 4,000 jobs",
-    "slug": "cisco-s-stock-pops-15-on-surging-ai-orders-as-company-says-it-s-cutting-almost-4",
-    "date": "2026-05-18",
-    "displayDate": "May 18, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Cisco's AI story has finally started resonating with Wall Street, with the stock hitting a record late last year and continuing to rally in...",
-    "excerpt": "Cisco's AI story has finally started resonating with Wall Street, with the stock hitting a record late last year and continuing to rally in...",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Cisco's stock pops 15% on surging AI orders, as company says it's cutting almost 4,000 jobs"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "consumer-price-index-new-york-newark-jersey-city-april-2026",
-    "type": "news",
-    "title": "Consumer Price Index, New York-Newark-Jersey City — April 2026",
-    "slug": "consumer-price-index-new-york-newark-jersey-city-april-2026",
-    "date": "2026-05-18",
-    "displayDate": "May 18, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Consumer Price Index for All Urban Consumers (CPI-U) in the New York-Newark-Jersey City area advanced 1.0 percent in April, the U.S....",
-    "excerpt": "The Consumer Price Index for All Urban Consumers (CPI-U) in the New York-Newark-Jersey City area advanced 1.0 percent in April, the U.S....",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Consumer Price Index, New York-Newark-Jersey City — April 2026"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "consumer-prices-rose-3-8-annually-in-april-the-highest-since-may-2023",
     "type": "news",
     "title": "Consumer prices rose 3.8% annually in April, the highest since May 2023",
@@ -378,27 +882,6 @@
     "readingTime": 3
   },
   {
-    "id": "current-u-s-inflation-rate-is-3-8-chart-and-why-it-matters",
-    "type": "news",
-    "title": "Current U.S. Inflation Rate Is 3.8%: Chart and Why It Matters",
-    "slug": "current-u-s-inflation-rate-is-3-8-chart-and-why-it-matters",
-    "date": "2026-05-18",
-    "displayDate": "May 18, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The consumer price index (CPI) increased 0.6% in April. Much of that increase came from rising energy prices. Anna Helhoski Written by.",
-    "excerpt": "The consumer price index (CPI) increased 0.6% in April. Much of that increase came from rising energy prices. Anna Helhoski Written by.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Current U.S. Inflation Rate Is 3.8%: Chart and Why It Matters"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "earnings-calendar-analyst-estimates-and-stocks-to-watch",
     "type": "news",
     "title": "Earnings Calendar, Analyst Estimates And Stocks To Watch",
@@ -416,90 +899,6 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "Earnings Calendar, Analyst Estimates And Stocks To Watch"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "earnings-calendar-and-analysis-for-this-week-may-18-22",
-    "type": "news",
-    "title": "Earnings Calendar and Analysis for This Week (May 18-22)",
-    "slug": "earnings-calendar-and-analysis-for-this-week-may-18-22",
-    "date": "2026-05-18",
-    "displayDate": "May 18, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Below is a weekly earnings calendar of the most important upcoming quarterly reports scheduled to be released by publicly traded companies.",
-    "excerpt": "Below is a weekly earnings calendar of the most important upcoming quarterly reports scheduled to be released by publicly traded companies.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Earnings Calendar and Analysis for This Week (May 18-22)"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "economic-letter-from-asia-after-the-summit",
-    "type": "news",
-    "title": "Economic Letter from Asia: After the Summit",
-    "slug": "economic-letter-from-asia-after-the-summit",
-    "date": "2026-05-18",
-    "displayDate": "May 18, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "In this week's Letter, we review the key outcomes from last week's US–China summit, which, while largely symbolic as a reset in bilateral...",
-    "excerpt": "In this week's Letter, we review the key outcomes from last week's US–China summit, which, while largely symbolic as a reset in bilateral...",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Economic Letter from Asia: After the Summit"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "exxonmobil-announces-2025-results",
-    "type": "news",
-    "title": "ExxonMobil Announces 2025 Results",
-    "slug": "exxonmobil-announces-2025-results",
-    "date": "2026-05-18",
-    "displayDate": "May 18, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "SPRING, Texas – January 30, 2026 – Exxon Mobil Corporation today announced fourth-quarter 2025 earnings of $6.5 billion, or $1.53 per share.",
-    "excerpt": "SPRING, Texas – January 30, 2026 – Exxon Mobil Corporation today announced fourth-quarter 2025 earnings of $6.5 billion, or $1.53 per share.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "ExxonMobil Announces 2025 Results"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "federal-reserve-monetary-policy",
-    "type": "news",
-    "title": "Federal Reserve Monetary Policy",
-    "slug": "federal-reserve-monetary-policy",
-    "date": "2026-05-18",
-    "displayDate": "May 18, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Learn from U.S. Bank experts how Fed policy and interest rate moves intended to support labor markets and contain inflation could affect...",
-    "excerpt": "Learn from U.S. Bank experts how Fed policy and interest rate moves intended to support labor markets and contain inflation could affect...",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Federal Reserve Monetary Policy"
     },
     "readingTime": 3
   },
@@ -672,27 +1071,6 @@
     "readingTime": 3
   },
   {
-    "id": "how-the-federal-reserve-s-rate-decision-impacts-student-loan-interest-rates",
-    "type": "news",
-    "title": "How the Federal Reserve's rate decision impacts student loan interest rates",
-    "slug": "how-the-federal-reserve-s-rate-decision-impacts-student-loan-interest-rates",
-    "date": "2026-05-18",
-    "displayDate": "May 18, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "With another Federal Reserve meeting on the horizon, many borrowers are watching closely to see whether interest rates will change again.",
-    "excerpt": "With another Federal Reserve meeting on the horizon, many borrowers are watching closely to see whether interest rates will change again.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "How the Federal Reserve's rate decision impacts student loan interest rates"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "in-other-news-big-tech-vs-canada-encryption-bill-cisco-s-free-ai-security-spec-a",
     "type": "news",
     "title": "In Other News: Big Tech vs Canada Encryption Bill, Cisco’s Free AI Security Spec, Audi App Flaws",
@@ -798,27 +1176,6 @@
     "readingTime": 3
   },
   {
-    "id": "kevin-warsh-comes-into-the-fed-facing-a-big-family-fight-over-cutting-interest-r",
-    "type": "news",
-    "title": "Kevin Warsh comes into the Fed facing a big 'family fight' over cutting interest rates",
-    "slug": "kevin-warsh-comes-into-the-fed-facing-a-big-family-fight-over-cutting-interest-r",
-    "date": "2026-05-18",
-    "displayDate": "May 18, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "If new Federal Reserve Chair Kevin Warsh is still itching for a \"good family fight\" over monetary policy, he is likely to get one if he...",
-    "excerpt": "If new Federal Reserve Chair Kevin Warsh is still itching for a \"good family fight\" over monetary policy, he is likely to get one if he...",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Kevin Warsh comes into the Fed facing a big 'family fight' over cutting interest rates"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "march-2026-investment-strategy-best-sectors-market-trends",
     "type": "news",
     "title": "March 2026 Investment Strategy: Best Sectors & Market Trends",
@@ -882,27 +1239,6 @@
     "readingTime": 3
   },
   {
-    "id": "q1-2026-earnings-call-remarks-from-our-ceo",
-    "type": "news",
-    "title": "Q1 2026 earnings call: Remarks from our CEO",
-    "slug": "q1-2026-earnings-call-remarks-from-our-ceo",
-    "date": "2026-05-18",
-    "displayDate": "May 18, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Editor's note: On today's Q1 2026 earnings call, Google and Alphabet CEO Sundar Pichai recapped a terrific start to the year, with our AI...",
-    "excerpt": "Editor's note: On today's Q1 2026 earnings call, Google and Alphabet CEO Sundar Pichai recapped a terrific start to the year, with our AI...",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Q1 2026 earnings call: Remarks from our CEO"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "revisiting-professional-forecasters-past-performance-and-the-outlook-for-2026",
     "type": "news",
     "title": "Revisiting Professional Forecasters’ Past Performance and the Outlook for 2026",
@@ -920,27 +1256,6 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "Revisiting Professional Forecasters’ Past Performance and the Outlook for 2026"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "rocket-lab-surges-34-in-best-day-ever-on-revenue-beat-record-setting-launch-deal",
-    "type": "news",
-    "title": "Rocket Lab surges 34% in best day ever on revenue beat, record-setting launch deal",
-    "slug": "rocket-lab-surges-34-in-best-day-ever-on-revenue-beat-record-setting-launch-deal",
-    "date": "2026-05-18",
-    "displayDate": "May 18, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Rocket Lab's shares blasted to a record high after the company topped first-quarter revenue estimates and announced its largest launch deal...",
-    "excerpt": "Rocket Lab's shares blasted to a record high after the company topped first-quarter revenue estimates and announced its largest launch deal...",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Rocket Lab surges 34% in best day ever on revenue beat, record-setting launch deal"
     },
     "readingTime": 3
   },
@@ -987,27 +1302,6 @@
     "readingTime": 3
   },
   {
-    "id": "shifting-paradigms-for-portfolio-construction-in-2026",
-    "type": "news",
-    "title": "Shifting Paradigms for Portfolio Construction in 2026",
-    "slug": "shifting-paradigms-for-portfolio-construction-in-2026",
-    "date": "2026-05-18",
-    "displayDate": "May 18, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Our Investment Outlook highlights potential ways investors can unlock catalysts across public and private markets.",
-    "excerpt": "Our Investment Outlook highlights potential ways investors can unlock catalysts across public and private markets.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Shifting Paradigms for Portfolio Construction in 2026"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "stock-market-today-mar-4-u-s-and-european-stocks-rise-despite-asia-market-meltdo",
     "type": "news",
     "title": "Stock Market Today, Mar. 4: U.S. and European stocks rise despite Asia market meltdown",
@@ -1025,27 +1319,6 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "Stock Market Today, Mar. 4: U.S. and European stocks rise despite Asia market meltdown"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "stock-market-today-stock-market-news-and-analysis",
-    "type": "news",
-    "title": "Stock Market Today: Stock Market News And Analysis",
-    "slug": "stock-market-today-stock-market-news-and-analysis",
-    "date": "2026-05-18",
-    "displayDate": "May 18, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Stock Market Today column highlights the latest stock market news and alerts you to any changes in market trend. You'll also get ongoing analysis of the...",
-    "excerpt": "The Stock Market Today column highlights the latest stock market news and alerts you to any changes in market trend. You'll also get ongoing analysis of the...",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Stock Market Today: Stock Market News And Analysis"
     },
     "readingTime": 3
   },
@@ -1172,27 +1445,6 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "The Odds Are Changing: Investing in 2026"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "the-weekly-bottom-line",
-    "type": "news",
-    "title": "The Weekly Bottom Line",
-    "slug": "the-weekly-bottom-line",
-    "date": "2026-05-18",
-    "displayDate": "May 18, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Category: Canada · Download. Share: Canadian Highlights. March wholesale and manufacturing data point to a stabilizing goods sector,...",
-    "excerpt": "Category: Canada · Download. Share: Canadian Highlights. March wholesale and manufacturing data point to a stabilizing goods sector,...",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "The Weekly Bottom Line"
     },
     "readingTime": 3
   },
@@ -1382,27 +1634,6 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "What to Consider When You’re Considering Alternative Investments"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "what-to-look-out-for-in-economic-data-this-week-may-18-22",
-    "type": "news",
-    "title": "What to Look Out for in Economic Data This Week (May 18-22)",
-    "slug": "what-to-look-out-for-in-economic-data-this-week-may-18-22",
-    "date": "2026-05-18",
-    "displayDate": "May 18, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "An interesting week for economic data includes the release of the minutes from Jerome Powell's final FOMC meeting as Fed chair.",
-    "excerpt": "An interesting week for economic data includes the release of the minutes from Jerome Powell's final FOMC meeting as Fed chair.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "What to Look Out for in Economic Data This Week (May 18-22)"
     },
     "readingTime": 3
   },
@@ -1634,27 +1865,6 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "Bitcoin Price Prediction 2026-2031: Will BTC Hit $85K Next?"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "cpi-shows-inflation-accelerating-to-3-8-annually-in-april-after-weeks-of-war-in-",
-    "type": "news",
-    "title": "CPI Shows Inflation Accelerating to 3.8% Annually in April After Weeks of War in Iran",
-    "slug": "cpi-shows-inflation-accelerating-to-3-8-annually-in-april-after-weeks-of-war-in-",
-    "date": "2026-05-17",
-    "displayDate": "May 17, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Consumer prices in the United States rose at the fastest rate since May 2023 last month, as sharp increases in energy costs caused by war in...",
-    "excerpt": "Consumer prices in the United States rose at the fastest rate since May 2023 last month, as sharp increases in energy costs caused by war in...",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "CPI Shows Inflation Accelerating to 3.8% Annually in April After Weeks of War in Iran"
     },
     "readingTime": 3
   },
@@ -1953,48 +2163,6 @@
     "readingTime": 3
   },
   {
-    "id": "wall-st-week-ahead-industrial-sector-s-gains-to-be-tested-as-earnings-ramp-up",
-    "type": "news",
-    "title": "Wall St Week Ahead: Industrial sector's gains to be tested as earnings ramp up",
-    "slug": "wall-st-week-ahead-industrial-sector-s-gains-to-be-tested-as-earnings-ramp-up",
-    "date": "2026-05-17",
-    "displayDate": "May 17, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The industrial sector has led the way for U.S. equities during a topsy-turvy year on Wall Street, but its strength will be tested as...",
-    "excerpt": "The industrial sector has led the way for U.S. equities during a topsy-turvy year on Wall Street, but its strength will be tested as...",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Wall St Week Ahead: Industrial sector's gains to be tested as earnings ramp up"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "weekly-market-commentary",
-    "type": "news",
-    "title": "Weekly market commentary",
-    "slug": "weekly-market-commentary",
-    "date": "2026-05-17",
-    "displayDate": "May 17, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Stay tuned for insights on hot topics and latest trends in the financial market via the Weekly commentary by the BlackRock Investment...",
-    "excerpt": "Stay tuned for insights on hot topics and latest trends in the financial market via the Weekly commentary by the BlackRock Investment...",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Weekly market commentary"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "weekly-market-update-stocks-remain-flat-as-consumer-defensives-rise-and-financia",
     "type": "news",
     "title": "Weekly Market Update: Stocks Remain Flat as Consumer Defensives Rise and Financial Services Fall",
@@ -2012,27 +2180,6 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "Weekly Market Update: Stocks Remain Flat as Consumer Defensives Rise and Financial Services Fall"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "weekly-market-update-tech-stocks-lead-market-lower-basic-materials-gain",
-    "type": "news",
-    "title": "Weekly Market Update: Tech Stocks Lead Market Lower, Basic Materials Gain",
-    "slug": "weekly-market-update-tech-stocks-lead-market-lower-basic-materials-gain",
-    "date": "2026-05-17",
-    "displayDate": "May 17, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Morningstar US Market Index fell 0.55%. The best-performing sectors were basic materials, up 3.06%, and financial services, up 2.38%.",
-    "excerpt": "The Morningstar US Market Index fell 0.55%. The best-performing sectors were basic materials, up 3.06%, and financial services, up 2.38%.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Weekly Market Update: Tech Stocks Lead Market Lower, Basic Materials Gain"
     },
     "readingTime": 3
   },
@@ -2327,27 +2474,6 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "How much sway will new Fed Chair Kevin Warsh really have over interest rates?"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "is-a-stock-market-rotation-underway-these-sectors-are-outpacing-tech-in-2026",
-    "type": "news",
-    "title": "Is a Stock Market Rotation Underway? These Sectors Are Outpacing Tech in 2026",
-    "slug": "is-a-stock-market-rotation-underway-these-sectors-are-outpacing-tech-in-2026",
-    "date": "2026-05-16",
-    "displayDate": "May 16, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "While it's only a few weeks into 2026, the latest data shows that the tables are turning in the stock market.",
-    "excerpt": "While it's only a few weeks into 2026, the latest data shows that the tables are turning in the stock market.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Is a Stock Market Rotation Underway? These Sectors Are Outpacing Tech in 2026"
     },
     "readingTime": 3
   },
