@@ -3,8 +3,8 @@
   "type": "news",
   "title": "How Is the Economy Doing Right Now?",
   "slug": "how-is-the-economy-doing-right-now",
-  "date": "2026-05-18",
-  "displayDate": "May 18, 2026",
+  "date": "2026-05-19",
+  "displayDate": "May 19, 2026",
   "author": "Sigma Capital",
   "category": "Economic Indicators",
   "tags": [
@@ -22,23 +22,23 @@
     "sourceUrl": "https://www.nerdwallet.com/finance/learn/state-of-the-economy"
   },
   "readingTime": 3,
-  "updatedAt": "2026-05-18T04:02:17.385Z",
+  "updatedAt": "2026-05-19T15:32:36.260Z",
   "images": {
     "thumbnail": {
-      "src": "/images/article_thumb_2.jpg",
+      "src": "/images/article_thumb_6.jpg",
       "alt": "How Is the Economy Doing Right Now?"
     },
     "hero": {
-      "src": "/images/article_thumb_5.jpg",
+      "src": "/images/article_thumb_2.jpg",
       "alt": "How Is the Economy Doing Right Now?"
     },
     "mid": {
-      "src": "/images/article_thumb_1.jpg",
+      "src": "/images/article_thumb_5.jpg",
       "alt": "How Is the Economy Doing Right Now?"
     }
   },
   "image": {
-    "src": "/images/article_thumb_1.jpg",
+    "src": "/images/article_thumb_5.jpg",
     "alt": "How Is the Economy Doing Right Now?"
   }
 }
