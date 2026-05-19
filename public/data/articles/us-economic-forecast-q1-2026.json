@@ -3,12 +3,12 @@
   "type": "news",
   "title": "US Economic Forecast Q1 2026",
   "slug": "us-economic-forecast-q1-2026",
-  "date": "2026-05-18",
-  "displayDate": "May 18, 2026",
+  "date": "2026-05-19",
+  "displayDate": "May 19, 2026",
   "author": "Sigma Capital",
-  "category": "Economic Indicators",
+  "category": "Economic Data",
   "tags": [
-    "economic indicators",
+    "economic data",
     "financial news",
     "market update"
   ],
@@ -22,10 +22,10 @@
     "sourceUrl": "https://www.deloitte.com/us/en/insights/topics/economy/us-economic-forecast/united-states-outlook-analysis.html"
   },
   "readingTime": 3,
-  "updatedAt": "2026-05-18T04:02:17.385Z",
+  "updatedAt": "2026-05-19T09:35:01.577Z",
   "images": {
     "thumbnail": {
-      "src": "/images/article_thumb_1.jpg",
+      "src": "/images/article_thumb_5.jpg",
       "alt": "US Economic Forecast Q1 2026"
     },
     "hero": {
@@ -33,7 +33,7 @@
       "alt": "US Economic Forecast Q1 2026"
     },
     "mid": {
-      "src": "/images/article_thumb_3.jpg",
+      "src": "/images/article_thumb_2.jpg",
       "alt": "US Economic Forecast Q1 2026"
     }
   },
