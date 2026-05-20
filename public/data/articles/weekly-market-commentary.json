@@ -3,29 +3,29 @@
   "type": "news",
   "title": "Weekly market commentary",
   "slug": "weekly-market-commentary",
-  "date": "2026-05-19",
-  "displayDate": "May 19, 2026",
+  "date": "2026-05-20",
+  "displayDate": "May 20, 2026",
   "author": "Sigma Capital",
-  "category": "Market Analysis",
+  "category": "Global Markets",
   "tags": [
-    "market analysis",
+    "global markets",
     "financial news",
     "market update"
   ],
-  "metaDescription": "Stay tuned for insights on hot topics and latest trends in the financial market via the Weekly commentary by the BlackRock Investment...",
-  "excerpt": "Stay tuned for insights on hot topics and latest trends in the financial market via the Weekly commentary by the BlackRock Investment...",
+  "metaDescription": "AI-driven earnings upgrades lead us to upgrade DM equities on a strategic basis. We downgrade high yield as we prefer taking growth risk...",
+  "excerpt": "AI-driven earnings upgrades lead us to upgrade DM equities on a strategic basis. We downgrade high yield as we prefer taking growth risk...",
   "content": {
-    "introduction": "Stay tuned for insights on hot topics and latest trends in the financial market via the Weekly commentary by the BlackRock Investment...",
+    "introduction": "AI-driven earnings upgrades lead us to upgrade DM equities on a strategic basis. We downgrade high yield as we prefer taking growth risk...",
     "body": [],
     "keyTakeaways": [],
     "source": "www.blackrock.com",
     "sourceUrl": "https://www.blackrock.com/us/individual/insights/blackrock-investment-institute/weekly-commentary"
   },
   "readingTime": 3,
-  "updatedAt": "2026-05-19T03:56:13.217Z",
+  "updatedAt": "2026-05-20T03:56:39.378Z",
   "images": {
     "thumbnail": {
-      "src": "/images/article_thumb_4.jpg",
+      "src": "/images/article_thumb_5.jpg",
       "alt": "Weekly market commentary"
     },
     "hero": {
@@ -33,12 +33,12 @@
       "alt": "Weekly market commentary"
     },
     "mid": {
-      "src": "/images/article_thumb_6.jpg",
+      "src": "/images/article_thumb_4.jpg",
       "alt": "Weekly market commentary"
     }
   },
   "image": {
-    "src": "/images/article_thumb_2.jpg",
+    "src": "/images/article_thumb_6.jpg",
     "alt": "Weekly market commentary"
   }
 }
