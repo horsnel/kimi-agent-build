@@ -1,0 +1,44 @@
+{
+  "id": "nvda-stock-quote-price-and-forecast",
+  "type": "news",
+  "title": "NVDA Stock Quote Price and Forecast",
+  "slug": "nvda-stock-quote-price-and-forecast",
+  "date": "2026-05-20",
+  "displayDate": "May 20, 2026",
+  "author": "Sigma Capital",
+  "category": "Earnings",
+  "tags": [
+    "earnings",
+    "financial news",
+    "market update"
+  ],
+  "metaDescription": "View NVIDIA Corporation NVDA stock quote prices, financial information, real-time forecasts, and company news from CNN.",
+  "excerpt": "View NVIDIA Corporation NVDA stock quote prices, financial information, real-time forecasts, and company news from CNN.",
+  "content": {
+    "introduction": "View NVIDIA Corporation NVDA stock quote prices, financial information, real-time forecasts, and company news from CNN.",
+    "body": [],
+    "keyTakeaways": [],
+    "source": "CNN",
+    "sourceUrl": "https://www.cnn.com/markets/stocks/NVDA"
+  },
+  "readingTime": 3,
+  "updatedAt": "2026-05-20T20:20:59.136Z",
+  "images": {
+    "thumbnail": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "NVDA Stock Quote Price and Forecast"
+    },
+    "hero": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "NVDA Stock Quote Price and Forecast"
+    },
+    "mid": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "NVDA Stock Quote Price and Forecast"
+    }
+  },
+  "image": {
+    "src": "/images/article_thumb_1.jpg",
+    "alt": "NVDA Stock Quote Price and Forecast"
+  }
+}

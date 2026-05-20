@@ -1,0 +1,44 @@
+{
+  "id": "monthly-retail-trade-sales-report",
+  "type": "news",
+  "title": "Monthly Retail Trade - Sales Report",
+  "slug": "monthly-retail-trade-sales-report",
+  "date": "2026-05-20",
+  "displayDate": "May 20, 2026",
+  "author": "Sigma Capital",
+  "category": "Economic Indicators",
+  "tags": [
+    "economic indicators",
+    "financial news",
+    "market update"
+  ],
+  "metaDescription": "Advance Estimates of U.S. Retail and Food Services Advance estimates of U.S. retail and food services sales for April 2026, adjusted for...",
+  "excerpt": "Advance Estimates of U.S. Retail and Food Services Advance estimates of U.S. retail and food services sales for April 2026, adjusted for...",
+  "content": {
+    "introduction": "Advance Estimates of U.S. Retail and Food Services Advance estimates of U.S. retail and food services sales for April 2026, adjusted for...",
+    "body": [],
+    "keyTakeaways": [],
+    "source": "Census.gov",
+    "sourceUrl": "https://www.census.gov/retail/sales.html"
+  },
+  "readingTime": 3,
+  "updatedAt": "2026-05-20T20:20:59.136Z",
+  "images": {
+    "thumbnail": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Monthly Retail Trade - Sales Report"
+    },
+    "hero": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Monthly Retail Trade - Sales Report"
+    },
+    "mid": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Monthly Retail Trade - Sales Report"
+    }
+  },
+  "image": {
+    "src": "/images/article_thumb_2.jpg",
+    "alt": "Monthly Retail Trade - Sales Report"
+  }
+}
