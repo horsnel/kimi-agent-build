@@ -1,0 +1,44 @@
+{
+  "id": "9am-markets-update",
+  "type": "news",
+  "title": "9am Markets Update",
+  "slug": "9am-markets-update",
+  "date": "2026-05-20",
+  "displayDate": "May 20, 2026",
+  "author": "Sigma Capital",
+  "category": "Global Markets",
+  "tags": [
+    "global markets",
+    "financial news",
+    "market update"
+  ],
+  "metaDescription": "Most European shares edged lower this morning as investors remained cautious with war-driven inflation fears pressurising bonds,...",
+  "excerpt": "Most European shares edged lower this morning as investors remained cautious with war-driven inflation fears pressurising bonds,...",
+  "content": {
+    "introduction": "Most European shares edged lower this morning as investors remained cautious with war-driven inflation fears pressurising bonds,...",
+    "body": [],
+    "keyTakeaways": [],
+    "source": "RTE.ie",
+    "sourceUrl": "https://www.rte.ie/news/markets/update/"
+  },
+  "readingTime": 3,
+  "updatedAt": "2026-05-20T15:30:58.266Z",
+  "images": {
+    "thumbnail": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "9am Markets Update"
+    },
+    "hero": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "9am Markets Update"
+    },
+    "mid": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "9am Markets Update"
+    }
+  },
+  "image": {
+    "src": "/images/article_thumb_6.jpg",
+    "alt": "9am Markets Update"
+  }
+}

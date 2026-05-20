@@ -42,6 +42,27 @@
     "readingTime": 3
   },
   {
+    "id": "9am-markets-update",
+    "type": "news",
+    "title": "9am Markets Update",
+    "slug": "9am-markets-update",
+    "date": "2026-05-20",
+    "displayDate": "May 20, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Most European shares edged lower this morning as investors remained cautious with war-driven inflation fears pressurising bonds,...",
+    "excerpt": "Most European shares edged lower this morning as investors remained cautious with war-driven inflation fears pressurising bonds,...",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "9am Markets Update"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "after-the-rate-cut-investing-beyond-u-s-markets",
     "type": "news",
     "title": "After The Rate Cut: Investing Beyond U.S. Markets",
@@ -84,6 +105,48 @@
     "readingTime": 3
   },
   {
+    "id": "asian-stock-markets-plunge-amid-trump-s-ultimatum-on-iran",
+    "type": "news",
+    "title": "Asian stock markets plunge amid Trump’s ultimatum on Iran",
+    "slug": "asian-stock-markets-plunge-amid-trump-s-ultimatum-on-iran",
+    "date": "2026-05-20",
+    "displayDate": "May 20, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Key indexes in Japan, South Korea and Hong Kong tumble as Iran threatens attacks on energy infrastructure across region.",
+    "excerpt": "Key indexes in Japan, South Korea and Hong Kong tumble as Iran threatens attacks on energy infrastructure across region.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Asian stock markets plunge amid Trump’s ultimatum on Iran"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "bank-of-america-says-an-under-the-radar-sell-signal-is-flashing-in-markets",
+    "type": "news",
+    "title": "Bank of America says an under-the-radar sell signal is flashing in markets",
+    "slug": "bank-of-america-says-an-under-the-radar-sell-signal-is-flashing-in-markets",
+    "date": "2026-05-20",
+    "displayDate": "May 20, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "BofA pointed to falling cash levels among investors, a contrarian market signal that suggests investors are overly bullish on stocks.",
+    "excerpt": "BofA pointed to falling cash levels among investors, a contrarian market signal that suggests investors are overly bullish on stocks.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Bank of America says an under-the-radar sell signal is flashing in markets"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "bitcoin-btc-price-prediction-ibit-stays-neutral-as-btc-eyes-79-2k-cme-gap-after-",
     "type": "news",
     "title": "Bitcoin (BTC) Price Prediction: IBIT Stays Neutral as BTC Eyes $79.2K CME Gap After $75K Retest",
@@ -101,6 +164,27 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "Bitcoin (BTC) Price Prediction: IBIT Stays Neutral as BTC Eyes $79.2K CME Gap After $75K Retest"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "bitcoin-price-analysis-btc-likely-bottomed-at-60k-amid-milder-bear-market-k33-re",
+    "type": "news",
+    "title": "Bitcoin price analysis: BTC likely bottomed at $60K amid milder bear market, K33 Research says",
+    "slug": "bitcoin-price-analysis-btc-likely-bottomed-at-60k-amid-milder-bear-market-k33-re",
+    "date": "2026-05-20",
+    "displayDate": "May 20, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The research firm said bitcoin traders remain unusually defensive, reducing the risk of the kind of leverage-driven collapse seen in prior...",
+    "excerpt": "The research firm said bitcoin traders remain unusually defensive, reducing the risk of the kind of leverage-driven collapse seen in prior...",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Bitcoin price analysis: BTC likely bottomed at $60K amid milder bear market, K33 Research says"
     },
     "readingTime": 3
   },
@@ -143,6 +227,27 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "CBO Releases Economic Projections From 2025 to 2028-2025-09-19"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "crypto-market-today-btc-holds-77k-eth-slips-below-2-200-xrp-consolidates-as-zcas",
+    "type": "news",
+    "title": "Crypto Market Today: BTC Holds $77K, ETH Slips Below $2,200, XRP Consolidates as Zcash Surges 5%",
+    "slug": "crypto-market-today-btc-holds-77k-eth-slips-below-2-200-xrp-consolidates-as-zcas",
+    "date": "2026-05-20",
+    "displayDate": "May 20, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Crypto market today: Bitcoin holds near $77K, Ethereum slips, XRP consolidates, Zcash surges, with Pi Network upgrade news.",
+    "excerpt": "Crypto market today: Bitcoin holds near $77K, Ethereum slips, XRP consolidates, Zcash surges, with Pi Network upgrade news.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Crypto Market Today: BTC Holds $77K, ETH Slips Below $2,200, XRP Consolidates as Zcash Surges 5%"
     },
     "readingTime": 3
   },
@@ -336,6 +441,27 @@
     "readingTime": 3
   },
   {
+    "id": "how-big-tech-took-over-the-upfronts",
+    "type": "news",
+    "title": "How Big Tech Took Over the Upfronts",
+    "slug": "how-big-tech-took-over-the-upfronts",
+    "date": "2026-05-20",
+    "displayDate": "May 20, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "YouTube, Netflix and Amazon this year seized the upfronts — and they're not about to let anyone else in.",
+    "excerpt": "YouTube, Netflix and Amazon this year seized the upfronts — and they're not about to let anyone else in.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "How Big Tech Took Over the Upfronts"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "how-does-the-average-investment-portfolio-size-for-people-in-their-30s-compare",
     "type": "news",
     "title": "How Does the Average Investment Portfolio Size for People in Their 30s Compare?",
@@ -441,6 +567,27 @@
     "readingTime": 3
   },
   {
+    "id": "it-s-reckoning-week-for-meta-employees-in-layoff-limbo",
+    "type": "news",
+    "title": "It's Reckoning Week for Meta Employees in Layoff Limbo",
+    "slug": "it-s-reckoning-week-for-meta-employees-in-layoff-limbo",
+    "date": "2026-05-20",
+    "displayDate": "May 20, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Meta employees first learned that mass layoffs were coming in an internal memo shared in April, leaving them in a state of limbo for weeks.",
+    "excerpt": "Meta employees first learned that mass layoffs were coming in an internal memo shared in April, leaving them in a state of limbo for weeks.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "It's Reckoning Week for Meta Employees in Layoff Limbo"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "march-2026-investment-strategy-best-sectors-market-trends",
     "type": "news",
     "title": "March 2026 Investment Strategy: Best Sectors & Market Trends",
@@ -458,6 +605,48 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "March 2026 Investment Strategy: Best Sectors & Market Trends"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "marks-and-spencer-group-h2-25-26-earnings-call-transcript",
+    "type": "news",
+    "title": "Marks and Spencer Group H2 25/26 Earnings Call Transcript",
+    "slug": "marks-and-spencer-group-h2-25-26-earnings-call-transcript",
+    "date": "2026-05-20",
+    "displayDate": "May 20, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Marks and Spencer Group announced their H2 25/26 earnings on 5/20/2026. View MKS' earnings results, and conference call transcript at...",
+    "excerpt": "Marks and Spencer Group announced their H2 25/26 earnings on 5/20/2026. View MKS' earnings results, and conference call transcript at...",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Marks and Spencer Group H2 25/26 Earnings Call Transcript"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "model-allocation-update-may-2026",
+    "type": "news",
+    "title": "Model Allocation Update (May 2026)",
+    "slug": "model-allocation-update-may-2026",
+    "date": "2026-05-20",
+    "displayDate": "May 20, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Defensive, diversified model portfolio update: inflation-beneficiary equities and All-Weather ETFs to navigate volatility, inflation and...",
+    "excerpt": "Defensive, diversified model portfolio update: inflation-beneficiary equities and All-Weather ETFs to navigate volatility, inflation and...",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Model Allocation Update (May 2026)"
     },
     "readingTime": 3
   },
@@ -567,6 +756,27 @@
     "readingTime": 3
   },
   {
+    "id": "stock-market-today-mar-4-u-s-and-european-stocks-rise-despite-asia-market-meltdo",
+    "type": "news",
+    "title": "Stock Market Today, Mar. 4: U.S. and European stocks rise despite Asia market meltdown",
+    "slug": "stock-market-today-mar-4-u-s-and-european-stocks-rise-despite-asia-market-meltdo",
+    "date": "2026-05-20",
+    "displayDate": "May 20, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "This live blog is refreshed periodically throughout the day with the latest updates from the market. To find the latest Stock Market Today...",
+    "excerpt": "This live blog is refreshed periodically throughout the day with the latest updates from the market. To find the latest Stock Market Today...",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Stock Market Today, Mar. 4: U.S. and European stocks rise despite Asia market meltdown"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "stock-market-today-s-p-500-nasdaq-100-futures-slip-as-inflation-fears-grip-wall-",
     "type": "news",
     "title": "Stock Market Today: S&P 500, Nasdaq 100 Futures Slip As Inflation Fears Grip Wall Street—XP, Atmos Energ",
@@ -647,6 +857,27 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "Stocks mostly ease with tech shares while oil prices climb to two-week high"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "tech-weekly-robust-earnings-propel-indexes-to-record-highs",
+    "type": "news",
+    "title": "Tech Weekly: Robust Earnings Propel Indexes to Record Highs",
+    "slug": "tech-weekly-robust-earnings-propel-indexes-to-record-highs",
+    "date": "2026-05-20",
+    "displayDate": "May 20, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Keep on top of the markets with our round-up of this week's must-know news, including updates on the top tech stocks and ETFs, plus tech...",
+    "excerpt": "Keep on top of the markets with our round-up of this week's must-know news, including updates on the top tech stocks and ETFs, plus tech...",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Tech Weekly: Robust Earnings Propel Indexes to Record Highs"
     },
     "readingTime": 3
   },
@@ -1071,27 +1302,6 @@
     "readingTime": 3
   },
   {
-    "id": "asian-stock-markets-plunge-amid-trump-s-ultimatum-on-iran",
-    "type": "news",
-    "title": "Asian stock markets plunge amid Trump’s ultimatum on Iran",
-    "slug": "asian-stock-markets-plunge-amid-trump-s-ultimatum-on-iran",
-    "date": "2026-05-19",
-    "displayDate": "May 19, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Key indexes in Japan, South Korea and Hong Kong tumble as Iran threatens attacks on energy infrastructure across region.",
-    "excerpt": "Key indexes in Japan, South Korea and Hong Kong tumble as Iran threatens attacks on energy infrastructure across region.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Asian stock markets plunge amid Trump’s ultimatum on Iran"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "big-firms-quarterly-results-may-signal-what-s-next-for-the-economy",
     "type": "news",
     "title": "Big firms’ quarterly results may signal what’s next for the economy",
@@ -1386,27 +1596,6 @@
     "readingTime": 3
   },
   {
-    "id": "how-big-tech-took-over-the-upfronts",
-    "type": "news",
-    "title": "How Big Tech Took Over the Upfronts",
-    "slug": "how-big-tech-took-over-the-upfronts",
-    "date": "2026-05-19",
-    "displayDate": "May 19, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "YouTube, Netflix and Amazon this year seized the upfronts — and they're not about to let anyone else in.",
-    "excerpt": "YouTube, Netflix and Amazon this year seized the upfronts — and they're not about to let anyone else in.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "How Big Tech Took Over the Upfronts"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "how-the-federal-reserve-s-rate-decision-impacts-student-loan-interest-rates",
     "type": "news",
     "title": "How the Federal Reserve's rate decision impacts student loan interest rates",
@@ -1613,48 +1802,6 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "Stock Market Sectors: 11 Official GICS Groups"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "stock-market-today-mar-4-u-s-and-european-stocks-rise-despite-asia-market-meltdo",
-    "type": "news",
-    "title": "Stock Market Today, Mar. 4: U.S. and European stocks rise despite Asia market meltdown",
-    "slug": "stock-market-today-mar-4-u-s-and-european-stocks-rise-despite-asia-market-meltdo",
-    "date": "2026-05-19",
-    "displayDate": "May 19, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "This live blog is refreshed periodically throughout the day with the latest updates from the market. To find the latest Stock Market Today...",
-    "excerpt": "This live blog is refreshed periodically throughout the day with the latest updates from the market. To find the latest Stock Market Today...",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Stock Market Today, Mar. 4: U.S. and European stocks rise despite Asia market meltdown"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "tech-weekly-robust-earnings-propel-indexes-to-record-highs",
-    "type": "news",
-    "title": "Tech Weekly: Robust Earnings Propel Indexes to Record Highs",
-    "slug": "tech-weekly-robust-earnings-propel-indexes-to-record-highs",
-    "date": "2026-05-19",
-    "displayDate": "May 19, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Keep on top of the markets with our round-up of this week's must-know news, including updates on the top tech stocks and ETFs, plus tech...",
-    "excerpt": "Keep on top of the markets with our round-up of this week's must-know news, including updates on the top tech stocks and ETFs, plus tech...",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Tech Weekly: Robust Earnings Propel Indexes to Record Highs"
     },
     "readingTime": 3
   },
