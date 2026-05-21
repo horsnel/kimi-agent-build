@@ -3,8 +3,8 @@
   "type": "news",
   "title": "US stocks rise, Asian markets get rocked as Middle East conflict intensifies",
   "slug": "us-stocks-rise-asian-markets-get-rocked-as-middle-east-conflict-intensifies",
-  "date": "2026-05-16",
-  "displayDate": "May 16, 2026",
+  "date": "2026-05-21",
+  "displayDate": "May 21, 2026",
   "author": "Sigma Capital",
   "category": "Global Markets",
   "tags": [
@@ -22,23 +22,23 @@
     "sourceUrl": "https://www.cnn.com/2026/03/04/investing/global-stocks-iran"
   },
   "readingTime": 3,
-  "updatedAt": "2026-05-16T03:32:16.243Z",
+  "updatedAt": "2026-05-21T15:36:30.129Z",
   "images": {
     "thumbnail": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "US stocks rise, Asian markets get rocked as Middle East conflict intensifies"
-    },
-    "hero": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "US stocks rise, Asian markets get rocked as Middle East conflict intensifies"
     },
+    "hero": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "US stocks rise, Asian markets get rocked as Middle East conflict intensifies"
+    },
     "mid": {
-      "src": "/images/article_thumb_3.jpg",
+      "src": "/images/article_thumb_1.jpg",
       "alt": "US stocks rise, Asian markets get rocked as Middle East conflict intensifies"
     }
   },
   "image": {
-    "src": "/images/article_thumb_1.jpg",
+    "src": "/images/article_thumb_4.jpg",
     "alt": "US stocks rise, Asian markets get rocked as Middle East conflict intensifies"
   }
 }
