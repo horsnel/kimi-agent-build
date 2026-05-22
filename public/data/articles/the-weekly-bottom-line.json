@@ -3,8 +3,8 @@
   "type": "news",
   "title": "The Weekly Bottom Line",
   "slug": "the-weekly-bottom-line",
-  "date": "2026-05-21",
-  "displayDate": "May 21, 2026",
+  "date": "2026-05-22",
+  "displayDate": "May 22, 2026",
   "author": "Sigma Capital",
   "category": "Economic Indicators",
   "tags": [
@@ -22,10 +22,10 @@
     "sourceUrl": "https://economics.td.com/ca-weekly-bottom-line"
   },
   "readingTime": 3,
-  "updatedAt": "2026-05-21T09:31:44.835Z",
+  "updatedAt": "2026-05-22T14:46:36.485Z",
   "images": {
     "thumbnail": {
-      "src": "/images/article_thumb_2.jpg",
+      "src": "/images/article_thumb_1.jpg",
       "alt": "The Weekly Bottom Line"
     },
     "hero": {
@@ -33,12 +33,12 @@
       "alt": "The Weekly Bottom Line"
     },
     "mid": {
-      "src": "/images/article_thumb_3.jpg",
+      "src": "/images/article_thumb_5.jpg",
       "alt": "The Weekly Bottom Line"
     }
   },
   "image": {
-    "src": "/images/article_thumb_6.jpg",
+    "src": "/images/article_thumb_2.jpg",
     "alt": "The Weekly Bottom Line"
   }
 }
