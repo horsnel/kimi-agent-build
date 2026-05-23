@@ -3,7 +3,7 @@
     "id": 0,
     "headline": "JPMorgan outlines how the S&P 500 can soar more than 20% in the next year",
     "excerpt": "The S&P 500 could rally to 9000 by mid-2027 if the AI boom ends up being larger than expected and productivity rises, JPMorgan Private Bank...",
-    "date": "23 hours ago",
+    "date": "1 day ago",
     "category": "Market Analysis",
     "featured": true,
     "source": "Business Insider",
@@ -56,20 +56,20 @@
   },
   {
     "id": 5,
-    "headline": "CHS reports second quarter fiscal year 2026 earnings",
-    "excerpt": "CHS Inc., a global agribusiness and the nation's leading cooperative, today released results for its second quarter of fiscal year 2026.",
-    "date": "1 month ago",
+    "headline": "Q4 earnings call: Remarks from our CEO",
+    "excerpt": "Editor's Note: Our Q4 results show a tremendous quarter for Alphabet. On today's 2025 Q4 earnings call, Google and Alphabet CEO Sundar...",
+    "date": "Feb 4, 2026",
     "category": "Company News",
     "featured": false,
-    "source": "CHS Inc.",
-    "articleSlug": "chs-reports-second-quarter-fiscal-year-2026-earnings",
+    "source": "blog.google",
+    "articleSlug": "q4-earnings-call-remarks-from-our-ceo",
     "thumbnail": ""
   },
   {
     "id": 6,
     "headline": "Week Ahead for FX, Bonds: U.S. PCE Data, Middle East Developments in Focus",
     "excerpt": "U.S. PCE inflation figures will likely mark the highlight among economic data due in the coming week as investors increasingly anticipate...",
-    "date": "16 hours ago",
+    "date": "21 hours ago",
     "category": "Economic Indicators",
     "featured": false,
     "source": "WSJ",
@@ -80,7 +80,7 @@
     "id": 7,
     "headline": "Economic activity and social change in the UK, real-time indicators: 21 May 2026",
     "excerpt": "Faster indicators of trends in the UK economy and society, using innovative surveys, methods and data sources. These are official statistics...",
-    "date": "1 day ago",
+    "date": "2 days ago",
     "category": "Economic Indicators",
     "featured": false,
     "source": "Office for National Statistics",
@@ -89,13 +89,13 @@
   },
   {
     "id": 8,
-    "headline": "New Economic Data Highlights the Strength and Resilience of President Trump’s Economy",
-    "excerpt": "New economic data this week delivers fresh evidence of the exceptional strength and accelerating momentum of the American economy under...",
-    "date": "3 weeks ago",
+    "headline": "The Weekly Bottom Line",
+    "excerpt": "Category: Canada · Download. Share: Canadian Highlights. March wholesale and manufacturing data point to a stabilizing goods sector,...",
+    "date": "1 week ago",
     "category": "Economic Indicators",
     "featured": false,
-    "source": "The White House (.gov)",
-    "articleSlug": "new-economic-data-highlights-the-strength-and-resilience-of-president-trump-s-ec",
+    "source": "TD Economics",
+    "articleSlug": "the-weekly-bottom-line",
     "thumbnail": ""
   },
   {
@@ -166,6 +166,17 @@
   },
   {
     "id": 15,
+    "headline": "After The Rate Cut: Investing Beyond U.S. Markets",
+    "excerpt": "This rate cut – during a slowdown, not a slump – may support global risk assets. Here are the regions we're focusing on.",
+    "date": "Sep 19, 2025",
+    "category": "Investment Strategies",
+    "featured": false,
+    "source": "J.P. Morgan",
+    "articleSlug": "after-the-rate-cut-investing-beyond-u-s-markets",
+    "thumbnail": ""
+  },
+  {
+    "id": 16,
     "headline": "10 Day Trading Tips for Beginners Getting Started",
     "excerpt": "Day trading can only be profitable in the long run when traders take it seriously and do their research. Day traders must be diligent,...",
     "date": "2 weeks ago",
@@ -176,7 +187,7 @@
     "thumbnail": ""
   },
   {
-    "id": 16,
+    "id": 17,
     "headline": "March 2026 Investment Strategy: Best Sectors & Market Trends",
     "excerpt": "When geopolitical tensions rise, investors typically move towards safe haven assets. In the current environment, that shift is becoming...",
     "date": "Mar 26, 2026",
@@ -187,47 +198,36 @@
     "thumbnail": ""
   },
   {
-    "id": 17,
-    "headline": "What Warren Buffett’s Recent Stock Moves Reveal About Market Trends Ahead",
-    "excerpt": "Warren Buffett's recent moves show that he sees stocks as overvalued and is waiting for better prices. Buffett has been quietly rotating...",
-    "date": "Dec 28, 2025",
-    "category": "Investment Strategies",
-    "featured": false,
-    "source": "Investopedia",
-    "articleSlug": "what-warren-buffett-s-recent-stock-moves-reveal-about-market-trends-ahead",
-    "thumbnail": ""
-  },
-  {
     "id": 18,
-    "headline": "Most Fed Officials Embraced Possibility of Higher Rates at Recent Meeting",
-    "excerpt": "A majority of officials at the Federal Reserve thought higher interest rates might become necessary to combat resurgent inflation,...",
+    "headline": "Federal Open Market Committee (FOMC) | History, Functions, & Members",
+    "excerpt": "Eight months out of the year, the financial market tends to get eerily quiet for two days. Then boom,...",
     "date": "2 days ago",
     "category": "Fed Policy",
     "featured": false,
-    "source": "The New York Times",
-    "articleSlug": "most-fed-officials-embraced-possibility-of-higher-rates-at-recent-meeting",
+    "source": "Britannica",
+    "articleSlug": "federal-open-market-committee-fomc-history-functions-members",
     "thumbnail": ""
   },
   {
     "id": 19,
-    "headline": "Fed officials’ concerns about inflation sparked talk of rate hike during last meeting",
-    "excerpt": "Federal Reserve officials' concerns about inflation being stoked by the Iran war intensified last month.",
+    "headline": "Fed minutes reveal inflation concerns, unease over ‘easing bias��",
+    "excerpt": "The April monetary policy meeting of the Federal Open Market Committee (FOMC) saw its most formal dissents since 1992.",
     "date": "2 days ago",
     "category": "Fed Policy",
     "featured": false,
-    "source": "NBC News",
-    "articleSlug": "fed-officials-concerns-about-inflation-sparked-talk-of-rate-hike-during-last-mee",
+    "source": "Scotsman Guide",
+    "articleSlug": "fed-minutes-reveal-inflation-concerns-unease-over-easing-bias",
     "thumbnail": ""
   },
   {
     "id": 20,
-    "headline": "Warsh takes the Fed's helm as inflation climbs, consumer sentiment dives",
-    "excerpt": "WASHINGTON, May 22 (Reuters) - Kevin Warsh was sworn in as chair of the U.S. Federal Reserve on Friday at a pivotal moment for an American...",
-    "date": "10 hours ago",
+    "headline": "The Fed - April 28-29, 2026 FOMC Meeting",
+    "excerpt": "The Federal Reserve Board of Governors in Washington DC.",
+    "date": "3 weeks ago",
     "category": "Fed Policy",
     "featured": false,
-    "source": "Reuters",
-    "articleSlug": "warsh-takes-the-fed-s-helm-as-inflation-climbs-consumer-sentiment-dives",
+    "source": "Federal Reserve (.gov)",
+    "articleSlug": "the-fed-april-28-29-2026-fomc-meeting",
     "thumbnail": ""
   },
   {
@@ -254,13 +254,13 @@
   },
   {
     "id": 23,
-    "headline": "Security firm Senstar sets May 26 call on Q1 2026 results",
-    "excerpt": "Investors can hear Senstar's Q1 2026 results live on May 26 at 9:00 a.m. ET via conference call or webcast, with a recorded replay available...",
-    "date": "9 hours ago",
+    "headline": "DMG Blockchain Solutions Inc. Announces Second Quarter 2026 Earnings Release Date and Conference Call Details",
+    "excerpt": "DMG Blockchain Solutions Inc. a vertically integrated digital asset and data center technology company, announces it will release financial...",
+    "date": "11 hours ago",
     "category": "Earnings",
     "featured": false,
-    "source": "Stock Titan",
-    "articleSlug": "security-firm-senstar-sets-may-26-call-on-q1-2026-results",
+    "source": "Investing News Network",
+    "articleSlug": "dmg-blockchain-solutions-inc-announces-second-quarter-2026-earnings-release-date",
     "thumbnail": ""
   },
   {
@@ -276,6 +276,17 @@
   },
   {
     "id": 25,
+    "headline": "US Economic Forecast Q1 2026",
+    "excerpt": "Although AI investments might support near-term economic momentum, households and non-AI businesses face major global headwinds.",
+    "date": "Mar 27, 2026",
+    "category": "Economic Data",
+    "featured": false,
+    "source": "Deloitte",
+    "articleSlug": "us-economic-forecast-q1-2026",
+    "thumbnail": ""
+  },
+  {
+    "id": 26,
     "headline": "Revisiting Professional Forecasters’ Past Performance and the Outlook for 2026",
     "excerpt": "So far, the 2025 forecasts have turned out to be rather accurate. For 2026, professional forecasters expect 1.9% GDP growth and a 2.9%...",
     "date": "Dec 18, 2025",
@@ -283,17 +294,6 @@
     "featured": false,
     "source": "Federal Reserve Bank of St. Louis",
     "articleSlug": "revisiting-professional-forecasters-past-performance-and-the-outlook-for-2026",
-    "thumbnail": ""
-  },
-  {
-    "id": 26,
-    "headline": "CBO Releases Economic Projections From 2025 to 2028-2025-09-19",
-    "excerpt": "2025-09-19-The Congressional Budget Office (CBO) recently released its updated economic projections for 2025 through 2028, updated from its.",
-    "date": "Sep 19, 2025",
-    "category": "Economic Data",
-    "featured": false,
-    "source": "Committee for a Responsible Federal Budget",
-    "articleSlug": "cbo-releases-economic-projections-from-2025-to-2028-2025-09-19",
     "thumbnail": ""
   },
   {
@@ -309,24 +309,24 @@
   },
   {
     "id": 28,
-    "headline": "Michael Saylor Explains Why Bitcoin Isn’t Rallying as APEMARS Emerges as the Best Crypto to Buy Today With 15 Days Left",
-    "excerpt": "Crypto traders are once again shifting into speculation mode after comments from Michael Saylor reignited debate around Bitcoin's short-term...",
-    "date": "11 hours ago",
+    "headline": "Bitcoin & Altcoins Crash Today—Here’s What Triggered the Sudden Crypto Market Sell-Off",
+    "excerpt": "The Bitcoin price is experiencing significant selling pressure as it drops to the crucial support level close to $75,500 aas the crypto...",
+    "date": "7 hours ago",
     "category": "Crypto",
     "featured": false,
-    "source": "StreetInsider",
-    "articleSlug": "michael-saylor-explains-why-bitcoin-isn-t-rallying-as-apemars-emerges-as-the-bes",
+    "source": "Coinpedia",
+    "articleSlug": "bitcoin-altcoins-crash-today-here-s-what-triggered-the-sudden-crypto-market-sell",
     "thumbnail": ""
   },
   {
     "id": 29,
-    "headline": "Why Is The Crypto Market Down Today?",
-    "excerpt": "Oil rally and US-Iran tensions triggered long liquidations and the broad sell-off. Bitcoin tests $76,010 support; a break opens downside as...",
-    "date": "5 days ago",
+    "headline": "Bitcoin Price Prediction 2026: Can BTC Reach $150,000? Expert Analysis and Market Outlook",
+    "excerpt": "Expert Bitcoin price prediction for 2026: Analysis of BTC potential to hit $80K-$150K, institutional adoption trends, ETF flows,...",
+    "date": "2 hours ago",
     "category": "Crypto",
     "featured": false,
-    "source": "BeInCrypto",
-    "articleSlug": "why-is-the-crypto-market-down-today",
+    "source": "Intellectia AI",
+    "articleSlug": "bitcoin-price-prediction-2026-can-btc-reach-150-000-expert-analysis-and-market-o",
     "thumbnail": ""
   }
 ]
