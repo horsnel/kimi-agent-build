@@ -3,8 +3,8 @@
   "type": "news",
   "title": "Monthly Retail Trade - Sales Report",
   "slug": "monthly-retail-trade-sales-report",
-  "date": "2026-05-20",
-  "displayDate": "May 20, 2026",
+  "date": "2026-05-24",
+  "displayDate": "May 24, 2026",
   "author": "Sigma Capital",
   "category": "Economic Indicators",
   "tags": [
@@ -22,23 +22,23 @@
     "sourceUrl": "https://www.census.gov/retail/sales.html"
   },
   "readingTime": 3,
-  "updatedAt": "2026-05-20T20:20:59.136Z",
+  "updatedAt": "2026-05-24T03:59:23.578Z",
   "images": {
     "thumbnail": {
-      "src": "/images/article_thumb_2.jpg",
+      "src": "/images/article_thumb_5.jpg",
       "alt": "Monthly Retail Trade - Sales Report"
     },
     "hero": {
-      "src": "/images/article_thumb_6.jpg",
+      "src": "/images/article_thumb_5.jpg",
       "alt": "Monthly Retail Trade - Sales Report"
     },
     "mid": {
-      "src": "/images/article_thumb_4.jpg",
+      "src": "/images/article_thumb_5.jpg",
       "alt": "Monthly Retail Trade - Sales Report"
     }
   },
   "image": {
-    "src": "/images/article_thumb_2.jpg",
+    "src": "/images/article_thumb_4.jpg",
     "alt": "Monthly Retail Trade - Sales Report"
   }
 }
