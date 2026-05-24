@@ -1,0 +1,44 @@
+{
+  "id": "the-new-york-stock-exchange-nyse",
+  "type": "news",
+  "title": "The New York Stock Exchange | NYSE",
+  "slug": "the-new-york-stock-exchange-nyse",
+  "date": "2026-05-24",
+  "displayDate": "May 24, 2026",
+  "author": "Sigma Capital",
+  "category": "Sector Performance",
+  "tags": [
+    "sector performance",
+    "financial news",
+    "market update"
+  ],
+  "metaDescription": "To start the week the tech leadership remained under significant pressure but on Tuesday afternoon many of the semi/memory stocks reversed...",
+  "excerpt": "To start the week the tech leadership remained under significant pressure but on Tuesday afternoon many of the semi/memory stocks reversed...",
+  "content": {
+    "introduction": "To start the week the tech leadership remained under significant pressure but on Tuesday afternoon many of the semi/memory stocks reversed...",
+    "body": [],
+    "keyTakeaways": [],
+    "source": "NYSE",
+    "sourceUrl": "https://www.nyse.com/index"
+  },
+  "readingTime": 3,
+  "updatedAt": "2026-05-24T13:42:41.353Z",
+  "images": {
+    "thumbnail": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "The New York Stock Exchange | NYSE"
+    },
+    "hero": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "The New York Stock Exchange | NYSE"
+    },
+    "mid": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "The New York Stock Exchange | NYSE"
+    }
+  },
+  "image": {
+    "src": "/images/article_thumb_5.jpg",
+    "alt": "The New York Stock Exchange | NYSE"
+  }
+}
