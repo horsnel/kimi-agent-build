@@ -3,8 +3,8 @@
   "type": "news",
   "title": "Sector & Industry Performance",
   "slug": "sector-industry-performance",
-  "date": "2026-05-14",
-  "displayDate": "May 14, 2026",
+  "date": "2026-05-24",
+  "displayDate": "May 24, 2026",
   "author": "Sigma Capital",
   "category": "Sector Performance",
   "tags": [
@@ -18,14 +18,14 @@
     "introduction": "Research the performance of U.S. sectors & industries. Find the latest new and performance information on the markets and track the top...",
     "body": [],
     "keyTakeaways": [],
-    "source": "Bloomberg.com",
+    "source": "Bloomberg",
     "sourceUrl": "https://www.bloomberg.com/markets/sectors"
   },
   "readingTime": 3,
-  "updatedAt": "2026-05-14T14:23:11.395Z",
+  "updatedAt": "2026-05-24T08:24:07.330Z",
   "images": {
     "thumbnail": {
-      "src": "/images/article_thumb_6.jpg",
+      "src": "/images/article_thumb_2.jpg",
       "alt": "Sector & Industry Performance"
     },
     "hero": {
@@ -33,12 +33,12 @@
       "alt": "Sector & Industry Performance"
     },
     "mid": {
-      "src": "/images/article_thumb_5.jpg",
+      "src": "/images/article_thumb_4.jpg",
       "alt": "Sector & Industry Performance"
     }
   },
   "image": {
-    "src": "/images/article_thumb_2.jpg",
+    "src": "/images/article_thumb_5.jpg",
     "alt": "Sector & Industry Performance"
   }
 }

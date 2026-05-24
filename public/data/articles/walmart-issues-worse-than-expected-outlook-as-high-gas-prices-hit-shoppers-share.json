@@ -3,8 +3,8 @@
   "type": "news",
   "title": "Walmart issues worse-than-expected outlook as high gas prices hit shoppers, shares drop 7%",
   "slug": "walmart-issues-worse-than-expected-outlook-as-high-gas-prices-hit-shoppers-share",
-  "date": "2026-05-23",
-  "displayDate": "May 23, 2026",
+  "date": "2026-05-24",
+  "displayDate": "May 24, 2026",
   "author": "Sigma Capital",
   "category": "Company News",
   "tags": [
@@ -22,23 +22,23 @@
     "sourceUrl": "https://www.cnbc.com/2026/05/21/walmart-wmt-earnings-q1-2027.html"
   },
   "readingTime": 3,
-  "updatedAt": "2026-05-23T08:12:22.267Z",
+  "updatedAt": "2026-05-24T08:24:07.330Z",
   "images": {
     "thumbnail": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Walmart issues worse-than-expected outlook as high gas prices hit shoppers, shares drop 7%"
-    },
-    "hero": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "Walmart issues worse-than-expected outlook as high gas prices hit shoppers, shares drop 7%"
     },
-    "mid": {
+    "hero": {
       "src": "/images/article_thumb_3.jpg",
+      "alt": "Walmart issues worse-than-expected outlook as high gas prices hit shoppers, shares drop 7%"
+    },
+    "mid": {
+      "src": "/images/article_thumb_5.jpg",
       "alt": "Walmart issues worse-than-expected outlook as high gas prices hit shoppers, shares drop 7%"
     }
   },
   "image": {
-    "src": "/images/article_thumb_5.jpg",
+    "src": "/images/article_thumb_6.jpg",
     "alt": "Walmart issues worse-than-expected outlook as high gas prices hit shoppers, shares drop 7%"
   }
 }
