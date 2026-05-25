@@ -105,6 +105,69 @@
     "readingTime": 3
   },
   {
+    "id": "bitcoin-falls-to-69-000-as-crypto-market-shows-early-stages-of-bottoming",
+    "type": "news",
+    "title": "Bitcoin falls to $69,000 as crypto market shows 'early stages of bottoming'",
+    "slug": "bitcoin-falls-to-69-000-as-crypto-market-shows-early-stages-of-bottoming",
+    "date": "2026-05-25",
+    "displayDate": "May 25, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin prices hovered around $69000, with one analyst suggesting that the crypto market may be approaching its bottom.",
+    "excerpt": "Bitcoin prices hovered around $69000, with one analyst suggesting that the crypto market may be approaching its bottom.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Bitcoin falls to $69,000 as crypto market shows 'early stages of bottoming'"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "bitcoin-price-prediction-2026-2031-will-btc-rebound-to-80k",
+    "type": "news",
+    "title": "Bitcoin Price Prediction 2026-2031: Will BTC Rebound to $80K?",
+    "slug": "bitcoin-price-prediction-2026-2031-will-btc-rebound-to-80k",
+    "date": "2026-05-25",
+    "displayDate": "May 25, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin price prediction for May 2026 remains cautious as BTC consolidates above $77K amid macro uncertainty and regulatory developments.",
+    "excerpt": "Bitcoin price prediction for May 2026 remains cautious as BTC consolidates above $77K amid macro uncertainty and regulatory developments.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Bitcoin Price Prediction 2026-2031: Will BTC Rebound to $80K?"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "bitcoin-price-prediction-2026-can-btc-hit-180k-expert-analysis",
+    "type": "news",
+    "title": "Bitcoin Price Prediction 2026: Can BTC Hit $180K? Expert Analysis",
+    "slug": "bitcoin-price-prediction-2026-can-btc-hit-180k-expert-analysis",
+    "date": "2026-05-25",
+    "displayDate": "May 25, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin price prediction for 2026: Ripple CEO forecasts $180K target. Expert analysis on institutional adoption, ETF flows, and key factors...",
+    "excerpt": "Bitcoin price prediction for 2026: Ripple CEO forecasts $180K target. Expert analysis on institutional adoption, ETF flows, and key factors...",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Bitcoin Price Prediction 2026: Can BTC Hit $180K? Expert Analysis"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "canada-s-gdp-growth-likely-turned-positive-in-q1-after-q4-contraction",
     "type": "news",
     "title": "Canada’s GDP growth likely turned positive in Q1 after Q4 contraction",
@@ -164,6 +227,48 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "CHS reports second quarter fiscal year 2026 earnings"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "consumer-price-index-new-york-newark-jersey-city-april-2026",
+    "type": "news",
+    "title": "Consumer Price Index, New York-Newark-Jersey City — April 2026",
+    "slug": "consumer-price-index-new-york-newark-jersey-city-april-2026",
+    "date": "2026-05-25",
+    "displayDate": "May 25, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Consumer Price Index for All Urban Consumers (CPI-U) in the New York-Newark-Jersey City area advanced 1.0 percent in April, the U.S....",
+    "excerpt": "The Consumer Price Index for All Urban Consumers (CPI-U) in the New York-Newark-Jersey City area advanced 1.0 percent in April, the U.S....",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Consumer Price Index, New York-Newark-Jersey City — April 2026"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "consumer-prices-rose-3-8-annually-in-april-the-highest-since-may-2023",
+    "type": "news",
+    "title": "Consumer prices rose 3.8% annually in April, the highest since May 2023",
+    "slug": "consumer-prices-rose-3-8-annually-in-april-the-highest-since-may-2023",
+    "date": "2026-05-25",
+    "displayDate": "May 25, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The consumer price index was expected to increase by 3.7% annually in April, according to the Dow Jones consensus.",
+    "excerpt": "The consumer price index was expected to increase by 3.7% annually in April, according to the Dow Jones consensus.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Consumer prices rose 3.8% annually in April, the highest since May 2023"
     },
     "readingTime": 3
   },
@@ -315,6 +420,27 @@
     "readingTime": 3
   },
   {
+    "id": "federal-reserve-monetary-policy",
+    "type": "news",
+    "title": "Federal Reserve Monetary Policy",
+    "slug": "federal-reserve-monetary-policy",
+    "date": "2026-05-25",
+    "displayDate": "May 25, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Learn from U.S. Bank experts how Fed policy and interest rate moves intended to support labor markets and contain inflation could affect...",
+    "excerpt": "Learn from U.S. Bank experts how Fed policy and interest rate moves intended to support labor markets and contain inflation could affect...",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Federal Reserve Monetary Policy"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "gdp-advance-estimate-4th-quarter-and-year-2025",
     "type": "news",
     "title": "GDP (Advance Estimate), 4th Quarter and Year 2025",
@@ -416,6 +542,27 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "March 2026 Investment Strategy: Best Sectors & Market Trends"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "monthly-market-wrap-april-2026",
+    "type": "news",
+    "title": "Monthly Market Wrap: April 2026",
+    "slug": "monthly-market-wrap-april-2026",
+    "date": "2026-05-25",
+    "displayDate": "May 25, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Markets posted their best month in nearly six years this April as investors priced in positive steps towards a resolution of conflict in the...",
+    "excerpt": "Markets posted their best month in nearly six years this April as investors priced in positive steps towards a resolution of conflict in the...",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Monthly Market Wrap: April 2026"
     },
     "readingTime": 3
   },
@@ -630,6 +777,27 @@
     "readingTime": 3
   },
   {
+    "id": "the-iran-war-is-hitting-home-as-gasoline-prices-fuel-inflation-surge-of-3-8-in-t",
+    "type": "news",
+    "title": "The Iran war is hitting home as gasoline prices fuel inflation surge of 3.8% in the US",
+    "slug": "the-iran-war-is-hitting-home-as-gasoline-prices-fuel-inflation-surge-of-3-8-in-t",
+    "date": "2026-05-25",
+    "displayDate": "May 25, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "U.S. consumer prices climbed a sharply again last month as the 10-week war with Iran pushed energy prices higher.",
+    "excerpt": "U.S. consumer prices climbed a sharply again last month as the 10-week war with Iran pushed energy prices higher.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "The Iran war is hitting home as gasoline prices fuel inflation surge of 3.8% in the US"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "the-new-york-stock-exchange-nyse",
     "type": "news",
     "title": "The New York Stock Exchange | NYSE",
@@ -672,6 +840,27 @@
     "readingTime": 3
   },
   {
+    "id": "trump-finally-gets-his-fed-chair-bond-investors-are-already-testing-him",
+    "type": "news",
+    "title": "Trump finally gets his Fed chair. Bond investors are already testing him.",
+    "slug": "trump-finally-gets-his-fed-chair-bond-investors-are-already-testing-him",
+    "date": "2026-05-25",
+    "displayDate": "May 25, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "As the Kevin Warsh era begins at the central bank, rising bond yields have greatly weakened the case for lower borrowing costs. Chair of the...",
+    "excerpt": "As the Kevin Warsh era begins at the central bank, rising bond yields have greatly weakened the case for lower borrowing costs. Chair of the...",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Trump finally gets his Fed chair. Bond investors are already testing him."
+    },
+    "readingTime": 3
+  },
+  {
     "id": "uh-oh-the-fed-meeting-minutes-point-to-a-big-shift-in-monetary-policy-that-may-u",
     "type": "news",
     "title": "Uh-Oh! The Fed Meeting Minutes Point to a Big Shift in Monetary Policy That May Upend a Historically Pricey Stock Market.",
@@ -689,6 +878,27 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "Uh-Oh! The Fed Meeting Minutes Point to a Big Shift in Monetary Policy That May Upend a Historically Pricey Stock Market."
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "us-economic-forecast-q1-2026",
+    "type": "news",
+    "title": "US Economic Forecast Q1 2026",
+    "slug": "us-economic-forecast-q1-2026",
+    "date": "2026-05-25",
+    "displayDate": "May 25, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Although AI investments might support near-term economic momentum, households and non-AI businesses face major global headwinds.",
+    "excerpt": "Although AI investments might support near-term economic momentum, households and non-AI businesses face major global headwinds.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "US Economic Forecast Q1 2026"
     },
     "readingTime": 3
   },
@@ -1134,27 +1344,6 @@
     "readingTime": 3
   },
   {
-    "id": "consumer-price-index-new-york-newark-jersey-city-april-2026",
-    "type": "news",
-    "title": "Consumer Price Index, New York-Newark-Jersey City — April 2026",
-    "slug": "consumer-price-index-new-york-newark-jersey-city-april-2026",
-    "date": "2026-05-24",
-    "displayDate": "May 24, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Consumer Price Index for All Urban Consumers (CPI-U) in the New York-Newark-Jersey City area advanced 1.0 percent in April, the U.S....",
-    "excerpt": "The Consumer Price Index for All Urban Consumers (CPI-U) in the New York-Newark-Jersey City area advanced 1.0 percent in April, the U.S....",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Consumer Price Index, New York-Newark-Jersey City — April 2026"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "crypto-review-bitcoin-ethereum-consolidate-gains-to-end-volatile-week",
     "type": "news",
     "title": "Crypto Review: Bitcoin, Ethereum Consolidate Gains To End Volatile Week",
@@ -1512,27 +1701,6 @@
     "readingTime": 3
   },
   {
-    "id": "the-iran-war-is-hitting-home-as-gasoline-prices-fuel-inflation-surge-of-3-8-in-t",
-    "type": "news",
-    "title": "The Iran war is hitting home as gasoline prices fuel inflation surge of 3.8% in the US",
-    "slug": "the-iran-war-is-hitting-home-as-gasoline-prices-fuel-inflation-surge-of-3-8-in-t",
-    "date": "2026-05-24",
-    "displayDate": "May 24, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "U.S. consumer prices climbed a sharply again last month as the 10-week war with Iran pushed energy prices higher.",
-    "excerpt": "U.S. consumer prices climbed a sharply again last month as the 10-week war with Iran pushed energy prices higher.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "The Iran war is hitting home as gasoline prices fuel inflation surge of 3.8% in the US"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "thk-tse-6481-valuation-check-after-upgraded-2026-earnings-guidance-and-strong-q1",
     "type": "news",
     "title": "THK (TSE:6481) Valuation Check After Upgraded 2026 Earnings Guidance And Strong Q1 Momentum",
@@ -1550,27 +1718,6 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "THK (TSE:6481) Valuation Check After Upgraded 2026 Earnings Guidance And Strong Q1 Momentum"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "trump-finally-gets-his-fed-chair-bond-investors-are-already-testing-him",
-    "type": "news",
-    "title": "Trump finally gets his Fed chair. Bond investors are already testing him.",
-    "slug": "trump-finally-gets-his-fed-chair-bond-investors-are-already-testing-him",
-    "date": "2026-05-24",
-    "displayDate": "May 24, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "As the Kevin Warsh era begins at the central bank, rising bond yields have greatly weakened the case for lower borrowing costs. Chair of the...",
-    "excerpt": "As the Kevin Warsh era begins at the central bank, rising bond yields have greatly weakened the case for lower borrowing costs. Chair of the...",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Trump finally gets his Fed chair. Bond investors are already testing him."
     },
     "readingTime": 3
   },
@@ -1869,27 +2016,6 @@
     "readingTime": 3
   },
   {
-    "id": "federal-reserve-monetary-policy",
-    "type": "news",
-    "title": "Federal Reserve Monetary Policy",
-    "slug": "federal-reserve-monetary-policy",
-    "date": "2026-05-23",
-    "displayDate": "May 23, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Learn from U.S. Bank experts how Fed policy and interest rate moves intended to support labor markets and contain inflation could affect...",
-    "excerpt": "Learn from U.S. Bank experts how Fed policy and interest rate moves intended to support labor markets and contain inflation could affect...",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Federal Reserve Monetary Policy"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "marketplace-business-news-economic-stories-for-everyone",
     "type": "news",
     "title": "Marketplace - Business News & Economic Stories for Everyone",
@@ -2096,27 +2222,6 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "Trump renews calls for ending quarterly reports for companies"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "us-economic-forecast-q1-2026",
-    "type": "news",
-    "title": "US Economic Forecast Q1 2026",
-    "slug": "us-economic-forecast-q1-2026",
-    "date": "2026-05-23",
-    "displayDate": "May 23, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Although AI investments might support near-term economic momentum, households and non-AI businesses face major global headwinds.",
-    "excerpt": "Although AI investments might support near-term economic momentum, households and non-AI businesses face major global headwinds.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "US Economic Forecast Q1 2026"
     },
     "readingTime": 3
   },
@@ -2936,27 +3041,6 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "How Big Tech Took Over the Upfronts"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "monthly-market-wrap-april-2026",
-    "type": "news",
-    "title": "Monthly Market Wrap: April 2026",
-    "slug": "monthly-market-wrap-april-2026",
-    "date": "2026-05-21",
-    "displayDate": "May 21, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Markets posted their best month in nearly six years this April as investors priced in positive steps towards a resolution of conflict in the...",
-    "excerpt": "Markets posted their best month in nearly six years this April as investors priced in positive steps towards a resolution of conflict in the...",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Monthly Market Wrap: April 2026"
     },
     "readingTime": 3
   },
@@ -4179,27 +4263,6 @@
     "readingTime": 3
   },
   {
-    "id": "consumer-prices-rose-3-8-annually-in-april-the-highest-since-may-2023",
-    "type": "news",
-    "title": "Consumer prices rose 3.8% annually in April, the highest since May 2023",
-    "slug": "consumer-prices-rose-3-8-annually-in-april-the-highest-since-may-2023",
-    "date": "2026-05-18",
-    "displayDate": "May 18, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The consumer price index was expected to increase by 3.7% annually in April, according to the Dow Jones consensus.",
-    "excerpt": "The consumer price index was expected to increase by 3.7% annually in April, according to the Dow Jones consensus.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Consumer prices rose 3.8% annually in April, the highest since May 2023"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "crypto-market-crash-700m-in-bitcoin-ethereum-xrp-solana-ai-coins-liquidated-here",
     "type": "news",
     "title": "Crypto Market Crash: $700M in Bitcoin, Ethereum, XRP, Solana, AI Coins Liquidated, Here’s Why",
@@ -4763,27 +4826,6 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "Bitcoin Drops Below $80,000: Crypto Market Analysis and Investment Outlook for May 2026"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "bitcoin-falls-to-69-000-as-crypto-market-shows-early-stages-of-bottoming",
-    "type": "news",
-    "title": "Bitcoin falls to $69,000 as crypto market shows 'early stages of bottoming'",
-    "slug": "bitcoin-falls-to-69-000-as-crypto-market-shows-early-stages-of-bottoming",
-    "date": "2026-05-17",
-    "displayDate": "May 17, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Bitcoin prices hovered around $69000, with one analyst suggesting that the crypto market may be approaching its bottom.",
-    "excerpt": "Bitcoin prices hovered around $69000, with one analyst suggesting that the crypto market may be approaching its bottom.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Bitcoin falls to $69,000 as crypto market shows 'early stages of bottoming'"
     },
     "readingTime": 3
   },
