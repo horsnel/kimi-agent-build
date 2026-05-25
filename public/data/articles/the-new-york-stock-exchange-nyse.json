@@ -3,8 +3,8 @@
   "type": "news",
   "title": "The New York Stock Exchange | NYSE",
   "slug": "the-new-york-stock-exchange-nyse",
-  "date": "2026-05-24",
-  "displayDate": "May 24, 2026",
+  "date": "2026-05-25",
+  "displayDate": "May 25, 2026",
   "author": "Sigma Capital",
   "category": "Sector Performance",
   "tags": [
@@ -22,10 +22,10 @@
     "sourceUrl": "https://www.nyse.com/index"
   },
   "readingTime": 3,
-  "updatedAt": "2026-05-24T13:42:41.353Z",
+  "updatedAt": "2026-05-25T04:11:16.474Z",
   "images": {
     "thumbnail": {
-      "src": "/images/article_thumb_2.jpg",
+      "src": "/images/article_thumb_4.jpg",
       "alt": "The New York Stock Exchange | NYSE"
     },
     "hero": {
@@ -33,12 +33,12 @@
       "alt": "The New York Stock Exchange | NYSE"
     },
     "mid": {
-      "src": "/images/article_thumb_3.jpg",
+      "src": "/images/article_thumb_4.jpg",
       "alt": "The New York Stock Exchange | NYSE"
     }
   },
   "image": {
-    "src": "/images/article_thumb_5.jpg",
+    "src": "/images/article_thumb_3.jpg",
     "alt": "The New York Stock Exchange | NYSE"
   }
 }
