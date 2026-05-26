@@ -3,8 +3,8 @@
   "type": "news",
   "title": "Warsh takes the Fed's helm as inflation climbs, consumer sentiment dives",
   "slug": "warsh-takes-the-fed-s-helm-as-inflation-climbs-consumer-sentiment-dives",
-  "date": "2026-05-25",
-  "displayDate": "May 25, 2026",
+  "date": "2026-05-26",
+  "displayDate": "May 26, 2026",
   "author": "Sigma Capital",
   "category": "Fed Policy",
   "tags": [
@@ -22,23 +22,23 @@
     "sourceUrl": "https://www.reuters.com/business/warsh-takes-over-fed-with-policy-problem-already-view-2026-05-22/"
   },
   "readingTime": 3,
-  "updatedAt": "2026-05-25T04:11:16.474Z",
+  "updatedAt": "2026-05-26T03:56:33.644Z",
   "images": {
     "thumbnail": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Warsh takes the Fed's helm as inflation climbs, consumer sentiment dives"
-    },
-    "hero": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "Warsh takes the Fed's helm as inflation climbs, consumer sentiment dives"
     },
-    "mid": {
+    "hero": {
       "src": "/images/article_thumb_3.jpg",
+      "alt": "Warsh takes the Fed's helm as inflation climbs, consumer sentiment dives"
+    },
+    "mid": {
+      "src": "/images/article_thumb_5.jpg",
       "alt": "Warsh takes the Fed's helm as inflation climbs, consumer sentiment dives"
     }
   },
   "image": {
-    "src": "/images/article_thumb_6.jpg",
+    "src": "/images/article_thumb_5.jpg",
     "alt": "Warsh takes the Fed's helm as inflation climbs, consumer sentiment dives"
   }
 }

@@ -3,8 +3,8 @@
   "type": "news",
   "title": "Stock market today: Nikkei skyrockets 3.17 percent to record 65,319 as European, Wall Street futures surge",
   "slug": "stock-market-today-nikkei-skyrockets-3-17-percent-to-record-65-319-as-european-w",
-  "date": "2026-05-25",
-  "displayDate": "May 25, 2026",
+  "date": "2026-05-26",
+  "displayDate": "May 26, 2026",
   "author": "Sigma Capital",
   "category": "Global Markets",
   "tags": [
@@ -22,23 +22,23 @@
     "sourceUrl": "https://economymiddleeast.com/news/stock-market-today-nikkei-skyrockets-3-17-percent-to-record-65319-as-european-wall-street-futures-surge/"
   },
   "readingTime": 3,
-  "updatedAt": "2026-05-25T19:44:02.231Z",
+  "updatedAt": "2026-05-26T03:56:33.644Z",
   "images": {
     "thumbnail": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Stock market today: Nikkei skyrockets 3.17 percent to record 65,319 as European, Wall Street futures surge"
-    },
-    "hero": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "Stock market today: Nikkei skyrockets 3.17 percent to record 65,319 as European, Wall Street futures surge"
     },
+    "hero": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Stock market today: Nikkei skyrockets 3.17 percent to record 65,319 as European, Wall Street futures surge"
+    },
     "mid": {
-      "src": "/images/article_thumb_4.jpg",
+      "src": "/images/article_thumb_2.jpg",
       "alt": "Stock market today: Nikkei skyrockets 3.17 percent to record 65,319 as European, Wall Street futures surge"
     }
   },
   "image": {
-    "src": "/images/article_thumb_2.jpg",
+    "src": "/images/article_thumb_5.jpg",
     "alt": "Stock market today: Nikkei skyrockets 3.17 percent to record 65,319 as European, Wall Street futures surge"
   }
 }
