@@ -3,8 +3,8 @@
   "type": "news",
   "title": "Sector & Industry Performance",
   "slug": "sector-industry-performance",
-  "date": "2026-05-24",
-  "displayDate": "May 24, 2026",
+  "date": "2026-05-26",
+  "displayDate": "May 26, 2026",
   "author": "Sigma Capital",
   "category": "Sector Performance",
   "tags": [
@@ -22,10 +22,10 @@
     "sourceUrl": "https://www.bloomberg.com/markets/sectors"
   },
   "readingTime": 3,
-  "updatedAt": "2026-05-24T08:24:07.330Z",
+  "updatedAt": "2026-05-26T15:42:44.838Z",
   "images": {
     "thumbnail": {
-      "src": "/images/article_thumb_2.jpg",
+      "src": "/images/article_thumb_1.jpg",
       "alt": "Sector & Industry Performance"
     },
     "hero": {
@@ -33,12 +33,12 @@
       "alt": "Sector & Industry Performance"
     },
     "mid": {
-      "src": "/images/article_thumb_4.jpg",
+      "src": "/images/article_thumb_2.jpg",
       "alt": "Sector & Industry Performance"
     }
   },
   "image": {
-    "src": "/images/article_thumb_5.jpg",
+    "src": "/images/article_thumb_2.jpg",
     "alt": "Sector & Industry Performance"
   }
 }
