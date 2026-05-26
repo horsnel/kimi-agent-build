@@ -3,8 +3,8 @@
   "type": "news",
   "title": "Stock Market Today: Stock Market News And Analysis",
   "slug": "stock-market-today-stock-market-news-and-analysis",
-  "date": "2026-05-25",
-  "displayDate": "May 25, 2026",
+  "date": "2026-05-26",
+  "displayDate": "May 26, 2026",
   "author": "Sigma Capital",
   "category": "Market Analysis",
   "tags": [
@@ -22,10 +22,10 @@
     "sourceUrl": "https://www.investors.com/news/stock-market-today-stock-market-news/"
   },
   "readingTime": 3,
-  "updatedAt": "2026-05-25T04:11:16.474Z",
+  "updatedAt": "2026-05-26T09:44:02.855Z",
   "images": {
     "thumbnail": {
-      "src": "/images/article_thumb_4.jpg",
+      "src": "/images/article_thumb_1.jpg",
       "alt": "Stock Market Today: Stock Market News And Analysis"
     },
     "hero": {
@@ -33,12 +33,12 @@
       "alt": "Stock Market Today: Stock Market News And Analysis"
     },
     "mid": {
-      "src": "/images/article_thumb_5.jpg",
+      "src": "/images/article_thumb_2.jpg",
       "alt": "Stock Market Today: Stock Market News And Analysis"
     }
   },
   "image": {
-    "src": "/images/article_thumb_1.jpg",
+    "src": "/images/article_thumb_4.jpg",
     "alt": "Stock Market Today: Stock Market News And Analysis"
   }
 }
