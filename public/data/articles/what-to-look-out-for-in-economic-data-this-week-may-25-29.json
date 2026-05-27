@@ -3,8 +3,8 @@
   "type": "news",
   "title": "What to Look Out for in Economic Data This Week (May 25-29)",
   "slug": "what-to-look-out-for-in-economic-data-this-week-may-25-29",
-  "date": "2026-05-26",
-  "displayDate": "May 26, 2026",
+  "date": "2026-05-27",
+  "displayDate": "May 27, 2026",
   "author": "Sigma Capital",
   "category": "Economic Indicators",
   "tags": [
@@ -22,18 +22,18 @@
     "sourceUrl": "https://www.kiplinger.com/investing/economy/this-weeks-economic-calendar"
   },
   "readingTime": 3,
-  "updatedAt": "2026-05-26T03:56:33.644Z",
+  "updatedAt": "2026-05-27T09:38:03.114Z",
   "images": {
     "thumbnail": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "What to Look Out for in Economic Data This Week (May 25-29)"
-    },
-    "hero": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "What to Look Out for in Economic Data This Week (May 25-29)"
     },
-    "mid": {
+    "hero": {
       "src": "/images/article_thumb_2.jpg",
+      "alt": "What to Look Out for in Economic Data This Week (May 25-29)"
+    },
+    "mid": {
+      "src": "/images/article_thumb_5.jpg",
       "alt": "What to Look Out for in Economic Data This Week (May 25-29)"
     }
   },
