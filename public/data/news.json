@@ -1,35 +1,35 @@
 [
   {
     "id": 0,
-    "headline": "Weekly market commentary",
-    "excerpt": "Stay tuned for insights on hot topics and latest trends in the financial market via the Weekly commentary by the BlackRock Investment...",
-    "date": "2 days ago",
+    "headline": "Goldman pumps up its S&P 500 price target to 8,000 for the year as it eyes an earnings-fueled rally",
+    "excerpt": "Don't sweat the war. The main event for markets remains on track to deliver. That's the message from Goldman Sachs, which is calling for an...",
+    "date": "1 day ago",
     "category": "Market Analysis",
     "featured": true,
-    "source": "www.blackrock.com",
-    "articleSlug": "weekly-market-commentary",
+    "source": "Business Insider",
+    "articleSlug": "goldman-pumps-up-its-s-p-500-price-target-to-8-000-for-the-year-as-it-eyes-an-ea",
     "thumbnail": ""
   },
   {
     "id": 1,
-    "headline": "Stock Market Today: S&P 500, Dow Futures Decline As US And Iran Exchange Strikes— Snowfalke, Salesforce",
-    "excerpt": "U.S. stock futures fell on Thursday, after a higher close on Wednesday, as all indices ended marginally higher, but the small-cap index,...",
-    "date": "13 minutes ago",
+    "headline": "Wall Street Futures Weaken as Renewed U.S.-Iran Conflict Clouds Market Outlook: Dow Jones, S&P, Nasdaq",
+    "excerpt": "U. S. equity futures traded lower on Thursday, while oil prices advanced, after a fresh round of military strikes between the United States...",
+    "date": "6 hours ago",
     "category": "Market Analysis",
     "featured": false,
-    "source": "Benzinga",
-    "articleSlug": "stock-market-today-s-p-500-dow-futures-decline-as-us-and-iran-exchange-strikes-s",
+    "source": "Yahoo Finance UK",
+    "articleSlug": "wall-street-futures-weaken-as-renewed-u-s-iran-conflict-clouds-market-outlook-do",
     "thumbnail": ""
   },
   {
     "id": 2,
-    "headline": "Why analyst sees ExxonMobil stock outperforming the S&P500 in 2026",
-    "excerpt": "ExxonMobil has surged ahead of the broader market this year, with analysts at The Motley Fool predicting the oil giant will continue to...",
-    "date": "3 hours ago",
+    "headline": "Stock Market Under the Trump Administration: What is Driving Markets in 2026?",
+    "excerpt": "See how tariffs, tax cuts, oil prices, and earnings are shaping the stock market under Trump in 2026 and what investors should watch next.",
+    "date": "3 weeks ago",
     "category": "Market Analysis",
     "featured": false,
-    "source": "TradingView",
-    "articleSlug": "why-analyst-sees-exxonmobil-stock-outperforming-the-s-p500-in-2026",
+    "source": "U.S. Bank",
+    "articleSlug": "stock-market-under-the-trump-administration-what-is-driving-markets-in-2026",
     "thumbnail": ""
   },
   {
@@ -67,72 +67,39 @@
   },
   {
     "id": 6,
-    "headline": "GDP (Advance Estimate), 4th Quarter and Year 2025",
-    "excerpt": "Real gross domestic product (GDP) increased at an annual rate of 1.4 percent in the fourth quarter of 2025 (October, November, and December)...",
-    "date": "Feb 20, 2026",
-    "category": "Economic Indicators",
+    "headline": "The Best Healthcare Stocks to Buy",
+    "excerpt": "These 12 undervalued healthcare stocks look attractive today.",
+    "date": "2 weeks ago",
+    "category": "Sector Performance",
     "featured": false,
-    "source": "U.S. Bureau of Economic Analysis (BEA) (.gov)",
-    "articleSlug": "gdp-advance-estimate-4th-quarter-and-year-2025",
+    "source": "Morningstar",
+    "articleSlug": "the-best-healthcare-stocks-to-buy",
     "thumbnail": ""
   },
   {
     "id": 7,
-    "headline": "US Economic Forecast Q1 2026",
-    "excerpt": "Although AI investments might support near-term economic momentum, households and non-AI businesses face major global headwinds.",
-    "date": "Mar 27, 2026",
-    "category": "Economic Indicators",
+    "headline": "Medical Technology Stocks: Innovation Endures as Valuations Reset",
+    "excerpt": "How can medical technology companies diversify an equity allocation to healthcare?",
+    "date": "4 weeks ago",
+    "category": "Sector Performance",
     "featured": false,
-    "source": "Deloitte",
-    "articleSlug": "us-economic-forecast-q1-2026",
+    "source": "AllianceBernstein",
+    "articleSlug": "medical-technology-stocks-innovation-endures-as-valuations-reset",
     "thumbnail": ""
   },
   {
     "id": 8,
-    "headline": "Revisiting Professional Forecasters’ Past Performance and the Outlook for 2026",
-    "excerpt": "So far, the 2025 forecasts have turned out to be rather accurate. For 2026, professional forecasters expect 1.9% GDP growth and a 2.9%...",
-    "date": "Dec 18, 2025",
-    "category": "Economic Indicators",
+    "headline": "The 11 stock market sectors: What they are and why they matter",
+    "excerpt": "The stock market isn't monolithic. It's conveniently divided into sectors that group different companies by the types of business they conduct.",
+    "date": "3 weeks ago",
+    "category": "Sector Performance",
     "featured": false,
-    "source": "Federal Reserve Bank of St. Louis",
-    "articleSlug": "revisiting-professional-forecasters-past-performance-and-the-outlook-for-2026",
+    "source": "Britannica",
+    "articleSlug": "the-11-stock-market-sectors-what-they-are-and-why-they-matter",
     "thumbnail": ""
   },
   {
     "id": 9,
-    "headline": "Global Stocks: The Best- and Worst-Performing Sectors in Q1",
-    "excerpt": "Among the biggest laggards in the Morningstar Global Technology Index during the quarter were companies like Microsoft MSFT and Palantir PLTR.",
-    "date": "1 month ago",
-    "category": "Sector Performance",
-    "featured": false,
-    "source": "Morningstar Canada",
-    "articleSlug": "global-stocks-the-best-and-worst-performing-sectors-in-q1",
-    "thumbnail": ""
-  },
-  {
-    "id": 10,
-    "headline": "Weekly Market Update: Tech Stocks Lead Market Lower, Basic Materials Gain",
-    "excerpt": "The Morningstar US Market Index fell 0.55%. The best-performing sectors were basic materials, up 3.06%, and financial services, up 2.38%.",
-    "date": "Dec 12, 2025",
-    "category": "Sector Performance",
-    "featured": false,
-    "source": "Morningstar",
-    "articleSlug": "weekly-market-update-tech-stocks-lead-market-lower-basic-materials-gain",
-    "thumbnail": ""
-  },
-  {
-    "id": 11,
-    "headline": "Wall St Week Ahead: Industrial sector's gains to be tested as earnings ramp up",
-    "excerpt": "The industrial sector has led the way for U.S. equities during a topsy-turvy year on Wall Street, but its strength will be tested as...",
-    "date": "Jul 20, 2025",
-    "category": "Sector Performance",
-    "featured": false,
-    "source": "Reuters",
-    "articleSlug": "wall-st-week-ahead-industrial-sector-s-gains-to-be-tested-as-earnings-ramp-up",
-    "thumbnail": ""
-  },
-  {
-    "id": 12,
     "headline": "US stocks rise, Asian markets get rocked as Middle East conflict intensifies",
     "excerpt": "Oil prices Wednesday paused their recent surge, supporting a rebound in European and US stocks, as investors hold hope for limited long-term...",
     "date": "Mar 4, 2026",
@@ -143,7 +110,7 @@
     "thumbnail": ""
   },
   {
-    "id": 13,
+    "id": 10,
     "headline": "Asian stock markets plunge amid Trump’s ultimatum on Iran",
     "excerpt": "Key indexes in Japan, South Korea and Hong Kong tumble as Iran threatens attacks on energy infrastructure across region.",
     "date": "Mar 23, 2026",
@@ -154,7 +121,7 @@
     "thumbnail": ""
   },
   {
-    "id": 14,
+    "id": 11,
     "headline": "US, European stocks fall as Iran war drives oil rally, bond selloff",
     "excerpt": "NEW YORK/LONDON, March 5 (Reuters) - Equity indexes fell on Wall Street and in Europe on Thursday while government bonds sold off and the...",
     "date": "Mar 5, 2026",
@@ -165,18 +132,7 @@
     "thumbnail": ""
   },
   {
-    "id": 15,
-    "headline": "The Odds Are Changing: Investing in 2026",
-    "excerpt": "Rick Rieder explains why 2026 favors investors over gamblers, as fading inflation, softening labor and AI driven dispersion reshape income...",
-    "date": "Jan 2, 2026",
-    "category": "Investment Strategies",
-    "featured": false,
-    "source": "www.blackrock.com",
-    "articleSlug": "the-odds-are-changing-investing-in-2026",
-    "thumbnail": ""
-  },
-  {
-    "id": 16,
+    "id": 12,
     "headline": "What to Consider When You’re Considering Alternative Investments",
     "excerpt": "Alternative investments – like private equity and credit, hedge funds and real assets – can help investors solve for many of these challenges and access a...",
     "date": "Mar 9, 2026",
@@ -187,7 +143,7 @@
     "thumbnail": ""
   },
   {
-    "id": 17,
+    "id": 13,
     "headline": "2026 commercial real estate outlook",
     "excerpt": "Despite ongoing trade and legal hurdles, profitable growth is attainable for those commercial real estate firms that navigate complexities...",
     "date": "Sep 29, 2025",
@@ -198,7 +154,18 @@
     "thumbnail": ""
   },
   {
-    "id": 18,
+    "id": 14,
+    "headline": "March 2026 Investment Strategy: Best Sectors & Market Trends",
+    "excerpt": "When geopolitical tensions rise, investors typically move towards safe haven assets. In the current environment, that shift is becoming...",
+    "date": "Mar 26, 2026",
+    "category": "Investment Strategies",
+    "featured": false,
+    "source": "ICICI Direct",
+    "articleSlug": "march-2026-investment-strategy-best-sectors-market-trends",
+    "thumbnail": ""
+  },
+  {
+    "id": 15,
     "headline": "Uh-Oh! The Fed Meeting Minutes Point to a Big Shift in Monetary Policy That May Upend a Historically Pricey Stock Market.",
     "excerpt": "Dissent within the Federal Open Market Committee (FOMC) appears to be far greater than initially believed.",
     "date": "3 days ago",
@@ -209,10 +176,10 @@
     "thumbnail": ""
   },
   {
-    "id": 19,
+    "id": 16,
     "headline": "Fed's Jefferson says monetary policy is well positioned to respond, not prejudge June meet",
     "excerpt": "Fed Vice Chair Jefferson says monetary policy is well positioned to respond to developments but has not prejudged June's FOMC meeting,...",
-    "date": "10 hours ago",
+    "date": "16 hours ago",
     "category": "Fed Policy",
     "featured": false,
     "source": "investingLive",
@@ -220,29 +187,29 @@
     "thumbnail": ""
   },
   {
-    "id": 20,
-    "headline": "A Reform Agenda for New Fed Chair Kevin Warsh",
-    "excerpt": "Kevin Warsh was sworn in as the new Federal Reserve chair today. He has described his goal as “regime change,” and that's a great goal.",
-    "date": "5 days ago",
+    "id": 17,
+    "headline": "The Fed - April 28-29, 2026 FOMC Meeting",
+    "excerpt": "The Federal Reserve Board of Governors in Washington DC.",
+    "date": "1 month ago",
     "category": "Fed Policy",
     "featured": false,
-    "source": "Cato Institute",
-    "articleSlug": "a-reform-agenda-for-new-fed-chair-kevin-warsh",
+    "source": "Federal Reserve (.gov)",
+    "articleSlug": "the-fed-april-28-29-2026-fomc-meeting",
     "thumbnail": ""
   },
   {
-    "id": 21,
-    "headline": "Earnings Calendar, Analyst Estimates And Stocks To Watch",
-    "excerpt": "This page for previews of upcoming quarterly earnings reports, analyst estimates and alerts to top-rated stocks that could offer new buying opportunities.",
-    "date": "18 hours ago",
+    "id": 18,
+    "headline": "Earnings Calendar and Analysis for This Week (May 25-29)",
+    "excerpt": "Below is a weekly earnings calendar of the most important upcoming quarterly reports scheduled to be released by publicly traded companies.",
+    "date": "19 hours ago",
     "category": "Earnings",
     "featured": false,
-    "source": "Investor's Business Daily",
-    "articleSlug": "earnings-calendar-analyst-estimates-and-stocks-to-watch",
+    "source": "Kiplinger",
+    "articleSlug": "earnings-calendar-and-analysis-for-this-week-may-25-29",
     "thumbnail": ""
   },
   {
-    "id": 22,
+    "id": 19,
     "headline": "Get Ready for Major Tech Earnings Starting April 29",
     "excerpt": "Microsoft, Amazon, Alphabet, and Meta will all release quarterly earnings after the bell on Wednesday. Here's what analysts are looking for.",
     "date": "1 month ago",
@@ -253,7 +220,7 @@
     "thumbnail": ""
   },
   {
-    "id": 23,
+    "id": 20,
     "headline": "Big Tech Earnings Will Set The Tone For Markets This Week",
     "excerpt": "Big Tech earnings, market breadth, AI spending and geopolitical risks shape the busiest week of earnings season as investors watch results...",
     "date": "1 month ago",
@@ -264,54 +231,43 @@
     "thumbnail": ""
   },
   {
+    "id": 21,
+    "headline": "Second Quarter 2026 Survey of Professional Forecasters",
+    "excerpt": "The near-term outlook for the U.S. economy looks weaker now than it did three months ago, according to 33 forecasters surveyed by the...",
+    "date": "2 weeks ago",
+    "category": "Economic Data",
+    "featured": false,
+    "source": "Philadelphia Federal Reserve Bank",
+    "articleSlug": "second-quarter-2026-survey-of-professional-forecasters",
+    "thumbnail": ""
+  },
+  {
+    "id": 22,
+    "headline": "Revisiting Professional Forecasters’ Past Performance and the Outlook for 2026",
+    "excerpt": "So far, the 2025 forecasts have turned out to be rather accurate. For 2026, professional forecasters expect 1.9% GDP growth and a 2.9%...",
+    "date": "Dec 18, 2025",
+    "category": "Economic Data",
+    "featured": false,
+    "source": "Federal Reserve Bank of St. Louis",
+    "articleSlug": "revisiting-professional-forecasters-past-performance-and-the-outlook-for-2026",
+    "thumbnail": ""
+  },
+  {
+    "id": 23,
+    "headline": "CBO Releases Economic Projections From 2025 to 2028-2025-09-19",
+    "excerpt": "2025-09-19-The Congressional Budget Office (CBO) recently released its updated economic projections for 2025 through 2028, updated from its.",
+    "date": "Sep 19, 2025",
+    "category": "Economic Data",
+    "featured": false,
+    "source": "Committee for a Responsible Federal Budget",
+    "articleSlug": "cbo-releases-economic-projections-from-2025-to-2028-2025-09-19",
+    "thumbnail": ""
+  },
+  {
     "id": 24,
-    "headline": "Consumer Price Index, New York-Newark-Jersey City — April 2026",
-    "excerpt": "The Consumer Price Index for All Urban Consumers (CPI-U) in the New York-Newark-Jersey City area advanced 1.0 percent in April, the U.S....",
-    "date": "2 weeks ago",
-    "category": "Economic Data",
-    "featured": false,
-    "source": "Bureau of Labor Statistics (.gov)",
-    "articleSlug": "consumer-price-index-new-york-newark-jersey-city-april-2026",
-    "thumbnail": ""
-  },
-  {
-    "id": 25,
-    "headline": "Consumer prices rose 3.8% annually in April, the highest since May 2023",
-    "excerpt": "The consumer price index was expected to increase by 3.7% annually in April, according to the Dow Jones consensus.",
-    "date": "2 weeks ago",
-    "category": "Economic Data",
-    "featured": false,
-    "source": "CNBC",
-    "articleSlug": "consumer-prices-rose-3-8-annually-in-april-the-highest-since-may-2023",
-    "thumbnail": ""
-  },
-  {
-    "id": 26,
-    "headline": "US inflation rose to 3.8% in April, eroding Americans’ paychecks",
-    "excerpt": "For the first time in three years, Americans' wages are no longer outpacing inflation. Prices rose 0.6% on a monthly basis, driving the...",
-    "date": "2 weeks ago",
-    "category": "Economic Data",
-    "featured": false,
-    "source": "CNN",
-    "articleSlug": "us-inflation-rose-to-3-8-in-april-eroding-americans-paychecks",
-    "thumbnail": ""
-  },
-  {
-    "id": 27,
-    "headline": "Why Is The Crypto Market Up Today?",
-    "excerpt": "Crypto market adds $3.42 billion as Trump's patient Iran strategy resets risk premium and Bitcoin holds $77000 above Hormuz Letter caveat.",
-    "date": "3 days ago",
-    "category": "Crypto",
-    "featured": false,
-    "source": "Yahoo Finance",
-    "articleSlug": "why-is-the-crypto-market-up-today",
-    "thumbnail": ""
-  },
-  {
-    "id": 28,
     "headline": "Bitcoin Price Analysis May 2026: Will BTC Reach $80,500 Target?",
     "excerpt": "Bitcoin trades near $77K with analysts targeting $80500 by month-end. Technical analysis reveals key support at $73K-$75K amid ETF outflows...",
-    "date": "6 hours ago",
+    "date": "12 hours ago",
     "category": "Crypto",
     "featured": false,
     "source": "Intellectia AI",
@@ -319,7 +275,7 @@
     "thumbnail": ""
   },
   {
-    "id": 29,
+    "id": 25,
     "headline": "Bitcoin Price Prediction 2026-2031: Will BTC Rebound to $81K?",
     "excerpt": "Bitcoin (BTC) price prediction suggests a potential rally toward $81500 by May 2026, supported by ETF inflows, institutional demand,...",
     "date": "3 days ago",
@@ -327,6 +283,17 @@
     "featured": false,
     "source": "CoinDCX",
     "articleSlug": "bitcoin-price-prediction-2026-2031-will-btc-rebound-to-81k",
+    "thumbnail": ""
+  },
+  {
+    "id": 26,
+    "headline": "Why Is The Crypto Market Up Today?",
+    "excerpt": "Crypto market adds $3.42 billion as Trump's patient Iran strategy resets risk premium and Bitcoin holds $77000 above Hormuz Letter caveat.",
+    "date": "3 days ago",
+    "category": "Crypto",
+    "featured": false,
+    "source": "BeInCrypto",
+    "articleSlug": "why-is-the-crypto-market-up-today",
     "thumbnail": ""
   }
 ]
