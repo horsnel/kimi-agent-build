@@ -3,8 +3,8 @@
   "type": "news",
   "title": "US inflation rose to 3.8% in April, eroding Americans’ paychecks",
   "slug": "us-inflation-rose-to-3-8-in-april-eroding-americans-paychecks",
-  "date": "2026-05-27",
-  "displayDate": "May 27, 2026",
+  "date": "2026-05-28",
+  "displayDate": "May 28, 2026",
   "author": "Sigma Capital",
   "category": "Economic Data",
   "tags": [
@@ -22,14 +22,14 @@
     "sourceUrl": "https://www.cnn.com/2026/05/12/economy/us-cpi-inflation-april"
   },
   "readingTime": 3,
-  "updatedAt": "2026-05-27T04:10:17.374Z",
+  "updatedAt": "2026-05-28T03:58:23.760Z",
   "images": {
     "thumbnail": {
-      "src": "/images/article_thumb_5.jpg",
+      "src": "/images/article_thumb_2.jpg",
       "alt": "US inflation rose to 3.8% in April, eroding Americans’ paychecks"
     },
     "hero": {
-      "src": "/images/article_thumb_6.jpg",
+      "src": "/images/article_thumb_5.jpg",
       "alt": "US inflation rose to 3.8% in April, eroding Americans’ paychecks"
     },
     "mid": {
@@ -38,7 +38,7 @@
     }
   },
   "image": {
-    "src": "/images/article_thumb_1.jpg",
+    "src": "/images/article_thumb_5.jpg",
     "alt": "US inflation rose to 3.8% in April, eroding Americans’ paychecks"
   }
 }

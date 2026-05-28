@@ -3,8 +3,8 @@
   "type": "news",
   "title": "The Weekly Bottom Line",
   "slug": "the-weekly-bottom-line",
-  "date": "2026-05-26",
-  "displayDate": "May 26, 2026",
+  "date": "2026-05-28",
+  "displayDate": "May 28, 2026",
   "author": "Sigma Capital",
   "category": "Economic Indicators",
   "tags": [
@@ -18,11 +18,11 @@
     "introduction": "TD Canada Trust products and services include investing, mortgages, banking and small business. Featuring TD Canada Trust online banking.",
     "body": [],
     "keyTakeaways": [],
-    "source": "TD Economics",
-    "sourceUrl": "https://economics.td.com/ca-weekly-bottom-line"
+    "source": "TD Economics - Canada",
+    "sourceUrl": "https://economics.td.com/us-weekly-bottom-line"
   },
   "readingTime": 3,
-  "updatedAt": "2026-05-26T03:56:33.644Z",
+  "updatedAt": "2026-05-28T03:58:23.760Z",
   "images": {
     "thumbnail": {
       "src": "/images/article_thumb_1.jpg",
@@ -33,12 +33,12 @@
       "alt": "The Weekly Bottom Line"
     },
     "mid": {
-      "src": "/images/article_thumb_1.jpg",
+      "src": "/images/article_thumb_6.jpg",
       "alt": "The Weekly Bottom Line"
     }
   },
   "image": {
-    "src": "/images/article_thumb_1.jpg",
+    "src": "/images/article_thumb_6.jpg",
     "alt": "The Weekly Bottom Line"
   }
 }
