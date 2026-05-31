@@ -3,8 +3,8 @@
   "type": "news",
   "title": "It’s Not Just U.S. Stocks. A.I. and Oil Are Moving Global Markets, Too.",
   "slug": "it-s-not-just-u-s-stocks-a-i-and-oil-are-moving-global-markets-too",
-  "date": "2026-05-30",
-  "displayDate": "May 30, 2026",
+  "date": "2026-05-31",
+  "displayDate": "May 31, 2026",
   "author": "Sigma Capital",
   "category": "Global Markets",
   "tags": [
@@ -22,23 +22,23 @@
     "sourceUrl": "https://www.nytimes.com/2026/05/15/business/chip-ai-oil-emerging-stock-markets.html"
   },
   "readingTime": 3,
-  "updatedAt": "2026-05-30T03:46:48.055Z",
+  "updatedAt": "2026-05-31T04:12:22.324Z",
   "images": {
     "thumbnail": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "It’s Not Just U.S. Stocks. A.I. and Oil Are Moving Global Markets, Too."
-    },
-    "hero": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "It’s Not Just U.S. Stocks. A.I. and Oil Are Moving Global Markets, Too."
     },
+    "hero": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "It’s Not Just U.S. Stocks. A.I. and Oil Are Moving Global Markets, Too."
+    },
     "mid": {
-      "src": "/images/article_thumb_6.jpg",
+      "src": "/images/article_thumb_5.jpg",
       "alt": "It’s Not Just U.S. Stocks. A.I. and Oil Are Moving Global Markets, Too."
     }
   },
   "image": {
-    "src": "/images/article_thumb_6.jpg",
+    "src": "/images/article_thumb_3.jpg",
     "alt": "It’s Not Just U.S. Stocks. A.I. and Oil Are Moving Global Markets, Too."
   }
 }
