@@ -63,6 +63,27 @@
     "readingTime": 3
   },
   {
+    "id": "analysis-assessing-inflation-s-impact",
+    "type": "news",
+    "title": "Analysis: Assessing Inflation’s Impact",
+    "slug": "analysis-assessing-inflation-s-impact",
+    "date": "2026-05-31",
+    "displayDate": "May 31, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Elevated inflation continues to be a problem for consumers and policymakers alike. Should you be worried about how higher prices might...",
+    "excerpt": "Elevated inflation continues to be a problem for consumers and policymakers alike. Should you be worried about how higher prices might...",
+    "image": {
+      "src": "/images/articles/analysis-assessing-inflation-s-impact-thumb.jpg",
+      "alt": "Analysis: Assessing Inflation’s Impact"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "applied-digital-reports-fiscal-third-quarter-2026-results",
     "type": "news",
     "title": "Applied Digital Reports Fiscal Third Quarter 2026 Results",
@@ -248,6 +269,27 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "Bitcoin price analysis: BTC left to drift as hot money chases other assets"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "bitcoin-price-prediction-2026-2031-can-btc-reclaim-81k",
+    "type": "news",
+    "title": "Bitcoin Price Prediction 2026-2031: Can BTC Reclaim $81K?",
+    "slug": "bitcoin-price-prediction-2026-2031-can-btc-reclaim-81k",
+    "date": "2026-05-31",
+    "displayDate": "May 31, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin price forecast for June 2026 suggests BTC could target $78000 if buyers reclaim key resistance. Check support levels, RSI,...",
+    "excerpt": "Bitcoin price forecast for June 2026 suggests BTC could target $78000 if buyers reclaim key resistance. Check support levels, RSI,...",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Bitcoin Price Prediction 2026-2031: Can BTC Reclaim $81K?"
     },
     "readingTime": 3
   },
@@ -609,6 +651,27 @@
     "readingTime": 3
   },
   {
+    "id": "how-big-tech-and-big-power-are-locking-arms-to-save-the-grid",
+    "type": "news",
+    "title": "How Big Tech and Big Power are locking arms to save the grid",
+    "slug": "how-big-tech-and-big-power-are-locking-arms-to-save-the-grid",
+    "date": "2026-05-31",
+    "displayDate": "May 31, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Tech companies are changing their message and bringing more ideas and high-tech solutions to the table.",
+    "excerpt": "Tech companies are changing their message and bringing more ideas and high-tech solutions to the table.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "How Big Tech and Big Power are locking arms to save the grid"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "how-does-the-average-investment-portfolio-size-for-people-in-their-30s-compare",
     "type": "news",
     "title": "How Does the Average Investment Portfolio Size for People in Their 30s Compare?",
@@ -626,6 +689,27 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "How Does the Average Investment Portfolio Size for People in Their 30s Compare?"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "international-diversification-is-finally-paying-off",
+    "type": "news",
+    "title": "International Diversification Is Finally Paying Off",
+    "slug": "international-diversification-is-finally-paying-off",
+    "date": "2026-05-31",
+    "displayDate": "May 31, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The dollar's weakness has contributed to a long-awaited foreign-stock rally and reduced correlations with US equities—at least for now.",
+    "excerpt": "The dollar's weakness has contributed to a long-awaited foreign-stock rally and reduced correlations with US equities—at least for now.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "International Diversification Is Finally Paying Off"
     },
     "readingTime": 3
   },
@@ -861,6 +945,27 @@
     "readingTime": 3
   },
   {
+    "id": "shutdowns-and-market-highs-the-top-3-questions-investors-are-asking-now",
+    "type": "news",
+    "title": "Shutdowns and market highs: The top 3 questions investors are asking now",
+    "slug": "shutdowns-and-market-highs-the-top-3-questions-investors-are-asking-now",
+    "date": "2026-05-31",
+    "displayDate": "May 31, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Relentless. Softer labor reports and a federal shutdown… and yet stocks keep ripping. The S&P 500, Nasdaq-100 and Dow Jones Industrial...",
+    "excerpt": "Relentless. Softer labor reports and a federal shutdown… and yet stocks keep ripping. The S&P 500, Nasdaq-100 and Dow Jones Industrial...",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Shutdowns and market highs: The top 3 questions investors are asking now"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "stock-market-today-stock-market-news-and-analysis",
     "type": "news",
     "title": "Stock Market Today: Stock Market News And Analysis",
@@ -1008,6 +1113,27 @@
     "readingTime": 3
   },
   {
+    "id": "the-s-p-500-is-forecast-to-climb-as-earnings-growth-powers-stocks-higher",
+    "type": "news",
+    "title": "The S&P 500 Is Forecast to Climb as Earnings Growth Powers Stocks Higher",
+    "slug": "the-s-p-500-is-forecast-to-climb-as-earnings-growth-powers-stocks-higher",
+    "date": "2026-05-31",
+    "displayDate": "May 31, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Goldman Sachs Research raised its S&P 500 year-end target to 8000, projecting earnings per share of $340 in 2026 (a 24% increase, year over...",
+    "excerpt": "Goldman Sachs Research raised its S&P 500 year-end target to 8000, projecting earnings per share of $340 in 2026 (a 24% increase, year over...",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "The S&P 500 Is Forecast to Climb as Earnings Growth Powers Stocks Higher"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "us-economic-forecast-q1-2026",
     "type": "news",
     "title": "US Economic Forecast Q1 2026",
@@ -1151,6 +1277,27 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "Wall Street Futures Weaken as Renewed U.S.-Iran Conflict Clouds Market Outlook: Dow Jones, S&P, Nasdaq"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "weekly-market-commentary",
+    "type": "news",
+    "title": "Weekly market commentary",
+    "slug": "weekly-market-commentary",
+    "date": "2026-05-31",
+    "displayDate": "May 31, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Stay tuned for insights on hot topics and latest trends in the financial market via the Weekly commentary by the BlackRock Investment...",
+    "excerpt": "Stay tuned for insights on hot topics and latest trends in the financial market via the Weekly commentary by the BlackRock Investment...",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Weekly market commentary"
     },
     "readingTime": 3
   },
@@ -1554,27 +1701,6 @@
     "readingTime": 3
   },
   {
-    "id": "international-diversification-is-finally-paying-off",
-    "type": "news",
-    "title": "International Diversification Is Finally Paying Off",
-    "slug": "international-diversification-is-finally-paying-off",
-    "date": "2026-05-30",
-    "displayDate": "May 30, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The dollar's weakness has contributed to a long-awaited foreign-stock rally and reduced correlations with US equities—at least for now.",
-    "excerpt": "The dollar's weakness has contributed to a long-awaited foreign-stock rally and reduced correlations with US equities—at least for now.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "International Diversification Is Finally Paying Off"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "june-fomc-meeting-the-outlook-for-us-monetary-policy",
     "type": "news",
     "title": "June FOMC meeting: the outlook for US monetary policy",
@@ -1701,27 +1827,6 @@
     "readingTime": 3
   },
   {
-    "id": "the-s-p-500-is-forecast-to-climb-as-earnings-growth-powers-stocks-higher",
-    "type": "news",
-    "title": "The S&P 500 Is Forecast to Climb as Earnings Growth Powers Stocks Higher",
-    "slug": "the-s-p-500-is-forecast-to-climb-as-earnings-growth-powers-stocks-higher",
-    "date": "2026-05-30",
-    "displayDate": "May 30, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Goldman Sachs Research raised its S&P 500 year-end target to 8000, projecting earnings per share of $340 in 2026 (a 24% increase,...",
-    "excerpt": "Goldman Sachs Research raised its S&P 500 year-end target to 8000, projecting earnings per share of $340 in 2026 (a 24% increase,...",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "The S&P 500 Is Forecast to Climb as Earnings Growth Powers Stocks Higher"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "top-10-cryptocurrencies-of-may-29-2026",
     "type": "news",
     "title": "Top 10 Cryptocurrencies Of May 29, 2026",
@@ -1844,27 +1949,6 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "WATCH: Fed Chair Powell holds news briefing after interest rate left unchanged"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "weekly-market-commentary",
-    "type": "news",
-    "title": "Weekly market commentary",
-    "slug": "weekly-market-commentary",
-    "date": "2026-05-30",
-    "displayDate": "May 30, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Stay tuned for insights on hot topics and latest trends in the financial market via the Weekly commentary by the BlackRock Investment...",
-    "excerpt": "Stay tuned for insights on hot topics and latest trends in the financial market via the Weekly commentary by the BlackRock Investment...",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Weekly market commentary"
     },
     "readingTime": 3
   },
@@ -9047,27 +9131,6 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "Yardeni raises S&P 500 target to 8,250 - CNBC interview"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "analysis-assessing-inflation-s-impact",
-    "type": "news",
-    "title": "Analysis: Assessing Inflation’s Impact",
-    "slug": "analysis-assessing-inflation-s-impact",
-    "date": "2026-05-12",
-    "displayDate": "May 12, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Elevated inflation continues to be a problem for consumers and policymakers alike, despite recent moderation. Should you be worried about...",
-    "excerpt": "Elevated inflation continues to be a problem for consumers and policymakers alike, despite recent moderation. Should you be worried about...",
-    "image": {
-      "src": "/images/articles/analysis-assessing-inflation-s-impact-thumb.jpg",
-      "alt": "Analysis: Assessing Inflation’s Impact"
     },
     "readingTime": 3
   },
