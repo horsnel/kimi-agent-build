@@ -3,8 +3,8 @@
   "type": "news",
   "title": "International Diversification Is Finally Paying Off",
   "slug": "international-diversification-is-finally-paying-off",
-  "date": "2026-05-31",
-  "displayDate": "May 31, 2026",
+  "date": "2026-06-01",
+  "displayDate": "June 1, 2026",
   "author": "Sigma Capital",
   "category": "Global Markets",
   "tags": [
@@ -12,33 +12,41 @@
     "financial news",
     "market update"
   ],
-  "metaDescription": "The dollar's weakness has contributed to a long-awaited foreign-stock rally and reduced correlations with US equities—at least for now.",
-  "excerpt": "The dollar's weakness has contributed to a long-awaited foreign-stock rally and reduced correlations with US equities—at least for now.",
+  "metaDescription": "The dollar's decline has led to a foreign-stock rally, improving international diversification's effectiveness. Historically underperforming, non-US stocks, esp",
+  "excerpt": "The dollar's decline has led to a foreign-stock rally, improving international diversification's effectiveness. Historically underperforming, non-US stocks, especially from developed markets, are now outperforming US equities. This trend is expected to continue due to sustained dollar weakness.",
   "content": {
-    "introduction": "The dollar's weakness has contributed to a long-awaited foreign-stock rally and reduced correlations with US equities—at least for now.",
-    "body": [],
-    "keyTakeaways": [],
+    "introduction": "The dollar's decline has led to a foreign-stock rally, improving international diversification's effectiveness. Historically underperforming, non-US stocks, especially from developed markets, are now outperforming US equities. This trend is expected to continue due to sustained dollar weakness.",
+    "body": [
+      "A Wealth of Common Sense. *I’m a Bogle-DIY investor with a broad allocation with most of my money in total US and foreign stock index funds. But I also sprinkle some smaller allocations to small cap value, emerging markets and bonds. Ben, is it finally time for diversification to pay off? If you zoom out, international stocks have experienced a long run of underperformance relative to U.S. stocks:. Historically, this relationship has been cyclical, but the current cycle dates back to the end of the Great Financial Crisis. International stocks flipped the script for the first time in years. That’s good for international stocks, especially emerging markets. On a relative basis, the S&P 500 and MSCI Emerging Markets Index have a boom-bust relationship:. If you own some U.S. stocks, some international stocks, some emerging market stocks, some small cap stocks, some bonds, maybe some gold or bitcoin or other asset of your choice one of them is going to outperform.",
+      "International equities are showing signs of life, emerging markets are stirring, and the catalyst driving this potential “great rotation” sits right at the heart of global finance: the US dollar’s long-overdue decline. For example, for developed market (DM) currencies captured by the MSCI World Index, the median overvaluation of the dollar in 2024 was estimated to be 23% (**Figure 5**). For emerging market (EM) currencies captured by the MSCI Emerging Markets Index, the median overvaluation of the dollar in 2024 was estimated to be a whopping 114% (**Figure 6**). When the dollar has been extremely overvalued historically, as it is now, the Fed’s Trade-Weighted Index has tended to decline over the subsequent five years at an average pace of 2.6% annually **(Figure** **10)**. Combined with their already attractive valuations relative to developed markets, emerging market stocks could see sustained outperformance if dollar weakness persists. Extreme dollar overvaluation, shifting global economic weights, and changing policy dynamics all point toward sustained dollar weakness ahead.",
+      "Investors who maintained international allocations for textbook diversification reasons consistently dragged their returns against a US-heavy"
+    ],
+    "keyTakeaways": [
+      "The dollar's decline has led to a foreign-stock rally, improving international diversification's effectiveness. Historic",
+      "A Wealth of Common Sense. *I’m a Bogle-DIY investor with a broad allocation with most of my money in total US and foreig",
+      "International equities are showing signs of life, emerging markets are stirring, and the catalyst driving this potential"
+    ],
     "source": "Morningstar",
     "sourceUrl": "https://www.morningstar.com/portfolios/international-diversification-is-finally-paying-off"
   },
   "readingTime": 3,
-  "updatedAt": "2026-05-31T19:20:28.578Z",
+  "updatedAt": "2026-06-01T04:26:43.062Z",
   "images": {
     "thumbnail": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "International Diversification Is Finally Paying Off"
     },
     "hero": {
-      "src": "/images/article_thumb_6.jpg",
+      "src": "/images/article_thumb_2.jpg",
       "alt": "International Diversification Is Finally Paying Off"
     },
     "mid": {
-      "src": "/images/article_thumb_3.jpg",
+      "src": "/images/article_thumb_6.jpg",
       "alt": "International Diversification Is Finally Paying Off"
     }
   },
   "image": {
-    "src": "/images/article_thumb_1.jpg",
+    "src": "/images/article_thumb_6.jpg",
     "alt": "International Diversification Is Finally Paying Off"
   }
 }

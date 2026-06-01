@@ -3,8 +3,8 @@
   "type": "news",
   "title": "Bears load up bets against small-cap stocks ahead of economic data releases",
   "slug": "bears-load-up-bets-against-small-cap-stocks-ahead-of-economic-data-releases",
-  "date": "2026-05-31",
-  "displayDate": "May 31, 2026",
+  "date": "2026-06-01",
+  "displayDate": "June 1, 2026",
   "author": "Sigma Capital",
   "category": "Economic Indicators",
   "tags": [
@@ -12,20 +12,28 @@
     "financial news",
     "market update"
   ],
-  "metaDescription": "Traders in the small-cap stock ETF IWM might be getting nervous ahead of Thursday's slate of U.S. economic data that includes the latest...",
-  "excerpt": "Traders in the small-cap stock ETF IWM might be getting nervous ahead of Thursday's slate of U.S. economic data that includes the latest...",
+  "metaDescription": "Traders are heavily betting against small-cap stocks due to upcoming economic data releases. This bearish trend is particularly strong in the Russell 2000 index",
+  "excerpt": "Traders are heavily betting against small-cap stocks due to upcoming economic data releases. This bearish trend is particularly strong in the Russell 2000 index. The focus is on potential inflation data influencing interest rates.",
   "content": {
-    "introduction": "Traders in the small-cap stock ETF IWM might be getting nervous ahead of Thursday's slate of U.S. economic data that includes the latest...",
-    "body": [],
-    "keyTakeaways": [],
+    "introduction": "Traders are heavily betting against small-cap stocks due to upcoming economic data releases. This bearish trend is particularly strong in the Russell 2000 index. The focus is on potential inflation data influencing interest rates.",
+    "body": [
+      "CNBC (@CNBC). 5 likes 3 replies. Bears load up bets against small-cap stocks ahead of economic data releases.",
+      "Traders in the small-cap stock ETF IWM might be getting nervous ahead of Thursday's slate of U.S. economic data that includes the latest read on the Federal Reserve's preferred gauge of inflation, the personal consumption expenditures (PCE) price index. Despite a 40% rally the past year – compared to 27% in the S&P 500 and 39% in the Nasdaq-100 – options traders look the most bearish on the Russell 2000. Put trading activity accounted for more than 70% of all options premium exchanged Wednesday, compared to 60% in QQQ and less than 40% in SPY. The bearish flow could reflect nerves around the Russell 2000's relationship with interest rates, given the small-cap index has a higher percentage of companies without profits, which can make the group particularly susceptible to spikes in Treasury yields. One representative example of the bearish trading on Wednesday was a trader purchasing $11.4 million of the 277 puts expiring July 17 and selling $3.6 million of the 271-strike puts expiring June 18 for a long put spread trade for roughly $8 million net, betting on a 7% drop in IWM by mid-July.",
+      "# Options traders betting against small caps ahead of U.S. macro data. Traders in the small-cap stock ETF IWM might be getting nervous ahead of Thursday’s slate of U.S. economic data, CNBC notes / Photo: X/NYSE. Options traders have ramped up bearish bets against small caps ahead of a slate of U.S. economic data releases, including the Fed’s preferred inflation gauge, CNBC reports. Investors’ concerns are likely tied to the data due Thursday, which could strengthen the case for higher interest rates from the Fed. Options traders in the iShares Russell 2000 ETF (IWM), which tracks the smid-cap Russell 2000 index, on Wednesday bought 70% put contracts and only 30% call contracts, CNBC notes. Traders are likely becoming nervous ahead of upcoming U.S. economic data releases, including the Fed’s preferred inflation gauge, the personal consumption expenditures index, CNBC said. CNBC also noted that the Russell 2000 has a high percentage of unprofitable companies, making the index particularly vulnerable to spikes in Treasury yields."
+    ],
+    "keyTakeaways": [
+      "Traders are heavily betting against small-cap stocks due to upcoming economic data releases. This bearish trend is parti",
+      "CNBC (@CNBC). 5 likes 3 replies",
+      "Traders in the small-cap stock ETF IWM might be getting nervous ahead of Thursday's slate of U.S"
+    ],
     "source": "CNBC",
     "sourceUrl": "https://www.cnbc.com/2026/05/27/bears-load-up-bets-against-small-cap-stocks-ahead-of-economic-data-releases.html"
   },
   "readingTime": 3,
-  "updatedAt": "2026-05-31T13:51:57.632Z",
+  "updatedAt": "2026-06-01T04:26:43.062Z",
   "images": {
     "thumbnail": {
-      "src": "/images/article_thumb_2.jpg",
+      "src": "/images/article_thumb_4.jpg",
       "alt": "Bears load up bets against small-cap stocks ahead of economic data releases"
     },
     "hero": {
@@ -38,7 +46,7 @@
     }
   },
   "image": {
-    "src": "/images/article_thumb_5.jpg",
+    "src": "/images/article_thumb_2.jpg",
     "alt": "Bears load up bets against small-cap stocks ahead of economic data releases"
   }
 }

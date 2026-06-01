@@ -1,17 +1,28 @@
 [
   {
     "id": 0,
+    "headline": "The New York Stock Exchange | NYSE",
+    "excerpt": "We set the standard with our unparalleled trading platform, enabling entrepreneurs, innovators, and investors to raise the capital they need to change the...",
+    "date": "2 days ago",
+    "category": "Market Analysis",
+    "featured": true,
+    "source": "NYSE",
+    "articleSlug": "the-new-york-stock-exchange-nyse",
+    "thumbnail": ""
+  },
+  {
+    "id": 1,
     "headline": "The S&P 500 Is Forecast to Climb as Earnings Growth Powers Stocks Higher",
     "excerpt": "Goldman Sachs Research raised its S&P 500 year-end target to 8000, projecting earnings per share of $340 in 2026 (a 24% increase, year over...",
     "date": "2 days ago",
     "category": "Market Analysis",
-    "featured": true,
+    "featured": false,
     "source": "Goldman Sachs",
     "articleSlug": "the-s-p-500-is-forecast-to-climb-as-earnings-growth-powers-stocks-higher",
     "thumbnail": ""
   },
   {
-    "id": 1,
+    "id": 2,
     "headline": "Stock Market Today: Stock Market News And Analysis",
     "excerpt": "Stock Market Today highlights the latest stock market news and analysis. Updated throughout each session, it also include stock futures.",
     "date": "2 days ago",
@@ -22,18 +33,18 @@
     "thumbnail": ""
   },
   {
-    "id": 2,
-    "headline": "Weekly market commentary",
-    "excerpt": "Stay tuned for insights on hot topics and latest trends in the financial market via the Weekly commentary by the BlackRock Investment...",
-    "date": "5 days ago",
-    "category": "Market Analysis",
+    "id": 3,
+    "headline": "Big Business This Week: A Quantum leap for tech investment",
+    "excerpt": "What is quantum computing? Is it really the next big thing, and how do ordinary investors get in on the action?",
+    "date": "2 days ago",
+    "category": "Company News",
     "featured": false,
-    "source": "www.blackrock.com",
-    "articleSlug": "weekly-market-commentary",
+    "source": "Cheddar",
+    "articleSlug": "big-business-this-week-a-quantum-leap-for-tech-investment",
     "thumbnail": ""
   },
   {
-    "id": 3,
+    "id": 4,
     "headline": "Big Tech earnings test record stock market rally as AI spending takes center stage",
     "excerpt": "Market watchers looking for clarity about the direction of Big Tech and the AI investment boom didn't get much Wednesday afternoon amid a...",
     "date": "1 month ago",
@@ -44,7 +55,7 @@
     "thumbnail": ""
   },
   {
-    "id": 4,
+    "id": 5,
     "headline": "The 4 most important numbers to watch as Alphabet, Microsoft, Amazon, and Meta report earnings",
     "excerpt": "This quarter's busiest week for tech earnings comes at a precarious time. Audio not available, try again later 1 minute.",
     "date": "1 month ago",
@@ -52,17 +63,6 @@
     "featured": false,
     "source": "Business Insider",
     "articleSlug": "the-4-most-important-numbers-to-watch-as-alphabet-microsoft-amazon-and-meta-repo",
-    "thumbnail": ""
-  },
-  {
-    "id": 5,
-    "headline": "How Big Tech and Big Power are locking arms to save the grid",
-    "excerpt": "Tech companies are changing their message and bringing more ideas and high-tech solutions to the table.",
-    "date": "Mar 25, 2026",
-    "category": "Company News",
-    "featured": false,
-    "source": "E&E News by POLITICO",
-    "articleSlug": "how-big-tech-and-big-power-are-locking-arms-to-save-the-grid",
     "thumbnail": ""
   },
   {
@@ -100,6 +100,17 @@
   },
   {
     "id": 9,
+    "headline": "Sector & Industry Performance",
+    "excerpt": "Research the performance of U.S. sectors & industries. Find the latest new and performance information on the markets and track the top...",
+    "date": "2 hours ago",
+    "category": "Sector Performance",
+    "featured": false,
+    "source": "Bloomberg.com",
+    "articleSlug": "sector-industry-performance",
+    "thumbnail": ""
+  },
+  {
+    "id": 10,
     "headline": "Weekly Market Update: Tech Stocks Lead Market Lower, Basic Materials Gain",
     "excerpt": "The Morningstar US Market Index fell 0.55%. The best-performing sectors were basic materials, up 3.06%, and financial services, up 2.38%.",
     "date": "Dec 12, 2025",
@@ -110,7 +121,7 @@
     "thumbnail": ""
   },
   {
-    "id": 10,
+    "id": 11,
     "headline": "Weekly Market Update: Stocks Remain Flat as Consumer Defensives Rise and Financial Services Fall",
     "excerpt": "The Morningstar US Market Index fell 0.25%. The best-performing sectors were consumer defensives, up 3.7%, and real estate, up 3.64%.",
     "date": "Jan 16, 2026",
@@ -121,18 +132,18 @@
     "thumbnail": ""
   },
   {
-    "id": 11,
-    "headline": "Wall St Week Ahead: Industrial sector's gains to be tested as earnings ramp up",
-    "excerpt": "The industrial sector has led the way for U.S. equities during a topsy-turvy year on Wall Street, but its strength will be tested as...",
-    "date": "Jul 20, 2025",
-    "category": "Sector Performance",
+    "id": 12,
+    "headline": "Get your portfolio’s passport stamped: Reasons to consider international investing",
+    "excerpt": "Investing in foreign companies and markets is a common way to build some diversification into your portfolio. It spreads investment risk.",
+    "date": "5 days ago",
+    "category": "Global Markets",
     "featured": false,
-    "source": "Reuters",
-    "articleSlug": "wall-st-week-ahead-industrial-sector-s-gains-to-be-tested-as-earnings-ramp-up",
+    "source": "Britannica",
+    "articleSlug": "get-your-portfolio-s-passport-stamped-reasons-to-consider-international-investin",
     "thumbnail": ""
   },
   {
-    "id": 12,
+    "id": 13,
     "headline": "It’s Not Just U.S. Stocks. A.I. and Oil Are Moving Global Markets, Too.",
     "excerpt": "Artificial intelligence has been propelling financial markets around the world this year — but not the stocks that you may have expected.",
     "date": "2 weeks ago",
@@ -143,7 +154,7 @@
     "thumbnail": ""
   },
   {
-    "id": 13,
+    "id": 14,
     "headline": "International Diversification Is Finally Paying Off",
     "excerpt": "The dollar's weakness has contributed to a long-awaited foreign-stock rally and reduced correlations with US equities—at least for now.",
     "date": "4 weeks ago",
@@ -154,54 +165,43 @@
     "thumbnail": ""
   },
   {
-    "id": 14,
-    "headline": "US stocks are off to their worst start versus the global market since 1995",
-    "excerpt": "As US valuations and price-to-earnings ratios have surged, global markets have outperformed the S&P 500.",
-    "date": "Feb 18, 2026",
-    "category": "Global Markets",
-    "featured": false,
-    "source": "Yahoo Finance",
-    "articleSlug": "us-stocks-are-off-to-their-worst-start-versus-the-global-market-since-1995",
-    "thumbnail": ""
-  },
-  {
     "id": 15,
-    "headline": "What to Consider When You’re Considering Alternative Investments",
-    "excerpt": "Alternative investments – like private equity and credit, hedge funds and real assets – can help investors solve for many of these challenges and access a...",
-    "date": "Mar 9, 2026",
+    "headline": "Quarterly Global Asset Allocation 2026 Outlook",
+    "excerpt": "Explore Paul Jackson's Invesco Big Picture report, covering 2026 themes, markets and asset allocation.",
+    "date": "Apr 1, 2026",
     "category": "Investment Strategies",
     "featured": false,
-    "source": "J.P. Morgan",
-    "articleSlug": "what-to-consider-when-you-re-considering-alternative-investments",
+    "source": "Invesco",
+    "articleSlug": "quarterly-global-asset-allocation-2026-outlook",
     "thumbnail": ""
   },
   {
     "id": 16,
-    "headline": "March 2026 Investment Strategy: Best Sectors & Market Trends",
-    "excerpt": "When geopolitical tensions rise, investors typically move towards safe haven assets. In the current environment, that shift is becoming...",
-    "date": "Mar 26, 2026",
+    "headline": "3 Ways to Simplify Your Investment Portfolio in 2026",
+    "excerpt": "Want to invest smart in 2026? Choose simplified investing over portfolio complexity.",
+    "date": "Jan 7, 2026",
     "category": "Investment Strategies",
     "featured": false,
-    "source": "ICICI Direct",
-    "articleSlug": "march-2026-investment-strategy-best-sectors-market-trends",
+    "source": "Morningstar",
+    "articleSlug": "3-ways-to-simplify-your-investment-portfolio-in-2026",
     "thumbnail": ""
   },
   {
     "id": 17,
-    "headline": "Shutdowns and market highs: The top 3 questions investors are asking now",
-    "excerpt": "Relentless. Softer labor reports and a federal shutdown… and yet stocks keep ripping. The S&P 500, Nasdaq-100 and Dow Jones Industrial...",
-    "date": "Oct 3, 2025",
+    "headline": "LPL Research’s 2026 Strategic Asset Allocation",
+    "excerpt": "LPL Research's 2026 Strategic Asset Allocation update covers equity shifts, bond strategy, and diversification for steady long-term outcomes...",
+    "date": "Feb 22, 2026",
     "category": "Investment Strategies",
     "featured": false,
-    "source": "Chase Bank",
-    "articleSlug": "shutdowns-and-market-highs-the-top-3-questions-investors-are-asking-now",
+    "source": "LPL Financial",
+    "articleSlug": "lpl-research-s-2026-strategic-asset-allocation",
     "thumbnail": ""
   },
   {
     "id": 18,
     "headline": "When is the Fed's next meeting? See the full schedule for 2026.",
     "excerpt": "The Federal Open Market Committee (FOMC) — a division of the Federal Reserve responsible for setting monetary policy — will soon meet again...",
-    "date": "2 days ago",
+    "date": "3 days ago",
     "category": "Fed Policy",
     "featured": false,
     "source": "Yahoo Finance",
@@ -210,17 +210,6 @@
   },
   {
     "id": 19,
-    "headline": "The Fed - April 28-29, 2026 FOMC Meeting",
-    "excerpt": "The Federal Reserve Board of Governors in Washington DC.",
-    "date": "1 month ago",
-    "category": "Fed Policy",
-    "featured": false,
-    "source": "Federal Reserve (.gov)",
-    "articleSlug": "the-fed-april-28-29-2026-fomc-meeting",
-    "thumbnail": ""
-  },
-  {
-    "id": 20,
     "headline": "Al Broaddus, Productivity Growth and Monetary Policy in the 1990s",
     "excerpt": "Former Richmond Fed President Al Broaddus made important contributions to FOMC discussions in the late 1990s. Broaddus argued that a sustained increase in...",
     "date": "2 weeks ago",
@@ -228,6 +217,17 @@
     "featured": false,
     "source": "Federal Reserve Bank of Richmond",
     "articleSlug": "al-broaddus-productivity-growth-and-monetary-policy-in-the-1990s",
+    "thumbnail": ""
+  },
+  {
+    "id": 20,
+    "headline": "June FOMC meeting: the outlook for US monetary policy",
+    "excerpt": "June FOMC meeting: the outlook for US monetary policy · Speakers · Join Today. Connect with our membership team. Contact. Insights. Artificial intelligence...",
+    "date": "3 weeks ago",
+    "category": "Fed Policy",
+    "featured": false,
+    "source": "OMFIF",
+    "articleSlug": "june-fomc-meeting-the-outlook-for-us-monetary-policy",
     "thumbnail": ""
   },
   {
@@ -245,7 +245,7 @@
     "id": 22,
     "headline": "Earnings Calendar, Analyst Estimates And Stocks To Watch",
     "excerpt": "This page for previews of upcoming quarterly earnings reports, analyst estimates and alerts to top-rated stocks that could offer new buying opportunities.",
-    "date": "1 day ago",
+    "date": "2 days ago",
     "category": "Earnings",
     "featured": false,
     "source": "Investor's Business Daily",
@@ -265,39 +265,50 @@
   },
   {
     "id": 24,
-    "headline": "Analysis: Assessing Inflation’s Impact",
-    "excerpt": "Elevated inflation continues to be a problem for consumers and policymakers alike. Should you be worried about how higher prices might...",
-    "date": "2 days ago",
+    "headline": "Second Quarter 2026 Survey of Professional Forecasters",
+    "excerpt": "The near-term outlook for the U.S. economy looks weaker now than it did three months ago, according to 33 forecasters surveyed by the...",
+    "date": "2 weeks ago",
     "category": "Economic Data",
     "featured": false,
-    "source": "U.S. Bank",
-    "articleSlug": "analysis-assessing-inflation-s-impact",
+    "source": "Philadelphia Federal Reserve Bank",
+    "articleSlug": "second-quarter-2026-survey-of-professional-forecasters",
     "thumbnail": ""
   },
   {
     "id": 25,
-    "headline": "Current U.S. Inflation Rate Is 3.8%: Chart and Why It Matters",
-    "excerpt": "Both major indexes, the CPI and the PCE, show inflation spiking in April, spurred by rising energy prices. Anna Helhoski Written by.",
-    "date": "3 days ago",
+    "headline": "Expect Canada’s unemployment rate to tick lower in May",
+    "excerpt": "For week of June 1. Canada's economy had a soft start to 2026. Real GDP growth disappointed consensus expectations and was broadly unchanged...",
+    "date": "2 days ago",
     "category": "Economic Data",
     "featured": false,
-    "source": "NerdWallet",
-    "articleSlug": "current-u-s-inflation-rate-is-3-8-chart-and-why-it-matters",
+    "source": "RBC",
+    "articleSlug": "expect-canada-s-unemployment-rate-to-tick-lower-in-may",
     "thumbnail": ""
   },
   {
     "id": 26,
-    "headline": "Consumer Price Index, New York-Newark-Jersey City — April 2026",
-    "excerpt": "The Consumer Price Index for All Urban Consumers (CPI-U) in the New York-Newark-Jersey City area advanced 1.0 percent in April, the U.S....",
-    "date": "3 weeks ago",
+    "headline": "How Is the Economy Doing Right Now?",
+    "excerpt": "Here's what NerdWallet's senior economist Elizabeth Renter will be watching for in economic news and data this week.",
+    "date": "2 days ago",
     "category": "Economic Data",
     "featured": false,
-    "source": "Bureau of Labor Statistics (.gov)",
-    "articleSlug": "consumer-price-index-new-york-newark-jersey-city-april-2026",
+    "source": "NerdWallet",
+    "articleSlug": "how-is-the-economy-doing-right-now",
     "thumbnail": ""
   },
   {
     "id": 27,
+    "headline": "Why Is The Crypto Market Down Today?",
+    "excerpt": "The crypto market fell 1.66% to $2.43 trillion as $889 million in long liquidations and $733 million in Bitcoin ETF outflows hit sentiment.",
+    "date": "2 days ago",
+    "category": "Crypto",
+    "featured": false,
+    "source": "Yahoo Finance",
+    "articleSlug": "why-is-the-crypto-market-down-today",
+    "thumbnail": ""
+  },
+  {
+    "id": 28,
     "headline": "Bitcoin Price Prediction 2026-2031: Can BTC Reclaim $81K?",
     "excerpt": "Bitcoin price forecast for June 2026 suggests BTC could target $78000 if buyers reclaim key resistance. Check support levels, RSI,...",
     "date": "2 days ago",
@@ -308,25 +319,14 @@
     "thumbnail": ""
   },
   {
-    "id": 28,
-    "headline": "Bitcoin price analysis: BTC left to drift as hot money chases other assets",
-    "excerpt": "Bitcoin surged more than 650% between November 2022 and October 2025 before entering a prolonged bear market.",
-    "date": "3 days ago",
-    "category": "Crypto",
-    "featured": false,
-    "source": "CoinDesk",
-    "articleSlug": "bitcoin-price-analysis-btc-left-to-drift-as-hot-money-chases-other-assets",
-    "thumbnail": ""
-  },
-  {
     "id": 29,
-    "headline": "Why Is The Crypto Market Down Today?",
-    "excerpt": "The crypto market fell 1.66% to $2.43 trillion as $889 million in long liquidations and $733 million in Bitcoin ETF outflows hit sentiment.",
-    "date": "2 days ago",
+    "headline": "Bitcoin Price Analysis: BTC Eyes $70K-$72K Support Amid Market Weakness",
+    "excerpt": "Bitcoin continues to trade under pressure after losing the critical $75K-$76K support zone, while broader market sentiment remains cautious...",
+    "date": "24 hours ago",
     "category": "Crypto",
     "featured": false,
-    "source": "BeInCrypto",
-    "articleSlug": "why-is-the-crypto-market-down-today",
+    "source": "CryptoPotato",
+    "articleSlug": "bitcoin-price-analysis-btc-eyes-70k-72k-support-amid-market-weakness",
     "thumbnail": ""
   }
 ]

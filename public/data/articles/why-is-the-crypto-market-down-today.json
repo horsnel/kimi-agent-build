@@ -3,8 +3,8 @@
   "type": "news",
   "title": "Why Is The Crypto Market Down Today?",
   "slug": "why-is-the-crypto-market-down-today",
-  "date": "2026-05-31",
-  "displayDate": "May 31, 2026",
+  "date": "2026-06-01",
+  "displayDate": "June 1, 2026",
   "author": "Sigma Capital",
   "category": "Crypto",
   "tags": [
@@ -12,20 +12,28 @@
     "financial news",
     "market update"
   ],
-  "metaDescription": "The crypto market fell 1.66% to $2.43 trillion as $889 million in long liquidations and $733 million in Bitcoin ETF outflows hit sentiment.",
-  "excerpt": "The crypto market fell 1.66% to $2.43 trillion as $889 million in long liquidations and $733 million in Bitcoin ETF outflows hit sentiment.",
+  "metaDescription": "The crypto market is down today due to profit-taking and rising geopolitical tensions. Bitcoin remains flat, while Worldcoin declines. Inflation and ETF uncerta",
+  "excerpt": "The crypto market is down today due to profit-taking and rising geopolitical tensions. Bitcoin remains flat, while Worldcoin declines. Inflation and ETF uncertainty also contribute to the downturn.",
   "content": {
-    "introduction": "The crypto market fell 1.66% to $2.43 trillion as $889 million in long liquidations and $733 million in Bitcoin ETF outflows hit sentiment.",
-    "body": [],
-    "keyTakeaways": [],
-    "source": "BeInCrypto",
-    "sourceUrl": "https://beincrypto.com/why-is-the-crypto-market-down-today/"
+    "introduction": "The crypto market is down today due to profit-taking and rising geopolitical tensions. Bitcoin remains flat, while Worldcoin declines. Inflation and ETF uncertainty also contribute to the downturn.",
+    "body": [
+      "The crypto market drifts lower today as Bitcoin holds flat and Worldcoin slides under profit-taking. Total market cap slipped 0.42% to $2.44",
+      "The latest selloff in the cryptocurrency market has coincided with rising geopolitical tensions between the US and Iran, as negotiations appear",
+      "The current crypto market in 2026 reflects similar patterns, with sentiment weakening due to inflation, ETF uncertainty, and global factors."
+    ],
+    "keyTakeaways": [
+      "The crypto market is down today due to profit-taking and rising geopolitical tensions. Bitcoin remains flat, while World",
+      "The crypto market drifts lower today as Bitcoin holds flat and Worldcoin slides under profit-taking. Total market cap sl",
+      "The latest selloff in the cryptocurrency market has coincided with rising geopolitical tensions between the US and Iran,"
+    ],
+    "source": "Yahoo Finance",
+    "sourceUrl": "https://finance.yahoo.com/news/why-crypto-market-down-today-035710630.html"
   },
   "readingTime": 3,
-  "updatedAt": "2026-05-31T13:51:57.632Z",
+  "updatedAt": "2026-06-01T04:26:43.062Z",
   "images": {
     "thumbnail": {
-      "src": "/images/article_thumb_5.jpg",
+      "src": "/images/article_thumb_4.jpg",
       "alt": "Why Is The Crypto Market Down Today?"
     },
     "hero": {
@@ -33,12 +41,12 @@
       "alt": "Why Is The Crypto Market Down Today?"
     },
     "mid": {
-      "src": "/images/article_thumb_2.jpg",
+      "src": "/images/article_thumb_5.jpg",
       "alt": "Why Is The Crypto Market Down Today?"
     }
   },
   "image": {
-    "src": "/images/article_thumb_6.jpg",
+    "src": "/images/article_thumb_2.jpg",
     "alt": "Why Is The Crypto Market Down Today?"
   }
 }

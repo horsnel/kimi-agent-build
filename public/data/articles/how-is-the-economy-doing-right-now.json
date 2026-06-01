@@ -3,37 +3,45 @@
   "type": "news",
   "title": "How Is the Economy Doing Right Now?",
   "slug": "how-is-the-economy-doing-right-now",
-  "date": "2026-05-26",
-  "displayDate": "May 26, 2026",
+  "date": "2026-06-01",
+  "displayDate": "June 1, 2026",
   "author": "Sigma Capital",
-  "category": "Economic Indicators",
+  "category": "Economic Data",
   "tags": [
-    "economic indicators",
+    "economic data",
     "financial news",
     "market update"
   ],
-  "metaDescription": "The state of the economy is generally strong and inflation is slowing down, but still remains elevated.",
-  "excerpt": "The state of the economy is generally strong and inflation is slowing down, but still remains elevated.",
+  "metaDescription": "The economy is generally strong with solid job growth, but inflation remains above the Fed's target. GDP growth is steady, and unemployment is low.",
+  "excerpt": "The economy is generally strong with solid job growth, but inflation remains above the Fed's target. GDP growth is steady, and unemployment is low.",
   "content": {
-    "introduction": "The state of the economy is generally strong and inflation is slowing down, but still remains elevated.",
-    "body": [],
-    "keyTakeaways": [],
+    "introduction": "The economy is generally strong with solid job growth, but inflation remains above the Fed's target. GDP growth is steady, and unemployment is low.",
+    "body": [
+      "The state of the economy is generally strong, although growth has slowed, and inflation remains higher than the Fed's 2% target.",
+      "However, based on the employment reports for March and April, the economy still appears to be doing well. On the other hand, job growth in April",
+      "GDP grew at 1.6% per year in Q1. Inflation is at 3.0%. The unemployment rate is 4.3%. The S&P 500 is up 25.3% since he took office."
+    ],
+    "keyTakeaways": [
+      "The economy is generally strong with solid job growth, but inflation remains above the Fed's target. GDP growth is stead",
+      "The state of the economy is generally strong, although growth has slowed, and inflation remains higher than the Fed's 2%",
+      "However, based on the employment reports for March and April, the economy still appears to be doing well. On the other h"
+    ],
     "source": "NerdWallet",
     "sourceUrl": "https://www.nerdwallet.com/finance/learn/state-of-the-economy"
   },
   "readingTime": 3,
-  "updatedAt": "2026-05-26T09:44:02.855Z",
+  "updatedAt": "2026-06-01T04:26:43.062Z",
   "images": {
     "thumbnail": {
-      "src": "/images/article_thumb_3.jpg",
+      "src": "/images/article_thumb_2.jpg",
       "alt": "How Is the Economy Doing Right Now?"
     },
     "hero": {
-      "src": "/images/article_thumb_6.jpg",
+      "src": "/images/article_thumb_5.jpg",
       "alt": "How Is the Economy Doing Right Now?"
     },
     "mid": {
-      "src": "/images/article_thumb_5.jpg",
+      "src": "/images/article_thumb_3.jpg",
       "alt": "How Is the Economy Doing Right Now?"
     }
   },

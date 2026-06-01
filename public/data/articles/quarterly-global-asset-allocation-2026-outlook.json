@@ -3,8 +3,8 @@
   "type": "news",
   "title": "Quarterly Global Asset Allocation 2026 Outlook",
   "slug": "quarterly-global-asset-allocation-2026-outlook",
-  "date": "2026-05-31",
-  "displayDate": "May 31, 2026",
+  "date": "2026-06-01",
+  "displayDate": "June 1, 2026",
   "author": "Sigma Capital",
   "category": "Investment Strategies",
   "tags": [
@@ -12,33 +12,41 @@
     "financial news",
     "market update"
   ],
-  "metaDescription": "Explore Paul Jackson's Invesco Big Picture report, covering 2026 themes, markets and asset allocation.",
-  "excerpt": "Explore Paul Jackson's Invesco Big Picture report, covering 2026 themes, markets and asset allocation.",
+  "metaDescription": "The global economy is expected to accelerate in 2026, favoring cyclical assets like non-US equities and industrials. A positive economic outlook in the U.S. is ",
+  "excerpt": "The global economy is expected to accelerate in 2026, favoring cyclical assets like non-US equities and industrials. A positive economic outlook in the U.S. is anticipated despite potential disruptions. Market conditions suggest a mid-cycle upswing favoring growth sectors.",
   "content": {
-    "introduction": "Explore Paul Jackson's Invesco Big Picture report, covering 2026 themes, markets and asset allocation.",
-    "body": [],
-    "keyTakeaways": [],
+    "introduction": "The global economy is expected to accelerate in 2026, favoring cyclical assets like non-US equities and industrials. A positive economic outlook in the U.S. is anticipated despite potential disruptions. Market conditions suggest a mid-cycle upswing favoring growth sectors.",
+    "body": [
+      "We believe the market can continue to rise in the new year, and we expect new opportunities to be unlocked as market leadership evolves. # Quarterly Global Asset Allocation 2026 Outlook. Global growth is improving, boosting cyclical assets and supporting stronger non‑US opportunities. In the latest update of our quarterly *Big Picture* report, Paul Jackson, Global Head of Asset Allocation Research, shares his Global Asset Allocation Outlook for 2026. He outlines how an improving global economy, easing financial conditions and shifting policy dynamics are shaping opportunities across regions and asset classes. Global momentum is building as financial conditions ease, real wages rise, and economic signals turn more supportive pointing to a mid investment - cycle upswing that favours cyclical assets such as non‑US equities, industrials and resource‑linked sectors. Asset allocation is the process of dividing an investment portfolio among different asset classes, such as stocks, bonds and cash and so on.",
+      "The global economy is expected to accelerate in 2026, driven by monetary easing across major economies, supportive fiscal policy in regions like Japan and",
+      "* We maintain a modest risk-on stance, including an equity overweight, and reaffirm our preference for the technology and communication services sectors. Then came a software sell-off and rising concerns about private credit – a prelude to war in the Middle East and a historic supply shock that threatened to usher in a significant shift in the economy’s macro regime. It’s a complicated backdrop but one that we think still means a positive economic outlook in the U.S. Today we see a market absorbing waves of disruption as investors contemplate a wider range of potential macro outcomes and a fatter bearish left tail, even as there are signs of de-escalation in the Middle East conflict. In our own base case scenario, in which Brent crude averages around $100 in Q2 before retreating to more normal levels over the course of Q3 and Q4, the global economy would likely be able to move past the energy shock and deliver solid growth."
+    ],
+    "keyTakeaways": [
+      "The global economy is expected to accelerate in 2026, favoring cyclical assets like non-US equities and industrials. A p",
+      "We believe the market can continue to rise in the new year, and we expect new opportunities to be unlocked as market lea",
+      "The global economy is expected to accelerate in 2026, driven by monetary easing across major economies, supportive fisca"
+    ],
     "source": "Invesco",
     "sourceUrl": "https://www.invesco.com/nl/en/insights/quarterly-global-asset-allocation-portfolio-outlook.html"
   },
   "readingTime": 3,
-  "updatedAt": "2026-05-31T04:12:22.324Z",
+  "updatedAt": "2026-06-01T04:26:43.062Z",
   "images": {
     "thumbnail": {
-      "src": "/images/article_thumb_5.jpg",
+      "src": "/images/article_thumb_1.jpg",
       "alt": "Quarterly Global Asset Allocation 2026 Outlook"
     },
     "hero": {
-      "src": "/images/article_thumb_2.jpg",
+      "src": "/images/article_thumb_4.jpg",
       "alt": "Quarterly Global Asset Allocation 2026 Outlook"
     },
     "mid": {
-      "src": "/images/article_thumb_5.jpg",
+      "src": "/images/article_thumb_1.jpg",
       "alt": "Quarterly Global Asset Allocation 2026 Outlook"
     }
   },
   "image": {
-    "src": "/images/article_thumb_3.jpg",
+    "src": "/images/article_thumb_1.jpg",
     "alt": "Quarterly Global Asset Allocation 2026 Outlook"
   }
 }

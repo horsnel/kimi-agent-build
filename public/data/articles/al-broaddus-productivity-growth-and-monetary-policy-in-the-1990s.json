@@ -3,8 +3,8 @@
   "type": "news",
   "title": "Al Broaddus, Productivity Growth and Monetary Policy in the 1990s",
   "slug": "al-broaddus-productivity-growth-and-monetary-policy-in-the-1990s",
-  "date": "2026-05-31",
-  "displayDate": "May 31, 2026",
+  "date": "2026-06-01",
+  "displayDate": "June 1, 2026",
   "author": "Sigma Capital",
   "category": "Fed Policy",
   "tags": [
@@ -12,33 +12,41 @@
     "financial news",
     "market update"
   ],
-  "metaDescription": "Former Richmond Fed President Al Broaddus made important contributions to FOMC discussions in the late 1990s. Broaddus argued that a sustained increase in...",
-  "excerpt": "Former Richmond Fed President Al Broaddus made important contributions to FOMC discussions in the late 1990s. Broaddus argued that a sustained increase in...",
+  "metaDescription": "Al Broaddus, former Richmond Fed President, argued that higher productivity growth in the 1990s would necessitate higher nominal interest rates to maintain mone",
+  "excerpt": "Al Broaddus, former Richmond Fed President, argued that higher productivity growth in the 1990s would necessitate higher nominal interest rates to maintain monetary policy effectiveness. His views emphasized the importance of adapting monetary policy to technological advancements.",
   "content": {
-    "introduction": "Former Richmond Fed President Al Broaddus made important contributions to FOMC discussions in the late 1990s. Broaddus argued that a sustained increase in...",
-    "body": [],
-    "keyTakeaways": [],
+    "introduction": "Al Broaddus, former Richmond Fed President, argued that higher productivity growth in the 1990s would necessitate higher nominal interest rates to maintain monetary policy effectiveness. His views emphasized the importance of adapting monetary policy to technological advancements.",
+    "body": [
+      "With AI's potential to boost productivity, it is useful to revisit the FOMC's discussions in the late 1990s, especially former Richmond Fed",
+      "Econ Paper: Brexit reduced UK GDP by 6% to 8%, investment by 12% to 18%, employment by 3% to 4%, and productivity by 3% to 4%.",
+      "AL Broaddus demonstrating the power of economic analysis in thinking about complex monetary policy issues. Inspiring to read... Al Broaddus,"
+    ],
+    "keyTakeaways": [
+      "Al Broaddus, former Richmond Fed President, argued that higher productivity growth in the 1990s would necessitate higher",
+      "With AI's potential to boost productivity, it is useful to revisit the FOMC's discussions in the late 1990s, especially ",
+      "Econ Paper: Brexit reduced UK GDP by 6% to 8%, investment by 12% to 18%, employment by 3% to 4%, and productivity by 3% "
+    ],
     "source": "Federal Reserve Bank of Richmond",
     "sourceUrl": "https://www.richmondfed.org/publications/research/economic_brief/2026/eb_26-15"
   },
   "readingTime": 3,
-  "updatedAt": "2026-05-31T08:39:14.223Z",
+  "updatedAt": "2026-06-01T04:26:43.062Z",
   "images": {
     "thumbnail": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Al Broaddus, Productivity Growth and Monetary Policy in the 1990s"
-    },
-    "hero": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "Al Broaddus, Productivity Growth and Monetary Policy in the 1990s"
     },
+    "hero": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Al Broaddus, Productivity Growth and Monetary Policy in the 1990s"
+    },
     "mid": {
-      "src": "/images/article_thumb_3.jpg",
+      "src": "/images/article_thumb_4.jpg",
       "alt": "Al Broaddus, Productivity Growth and Monetary Policy in the 1990s"
     }
   },
   "image": {
-    "src": "/images/article_thumb_5.jpg",
+    "src": "/images/article_thumb_1.jpg",
     "alt": "Al Broaddus, Productivity Growth and Monetary Policy in the 1990s"
   }
 }

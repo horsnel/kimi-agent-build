@@ -3,8 +3,8 @@
   "type": "news",
   "title": "Big Business This Week: A Quantum leap for tech investment",
   "slug": "big-business-this-week-a-quantum-leap-for-tech-investment",
-  "date": "2026-05-31",
-  "displayDate": "May 31, 2026",
+  "date": "2026-06-01",
+  "displayDate": "June 1, 2026",
   "author": "Sigma Capital",
   "category": "Company News",
   "tags": [
@@ -12,33 +12,41 @@
     "financial news",
     "market update"
   ],
-  "metaDescription": "What is quantum computing? Is it really the next big thing, and how do ordinary investors get in on the action?",
-  "excerpt": "What is quantum computing? Is it really the next big thing, and how do ordinary investors get in on the action?",
+  "metaDescription": "Quantum computing is rapidly advancing, with significant government and private investments, including $IBM's $2 billion commitment, signaling its potential as ",
+  "excerpt": "Quantum computing is rapidly advancing, with significant government and private investments, including $IBM's $2 billion commitment, signaling its potential as the next big tech revolution. Ordinary investors can participate through tech stocks and emerging quantum firms.",
   "content": {
-    "introduction": "What is quantum computing? Is it really the next big thing, and how do ordinary investors get in on the action?",
-    "body": [],
-    "keyTakeaways": [],
+    "introduction": "Quantum computing is rapidly advancing, with significant government and private investments, including $IBM's $2 billion commitment, signaling its potential as the next big tech revolution. Ordinary investors can participate through tech stocks and emerging quantum firms.",
+    "body": [
+      "# Big Business This Week: A Quantum leap for tech investment. Imagine a computer that’s so fast it can discover new drugs to fight cancer or Lou Gehrig’s Disease and bring them to market in a few years, instead of decades. **Put those together, and you’ve got quantum computing, a decades-old science that may be on the cusp of an AI-like explosion.**. The government investments follow a wave of private equity and stock market investment in quantum computing firms, and investments from larger firms, like $IBM, which will get $1 billion from the government and invest another $1 billion of its own in quantum computing. Is it really the next big thing, and how do ordinary investors get in on the action?**. The deep science of quantum computing is too complicated to explain here, but the keys to remember are that it **is lightning fast, massively complex, and may just be getting close enough for real world applications.** That’s where the business case comes in.",
+      "Big Business This Week: A Quantum leap for tech investment · Big Business This Week: What Are The Hidden Risks of Giant IPOs? Big Business This Week: 'They're",
+      "signed letters of intent to invest some $2 billion in nine U.S. firms with promising quantum computing technologies. The money, already part of"
+    ],
+    "keyTakeaways": [
+      "Quantum computing is rapidly advancing, with significant government and private investments, including $IBM's $2 billion",
+      "# Big Business This Week: A Quantum leap for tech investment. Imagine a computer that’s so fast it can discover new drug",
+      "Big Business This Week: A Quantum leap for tech investment · Big Business This Week: What Are The Hidden Risks of Giant "
+    ],
     "source": "Cheddar",
     "sourceUrl": "https://www.cheddar.com/media/big-business-this-week-a-quantum-leap-for-tech-investment/"
   },
   "readingTime": 3,
-  "updatedAt": "2026-05-31T13:51:57.632Z",
+  "updatedAt": "2026-06-01T04:26:43.062Z",
   "images": {
     "thumbnail": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Big Business This Week: A Quantum leap for tech investment"
-    },
-    "hero": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "Big Business This Week: A Quantum leap for tech investment"
     },
+    "hero": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Big Business This Week: A Quantum leap for tech investment"
+    },
     "mid": {
-      "src": "/images/article_thumb_3.jpg",
+      "src": "/images/article_thumb_1.jpg",
       "alt": "Big Business This Week: A Quantum leap for tech investment"
     }
   },
   "image": {
-    "src": "/images/article_thumb_5.jpg",
+    "src": "/images/article_thumb_3.jpg",
     "alt": "Big Business This Week: A Quantum leap for tech investment"
   }
 }

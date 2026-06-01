@@ -3,8 +3,8 @@
   "type": "news",
   "title": "Sector & Industry Performance",
   "slug": "sector-industry-performance",
-  "date": "2026-05-28",
-  "displayDate": "May 28, 2026",
+  "date": "2026-06-01",
+  "displayDate": "June 1, 2026",
   "author": "Sigma Capital",
   "category": "Sector Performance",
   "tags": [
@@ -12,33 +12,41 @@
     "financial news",
     "market update"
   ],
-  "metaDescription": "Research the performance of U.S. sectors & industries. Find the latest new and performance information on the markets and track the top...",
-  "excerpt": "Research the performance of U.S. sectors & industries. Find the latest new and performance information on the markets and track the top...",
+  "metaDescription": "The performance of U.S. sectors and industries is tracked using the S&P 500 GICS indices, with the best-performing sectors identified by price changes over sele",
+  "excerpt": "The performance of U.S. sectors and industries is tracked using the S&P 500 GICS indices, with the best-performing sectors identified by price changes over selected periods. Current top sectors are updated every 10 minutes during trading hours. For detailed sector performance, visit Bloomberg, Fidel",
   "content": {
-    "introduction": "Research the performance of U.S. sectors & industries. Find the latest new and performance information on the markets and track the top...",
-    "body": [],
-    "keyTakeaways": [],
+    "introduction": "The performance of U.S. sectors and industries is tracked using the S&P 500 GICS indices, with the best-performing sectors identified by price changes over selected periods. Current top sectors are updated every 10 minutes during trading hours. For detailed sector performance, visit Bloomberg, Fidelity Investments, or Barchart.",
+    "body": [
+      "Research the performance of U.S. sectors & industries. Find the latest new and performance information on the markets and track the top global sectors.",
+      "How is performance calculated. U.S. Sectors & Industries Performance is represented by the S&P 500 GICS® (Global Industry Classification Standard) indices.",
+      "The Industry Performance page ranks sectors of stocks by Price Change (the difference in the last price and the previous, settlement price) over selected periods of time. This page is designed to show you the best performing sectors of the market over the selected period of time. Use the checkbox at the top of the page to include all sectors, including those with less than 10 stocks. The list of symbols included on the page is **updated every 10 minutes throughout the trading day**. Most data tables can be analyzed using \"Views.\" A View simply presents the symbols on the page with a different set of columns. Click the \"+\" icon in the first column (on the left) to view more data for the selected symbol. The \"More Data\" widgets are also available from the Links column of the right side of the data table. Also unique to Barchart, Flipcharts allow you to scroll through all the symbols on the table in a chart view."
+    ],
+    "keyTakeaways": [
+      "The performance of U.S",
+      "Research the performance of U.S",
+      "How is performance calculated. U"
+    ],
     "source": "Bloomberg.com",
     "sourceUrl": "https://www.bloomberg.com/markets/sectors"
   },
   "readingTime": 3,
-  "updatedAt": "2026-05-28T20:26:33.076Z",
+  "updatedAt": "2026-06-01T04:26:43.062Z",
   "images": {
     "thumbnail": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "Sector & Industry Performance"
     },
     "hero": {
-      "src": "/images/article_thumb_2.jpg",
+      "src": "/images/article_thumb_1.jpg",
       "alt": "Sector & Industry Performance"
     },
     "mid": {
-      "src": "/images/article_thumb_5.jpg",
+      "src": "/images/article_thumb_3.jpg",
       "alt": "Sector & Industry Performance"
     }
   },
   "image": {
-    "src": "/images/article_thumb_5.jpg",
+    "src": "/images/article_thumb_6.jpg",
     "alt": "Sector & Industry Performance"
   }
 }
