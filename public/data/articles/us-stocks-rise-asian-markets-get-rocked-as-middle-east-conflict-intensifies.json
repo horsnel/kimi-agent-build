@@ -3,8 +3,8 @@
   "type": "news",
   "title": "US stocks rise, Asian markets get rocked as Middle East conflict intensifies",
   "slug": "us-stocks-rise-asian-markets-get-rocked-as-middle-east-conflict-intensifies",
-  "date": "2026-05-31",
-  "displayDate": "May 31, 2026",
+  "date": "2026-06-01",
+  "displayDate": "June 1, 2026",
   "author": "Sigma Capital",
   "category": "Global Markets",
   "tags": [
@@ -12,28 +12,36 @@
     "financial news",
     "market update"
   ],
-  "metaDescription": "Oil prices Wednesday paused their recent surge, supporting a rebound in European and US stocks, as investors hold hope for limited long-term...",
-  "excerpt": "Oil prices Wednesday paused their recent surge, supporting a rebound in European and US stocks, as investors hold hope for limited long-term...",
+  "metaDescription": "US stocks have risen while Asian markets experienced declines amid intensifying Middle East conflict. Oil prices stabilized, contributing to the market shifts. ",
+  "excerpt": "US stocks have risen while Asian markets experienced declines amid intensifying Middle East conflict. Oil prices stabilized, contributing to the market shifts. For detailed information, refer to financial news sources.",
   "content": {
-    "introduction": "Oil prices Wednesday paused their recent surge, supporting a rebound in European and US stocks, as investors hold hope for limited long-term...",
-    "body": [],
-    "keyTakeaways": [],
+    "introduction": "US stocks have risen while Asian markets experienced declines amid intensifying Middle East conflict. Oil prices stabilized, contributing to the market shifts. For detailed information, refer to financial news sources.",
+    "body": [
+      "... US stocks rise, Asian markets get rocked as Middle East conflict intensifies. CNN Business • 2mo ago. CL=F. COPYRIGHT.",
+      "Asian stocks sank Wednesday, while European and US stocks gained after two days of intense volatility. Oil prices steadied, easing pressure on",
+      "... US stocks rise, Asian markets get rocked as Middle East conflict intensifies."
+    ],
+    "keyTakeaways": [
+      "US stocks have risen while Asian markets experienced declines amid intensifying Middle East conflict. Oil prices stabili",
+      ".",
+      "Asian stocks sank Wednesday, while European and US stocks gained after two days of intense volatility. Oil prices steadi"
+    ],
     "source": "CNN",
     "sourceUrl": "https://www.cnn.com/2026/03/04/investing/global-stocks-iran"
   },
   "readingTime": 3,
-  "updatedAt": "2026-05-31T08:39:14.223Z",
+  "updatedAt": "2026-06-01T11:23:07.003Z",
   "images": {
     "thumbnail": {
-      "src": "/images/article_thumb_2.jpg",
+      "src": "/images/article_thumb_4.jpg",
       "alt": "US stocks rise, Asian markets get rocked as Middle East conflict intensifies"
     },
     "hero": {
-      "src": "/images/article_thumb_4.jpg",
+      "src": "/images/article_thumb_6.jpg",
       "alt": "US stocks rise, Asian markets get rocked as Middle East conflict intensifies"
     },
     "mid": {
-      "src": "/images/article_thumb_4.jpg",
+      "src": "/images/article_thumb_1.jpg",
       "alt": "US stocks rise, Asian markets get rocked as Middle East conflict intensifies"
     }
   },

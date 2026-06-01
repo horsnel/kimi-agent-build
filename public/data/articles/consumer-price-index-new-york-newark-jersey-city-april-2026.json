@@ -3,8 +3,8 @@
   "type": "news",
   "title": "Consumer Price Index, New York-Newark-Jersey City — April 2026",
   "slug": "consumer-price-index-new-york-newark-jersey-city-april-2026",
-  "date": "2026-05-31",
-  "displayDate": "May 31, 2026",
+  "date": "2026-06-01",
+  "displayDate": "June 1, 2026",
   "author": "Sigma Capital",
   "category": "Economic Data",
   "tags": [
@@ -12,33 +12,41 @@
     "financial news",
     "market update"
   ],
-  "metaDescription": "The Consumer Price Index for All Urban Consumers (CPI-U) in the New York-Newark-Jersey City area advanced 1.0 percent in April, the U.S....",
-  "excerpt": "The Consumer Price Index for All Urban Consumers (CPI-U) in the New York-Newark-Jersey City area advanced 1.0 percent in April, the U.S....",
+  "metaDescription": "The Consumer Price Index for New York-Newark-Jersey City rose 1.0% in April 2026. Shelter costs increased notably. The latest index value is 507.535.",
+  "excerpt": "The Consumer Price Index for New York-Newark-Jersey City rose 1.0% in April 2026. Shelter costs increased notably. The latest index value is 507.535.",
   "content": {
-    "introduction": "The Consumer Price Index for All Urban Consumers (CPI-U) in the New York-Newark-Jersey City area advanced 1.0 percent in April, the U.S....",
-    "body": [],
-    "keyTakeaways": [],
+    "introduction": "The Consumer Price Index for New York-Newark-Jersey City rose 1.0% in April 2026. Shelter costs increased notably. The latest index value is 507.535.",
+    "body": [
+      "The Consumer Price Index for All Urban Consumers (CPI-U) in the New York-Newark-Jersey City area advanced 1.0 percent in April, the U.S.",
+      "rent of primary residence([2](https://www.bls.gov/regions/northeast/news-release/consumerpriceindex_newyork.htm#ro2cpi-newyork-table1.f.2 \"Click to jump to footnotes at bottom of the table\")) | [![Image 26: Go to web page with historical data for series CUURS12ASASL5](https://www.bls.gov/images/icon_hist.gif)](https://data.bls.gov/timeseries/CUURS12ASEHC01?amp%253bdata_tool=XGtable&output_view=data&include_graphs=true) | 502.845 | 503.957 | 507.535 | 4.1 | 0.9 | 0.7 |. | New and used motor vehicles([3](https://www.bls.gov/regions/northeast/news-release/consumerpriceindex_newyork.htm#ro2cpi-newyork-table1.f.3 \"Click to jump to footnotes at bottom of the table\")) | [![Image 31: Go to web page with historical data for series CUURS12ASASL5](https://www.bls.gov/images/icon_hist.gif)](https://data.bls.gov/timeseries/CUURS12ASETA?amp%253bdata_tool=XGtable&output_view=data&include_graphs=true) | 125.252 | 125.544 | 126.157 | -0.6 | 0.7 | 0.5 |. | New vehicles([1](https://www.bls.gov/regions/northeast/news-release/consumerpriceindex_newyork.htm#ro2cpi-newyork-table1.f.1 \"Click to jump to footnotes at bottom of the table\")) | [![Image 32: Go to web page with historical data for series CUURS12ASASL5](https://www.bls.gov/images/icon_hist.gif)](https://data.bls.gov/timeseries/CUURS12ASETA01?amp%253bdata_tool=XGtable&output_view=data&include_graphs=true) | 260.202 | 260.777 | 261.150 | 0.9 | 0.4 | 0.1 |. | Services less rent of shelter([1](https://www.bls.gov/regions/northeast/news-release/consumerpriceindex_newyork.htm#ro2cpi-newyork-table2.f.1 \"Click to jump to footnotes at bottom of the table\")) | [![Image 59: Go to web page with historical data for series CUURS12ASASL5](https://www.bls.gov/images/icon_hist.gif)](https://data.bls.gov/timeseries/CUURS12ASASL2RS?amp%253bdata_tool=XGtable&output_view=data&include_graphs=true) | 435.311 | 438.303 | 443.496 | 4.8 | 1.9 | 1.2 |.",
+      "Consumer Price Index for All Urban Consumers: Shelter in New York-Newark-Jersey City, NY-NJ-PA (CBSA) (CUURA101SAH1) ; Apr 2026: 492.646 ; Mar 2026: 488.890 ; Feb"
+    ],
+    "keyTakeaways": [
+      "The Consumer Price Index for New York-Newark-Jersey City rose 1.0% in April 2026",
+      "The Consumer Price Index for All Urban Consumers (CPI-U) in the New York-Newark-Jersey City area advanced 1.0 percent in",
+      "rent of primary residence([2](https://www.bls"
+    ],
     "source": "Bureau of Labor Statistics (.gov)",
     "sourceUrl": "https://www.bls.gov/regions/northeast/news-release/consumerpriceindex_newyork.htm"
   },
   "readingTime": 3,
-  "updatedAt": "2026-05-31T08:39:14.223Z",
+  "updatedAt": "2026-06-01T11:23:07.003Z",
   "images": {
     "thumbnail": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "Consumer Price Index, New York-Newark-Jersey City — April 2026"
     },
     "hero": {
-      "src": "/images/article_thumb_3.jpg",
+      "src": "/images/article_thumb_6.jpg",
       "alt": "Consumer Price Index, New York-Newark-Jersey City — April 2026"
     },
     "mid": {
-      "src": "/images/article_thumb_2.jpg",
+      "src": "/images/article_thumb_5.jpg",
       "alt": "Consumer Price Index, New York-Newark-Jersey City — April 2026"
     }
   },
   "image": {
-    "src": "/images/article_thumb_2.jpg",
+    "src": "/images/article_thumb_4.jpg",
     "alt": "Consumer Price Index, New York-Newark-Jersey City — April 2026"
   }
 }

@@ -42,6 +42,48 @@
     "readingTime": 3
   },
   {
+    "id": "analysis-assessing-inflation-s-impact",
+    "type": "news",
+    "title": "Analysis: Assessing Inflation’s Impact",
+    "slug": "analysis-assessing-inflation-s-impact",
+    "date": "2026-06-01",
+    "displayDate": "June 1, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Inflation raises living costs, influences interest rates, and affects investment decisions and consumer spending. Despite slowing, it continues to impact financ",
+    "excerpt": "Inflation raises living costs, influences interest rates, and affects investment decisions and consumer spending. Despite slowing, it continues to impact financial well-being and spending habits.",
+    "image": {
+      "src": "/images/articles/analysis-assessing-inflation-s-impact-thumb.jpg",
+      "alt": "Analysis: Assessing Inflation’s Impact"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "asian-stock-markets-plunge-amid-trump-s-ultimatum-on-iran",
+    "type": "news",
+    "title": "Asian stock markets plunge amid Trump’s ultimatum on Iran",
+    "slug": "asian-stock-markets-plunge-amid-trump-s-ultimatum-on-iran",
+    "date": "2026-06-01",
+    "displayDate": "June 1, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Asian stock markets fell sharply due to Trump's ultimatum on Iran. Key indexes in Japan, South Korea, and Hong Kong dropped significantly. Investor fears of reg",
+    "excerpt": "Asian stock markets fell sharply due to Trump's ultimatum on Iran. Key indexes in Japan, South Korea, and Hong Kong dropped significantly. Investor fears of regional conflict escalated the declines.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Asian stock markets plunge amid Trump’s ultimatum on Iran"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "bears-load-up-bets-against-small-cap-stocks-ahead-of-economic-data-releases",
     "type": "news",
     "title": "Bears load up bets against small-cap stocks ahead of economic data releases",
@@ -147,6 +189,27 @@
     "readingTime": 3
   },
   {
+    "id": "bitcoin-price-analysis-btc-left-to-drift-as-hot-money-chases-other-assets",
+    "type": "news",
+    "title": "Bitcoin price analysis: BTC left to drift as hot money chases other assets",
+    "slug": "bitcoin-price-analysis-btc-left-to-drift-as-hot-money-chases-other-assets",
+    "date": "2026-06-01",
+    "displayDate": "June 1, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin price is declining, facing six months of sell pressure, while hot money shifts to memory and semiconductor companies. Despite distribution, price remain",
+    "excerpt": "Bitcoin price is declining, facing six months of sell pressure, while hot money shifts to memory and semiconductor companies. Despite distribution, price remains above $60,000. Institutional demand absorbs supply.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Bitcoin price analysis: BTC left to drift as hot money chases other assets"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "bitcoin-price-prediction-2026-2031-can-btc-reclaim-81k",
     "type": "news",
     "title": "Bitcoin Price Prediction 2026-2031: Can BTC Reclaim $81K?",
@@ -164,6 +227,90 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "Bitcoin Price Prediction 2026-2031: Can BTC Reclaim $81K?"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "bitcoin-to-us-dollar-price-today-btc-usd-price-chart",
+    "type": "news",
+    "title": "Bitcoin to US Dollar Price Today | BTC/USD Price Chart",
+    "slug": "bitcoin-to-us-dollar-price-today-btc-usd-price-chart",
+    "date": "2026-06-01",
+    "displayDate": "June 1, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "As of today, Bitcoin is priced at $72,624.93 USD. This value is derived from real-time updates and reflects a 24-hour trading volume of over $20 billion. The ma",
+    "excerpt": "As of today, Bitcoin is priced at $72,624.93 USD. This value is derived from real-time updates and reflects a 24-hour trading volume of over $20 billion. The market cap is around $1.5 trillion.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Bitcoin to US Dollar Price Today | BTC/USD Price Chart"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "consumer-price-index-new-york-newark-jersey-city-april-2026",
+    "type": "news",
+    "title": "Consumer Price Index, New York-Newark-Jersey City — April 2026",
+    "slug": "consumer-price-index-new-york-newark-jersey-city-april-2026",
+    "date": "2026-06-01",
+    "displayDate": "June 1, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Consumer Price Index for New York-Newark-Jersey City rose 1.0% in April 2026. Shelter costs increased notably. The latest index value is 507.535.",
+    "excerpt": "The Consumer Price Index for New York-Newark-Jersey City rose 1.0% in April 2026. Shelter costs increased notably. The latest index value is 507.535.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Consumer Price Index, New York-Newark-Jersey City — April 2026"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "could-sofi-stock-finally-be-the-next-s-p-500-addition-here-s-what-retail-thinks",
+    "type": "news",
+    "title": "Could SoFi Stock Finally Be The Next S&P 500 Addition? Here’s What Retail Thinks",
+    "slug": "could-sofi-stock-finally-be-the-next-s-p-500-addition-here-s-what-retail-thinks",
+    "date": "2026-06-01",
+    "displayDate": "June 1, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Retail sentiment on Stocktwits is extremely bullish about SoFi's potential S&P 500 inclusion. Reddit discussions and YouTube videos highlight major catalysts an",
+    "excerpt": "Retail sentiment on Stocktwits is extremely bullish about SoFi's potential S&P 500 inclusion. Reddit discussions and YouTube videos highlight major catalysts and insider buying activity. SoFi's higher volume and institutional interest suggest a strong possibility of S&P 500 addition.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Could SoFi Stock Finally Be The Next S&P 500 Addition? Here’s What Retail Thinks"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "current-u-s-inflation-rate-is-3-8-chart-and-why-it-matters",
+    "type": "news",
+    "title": "Current U.S. Inflation Rate Is 3.8%: Chart and Why It Matters",
+    "slug": "current-u-s-inflation-rate-is-3-8-chart-and-why-it-matters",
+    "date": "2026-06-01",
+    "displayDate": "June 1, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The U.S. inflation rate is currently 3.8%, up from 3.3% in March, according to the latest CPI report. This rise is driven by increases in energy and shelter cos",
+    "excerpt": "The U.S. inflation rate is currently 3.8%, up from 3.3% in March, according to the latest CPI report. This rise is driven by increases in energy and shelter costs. The rate is the highest since May 2023.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Current U.S. Inflation Rate Is 3.8%: Chart and Why It Matters"
     },
     "readingTime": 3
   },
@@ -248,6 +395,48 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "Get your portfolio’s passport stamped: Reasons to consider international investing"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "health-care-sector-investing-in-stocks-that-help-keep-you-well",
+    "type": "news",
+    "title": "Health care sector: Investing in stocks that help keep you well",
+    "slug": "health-care-sector-investing-in-stocks-that-help-keep-you-well",
+    "date": "2026-06-01",
+    "displayDate": "June 1, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Investing in healthcare stocks can provide stable returns due to the sector's resilience and consistent demand for medical services. The healthcare sector inclu",
+    "excerpt": "Investing in healthcare stocks can provide stable returns due to the sector's resilience and consistent demand for medical services. The healthcare sector includes companies in pharmaceuticals, biotechnology, and medical devices. These stocks often offer dividends and can grow with advancements in m",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Health care sector: Investing in stocks that help keep you well"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "how-big-tech-and-big-power-are-locking-arms-to-save-the-grid",
+    "type": "news",
+    "title": "How Big Tech and Big Power are locking arms to save the grid",
+    "slug": "how-big-tech-and-big-power-are-locking-arms-to-save-the-grid",
+    "date": "2026-06-01",
+    "displayDate": "June 1, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Big Tech and energy companies are collaborating to enhance grid flexibility, using AI to manage operations and develop low-power semiconductors for next-gen AI,",
+    "excerpt": "Big Tech and energy companies are collaborating to enhance grid flexibility, using AI to manage operations and develop low-power semiconductors for next-gen AI, aiming to address grid modernization and capacity challenges.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "How Big Tech and Big Power are locking arms to save the grid"
     },
     "readingTime": 3
   },
@@ -357,6 +546,48 @@
     "readingTime": 3
   },
   {
+    "id": "march-2026-investment-strategy-best-sectors-market-trends",
+    "type": "news",
+    "title": "March 2026 Investment Strategy: Best Sectors & Market Trends",
+    "slug": "march-2026-investment-strategy-best-sectors-market-trends",
+    "date": "2026-06-01",
+    "displayDate": "June 1, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "For March 2026, maintain an equal weight in equities and use dips for gradual accumulation; prefer fixed deposits and short-term high-quality carry-oriented pro",
+    "excerpt": "For March 2026, maintain an equal weight in equities and use dips for gradual accumulation; prefer fixed deposits and short-term high-quality carry-oriented products in fixed income. Focus on bonds due to declining yields and rising geopolitical risks.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "March 2026 Investment Strategy: Best Sectors & Market Trends"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "medical-technology-stocks-innovation-endures-as-valuations-reset",
+    "type": "news",
+    "title": "Medical Technology Stocks: Innovation Endures as Valuations Reset",
+    "slug": "medical-technology-stocks-innovation-endures-as-valuations-reset",
+    "date": "2026-06-01",
+    "displayDate": "June 1, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Medical technology stocks have seen a valuation reset after a COVID-induced surge, but innovation continues to create opportunities. Despite lagging, attractive",
+    "excerpt": "Medical technology stocks have seen a valuation reset after a COVID-induced surge, but innovation continues to create opportunities. Despite lagging, attractive valuations and solid earnings forecasts remain. Long-term earnings growth and innovation persist in the sector.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Medical Technology Stocks: Innovation Endures as Valuations Reset"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "quarterly-global-asset-allocation-2026-outlook",
     "type": "news",
     "title": "Quarterly Global Asset Allocation 2026 Outlook",
@@ -374,6 +605,48 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "Quarterly Global Asset Allocation 2026 Outlook"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "s-p-500-monthly-review-index-sets-new-record-at-7-580-notching-ninth-consecutive",
+    "type": "news",
+    "title": "S&P 500 Monthly Review: Index Sets New Record at 7,580, Notching Ninth Consecutive Weekly Gain on AI Rally and Iran Optimism",
+    "slug": "s-p-500-monthly-review-index-sets-new-record-at-7-580-notching-ninth-consecutive",
+    "date": "2026-06-01",
+    "displayDate": "June 1, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The S&P 500 reached a new record high of 7,580.06 on May 29, 2026, marking its ninth consecutive weekly gain. This surge was driven by strong corporate earnings",
+    "excerpt": "The S&P 500 reached a new record high of 7,580.06 on May 29, 2026, marking its ninth consecutive weekly gain. This surge was driven by strong corporate earnings and optimism over potential Iran negotiations. The index closed 5% higher for the month.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "S&P 500 Monthly Review: Index Sets New Record at 7,580, Notching Ninth Consecutive Weekly Gain on AI Rally and Iran Optimism"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "s-p-500-on-track-for-strongest-earnings-growth-since-2021",
+    "type": "news",
+    "title": "S&P 500 on Track for Strongest Earnings Growth Since 2021",
+    "slug": "s-p-500-on-track-for-strongest-earnings-growth-since-2021",
+    "date": "2026-06-01",
+    "displayDate": "June 1, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The S&P 500 is experiencing its strongest earnings growth since 2021, with 93% of companies reporting earnings that exceeded analyst expectations. This growth i",
+    "excerpt": "The S&P 500 is experiencing its strongest earnings growth since 2021, with 93% of companies reporting earnings that exceeded analyst expectations. This growth is driven by strong performance across various sectors, not just AI. First-quarter earnings per share are up 26% year-on-year.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "S&P 500 on Track for Strongest Earnings Growth Since 2021"
     },
     "readingTime": 3
   },
@@ -420,6 +693,27 @@
     "readingTime": 3
   },
   {
+    "id": "stock-market-today-broad-momentum-driven-by-ai-optimism-as-nikkei-leads-asian-ra",
+    "type": "news",
+    "title": "Stock market today: Broad momentum driven by AI optimism as Nikkei leads Asian rally, S&P 500 reaches 7,580.07",
+    "slug": "stock-market-today-broad-momentum-driven-by-ai-optimism-as-nikkei-leads-asian-ra",
+    "date": "2026-06-01",
+    "displayDate": "June 1, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Today, the S&P 500 reached 7,580.07, and the Nikkei led an Asian rally driven by AI optimism. Japan's Nikkei hit a record high. AI-fueled gains boosted Asian ma",
+    "excerpt": "Today, the S&P 500 reached 7,580.07, and the Nikkei led an Asian rally driven by AI optimism. Japan's Nikkei hit a record high. AI-fueled gains boosted Asian markets.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Stock market today: Broad momentum driven by AI optimism as Nikkei leads Asian rally, S&P 500 reaches 7,580.07"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "stock-market-today-stock-market-news-and-analysis",
     "type": "news",
     "title": "Stock Market Today: Stock Market News And Analysis",
@@ -462,6 +756,27 @@
     "readingTime": 3
   },
   {
+    "id": "the-best-healthcare-stocks-to-buy",
+    "type": "news",
+    "title": "The Best Healthcare Stocks to Buy",
+    "slug": "the-best-healthcare-stocks-to-buy",
+    "date": "2026-06-01",
+    "displayDate": "June 1, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Agilent Technologies, GE HealthCare Technologies, and Novo Nordisk are top healthcare stocks to consider. These companies have strong market positions and growt",
+    "excerpt": "Agilent Technologies, GE HealthCare Technologies, and Novo Nordisk are top healthcare stocks to consider. These companies have strong market positions and growth potential.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "The Best Healthcare Stocks to Buy"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "the-new-york-stock-exchange-nyse",
     "type": "news",
     "title": "The New York Stock Exchange | NYSE",
@@ -483,6 +798,27 @@
     "readingTime": 3
   },
   {
+    "id": "the-odds-are-changing-investing-in-2026",
+    "type": "news",
+    "title": "The Odds Are Changing: Investing in 2026",
+    "slug": "the-odds-are-changing-investing-in-2026",
+    "date": "2026-06-01",
+    "displayDate": "June 1, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "In 2026, the stock market outlook remains optimistic, but political risks and changing interest rates pose challenges. BlackRock highlights evolving investment ",
+    "excerpt": "In 2026, the stock market outlook remains optimistic, but political risks and changing interest rates pose challenges. BlackRock highlights evolving investment strategies. U.S. Bank suggests staying invested and diversified to navigate market changes.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "The Odds Are Changing: Investing in 2026"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "the-s-p-500-is-forecast-to-climb-as-earnings-growth-powers-stocks-higher",
     "type": "news",
     "title": "The S&P 500 Is Forecast to Climb as Earnings Growth Powers Stocks Higher",
@@ -500,6 +836,48 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "The S&P 500 Is Forecast to Climb as Earnings Growth Powers Stocks Higher"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "the-weekly-bottom-line",
+    "type": "news",
+    "title": "The Weekly Bottom Line",
+    "slug": "the-weekly-bottom-line",
+    "date": "2026-06-01",
+    "displayDate": "June 1, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Inflation rose to 3.8% in April 2026 due to higher gasoline prices. The U.S. economy remains more insulated from oil price increases. Global economies showed a ",
+    "excerpt": "Inflation rose to 3.8% in April 2026 due to higher gasoline prices. The U.S. economy remains more insulated from oil price increases. Global economies showed a loss of momentum due to high energy costs.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "The Weekly Bottom Line"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "us-stocks-rise-asian-markets-get-rocked-as-middle-east-conflict-intensifies",
+    "type": "news",
+    "title": "US stocks rise, Asian markets get rocked as Middle East conflict intensifies",
+    "slug": "us-stocks-rise-asian-markets-get-rocked-as-middle-east-conflict-intensifies",
+    "date": "2026-06-01",
+    "displayDate": "June 1, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "US stocks have risen while Asian markets experienced declines amid intensifying Middle East conflict. Oil prices stabilized, contributing to the market shifts. ",
+    "excerpt": "US stocks have risen while Asian markets experienced declines amid intensifying Middle East conflict. Oil prices stabilized, contributing to the market shifts. For detailed information, refer to financial news sources.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "US stocks rise, Asian markets get rocked as Middle East conflict intensifies"
     },
     "readingTime": 3
   },
@@ -563,6 +941,27 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "Weekly market wrap"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "what-to-consider-when-you-re-considering-alternative-investments",
+    "type": "news",
+    "title": "What to Consider When You’re Considering Alternative Investments",
+    "slug": "what-to-consider-when-you-re-considering-alternative-investments",
+    "date": "2026-06-01",
+    "displayDate": "June 1, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "When considering alternative investments, prioritize due diligence, evaluate manager selection, and assess how they fit into your overall portfolio strategy to ",
+    "excerpt": "When considering alternative investments, prioritize due diligence, evaluate manager selection, and assess how they fit into your overall portfolio strategy to enhance diversification and manage risk.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "What to Consider When You’re Considering Alternative Investments"
     },
     "readingTime": 3
   },
@@ -672,27 +1071,6 @@
     "readingTime": 3
   },
   {
-    "id": "analysis-assessing-inflation-s-impact",
-    "type": "news",
-    "title": "Analysis: Assessing Inflation’s Impact",
-    "slug": "analysis-assessing-inflation-s-impact",
-    "date": "2026-05-31",
-    "displayDate": "May 31, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Elevated inflation continues to be a problem for consumers and policymakers alike. Should you be worried about how higher prices might...",
-    "excerpt": "Elevated inflation continues to be a problem for consumers and policymakers alike. Should you be worried about how higher prices might...",
-    "image": {
-      "src": "/images/articles/analysis-assessing-inflation-s-impact-thumb.jpg",
-      "alt": "Analysis: Assessing Inflation’s Impact"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "applied-digital-reports-fiscal-third-quarter-2026-results",
     "type": "news",
     "title": "Applied Digital Reports Fiscal Third Quarter 2026 Results",
@@ -710,27 +1088,6 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "Applied Digital Reports Fiscal Third Quarter 2026 Results"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "asian-stock-markets-plunge-amid-trump-s-ultimatum-on-iran",
-    "type": "news",
-    "title": "Asian stock markets plunge amid Trump’s ultimatum on Iran",
-    "slug": "asian-stock-markets-plunge-amid-trump-s-ultimatum-on-iran",
-    "date": "2026-05-31",
-    "displayDate": "May 31, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Key indexes in Japan, South Korea and Hong Kong tumble as Iran threatens attacks on energy infrastructure across region.",
-    "excerpt": "Key indexes in Japan, South Korea and Hong Kong tumble as Iran threatens attacks on energy infrastructure across region.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Asian stock markets plunge amid Trump’s ultimatum on Iran"
     },
     "readingTime": 3
   },
@@ -756,27 +1113,6 @@
     "readingTime": 3
   },
   {
-    "id": "bitcoin-price-analysis-btc-left-to-drift-as-hot-money-chases-other-assets",
-    "type": "news",
-    "title": "Bitcoin price analysis: BTC left to drift as hot money chases other assets",
-    "slug": "bitcoin-price-analysis-btc-left-to-drift-as-hot-money-chases-other-assets",
-    "date": "2026-05-31",
-    "displayDate": "May 31, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Bitcoin surged more than 650% between November 2022 and October 2025 before entering a prolonged bear market.",
-    "excerpt": "Bitcoin surged more than 650% between November 2022 and October 2025 before entering a prolonged bear market.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Bitcoin price analysis: BTC left to drift as hot money chases other assets"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "chs-reports-second-quarter-fiscal-year-2026-earnings",
     "type": "news",
     "title": "CHS reports second quarter fiscal year 2026 earnings",
@@ -794,27 +1130,6 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "CHS reports second quarter fiscal year 2026 earnings"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "consumer-price-index-new-york-newark-jersey-city-april-2026",
-    "type": "news",
-    "title": "Consumer Price Index, New York-Newark-Jersey City — April 2026",
-    "slug": "consumer-price-index-new-york-newark-jersey-city-april-2026",
-    "date": "2026-05-31",
-    "displayDate": "May 31, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Consumer Price Index for All Urban Consumers (CPI-U) in the New York-Newark-Jersey City area advanced 1.0 percent in April, the U.S....",
-    "excerpt": "The Consumer Price Index for All Urban Consumers (CPI-U) in the New York-Newark-Jersey City area advanced 1.0 percent in April, the U.S....",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Consumer Price Index, New York-Newark-Jersey City — April 2026"
     },
     "readingTime": 3
   },
@@ -857,27 +1172,6 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "Current price of Ethereum for May 29, 2026"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "current-u-s-inflation-rate-is-3-8-chart-and-why-it-matters",
-    "type": "news",
-    "title": "Current U.S. Inflation Rate Is 3.8%: Chart and Why It Matters",
-    "slug": "current-u-s-inflation-rate-is-3-8-chart-and-why-it-matters",
-    "date": "2026-05-31",
-    "displayDate": "May 31, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Both major indexes, the CPI and the PCE, show inflation spiking in April, spurred by rising energy prices. Anna Helhoski Written by.",
-    "excerpt": "Both major indexes, the CPI and the PCE, show inflation spiking in April, spurred by rising energy prices. Anna Helhoski Written by.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Current U.S. Inflation Rate Is 3.8%: Chart and Why It Matters"
     },
     "readingTime": 3
   },
@@ -1071,27 +1365,6 @@
     "readingTime": 3
   },
   {
-    "id": "how-big-tech-and-big-power-are-locking-arms-to-save-the-grid",
-    "type": "news",
-    "title": "How Big Tech and Big Power are locking arms to save the grid",
-    "slug": "how-big-tech-and-big-power-are-locking-arms-to-save-the-grid",
-    "date": "2026-05-31",
-    "displayDate": "May 31, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Tech companies are changing their message and bringing more ideas and high-tech solutions to the table.",
-    "excerpt": "Tech companies are changing their message and bringing more ideas and high-tech solutions to the table.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "How Big Tech and Big Power are locking arms to save the grid"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "how-does-the-average-investment-portfolio-size-for-people-in-their-30s-compare",
     "type": "news",
     "title": "How Does the Average Investment Portfolio Size for People in Their 30s Compare?",
@@ -1155,27 +1428,6 @@
     "readingTime": 3
   },
   {
-    "id": "march-2026-investment-strategy-best-sectors-market-trends",
-    "type": "news",
-    "title": "March 2026 Investment Strategy: Best Sectors & Market Trends",
-    "slug": "march-2026-investment-strategy-best-sectors-market-trends",
-    "date": "2026-05-31",
-    "displayDate": "May 31, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "When geopolitical tensions rise, investors typically move towards safe haven assets. In the current environment, that shift is becoming...",
-    "excerpt": "When geopolitical tensions rise, investors typically move towards safe haven assets. In the current environment, that shift is becoming...",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "March 2026 Investment Strategy: Best Sectors & Market Trends"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "market-outlook-april-2026-get-paid-to-wait",
     "type": "news",
     "title": "Market Outlook April 2026: Get Paid to Wait",
@@ -1193,27 +1445,6 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "Market Outlook April 2026: Get Paid to Wait"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "medical-technology-stocks-innovation-endures-as-valuations-reset",
-    "type": "news",
-    "title": "Medical Technology Stocks: Innovation Endures as Valuations Reset",
-    "slug": "medical-technology-stocks-innovation-endures-as-valuations-reset",
-    "date": "2026-05-31",
-    "displayDate": "May 31, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "How can medical technology companies diversify an equity allocation to healthcare? Investors are questioning the staying power of medical...",
-    "excerpt": "How can medical technology companies diversify an equity allocation to healthcare? Investors are questioning the staying power of medical...",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Medical Technology Stocks: Innovation Endures as Valuations Reset"
     },
     "readingTime": 3
   },
@@ -1344,27 +1575,6 @@
     "readingTime": 3
   },
   {
-    "id": "the-best-healthcare-stocks-to-buy",
-    "type": "news",
-    "title": "The Best Healthcare Stocks to Buy",
-    "slug": "the-best-healthcare-stocks-to-buy",
-    "date": "2026-05-31",
-    "displayDate": "May 31, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "These 12 undervalued healthcare stocks look attractive today.",
-    "excerpt": "These 12 undervalued healthcare stocks look attractive today.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "The Best Healthcare Stocks to Buy"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "the-fed-april-28-29-2026-fomc-meeting",
     "type": "news",
     "title": "The Fed - April 28-29, 2026 FOMC Meeting",
@@ -1491,27 +1701,6 @@
     "readingTime": 3
   },
   {
-    "id": "us-stocks-rise-asian-markets-get-rocked-as-middle-east-conflict-intensifies",
-    "type": "news",
-    "title": "US stocks rise, Asian markets get rocked as Middle East conflict intensifies",
-    "slug": "us-stocks-rise-asian-markets-get-rocked-as-middle-east-conflict-intensifies",
-    "date": "2026-05-31",
-    "displayDate": "May 31, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Oil prices Wednesday paused their recent surge, supporting a rebound in European and US stocks, as investors hold hope for limited long-term...",
-    "excerpt": "Oil prices Wednesday paused their recent surge, supporting a rebound in European and US stocks, as investors hold hope for limited long-term...",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "US stocks rise, Asian markets get rocked as Middle East conflict intensifies"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "wall-st-week-ahead-industrial-sector-s-gains-to-be-tested-as-earnings-ramp-up",
     "type": "news",
     "title": "Wall St Week Ahead: Industrial sector's gains to be tested as earnings ramp up",
@@ -1571,27 +1760,6 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "Weekly market commentary"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "what-to-consider-when-you-re-considering-alternative-investments",
-    "type": "news",
-    "title": "What to Consider When You’re Considering Alternative Investments",
-    "slug": "what-to-consider-when-you-re-considering-alternative-investments",
-    "date": "2026-05-31",
-    "displayDate": "May 31, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Alternative investments – like private equity and credit, hedge funds and real assets – can help investors solve for many of these challenges and access a...",
-    "excerpt": "Alternative investments – like private equity and credit, hedge funds and real assets – can help investors solve for many of these challenges and access a...",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "What to Consider When You’re Considering Alternative Investments"
     },
     "readingTime": 3
   },
@@ -1806,27 +1974,6 @@
     "readingTime": 3
   },
   {
-    "id": "health-care-sector-investing-in-stocks-that-help-keep-you-well",
-    "type": "news",
-    "title": "Health care sector: Investing in stocks that help keep you well",
-    "slug": "health-care-sector-investing-in-stocks-that-help-keep-you-well",
-    "date": "2026-05-30",
-    "displayDate": "May 30, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Health is wealth,” as the old saying goes, and if you value your mental and physical well-being, that...",
-    "excerpt": "Health is wealth,” as the old saying goes, and if you value your mental and physical well-being, that...",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Health care sector: Investing in stocks that help keep you well"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "s-p-500-and-nasdaq-hit-record-closing-highs-as-us-and-iran-agree-to-extend-cease",
     "type": "news",
     "title": "S&P 500 and Nasdaq hit record closing highs as US and Iran agree to extend ceasefire",
@@ -1844,27 +1991,6 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "S&P 500 and Nasdaq hit record closing highs as US and Iran agree to extend ceasefire"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "s-p-500-on-track-for-strongest-earnings-growth-since-2021",
-    "type": "news",
-    "title": "S&P 500 on Track for Strongest Earnings Growth Since 2021",
-    "slug": "s-p-500-on-track-for-strongest-earnings-growth-since-2021",
-    "date": "2026-05-30",
-    "displayDate": "May 30, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "",
-    "excerpt": "",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "S&P 500 on Track for Strongest Earnings Growth Since 2021"
     },
     "readingTime": 3
   },
@@ -2852,48 +2978,6 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "Stock Market Under the Trump Administration: What is Driving Markets in 2026?"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "the-odds-are-changing-investing-in-2026",
-    "type": "news",
-    "title": "The Odds Are Changing: Investing in 2026",
-    "slug": "the-odds-are-changing-investing-in-2026",
-    "date": "2026-05-28",
-    "displayDate": "May 28, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Rick Rieder explains why 2026 favors investors over gamblers, as fading inflation, softening labor and AI driven dispersion reshape income...",
-    "excerpt": "Rick Rieder explains why 2026 favors investors over gamblers, as fading inflation, softening labor and AI driven dispersion reshape income...",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "The Odds Are Changing: Investing in 2026"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "the-weekly-bottom-line",
-    "type": "news",
-    "title": "The Weekly Bottom Line",
-    "slug": "the-weekly-bottom-line",
-    "date": "2026-05-28",
-    "displayDate": "May 28, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "TD Canada Trust products and services include investing, mortgages, banking and small business. Featuring TD Canada Trust online banking.",
-    "excerpt": "TD Canada Trust products and services include investing, mortgages, banking and small business. Featuring TD Canada Trust online banking.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "The Weekly Bottom Line"
     },
     "readingTime": 3
   },

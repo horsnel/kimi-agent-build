@@ -3,8 +3,8 @@
   "type": "news",
   "title": "How Big Tech and Big Power are locking arms to save the grid",
   "slug": "how-big-tech-and-big-power-are-locking-arms-to-save-the-grid",
-  "date": "2026-05-31",
-  "displayDate": "May 31, 2026",
+  "date": "2026-06-01",
+  "displayDate": "June 1, 2026",
   "author": "Sigma Capital",
   "category": "Company News",
   "tags": [
@@ -12,33 +12,41 @@
     "financial news",
     "market update"
   ],
-  "metaDescription": "Tech companies are changing their message and bringing more ideas and high-tech solutions to the table.",
-  "excerpt": "Tech companies are changing their message and bringing more ideas and high-tech solutions to the table.",
+  "metaDescription": "Big Tech and energy companies are collaborating to enhance grid flexibility, using AI to manage operations and develop low-power semiconductors for next-gen AI,",
+  "excerpt": "Big Tech and energy companies are collaborating to enhance grid flexibility, using AI to manage operations and develop low-power semiconductors for next-gen AI, aiming to address grid modernization and capacity challenges.",
   "content": {
-    "introduction": "Tech companies are changing their message and bringing more ideas and high-tech solutions to the table.",
-    "body": [],
-    "keyTakeaways": [],
+    "introduction": "Big Tech and energy companies are collaborating to enhance grid flexibility, using AI to manage operations and develop low-power semiconductors for next-gen AI, aiming to address grid modernization and capacity challenges.",
+    "body": [
+      "Hyperscale demand is now colliding with grid constraints, cost allocation, and regulatory timelines all at once. What's interesting is the shift",
+      "The challenge of grid modernization is one we can't solve alone. Collaboration between the tech and energy sectors is essential for building",
+      "The world's largest tech companies are waging a power-driven arms race to be at the forefront of the computing and AI technology wave. These"
+    ],
+    "keyTakeaways": [
+      "Big Tech and energy companies are collaborating to enhance grid flexibility, using AI to manage operations and develop l",
+      "Hyperscale demand is now colliding with grid constraints, cost allocation, and regulatory timelines all at once. What's ",
+      "The challenge of grid modernization is one we can't solve alone. Collaboration between the tech and energy sectors is es"
+    ],
     "source": "E&E News by POLITICO",
     "sourceUrl": "https://www.eenews.net/articles/how-big-tech-and-big-power-are-locking-arms-to-save-the-grid/"
   },
   "readingTime": 3,
-  "updatedAt": "2026-05-31T19:20:28.578Z",
+  "updatedAt": "2026-06-01T11:23:07.003Z",
   "images": {
     "thumbnail": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "How Big Tech and Big Power are locking arms to save the grid"
     },
     "hero": {
-      "src": "/images/article_thumb_1.jpg",
+      "src": "/images/article_thumb_5.jpg",
       "alt": "How Big Tech and Big Power are locking arms to save the grid"
     },
     "mid": {
-      "src": "/images/article_thumb_3.jpg",
+      "src": "/images/article_thumb_1.jpg",
       "alt": "How Big Tech and Big Power are locking arms to save the grid"
     }
   },
   "image": {
-    "src": "/images/article_thumb_6.jpg",
+    "src": "/images/article_thumb_3.jpg",
     "alt": "How Big Tech and Big Power are locking arms to save the grid"
   }
 }

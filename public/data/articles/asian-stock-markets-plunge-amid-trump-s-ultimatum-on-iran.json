@@ -3,8 +3,8 @@
   "type": "news",
   "title": "Asian stock markets plunge amid Trump’s ultimatum on Iran",
   "slug": "asian-stock-markets-plunge-amid-trump-s-ultimatum-on-iran",
-  "date": "2026-05-31",
-  "displayDate": "May 31, 2026",
+  "date": "2026-06-01",
+  "displayDate": "June 1, 2026",
   "author": "Sigma Capital",
   "category": "Global Markets",
   "tags": [
@@ -12,20 +12,28 @@
     "financial news",
     "market update"
   ],
-  "metaDescription": "Key indexes in Japan, South Korea and Hong Kong tumble as Iran threatens attacks on energy infrastructure across region.",
-  "excerpt": "Key indexes in Japan, South Korea and Hong Kong tumble as Iran threatens attacks on energy infrastructure across region.",
+  "metaDescription": "Asian stock markets fell sharply due to Trump's ultimatum on Iran. Key indexes in Japan, South Korea, and Hong Kong dropped significantly. Investor fears of reg",
+  "excerpt": "Asian stock markets fell sharply due to Trump's ultimatum on Iran. Key indexes in Japan, South Korea, and Hong Kong dropped significantly. Investor fears of regional conflict escalated the declines.",
   "content": {
-    "introduction": "Key indexes in Japan, South Korea and Hong Kong tumble as Iran threatens attacks on energy infrastructure across region.",
-    "body": [],
-    "keyTakeaways": [],
+    "introduction": "Asian stock markets fell sharply due to Trump's ultimatum on Iran. Key indexes in Japan, South Korea, and Hong Kong dropped significantly. Investor fears of regional conflict escalated the declines.",
+    "body": [
+      "Stock markets in the Asia Pacific have fallen sharply amid US President Donald Trump's ultimatum warning Iran to reopen the Strait of Hormuz",
+      "Key indexes in Japan, South Korea and Hong Kong tumble as Iran threatens attacks on energy infrastructure across region. Listen (3 mins).",
+      "Major stock indexes plunged in Asia on Monday as U. S. President Donald Trump showed no sign of backing away from his sweeping tariff plans, and"
+    ],
+    "keyTakeaways": [
+      "Asian stock markets fell sharply due to Trump's ultimatum on Iran. Key indexes in Japan, South Korea, and Hong Kong drop",
+      "Stock markets in the Asia Pacific have fallen sharply amid US President Donald Trump's ultimatum warning Iran to reopen ",
+      "Key indexes in Japan, South Korea and Hong Kong tumble as Iran threatens attacks on energy infrastructure across region."
+    ],
     "source": "Al Jazeera",
     "sourceUrl": "https://www.aljazeera.com/economy/2026/3/23/asian-stock-markets-plunge-amid-trumps-ultimatum-on-iran"
   },
   "readingTime": 3,
-  "updatedAt": "2026-05-31T08:39:14.223Z",
+  "updatedAt": "2026-06-01T11:23:07.003Z",
   "images": {
     "thumbnail": {
-      "src": "/images/article_thumb_1.jpg",
+      "src": "/images/article_thumb_5.jpg",
       "alt": "Asian stock markets plunge amid Trump’s ultimatum on Iran"
     },
     "hero": {
@@ -33,12 +41,12 @@
       "alt": "Asian stock markets plunge amid Trump’s ultimatum on Iran"
     },
     "mid": {
-      "src": "/images/article_thumb_1.jpg",
+      "src": "/images/article_thumb_5.jpg",
       "alt": "Asian stock markets plunge amid Trump’s ultimatum on Iran"
     }
   },
   "image": {
-    "src": "/images/article_thumb_5.jpg",
+    "src": "/images/article_thumb_2.jpg",
     "alt": "Asian stock markets plunge amid Trump’s ultimatum on Iran"
   }
 }
