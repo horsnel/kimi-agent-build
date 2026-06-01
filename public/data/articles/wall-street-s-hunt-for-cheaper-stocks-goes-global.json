@@ -3,8 +3,8 @@
   "type": "news",
   "title": "Wall Street’s Hunt for Cheaper Stocks Goes Global",
   "slug": "wall-street-s-hunt-for-cheaper-stocks-goes-global",
-  "date": "2026-05-13",
-  "displayDate": "May 13, 2026",
+  "date": "2026-06-01",
+  "displayDate": "June 1, 2026",
   "author": "Sigma Capital",
   "category": "Global Markets",
   "tags": [
@@ -12,33 +12,41 @@
     "financial news",
     "market update"
   ],
-  "metaDescription": "High valuations and a weakening dollar are boosting bets that America's lead over other global markets will shrink.",
-  "excerpt": "High valuations and a weakening dollar are boosting bets that America's lead over other global markets will shrink.",
+  "metaDescription": "Wall Street is increasingly investing in international markets due to high valuations and a weakening dollar, seeking cheaper stocks globally. This shift aims t",
+  "excerpt": "Wall Street is increasingly investing in international markets due to high valuations and a weakening dollar, seeking cheaper stocks globally. This shift aims to capitalize on opportunities outside the U.S. as domestic market advantages diminish.",
   "content": {
-    "introduction": "High valuations and a weakening dollar are boosting bets that America's lead over other global markets will shrink.",
-    "body": [],
-    "keyTakeaways": [],
+    "introduction": "Wall Street is increasingly investing in international markets due to high valuations and a weakening dollar, seeking cheaper stocks globally. This shift aims to capitalize on opportunities outside the U.S. as domestic market advantages diminish.",
+    "body": [
+      "Last spring, it was “Sell America.” Now Wall Street's hot trade is buy everywhere else. Wall Street's Hunt for Cheaper Stocks Goes Global.",
+      "Last spring, it was “Sell America.” Now Wall Street's hot trade is buy everywhere else. Wall Street's Hunt for Cheaper Stocks Goes Global Wall",
+      "High valuations and a weakening dollar are boosting bets that America's lead over other global markets will shrink."
+    ],
+    "keyTakeaways": [
+      "Wall Street is increasingly investing in international markets due to high valuations and a weakening dollar, seeking ch",
+      "Last spring, it was “Sell America.” Now Wall Street's hot trade is buy everywhere else",
+      "Last spring, it was “Sell America.” Now Wall Street's hot trade is buy everywhere else"
+    ],
     "source": "WSJ",
     "sourceUrl": "https://www.wsj.com/finance/stocks/wall-streets-hunt-for-cheaper-stocks-goes-global-938b521a"
   },
   "readingTime": 3,
-  "updatedAt": "2026-05-13T08:39:40.732Z",
+  "updatedAt": "2026-06-01T21:35:28.634Z",
   "images": {
     "thumbnail": {
-      "src": "/images/article_thumb_6.jpg",
+      "src": "/images/article_thumb_5.jpg",
       "alt": "Wall Street’s Hunt for Cheaper Stocks Goes Global"
     },
     "hero": {
-      "src": "/images/article_thumb_6.jpg",
+      "src": "/images/article_thumb_5.jpg",
       "alt": "Wall Street’s Hunt for Cheaper Stocks Goes Global"
     },
     "mid": {
-      "src": "/images/article_thumb_4.jpg",
+      "src": "/images/article_thumb_3.jpg",
       "alt": "Wall Street’s Hunt for Cheaper Stocks Goes Global"
     }
   },
   "image": {
-    "src": "/images/article_thumb_4.jpg",
+    "src": "/images/article_thumb_6.jpg",
     "alt": "Wall Street’s Hunt for Cheaper Stocks Goes Global"
   }
 }

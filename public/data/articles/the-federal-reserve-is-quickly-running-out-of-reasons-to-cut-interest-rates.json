@@ -3,8 +3,8 @@
   "type": "news",
   "title": "The Federal Reserve is quickly running out of reasons to cut interest rates",
   "slug": "the-federal-reserve-is-quickly-running-out-of-reasons-to-cut-interest-rates",
-  "date": "2026-05-31",
-  "displayDate": "May 31, 2026",
+  "date": "2026-06-01",
+  "displayDate": "June 1, 2026",
   "author": "Sigma Capital",
   "category": "Fed Policy",
   "tags": [
@@ -12,24 +12,32 @@
     "financial news",
     "market update"
   ],
-  "metaDescription": "Friday's jobs report provided evidence that the central bank's larger concern is a cost of living that is getting increasingly hard to bear.",
-  "excerpt": "Friday's jobs report provided evidence that the central bank's larger concern is a cost of living that is getting increasingly hard to bear.",
+  "metaDescription": "The Federal Reserve lacks justification for lowering interest rates due to persistent inflation and a strong labor market, likely delaying rate cuts. Recent job",
+  "excerpt": "The Federal Reserve lacks justification for lowering interest rates due to persistent inflation and a strong labor market, likely delaying rate cuts. Recent jobs reports and high inflation rates further diminish arguments for easing policy.",
   "content": {
-    "introduction": "Friday's jobs report provided evidence that the central bank's larger concern is a cost of living that is getting increasingly hard to bear.",
-    "body": [],
-    "keyTakeaways": [],
+    "introduction": "The Federal Reserve lacks justification for lowering interest rates due to persistent inflation and a strong labor market, likely delaying rate cuts. Recent jobs reports and high inflation rates further diminish arguments for easing policy.",
+    "body": [
+      "[![CNBC](https://static-redesign.cnbcfm.com/dist/d6085c9e81f4d7365c8d.svg)](//www.cnbc.com/). [The Fed](https://www.cnbc.com/federal-reserve/). Friday's [jobs report for April](https://www.cnbc.com/2026/05/08/jobs-report-april-2026.html) provided the latest evidence that the central bank's larger concern isn't a flagging labor market but rather a [cost of living](https://www.cnbc.com/2026/05/08/consumer-sentiment-falls-to-fresh-record-low-in-may-as-surging-gas-prices-hit-outlook.html) that is getting increasingly harder for ordinary Americans to bear. At [last week's FOMC meeting](https://www.cnbc.com/2026/04/29/fed-interest-rate-decision-april-2026.html), three of those presidents voted against the post-meeting statement. The [consumer price index for March](https://www.cnbc.com/2026/04/10/cpi-inflation-report-march-2026.html) pointed to an inflation rate of 3.3%, well above the Fed's 2% goal. If that's the case, though, it makes things problematic for incoming Chair [Kevin Warsh](https://www.cnbc.com/kevin-warsh/), who President Donald Trump sent to the Fed with expectations for lower rates. The former Fed governor has been open about [his preference for a lower funds rate](https://www.cnbc.com/2026/04/21/kevin-warsh-fed-confirmation-hearing-trump-live-updates.html), arguing that the Fed still can control inflation while easing policy. However, selling a rate cut with [inflation north of 3%](https://www.cnbc.com/2026/04/30/pce-inflation-rate-march-2026.html) will be a difficult job, particularly considering the leanings of the current committee structure.",
+      "CNBC International (@CNBCi). 519 views. The Federal Reserve is quickly running out of reasons to cut interest rates.",
+      "CNBC (@CNBC). 32 likes 10 replies. The Federal Reserve is quickly running out of reasons to cut interest rates."
+    ],
+    "keyTakeaways": [
+      "The Federal Reserve lacks justification for lowering interest rates due to persistent inflation and a strong labor marke",
+      "[![CNBC](https://static-redesign.cnbcfm",
+      "CNBC International (@CNBCi). 519 views"
+    ],
     "source": "CNBC",
     "sourceUrl": "https://www.cnbc.com/2026/05/08/the-federal-reserve-is-quickly-running-out-of-reasons-to-cut-interest-rates.html"
   },
   "readingTime": 3,
-  "updatedAt": "2026-05-31T04:12:22.324Z",
+  "updatedAt": "2026-06-01T21:35:28.634Z",
   "images": {
     "thumbnail": {
-      "src": "/images/article_thumb_3.jpg",
+      "src": "/images/article_thumb_5.jpg",
       "alt": "The Federal Reserve is quickly running out of reasons to cut interest rates"
     },
     "hero": {
-      "src": "/images/article_thumb_3.jpg",
+      "src": "/images/article_thumb_2.jpg",
       "alt": "The Federal Reserve is quickly running out of reasons to cut interest rates"
     },
     "mid": {
@@ -38,7 +46,7 @@
     }
   },
   "image": {
-    "src": "/images/article_thumb_6.jpg",
+    "src": "/images/article_thumb_4.jpg",
     "alt": "The Federal Reserve is quickly running out of reasons to cut interest rates"
   }
 }
