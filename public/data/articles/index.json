@@ -1,5 +1,635 @@
 [
   {
+    "id": "9-top-investment-trends-2024-2025",
+    "type": "news",
+    "title": "9 Top Investment Trends (2024 & 2025)",
+    "slug": "9-top-investment-trends-2024-2025",
+    "date": "2026-06-02",
+    "displayDate": "June 2, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "AI powers next-gen robo advisors, quant funds gain, and ESG becomes essential; alternative investments and new real estate investment methods are also trending.",
+    "excerpt": "AI powers next-gen robo advisors, quant funds gain, and ESG becomes essential; alternative investments and new real estate investment methods are also trending.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "9 Top Investment Trends (2024 & 2025)"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "analysis-assessing-inflation-s-impact",
+    "type": "news",
+    "title": "Analysis: Assessing Inflation’s Impact",
+    "slug": "analysis-assessing-inflation-s-impact",
+    "date": "2026-06-02",
+    "displayDate": "June 2, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Inflation raises living costs, influences interest rates, and affects investment decisions, with energy and housing as major pressure points. Persistent inflati",
+    "excerpt": "Inflation raises living costs, influences interest rates, and affects investment decisions, with energy and housing as major pressure points. Persistent inflation erodes purchasing power and impacts economic recovery.",
+    "image": {
+      "src": "/images/articles/analysis-assessing-inflation-s-impact-thumb.jpg",
+      "alt": "Analysis: Assessing Inflation’s Impact"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "bears-load-up-bets-against-small-cap-stocks-ahead-of-economic-data-releases",
+    "type": "news",
+    "title": "Bears load up bets against small-cap stocks ahead of economic data releases",
+    "slug": "bears-load-up-bets-against-small-cap-stocks-ahead-of-economic-data-releases",
+    "date": "2026-06-02",
+    "displayDate": "June 2, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Traders are increasing bets against small-cap stocks due to upcoming economic data releases, showing heightened bearishness. This trend reflects concerns about ",
+    "excerpt": "Traders are increasing bets against small-cap stocks due to upcoming economic data releases, showing heightened bearishness. This trend reflects concerns about small-cap stocks' sensitivity to interest rate changes. The Russell 2000 index is particularly watched for these dynamics.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Bears load up bets against small-cap stocks ahead of economic data releases"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "bitcoin-and-ethereum-prices-today-monday-june-1-2026-prices-falling-this-morning",
+    "type": "news",
+    "title": "Bitcoin and ethereum prices today, Monday, June 1, 2026: Prices falling this morning",
+    "slug": "bitcoin-and-ethereum-prices-today-monday-june-1-2026-prices-falling-this-morning",
+    "date": "2026-06-02",
+    "displayDate": "June 2, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "As of 9:56 a.m. ET, Bitcoin fell to $71,400.64, and Ethereum dropped to $1,960.76. Ethereum opened at $2,004.03, down 0.8% from Sunday.",
+    "excerpt": "As of 9:56 a.m. ET, Bitcoin fell to $71,400.64, and Ethereum dropped to $1,960.76. Ethereum opened at $2,004.03, down 0.8% from Sunday.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Bitcoin and ethereum prices today, Monday, June 1, 2026: Prices falling this morning"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "chs-reports-second-quarter-fiscal-year-2026-earnings",
+    "type": "news",
+    "title": "CHS reports second quarter fiscal year 2026 earnings",
+    "slug": "chs-reports-second-quarter-fiscal-year-2026-earnings",
+    "date": "2026-06-02",
+    "displayDate": "June 2, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "CHS reported a net loss of $147.1 million and revenues of $8.4 billion for Q2 FY 2026, compared to a net loss of $75.8 million and revenues of $7.8 billion in Q",
+    "excerpt": "CHS reported a net loss of $147.1 million and revenues of $8.4 billion for Q2 FY 2026, compared to a net loss of $75.8 million and revenues of $7.8 billion in Q2 FY 2025. The energy segment had a pretax loss of $133.6 million.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "CHS reports second quarter fiscal year 2026 earnings"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "consumer-price-index-new-york-newark-jersey-city-april-2026",
+    "type": "news",
+    "title": "Consumer Price Index, New York-Newark-Jersey City — April 2026",
+    "slug": "consumer-price-index-new-york-newark-jersey-city-april-2026",
+    "date": "2026-06-02",
+    "displayDate": "June 2, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The New York-Newark-Jersey City area's CPI rose 1.0% in April 2026, with a 4.6% increase over the past year, driven by a 24.0% surge in energy costs. The index ",
+    "excerpt": "The New York-Newark-Jersey City area's CPI rose 1.0% in April 2026, with a 4.6% increase over the past year, driven by a 24.0% surge in energy costs. The index excluding food and energy rose 3.3% over the same period.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Consumer Price Index, New York-Newark-Jersey City — April 2026"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "could-buying-ethereum-today-set-you-up-for-a-20x-return-one-top-bank-thinks-so",
+    "type": "news",
+    "title": "Could Buying Ethereum Today Set You Up for a 20X Return? One Top Bank Thinks So",
+    "slug": "could-buying-ethereum-today-set-you-up-for-a-20x-return-one-top-bank-thinks-so",
+    "date": "2026-06-02",
+    "displayDate": "June 2, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Buying Ethereum today could yield a 20X return in about four years, according to a top bank, due to its role in the expanding stablecoin market expected to grow",
+    "excerpt": "Buying Ethereum today could yield a 20X return in about four years, according to a top bank, due to its role in the expanding stablecoin market expected to grow sixfold by 2028. This optimistic outlook is based on Ethereum's increasing importance in the cryptocurrency ecosystem.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Could Buying Ethereum Today Set You Up for a 20X Return? One Top Bank Thinks So"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "current-price-of-ethereum-for-june-1-2026",
+    "type": "news",
+    "title": "Current price of Ethereum for June 1, 2026",
+    "slug": "current-price-of-ethereum-for-june-1-2026",
+    "date": "2026-06-02",
+    "displayDate": "June 2, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "On June 1, 2026, Ethereum's price was $1,988.38 according to a Google Featured Answer. This aligns closely with predictions from Binance and Digrin, which forec",
+    "excerpt": "On June 1, 2026, Ethereum's price was $1,988.38 according to a Google Featured Answer. This aligns closely with predictions from Binance and Digrin, which forecasted $1,988.88 and $2,012.90 respectively.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Current price of Ethereum for June 1, 2026"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "current-u-s-inflation-rate-is-3-8-chart-and-why-it-matters",
+    "type": "news",
+    "title": "Current U.S. Inflation Rate Is 3.8%: Chart and Why It Matters",
+    "slug": "current-u-s-inflation-rate-is-3-8-chart-and-why-it-matters",
+    "date": "2026-06-02",
+    "displayDate": "June 2, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The current U.S. inflation rate is 3.8%. This rise affects purchasing power. It's important for economic planning and policy decisions.",
+    "excerpt": "The current U.S. inflation rate is 3.8%. This rise affects purchasing power. It's important for economic planning and policy decisions.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Current U.S. Inflation Rate Is 3.8%: Chart and Why It Matters"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "earnings-calendar-and-analysis-for-this-week-june-1-5",
+    "type": "news",
+    "title": "Earnings Calendar and Analysis for This Week (June 1-5)",
+    "slug": "earnings-calendar-and-analysis-for-this-week-june-1-5",
+    "date": "2026-06-02",
+    "displayDate": "June 2, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "This week's earnings reports include major companies like Hewlett Packard Enterprise and Science Applications International Corp. Key financial metrics will be ",
+    "excerpt": "This week's earnings reports include major companies like Hewlett Packard Enterprise and Science Applications International Corp. Key financial metrics will be released, including revenue and earnings forecasts. The earnings calendar highlights significant upcoming reports.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Earnings Calendar and Analysis for This Week (June 1-5)"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "exxonmobil-announces-2025-results",
+    "type": "news",
+    "title": "ExxonMobil Announces 2025 Results",
+    "slug": "exxonmobil-announces-2025-results",
+    "date": "2026-06-02",
+    "displayDate": "June 2, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "ExxonMobil announced first-quarter 2025 earnings of $7.7 billion. The company also outlined ambitious plans for emissions reduction and new investments. These p",
+    "excerpt": "ExxonMobil announced first-quarter 2025 earnings of $7.7 billion. The company also outlined ambitious plans for emissions reduction and new investments. These plans include reaching net zero by 2050 and eliminating routine flaring.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "ExxonMobil Announces 2025 Results"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "health-care-sector-investing-in-stocks-that-help-keep-you-well",
+    "type": "news",
+    "title": "Health care sector: Investing in stocks that help keep you well",
+    "slug": "health-care-sector-investing-in-stocks-that-help-keep-you-well",
+    "date": "2026-06-02",
+    "displayDate": "June 2, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Investing in health care stocks can diversify your portfolio and benefit from industry growth. Health care is a major sector in the S&P 500. Consider stable com",
+    "excerpt": "Investing in health care stocks can diversify your portfolio and benefit from industry growth. Health care is a major sector in the S&P 500. Consider stable companies and emerging fields like biotechnology.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Health care sector: Investing in stocks that help keep you well"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "is-broadcom-stock-a-buy-ahead-of-its-q2-earnings-report-after-market-close-on-we",
+    "type": "news",
+    "title": "Is Broadcom Stock a Buy Ahead of Its Q2 Earnings Report After Market Close on Wednesday?",
+    "slug": "is-broadcom-stock-a-buy-ahead-of-its-q2-earnings-report-after-market-close-on-we",
+    "date": "2026-06-02",
+    "displayDate": "June 2, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Broadcom stock is a buy due to its strong track record, accelerating sales, and robust AI demand, with analysts raising price targets ahead of its Q2 earnings r",
+    "excerpt": "Broadcom stock is a buy due to its strong track record, accelerating sales, and robust AI demand, with analysts raising price targets ahead of its Q2 earnings report.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Is Broadcom Stock a Buy Ahead of Its Q2 Earnings Report After Market Close on Wednesday?"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "it-s-not-just-u-s-stocks-a-i-and-oil-are-moving-global-markets-too",
+    "type": "news",
+    "title": "It’s Not Just U.S. Stocks. A.I. and Oil Are Moving Global Markets, Too.",
+    "slug": "it-s-not-just-u-s-stocks-a-i-and-oil-are-moving-global-markets-too",
+    "date": "2026-06-02",
+    "displayDate": "June 2, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Artificial intelligence and oil are significantly influencing global markets beyond just U.S. stocks, with AI impacting various sectors and oil driving emerging",
+    "excerpt": "Artificial intelligence and oil are significantly influencing global markets beyond just U.S. stocks, with AI impacting various sectors and oil driving emerging markets. This trend is reshaping investment strategies worldwide.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "It’s Not Just U.S. Stocks. A.I. and Oil Are Moving Global Markets, Too."
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "june-calendar-2026-features-aicpa-engage-in-las-vegas-fed-decision-and-q2-earnin",
+    "type": "news",
+    "title": "June calendar 2026 features AICPA ENGAGE in Las Vegas, Fed decision, and Q2 earnings",
+    "slug": "june-calendar-2026-features-aicpa-engage-in-las-vegas-fed-decision-and-q2-earnin",
+    "date": "2026-06-02",
+    "displayDate": "June 2, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "In June 2026, the AICPA ENGAGE conference runs June 8-11 in Las Vegas, the Federal Reserve's policy decision is June 16-17, and Q2 earnings reports are released",
+    "excerpt": "In June 2026, the AICPA ENGAGE conference runs June 8-11 in Las Vegas, the Federal Reserve's policy decision is June 16-17, and Q2 earnings reports are released. The AICPA ENGAGE event features workshops and networking.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "June calendar 2026 features AICPA ENGAGE in Las Vegas, Fed decision, and Q2 earnings"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "march-2026-investment-strategy-best-sectors-market-trends",
+    "type": "news",
+    "title": "March 2026 Investment Strategy: Best Sectors & Market Trends",
+    "slug": "march-2026-investment-strategy-best-sectors-market-trends",
+    "date": "2026-06-02",
+    "displayDate": "June 2, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "For March 2026, focus on industrial, consumer defensive, and energy sectors for equity investments, while fixed income should favor short-term high-quality prod",
+    "excerpt": "For March 2026, focus on industrial, consumer defensive, and energy sectors for equity investments, while fixed income should favor short-term high-quality products amid market volatility.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "March 2026 Investment Strategy: Best Sectors & Market Trends"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "medical-technology-stocks-innovation-endures-as-valuations-reset",
+    "type": "news",
+    "title": "Medical Technology Stocks: Innovation Endures as Valuations Reset",
+    "slug": "medical-technology-stocks-innovation-endures-as-valuations-reset",
+    "date": "2026-06-02",
+    "displayDate": "June 2, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Medical technology stocks have seen a reset in valuations post-COVID but continue to innovate, offering solid earnings forecasts and diversification benefits to",
+    "excerpt": "Medical technology stocks have seen a reset in valuations post-COVID but continue to innovate, offering solid earnings forecasts and diversification benefits to healthcare portfolios. Despite lagging, medtech's unique innovation and performance trends remain attractive.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Medical Technology Stocks: Innovation Endures as Valuations Reset"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "oracle-earnings-call-and-webcast-scheduled-for-june-10",
+    "type": "news",
+    "title": "Oracle earnings call and webcast scheduled for June 10",
+    "slug": "oracle-earnings-call-and-webcast-scheduled-for-june-10",
+    "date": "2026-06-02",
+    "displayDate": "June 2, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Oracle Corporation's fourth quarter fiscal year 2026 results will be released on June 10, 2026, with a conference call and live webcast at 4:00 p.m. Central Tim",
+    "excerpt": "Oracle Corporation's fourth quarter fiscal year 2026 results will be released on June 10, 2026, with a conference call and live webcast at 4:00 p.m. Central Time. The next earnings call is scheduled for June 15, 2026.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Oracle earnings call and webcast scheduled for June 10"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "q1-2026-earnings-call-remarks-from-our-ceo",
+    "type": "news",
+    "title": "Q1 2026 earnings call: Remarks from our CEO",
+    "slug": "q1-2026-earnings-call-remarks-from-our-ceo",
+    "date": "2026-06-02",
+    "displayDate": "June 2, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Sundar Pichai highlighted strong AI investments and growth in Google Cloud and AI Overviews during the Q1 2026 earnings call. Google Cloud reached $20 billion i",
+    "excerpt": "Sundar Pichai highlighted strong AI investments and growth in Google Cloud and AI Overviews during the Q1 2026 earnings call. Google Cloud reached $20 billion in quarterly revenue. The Pixel 10a launch received positive reviews.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Q1 2026 earnings call: Remarks from our CEO"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "stock-market-today-stock-market-news-and-analysis",
+    "type": "news",
+    "title": "Stock Market Today: Stock Market News And Analysis",
+    "slug": "stock-market-today-stock-market-news-and-analysis",
+    "date": "2026-06-02",
+    "displayDate": "June 2, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The stock market today shows significant updates and analysis, with key reports and news available from major financial platforms. Nasdaq provides comprehensive",
+    "excerpt": "The stock market today shows significant updates and analysis, with key reports and news available from major financial platforms. Nasdaq provides comprehensive market data and news, while MarketWatch offers financial and business insights. Briefing.com delivers overnight summaries and pre-open stoc",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Stock Market Today: Stock Market News And Analysis"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "stocks-under-the-trump-administration-what-is-driving-markets-in-2026",
+    "type": "news",
+    "title": "Stocks Under the Trump Administration: What is Driving Markets in 2026?",
+    "slug": "stocks-under-the-trump-administration-what-is-driving-markets-in-2026",
+    "date": "2026-06-02",
+    "displayDate": "June 2, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "In 2026, the stock market has seen significant growth driven by strong corporate earnings, tax cuts, and favorable economic policies under the Trump administrat",
+    "excerpt": "In 2026, the stock market has seen significant growth driven by strong corporate earnings, tax cuts, and favorable economic policies under the Trump administration. The S&P 500 climbed over 25% since the 2024 election, despite geopolitical risks. Investors focused on corporate fundamentals and econo",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Stocks Under the Trump Administration: What is Driving Markets in 2026?"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "the-best-healthcare-stocks-to-buy",
+    "type": "news",
+    "title": "The Best Healthcare Stocks to Buy",
+    "slug": "the-best-healthcare-stocks-to-buy",
+    "date": "2026-06-02",
+    "displayDate": "June 2, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Agilent Technologies, GE HealthCare Technologies, and Novo Nordisk are top healthcare stocks to consider. Long-term investment potential is strong. Consult upda",
+    "excerpt": "Agilent Technologies, GE HealthCare Technologies, and Novo Nordisk are top healthcare stocks to consider. Long-term investment potential is strong. Consult updated financial reports for current performance.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "The Best Healthcare Stocks to Buy"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "the-federal-reserve-is-quickly-running-out-of-reasons-to-cut-interest-rates",
+    "type": "news",
+    "title": "The Federal Reserve is quickly running out of reasons to cut interest rates",
+    "slug": "the-federal-reserve-is-quickly-running-out-of-reasons-to-cut-interest-rates",
+    "date": "2026-06-02",
+    "displayDate": "June 2, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Reserve lacks strong reasons to cut interest rates due to high inflation and a robust labor market. The April jobs report shows a strong economy, ma",
+    "excerpt": "The Federal Reserve lacks strong reasons to cut interest rates due to high inflation and a robust labor market. The April jobs report shows a strong economy, making rate cuts less likely. Current inflation exceeds the Fed's target.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "The Federal Reserve is quickly running out of reasons to cut interest rates"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "the-weekly-bottom-line",
+    "type": "news",
+    "title": "The Weekly Bottom Line",
+    "slug": "the-weekly-bottom-line",
+    "date": "2026-06-02",
+    "displayDate": "June 2, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Reserve resumed rate cuts, while bond yields rebounded post-Fed press conference, leaving Canadian yields and equities flat. The Fed lowered the pol",
+    "excerpt": "The Federal Reserve resumed rate cuts, while bond yields rebounded post-Fed press conference, leaving Canadian yields and equities flat. The Fed lowered the policy rate by 25 basis points. For more details, refer to the TD Economics Weekly Bottom Line report.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "The Weekly Bottom Line"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "us-stocks-had-a-remarkable-2025-but-international-markets-did-much-better",
+    "type": "news",
+    "title": "US stocks had a remarkable 2025. But international markets did much better",
+    "slug": "us-stocks-had-a-remarkable-2025-but-international-markets-did-much-better",
+    "date": "2026-06-02",
+    "displayDate": "June 2, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "In 2025, international markets outperformed the U.S. market, with the MSCI World ex-USA index gaining 29.2% compared to the S&P 500's 16.39%. This trend was dri",
+    "excerpt": "In 2025, international markets outperformed the U.S. market, with the MSCI World ex-USA index gaining 29.2% compared to the S&P 500's 16.39%. This trend was driven by factors such as increased government spending in Europe and a weaker U.S. dollar.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "US stocks had a remarkable 2025. But international markets did much better"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "wall-street-rides-high-into-june-on-hopes-that-the-war-will-soon-come-to-an-end-",
+    "type": "news",
+    "title": "Wall Street rides high into June on hopes that the war will soon come to an end. Here's what's ahead",
+    "slug": "wall-street-rides-high-into-june-on-hopes-that-the-war-will-soon-come-to-an-end-",
+    "date": "2026-06-02",
+    "displayDate": "June 2, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Wall Street reached record highs in June, driven by hopes for a swift end to the Iran war. The S&P 500 continued its rally, supported by expectations of reduced",
+    "excerpt": "Wall Street reached record highs in June, driven by hopes for a swift end to the Iran war. The S&P 500 continued its rally, supported by expectations of reduced tensions and oil supply resumption. Investor optimism remains strong as diplomatic talks progress.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Wall Street rides high into June on hopes that the war will soon come to an end. Here's what's ahead"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "wall-street-s-hunt-for-cheaper-stocks-goes-global",
+    "type": "news",
+    "title": "Wall Street’s Hunt for Cheaper Stocks Goes Global",
+    "slug": "wall-street-s-hunt-for-cheaper-stocks-goes-global",
+    "date": "2026-06-02",
+    "displayDate": "June 2, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Wall Street is increasingly looking abroad for cheaper stocks as high valuations and a weak dollar diminish U.S. market appeal. This trend reflects a shift in i",
+    "excerpt": "Wall Street is increasingly looking abroad for cheaper stocks as high valuations and a weak dollar diminish U.S. market appeal. This trend reflects a shift in investment strategies globally.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Wall Street’s Hunt for Cheaper Stocks Goes Global"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "watch-fed-chair-powell-holds-news-briefing-after-interest-rate-left-unchanged",
+    "type": "news",
+    "title": "WATCH: Fed Chair Powell holds news briefing after interest rate left unchanged",
+    "slug": "watch-fed-chair-powell-holds-news-briefing-after-interest-rate-left-unchanged",
+    "date": "2026-06-02",
+    "displayDate": "June 2, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Fed Chair Powell held a news briefing after the Federal Reserve left interest rates unchanged. Officials expect a rate cut in 2026. Powell noted short-term infl",
+    "excerpt": "Fed Chair Powell held a news briefing after the Federal Reserve left interest rates unchanged. Officials expect a rate cut in 2026. Powell noted short-term inflation impacts from higher oil prices.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "WATCH: Fed Chair Powell holds news briefing after interest rate left unchanged"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "what-to-consider-when-you-re-considering-alternative-investments",
+    "type": "news",
+    "title": "What to Consider When You’re Considering Alternative Investments",
+    "slug": "what-to-consider-when-you-re-considering-alternative-investments",
+    "date": "2026-06-02",
+    "displayDate": "June 2, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "When considering alternative investments, focus on manager selection, understand evergreen vs. drawdown vehicles, and assess how they fit into your overall port",
+    "excerpt": "When considering alternative investments, focus on manager selection, understand evergreen vs. drawdown vehicles, and assess how they fit into your overall portfolio risk strategy.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "What to Consider When You’re Considering Alternative Investments"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "what-to-look-out-for-in-economic-data-this-week-june-1-5",
+    "type": "news",
+    "title": "What to Look Out for in Economic Data This Week (June 1-5)",
+    "slug": "what-to-look-out-for-in-economic-data-this-week-june-1-5",
+    "date": "2026-06-02",
+    "displayDate": "June 2, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "This week, focus on the ISM Manufacturing PMI and the BLS Employment Report for key economic insights. Central bank officials' speeches are also significant. No",
+    "excerpt": "This week, focus on the ISM Manufacturing PMI and the BLS Employment Report for key economic insights. Central bank officials' speeches are also significant. Nonfarm payrolls report on Friday is crucial.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "What to Look Out for in Economic Data This Week (June 1-5)"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "3-ways-to-simplify-your-investment-portfolio-in-2026",
     "type": "news",
     "title": "3 Ways to Simplify Your Investment Portfolio in 2026",
@@ -42,27 +672,6 @@
     "readingTime": 3
   },
   {
-    "id": "analysis-assessing-inflation-s-impact",
-    "type": "news",
-    "title": "Analysis: Assessing Inflation’s Impact",
-    "slug": "analysis-assessing-inflation-s-impact",
-    "date": "2026-06-01",
-    "displayDate": "June 1, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Inflation raises living costs, influences interest rates, and affects investment decisions and consumer spending. Despite slowing, it continues to impact financ",
-    "excerpt": "Inflation raises living costs, influences interest rates, and affects investment decisions and consumer spending. Despite slowing, it continues to impact financial well-being and spending habits.",
-    "image": {
-      "src": "/images/articles/analysis-assessing-inflation-s-impact-thumb.jpg",
-      "alt": "Analysis: Assessing Inflation’s Impact"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "applied-digital-reports-fiscal-third-quarter-2026-results",
     "type": "news",
     "title": "Applied Digital Reports Fiscal Third Quarter 2026 Results",
@@ -101,27 +710,6 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "Asian stock markets plunge amid Trump’s ultimatum on Iran"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "bears-load-up-bets-against-small-cap-stocks-ahead-of-economic-data-releases",
-    "type": "news",
-    "title": "Bears load up bets against small-cap stocks ahead of economic data releases",
-    "slug": "bears-load-up-bets-against-small-cap-stocks-ahead-of-economic-data-releases",
-    "date": "2026-06-01",
-    "displayDate": "June 1, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Traders are heavily betting against small-cap stocks due to upcoming economic data releases. This bearish trend is particularly strong in the Russell 2000 index",
-    "excerpt": "Traders are heavily betting against small-cap stocks due to upcoming economic data releases. This bearish trend is particularly strong in the Russell 2000 index. The focus is on potential inflation data influencing interest rates.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Bears load up bets against small-cap stocks ahead of economic data releases"
     },
     "readingTime": 3
   },
@@ -185,27 +773,6 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "Big Tech Earnings Will Set The Tone For Markets This Week"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "bitcoin-and-ethereum-prices-today-monday-june-1-2026-prices-falling-this-morning",
-    "type": "news",
-    "title": "Bitcoin and ethereum prices today, Monday, June 1, 2026: Prices falling this morning",
-    "slug": "bitcoin-and-ethereum-prices-today-monday-june-1-2026-prices-falling-this-morning",
-    "date": "2026-06-01",
-    "displayDate": "June 1, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "As of 9:56 a.m. ET, Bitcoin fell to $71,400.64 and Ethereum dropped to $1,960.76, both showing declines from the previous day. Ethereum opened at $2,004.03, dow",
-    "excerpt": "As of 9:56 a.m. ET, Bitcoin fell to $71,400.64 and Ethereum dropped to $1,960.76, both showing declines from the previous day. Ethereum opened at $2,004.03, down 0.8% from Sunday.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Bitcoin and ethereum prices today, Monday, June 1, 2026: Prices falling this morning"
     },
     "readingTime": 3
   },
@@ -294,48 +861,6 @@
     "readingTime": 3
   },
   {
-    "id": "chs-reports-second-quarter-fiscal-year-2026-earnings",
-    "type": "news",
-    "title": "CHS reports second quarter fiscal year 2026 earnings",
-    "slug": "chs-reports-second-quarter-fiscal-year-2026-earnings",
-    "date": "2026-06-01",
-    "displayDate": "June 1, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "CHS Inc. reported a net loss of $147.1 million and revenues of $8.4 billion for the second quarter of fiscal year 2026, compared to a net loss of $75.8 million ",
-    "excerpt": "CHS Inc. reported a net loss of $147.1 million and revenues of $8.4 billion for the second quarter of fiscal year 2026, compared to a net loss of $75.8 million and revenues of $7.8 billion in the same period last year. The loss was driven by decreased agronomy sales and energy sector losses.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "CHS reports second quarter fiscal year 2026 earnings"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "consumer-price-index-new-york-newark-jersey-city-april-2026",
-    "type": "news",
-    "title": "Consumer Price Index, New York-Newark-Jersey City — April 2026",
-    "slug": "consumer-price-index-new-york-newark-jersey-city-april-2026",
-    "date": "2026-06-01",
-    "displayDate": "June 1, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Consumer Price Index for New York-Newark-Jersey City rose 1.0% in April 2026. Shelter costs increased notably. The latest index value is 507.535.",
-    "excerpt": "The Consumer Price Index for New York-Newark-Jersey City rose 1.0% in April 2026. Shelter costs increased notably. The latest index value is 507.535.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Consumer Price Index, New York-Newark-Jersey City — April 2026"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "could-sofi-stock-finally-be-the-next-s-p-500-addition-here-s-what-retail-thinks",
     "type": "news",
     "title": "Could SoFi Stock Finally Be The Next S&P 500 Addition? Here’s What Retail Thinks",
@@ -378,48 +903,6 @@
     "readingTime": 3
   },
   {
-    "id": "current-price-of-ethereum-for-june-1-2026",
-    "type": "news",
-    "title": "Current price of Ethereum for June 1, 2026",
-    "slug": "current-price-of-ethereum-for-june-1-2026",
-    "date": "2026-06-01",
-    "displayDate": "June 1, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "On June 1, 2026, Ethereum (ETH) is priced at $1,963.38, with a daily trading volume of $14,954,439,779. This price is slightly lower than the forecasted average",
-    "excerpt": "On June 1, 2026, Ethereum (ETH) is priced at $1,963.38, with a daily trading volume of $14,954,439,779. This price is slightly lower than the forecasted average of $2,433.04 for June 2026.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Current price of Ethereum for June 1, 2026"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "current-u-s-inflation-rate-is-3-8-chart-and-why-it-matters",
-    "type": "news",
-    "title": "Current U.S. Inflation Rate Is 3.8%: Chart and Why It Matters",
-    "slug": "current-u-s-inflation-rate-is-3-8-chart-and-why-it-matters",
-    "date": "2026-06-01",
-    "displayDate": "June 1, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The U.S. inflation rate is currently 3.8%, up from 3.3% in March, according to the latest CPI report. This rise is driven by increases in energy and shelter cos",
-    "excerpt": "The U.S. inflation rate is currently 3.8%, up from 3.3% in March, according to the latest CPI report. This rise is driven by increases in energy and shelter costs. The rate is the highest since May 2023.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Current U.S. Inflation Rate Is 3.8%: Chart and Why It Matters"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "earnings-calendar-analyst-estimates-and-stocks-to-watch",
     "type": "news",
     "title": "Earnings Calendar, Analyst Estimates And Stocks To Watch",
@@ -441,27 +924,6 @@
     "readingTime": 3
   },
   {
-    "id": "earnings-calendar-and-analysis-for-this-week-june-1-5",
-    "type": "news",
-    "title": "Earnings Calendar and Analysis for This Week (June 1-5)",
-    "slug": "earnings-calendar-and-analysis-for-this-week-june-1-5",
-    "date": "2026-06-01",
-    "displayDate": "June 1, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Dollar General reports earnings on Tuesday; IBM and Snowflake also report this week. Market sentiment is cautious but opportunities may exist.",
-    "excerpt": "Dollar General reports earnings on Tuesday; IBM and Snowflake also report this week. Market sentiment is cautious but opportunities may exist.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Earnings Calendar and Analysis for This Week (June 1-5)"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "expect-canada-s-unemployment-rate-to-tick-lower-in-may",
     "type": "news",
     "title": "Expect Canada’s unemployment rate to tick lower in May",
@@ -479,27 +941,6 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "Expect Canada’s unemployment rate to tick lower in May"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "exxonmobil-announces-2025-results",
-    "type": "news",
-    "title": "ExxonMobil Announces 2025 Results",
-    "slug": "exxonmobil-announces-2025-results",
-    "date": "2026-06-01",
-    "displayDate": "June 1, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "ExxonMobil announced third-quarter 2025 earnings of $7.5 billion, with cash flow from operations at $14.8 billion. The company plans to release fourth-quarter 2",
-    "excerpt": "ExxonMobil announced third-quarter 2025 earnings of $7.5 billion, with cash flow from operations at $14.8 billion. The company plans to release fourth-quarter 2025 financial results on January 30, 2026.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "ExxonMobil Announces 2025 Results"
     },
     "readingTime": 3
   },
@@ -542,27 +983,6 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "Get your portfolio’s passport stamped: Reasons to consider international investing"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "health-care-sector-investing-in-stocks-that-help-keep-you-well",
-    "type": "news",
-    "title": "Health care sector: Investing in stocks that help keep you well",
-    "slug": "health-care-sector-investing-in-stocks-that-help-keep-you-well",
-    "date": "2026-06-01",
-    "displayDate": "June 1, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Investing in healthcare stocks can provide stable returns due to the sector's resilience and consistent demand for medical services. The healthcare sector inclu",
-    "excerpt": "Investing in healthcare stocks can provide stable returns due to the sector's resilience and consistent demand for medical services. The healthcare sector includes companies in pharmaceuticals, biotechnology, and medical devices. These stocks often offer dividends and can grow with advancements in m",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Health care sector: Investing in stocks that help keep you well"
     },
     "readingTime": 3
   },
@@ -693,48 +1113,6 @@
     "readingTime": 3
   },
   {
-    "id": "it-s-not-just-u-s-stocks-a-i-and-oil-are-moving-global-markets-too",
-    "type": "news",
-    "title": "It’s Not Just U.S. Stocks. A.I. and Oil Are Moving Global Markets, Too.",
-    "slug": "it-s-not-just-u-s-stocks-a-i-and-oil-are-moving-global-markets-too",
-    "date": "2026-06-01",
-    "displayDate": "June 1, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Artificial intelligence and oil are significantly influencing global markets beyond U.S. stocks. AI's impact is widespread, while oil prices continue to shape e",
-    "excerpt": "Artificial intelligence and oil are significantly influencing global markets beyond U.S. stocks. AI's impact is widespread, while oil prices continue to shape economic trends worldwide. These factors are reshaping investment strategies globally.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "It’s Not Just U.S. Stocks. A.I. and Oil Are Moving Global Markets, Too."
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "june-calendar-2026-features-aicpa-engage-in-las-vegas-fed-decision-and-q2-earnin",
-    "type": "news",
-    "title": "June calendar 2026 features AICPA ENGAGE in Las Vegas, Fed decision, and Q2 earnings",
-    "slug": "june-calendar-2026-features-aicpa-engage-in-las-vegas-fed-decision-and-q2-earnin",
-    "date": "2026-06-01",
-    "displayDate": "June 1, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "In June 2026, the AICPA ENGAGE conference runs from June 8-11 at the ARIA Resort in Las Vegas, followed by the Federal Reserve's policy decision on June 16-17. ",
-    "excerpt": "In June 2026, the AICPA ENGAGE conference runs from June 8-11 at the ARIA Resort in Las Vegas, followed by the Federal Reserve's policy decision on June 16-17. Q2 earnings reports from Fortune 500 companies will also be released.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "June calendar 2026 features AICPA ENGAGE in Las Vegas, Fed decision, and Q2 earnings"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "june-fomc-meeting-the-outlook-for-us-monetary-policy",
     "type": "news",
     "title": "June FOMC meeting: the outlook for US monetary policy",
@@ -773,69 +1151,6 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "LPL Research’s 2026 Strategic Asset Allocation"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "march-2026-investment-strategy-best-sectors-market-trends",
-    "type": "news",
-    "title": "March 2026 Investment Strategy: Best Sectors & Market Trends",
-    "slug": "march-2026-investment-strategy-best-sectors-market-trends",
-    "date": "2026-06-01",
-    "displayDate": "June 1, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "For March 2026, maintain an equal weight in equities and use dips for gradual accumulation; prefer fixed deposits and short-term high-quality carry-oriented pro",
-    "excerpt": "For March 2026, maintain an equal weight in equities and use dips for gradual accumulation; prefer fixed deposits and short-term high-quality carry-oriented products in fixed income. Focus on bonds due to declining yields and rising geopolitical risks.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "March 2026 Investment Strategy: Best Sectors & Market Trends"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "medical-technology-stocks-innovation-endures-as-valuations-reset",
-    "type": "news",
-    "title": "Medical Technology Stocks: Innovation Endures as Valuations Reset",
-    "slug": "medical-technology-stocks-innovation-endures-as-valuations-reset",
-    "date": "2026-06-01",
-    "displayDate": "June 1, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Medical technology stocks have seen a valuation reset after a COVID-induced surge, but innovation continues to create opportunities. Despite lagging, attractive",
-    "excerpt": "Medical technology stocks have seen a valuation reset after a COVID-induced surge, but innovation continues to create opportunities. Despite lagging, attractive valuations and solid earnings forecasts remain. Long-term earnings growth and innovation persist in the sector.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Medical Technology Stocks: Innovation Endures as Valuations Reset"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "q1-2026-earnings-call-remarks-from-our-ceo",
-    "type": "news",
-    "title": "Q1 2026 earnings call: Remarks from our CEO",
-    "slug": "q1-2026-earnings-call-remarks-from-our-ceo",
-    "date": "2026-06-01",
-    "displayDate": "June 1, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Sundar Pichai highlighted strong AI investments and growth in Google Cloud and AI Overviews during the Q1 2026 earnings call. Google Cloud surpassed $20 billion",
-    "excerpt": "Sundar Pichai highlighted strong AI investments and growth in Google Cloud and AI Overviews during the Q1 2026 earnings call. Google Cloud surpassed $20 billion in quarterly revenue. AI-driven products like Pixel 10a received positive reviews.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Q1 2026 earnings call: Remarks from our CEO"
     },
     "readingTime": 3
   },
@@ -966,27 +1281,6 @@
     "readingTime": 3
   },
   {
-    "id": "stock-market-today-stock-market-news-and-analysis",
-    "type": "news",
-    "title": "Stock Market Today: Stock Market News And Analysis",
-    "slug": "stock-market-today-stock-market-news-and-analysis",
-    "date": "2026-06-01",
-    "displayDate": "June 1, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The stock market today features updates on overnight summaries, pre-open analysis, and real-time financial news. Key sources include Briefing.com, MarketBeat, a",
-    "excerpt": "The stock market today features updates on overnight summaries, pre-open analysis, and real-time financial news. Key sources include Briefing.com, MarketBeat, and MarketWatch. Current market trends and financial insights are available.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Stock Market Today: Stock Market News And Analysis"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "the-4-most-important-numbers-to-watch-as-alphabet-microsoft-amazon-and-meta-repo",
     "type": "news",
     "title": "The 4 most important numbers to watch as Alphabet, Microsoft, Amazon, and Meta report earnings",
@@ -1004,48 +1298,6 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "The 4 most important numbers to watch as Alphabet, Microsoft, Amazon, and Meta report earnings"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "the-best-healthcare-stocks-to-buy",
-    "type": "news",
-    "title": "The Best Healthcare Stocks to Buy",
-    "slug": "the-best-healthcare-stocks-to-buy",
-    "date": "2026-06-01",
-    "displayDate": "June 1, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Agilent Technologies, GE HealthCare Technologies, and Novo Nordisk are top healthcare stocks to consider. These companies have strong market positions and growt",
-    "excerpt": "Agilent Technologies, GE HealthCare Technologies, and Novo Nordisk are top healthcare stocks to consider. These companies have strong market positions and growth potential.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "The Best Healthcare Stocks to Buy"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "the-federal-reserve-is-quickly-running-out-of-reasons-to-cut-interest-rates",
-    "type": "news",
-    "title": "The Federal Reserve is quickly running out of reasons to cut interest rates",
-    "slug": "the-federal-reserve-is-quickly-running-out-of-reasons-to-cut-interest-rates",
-    "date": "2026-06-01",
-    "displayDate": "June 1, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Reserve lacks justification for lowering interest rates due to persistent inflation and a strong labor market, likely delaying rate cuts. Recent job",
-    "excerpt": "The Federal Reserve lacks justification for lowering interest rates due to persistent inflation and a strong labor market, likely delaying rate cuts. Recent jobs reports and high inflation rates further diminish arguments for easing policy.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "The Federal Reserve is quickly running out of reasons to cut interest rates"
     },
     "readingTime": 3
   },
@@ -1113,27 +1365,6 @@
     "readingTime": 3
   },
   {
-    "id": "the-weekly-bottom-line",
-    "type": "news",
-    "title": "The Weekly Bottom Line",
-    "slug": "the-weekly-bottom-line",
-    "date": "2026-06-01",
-    "displayDate": "June 1, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Inflation rose to 3.8% in April 2026 due to higher gasoline prices. The U.S. economy remains more insulated from oil price increases. Global economies showed a ",
-    "excerpt": "Inflation rose to 3.8% in April 2026 due to higher gasoline prices. The U.S. economy remains more insulated from oil price increases. Global economies showed a loss of momentum due to high energy costs.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "The Weekly Bottom Line"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "us-stock-market-today-s-p-500-futures-edge-higher-as-rate-jitters-meet-strong-da",
     "type": "news",
     "title": "US Stock Market Today: S&P 500 Futures Edge Higher As Rate Jitters Meet Strong Data",
@@ -1176,27 +1407,6 @@
     "readingTime": 3
   },
   {
-    "id": "us-stocks-had-a-remarkable-2025-but-international-markets-did-much-better",
-    "type": "news",
-    "title": "US stocks had a remarkable 2025. But international markets did much better",
-    "slug": "us-stocks-had-a-remarkable-2025-but-international-markets-did-much-better",
-    "date": "2026-06-01",
-    "displayDate": "June 1, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "In 2025, US stocks had a strong year, but international markets outperformed with the MSCI All Country World ex-USA index gaining 29.2%, significantly higher th",
-    "excerpt": "In 2025, US stocks had a strong year, but international markets outperformed with the MSCI All Country World ex-USA index gaining 29.2%, significantly higher than the S&P 500's 16.39% gain.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "US stocks had a remarkable 2025. But international markets did much better"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "us-stocks-rise-asian-markets-get-rocked-as-middle-east-conflict-intensifies",
     "type": "news",
     "title": "US stocks rise, Asian markets get rocked as Middle East conflict intensifies",
@@ -1235,48 +1445,6 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "Wall St Week Ahead: Industrial sector's gains to be tested as earnings ramp up"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "wall-street-s-hunt-for-cheaper-stocks-goes-global",
-    "type": "news",
-    "title": "Wall Street’s Hunt for Cheaper Stocks Goes Global",
-    "slug": "wall-street-s-hunt-for-cheaper-stocks-goes-global",
-    "date": "2026-06-01",
-    "displayDate": "June 1, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Wall Street is increasingly investing in international markets due to high valuations and a weakening dollar, seeking cheaper stocks globally. This shift aims t",
-    "excerpt": "Wall Street is increasingly investing in international markets due to high valuations and a weakening dollar, seeking cheaper stocks globally. This shift aims to capitalize on opportunities outside the U.S. as domestic market advantages diminish.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Wall Street’s Hunt for Cheaper Stocks Goes Global"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "watch-fed-chair-powell-holds-news-briefing-after-interest-rate-left-unchanged",
-    "type": "news",
-    "title": "WATCH: Fed Chair Powell holds news briefing after interest rate left unchanged",
-    "slug": "watch-fed-chair-powell-holds-news-briefing-after-interest-rate-left-unchanged",
-    "date": "2026-06-01",
-    "displayDate": "June 1, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Fed Chair Powell held a news briefing after the Federal Reserve decided to keep interest rates unchanged, with expectations of one rate cut in 2026 due to Middl",
-    "excerpt": "Fed Chair Powell held a news briefing after the Federal Reserve decided to keep interest rates unchanged, with expectations of one rate cut in 2026 due to Middle East war uncertainties. The decision was announced on March 18, 2026.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "WATCH: Fed Chair Powell holds news briefing after interest rate left unchanged"
     },
     "readingTime": 3
   },
@@ -1361,48 +1529,6 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "Weekly market wrap"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "what-to-consider-when-you-re-considering-alternative-investments",
-    "type": "news",
-    "title": "What to Consider When You’re Considering Alternative Investments",
-    "slug": "what-to-consider-when-you-re-considering-alternative-investments",
-    "date": "2026-06-01",
-    "displayDate": "June 1, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "When considering alternative investments, prioritize due diligence, evaluate manager selection, and assess how they fit into your overall portfolio strategy to ",
-    "excerpt": "When considering alternative investments, prioritize due diligence, evaluate manager selection, and assess how they fit into your overall portfolio strategy to enhance diversification and manage risk.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "What to Consider When You’re Considering Alternative Investments"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "what-to-look-out-for-in-economic-data-this-week-june-1-5",
-    "type": "news",
-    "title": "What to Look Out for in Economic Data This Week (June 1-5)",
-    "slug": "what-to-look-out-for-in-economic-data-this-week-june-1-5",
-    "date": "2026-06-01",
-    "displayDate": "June 1, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Key economic data this week includes the ISM Services PMI and the Federal Reserve minutes, with potential impacts on markets and interest rates. Minneapolis Fed",
-    "excerpt": "Key economic data this week includes the ISM Services PMI and the Federal Reserve minutes, with potential impacts on markets and interest rates. Minneapolis Fed President Neel Kashkari speaks. S&P Manufacturing PMI final may influence market expectations.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "What to Look Out for in Economic Data This Week (June 1-5)"
     },
     "readingTime": 3
   },
@@ -1886,27 +2012,6 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "Shutdowns and market highs: The top 3 questions investors are asking now"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "stocks-under-the-trump-administration-what-is-driving-markets-in-2026",
-    "type": "news",
-    "title": "Stocks Under the Trump Administration: What is Driving Markets in 2026?",
-    "slug": "stocks-under-the-trump-administration-what-is-driving-markets-in-2026",
-    "date": "2026-05-31",
-    "displayDate": "May 31, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "See how tariffs, tax cuts, oil prices, and earnings are shaping the stock market under Trump in 2026 and what investors should watch next.",
-    "excerpt": "See how tariffs, tax cuts, oil prices, and earnings are shaping the stock market under Trump in 2026 and what investors should watch next.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Stocks Under the Trump Administration: What is Driving Markets in 2026?"
     },
     "readingTime": 3
   },
