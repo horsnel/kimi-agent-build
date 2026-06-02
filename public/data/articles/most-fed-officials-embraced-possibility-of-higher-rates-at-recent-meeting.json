@@ -3,8 +3,8 @@
   "type": "news",
   "title": "Most Fed Officials Embraced Possibility of Higher Rates at Recent Meeting",
   "slug": "most-fed-officials-embraced-possibility-of-higher-rates-at-recent-meeting",
-  "date": "2026-05-24",
-  "displayDate": "May 24, 2026",
+  "date": "2026-06-02",
+  "displayDate": "June 2, 2026",
   "author": "Sigma Capital",
   "category": "Fed Policy",
   "tags": [
@@ -12,20 +12,28 @@
     "financial news",
     "market update"
   ],
-  "metaDescription": "A majority of officials at the Federal Reserve thought higher interest rates might become necessary to combat resurgent inflation,...",
-  "excerpt": "A majority of officials at the Federal Reserve thought higher interest rates might become necessary to combat resurgent inflation,...",
+  "metaDescription": "Most Fed officials signaled a potential for higher interest rates at the April meeting, Jerome Powell's last as chair, amid concerns over inflation and economic",
+  "excerpt": "Most Fed officials signaled a potential for higher interest rates at the April meeting, Jerome Powell's last as chair, amid concerns over inflation and economic disruptions from the Iran conflict. The majority indicated readiness to raise rates if inflation exceeds 2%. Fed officials are also conside",
   "content": {
-    "introduction": "A majority of officials at the Federal Reserve thought higher interest rates might become necessary to combat resurgent inflation,...",
-    "body": [],
-    "keyTakeaways": [],
+    "introduction": "Most Fed officials signaled a potential for higher interest rates at the April meeting, Jerome Powell's last as chair, amid concerns over inflation and economic disruptions from the Iran conflict. The majority indicated readiness to raise rates if inflation exceeds 2%. Fed officials are also considering holding rates longer if inflation remains high.",
+    "body": [
+      "Federal Reserve officials signaled renewed worries over inflation with “several” policymakers suggesting the central bank may need to raise",
+      "A majority of Federal Reserve officials indicated interest-rate increases may be needed if inflation stays above the 2% target. Many",
+      "Fed officials are looking at holding rates longer than thought, while also considering rate hikes if inflation remains sticky, according to"
+    ],
+    "keyTakeaways": [
+      "Most Fed officials signaled a potential for higher interest rates at the April meeting, Jerome Powell's last as chair, a",
+      "Federal Reserve officials signaled renewed worries over inflation with “several” policymakers suggesting the central ban",
+      "A majority of Federal Reserve officials indicated interest-rate increases may be needed if inflation stays above the 2% "
+    ],
     "source": "The New York Times",
     "sourceUrl": "https://www.nytimes.com/2026/05/20/business/economy/fed-minutes-interest-rates.html"
   },
   "readingTime": 3,
-  "updatedAt": "2026-05-24T08:24:07.330Z",
+  "updatedAt": "2026-06-02T10:14:43.933Z",
   "images": {
     "thumbnail": {
-      "src": "/images/article_thumb_2.jpg",
+      "src": "/images/article_thumb_1.jpg",
       "alt": "Most Fed Officials Embraced Possibility of Higher Rates at Recent Meeting"
     },
     "hero": {
@@ -33,12 +41,12 @@
       "alt": "Most Fed Officials Embraced Possibility of Higher Rates at Recent Meeting"
     },
     "mid": {
-      "src": "/images/article_thumb_5.jpg",
+      "src": "/images/article_thumb_4.jpg",
       "alt": "Most Fed Officials Embraced Possibility of Higher Rates at Recent Meeting"
     }
   },
   "image": {
-    "src": "/images/article_thumb_3.jpg",
+    "src": "/images/article_thumb_4.jpg",
     "alt": "Most Fed Officials Embraced Possibility of Higher Rates at Recent Meeting"
   }
 }
