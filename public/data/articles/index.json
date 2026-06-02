@@ -42,6 +42,48 @@
     "readingTime": 3
   },
   {
+    "id": "a-reform-agenda-for-new-fed-chair-kevin-warsh",
+    "type": "news",
+    "title": "A Reform Agenda for New Fed Chair Kevin Warsh",
+    "slug": "a-reform-agenda-for-new-fed-chair-kevin-warsh",
+    "date": "2026-06-02",
+    "displayDate": "June 2, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Kevin Warsh aims for a \"regime change\" at the Federal Reserve, proposing reforms to abandon flexible average inflation targeting and return to a rules-based fra",
+    "excerpt": "Kevin Warsh aims for a \"regime change\" at the Federal Reserve, proposing reforms to abandon flexible average inflation targeting and return to a rules-based framework. His agenda seeks to address post-pandemic inflation and improve monetary policy transparency.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "A Reform Agenda for New Fed Chair Kevin Warsh"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "al-broaddus-productivity-growth-and-monetary-policy-in-the-1990s",
+    "type": "news",
+    "title": "Al Broaddus, Productivity Growth and Monetary Policy in the 1990s",
+    "slug": "al-broaddus-productivity-growth-and-monetary-policy-in-the-1990s",
+    "date": "2026-06-02",
+    "displayDate": "June 2, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Al Broaddus argued that higher productivity growth in the 1990s required increased real interest rates. This perspective is now relevant due to potential AI-dri",
+    "excerpt": "Al Broaddus argued that higher productivity growth in the 1990s required increased real interest rates. This perspective is now relevant due to potential AI-driven productivity increases. The Federal Reserve Bank of Richmond published this insight in a 2026 Economic Brief.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Al Broaddus, Productivity Growth and Monetary Policy in the 1990s"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "analysis-assessing-inflation-s-impact",
     "type": "news",
     "title": "Analysis: Assessing Inflation’s Impact",
@@ -59,6 +101,27 @@
     "image": {
       "src": "/images/articles/analysis-assessing-inflation-s-impact-thumb.jpg",
       "alt": "Analysis: Assessing Inflation’s Impact"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "applied-digital-reports-fiscal-third-quarter-2026-results",
+    "type": "news",
+    "title": "Applied Digital Reports Fiscal Third Quarter 2026 Results",
+    "slug": "applied-digital-reports-fiscal-third-quarter-2026-results",
+    "date": "2026-06-02",
+    "displayDate": "June 2, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Applied Digital reported $108.6 million in adjusted revenue for Q3 2026, up from $35.2 million in Q3 2025, and $33.2 million in adjusted net income for Q3 2026.",
+    "excerpt": "Applied Digital reported $108.6 million in adjusted revenue for Q3 2026, up from $35.2 million in Q3 2025, and $33.2 million in adjusted net income for Q3 2026. The company's revenue surged 139% to $126.6 million.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Applied Digital Reports Fiscal Third Quarter 2026 Results"
     },
     "readingTime": 3
   },
@@ -145,6 +208,27 @@
       "alt": "Bitcoin and ethereum prices today, Monday, June 1, 2026: Prices falling this morning"
     },
     "readingTime": 3
+  },
+  {
+    "id": "bitcoin-ethereum-price-news-mstr-s-btc-sale-could-kickstart-eth-outperformance",
+    "type": "news",
+    "title": "Bitcoin, Ethereum price news: MSTR's BTC sale could kickstart ETH outperformance",
+    "slug": "bitcoin-ethereum-price-news-mstr-s-btc-sale-could-kickstart-eth-outperformance",
+    "date": "2026-06-02",
+    "displayDate": "June 2, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "MicroStrategy's recent Bitcoin sale sparked market reactions, but it also led to speculation about Ethereum outperforming Bitcoin. Analysts predict Ethereum cou",
+    "excerpt": "MicroStrategy's recent Bitcoin sale sparked market reactions, but it also led to speculation about Ethereum outperforming Bitcoin. Analysts predict Ethereum could outperform Bitcoin by 40% due to changing market dynamics.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Bitcoin, Ethereum price news: MSTR's BTC sale could kickstart ETH outperformance"
+    },
+    "readingTime": 5
   },
   {
     "id": "chs-reports-second-quarter-fiscal-year-2026-earnings",
@@ -420,6 +504,27 @@
     "readingTime": 3
   },
   {
+    "id": "gdp-advance-estimate-4th-quarter-and-year-2025",
+    "type": "news",
+    "title": "GDP (Advance Estimate), 4th Quarter and Year 2025",
+    "slug": "gdp-advance-estimate-4th-quarter-and-year-2025",
+    "date": "2026-06-02",
+    "displayDate": "June 2, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Real GDP increased at an annual rate of 1.4% in the fourth quarter of 2025, driven by consumer spending and investment. This growth was partly offset by decreas",
+    "excerpt": "Real GDP increased at an annual rate of 1.4% in the fourth quarter of 2025, driven by consumer spending and investment. This growth was partly offset by decreases in government spending and exports. The estimate was released by the U.S. Bureau of Economic Analysis.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "GDP (Advance Estimate), 4th Quarter and Year 2025"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "get-ready-for-major-tech-earnings-starting-april-29",
     "type": "news",
     "title": "Get Ready for Major Tech Earnings Starting April 29",
@@ -458,6 +563,27 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "Global Economics Intelligence executive summary (April 2026)"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "global-markets-world-stocks-rally-on-ai-optimism-jitters-over-iran-persist",
+    "type": "news",
+    "title": "GLOBAL MARKETS-World stocks rally on AI optimism; jitters over Iran persist",
+    "slug": "global-markets-world-stocks-rally-on-ai-optimism-jitters-over-iran-persist",
+    "date": "2026-06-02",
+    "displayDate": "June 2, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "World stocks rallied due to AI optimism, while concerns over Iran persist. Oil prices and bond yields fell on hopes of a U.S.-Iran deal. Markets remain cautious",
+    "excerpt": "World stocks rallied due to AI optimism, while concerns over Iran persist. Oil prices and bond yields fell on hopes of a U.S.-Iran deal. Markets remain cautious about U.S.-Iran peace talks.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "GLOBAL MARKETS-World stocks rally on AI optimism; jitters over Iran persist"
     },
     "readingTime": 3
   },
@@ -546,6 +672,27 @@
     "readingTime": 3
   },
   {
+    "id": "intel-s-9-billion-regret-the-business-sale-haunting-it-today",
+    "type": "news",
+    "title": "Intel’s $9 Billion Regret: The Business Sale Haunting It Today",
+    "slug": "intel-s-9-billion-regret-the-business-sale-haunting-it-today",
+    "date": "2026-06-02",
+    "displayDate": "June 2, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "In late 2021, Intel sold its NAND memory business to SK hynix for $9 billion, a decision now seen as a regret due to market shifts. The sale has impacted Intel'",
+    "excerpt": "In late 2021, Intel sold its NAND memory business to SK hynix for $9 billion, a decision now seen as a regret due to market shifts. The sale has impacted Intel's competitive position.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Intel’s $9 Billion Regret: The Business Sale Haunting It Today"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "is-broadcom-stock-a-buy-ahead-of-its-q2-earnings-report-after-market-close-on-we",
     "type": "news",
     "title": "Is Broadcom Stock a Buy Ahead of Its Q2 Earnings Report After Market Close on Wednesday?",
@@ -563,6 +710,27 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "Is Broadcom Stock a Buy Ahead of Its Q2 Earnings Report After Market Close on Wednesday?"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "is-credo-technology-group-a-buy-after-its-latest-earnings-report",
+    "type": "news",
+    "title": "Is Credo Technology Group a Buy After Its Latest Earnings Report?",
+    "slug": "is-credo-technology-group-a-buy-after-its-latest-earnings-report",
+    "date": "2026-06-02",
+    "displayDate": "June 2, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Credo Technology Group's latest earnings report showed strong growth, with revenue up 205% and beating analyst expectations. Analysts and consensus ratings sugg",
+    "excerpt": "Credo Technology Group's latest earnings report showed strong growth, with revenue up 205% and beating analyst expectations. Analysts and consensus ratings suggest it's a buy, with positive outlooks on future performance.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Is Credo Technology Group a Buy After Its Latest Earnings Report?"
     },
     "readingTime": 3
   },
@@ -605,6 +773,27 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "June calendar 2026 features AICPA ENGAGE in Las Vegas, Fed decision, and Q2 earnings"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "kensington-s-dynamic-allocation-strategy-extends-psn-top-guns-streak-into-q1-202",
+    "type": "news",
+    "title": "Kensington's Dynamic Allocation Strategy Extends PSN Top Guns Streak into Q1 2026, Marking Five Consecutive Quarters of Recognition",
+    "slug": "kensington-s-dynamic-allocation-strategy-extends-psn-top-guns-streak-into-q1-202",
+    "date": "2026-06-02",
+    "displayDate": "June 2, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Kensington's Dynamic Allocation Strategy extended its PSN Top Guns streak into Q1 2026, marking five consecutive quarters of recognition. The strategy was named",
+    "excerpt": "Kensington's Dynamic Allocation Strategy extended its PSN Top Guns streak into Q1 2026, marking five consecutive quarters of recognition. The strategy was named among the top performers in multiple categories. This achievement highlights the strategy's consistent performance.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Kensington's Dynamic Allocation Strategy Extends PSN Top Guns Streak into Q1 2026, Marking Five Consecutive Quarters of Recognition"
     },
     "readingTime": 3
   },
@@ -903,6 +1092,27 @@
     "readingTime": 3
   },
   {
+    "id": "top-10-cryptocurrencies-of-june-2-2026",
+    "type": "news",
+    "title": "Top 10 Cryptocurrencies Of June 2, 2026",
+    "slug": "top-10-cryptocurrencies-of-june-2-2026",
+    "date": "2026-06-02",
+    "displayDate": "June 2, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "As of June 2, 2026, the top 10 cryptocurrencies are Bitcoin, Ethereum, Tether, Binance Coin, Ripple, USDC, Solana, Tron, Cardano, and Dogecoin. These rankings a",
+    "excerpt": "As of June 2, 2026, the top 10 cryptocurrencies are Bitcoin, Ethereum, Tether, Binance Coin, Ripple, USDC, Solana, Tron, Cardano, and Dogecoin. These rankings are based on market capitalization.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Top 10 Cryptocurrencies Of June 2, 2026"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "ups-releases-1q-2026-earnings",
     "type": "news",
     "title": "UPS Releases 1Q 2026 Earnings",
@@ -1113,44 +1323,23 @@
     "readingTime": 3
   },
   {
-    "id": "al-broaddus-productivity-growth-and-monetary-policy-in-the-1990s",
+    "id": "when-is-the-fed-s-next-meeting-see-the-full-schedule-for-2026",
     "type": "news",
-    "title": "Al Broaddus, Productivity Growth and Monetary Policy in the 1990s",
-    "slug": "al-broaddus-productivity-growth-and-monetary-policy-in-the-1990s",
-    "date": "2026-06-01",
-    "displayDate": "June 1, 2026",
+    "title": "When is the Fed's next meeting? See the full schedule for 2026.",
+    "slug": "when-is-the-fed-s-next-meeting-see-the-full-schedule-for-2026",
+    "date": "2026-06-02",
+    "displayDate": "June 2, 2026",
     "category": "Fed Policy",
     "tags": [
       "fed policy",
       "financial news",
       "market update"
     ],
-    "metaDescription": "Al Broaddus, former Richmond Fed President, argued that higher productivity growth in the 1990s would necessitate higher nominal interest rates to maintain mone",
-    "excerpt": "Al Broaddus, former Richmond Fed President, argued that higher productivity growth in the 1990s would necessitate higher nominal interest rates to maintain monetary policy effectiveness. His views emphasized the importance of adapting monetary policy to technological advancements.",
+    "metaDescription": "The next Federal Reserve meeting is on April 28–29, 2026, with the interest rate decision announced on April 29. The Fed has kept the federal funds rate unchang",
+    "excerpt": "The next Federal Reserve meeting is on April 28–29, 2026, with the interest rate decision announced on April 29. The Fed has kept the federal funds rate unchanged at 3.50% to 3.75% since March 18, 2026.",
     "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Al Broaddus, Productivity Growth and Monetary Policy in the 1990s"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "applied-digital-reports-fiscal-third-quarter-2026-results",
-    "type": "news",
-    "title": "Applied Digital Reports Fiscal Third Quarter 2026 Results",
-    "slug": "applied-digital-reports-fiscal-third-quarter-2026-results",
-    "date": "2026-06-01",
-    "displayDate": "June 1, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Applied Digital reported Q3 2026 earnings on April 8, 2026, with EPS of $0.09, exceeding expectations of -$0.17 by 152.94%. The company posted a net loss of $10",
-    "excerpt": "Applied Digital reported Q3 2026 earnings on April 8, 2026, with EPS of $0.09, exceeding expectations of -$0.17 by 152.94%. The company posted a net loss of $100.9 million, significantly improved from the prior year.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Applied Digital Reports Fiscal Third Quarter 2026 Results"
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "When is the Fed's next meeting? See the full schedule for 2026."
     },
     "readingTime": 3
   },
@@ -1806,27 +1995,6 @@
     "readingTime": 3
   },
   {
-    "id": "when-is-the-fed-s-next-meeting-see-the-full-schedule-for-2026",
-    "type": "news",
-    "title": "When is the Fed's next meeting? See the full schedule for 2026.",
-    "slug": "when-is-the-fed-s-next-meeting-see-the-full-schedule-for-2026",
-    "date": "2026-06-01",
-    "displayDate": "June 1, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Fed's next meeting is on June 18-19, 2026. The full 2026 schedule is available on the Federal Reserve's official website.",
-    "excerpt": "The Fed's next meeting is on June 18-19, 2026. The full 2026 schedule is available on the Federal Reserve's official website.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "When is the Fed's next meeting? See the full schedule for 2026."
-    },
-    "readingTime": 3
-  },
-  {
     "id": "why-did-gap-stock-fall-after-q1-2026-earnings",
     "type": "news",
     "title": "Why Did Gap Stock Fall After Q1 2026 Earnings",
@@ -2054,27 +2222,6 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "Federal Reserve Monetary Policy"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "gdp-advance-estimate-4th-quarter-and-year-2025",
-    "type": "news",
-    "title": "GDP (Advance Estimate), 4th Quarter and Year 2025",
-    "slug": "gdp-advance-estimate-4th-quarter-and-year-2025",
-    "date": "2026-05-31",
-    "displayDate": "May 31, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Real gross domestic product (GDP) increased at an annual rate of 1.4 percent in the fourth quarter of 2025 (October, November, and December)...",
-    "excerpt": "Real gross domestic product (GDP) increased at an annual rate of 1.4 percent in the fourth quarter of 2025 (October, November, and December)...",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "GDP (Advance Estimate), 4th Quarter and Year 2025"
     },
     "readingTime": 3
   },
@@ -3272,27 +3419,6 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "2026 commercial real estate outlook"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "a-reform-agenda-for-new-fed-chair-kevin-warsh",
-    "type": "news",
-    "title": "A Reform Agenda for New Fed Chair Kevin Warsh",
-    "slug": "a-reform-agenda-for-new-fed-chair-kevin-warsh",
-    "date": "2026-05-28",
-    "displayDate": "May 28, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Kevin Warsh was sworn in as the new Federal Reserve chair today. He has described his goal as “regime change,” and that's a great goal.",
-    "excerpt": "Kevin Warsh was sworn in as the new Federal Reserve chair today. He has described his goal as “regime change,” and that's a great goal.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "A Reform Agenda for New Fed Chair Kevin Warsh"
     },
     "readingTime": 3
   },
