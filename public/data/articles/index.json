@@ -1,5 +1,635 @@
 [
   {
+    "id": "9-top-investment-trends-2024-2025",
+    "type": "news",
+    "title": "9 Top Investment Trends (2024 & 2025)",
+    "slug": "9-top-investment-trends-2024-2025",
+    "date": "2026-06-03",
+    "displayDate": "June 3, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "AI-powered robo advisors, quant funds, and ESG strategies dominate investment trends for 2024 and 2025, with growing interest in alternative investments and rea",
+    "excerpt": "AI-powered robo advisors, quant funds, and ESG strategies dominate investment trends for 2024 and 2025, with growing interest in alternative investments and real estate.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "9 Top Investment Trends (2024 & 2025)"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "analysis-assessing-inflation-s-impact",
+    "type": "news",
+    "title": "Analysis: Assessing Inflation’s Impact",
+    "slug": "analysis-assessing-inflation-s-impact",
+    "date": "2026-06-03",
+    "displayDate": "June 3, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Inflation raises living costs, influences interest rates, and affects investment decisions, impacting market volatility and consumer purchasing power. Persisten",
+    "excerpt": "Inflation raises living costs, influences interest rates, and affects investment decisions, impacting market volatility and consumer purchasing power. Persistent inflation can erode savings and wages, while central banks adjust policies to manage it. As of 2026, inflation remains a significant econo",
+    "image": {
+      "src": "/images/articles/analysis-assessing-inflation-s-impact-thumb.jpg",
+      "alt": "Analysis: Assessing Inflation’s Impact"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "asian-stock-markets-plunge-amid-trump-s-ultimatum-on-iran",
+    "type": "news",
+    "title": "Asian stock markets plunge amid Trump’s ultimatum on Iran",
+    "slug": "asian-stock-markets-plunge-amid-trump-s-ultimatum-on-iran",
+    "date": "2026-06-03",
+    "displayDate": "June 3, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Asian stock markets plunged due to Trump's ultimatum on Iran, causing significant drops in key indexes. Oil prices rose amid heightened tensions. Trump threaten",
+    "excerpt": "Asian stock markets plunged due to Trump's ultimatum on Iran, causing significant drops in key indexes. Oil prices rose amid heightened tensions. Trump threatened to destroy Iran's energy infrastructure if Iran didn't reopen the Strait of Hormuz.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Asian stock markets plunge amid Trump’s ultimatum on Iran"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "big-tech-earnings-test-record-stock-market-rally-as-ai-spending-takes-center-sta",
+    "type": "news",
+    "title": "Big Tech earnings test record stock market rally as AI spending takes center stage",
+    "slug": "big-tech-earnings-test-record-stock-market-rally-as-ai-spending-takes-center-sta",
+    "date": "2026-06-03",
+    "displayDate": "June 3, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Big Tech's record earnings, driven by strong AI spending, boosted the stock market rally. Alphabet's shares climbed 6% after surpassing expectations. Tech stock",
+    "excerpt": "Big Tech's record earnings, driven by strong AI spending, boosted the stock market rally. Alphabet's shares climbed 6% after surpassing expectations. Tech stocks continued to rise, fueling the market's momentum.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Big Tech earnings test record stock market rally as AI spending takes center stage"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "big-tech-earnings-will-set-the-tone-for-markets-this-week",
+    "type": "news",
+    "title": "Big Tech Earnings Will Set The Tone For Markets This Week",
+    "slug": "big-tech-earnings-will-set-the-tone-for-markets-this-week",
+    "date": "2026-06-03",
+    "displayDate": "June 3, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Big Tech earnings this week are expected to drive market momentum, with strong results likely to set a positive tone for the rest of the earnings season. Analys",
+    "excerpt": "Big Tech earnings this week are expected to drive market momentum, with strong results likely to set a positive tone for the rest of the earnings season. Analysts predict significant growth, potentially surpassing expectations and boosting global indices. The performance of key tech companies will b",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Big Tech Earnings Will Set The Tone For Markets This Week"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "bitcoin-and-ethereum-prices-today-monday-june-1-2026-prices-falling-this-morning",
+    "type": "news",
+    "title": "Bitcoin and ethereum prices today, Monday, June 1, 2026: Prices falling this morning",
+    "slug": "bitcoin-and-ethereum-prices-today-monday-june-1-2026-prices-falling-this-morning",
+    "date": "2026-06-03",
+    "displayDate": "June 3, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "On Monday, June 1, 2026, Bitcoin opened at $73,568.4 and fell to $71,400.64 by 9:56 a.m. ET, down 0.3%. Ethereum remained stable compared to the previous day's ",
+    "excerpt": "On Monday, June 1, 2026, Bitcoin opened at $73,568.4 and fell to $71,400.64 by 9:56 a.m. ET, down 0.3%. Ethereum remained stable compared to the previous day's open.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Bitcoin and ethereum prices today, Monday, June 1, 2026: Prices falling this morning"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "consumer-price-index-new-york-newark-jersey-city-april-2026",
+    "type": "news",
+    "title": "Consumer Price Index, New York-Newark-Jersey City — April 2026",
+    "slug": "consumer-price-index-new-york-newark-jersey-city-april-2026",
+    "date": "2026-06-03",
+    "displayDate": "June 3, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Consumer Price Index for New York-Newark-Jersey City rose 1.0% in April 2026, with a 4.6% increase over the past year, driven by a 24.0% surge in energy cos",
+    "excerpt": "The Consumer Price Index for New York-Newark-Jersey City rose 1.0% in April 2026, with a 4.6% increase over the past year, driven by a 24.0% surge in energy costs. The index for all items less food and energy rose 3.3% over the same period.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Consumer Price Index, New York-Newark-Jersey City — April 2026"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "crypto-news-today-zcash-surges-13-as-bitcoin-ethereum-and-xrp-prices-crash",
+    "type": "news",
+    "title": "Crypto News Today: Zcash Surges 13% as Bitcoin, Ethereum and XRP Prices Crash",
+    "slug": "crypto-news-today-zcash-surges-13-as-bitcoin-ethereum-and-xrp-prices-crash",
+    "date": "2026-06-03",
+    "displayDate": "June 3, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Zcash surged 13% to $612, while Bitcoin, Ethereum, and XRP prices crashed. Zcash outperformed the down global crypto market. As of June 3, 2026, Zcash continues",
+    "excerpt": "Zcash surged 13% to $612, while Bitcoin, Ethereum, and XRP prices crashed. Zcash outperformed the down global crypto market. As of June 3, 2026, Zcash continues to rise.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Crypto News Today: Zcash Surges 13% as Bitcoin, Ethereum and XRP Prices Crash"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "current-u-s-inflation-rate-is-3-8-chart-and-why-it-matters",
+    "type": "news",
+    "title": "Current U.S. Inflation Rate Is 3.8%: Chart and Why It Matters",
+    "slug": "current-u-s-inflation-rate-is-3-8-chart-and-why-it-matters",
+    "date": "2026-06-03",
+    "displayDate": "June 3, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The U.S. inflation rate is currently 3.8%, up from 0.6% month-over-month and 3.8% year-over-year. This rise affects purchasing power and economic planning.",
+    "excerpt": "The U.S. inflation rate is currently 3.8%, up from 0.6% month-over-month and 3.8% year-over-year. This rise affects purchasing power and economic planning.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Current U.S. Inflation Rate Is 3.8%: Chart and Why It Matters"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "expect-canada-s-unemployment-rate-to-tick-lower-in-may",
+    "type": "news",
+    "title": "Expect Canada’s unemployment rate to tick lower in May",
+    "slug": "expect-canada-s-unemployment-rate-to-tick-lower-in-may",
+    "date": "2026-06-03",
+    "displayDate": "June 3, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Canada's unemployment rate rose to 7% in May, the highest in nine years outside of the pandemic, with job growth of about 8,800. This increase follows expectati",
+    "excerpt": "Canada's unemployment rate rose to 7% in May, the highest in nine years outside of the pandemic, with job growth of about 8,800. This increase follows expectations of stabilizing labor demand and moderate job growth. The unemployment rate was expected to tick lower to 6.8%.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Expect Canada’s unemployment rate to tick lower in May"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "fed-officials-see-rate-hike-ahead-if-inflation-stays-elevated-minutes-show",
+    "type": "news",
+    "title": "Fed officials see rate hike ahead if inflation stays elevated, minutes show",
+    "slug": "fed-officials-see-rate-hike-ahead-if-inflation-stays-elevated-minutes-show",
+    "date": "2026-06-03",
+    "displayDate": "June 3, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "A majority of Federal Reserve officials considered a rate hike if inflation remains high, according to the April 28-29 meeting minutes. The meeting highlighted ",
+    "excerpt": "A majority of Federal Reserve officials considered a rate hike if inflation remains high, according to the April 28-29 meeting minutes. The meeting highlighted significant disagreement on policy direction. The Federal Open Market Committee maintained its benchmark rate.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Fed officials see rate hike ahead if inflation stays elevated, minutes show"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "gdp-advance-estimate-4th-quarter-and-year-2025",
+    "type": "news",
+    "title": "GDP (Advance Estimate), 4th Quarter and Year 2025",
+    "slug": "gdp-advance-estimate-4th-quarter-and-year-2025",
+    "date": "2026-06-03",
+    "displayDate": "June 3, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Real GDP increased at an annual rate of 1.4% in the fourth quarter of 2025, driven by consumer spending and investment. This growth was partly offset by decreas",
+    "excerpt": "Real GDP increased at an annual rate of 1.4% in the fourth quarter of 2025, driven by consumer spending and investment. This growth was partly offset by decreases in government spending and exports. The U.S. Bureau of Economic Analysis released this advance estimate.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "GDP (Advance Estimate), 4th Quarter and Year 2025"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "get-ready-for-major-tech-earnings-starting-april-29",
+    "type": "news",
+    "title": "Get Ready for Major Tech Earnings Starting April 29",
+    "slug": "get-ready-for-major-tech-earnings-starting-april-29",
+    "date": "2026-06-03",
+    "displayDate": "June 3, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Major tech earnings begin on April 29 with reports from Alphabet, Amazon, Meta Platforms, and Microsoft. Apple will follow on April 30. Investors are closely wa",
+    "excerpt": "Major tech earnings begin on April 29 with reports from Alphabet, Amazon, Meta Platforms, and Microsoft. Apple will follow on April 30. Investors are closely watching these reports for market insights.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Get Ready for Major Tech Earnings Starting April 29"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "global-stocks-the-best-and-worst-performing-sectors-in-q1",
+    "type": "news",
+    "title": "Global Stocks: The Best- and Worst-Performing Sectors in Q1",
+    "slug": "global-stocks-the-best-and-worst-performing-sectors-in-q1",
+    "date": "2026-06-03",
+    "displayDate": "June 3, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "In Q1, energy was the best-performing sector, while healthcare was the worst-performing sector. The energy sector surged significantly, whereas healthcare decli",
+    "excerpt": "In Q1, energy was the best-performing sector, while healthcare was the worst-performing sector. The energy sector surged significantly, whereas healthcare declined.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Global Stocks: The Best- and Worst-Performing Sectors in Q1"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "got-pop-ups-pa-advocates-rally-for-vote-on-bill-that-would-tax-big-tech-ad-platf",
+    "type": "news",
+    "title": "Got pop ups? Pa. advocates rally for vote on bill that would tax big tech ad platforms",
+    "slug": "got-pop-ups-pa-advocates-rally-for-vote-on-bill-that-would-tax-big-tech-ad-platf",
+    "date": "2026-06-03",
+    "displayDate": "June 3, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Pennsylvania advocates are pushing for a vote on a bill to tax big tech ad platforms, with a committee likely to consider it this week. The bill aims to extend ",
+    "excerpt": "Pennsylvania advocates are pushing for a vote on a bill to tax big tech ad platforms, with a committee likely to consider it this week. The bill aims to extend the gross receipts tax to digital advertising revenue. The proposal seeks to generate more state revenue from tech companies' profits.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Got pop ups? Pa. advocates rally for vote on bill that would tax big tech ad platforms"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "how-is-the-economy-doing-right-now",
+    "type": "news",
+    "title": "How Is the Economy Doing Right Now?",
+    "slug": "how-is-the-economy-doing-right-now",
+    "date": "2026-06-03",
+    "displayDate": "June 3, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The economy is generally strong with low unemployment, but inflation remains above target. GDP growth has slowed, and income inequality persists. For detailed a",
+    "excerpt": "The economy is generally strong with low unemployment, but inflation remains above target. GDP growth has slowed, and income inequality persists. For detailed analysis, refer to specific reports.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "How Is the Economy Doing Right Now?"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "march-2026-investment-strategy-best-sectors-market-trends",
+    "type": "news",
+    "title": "March 2026 Investment Strategy: Best Sectors & Market Trends",
+    "slug": "march-2026-investment-strategy-best-sectors-market-trends",
+    "date": "2026-06-03",
+    "displayDate": "June 3, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Equities should maintain equal weight, focus on industrial, consumer defensive, and energy sectors; fixed income favors short-term high-quality carry; gold rema",
+    "excerpt": "Equities should maintain equal weight, focus on industrial, consumer defensive, and energy sectors; fixed income favors short-term high-quality carry; gold remains strategically allocated.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "March 2026 Investment Strategy: Best Sectors & Market Trends"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "most-fed-officials-embraced-possibility-of-higher-rates-at-recent-meeting",
+    "type": "news",
+    "title": "Most Fed Officials Embraced Possibility of Higher Rates at Recent Meeting",
+    "slug": "most-fed-officials-embraced-possibility-of-higher-rates-at-recent-meeting",
+    "date": "2026-06-03",
+    "displayDate": "June 3, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "A majority of Federal Reserve officials considered raising interest rates to combat inflation, according to the April meeting minutes. The officials were partic",
+    "excerpt": "A majority of Federal Reserve officials considered raising interest rates to combat inflation, according to the April meeting minutes. The officials were particularly concerned about persistent high inflation. This sentiment was echoed across various reports, indicating a consensus on the potential ",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Most Fed Officials Embraced Possibility of Higher Rates at Recent Meeting"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "only-one-man-can-kill-the-ai-boom-fed-chair-kevin-warsh",
+    "type": "news",
+    "title": "Only One Man Can Kill the AI Boom: Fed Chair Kevin Warsh",
+    "slug": "only-one-man-can-kill-the-ai-boom-fed-chair-kevin-warsh",
+    "date": "2026-06-03",
+    "displayDate": "June 3, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Federal Reserve Chair Kevin Warsh's monetary policy decisions could significantly impact AI stock valuations. His policies may pose a greater threat to the AI b",
+    "excerpt": "Federal Reserve Chair Kevin Warsh's monetary policy decisions could significantly impact AI stock valuations. His policies may pose a greater threat to the AI boom than technological competition. His influence could potentially kill the AI boom.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Only One Man Can Kill the AI Boom: Fed Chair Kevin Warsh"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "tech-weekly-software-earnings-help-s-p-500-hit-eighth-week-of-gains",
+    "type": "news",
+    "title": "Tech Weekly: Software Earnings Help S&P 500 Hit Eighth Week of Gains",
+    "slug": "tech-weekly-software-earnings-help-s-p-500-hit-eighth-week-of-gains",
+    "date": "2026-06-03",
+    "displayDate": "June 3, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The S&P 500 has achieved eight consecutive weeks of gains, driven by strong earnings from tech software companies and a semiconductor rally amid an AI boom. Thi",
+    "excerpt": "The S&P 500 has achieved eight consecutive weeks of gains, driven by strong earnings from tech software companies and a semiconductor rally amid an AI boom. This marks the index's best performance in this stretch.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Tech Weekly: Software Earnings Help S&P 500 Hit Eighth Week of Gains"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "the-s-p-500-has-only-risen-this-quickly-4-times-since-wwii-once-a-historic-stock",
+    "type": "news",
+    "title": "The S&P 500 has only risen this quickly 4 times since WWII. Once, a historic stock-market crash followed.",
+    "slug": "the-s-p-500-has-only-risen-this-quickly-4-times-since-wwii-once-a-historic-stock",
+    "date": "2026-06-03",
+    "displayDate": "June 3, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The S&P 500 has only risen this quickly 4 times since WWII; once, a historic stock-market crash followed. This rapid rise occurred during periods of significant",
+    "excerpt": "The S&P 500 has only risen this quickly 4 times since WWII; once, a historic stock-market crash followed. This rapid rise occurred during periods of significant economic change.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "The S&P 500 has only risen this quickly 4 times since WWII. Once, a historic stock-market crash followed."
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "top-3-price-prediction-bitcoin-ethereum-ripple-btc-eyes-65-000-eth-risks-1-800-x",
+    "type": "news",
+    "title": "Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC eyes $65,000, ETH risks $1,800, XRP holds at $1.20",
+    "slug": "top-3-price-prediction-bitcoin-ethereum-ripple-btc-eyes-65-000-eth-risks-1-800-x",
+    "date": "2026-06-03",
+    "displayDate": "June 3, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin is predicted to reach $150,000–$230,000 by 2026, Ethereum $5,000–$10,000, and Ripple $1.50 in the next jump. These predictions are based on AI-driven fo",
+    "excerpt": "Bitcoin is predicted to reach $150,000–$230,000 by 2026, Ethereum $5,000–$10,000, and Ripple $1.50 in the next jump. These predictions are based on AI-driven forecasts.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC eyes $65,000, ETH risks $1,800, XRP holds at $1.20"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "us-european-stocks-fall-as-iran-war-drives-oil-rally-bond-selloff",
+    "type": "news",
+    "title": "US, European stocks fall as Iran war drives oil rally, bond selloff",
+    "slug": "us-european-stocks-fall-as-iran-war-drives-oil-rally-bond-selloff",
+    "date": "2026-06-03",
+    "displayDate": "June 3, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "US and European stocks declined, oil prices surged, and government bonds sold off amid escalating tensions with Iran in 2026. The U.S. dollar strengthened due t",
+    "excerpt": "US and European stocks declined, oil prices surged, and government bonds sold off amid escalating tensions with Iran in 2026. The U.S. dollar strengthened due to rising Treasury yields. Investor uncertainty over Iran's actions led to these market shifts.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "US, European stocks fall as Iran war drives oil rally, bond selloff"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "us-stock-market-today-s-p-500-futures-edge-higher-as-manufacturing-strength-fuel",
+    "type": "news",
+    "title": "US Stock Market Today: S&P 500 Futures Edge Higher As Manufacturing Strength Fuels Inflation Jitters",
+    "slug": "us-stock-market-today-s-p-500-futures-edge-higher-as-manufacturing-strength-fuel",
+    "date": "2026-06-03",
+    "displayDate": "June 3, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "As of today, S&P 500 futures are higher, driven by strong manufacturing, but inflation concerns persist. Market tone remains cautious. Current data shows mixed ",
+    "excerpt": "As of today, S&P 500 futures are higher, driven by strong manufacturing, but inflation concerns persist. Market tone remains cautious. Current data shows mixed futures with slight increases in volatility.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "US Stock Market Today: S&P 500 Futures Edge Higher As Manufacturing Strength Fuels Inflation Jitters"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "us-stocks-rise-asian-markets-get-rocked-as-middle-east-conflict-intensifies",
+    "type": "news",
+    "title": "US stocks rise, Asian markets get rocked as Middle East conflict intensifies",
+    "slug": "us-stocks-rise-asian-markets-get-rocked-as-middle-east-conflict-intensifies",
+    "date": "2026-06-03",
+    "displayDate": "June 3, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "US stocks rose while Asian markets declined amid intensifying Middle East conflict, with oil prices stabilizing. US Navy pledged to ensure safe passage for oil ",
+    "excerpt": "US stocks rose while Asian markets declined amid intensifying Middle East conflict, with oil prices stabilizing. US Navy pledged to ensure safe passage for oil tankers. Iran reportedly contacted the US for negotiations.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "US stocks rise, Asian markets get rocked as Middle East conflict intensifies"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "wall-st-week-ahead-us-earnings-season-set-to-test-war-rattled-stocks",
+    "type": "news",
+    "title": "Wall St Week Ahead US earnings season set to test war-rattled stocks",
+    "slug": "wall-st-week-ahead-us-earnings-season-set-to-test-war-rattled-stocks",
+    "date": "2026-06-03",
+    "displayDate": "June 3, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The upcoming US earnings season will test the resilience of war-rattled stocks, with S&P 500 earnings expected to rise about 14% in the first quarter. Key repor",
+    "excerpt": "The upcoming US earnings season will test the resilience of war-rattled stocks, with S&P 500 earnings expected to rise about 14% in the first quarter. Key reports from Goldman Sachs and JPMorgan are set for Monday and Tuesday, respectively, alongside major earnings from Netflix, J&J, and PepsiCo. Ec",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Wall St Week Ahead US earnings season set to test war-rattled stocks"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "wall-street-s-anything-but-tech-trade-shakes-up-us-stock-market",
+    "type": "news",
+    "title": "Wall Street’s anything-but-tech trade shakes up US stock market",
+    "slug": "wall-street-s-anything-but-tech-trade-shakes-up-us-stock-market",
+    "date": "2026-06-03",
+    "displayDate": "June 3, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The US stock market has seen a shift away from technology stocks, with energy, small-cap, and materials sectors now outperforming. This trend has significantly ",
+    "excerpt": "The US stock market has seen a shift away from technology stocks, with energy, small-cap, and materials sectors now outperforming. This trend has significantly impacted market dynamics.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Wall Street’s anything-but-tech trade shakes up US stock market"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "weekly-market-commentary",
+    "type": "news",
+    "title": "Weekly market commentary",
+    "slug": "weekly-market-commentary",
+    "date": "2026-06-03",
+    "displayDate": "June 3, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Weekly market commentary from Northwestern Mutual, BlackRock, and Wells Fargo Investment Institute covers economic trends, geopolitical impacts, and investment ",
+    "excerpt": "Weekly market commentary from Northwestern Mutual, BlackRock, and Wells Fargo Investment Institute covers economic trends, geopolitical impacts, and investment strategies. The latest reports include analysis on inflation, Federal Reserve actions, and AI investment trends.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Weekly market commentary"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "weekly-market-update-tech-stocks-lead-market-lower-basic-materials-gain",
+    "type": "news",
+    "title": "Weekly Market Update: Tech Stocks Lead Market Lower, Basic Materials Gain",
+    "slug": "weekly-market-update-tech-stocks-lead-market-lower-basic-materials-gain",
+    "date": "2026-06-03",
+    "displayDate": "June 3, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Tech stocks led declines, while basic materials gained in the latest market update. The Morningstar US Market Index fell, and growth stocks dropped significantl",
+    "excerpt": "Tech stocks led declines, while basic materials gained in the latest market update. The Morningstar US Market Index fell, and growth stocks dropped significantly. Basic materials rose notably as investors shifted focus.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Weekly Market Update: Tech Stocks Lead Market Lower, Basic Materials Gain"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "what-to-consider-when-you-re-considering-alternative-investments",
+    "type": "news",
+    "title": "What to Consider When You’re Considering Alternative Investments",
+    "slug": "what-to-consider-when-you-re-considering-alternative-investments",
+    "date": "2026-06-03",
+    "displayDate": "June 3, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "When considering alternative investments, focus on manager selection, understand the differences between evergreen and drawdown vehicles, and assess how they di",
+    "excerpt": "When considering alternative investments, focus on manager selection, understand the differences between evergreen and drawdown vehicles, and assess how they diversify your portfolio risk.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "What to Consider When You’re Considering Alternative Investments"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "3-ways-to-simplify-your-investment-portfolio-in-2026",
     "type": "news",
     "title": "3 Ways to Simplify Your Investment Portfolio in 2026",
@@ -17,27 +647,6 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "3 Ways to Simplify Your Investment Portfolio in 2026"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "9-top-investment-trends-2024-2025",
-    "type": "news",
-    "title": "9 Top Investment Trends (2024 & 2025)",
-    "slug": "9-top-investment-trends-2024-2025",
-    "date": "2026-06-02",
-    "displayDate": "June 2, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "AI powers next-gen robo advisors, quant funds gain, and ESG becomes essential; alternative investments and new real estate investment methods are also trending.",
-    "excerpt": "AI powers next-gen robo advisors, quant funds gain, and ESG becomes essential; alternative investments and new real estate investment methods are also trending.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "9 Top Investment Trends (2024 & 2025)"
     },
     "readingTime": 3
   },
@@ -84,27 +693,6 @@
     "readingTime": 3
   },
   {
-    "id": "analysis-assessing-inflation-s-impact",
-    "type": "news",
-    "title": "Analysis: Assessing Inflation’s Impact",
-    "slug": "analysis-assessing-inflation-s-impact",
-    "date": "2026-06-02",
-    "displayDate": "June 2, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Inflation raises living costs, influences interest rates, and affects investment decisions, with energy and housing as major pressure points. Persistent inflati",
-    "excerpt": "Inflation raises living costs, influences interest rates, and affects investment decisions, with energy and housing as major pressure points. Persistent inflation erodes purchasing power and impacts economic recovery.",
-    "image": {
-      "src": "/images/articles/analysis-assessing-inflation-s-impact-thumb.jpg",
-      "alt": "Analysis: Assessing Inflation’s Impact"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "applied-digital-reports-fiscal-third-quarter-2026-results",
     "type": "news",
     "title": "Applied Digital Reports Fiscal Third Quarter 2026 Results",
@@ -147,27 +735,6 @@
     "readingTime": 3
   },
   {
-    "id": "big-tech-earnings-will-set-the-tone-for-markets-this-week",
-    "type": "news",
-    "title": "Big Tech Earnings Will Set The Tone For Markets This Week",
-    "slug": "big-tech-earnings-will-set-the-tone-for-markets-this-week",
-    "date": "2026-06-02",
-    "displayDate": "June 2, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Big Tech earnings this week are expected to significantly influence market trends, with strong results likely to boost investor confidence and drive market grow",
-    "excerpt": "Big Tech earnings this week are expected to significantly influence market trends, with strong results likely to boost investor confidence and drive market growth. Analysts predict positive outcomes, potentially leading to new highs for global indices. The Magnificent 7's performance is crucial for ",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Big Tech Earnings Will Set The Tone For Markets This Week"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "bitcoin-and-ethereum-prices-today-june-2-2026-bitcoin-s-lowest-open-since-april-",
     "type": "news",
     "title": "Bitcoin and ethereum prices today, June 2, 2026: Bitcoin's lowest open since April, prices falling further",
@@ -185,27 +752,6 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "Bitcoin and ethereum prices today, June 2, 2026: Bitcoin's lowest open since April, prices falling further"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "bitcoin-and-ethereum-prices-today-monday-june-1-2026-prices-falling-this-morning",
-    "type": "news",
-    "title": "Bitcoin and ethereum prices today, Monday, June 1, 2026: Prices falling this morning",
-    "slug": "bitcoin-and-ethereum-prices-today-monday-june-1-2026-prices-falling-this-morning",
-    "date": "2026-06-02",
-    "displayDate": "June 2, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "As of 9:56 a.m. ET, Bitcoin fell to $71,400.64, and Ethereum dropped to $1,960.76. Ethereum opened at $2,004.03, down 0.8% from Sunday.",
-    "excerpt": "As of 9:56 a.m. ET, Bitcoin fell to $71,400.64, and Ethereum dropped to $1,960.76. Ethereum opened at $2,004.03, down 0.8% from Sunday.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Bitcoin and ethereum prices today, Monday, June 1, 2026: Prices falling this morning"
     },
     "readingTime": 3
   },
@@ -248,27 +794,6 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "CHS reports second quarter fiscal year 2026 earnings"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "consumer-price-index-new-york-newark-jersey-city-april-2026",
-    "type": "news",
-    "title": "Consumer Price Index, New York-Newark-Jersey City — April 2026",
-    "slug": "consumer-price-index-new-york-newark-jersey-city-april-2026",
-    "date": "2026-06-02",
-    "displayDate": "June 2, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The New York-Newark-Jersey City area's CPI rose 1.0% in April 2026, with a 4.6% increase over the past year, driven by a 24.0% surge in energy costs. The index ",
-    "excerpt": "The New York-Newark-Jersey City area's CPI rose 1.0% in April 2026, with a 4.6% increase over the past year, driven by a 24.0% surge in energy costs. The index excluding food and energy rose 3.3% over the same period.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Consumer Price Index, New York-Newark-Jersey City — April 2026"
     },
     "readingTime": 3
   },
@@ -378,27 +903,6 @@
     "readingTime": 3
   },
   {
-    "id": "current-u-s-inflation-rate-is-3-8-chart-and-why-it-matters",
-    "type": "news",
-    "title": "Current U.S. Inflation Rate Is 3.8%: Chart and Why It Matters",
-    "slug": "current-u-s-inflation-rate-is-3-8-chart-and-why-it-matters",
-    "date": "2026-06-02",
-    "displayDate": "June 2, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The current U.S. inflation rate is 3.8%. This rise affects purchasing power. It's important for economic planning and policy decisions.",
-    "excerpt": "The current U.S. inflation rate is 3.8%. This rise affects purchasing power. It's important for economic planning and policy decisions.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Current U.S. Inflation Rate Is 3.8%: Chart and Why It Matters"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "earnings-calendar-and-analysis-for-this-week-june-1-5",
     "type": "news",
     "title": "Earnings Calendar and Analysis for This Week (June 1-5)",
@@ -416,27 +920,6 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "Earnings Calendar and Analysis for This Week (June 1-5)"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "expect-canada-s-unemployment-rate-to-tick-lower-in-may",
-    "type": "news",
-    "title": "Expect Canada’s unemployment rate to tick lower in May",
-    "slug": "expect-canada-s-unemployment-rate-to-tick-lower-in-may",
-    "date": "2026-06-02",
-    "displayDate": "June 2, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Canada's unemployment rate likely ticked lower to 6.8% in May due to federal government hiring for the census, but recent reports indicate it rose to 7% in May,",
-    "excerpt": "Canada's unemployment rate likely ticked lower to 6.8% in May due to federal government hiring for the census, but recent reports indicate it rose to 7% in May, the highest since 2016. This increase is attributed to ongoing trade uncertainties and tariff impacts.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Expect Canada’s unemployment rate to tick lower in May"
     },
     "readingTime": 3
   },
@@ -479,69 +962,6 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "Fed officials’ concerns about inflation sparked talk of rate hike during last meeting"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "fed-officials-see-rate-hike-ahead-if-inflation-stays-elevated-minutes-show",
-    "type": "news",
-    "title": "Fed officials see rate hike ahead if inflation stays elevated, minutes show",
-    "slug": "fed-officials-see-rate-hike-ahead-if-inflation-stays-elevated-minutes-show",
-    "date": "2026-06-02",
-    "displayDate": "June 2, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "A majority of Federal Reserve officials considered a rate hike if inflation remains high, according to the April policy meeting minutes. The meeting saw four \"n",
-    "excerpt": "A majority of Federal Reserve officials considered a rate hike if inflation remains high, according to the April policy meeting minutes. The meeting saw four \"no\" votes, the highest since 1992, indicating significant policy disagreement. The Fed kept its benchmark rate steady.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Fed officials see rate hike ahead if inflation stays elevated, minutes show"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "gdp-advance-estimate-4th-quarter-and-year-2025",
-    "type": "news",
-    "title": "GDP (Advance Estimate), 4th Quarter and Year 2025",
-    "slug": "gdp-advance-estimate-4th-quarter-and-year-2025",
-    "date": "2026-06-02",
-    "displayDate": "June 2, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Real GDP increased at an annual rate of 1.4% in the fourth quarter of 2025, driven by consumer spending and investment. This growth was partly offset by decreas",
-    "excerpt": "Real GDP increased at an annual rate of 1.4% in the fourth quarter of 2025, driven by consumer spending and investment. This growth was partly offset by decreases in government spending and exports. The estimate was released by the U.S. Bureau of Economic Analysis.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "GDP (Advance Estimate), 4th Quarter and Year 2025"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "get-ready-for-major-tech-earnings-starting-april-29",
-    "type": "news",
-    "title": "Get Ready for Major Tech Earnings Starting April 29",
-    "slug": "get-ready-for-major-tech-earnings-starting-april-29",
-    "date": "2026-06-02",
-    "displayDate": "June 2, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Major tech companies including Alphabet, Amazon, Meta, and Microsoft will release their quarterly earnings on April 29, with Apple following on April 30. Analys",
-    "excerpt": "Major tech companies including Alphabet, Amazon, Meta, and Microsoft will release their quarterly earnings on April 29, with Apple following on April 30. Analysts are closely watching these reports for insights into the companies' performance. Don't miss the detailed discussions on Bloomberg.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Get Ready for Major Tech Earnings Starting April 29"
     },
     "readingTime": 3
   },
@@ -605,27 +1025,6 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "Health care sector: Investing in stocks that help keep you well"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "how-is-the-economy-doing-right-now",
-    "type": "news",
-    "title": "How Is the Economy Doing Right Now?",
-    "slug": "how-is-the-economy-doing-right-now",
-    "date": "2026-06-02",
-    "displayDate": "June 2, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The economy is generally strong with steady growth, but inflation remains above target levels. Unemployment is low, and job growth continues.",
-    "excerpt": "The economy is generally strong with steady growth, but inflation remains above target levels. Unemployment is low, and job growth continues.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "How Is the Economy Doing Right Now?"
     },
     "readingTime": 3
   },
@@ -798,27 +1197,6 @@
     "readingTime": 3
   },
   {
-    "id": "march-2026-investment-strategy-best-sectors-market-trends",
-    "type": "news",
-    "title": "March 2026 Investment Strategy: Best Sectors & Market Trends",
-    "slug": "march-2026-investment-strategy-best-sectors-market-trends",
-    "date": "2026-06-02",
-    "displayDate": "June 2, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "For March 2026, focus on industrial, consumer defensive, and energy sectors for equity investments, while fixed income should favor short-term high-quality prod",
-    "excerpt": "For March 2026, focus on industrial, consumer defensive, and energy sectors for equity investments, while fixed income should favor short-term high-quality products amid market volatility.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "March 2026 Investment Strategy: Best Sectors & Market Trends"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "medical-technology-stocks-innovation-endures-as-valuations-reset",
     "type": "news",
     "title": "Medical Technology Stocks: Innovation Endures as Valuations Reset",
@@ -857,48 +1235,6 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "Monthly Market Wrap: May 2026"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "most-fed-officials-embraced-possibility-of-higher-rates-at-recent-meeting",
-    "type": "news",
-    "title": "Most Fed Officials Embraced Possibility of Higher Rates at Recent Meeting",
-    "slug": "most-fed-officials-embraced-possibility-of-higher-rates-at-recent-meeting",
-    "date": "2026-06-02",
-    "displayDate": "June 2, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Most Fed officials signaled a potential for higher interest rates at the April meeting, Jerome Powell's last as chair, amid concerns over inflation and economic",
-    "excerpt": "Most Fed officials signaled a potential for higher interest rates at the April meeting, Jerome Powell's last as chair, amid concerns over inflation and economic disruptions from the Iran conflict. The majority indicated readiness to raise rates if inflation exceeds 2%. Fed officials are also conside",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Most Fed Officials Embraced Possibility of Higher Rates at Recent Meeting"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "only-one-man-can-kill-the-ai-boom-fed-chair-kevin-warsh",
-    "type": "news",
-    "title": "Only One Man Can Kill the AI Boom: Fed Chair Kevin Warsh",
-    "slug": "only-one-man-can-kill-the-ai-boom-fed-chair-kevin-warsh",
-    "date": "2026-06-02",
-    "displayDate": "June 2, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Fed Chair Kevin Warsh has expressed concerns about the potential impact of AI on the economy, suggesting he may influence interest rates and monetary policy in ",
-    "excerpt": "Fed Chair Kevin Warsh has expressed concerns about the potential impact of AI on the economy, suggesting he may influence interest rates and monetary policy in response. His views on managing inflation and AI's role are critical to the current economic landscape.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Only One Man Can Kill the AI Boom: Fed Chair Kevin Warsh"
     },
     "readingTime": 3
   },
@@ -1134,27 +1470,6 @@
     "readingTime": 3
   },
   {
-    "id": "us-stock-market-today-s-p-500-futures-edge-higher-as-manufacturing-strength-fuel",
-    "type": "news",
-    "title": "US Stock Market Today: S&P 500 Futures Edge Higher As Manufacturing Strength Fuels Inflation Jitters",
-    "slug": "us-stock-market-today-s-p-500-futures-edge-higher-as-manufacturing-strength-fuel",
-    "date": "2026-06-02",
-    "displayDate": "June 2, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "US stock futures are slightly higher today, with E-mini S&P 500 contracts up about 0.2%, amid inflation concerns. Market strength in manufacturing fuels these j",
-    "excerpt": "US stock futures are slightly higher today, with E-mini S&P 500 contracts up about 0.2%, amid inflation concerns. Market strength in manufacturing fuels these jitters. Current date is June 2, 2026.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "US Stock Market Today: S&P 500 Futures Edge Higher As Manufacturing Strength Fuels Inflation Jitters"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "us-stocks-are-off-to-their-worst-start-versus-the-global-market-since-1995",
     "type": "news",
     "title": "US stocks are off to their worst start versus the global market since 1995",
@@ -1260,48 +1575,6 @@
     "readingTime": 3
   },
   {
-    "id": "weekly-market-commentary",
-    "type": "news",
-    "title": "Weekly market commentary",
-    "slug": "weekly-market-commentary",
-    "date": "2026-06-02",
-    "displayDate": "June 2, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Markets saw strong performance driven by optimism in earnings and AI, with notable shifts in agriculture investments and geopolitical influences shaping growth ",
-    "excerpt": "Markets saw strong performance driven by optimism in earnings and AI, with notable shifts in agriculture investments and geopolitical influences shaping growth and inflation. Recent commentary highlights resilient demand despite rising supply-side risks.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Weekly market commentary"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "what-to-consider-when-you-re-considering-alternative-investments",
-    "type": "news",
-    "title": "What to Consider When You’re Considering Alternative Investments",
-    "slug": "what-to-consider-when-you-re-considering-alternative-investments",
-    "date": "2026-06-02",
-    "displayDate": "June 2, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "When considering alternative investments, focus on manager selection, understand evergreen vs. drawdown vehicles, and assess how they fit into your overall port",
-    "excerpt": "When considering alternative investments, focus on manager selection, understand evergreen vs. drawdown vehicles, and assess how they fit into your overall portfolio risk strategy.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "What to Consider When You’re Considering Alternative Investments"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "what-to-look-out-for-in-economic-data-this-week-june-1-5",
     "type": "news",
     "title": "What to Look Out for in Economic Data This Week (June 1-5)",
@@ -1344,27 +1617,6 @@
     "readingTime": 3
   },
   {
-    "id": "asian-stock-markets-plunge-amid-trump-s-ultimatum-on-iran",
-    "type": "news",
-    "title": "Asian stock markets plunge amid Trump’s ultimatum on Iran",
-    "slug": "asian-stock-markets-plunge-amid-trump-s-ultimatum-on-iran",
-    "date": "2026-06-01",
-    "displayDate": "June 1, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Asian stock markets fell sharply due to Trump's ultimatum on Iran. Key indexes in Japan, South Korea, and Hong Kong dropped significantly. Investor fears of reg",
-    "excerpt": "Asian stock markets fell sharply due to Trump's ultimatum on Iran. Key indexes in Japan, South Korea, and Hong Kong dropped significantly. Investor fears of regional conflict escalated the declines.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Asian stock markets plunge amid Trump’s ultimatum on Iran"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "big-business-this-week-a-quantum-leap-for-tech-investment",
     "type": "news",
     "title": "Big Business This Week: A Quantum leap for tech investment",
@@ -1382,27 +1634,6 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "Big Business This Week: A Quantum leap for tech investment"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "big-tech-earnings-test-record-stock-market-rally-as-ai-spending-takes-center-sta",
-    "type": "news",
-    "title": "Big Tech earnings test record stock market rally as AI spending takes center stage",
-    "slug": "big-tech-earnings-test-record-stock-market-rally-as-ai-spending-takes-center-sta",
-    "date": "2026-06-01",
-    "displayDate": "June 1, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Big Tech earnings have driven a record stock market rally, with AI spending significantly impacting investor focus. The Magnificent 7 tech companies are leading",
-    "excerpt": "Big Tech earnings have driven a record stock market rally, with AI spending significantly impacting investor focus. The Magnificent 7 tech companies are leading this surge, reporting high net profit margins. AI investments are expected to exceed $500 billion this year.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Big Tech earnings test record stock market rally as AI spending takes center stage"
     },
     "readingTime": 3
   },
@@ -1890,27 +2121,6 @@
     "readingTime": 3
   },
   {
-    "id": "us-stocks-rise-asian-markets-get-rocked-as-middle-east-conflict-intensifies",
-    "type": "news",
-    "title": "US stocks rise, Asian markets get rocked as Middle East conflict intensifies",
-    "slug": "us-stocks-rise-asian-markets-get-rocked-as-middle-east-conflict-intensifies",
-    "date": "2026-06-01",
-    "displayDate": "June 1, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "US stocks have risen while Asian markets experienced declines amid intensifying Middle East conflict. Oil prices stabilized, contributing to the market shifts. ",
-    "excerpt": "US stocks have risen while Asian markets experienced declines amid intensifying Middle East conflict. Oil prices stabilized, contributing to the market shifts. For detailed information, refer to financial news sources.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "US stocks rise, Asian markets get rocked as Middle East conflict intensifies"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "wall-st-week-ahead-industrial-sector-s-gains-to-be-tested-as-earnings-ramp-up",
     "type": "news",
     "title": "Wall St Week Ahead: Industrial sector's gains to be tested as earnings ramp up",
@@ -1949,27 +2159,6 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "Weekly Market Update: Stocks Remain Flat as Consumer Defensives Rise and Financial Services Fall"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "weekly-market-update-tech-stocks-lead-market-lower-basic-materials-gain",
-    "type": "news",
-    "title": "Weekly Market Update: Tech Stocks Lead Market Lower, Basic Materials Gain",
-    "slug": "weekly-market-update-tech-stocks-lead-market-lower-basic-materials-gain",
-    "date": "2026-06-01",
-    "displayDate": "June 1, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Tech stocks led declines, while basic materials gained. The Fed cut rates, but market momentum faded. Financial services rose.",
-    "excerpt": "Tech stocks led declines, while basic materials gained. The Fed cut rates, but market momentum faded. Financial services rose.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Weekly Market Update: Tech Stocks Lead Market Lower, Basic Materials Gain"
     },
     "readingTime": 3
   },
@@ -2457,27 +2646,6 @@
     "readingTime": 3
   },
   {
-    "id": "us-european-stocks-fall-as-iran-war-drives-oil-rally-bond-selloff",
-    "type": "news",
-    "title": "US, European stocks fall as Iran war drives oil rally, bond selloff",
-    "slug": "us-european-stocks-fall-as-iran-war-drives-oil-rally-bond-selloff",
-    "date": "2026-05-31",
-    "displayDate": "May 31, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "NEW YORK/LONDON, March 5 (Reuters) - Equity indexes fell on Wall Street and in Europe on Thursday while government bonds sold off and the...",
-    "excerpt": "NEW YORK/LONDON, March 5 (Reuters) - Equity indexes fell on Wall Street and in Europe on Thursday while government bonds sold off and the...",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "US, European stocks fall as Iran war drives oil rally, bond selloff"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "us-stock-market-outlook-where-to-find-value-after-april-s-rally",
     "type": "news",
     "title": "US Stock Market Outlook: Where to Find Value After April’s Rally",
@@ -2667,27 +2835,6 @@
     "readingTime": 3
   },
   {
-    "id": "global-stocks-the-best-and-worst-performing-sectors-in-q1",
-    "type": "news",
-    "title": "Global Stocks: The Best- and Worst-Performing Sectors in Q1",
-    "slug": "global-stocks-the-best-and-worst-performing-sectors-in-q1",
-    "date": "2026-05-30",
-    "displayDate": "May 30, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The first quarter of 2026 marked a clear break from the tech-led rally, with a sharp rotation toward value, commodities, and defensive...",
-    "excerpt": "The first quarter of 2026 marked a clear break from the tech-led rally, with a sharp rotation toward value, commodities, and defensive...",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Global Stocks: The Best- and Worst-Performing Sectors in Q1"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "gold-braces-for-labor-market-week-as-investors-eye-manufacturing-jobs-data",
     "type": "news",
     "title": "Gold braces for labor market week as investors eye manufacturing, jobs data",
@@ -2852,27 +2999,6 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "US Stock Market Today S&P 500 Futures Edge Lower As Inflation Jitters Build"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "wall-st-week-ahead-us-earnings-season-set-to-test-war-rattled-stocks",
-    "type": "news",
-    "title": "Wall St Week Ahead US earnings season set to test war-rattled stocks",
-    "slug": "wall-st-week-ahead-us-earnings-season-set-to-test-war-rattled-stocks",
-    "date": "2026-05-30",
-    "displayDate": "May 30, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "S&P 500 earnings seen up about 14% in first quarter; Goldman Sachs reports Monday, JPMorgan, Citigroup due Tuesday; Netflix, J&J,...",
-    "excerpt": "S&P 500 earnings seen up about 14% in first quarter; Goldman Sachs reports Monday, JPMorgan, Citigroup due Tuesday; Netflix, J&J,...",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Wall St Week Ahead US earnings season set to test war-rattled stocks"
     },
     "readingTime": 3
   },

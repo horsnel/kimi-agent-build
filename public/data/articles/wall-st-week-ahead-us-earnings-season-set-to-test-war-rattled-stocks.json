@@ -3,8 +3,8 @@
   "type": "news",
   "title": "Wall St Week Ahead US earnings season set to test war-rattled stocks",
   "slug": "wall-st-week-ahead-us-earnings-season-set-to-test-war-rattled-stocks",
-  "date": "2026-05-30",
-  "displayDate": "May 30, 2026",
+  "date": "2026-06-03",
+  "displayDate": "June 3, 2026",
   "author": "Sigma Capital",
   "category": "Earnings",
   "tags": [
@@ -12,33 +12,41 @@
     "financial news",
     "market update"
   ],
-  "metaDescription": "S&P 500 earnings seen up about 14% in first quarter; Goldman Sachs reports Monday, JPMorgan, Citigroup due Tuesday; Netflix, J&J,...",
-  "excerpt": "S&P 500 earnings seen up about 14% in first quarter; Goldman Sachs reports Monday, JPMorgan, Citigroup due Tuesday; Netflix, J&J,...",
+  "metaDescription": "The upcoming US earnings season will test the resilience of war-rattled stocks, with S&P 500 earnings expected to rise about 14% in the first quarter. Key repor",
+  "excerpt": "The upcoming US earnings season will test the resilience of war-rattled stocks, with S&P 500 earnings expected to rise about 14% in the first quarter. Key reports from Goldman Sachs and JPMorgan are set for Monday and Tuesday, respectively, alongside major earnings from Netflix, J&J, and PepsiCo. Ec",
   "content": {
-    "introduction": "S&P 500 earnings seen up about 14% in first quarter; Goldman Sachs reports Monday, JPMorgan, Citigroup due Tuesday; Netflix, J&J,...",
-    "body": [],
-    "keyTakeaways": [],
+    "introduction": "The upcoming US earnings season will test the resilience of war-rattled stocks, with S&P 500 earnings expected to rise about 14% in the first quarter. Key reports from Goldman Sachs and JPMorgan are set for Monday and Tuesday, respectively, alongside major earnings from Netflix, J&J, and PepsiCo. Economic data, including the Producer Price Index (PPI), will also be closely watched.",
+    "body": [
+      "Investors will seek evidence in the coming week that the U.S. corporate profit engine is humming along, and whether threats to that upbeat",
+      "Despite war-related concerns, major indexes like the S&P 500 and Nasdaq have seen a swift rebound, with investors now focusing on corporate",
+      "Investors' newfound affinity for companies that benefit most from an accelerating economy is in for a tough test as the latest earnings"
+    ],
+    "keyTakeaways": [
+      "The upcoming US earnings season will test the resilience of war-rattled stocks, with S&P 500 earnings expected to rise a",
+      "Investors will seek evidence in the coming week that the U.S",
+      "Despite war-related concerns, major indexes like the S&P 500 and Nasdaq have seen a swift rebound, with investors now fo"
+    ],
     "source": "Reuters",
     "sourceUrl": "https://www.reuters.com/business/wall-st-week-ahead-us-earnings-season-set-test-war-rattled-stocks-2026-04-10/"
   },
   "readingTime": 3,
-  "updatedAt": "2026-05-30T03:46:48.055Z",
+  "updatedAt": "2026-06-03T04:39:42.623Z",
   "images": {
     "thumbnail": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Wall St Week Ahead US earnings season set to test war-rattled stocks"
-    },
-    "hero": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "Wall St Week Ahead US earnings season set to test war-rattled stocks"
     },
+    "hero": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Wall St Week Ahead US earnings season set to test war-rattled stocks"
+    },
     "mid": {
-      "src": "/images/article_thumb_6.jpg",
+      "src": "/images/article_thumb_5.jpg",
       "alt": "Wall St Week Ahead US earnings season set to test war-rattled stocks"
     }
   },
   "image": {
-    "src": "/images/article_thumb_1.jpg",
+    "src": "/images/article_thumb_4.jpg",
     "alt": "Wall St Week Ahead US earnings season set to test war-rattled stocks"
   }
 }

@@ -3,8 +3,8 @@
   "type": "news",
   "title": "Global Stocks: The Best- and Worst-Performing Sectors in Q1",
   "slug": "global-stocks-the-best-and-worst-performing-sectors-in-q1",
-  "date": "2026-05-30",
-  "displayDate": "May 30, 2026",
+  "date": "2026-06-03",
+  "displayDate": "June 3, 2026",
   "author": "Sigma Capital",
   "category": "Sector Performance",
   "tags": [
@@ -12,28 +12,36 @@
     "financial news",
     "market update"
   ],
-  "metaDescription": "The first quarter of 2026 marked a clear break from the tech-led rally, with a sharp rotation toward value, commodities, and defensive...",
-  "excerpt": "The first quarter of 2026 marked a clear break from the tech-led rally, with a sharp rotation toward value, commodities, and defensive...",
+  "metaDescription": "In Q1, energy was the best-performing sector, while healthcare was the worst-performing sector. The energy sector surged significantly, whereas healthcare decli",
+  "excerpt": "In Q1, energy was the best-performing sector, while healthcare was the worst-performing sector. The energy sector surged significantly, whereas healthcare declined.",
   "content": {
-    "introduction": "The first quarter of 2026 marked a clear break from the tech-led rally, with a sharp rotation toward value, commodities, and defensive...",
-    "body": [],
-    "keyTakeaways": [],
+    "introduction": "In Q1, energy was the best-performing sector, while healthcare was the worst-performing sector. The energy sector surged significantly, whereas healthcare declined.",
+    "body": [
+      "At the top of the performance ranking, energy stands out as the clear winner, with the Morningstar Global Energy Index up 35.08% in euro terms",
+      "On the final day of the first quarter of 2025, Madison Mills and Julie Hyman take a look at the best and worst-performing stocks and sectors",
+      "2026 Year to Date Stock Performance by Sector and Industry ; Healthcare, -7.15 % ; Services, -3.33 % ; Retail, -2.41 % ; Financial, -0.26 % ; Conglomerates, 0.47 %."
+    ],
+    "keyTakeaways": [
+      "In Q1, energy was the best-performing sector, while healthcare was the worst-performing sector. The energy sector surged",
+      "At the top of the performance ranking, energy stands out as the clear winner, with the Morningstar Global Energy Index u",
+      "On the final day of the first quarter of 2025, Madison Mills and Julie Hyman take a look at the best and worst-performin"
+    ],
     "source": "Morningstar",
-    "sourceUrl": "https://global.morningstar.com/en-gb/markets/global-stocks-best-worst-performing-sectors-q1"
+    "sourceUrl": "https://global.morningstar.com/en-nd/markets/global-stocks-best-worst-performing-sectors-q1"
   },
   "readingTime": 3,
-  "updatedAt": "2026-05-30T08:22:58.387Z",
+  "updatedAt": "2026-06-03T04:39:42.623Z",
   "images": {
     "thumbnail": {
-      "src": "/images/article_thumb_1.jpg",
+      "src": "/images/article_thumb_6.jpg",
       "alt": "Global Stocks: The Best- and Worst-Performing Sectors in Q1"
     },
     "hero": {
-      "src": "/images/article_thumb_3.jpg",
+      "src": "/images/article_thumb_5.jpg",
       "alt": "Global Stocks: The Best- and Worst-Performing Sectors in Q1"
     },
     "mid": {
-      "src": "/images/article_thumb_4.jpg",
+      "src": "/images/article_thumb_1.jpg",
       "alt": "Global Stocks: The Best- and Worst-Performing Sectors in Q1"
     }
   },

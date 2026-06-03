@@ -3,8 +3,8 @@
   "type": "news",
   "title": "How Is the Economy Doing Right Now?",
   "slug": "how-is-the-economy-doing-right-now",
-  "date": "2026-06-02",
-  "displayDate": "June 2, 2026",
+  "date": "2026-06-03",
+  "displayDate": "June 3, 2026",
   "author": "Sigma Capital",
   "category": "Economic Indicators",
   "tags": [
@@ -12,32 +12,32 @@
     "financial news",
     "market update"
   ],
-  "metaDescription": "The economy is generally strong with steady growth, but inflation remains above target levels. Unemployment is low, and job growth continues.",
-  "excerpt": "The economy is generally strong with steady growth, but inflation remains above target levels. Unemployment is low, and job growth continues.",
+  "metaDescription": "The economy is generally strong with low unemployment, but inflation remains above target. GDP growth has slowed, and income inequality persists. For detailed a",
+  "excerpt": "The economy is generally strong with low unemployment, but inflation remains above target. GDP growth has slowed, and income inequality persists. For detailed analysis, refer to specific reports.",
   "content": {
-    "introduction": "The economy is generally strong with steady growth, but inflation remains above target levels. Unemployment is low, and job growth continues.",
+    "introduction": "The economy is generally strong with low unemployment, but inflation remains above target. GDP growth has slowed, and income inequality persists. For detailed analysis, refer to specific reports.",
     "body": [
       "The state of the economy is generally strong, although growth has slowed, and inflation remains higher than the Fed's 2% target.",
-      "Inflation outside of gas and air travel are starting to trend upward slowly as unemployment is starting to trend upward. People have more wealth",
-      "However, based on the employment reports for March and April, the economy still appears to be doing well. On the other hand, job growth in April"
+      "unemployment remains low, although it is ticking up. income and wealth inequality are around where they were pre-covid. inflation remains",
+      "GDP grew at 1.6% per year in Q1. Inflation is at 3.0%. The unemployment rate is 4.3%. The S&P 500 is up 25.6% since he took office."
     ],
     "keyTakeaways": [
-      "The economy is generally strong with steady growth, but inflation remains above target levels. Unemployment is low, and ",
+      "The economy is generally strong with low unemployment, but inflation remains above target. GDP growth has slowed, and in",
       "The state of the economy is generally strong, although growth has slowed, and inflation remains higher than the Fed's 2%",
-      "Inflation outside of gas and air travel are starting to trend upward slowly as unemployment is starting to trend upward."
+      "unemployment remains low, although it is ticking up. income and wealth inequality are around where they were pre-covid"
     ],
     "source": "NerdWallet",
     "sourceUrl": "https://www.nerdwallet.com/finance/learn/state-of-the-economy"
   },
   "readingTime": 3,
-  "updatedAt": "2026-06-02T10:14:43.933Z",
+  "updatedAt": "2026-06-03T04:39:42.623Z",
   "images": {
     "thumbnail": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "How Is the Economy Doing Right Now?"
     },
     "hero": {
-      "src": "/images/article_thumb_4.jpg",
+      "src": "/images/article_thumb_3.jpg",
       "alt": "How Is the Economy Doing Right Now?"
     },
     "mid": {
@@ -46,7 +46,7 @@
     }
   },
   "image": {
-    "src": "/images/article_thumb_3.jpg",
+    "src": "/images/article_thumb_5.jpg",
     "alt": "How Is the Economy Doing Right Now?"
   }
 }
