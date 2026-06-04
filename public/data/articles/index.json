@@ -42,6 +42,27 @@
     "readingTime": 3
   },
   {
+    "id": "analysis-assessing-inflation-s-impact",
+    "type": "news",
+    "title": "Analysis: Assessing Inflation’s Impact",
+    "slug": "analysis-assessing-inflation-s-impact",
+    "date": "2026-06-04",
+    "displayDate": "June 4, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Inflation raises living costs, influences interest rates, and affects investment decisions, with energy and housing as major current pressures.",
+    "excerpt": "Inflation raises living costs, influences interest rates, and affects investment decisions, with energy and housing as major current pressures.",
+    "image": {
+      "src": "/images/articles/analysis-assessing-inflation-s-impact-thumb.jpg",
+      "alt": "Analysis: Assessing Inflation’s Impact"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "applied-digital-reports-fiscal-third-quarter-2026-results",
     "type": "news",
     "title": "Applied Digital Reports Fiscal Third Quarter 2026 Results",
@@ -105,6 +126,69 @@
     "readingTime": 3
   },
   {
+    "id": "bears-load-up-bets-against-small-cap-stocks-ahead-of-economic-data-releases",
+    "type": "news",
+    "title": "Bears load up bets against small-cap stocks ahead of economic data releases",
+    "slug": "bears-load-up-bets-against-small-cap-stocks-ahead-of-economic-data-releases",
+    "date": "2026-06-04",
+    "displayDate": "June 4, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Traders are heavily betting against small-cap stocks due to economic data releases and inflation concerns. Bearish options trading is prevalent ahead of key eco",
+    "excerpt": "Traders are heavily betting against small-cap stocks due to economic data releases and inflation concerns. Bearish options trading is prevalent ahead of key economic reports. Small-cap stocks are seen as vulnerable to interest rate changes.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Bears load up bets against small-cap stocks ahead of economic data releases"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "best-performing-sector-during-the-iran-conflict-may-surprise-you-lpl-financial-c",
+    "type": "news",
+    "title": "Best Performing Sector During the Iran Conflict May Surprise You - LPL Financial - Commentaries",
+    "slug": "best-performing-sector-during-the-iran-conflict-may-surprise-you-lpl-financial-c",
+    "date": "2026-06-04",
+    "displayDate": "June 4, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The technology sector outperformed others during the Iran conflict, gaining 5.9%, surprising many as energy typically benefits from such geopolitical tensions. ",
+    "excerpt": "The technology sector outperformed others during the Iran conflict, gaining 5.9%, surprising many as energy typically benefits from such geopolitical tensions. Despite AI disruption fears, tech's resilience was notable. Energy, expected to lead, underperformed compared to tech.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Best Performing Sector During the Iran Conflict May Surprise You - LPL Financial - Commentaries"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "big-tech-earnings-will-set-the-tone-for-markets-this-week",
+    "type": "news",
+    "title": "Big Tech Earnings Will Set The Tone For Markets This Week",
+    "slug": "big-tech-earnings-will-set-the-tone-for-markets-this-week",
+    "date": "2026-06-04",
+    "displayDate": "June 4, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Big Tech earnings this week are expected to significantly influence market trends, with Tesla and Alphabet leading the reports. Analysts anticipate strong perfo",
+    "excerpt": "Big Tech earnings this week are expected to significantly influence market trends, with Tesla and Alphabet leading the reports. Analysts anticipate strong performance driven by AI growth, potentially reviving market momentum. Investors are closely watching these results for future market direction.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Big Tech Earnings Will Set The Tone For Markets This Week"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "bitcoin-and-ethereum-prices-today-june-2-2026-bitcoin-slides-below-66-000",
     "type": "news",
     "title": "Bitcoin and ethereum prices today, June 2, 2026: Bitcoin slides below $66,000",
@@ -147,6 +231,27 @@
     "readingTime": 3
   },
   {
+    "id": "broadcom-plunges-even-as-q2-results-guidance-top-wall-street-s-forecast-avgo-nas",
+    "type": "news",
+    "title": "Broadcom plunges even as Q2 results, guidance top Wall Street's forecast (AVGO:NASDAQ)",
+    "slug": "broadcom-plunges-even-as-q2-results-guidance-top-wall-street-s-forecast-avgo-nas",
+    "date": "2026-06-04",
+    "displayDate": "June 4, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Broadcom's shares fell 14.5% despite beating Q2 estimates and raising guidance, as investors were disappointed by flat AI revenue forecasts and below-consensus ",
+    "excerpt": "Broadcom's shares fell 14.5% despite beating Q2 estimates and raising guidance, as investors were disappointed by flat AI revenue forecasts and below-consensus Q3 guidance. The broader semiconductor sector also declined amid high bond yields.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Broadcom plunges even as Q2 results, guidance top Wall Street's forecast (AVGO:NASDAQ)"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "chs-reports-second-quarter-fiscal-year-2026-earnings",
     "type": "news",
     "title": "CHS reports second quarter fiscal year 2026 earnings",
@@ -164,6 +269,27 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "CHS reports second quarter fiscal year 2026 earnings"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "consumer-price-index-new-york-newark-jersey-city-april-2026",
+    "type": "news",
+    "title": "Consumer Price Index, New York-Newark-Jersey City — April 2026",
+    "slug": "consumer-price-index-new-york-newark-jersey-city-april-2026",
+    "date": "2026-06-04",
+    "displayDate": "June 4, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The New York-Newark-Jersey City area's CPI-U rose 1.0% in April 2026, with a 4.6% increase over the past year, driven by a 24.0% surge in energy prices and a 4.",
+    "excerpt": "The New York-Newark-Jersey City area's CPI-U rose 1.0% in April 2026, with a 4.6% increase over the past year, driven by a 24.0% surge in energy prices and a 4.9% rise in food prices. The index excluding food and energy increased by 3.3% over the same period.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Consumer Price Index, New York-Newark-Jersey City — April 2026"
     },
     "readingTime": 3
   },
@@ -189,6 +315,48 @@
     "readingTime": 3
   },
   {
+    "id": "current-u-s-inflation-rate-is-3-8-chart-and-why-it-matters",
+    "type": "news",
+    "title": "Current U.S. Inflation Rate Is 3.8%: Chart and Why It Matters",
+    "slug": "current-u-s-inflation-rate-is-3-8-chart-and-why-it-matters",
+    "date": "2026-06-04",
+    "displayDate": "June 4, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The U.S. inflation rate is 3.8% as of June 2026, up from 3.3% in March, driven by higher energy and food prices. This rise impacts purchasing power and economic",
+    "excerpt": "The U.S. inflation rate is 3.8% as of June 2026, up from 3.3% in March, driven by higher energy and food prices. This rise impacts purchasing power and economic planning.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Current U.S. Inflation Rate Is 3.8%: Chart and Why It Matters"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "earnings-calendar-analyst-estimates-and-stocks-to-watch",
+    "type": "news",
+    "title": "Earnings Calendar, Analyst Estimates And Stocks To Watch",
+    "slug": "earnings-calendar-analyst-estimates-and-stocks-to-watch",
+    "date": "2026-06-04",
+    "displayDate": "June 4, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The earnings calendar lists upcoming earnings reports, analyst estimates, and stocks to watch. Key stocks include Samsara, DocuSign, and Argan. IBD Digital offe",
+    "excerpt": "The earnings calendar lists upcoming earnings reports, analyst estimates, and stocks to watch. Key stocks include Samsara, DocuSign, and Argan. IBD Digital offers exclusive stock lists and market analysis.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Earnings Calendar, Analyst Estimates And Stocks To Watch"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "earnings-calendar-and-analysis-for-this-week-june-1-5",
     "type": "news",
     "title": "Earnings Calendar and Analysis for This Week (June 1-5)",
@@ -206,6 +374,27 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "Earnings Calendar and Analysis for This Week (June 1-5)"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "european-shares-climb-and-asian-shares-retreat-after-u-s-stocks-pause-their-reco",
+    "type": "news",
+    "title": "European shares climb and Asian shares retreat after U.S. stocks pause their record-breaking rally",
+    "slug": "european-shares-climb-and-asian-shares-retreat-after-u-s-stocks-pause-their-reco",
+    "date": "2026-06-04",
+    "displayDate": "June 4, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "European shares climbed while Asian shares retreated as U.S. stocks paused their record-breaking rally. World shares were mixed following declines on Wall Stree",
+    "excerpt": "European shares climbed while Asian shares retreated as U.S. stocks paused their record-breaking rally. World shares were mixed following declines on Wall Street.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "European shares climb and Asian shares retreat after U.S. stocks pause their record-breaking rally"
     },
     "readingTime": 3
   },
@@ -420,6 +609,27 @@
     "readingTime": 3
   },
   {
+    "id": "march-2026-investment-strategy-best-sectors-market-trends",
+    "type": "news",
+    "title": "March 2026 Investment Strategy: Best Sectors & Market Trends",
+    "slug": "march-2026-investment-strategy-best-sectors-market-trends",
+    "date": "2026-06-04",
+    "displayDate": "June 4, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "For March 2026, focus on equities with equal weight, fixed income with short-term high-quality products, and strategic gold allocation. Industrial, consumer def",
+    "excerpt": "For March 2026, focus on equities with equal weight, fixed income with short-term high-quality products, and strategic gold allocation. Industrial, consumer defensive, and energy sectors are leading market trends.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "March 2026 Investment Strategy: Best Sectors & Market Trends"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "medical-technology-stocks-innovation-endures-as-valuations-reset",
     "type": "news",
     "title": "Medical Technology Stocks: Innovation Endures as Valuations Reset",
@@ -458,6 +668,27 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "Medtronic Stock Is Defying a Market Selloff After Earnings. Here’s Why."
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "meta-slams-australia-over-big-tech-news-content-levy",
+    "type": "news",
+    "title": "Meta slams Australia over Big Tech news content levy",
+    "slug": "meta-slams-australia-over-big-tech-news-content-levy",
+    "date": "2026-06-04",
+    "displayDate": "June 4, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Meta strongly opposes Australia's proposed 2.25% levy on its revenue for sharing news content, calling it unfair and poorly designed. The levy aims to force tec",
+    "excerpt": "Meta strongly opposes Australia's proposed 2.25% levy on its revenue for sharing news content, calling it unfair and poorly designed. The levy aims to force tech giants to negotiate with local news publishers. Meta argues the law will harm the news industry.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Meta slams Australia over Big Tech news content levy"
     },
     "readingTime": 3
   },
@@ -504,6 +735,27 @@
     "readingTime": 3
   },
   {
+    "id": "powell-issues-warning-for-trump-stress-test-see-odds-for-next-fed-rate-hike",
+    "type": "news",
+    "title": "Powell Issues Warning for Trump ‘Stress Test’: See Odds for Next Fed Rate Hike",
+    "slug": "powell-issues-warning-for-trump-stress-test-see-odds-for-next-fed-rate-hike",
+    "date": "2026-06-04",
+    "displayDate": "June 4, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Jerome Powell warned that the Fed's credibility is at risk. The FOMC meeting in June will determine the next Fed rate hike. Powell emphasized the importance of ",
+    "excerpt": "Jerome Powell warned that the Fed's credibility is at risk. The FOMC meeting in June will determine the next Fed rate hike. Powell emphasized the importance of the Fed's political independence.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Powell Issues Warning for Trump ‘Stress Test’: See Odds for Next Fed Rate Hike"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "q1-2026-earnings-call-remarks-from-our-ceo",
     "type": "news",
     "title": "Q1 2026 earnings call: Remarks from our CEO",
@@ -546,6 +798,27 @@
     "readingTime": 3
   },
   {
+    "id": "russia-s-big-tech-firms-ramp-up-borrowing-as-debt-surges-to-27bln",
+    "type": "news",
+    "title": "Russia's Big Tech Firms Ramp Up Borrowing as Debt Surges to $27Bln",
+    "slug": "russia-s-big-tech-firms-ramp-up-borrowing-as-debt-surges-to-27bln",
+    "date": "2026-06-04",
+    "displayDate": "June 4, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Russia's major tech firms increased borrowing, with debt rising to $27 billion in 2025. The Central Bank warned of growing leverage. The sector's financial heal",
+    "excerpt": "Russia's major tech firms increased borrowing, with debt rising to $27 billion in 2025. The Central Bank warned of growing leverage. The sector's financial health is under scrutiny.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Russia's Big Tech Firms Ramp Up Borrowing as Debt Surges to $27Bln"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "second-quarter-2026-survey-of-professional-forecasters",
     "type": "news",
     "title": "Second Quarter 2026 Survey of Professional Forecasters",
@@ -567,6 +840,27 @@
     "readingTime": 6
   },
   {
+    "id": "sector-industry-performance",
+    "type": "news",
+    "title": "Sector & Industry Performance",
+    "slug": "sector-industry-performance",
+    "date": "2026-06-04",
+    "displayDate": "June 4, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The technology services sector is currently experiencing a 0.47% increase. The finance sector has a market capitalization of $14.86 trillion. Fidelity Investmen",
+    "excerpt": "The technology services sector is currently experiencing a 0.47% increase. The finance sector has a market capitalization of $14.86 trillion. Fidelity Investments provides sector research and performance data.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Sector & Industry Performance"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "stock-market-today-s-p-500-futures-fall-dow-gains-as-house-challenges-trump-s-mi",
     "type": "news",
     "title": "Stock Market Today: S&P 500 Futures Fall, Dow Gains As House Challenges Trump's Military Authority—Broadc",
@@ -584,6 +878,48 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "Stock Market Today: S&P 500 Futures Fall, Dow Gains As House Challenges Trump's Military Authority—Broadc"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "stocks-under-the-trump-administration-what-is-driving-markets-in-2026",
+    "type": "news",
+    "title": "Stocks Under the Trump Administration: What is Driving Markets in 2026?",
+    "slug": "stocks-under-the-trump-administration-what-is-driving-markets-in-2026",
+    "date": "2026-06-04",
+    "displayDate": "June 4, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Under the Trump administration, the stock market saw significant growth driven by corporate earnings, tax cuts, and favorable Federal Reserve policies. Key tech",
+    "excerpt": "Under the Trump administration, the stock market saw significant growth driven by corporate earnings, tax cuts, and favorable Federal Reserve policies. Key tech stocks were actively traded by President Trump himself. The market's resilience was attributed to strong economic fundamentals despite exte",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Stocks Under the Trump Administration: What is Driving Markets in 2026?"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "tech-got-spanked-in-this-week-s-primaries-it-could-be-a-preview-of-more-to-come",
+    "type": "news",
+    "title": "Tech ‘got spanked’ in this week’s primaries. It could be a preview of more to come.",
+    "slug": "tech-got-spanked-in-this-week-s-primaries-it-could-be-a-preview-of-more-to-come",
+    "date": "2026-06-04",
+    "displayDate": "June 4, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Tech suffered electoral setbacks in this week's primaries, signaling potential future losses in New York and Florida. Industry opponents are gaining momentum. T",
+    "excerpt": "Tech suffered electoral setbacks in this week's primaries, signaling potential future losses in New York and Florida. Industry opponents are gaining momentum. This could foreshadow broader challenges for tech in upcoming elections.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Tech ‘got spanked’ in this week’s primaries. It could be a preview of more to come."
     },
     "readingTime": 3
   },
@@ -626,6 +962,27 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "The Best REITs to Buy"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "the-fed-april-28-29-2026-fomc-meeting",
+    "type": "news",
+    "title": "The Fed - April 28-29, 2026 FOMC Meeting",
+    "slug": "the-fed-april-28-29-2026-fomc-meeting",
+    "date": "2026-06-04",
+    "displayDate": "June 4, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Fed held the fed funds rate steady and made minor changes to its policy statement during the April 28-29, 2026 FOMC meeting. The economic outlook remained u",
+    "excerpt": "The Fed held the fed funds rate steady and made minor changes to its policy statement during the April 28-29, 2026 FOMC meeting. The economic outlook remained unchanged, and energy prices stayed elevated. The meeting minutes were released on April 29, 2026.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "The Fed - April 28-29, 2026 FOMC Meeting"
     },
     "readingTime": 3
   },
@@ -819,6 +1176,27 @@
     "readingTime": 3
   },
   {
+    "id": "week-ahead-for-fx-bonds-u-s-pce-data-middle-east-developments-in-focus",
+    "type": "news",
+    "title": "Week Ahead for FX, Bonds: U.S. PCE Data, Middle East Developments in Focus",
+    "slug": "week-ahead-for-fx-bonds-u-s-pce-data-middle-east-developments-in-focus",
+    "date": "2026-06-04",
+    "displayDate": "June 4, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "This week, focus is on U.S. PCE data and Middle East developments. Investors are watching for potential rate hikes amid inflation concerns. Middle East conflict",
+    "excerpt": "This week, focus is on U.S. PCE data and Middle East developments. Investors are watching for potential rate hikes amid inflation concerns. Middle East conflict talks remain a key point of interest.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Week Ahead for FX, Bonds: U.S. PCE Data, Middle East Developments in Focus"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "weekly-market-commentary",
     "type": "news",
     "title": "Weekly market commentary",
@@ -840,6 +1218,48 @@
     "readingTime": 3
   },
   {
+    "id": "weekly-market-update-tech-stocks-lead-market-lower-basic-materials-gain",
+    "type": "news",
+    "title": "Weekly Market Update: Tech Stocks Lead Market Lower, Basic Materials Gain",
+    "slug": "weekly-market-update-tech-stocks-lead-market-lower-basic-materials-gain",
+    "date": "2026-06-04",
+    "displayDate": "June 4, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Tech stocks led declines in the market, while basic materials gained. The S&P 500 dropped 1% on Friday. The Nasdaq fell 1.6% for the week.",
+    "excerpt": "Tech stocks led declines in the market, while basic materials gained. The S&P 500 dropped 1% on Friday. The Nasdaq fell 1.6% for the week.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Weekly Market Update: Tech Stocks Lead Market Lower, Basic Materials Gain"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "what-to-consider-when-you-re-considering-alternative-investments",
+    "type": "news",
+    "title": "What to Consider When You’re Considering Alternative Investments",
+    "slug": "what-to-consider-when-you-re-considering-alternative-investments",
+    "date": "2026-06-04",
+    "displayDate": "June 4, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "When considering alternative investments, prioritize liquidity needs, due diligence, and manager selection to enhance portfolio diversification and outperforman",
+    "excerpt": "When considering alternative investments, prioritize liquidity needs, due diligence, and manager selection to enhance portfolio diversification and outperformance. Be aware of the unique risks and illiquidity of alternative assets like private equity, hedge funds, and real estate.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "What to Consider When You’re Considering Alternative Investments"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "what-to-look-out-for-in-economic-data-this-week-june-1-5",
     "type": "news",
     "title": "What to Look Out for in Economic Data This Week (June 1-5)",
@@ -857,6 +1277,48 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "What to Look Out for in Economic Data This Week (June 1-5)"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "what-warren-buffett-s-recent-stock-moves-reveal-about-market-trends-ahead",
+    "type": "news",
+    "title": "What Warren Buffett’s Recent Stock Moves Reveal About Market Trends Ahead",
+    "slug": "what-warren-buffett-s-recent-stock-moves-reveal-about-market-trends-ahead",
+    "date": "2026-06-04",
+    "displayDate": "June 4, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Warren Buffett is reducing exposure to overvalued tech stocks and increasing investments in companies with long-term potential despite short-term challenges, si",
+    "excerpt": "Warren Buffett is reducing exposure to overvalued tech stocks and increasing investments in companies with long-term potential despite short-term challenges, signaling a cautious outlook on current market trends. His latest moves suggest he's waiting for better valuations. This shift indicates a pot",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "What Warren Buffett’s Recent Stock Moves Reveal About Market Trends Ahead"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "when-is-the-fed-s-next-meeting-see-the-full-schedule-for-2026",
+    "type": "news",
+    "title": "When is the Fed's next meeting? See the full schedule for 2026.",
+    "slug": "when-is-the-fed-s-next-meeting-see-the-full-schedule-for-2026",
+    "date": "2026-06-04",
+    "displayDate": "June 4, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Fed's next meeting is on April 28–29, 2026. This is the first scheduled meeting of the year for the Federal Open Market Committee. The FOMC will evaluate ec",
+    "excerpt": "The Fed's next meeting is on April 28–29, 2026. This is the first scheduled meeting of the year for the Federal Open Market Committee. The FOMC will evaluate economic conditions and decide on monetary policy.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "When is the Fed's next meeting? See the full schedule for 2026."
     },
     "readingTime": 3
   },
@@ -966,48 +1428,6 @@
     "readingTime": 3
   },
   {
-    "id": "analysis-assessing-inflation-s-impact",
-    "type": "news",
-    "title": "Analysis: Assessing Inflation’s Impact",
-    "slug": "analysis-assessing-inflation-s-impact",
-    "date": "2026-06-03",
-    "displayDate": "June 3, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Inflation raises living costs, influences interest rates, and affects investment decisions, impacting market volatility and consumer purchasing power. Persisten",
-    "excerpt": "Inflation raises living costs, influences interest rates, and affects investment decisions, impacting market volatility and consumer purchasing power. Persistent inflation can erode savings and wages, while central banks adjust policies to manage it. As of 2026, inflation remains a significant econo",
-    "image": {
-      "src": "/images/articles/analysis-assessing-inflation-s-impact-thumb.jpg",
-      "alt": "Analysis: Assessing Inflation’s Impact"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "bears-load-up-bets-against-small-cap-stocks-ahead-of-economic-data-releases",
-    "type": "news",
-    "title": "Bears load up bets against small-cap stocks ahead of economic data releases",
-    "slug": "bears-load-up-bets-against-small-cap-stocks-ahead-of-economic-data-releases",
-    "date": "2026-06-03",
-    "displayDate": "June 3, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Despite a 40% rally in small-cap stocks this year, options traders are notably bearish on the Russell 2000, with put trading activity exceeding 70% of options p",
-    "excerpt": "Despite a 40% rally in small-cap stocks this year, options traders are notably bearish on the Russell 2000, with put trading activity exceeding 70% of options premium. This bearishness may reflect concerns about small-cap stocks' sensitivity to interest rate changes. Traders are heavily betting on a",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Bears load up bets against small-cap stocks ahead of economic data releases"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "big-tech-earnings-test-record-stock-market-rally-as-ai-spending-takes-center-sta",
     "type": "news",
     "title": "Big Tech earnings test record stock market rally as AI spending takes center stage",
@@ -1025,27 +1445,6 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "Big Tech earnings test record stock market rally as AI spending takes center stage"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "big-tech-earnings-will-set-the-tone-for-markets-this-week",
-    "type": "news",
-    "title": "Big Tech Earnings Will Set The Tone For Markets This Week",
-    "slug": "big-tech-earnings-will-set-the-tone-for-markets-this-week",
-    "date": "2026-06-03",
-    "displayDate": "June 3, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Big Tech earnings this week are expected to drive market momentum, with strong results likely to set a positive tone for the rest of the earnings season. Analys",
-    "excerpt": "Big Tech earnings this week are expected to drive market momentum, with strong results likely to set a positive tone for the rest of the earnings season. Analysts predict significant growth, potentially surpassing expectations and boosting global indices. The performance of key tech companies will b",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Big Tech Earnings Will Set The Tone For Markets This Week"
     },
     "readingTime": 3
   },
@@ -1113,27 +1512,6 @@
     "readingTime": 3
   },
   {
-    "id": "consumer-price-index-new-york-newark-jersey-city-april-2026",
-    "type": "news",
-    "title": "Consumer Price Index, New York-Newark-Jersey City — April 2026",
-    "slug": "consumer-price-index-new-york-newark-jersey-city-april-2026",
-    "date": "2026-06-03",
-    "displayDate": "June 3, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Consumer Price Index for New York-Newark-Jersey City rose 1.0% in April 2026, with a 4.6% increase over the past year, driven by a 24.0% surge in energy cos",
-    "excerpt": "The Consumer Price Index for New York-Newark-Jersey City rose 1.0% in April 2026, with a 4.6% increase over the past year, driven by a 24.0% surge in energy costs. The index for all items less food and energy rose 3.3% over the same period.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Consumer Price Index, New York-Newark-Jersey City — April 2026"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "crypto-news-today-zcash-surges-13-as-bitcoin-ethereum-and-xrp-prices-crash",
     "type": "news",
     "title": "Crypto News Today: Zcash Surges 13% as Bitcoin, Ethereum and XRP Prices Crash",
@@ -1151,48 +1529,6 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "Crypto News Today: Zcash Surges 13% as Bitcoin, Ethereum and XRP Prices Crash"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "current-u-s-inflation-rate-is-3-8-chart-and-why-it-matters",
-    "type": "news",
-    "title": "Current U.S. Inflation Rate Is 3.8%: Chart and Why It Matters",
-    "slug": "current-u-s-inflation-rate-is-3-8-chart-and-why-it-matters",
-    "date": "2026-06-03",
-    "displayDate": "June 3, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The U.S. inflation rate is currently 3.8%, up from 0.6% month-over-month and 3.8% year-over-year. This rise affects purchasing power and economic planning.",
-    "excerpt": "The U.S. inflation rate is currently 3.8%, up from 0.6% month-over-month and 3.8% year-over-year. This rise affects purchasing power and economic planning.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Current U.S. Inflation Rate Is 3.8%: Chart and Why It Matters"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "earnings-calendar-analyst-estimates-and-stocks-to-watch",
-    "type": "news",
-    "title": "Earnings Calendar, Analyst Estimates And Stocks To Watch",
-    "slug": "earnings-calendar-analyst-estimates-and-stocks-to-watch",
-    "date": "2026-06-03",
-    "displayDate": "June 3, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The earnings calendar lists upcoming earnings reports, analyst estimates, and stocks to watch. Key stocks often include those with strong earnings growth. Alway",
-    "excerpt": "The earnings calendar lists upcoming earnings reports, analyst estimates, and stocks to watch. Key stocks often include those with strong earnings growth. Always check for the latest updates to prepare for market volatility.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Earnings Calendar, Analyst Estimates And Stocks To Watch"
     },
     "readingTime": 3
   },
@@ -1407,27 +1743,6 @@
     "readingTime": 3
   },
   {
-    "id": "march-2026-investment-strategy-best-sectors-market-trends",
-    "type": "news",
-    "title": "March 2026 Investment Strategy: Best Sectors & Market Trends",
-    "slug": "march-2026-investment-strategy-best-sectors-market-trends",
-    "date": "2026-06-03",
-    "displayDate": "June 3, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Equities should maintain equal weight, focus on industrial, consumer defensive, and energy sectors; fixed income favors short-term high-quality carry; gold rema",
-    "excerpt": "Equities should maintain equal weight, focus on industrial, consumer defensive, and energy sectors; fixed income favors short-term high-quality carry; gold remains strategically allocated.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "March 2026 Investment Strategy: Best Sectors & Market Trends"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "msft-stock-quote-price-and-forecast",
     "type": "news",
     "title": "MSFT Stock Quote Price and Forecast",
@@ -1512,27 +1827,6 @@
     "readingTime": 3
   },
   {
-    "id": "sector-industry-performance",
-    "type": "news",
-    "title": "Sector & Industry Performance",
-    "slug": "sector-industry-performance",
-    "date": "2026-06-03",
-    "displayDate": "June 3, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The technology sector is currently leading in performance, followed by finance and utilities. Industrial services and transportation sectors are also performing",
-    "excerpt": "The technology sector is currently leading in performance, followed by finance and utilities. Industrial services and transportation sectors are also performing well. For detailed sector performance, visit Bloomberg Markets or Barchart.com.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Sector & Industry Performance"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "stock-market-today-s-p-500-futures-fall-nasdaq-gains-as-middle-east-tensions-int",
     "type": "news",
     "title": "Stock Market Today: S&P 500 Futures Fall, Nasdaq Gains As Middle East Tensions Intensify—Palo Alto, Marve",
@@ -1571,27 +1865,6 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "Stocks rise to records, dollar edges up as investors await economic news"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "stocks-under-the-trump-administration-what-is-driving-markets-in-2026",
-    "type": "news",
-    "title": "Stocks Under the Trump Administration: What is Driving Markets in 2026?",
-    "slug": "stocks-under-the-trump-administration-what-is-driving-markets-in-2026",
-    "date": "2026-06-03",
-    "displayDate": "June 3, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The stock market under Trump's administration saw significant growth, driven by corporate earnings and tax cuts, despite geopolitical risks. The S&P 500 climbed",
-    "excerpt": "The stock market under Trump's administration saw significant growth, driven by corporate earnings and tax cuts, despite geopolitical risks. The S&P 500 climbed over 25% since the 2024 election, with quick recoveries from pullbacks. Trump's numerous trades have sparked debate about potential insider",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Stocks Under the Trump Administration: What is Driving Markets in 2026?"
     },
     "readingTime": 3
   },
@@ -1802,69 +2075,6 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "Weekly Market Update: Stocks Remain Flat as Consumer Defensives Rise and Financial Services Fall"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "weekly-market-update-tech-stocks-lead-market-lower-basic-materials-gain",
-    "type": "news",
-    "title": "Weekly Market Update: Tech Stocks Lead Market Lower, Basic Materials Gain",
-    "slug": "weekly-market-update-tech-stocks-lead-market-lower-basic-materials-gain",
-    "date": "2026-06-03",
-    "displayDate": "June 3, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Tech stocks led declines, while basic materials gained in the latest market update. The Morningstar US Market Index fell, and growth stocks dropped significantl",
-    "excerpt": "Tech stocks led declines, while basic materials gained in the latest market update. The Morningstar US Market Index fell, and growth stocks dropped significantly. Basic materials rose notably as investors shifted focus.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Weekly Market Update: Tech Stocks Lead Market Lower, Basic Materials Gain"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "what-to-consider-when-you-re-considering-alternative-investments",
-    "type": "news",
-    "title": "What to Consider When You’re Considering Alternative Investments",
-    "slug": "what-to-consider-when-you-re-considering-alternative-investments",
-    "date": "2026-06-03",
-    "displayDate": "June 3, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "When considering alternative investments, focus on manager selection, understand the differences between evergreen and drawdown vehicles, and assess how they di",
-    "excerpt": "When considering alternative investments, focus on manager selection, understand the differences between evergreen and drawdown vehicles, and assess how they diversify your portfolio risk.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "What to Consider When You’re Considering Alternative Investments"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "when-is-the-fed-s-next-meeting-see-the-full-schedule-for-2026",
-    "type": "news",
-    "title": "When is the Fed's next meeting? See the full schedule for 2026.",
-    "slug": "when-is-the-fed-s-next-meeting-see-the-full-schedule-for-2026",
-    "date": "2026-06-03",
-    "displayDate": "June 3, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Fed's next meeting is April 28–29, 2026. The interest rate decision will be announced on April 29, 2026.",
-    "excerpt": "The Fed's next meeting is April 28–29, 2026. The interest rate decision will be announced on April 29, 2026.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "When is the Fed's next meeting? See the full schedule for 2026."
     },
     "readingTime": 3
   },
@@ -3104,27 +3314,6 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "The 11 stock market sectors: What they are and why they matter"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "the-fed-april-28-29-2026-fomc-meeting",
-    "type": "news",
-    "title": "The Fed - April 28-29, 2026 FOMC Meeting",
-    "slug": "the-fed-april-28-29-2026-fomc-meeting",
-    "date": "2026-05-31",
-    "displayDate": "May 31, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Reserve Board of Governors in Washington DC.",
-    "excerpt": "The Federal Reserve Board of Governors in Washington DC.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "The Fed - April 28-29, 2026 FOMC Meeting"
     },
     "readingTime": 3
   },
@@ -4662,27 +4851,6 @@
     "readingTime": 3
   },
   {
-    "id": "week-ahead-for-fx-bonds-u-s-pce-data-middle-east-developments-in-focus",
-    "type": "news",
-    "title": "Week Ahead for FX, Bonds: U.S. PCE Data, Middle East Developments in Focus",
-    "slug": "week-ahead-for-fx-bonds-u-s-pce-data-middle-east-developments-in-focus",
-    "date": "2026-05-27",
-    "displayDate": "May 27, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "U.S. PCE inflation figures will likely mark the highlight among economic data due in the coming week as investors increasingly anticipate...",
-    "excerpt": "U.S. PCE inflation figures will likely mark the highlight among economic data due in the coming week as investors increasingly anticipate...",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Week Ahead for FX, Bonds: U.S. PCE Data, Middle East Developments in Focus"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "what-to-expect-in-markets-this-week-a-slew-of-retailers-report-earnings-along-wi",
     "type": "news",
     "title": "What to Expect in Markets this Week: A Slew of Retailers Report Earnings—Along with Dell and Other AI Players",
@@ -5414,27 +5582,6 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "Top 3 Price Prediction: Bitcoin, Ethereum, Ripple – BTC leads mild recovery, ETH stalls, XRP remains under pressure"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "what-warren-buffett-s-recent-stock-moves-reveal-about-market-trends-ahead",
-    "type": "news",
-    "title": "What Warren Buffett’s Recent Stock Moves Reveal About Market Trends Ahead",
-    "slug": "what-warren-buffett-s-recent-stock-moves-reveal-about-market-trends-ahead",
-    "date": "2026-05-25",
-    "displayDate": "May 25, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Warren Buffett's recent moves show that he sees stocks as overvalued and is waiting for better prices. Buffett has been quietly rotating...",
-    "excerpt": "Warren Buffett's recent moves show that he sees stocks as overvalued and is waiting for better prices. Buffett has been quietly rotating...",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "What Warren Buffett’s Recent Stock Moves Reveal About Market Trends Ahead"
     },
     "readingTime": 3
   },
@@ -9971,27 +10118,6 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "Asian stocks show mixed trend, European indices trading in red"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "best-performing-sector-during-the-iran-conflict-may-surprise-you-lpl-financial-c",
-    "type": "news",
-    "title": "Best Performing Sector During the Iran Conflict May Surprise You - LPL Financial - Commentaries",
-    "slug": "best-performing-sector-during-the-iran-conflict-may-surprise-you-lpl-financial-c",
-    "date": "2026-05-13",
-    "displayDate": "May 13, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "In what should be a surprise to no one, energy has been one of the better performing sectors since the joint U.S.-Israel airstrikes on...",
-    "excerpt": "In what should be a surprise to no one, energy has been one of the better performing sectors since the joint U.S.-Israel airstrikes on...",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Best Performing Sector During the Iran Conflict May Surprise You - LPL Financial - Commentaries"
     },
     "readingTime": 3
   },

@@ -3,8 +3,8 @@
   "type": "news",
   "title": "Week Ahead for FX, Bonds: U.S. PCE Data, Middle East Developments in Focus",
   "slug": "week-ahead-for-fx-bonds-u-s-pce-data-middle-east-developments-in-focus",
-  "date": "2026-05-27",
-  "displayDate": "May 27, 2026",
+  "date": "2026-06-04",
+  "displayDate": "June 4, 2026",
   "author": "Sigma Capital",
   "category": "Economic Indicators",
   "tags": [
@@ -12,24 +12,32 @@
     "financial news",
     "market update"
   ],
-  "metaDescription": "U.S. PCE inflation figures will likely mark the highlight among economic data due in the coming week as investors increasingly anticipate...",
-  "excerpt": "U.S. PCE inflation figures will likely mark the highlight among economic data due in the coming week as investors increasingly anticipate...",
+  "metaDescription": "This week, focus is on U.S. PCE data and Middle East developments. Investors are watching for potential rate hikes amid inflation concerns. Middle East conflict",
+  "excerpt": "This week, focus is on U.S. PCE data and Middle East developments. Investors are watching for potential rate hikes amid inflation concerns. Middle East conflict talks remain a key point of interest.",
   "content": {
-    "introduction": "U.S. PCE inflation figures will likely mark the highlight among economic data due in the coming week as investors increasingly anticipate...",
-    "body": [],
-    "keyTakeaways": [],
+    "introduction": "This week, focus is on U.S. PCE data and Middle East developments. Investors are watching for potential rate hikes amid inflation concerns. Middle East conflict talks remain a key point of interest.",
+    "body": [
+      "Focus will also remain on events in the Middle East and whether there is any progress in talks between the U.S. and Iran on ending the conflict",
+      "US PCE Data in Focus Amid Elevated Inflation Concerns. This allowed investors to maintain bets of a 25bps rate hike in the foreseeable future. A",
+      "Week ahead for FX, bonds: US retail sales, PMI data due as focus remains on Middle East · U.S. · Canada · Eurozone · U.K. · Scandinavia · Turkey · Japan · New Zealand."
+    ],
+    "keyTakeaways": [
+      "This week, focus is on U.S",
+      "Focus will also remain on events in the Middle East and whether there is any progress in talks between the U.S",
+      "US PCE Data in Focus Amid Elevated Inflation Concerns. This allowed investors to maintain bets of a 25bps rate hike in t"
+    ],
     "source": "WSJ",
     "sourceUrl": "https://www.wsj.com/economy/week-ahead-for-fx-bonds-u-s-pce-data-middle-east-developments-in-focus-54f5cd63"
   },
   "readingTime": 3,
-  "updatedAt": "2026-05-27T15:53:57.858Z",
+  "updatedAt": "2026-06-04T15:22:58.903Z",
   "images": {
     "thumbnail": {
-      "src": "/images/article_thumb_6.jpg",
+      "src": "/images/article_thumb_5.jpg",
       "alt": "Week Ahead for FX, Bonds: U.S. PCE Data, Middle East Developments in Focus"
     },
     "hero": {
-      "src": "/images/article_thumb_1.jpg",
+      "src": "/images/article_thumb_3.jpg",
       "alt": "Week Ahead for FX, Bonds: U.S. PCE Data, Middle East Developments in Focus"
     },
     "mid": {
@@ -38,7 +46,7 @@
     }
   },
   "image": {
-    "src": "/images/article_thumb_2.jpg",
+    "src": "/images/article_thumb_1.jpg",
     "alt": "Week Ahead for FX, Bonds: U.S. PCE Data, Middle East Developments in Focus"
   }
 }
