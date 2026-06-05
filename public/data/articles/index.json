@@ -1,5 +1,635 @@
 [
   {
+    "id": "3-ways-to-simplify-your-investment-portfolio-in-2026",
+    "type": "news",
+    "title": "3 Ways to Simplify Your Investment Portfolio in 2026",
+    "slug": "3-ways-to-simplify-your-investment-portfolio-in-2026",
+    "date": "2026-06-05",
+    "displayDate": "June 5, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "To simplify your investment portfolio in 2026, switch to index funds, favor broad all-market stock funds, and consider diversifying with cost-effective ETFs.",
+    "excerpt": "To simplify your investment portfolio in 2026, switch to index funds, favor broad all-market stock funds, and consider diversifying with cost-effective ETFs.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "3 Ways to Simplify Your Investment Portfolio in 2026"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "6-stocks-driving-the-2026-stock-market-rotation",
+    "type": "news",
+    "title": "6 Stocks Driving the 2026 Stock Market Rotation",
+    "slug": "6-stocks-driving-the-2026-stock-market-rotation",
+    "date": "2026-06-05",
+    "displayDate": "June 5, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "In 2026, industrial, consumer defensive, and energy stocks are leading the market rotation, outperforming other sectors. Caterpillar, GE Vernova, Walmart, Costc",
+    "excerpt": "In 2026, industrial, consumer defensive, and energy stocks are leading the market rotation, outperforming other sectors. Caterpillar, GE Vernova, Walmart, Costco, and energy stocks are key drivers. The industrial sector has contributed significantly to market gains.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "6 Stocks Driving the 2026 Stock Market Rotation"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "allspring-asset-allocation-fund-q1-2026-commentary",
+    "type": "news",
+    "title": "Allspring Asset Allocation Fund Q1 2026 Commentary",
+    "slug": "allspring-asset-allocation-fund-q1-2026-commentary",
+    "date": "2026-06-05",
+    "displayDate": "June 5, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Allspring Asset Allocation Fund underperformed its benchmark in Q1 2026, with a tactical approach focusing on diversified asset classes. The fund's strategy",
+    "excerpt": "The Allspring Asset Allocation Fund underperformed its benchmark in Q1 2026, with a tactical approach focusing on diversified asset classes. The fund's strategy combines quantitative models and qualitative judgments for portfolio management.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Allspring Asset Allocation Fund Q1 2026 Commentary"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "analysis-assessing-inflation-s-impact",
+    "type": "news",
+    "title": "Analysis: Assessing Inflation’s Impact",
+    "slug": "analysis-assessing-inflation-s-impact",
+    "date": "2026-06-05",
+    "displayDate": "June 5, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Inflation raises living costs, influences interest rates, and affects investment decisions; historically, it erodes purchasing power and can lead to market vola",
+    "excerpt": "Inflation raises living costs, influences interest rates, and affects investment decisions; historically, it erodes purchasing power and can lead to market volatility.",
+    "image": {
+      "src": "/images/articles/analysis-assessing-inflation-s-impact-thumb.jpg",
+      "alt": "Analysis: Assessing Inflation’s Impact"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "applied-digital-reports-fiscal-third-quarter-2026-results",
+    "type": "news",
+    "title": "Applied Digital Reports Fiscal Third Quarter 2026 Results",
+    "slug": "applied-digital-reports-fiscal-third-quarter-2026-results",
+    "date": "2026-06-05",
+    "displayDate": "June 5, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Applied Digital reported Q3 2026 earnings on April 8, 2026, with EPS of $0.09, surpassing analysts' expectations of -$0.17. Revenue increased to $126.6 million,",
+    "excerpt": "Applied Digital reported Q3 2026 earnings on April 8, 2026, with EPS of $0.09, surpassing analysts' expectations of -$0.17. Revenue increased to $126.6 million, up 139% year-over-year.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Applied Digital Reports Fiscal Third Quarter 2026 Results"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "bears-load-up-bets-against-small-cap-stocks-ahead-of-economic-data-releases",
+    "type": "news",
+    "title": "Bears load up bets against small-cap stocks ahead of economic data releases",
+    "slug": "bears-load-up-bets-against-small-cap-stocks-ahead-of-economic-data-releases",
+    "date": "2026-06-05",
+    "displayDate": "June 5, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Traders are heavily betting against small-cap stocks due to economic data releases and inflation concerns. This bearish trend is particularly strong in the Russ",
+    "excerpt": "Traders are heavily betting against small-cap stocks due to economic data releases and inflation concerns. This bearish trend is particularly strong in the Russell 2000 index. Bearish options trading has surged ahead of key economic reports.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Bears load up bets against small-cap stocks ahead of economic data releases"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "bitcoin-ethereum-extend-slide-as-crypto-market-sentiment-weakens",
+    "type": "news",
+    "title": "Bitcoin, Ethereum Extend Slide As Crypto Market Sentiment Weakens",
+    "slug": "bitcoin-ethereum-extend-slide-as-crypto-market-sentiment-weakens",
+    "date": "2026-06-05",
+    "displayDate": "June 5, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin and Ethereum prices continued to decline as market sentiment weakened, with Bitcoin hitting a two-month low and Ethereum falling below $2,750. The sell-",
+    "excerpt": "Bitcoin and Ethereum prices continued to decline as market sentiment weakened, with Bitcoin hitting a two-month low and Ethereum falling below $2,750. The sell-off was driven by risk-off sentiment amid geopolitical tensions.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Bitcoin, Ethereum Extend Slide As Crypto Market Sentiment Weakens"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "broadcom-plunges-even-as-q2-results-guidance-top-wall-street-s-forecast-avgo-nas",
+    "type": "news",
+    "title": "Broadcom plunges even as Q2 results, guidance top Wall Street's forecast (AVGO:NASDAQ)",
+    "slug": "broadcom-plunges-even-as-q2-results-guidance-top-wall-street-s-forecast-avgo-nas",
+    "date": "2026-06-05",
+    "displayDate": "June 5, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Broadcom's shares dropped 14.5% despite beating Q2 earnings and guidance, as investors were disappointed by flat AI revenue forecasts and lower-than-expected Q3",
+    "excerpt": "Broadcom's shares dropped 14.5% despite beating Q2 earnings and guidance, as investors were disappointed by flat AI revenue forecasts and lower-than-expected Q3 guidance. The sell-off impacted other AI chip stocks.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Broadcom plunges even as Q2 results, guidance top Wall Street's forecast (AVGO:NASDAQ)"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "chs-reports-second-quarter-fiscal-year-2026-earnings",
+    "type": "news",
+    "title": "CHS reports second quarter fiscal year 2026 earnings",
+    "slug": "chs-reports-second-quarter-fiscal-year-2026-earnings",
+    "date": "2026-06-05",
+    "displayDate": "June 5, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "CHS reported a net loss of $147.1 million and revenues of $8.4 billion for the second quarter of fiscal year 2026, compared to a net loss of $75.8 million and r",
+    "excerpt": "CHS reported a net loss of $147.1 million and revenues of $8.4 billion for the second quarter of fiscal year 2026, compared to a net loss of $75.8 million and revenues of $7.8 billion in the same period last year. The energy segment also posted a pretax loss of $133.6 million.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "CHS reports second quarter fiscal year 2026 earnings"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "consumer-price-index-new-york-newark-jersey-city-april-2026",
+    "type": "news",
+    "title": "Consumer Price Index, New York-Newark-Jersey City — April 2026",
+    "slug": "consumer-price-index-new-york-newark-jersey-city-april-2026",
+    "date": "2026-06-05",
+    "displayDate": "June 5, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Consumer Price Index for New York-Newark-Jersey City rose 1.0% in April 2026, with a 4.6% increase over the past 12 months. The energy index surged 24.0% an",
+    "excerpt": "The Consumer Price Index for New York-Newark-Jersey City rose 1.0% in April 2026, with a 4.6% increase over the past 12 months. The energy index surged 24.0% and the food index rose 4.9% over the same period. The index for all items less food and energy increased 3.3%.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Consumer Price Index, New York-Newark-Jersey City — April 2026"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "crypto-crash-today-why-bitcoin-ethereum-xrp-and-solana-are-all-down-double-digit",
+    "type": "news",
+    "title": "Crypto Crash Today: Why Bitcoin, Ethereum, XRP, and Solana Are All Down Double Digits",
+    "slug": "crypto-crash-today-why-bitcoin-ethereum-xrp-and-solana-are-all-down-double-digit",
+    "date": "2026-06-05",
+    "displayDate": "June 5, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin, Ethereum, XRP, and Solana all experienced significant declines today, with Bitcoin down 3.2% and Solana suffering the largest drop at 4.6% in 24 hours.",
+    "excerpt": "Bitcoin, Ethereum, XRP, and Solana all experienced significant declines today, with Bitcoin down 3.2% and Solana suffering the largest drop at 4.6% in 24 hours.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Crypto Crash Today: Why Bitcoin, Ethereum, XRP, and Solana Are All Down Double Digits"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "current-price-of-ethereum-for-june-4-2026",
+    "type": "news",
+    "title": "Current price of Ethereum for June 4, 2026",
+    "slug": "current-price-of-ethereum-for-june-4-2026",
+    "date": "2026-06-05",
+    "displayDate": "June 5, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "As of June 4, 2026, Ethereum's price is $1,778.27, according to a Google Featured Answer. This aligns closely with predictions from Binance and Digrin, which fo",
+    "excerpt": "As of June 4, 2026, Ethereum's price is $1,778.27, according to a Google Featured Answer. This aligns closely with predictions from Binance and Digrin, which forecast $1,762.49 and $1,772.52 respectively for the same date.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Current price of Ethereum for June 4, 2026"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "current-u-s-inflation-rate-is-3-8-chart-and-why-it-matters",
+    "type": "news",
+    "title": "Current U.S. Inflation Rate Is 3.8%: Chart and Why It Matters",
+    "slug": "current-u-s-inflation-rate-is-3-8-chart-and-why-it-matters",
+    "date": "2026-06-05",
+    "displayDate": "June 5, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The U.S. inflation rate is currently 3.8%, up from 0.6% month-over-month and 3.2% year-over-year. This rise affects purchasing power and economic planning.",
+    "excerpt": "The U.S. inflation rate is currently 3.8%, up from 0.6% month-over-month and 3.2% year-over-year. This rise affects purchasing power and economic planning.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Current U.S. Inflation Rate Is 3.8%: Chart and Why It Matters"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "fed-officials-concerns-about-inflation-sparked-talk-of-rate-hike-during-last-mee",
+    "type": "news",
+    "title": "Fed officials’ concerns about inflation sparked talk of rate hike during last meeting",
+    "slug": "fed-officials-concerns-about-inflation-sparked-talk-of-rate-hike-during-last-mee",
+    "date": "2026-06-05",
+    "displayDate": "June 5, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Fed officials' concerns about inflation led to discussions about a potential rate hike during April's meeting, the last chaired by Jerome Powell, with more poli",
+    "excerpt": "Fed officials' concerns about inflation led to discussions about a potential rate hike during April's meeting, the last chaired by Jerome Powell, with more policymakers considering it appropriate if inflation stayed above target. The minutes revealed a higher level of dissent than in 1992, indicatin",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Fed officials’ concerns about inflation sparked talk of rate hike during last meeting"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "fed-officials-see-rate-hike-ahead-if-inflation-stays-elevated-minutes-show",
+    "type": "news",
+    "title": "Fed officials see rate hike ahead if inflation stays elevated, minutes show",
+    "slug": "fed-officials-see-rate-hike-ahead-if-inflation-stays-elevated-minutes-show",
+    "date": "2026-06-05",
+    "displayDate": "June 5, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "A majority of Federal Reserve officials considered a rate hike if inflation remains high, according to April meeting minutes. The meeting saw significant disagr",
+    "excerpt": "A majority of Federal Reserve officials considered a rate hike if inflation remains high, according to April meeting minutes. The meeting saw significant disagreement, with four \"no\" votes, the most since 1992. This signals potential future policy adjustments based on inflation trends.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Fed officials see rate hike ahead if inflation stays elevated, minutes show"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "how-should-institutional-investors-approach-h2-2026-active-or-passive",
+    "type": "news",
+    "title": "How Should Institutional Investors Approach H2 2026—Active or Passive?",
+    "slug": "how-should-institutional-investors-approach-h2-2026-active-or-passive",
+    "date": "2026-06-05",
+    "displayDate": "June 5, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Institutional investors should consider combining active and passive strategies to balance potential returns, lower fees, and manage market volatility in H2 202",
+    "excerpt": "Institutional investors should consider combining active and passive strategies to balance potential returns, lower fees, and manage market volatility in H2 2026. This hybrid approach often provides the best risk-adjusted returns.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "How Should Institutional Investors Approach H2 2026—Active or Passive?"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "initial-jobless-claims-highlight-thursday-s-economic-calendar",
+    "type": "news",
+    "title": "Initial jobless claims highlight Thursday’s economic calendar",
+    "slug": "initial-jobless-claims-highlight-thursday-s-economic-calendar",
+    "date": "2026-06-05",
+    "displayDate": "June 5, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Initial jobless claims dropped 10,000 to 203,000 in the latest report. This figure is a key indicator of labor market health. The latest data was released on Th",
+    "excerpt": "Initial jobless claims dropped 10,000 to 203,000 in the latest report. This figure is a key indicator of labor market health. The latest data was released on Thursday.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Initial jobless claims highlight Thursday’s economic calendar"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "is-broadcom-a-buy-after-its-latest-earnings-report",
+    "type": "news",
+    "title": "Is Broadcom a Buy After Its Latest Earnings Report?",
+    "slug": "is-broadcom-a-buy-after-its-latest-earnings-report",
+    "date": "2026-06-05",
+    "displayDate": "June 5, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Broadcom's latest earnings report showed strong revenue growth and earnings above expectations; analysts suggest it may be undervalued and a good buy.",
+    "excerpt": "Broadcom's latest earnings report showed strong revenue growth and earnings above expectations; analysts suggest it may be undervalued and a good buy.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Is Broadcom a Buy After Its Latest Earnings Report?"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "march-2026-s-top-stocks-by-monthly-momentum",
+    "type": "news",
+    "title": "March 2026's Top Stocks by Monthly Momentum",
+    "slug": "march-2026-s-top-stocks-by-monthly-momentum",
+    "date": "2026-06-05",
+    "displayDate": "June 5, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "ANTX led in March 2026 with strong momentum, followed by TLYS and PLYX. Utilities and Consumer Cyclical sectors also performed exceptionally well. Notable stock",
+    "excerpt": "ANTX led in March 2026 with strong momentum, followed by TLYS and PLYX. Utilities and Consumer Cyclical sectors also performed exceptionally well. Notable stocks include First Majestic Silver Corp. and BHP Group Limited.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "March 2026's Top Stocks by Monthly Momentum"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "most-fed-officials-embraced-possibility-of-higher-rates-at-recent-meeting",
+    "type": "news",
+    "title": "Most Fed Officials Embraced Possibility of Higher Rates at Recent Meeting",
+    "slug": "most-fed-officials-embraced-possibility-of-higher-rates-at-recent-meeting",
+    "date": "2026-06-05",
+    "displayDate": "June 5, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "A majority of Federal Reserve officials considered raising interest rates to address inflation, according to the April meeting minutes. This sentiment was echoe",
+    "excerpt": "A majority of Federal Reserve officials considered raising interest rates to address inflation, according to the April meeting minutes. This sentiment was echoed across various reports, highlighting the central bank's concern over resurgent inflation. The discussions revealed divisions among policym",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Most Fed Officials Embraced Possibility of Higher Rates at Recent Meeting"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "q1-2026-earnings-call-remarks-from-our-ceo",
+    "type": "news",
+    "title": "Q1 2026 earnings call: Remarks from our CEO",
+    "slug": "q1-2026-earnings-call-remarks-from-our-ceo",
+    "date": "2026-06-05",
+    "displayDate": "June 5, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Sundar Pichai highlighted strong AI investments and revenue growth in Q1 2026, with Google Cloud surpassing $20 billion in quarterly revenue. AI-driven features",
+    "excerpt": "Sundar Pichai highlighted strong AI investments and revenue growth in Q1 2026, with Google Cloud surpassing $20 billion in quarterly revenue. AI-driven features and AI Overviews contributed to overall Search growth.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Q1 2026 earnings call: Remarks from our CEO"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "stock-market-today-nasdaq-100-slips-as-broadcom-plunges-bitcoin-hits-4-month-low",
+    "type": "news",
+    "title": "Stock Market Today: Nasdaq 100 Slips As Broadcom Plunges, Bitcoin Hits 4-Month Lows",
+    "slug": "stock-market-today-nasdaq-100-slips-as-broadcom-plunges-bitcoin-hits-4-month-low",
+    "date": "2026-06-05",
+    "displayDate": "June 5, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Nasdaq 100 dropped 0.7% to 30,355.45, with Broadcom plunging nearly 15% despite strong earnings, and Bitcoin hitting four-month lows near $65,000. The sell-",
+    "excerpt": "The Nasdaq 100 dropped 0.7% to 30,355.45, with Broadcom plunging nearly 15% despite strong earnings, and Bitcoin hitting four-month lows near $65,000. The sell-off in tech stocks continued, affecting the broader market.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Stock Market Today: Nasdaq 100 Slips As Broadcom Plunges, Bitcoin Hits 4-Month Lows"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "stock-market-today-stock-market-news-and-analysis",
+    "type": "news",
+    "title": "Stock Market Today: Stock Market News And Analysis",
+    "slug": "stock-market-today-stock-market-news-and-analysis",
+    "date": "2026-06-05",
+    "displayDate": "June 5, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Dow and S&P 500 climbed on Thursday due to positive Iran war developments, while Broadcom's disappointing results impacted its stock. MarketWatch and Briefi",
+    "excerpt": "The Dow and S&P 500 climbed on Thursday due to positive Iran war developments, while Broadcom's disappointing results impacted its stock. MarketWatch and Briefing.com also offer stock market updates.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Stock Market Today: Stock Market News And Analysis"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "the-10-largest-us-companies-by-revenue-fortune-500-list-for-2026",
+    "type": "news",
+    "title": "The 10 largest US companies by revenue: Fortune 500 list for 2026",
+    "slug": "the-10-largest-us-companies-by-revenue-fortune-500-list-for-2026",
+    "date": "2026-06-05",
+    "displayDate": "June 5, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Amazon leads the Fortune 500 list for 2026 with the highest revenue, followed by UnitedHealth Group, Apple, and Alphabet. Together, these companies represent a ",
+    "excerpt": "Amazon leads the Fortune 500 list for 2026 with the highest revenue, followed by UnitedHealth Group, Apple, and Alphabet. Together, these companies represent a significant portion of U.S. GDP.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "The 10 largest US companies by revenue: Fortune 500 list for 2026"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "us-stocks-are-off-to-their-worst-start-versus-the-global-market-since-1995",
+    "type": "news",
+    "title": "US stocks are off to their worst start versus the global market since 1995",
+    "slug": "us-stocks-are-off-to-their-worst-start-versus-the-global-market-since-1995",
+    "date": "2026-06-05",
+    "displayDate": "June 5, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "U.S. stocks had their worst start to a year since 1995, according to Goldman Sachs. This trend contrasts with the relative strength seen in 1995. The current ma",
+    "excerpt": "U.S. stocks had their worst start to a year since 1995, according to Goldman Sachs. This trend contrasts with the relative strength seen in 1995. The current macroeconomic environment differs significantly.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "US stocks are off to their worst start versus the global market since 1995"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "us-stocks-had-a-remarkable-2025-but-international-markets-did-much-better",
+    "type": "news",
+    "title": "US stocks had a remarkable 2025. But international markets did much better",
+    "slug": "us-stocks-had-a-remarkable-2025-but-international-markets-did-much-better",
+    "date": "2026-06-05",
+    "displayDate": "June 5, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "In 2025, international markets outperformed U.S. stocks significantly. The MSCI World ex-USA index led the way. This trend was noted by analysts and commentator",
+    "excerpt": "In 2025, international markets outperformed U.S. stocks significantly. The MSCI World ex-USA index led the way. This trend was noted by analysts and commentators.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "US stocks had a remarkable 2025. But international markets did much better"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "wall-st-week-ahead-industrial-sector-s-gains-to-be-tested-as-earnings-ramp-up",
+    "type": "news",
+    "title": "Wall St Week Ahead: Industrial sector's gains to be tested as earnings ramp up",
+    "slug": "wall-st-week-ahead-industrial-sector-s-gains-to-be-tested-as-earnings-ramp-up",
+    "date": "2026-06-05",
+    "displayDate": "June 5, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The industrial sector's gains face scrutiny as earnings increase, with concerns about tariffs and global economic weakness. This upcoming earnings period will t",
+    "excerpt": "The industrial sector's gains face scrutiny as earnings increase, with concerns about tariffs and global economic weakness. This upcoming earnings period will test the sector's resilience.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Wall St Week Ahead: Industrial sector's gains to be tested as earnings ramp up"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "wall-street-s-hunt-for-cheaper-stocks-goes-global",
+    "type": "news",
+    "title": "Wall Street’s Hunt for Cheaper Stocks Goes Global",
+    "slug": "wall-street-s-hunt-for-cheaper-stocks-goes-global",
+    "date": "2026-06-05",
+    "displayDate": "June 5, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "High valuations and a weakening dollar are driving Wall Street to seek cheaper stocks globally, as the U.S. market's lead is expected to diminish. This trend re",
+    "excerpt": "High valuations and a weakening dollar are driving Wall Street to seek cheaper stocks globally, as the U.S. market's lead is expected to diminish. This trend reflects a shift in investment strategies.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Wall Street’s Hunt for Cheaper Stocks Goes Global"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "wealthfront-q1-2027-earnings-call-transcript",
+    "type": "news",
+    "title": "Wealthfront Q1 2027 Earnings Call Transcript",
+    "slug": "wealthfront-q1-2027-earnings-call-transcript",
+    "date": "2026-06-05",
+    "displayDate": "June 5, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Wealthfront's Q1 2027 earnings call was held on June 4, 2026, at 2 p.m. PT / 5 p.m. ET. The call was webcast live and replayed for a year. The earnings results ",
+    "excerpt": "Wealthfront's Q1 2027 earnings call was held on June 4, 2026, at 2 p.m. PT / 5 p.m. ET. The call was webcast live and replayed for a year. The earnings results were released after the U.S. market closed.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Wealthfront Q1 2027 Earnings Call Transcript"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "week-ahead-for-fx-bonds-u-s-pce-data-middle-east-developments-in-focus",
+    "type": "news",
+    "title": "Week Ahead for FX, Bonds: U.S. PCE Data, Middle East Developments in Focus",
+    "slug": "week-ahead-for-fx-bonds-u-s-pce-data-middle-east-developments-in-focus",
+    "date": "2026-06-05",
+    "displayDate": "June 5, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "This week, financial markets will focus on U.S. PCE data and developments in the Middle East, particularly U.S.-Iran talks. Key economic reports and Middle East",
+    "excerpt": "This week, financial markets will focus on U.S. PCE data and developments in the Middle East, particularly U.S.-Iran talks. Key economic reports and Middle East conflict updates will influence forex and bond markets.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Week Ahead for FX, Bonds: U.S. PCE Data, Middle East Developments in Focus"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "2026-crypto-crash-causes-why-bitcoin-prices-broke-through-key-levels-future-tren",
     "type": "news",
     "title": "2026 Crypto Crash Causes: Why Bitcoin Prices Broke Through Key Levels? Future Trends and Key Support Level Predictions",
@@ -21,48 +651,6 @@
     "readingTime": 3
   },
   {
-    "id": "3-ways-to-simplify-your-investment-portfolio-in-2026",
-    "type": "news",
-    "title": "3 Ways to Simplify Your Investment Portfolio in 2026",
-    "slug": "3-ways-to-simplify-your-investment-portfolio-in-2026",
-    "date": "2026-06-04",
-    "displayDate": "June 4, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "To simplify your investment portfolio in 2026, consider index funds, broad stock funds, and diversified ETFs. These strategies reduce complexity and costs.",
-    "excerpt": "To simplify your investment portfolio in 2026, consider index funds, broad stock funds, and diversified ETFs. These strategies reduce complexity and costs.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "3 Ways to Simplify Your Investment Portfolio in 2026"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "6-stocks-driving-the-2026-stock-market-rotation",
-    "type": "news",
-    "title": "6 Stocks Driving the 2026 Stock Market Rotation",
-    "slug": "6-stocks-driving-the-2026-stock-market-rotation",
-    "date": "2026-06-04",
-    "displayDate": "June 4, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Industrial, consumer defensive, and energy stocks are leading the 2026 stock market rotation. Technology stocks are faltering. This shift is expected to continu",
-    "excerpt": "Industrial, consumer defensive, and energy stocks are leading the 2026 stock market rotation. Technology stocks are faltering. This shift is expected to continue driving market trends.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "6 Stocks Driving the 2026 Stock Market Rotation"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "altcoins-are-surging-amid-a-steady-rise-in-bitcoin-price",
     "type": "news",
     "title": "Altcoins Are Surging Amid a Steady Rise in Bitcoin Price",
@@ -80,48 +668,6 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "Altcoins Are Surging Amid a Steady Rise in Bitcoin Price"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "analysis-assessing-inflation-s-impact",
-    "type": "news",
-    "title": "Analysis: Assessing Inflation’s Impact",
-    "slug": "analysis-assessing-inflation-s-impact",
-    "date": "2026-06-04",
-    "displayDate": "June 4, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Inflation raises living costs, influences interest rates, and affects investment decisions, with energy and housing as major current pressures.",
-    "excerpt": "Inflation raises living costs, influences interest rates, and affects investment decisions, with energy and housing as major current pressures.",
-    "image": {
-      "src": "/images/articles/analysis-assessing-inflation-s-impact-thumb.jpg",
-      "alt": "Analysis: Assessing Inflation’s Impact"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "applied-digital-reports-fiscal-third-quarter-2026-results",
-    "type": "news",
-    "title": "Applied Digital Reports Fiscal Third Quarter 2026 Results",
-    "slug": "applied-digital-reports-fiscal-third-quarter-2026-results",
-    "date": "2026-06-04",
-    "displayDate": "June 4, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Applied Digital reported $126.6 million in revenues for Q3 2026, a 139% increase from $52.9 million in Q3 2025. The company posted an adjusted net income of $33",
-    "excerpt": "Applied Digital reported $126.6 million in revenues for Q3 2026, a 139% increase from $52.9 million in Q3 2025. The company posted an adjusted net income of $33.2 million. The net loss was $100.9 million.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Applied Digital Reports Fiscal Third Quarter 2026 Results"
     },
     "readingTime": 3
   },
@@ -164,27 +710,6 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "Asian Stocks Close Higher, Europe Sees Mixed Trend"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "bears-load-up-bets-against-small-cap-stocks-ahead-of-economic-data-releases",
-    "type": "news",
-    "title": "Bears load up bets against small-cap stocks ahead of economic data releases",
-    "slug": "bears-load-up-bets-against-small-cap-stocks-ahead-of-economic-data-releases",
-    "date": "2026-06-04",
-    "displayDate": "June 4, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Traders are heavily betting against small-cap stocks due to economic data releases and inflation concerns. Bearish options trading is prevalent ahead of key eco",
-    "excerpt": "Traders are heavily betting against small-cap stocks due to economic data releases and inflation concerns. Bearish options trading is prevalent ahead of key economic reports. Small-cap stocks are seen as vulnerable to interest rate changes.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Bears load up bets against small-cap stocks ahead of economic data releases"
     },
     "readingTime": 3
   },
@@ -273,69 +798,6 @@
     "readingTime": 3
   },
   {
-    "id": "broadcom-plunges-even-as-q2-results-guidance-top-wall-street-s-forecast-avgo-nas",
-    "type": "news",
-    "title": "Broadcom plunges even as Q2 results, guidance top Wall Street's forecast (AVGO:NASDAQ)",
-    "slug": "broadcom-plunges-even-as-q2-results-guidance-top-wall-street-s-forecast-avgo-nas",
-    "date": "2026-06-04",
-    "displayDate": "June 4, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Broadcom's shares fell 14.5% despite beating Q2 estimates and raising guidance, as investors were disappointed by flat AI revenue forecasts and below-consensus ",
-    "excerpt": "Broadcom's shares fell 14.5% despite beating Q2 estimates and raising guidance, as investors were disappointed by flat AI revenue forecasts and below-consensus Q3 guidance. The broader semiconductor sector also declined amid high bond yields.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Broadcom plunges even as Q2 results, guidance top Wall Street's forecast (AVGO:NASDAQ)"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "chs-reports-second-quarter-fiscal-year-2026-earnings",
-    "type": "news",
-    "title": "CHS reports second quarter fiscal year 2026 earnings",
-    "slug": "chs-reports-second-quarter-fiscal-year-2026-earnings",
-    "date": "2026-06-04",
-    "displayDate": "June 4, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "CHS Inc. reported a net loss of $147.1 million and revenues of $8.4 billion for the second quarter of fiscal year 2026, with headwinds in its grain segment and ",
-    "excerpt": "CHS Inc. reported a net loss of $147.1 million and revenues of $8.4 billion for the second quarter of fiscal year 2026, with headwinds in its grain segment and higher energy expenses. The company's energy segment showed a pretax loss of $133.6 million.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "CHS reports second quarter fiscal year 2026 earnings"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "consumer-price-index-new-york-newark-jersey-city-april-2026",
-    "type": "news",
-    "title": "Consumer Price Index, New York-Newark-Jersey City — April 2026",
-    "slug": "consumer-price-index-new-york-newark-jersey-city-april-2026",
-    "date": "2026-06-04",
-    "displayDate": "June 4, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The New York-Newark-Jersey City area's CPI-U rose 1.0% in April 2026, with a 4.6% increase over the past year, driven by a 24.0% surge in energy prices and a 4.",
-    "excerpt": "The New York-Newark-Jersey City area's CPI-U rose 1.0% in April 2026, with a 4.6% increase over the past year, driven by a 24.0% surge in energy prices and a 4.9% rise in food prices. The index excluding food and energy increased by 3.3% over the same period.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Consumer Price Index, New York-Newark-Jersey City — April 2026"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "crowdstrike-sinks-9-as-earnings-beat-falls-short-of-lofty-expectations-weighing-",
     "type": "news",
     "title": "CrowdStrike Sinks 9% as Earnings Beat Falls Short of Lofty Expectations, Weighing on Palo Alto Networks",
@@ -374,27 +836,6 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "Crypto Crash Today: Why Bitcoin, Ethereum, XRP and Major Altcoins Are Falling"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "current-u-s-inflation-rate-is-3-8-chart-and-why-it-matters",
-    "type": "news",
-    "title": "Current U.S. Inflation Rate Is 3.8%: Chart and Why It Matters",
-    "slug": "current-u-s-inflation-rate-is-3-8-chart-and-why-it-matters",
-    "date": "2026-06-04",
-    "displayDate": "June 4, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The U.S. inflation rate is 3.8% as of June 2026, up from 3.3% in March, driven by higher energy and food prices. This rise impacts purchasing power and economic",
-    "excerpt": "The U.S. inflation rate is 3.8% as of June 2026, up from 3.3% in March, driven by higher energy and food prices. This rise impacts purchasing power and economic planning.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Current U.S. Inflation Rate Is 3.8%: Chart and Why It Matters"
     },
     "readingTime": 3
   },
@@ -504,48 +945,6 @@
     "readingTime": 4
   },
   {
-    "id": "fed-officials-concerns-about-inflation-sparked-talk-of-rate-hike-during-last-mee",
-    "type": "news",
-    "title": "Fed officials’ concerns about inflation sparked talk of rate hike during last meeting",
-    "slug": "fed-officials-concerns-about-inflation-sparked-talk-of-rate-hike-during-last-mee",
-    "date": "2026-06-04",
-    "displayDate": "June 4, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Fed officials expressed concerns about inflation, sparking discussions about a potential rate hike during their April meeting, the last chaired by Jerome Powell",
-    "excerpt": "Fed officials expressed concerns about inflation, sparking discussions about a potential rate hike during their April meeting, the last chaired by Jerome Powell. The minutes indicated a growing number of policymakers believed a rate increase could be necessary if inflation stayed above target. This ",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Fed officials’ concerns about inflation sparked talk of rate hike during last meeting"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "fed-officials-see-rate-hike-ahead-if-inflation-stays-elevated-minutes-show",
-    "type": "news",
-    "title": "Fed officials see rate hike ahead if inflation stays elevated, minutes show",
-    "slug": "fed-officials-see-rate-hike-ahead-if-inflation-stays-elevated-minutes-show",
-    "date": "2026-06-04",
-    "displayDate": "June 4, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "A majority of Federal Reserve officials considered a rate hike if inflation remains high, according to the April 28-29 meeting minutes. The Fed kept rates stead",
-    "excerpt": "A majority of Federal Reserve officials considered a rate hike if inflation remains high, according to the April 28-29 meeting minutes. The Fed kept rates steady but saw the highest level of dissent since 1992. Four officials voted against the decision.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Fed officials see rate hike ahead if inflation stays elevated, minutes show"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "federal-reserve-monetary-policy",
     "type": "news",
     "title": "Federal Reserve Monetary Policy",
@@ -630,48 +1029,6 @@
     "readingTime": 3
   },
   {
-    "id": "initial-jobless-claims-highlight-thursday-s-economic-calendar",
-    "type": "news",
-    "title": "Initial jobless claims highlight Thursday’s economic calendar",
-    "slug": "initial-jobless-claims-highlight-thursday-s-economic-calendar",
-    "date": "2026-06-04",
-    "displayDate": "June 4, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Initial jobless claims are a key economic indicator released on Thursdays, showing unemployment trends. The latest forecast for initial jobless claims is 1,780K",
-    "excerpt": "Initial jobless claims are a key economic indicator released on Thursdays, showing unemployment trends. The latest forecast for initial jobless claims is 1,780K. The data is crucial for assessing labor market health.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Initial jobless claims highlight Thursday’s economic calendar"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "is-broadcom-a-buy-after-its-latest-earnings-report",
-    "type": "news",
-    "title": "Is Broadcom a Buy After Its Latest Earnings Report?",
-    "slug": "is-broadcom-a-buy-after-its-latest-earnings-report",
-    "date": "2026-06-04",
-    "displayDate": "June 4, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Broadcom's stock dropped 12% post-earnings, but analysts still see potential for growth and recommend buying. The company's strong performance year-to-date and ",
-    "excerpt": "Broadcom's stock dropped 12% post-earnings, but analysts still see potential for growth and recommend buying. The company's strong performance year-to-date and upcoming earnings report support this view.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Is Broadcom a Buy After Its Latest Earnings Report?"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "key-developments-in-the-mena-region-the-week-ahead",
     "type": "news",
     "title": "Key Developments in the MENA Region: The Week Ahead",
@@ -712,27 +1069,6 @@
       "alt": "March 2026 Investment Strategy: Best Sectors & Market Trends"
     },
     "readingTime": 3
-  },
-  {
-    "id": "march-2026-s-top-stocks-by-monthly-momentum",
-    "type": "news",
-    "title": "March 2026's Top Stocks by Monthly Momentum",
-    "slug": "march-2026-s-top-stocks-by-monthly-momentum",
-    "date": "2026-06-04",
-    "displayDate": "June 4, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "ANTX led in March 2026's top stocks by monthly momentum, followed by TLYS and PLYX. Utilities and Consumer Cyclical sectors also performed well. Key stocks incl",
-    "excerpt": "ANTX led in March 2026's top stocks by monthly momentum, followed by TLYS and PLYX. Utilities and Consumer Cyclical sectors also performed well. Key stocks included AG, BWXT, BHP, BTSG, XP, and CPRX.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "March 2026's Top Stocks by Monthly Momentum"
-    },
-    "readingTime": 4
   },
   {
     "id": "medical-technology-stocks-innovation-endures-as-valuations-reset",
@@ -819,27 +1155,6 @@
     "readingTime": 3
   },
   {
-    "id": "most-fed-officials-embraced-possibility-of-higher-rates-at-recent-meeting",
-    "type": "news",
-    "title": "Most Fed Officials Embraced Possibility of Higher Rates at Recent Meeting",
-    "slug": "most-fed-officials-embraced-possibility-of-higher-rates-at-recent-meeting",
-    "date": "2026-06-04",
-    "displayDate": "June 4, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "A majority of Federal Reserve officials considered raising interest rates to combat inflation, according to the April meeting minutes. This concern was primaril",
-    "excerpt": "A majority of Federal Reserve officials considered raising interest rates to combat inflation, according to the April meeting minutes. This concern was primarily due to persistent inflation pressures. The officials emphasized that rate hikes would depend on inflation's trajectory.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Most Fed Officials Embraced Possibility of Higher Rates at Recent Meeting"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "powell-issues-warning-for-trump-stress-test-see-odds-for-next-fed-rate-hike",
     "type": "news",
     "title": "Powell Issues Warning for Trump ‘Stress Test’: See Odds for Next Fed Rate Hike",
@@ -857,27 +1172,6 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "Powell Issues Warning for Trump ‘Stress Test’: See Odds for Next Fed Rate Hike"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "q1-2026-earnings-call-remarks-from-our-ceo",
-    "type": "news",
-    "title": "Q1 2026 earnings call: Remarks from our CEO",
-    "slug": "q1-2026-earnings-call-remarks-from-our-ceo",
-    "date": "2026-06-04",
-    "displayDate": "June 4, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "In Q1 2026, Google's CEO Sundar Pichai announced record $20 billion quarterly revenue for Google Cloud and highlighted AI product growth. The company's backlog ",
-    "excerpt": "In Q1 2026, Google's CEO Sundar Pichai announced record $20 billion quarterly revenue for Google Cloud and highlighted AI product growth. The company's backlog and AI investments were key highlights.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Q1 2026 earnings call: Remarks from our CEO"
     },
     "readingTime": 3
   },
@@ -966,27 +1260,6 @@
     "readingTime": 3
   },
   {
-    "id": "stock-market-today-nasdaq-100-slips-as-broadcom-plunges-bitcoin-hits-4-month-low",
-    "type": "news",
-    "title": "Stock Market Today: Nasdaq 100 Slips As Broadcom Plunges, Bitcoin Hits 4-Month Lows",
-    "slug": "stock-market-today-nasdaq-100-slips-as-broadcom-plunges-bitcoin-hits-4-month-low",
-    "date": "2026-06-04",
-    "displayDate": "June 4, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Nasdaq 100 dropped 0.7% to 30,355.45, with Broadcom plunging nearly 15% despite strong earnings, while Bitcoin fell to a four-month low around $62,580. The ",
-    "excerpt": "The Nasdaq 100 dropped 0.7% to 30,355.45, with Broadcom plunging nearly 15% despite strong earnings, while Bitcoin fell to a four-month low around $62,580. The selloff in Bitcoin intensified, hitting below $65,000.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Stock Market Today: Nasdaq 100 Slips As Broadcom Plunges, Bitcoin Hits 4-Month Lows"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "stock-market-today-s-p-500-futures-fall-dow-gains-as-house-challenges-trump-s-mi",
     "type": "news",
     "title": "Stock Market Today: S&P 500 Futures Fall, Dow Gains As House Challenges Trump's Military Authority—Broadc",
@@ -1067,27 +1340,6 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "Tech ‘got spanked’ in this week’s primaries. It could be a preview of more to come."
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "the-10-largest-us-companies-by-revenue-fortune-500-list-for-2026",
-    "type": "news",
-    "title": "The 10 largest US companies by revenue: Fortune 500 list for 2026",
-    "slug": "the-10-largest-us-companies-by-revenue-fortune-500-list-for-2026",
-    "date": "2026-06-04",
-    "displayDate": "June 4, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The top 10 largest US companies by revenue in 2026 are Amazon, Walmart, UnitedHealth Group, Apple, Alphabet, CVS Health, Berkshire Hathaway, McKesson, PepsiCo, ",
-    "excerpt": "The top 10 largest US companies by revenue in 2026 are Amazon, Walmart, UnitedHealth Group, Apple, Alphabet, CVS Health, Berkshire Hathaway, McKesson, PepsiCo, and Mastercard. The list ranks companies by revenue, with Amazon reclaiming the top spot.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "The 10 largest US companies by revenue: Fortune 500 list for 2026"
     },
     "readingTime": 3
   },
@@ -1344,69 +1596,6 @@
     "readingTime": 3
   },
   {
-    "id": "us-stocks-are-off-to-their-worst-start-versus-the-global-market-since-1995",
-    "type": "news",
-    "title": "US stocks are off to their worst start versus the global market since 1995",
-    "slug": "us-stocks-are-off-to-their-worst-start-versus-the-global-market-since-1995",
-    "date": "2026-06-04",
-    "displayDate": "June 4, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "U.S. stocks have had their worst start relative to global markets since 1995. This trend is confirmed by Goldman Sachs data. The year 2026 marks this significan",
-    "excerpt": "U.S. stocks have had their worst start relative to global markets since 1995. This trend is confirmed by Goldman Sachs data. The year 2026 marks this significant downturn.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "US stocks are off to their worst start versus the global market since 1995"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "us-stocks-had-a-remarkable-2025-but-international-markets-did-much-better",
-    "type": "news",
-    "title": "US stocks had a remarkable 2025. But international markets did much better",
-    "slug": "us-stocks-had-a-remarkable-2025-but-international-markets-did-much-better",
-    "date": "2026-06-04",
-    "displayDate": "June 4, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "In 2025, US stocks had a remarkable year, but international markets outperformed them significantly. The MSCI All Country World ex-USA index gained 29.2%, while",
-    "excerpt": "In 2025, US stocks had a remarkable year, but international markets outperformed them significantly. The MSCI All Country World ex-USA index gained 29.2%, while the S&P 500 rose 16.39%. South Korea's Kospi index surged almost 76%.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "US stocks had a remarkable 2025. But international markets did much better"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "wall-street-s-hunt-for-cheaper-stocks-goes-global",
-    "type": "news",
-    "title": "Wall Street’s Hunt for Cheaper Stocks Goes Global",
-    "slug": "wall-street-s-hunt-for-cheaper-stocks-goes-global",
-    "date": "2026-06-04",
-    "displayDate": "June 4, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Wall Street is increasingly looking abroad for cheaper stocks due to high valuations in the U.S. and a weakening dollar. This shift suggests America's market le",
-    "excerpt": "Wall Street is increasingly looking abroad for cheaper stocks due to high valuations in the U.S. and a weakening dollar. This shift suggests America's market lead may diminish. Global markets are now being eyed for better investment opportunities.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Wall Street’s Hunt for Cheaper Stocks Goes Global"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "watch-fed-chair-powell-holds-news-briefing-after-interest-rate-left-unchanged",
     "type": "news",
     "title": "WATCH: Fed Chair Powell holds news briefing after interest rate left unchanged",
@@ -1424,27 +1613,6 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "WATCH: Fed Chair Powell holds news briefing after interest rate left unchanged"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "week-ahead-for-fx-bonds-u-s-pce-data-middle-east-developments-in-focus",
-    "type": "news",
-    "title": "Week Ahead for FX, Bonds: U.S. PCE Data, Middle East Developments in Focus",
-    "slug": "week-ahead-for-fx-bonds-u-s-pce-data-middle-east-developments-in-focus",
-    "date": "2026-06-04",
-    "displayDate": "June 4, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "This week, focus is on U.S. PCE data and Middle East developments. Investors are watching for potential rate hikes amid inflation concerns. Middle East conflict",
-    "excerpt": "This week, focus is on U.S. PCE data and Middle East developments. Investors are watching for potential rate hikes amid inflation concerns. Middle East conflict talks remain a key point of interest.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Week Ahead for FX, Bonds: U.S. PCE Data, Middle East Developments in Focus"
     },
     "readingTime": 3
   },
@@ -1886,27 +2054,6 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "Health care sector: Investing in stocks that help keep you well"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "how-should-institutional-investors-approach-h2-2026-active-or-passive",
-    "type": "news",
-    "title": "How Should Institutional Investors Approach H2 2026—Active or Passive?",
-    "slug": "how-should-institutional-investors-approach-h2-2026-active-or-passive",
-    "date": "2026-06-03",
-    "displayDate": "June 3, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Institutional investors should consider a hybrid approach combining active and passive strategies for H2 2026, focusing on portfolio objectives and market condi",
-    "excerpt": "Institutional investors should consider a hybrid approach combining active and passive strategies for H2 2026, focusing on portfolio objectives and market conditions. Active strategies may offer better control amid volatility, while passive can provide cost efficiency. A balanced mix often yields op",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "How Should Institutional Investors Approach H2 2026—Active or Passive?"
     },
     "readingTime": 3
   },
@@ -2625,27 +2772,6 @@
     "readingTime": 3
   },
   {
-    "id": "stock-market-today-stock-market-news-and-analysis",
-    "type": "news",
-    "title": "Stock Market Today: Stock Market News And Analysis",
-    "slug": "stock-market-today-stock-market-news-and-analysis",
-    "date": "2026-06-02",
-    "displayDate": "June 2, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The stock market today shows significant updates and analysis, with key reports and news available from major financial platforms. Nasdaq provides comprehensive",
-    "excerpt": "The stock market today shows significant updates and analysis, with key reports and news available from major financial platforms. Nasdaq provides comprehensive market data and news, while MarketWatch offers financial and business insights. Briefing.com delivers overnight summaries and pre-open stoc",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Stock Market Today: Stock Market News And Analysis"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "the-federal-reserve-is-quickly-running-out-of-reasons-to-cut-interest-rates",
     "type": "news",
     "title": "The Federal Reserve is quickly running out of reasons to cut interest rates",
@@ -3125,27 +3251,6 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "US Stock Market Today: S&P 500 Futures Edge Higher As Rate Jitters Meet Strong Data"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "wall-st-week-ahead-industrial-sector-s-gains-to-be-tested-as-earnings-ramp-up",
-    "type": "news",
-    "title": "Wall St Week Ahead: Industrial sector's gains to be tested as earnings ramp up",
-    "slug": "wall-st-week-ahead-industrial-sector-s-gains-to-be-tested-as-earnings-ramp-up",
-    "date": "2026-06-01",
-    "displayDate": "June 1, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The industrial sector's gains face scrutiny as earnings increase. Tariffs and global economic weakness may impact results. Investors will closely monitor upcomi",
-    "excerpt": "The industrial sector's gains face scrutiny as earnings increase. Tariffs and global economic weakness may impact results. Investors will closely monitor upcoming earnings reports.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Wall St Week Ahead: Industrial sector's gains to be tested as earnings ramp up"
     },
     "readingTime": 3
   },
