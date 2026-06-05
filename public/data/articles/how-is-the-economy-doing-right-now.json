@@ -3,37 +3,37 @@
   "type": "news",
   "title": "How Is the Economy Doing Right Now?",
   "slug": "how-is-the-economy-doing-right-now",
-  "date": "2026-06-04",
-  "displayDate": "June 4, 2026",
+  "date": "2026-06-05",
+  "displayDate": "June 5, 2026",
   "author": "Sigma Capital",
-  "category": "Economic Data",
+  "category": "Economic Indicators",
   "tags": [
-    "economic data",
+    "economic indicators",
     "financial news",
     "market update"
   ],
-  "metaDescription": "The economy is currently strong with low unemployment and rising stock market, but inflation remains above the target. GDP growth has slowed, and inflation is a",
-  "excerpt": "The economy is currently strong with low unemployment and rising stock market, but inflation remains above the target. GDP growth has slowed, and inflation is at 3.0%.",
+  "metaDescription": "The economy is strong with solid GDP growth, but inflation and unemployment remain concerns. Recent data shows a slowdown in growth and persistent inflation abo",
+  "excerpt": "The economy is strong with solid GDP growth, but inflation and unemployment remain concerns. Recent data shows a slowdown in growth and persistent inflation above target levels.",
   "content": {
-    "introduction": "The economy is currently strong with low unemployment and rising stock market, but inflation remains above the target. GDP growth has slowed, and inflation is at 3.0%.",
+    "introduction": "The economy is strong with solid GDP growth, but inflation and unemployment remain concerns. Recent data shows a slowdown in growth and persistent inflation above target levels.",
     "body": [
       "The state of the economy is generally strong, although growth has slowed, and inflation remains higher than the Fed's 2% target.",
-      "The economy today is extraordinarily strong by nearly every historical benchmark, including relative to the years immediately preceding the pandemic.",
-      "GDP grew at 1.6% per year in Q1. Inflation is at 3.0%. The unemployment rate is 4.3%. The S&P 500 is up 25.8% since he took office."
+      "U.S. economic data is strong: In the decade to 2023, the United States boasted real GDP growth of 2.3%, well above the G7 average of 1.8%. However, the U.S.",
+      "GDP grew at 1.6% per year in Q1. Inflation is at 3.0%. The unemployment rate is 4.3%. The S&P 500 is up 25.6% since he took office."
     ],
     "keyTakeaways": [
-      "The economy is currently strong with low unemployment and rising stock market, but inflation remains above the target. G",
+      "The economy is strong with solid GDP growth, but inflation and unemployment remain concerns. Recent data shows a slowdow",
       "The state of the economy is generally strong, although growth has slowed, and inflation remains higher than the Fed's 2%",
-      "The economy today is extraordinarily strong by nearly every historical benchmark, including relative to the years immedi"
+      "U.S"
     ],
     "source": "NerdWallet",
     "sourceUrl": "https://www.nerdwallet.com/finance/learn/state-of-the-economy"
   },
   "readingTime": 3,
-  "updatedAt": "2026-06-04T04:23:58.202Z",
+  "updatedAt": "2026-06-05T09:38:39.667Z",
   "images": {
     "thumbnail": {
-      "src": "/images/article_thumb_1.jpg",
+      "src": "/images/article_thumb_6.jpg",
       "alt": "How Is the Economy Doing Right Now?"
     },
     "hero": {
@@ -41,12 +41,12 @@
       "alt": "How Is the Economy Doing Right Now?"
     },
     "mid": {
-      "src": "/images/article_thumb_5.jpg",
+      "src": "/images/article_thumb_3.jpg",
       "alt": "How Is the Economy Doing Right Now?"
     }
   },
   "image": {
-    "src": "/images/article_thumb_2.jpg",
+    "src": "/images/article_thumb_1.jpg",
     "alt": "How Is the Economy Doing Right Now?"
   }
 }
