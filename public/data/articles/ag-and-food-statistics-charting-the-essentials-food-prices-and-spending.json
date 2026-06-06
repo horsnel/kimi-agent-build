@@ -3,8 +3,8 @@
   "type": "news",
   "title": "Ag and Food Statistics: Charting the Essentials - Food Prices and Spending",
   "slug": "ag-and-food-statistics-charting-the-essentials-food-prices-and-spending",
-  "date": "2026-06-05",
-  "displayDate": "June 5, 2026",
+  "date": "2026-06-06",
+  "displayDate": "June 6, 2026",
   "author": "Sigma Capital",
   "category": "Economic Data",
   "tags": [
@@ -12,41 +12,33 @@
     "financial news",
     "market update"
   ],
-  "metaDescription": "Food prices and spending data are tracked in key statistics charts, showing trends in the agricultural sector and food security. Essential indicators are illust",
-  "excerpt": "Food prices and spending data are tracked in key statistics charts, showing trends in the agricultural sector and food security. Essential indicators are illustrated through over 75 charts and maps. This data is crucial for understanding economic impacts on the farm sector.",
+  "metaDescription": "Retail food prices partially reflect farm-level commodity prices, but other costs of bringing food to the market (such as processing and...",
+  "excerpt": "Retail food prices partially reflect farm-level commodity prices, but other costs of bringing food to the market (such as processing and...",
   "content": {
-    "introduction": "Food prices and spending data are tracked in key statistics charts, showing trends in the agricultural sector and food security. Essential indicators are illustrated through over 75 charts and maps. This data is crucial for understanding economic impacts on the farm sector.",
-    "body": [
-      "A collection of over 75 charts and maps presenting key statistics on the farm sector, food spending and prices, food security, rural communities,",
-      "Ag and Food Statistics: Charting the Essentials covers key food and agricultural indicators and illustrates the scope of ERS's work through a series of charts",
-      "A collection of over 75 charts and maps presenting key statistics on the farm sector, food spending and prices, food security,"
-    ],
-    "keyTakeaways": [
-      "Food prices and spending data are tracked in key statistics charts, showing trends in the agricultural sector and food s",
-      "A collection of over 75 charts and maps presenting key statistics on the farm sector, food spending and prices, food sec",
-      "Ag and Food Statistics: Charting the Essentials covers key food and agricultural indicators and illustrates the scope of"
-    ],
+    "introduction": "Retail food prices partially reflect farm-level commodity prices, but other costs of bringing food to the market (such as processing and...",
+    "body": [],
+    "keyTakeaways": [],
     "source": "USDA (.gov)",
     "sourceUrl": "http://www.ers.usda.gov/data-products/ag-and-food-statistics-charting-the-essentials/food-prices-and-spending"
   },
   "readingTime": 3,
-  "updatedAt": "2026-06-05T09:38:39.667Z",
+  "updatedAt": "2026-06-06T03:51:41.557Z",
   "images": {
     "thumbnail": {
-      "src": "/images/article_thumb_5.jpg",
+      "src": "/images/article_thumb_3.jpg",
       "alt": "Ag and Food Statistics: Charting the Essentials - Food Prices and Spending"
     },
     "hero": {
-      "src": "/images/article_thumb_5.jpg",
+      "src": "/images/article_thumb_2.jpg",
       "alt": "Ag and Food Statistics: Charting the Essentials - Food Prices and Spending"
     },
     "mid": {
-      "src": "/images/article_thumb_6.jpg",
+      "src": "/images/article_thumb_4.jpg",
       "alt": "Ag and Food Statistics: Charting the Essentials - Food Prices and Spending"
     }
   },
   "image": {
-    "src": "/images/article_thumb_2.jpg",
+    "src": "/images/article_thumb_3.jpg",
     "alt": "Ag and Food Statistics: Charting the Essentials - Food Prices and Spending"
   }
 }
