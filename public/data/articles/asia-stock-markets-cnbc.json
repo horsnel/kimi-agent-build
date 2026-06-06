@@ -1,0 +1,52 @@
+{
+  "id": "asia-stock-markets-cnbc",
+  "type": "news",
+  "title": "Asia Stock Markets - CNBC",
+  "slug": "asia-stock-markets-cnbc",
+  "date": "2026-06-06",
+  "displayDate": "June 6, 2026",
+  "author": "Sigma Capital",
+  "category": "Global Markets",
+  "tags": [
+    "global markets",
+    "financial news",
+    "market update"
+  ],
+  "metaDescription": "Asia markets closed mostly in the red, with Japan's Nikkei 225 losing 0.88%. Mixed trading occurred as investors assessed trade developments. India's Nifty 50 a",
+  "excerpt": "Asia markets closed mostly in the red, with Japan's Nikkei 225 losing 0.88%. Mixed trading occurred as investors assessed trade developments. India's Nifty 50 and BSE Sensex fell slightly.",
+  "content": {
+    "introduction": "Asia markets closed mostly in the red, with Japan's Nikkei 225 losing 0.88%. Mixed trading occurred as investors assessed trade developments. India's Nifty 50 and BSE Sensex fell slightly.",
+    "body": [
+      "Asia markets close mostly in the red. Japan's Topix slipped 0.86% to close at 2,951.86. Nikkei 225 lost 0.88% to end the trading day at 41,456.",
+      "Global Business and Financial News, Stock Quotes, and Market Data and Analysis. Market Data Terms of Use and Disclaimers. Data also provided by Reuters logo.",
+      "# Asia-Pacific stocks mixed as investors assess trade developments in the region. Asia-Pacific markets traded mixed as investors assessed trade developments between the U.S. and countries in the region, with focus also on Asian currencies that reversed course to weaken Tuesday as the dollar appreciated. India has reportedly proposed zero tariffs on steel, auto components and pharmaceuticals on a reciprocal basis and up to a certain amount of imports, while Malaysia said Monday that Washington had agreed for further talks and there could be a cut in tariffs. Treasury Secretary Scott Bessent told CNBC Monday that the U.S. was \"very close to some deals,\" echoing comments from U.S. President Donald Trump a day earlier that there could be some agreements as early as this week. China's Caixin services purchasing managers' index came in at a seven-month low of 50.7 in April, compared to 51.9 in the previous month. Over in India, the benchmark Nifty 50 fell 0.29% while the BSE Sensex moved down 0.22% in choppy trade as at 1.42 p.m. Indian Standard Time."
+    ],
+    "keyTakeaways": [
+      "Asia markets closed mostly in the red, with Japan's Nikkei 225 losing 0.88%",
+      "Asia markets close mostly in the red. Japan's Topix slipped 0",
+      "Global Business and Financial News, Stock Quotes, and Market Data and Analysis. Market Data Terms of Use and Disclaimers"
+    ],
+    "source": "cnbc.com",
+    "sourceUrl": "https://www.cnbc.com/markets/asia-markets"
+  },
+  "readingTime": 3,
+  "updatedAt": "2026-06-06T13:51:08.916Z",
+  "images": {
+    "thumbnail": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Asia Stock Markets - CNBC"
+    },
+    "hero": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Asia Stock Markets - CNBC"
+    },
+    "mid": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Asia Stock Markets - CNBC"
+    }
+  },
+  "image": {
+    "src": "/images/article_thumb_3.jpg",
+    "alt": "Asia Stock Markets - CNBC"
+  }
+}

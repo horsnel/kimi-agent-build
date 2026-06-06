@@ -105,6 +105,27 @@
     "readingTime": 3
   },
   {
+    "id": "all-earnings-news-and-press-releases-from-pr-newswire",
+    "type": "news",
+    "title": "All Earnings News and Press Releases from PR Newswire",
+    "slug": "all-earnings-news-and-press-releases-from-pr-newswire",
+    "date": "2026-06-06",
+    "displayDate": "June 6, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "PR Newswire provides earnings news and press releases, including recent results from Tuniu, Docusign, and Petco. The platform categorizes news by sectors like f",
+    "excerpt": "PR Newswire provides earnings news and press releases, including recent results from Tuniu, Docusign, and Petco. The platform categorizes news by sectors like financial services, technology, and consumer products. Visit their homepage for the latest updates.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "All Earnings News and Press Releases from PR Newswire"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "analysis-assessing-inflation-s-impact",
     "type": "news",
     "title": "Analysis: Assessing Inflation’s Impact",
@@ -143,6 +164,48 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "Applied Digital Reports Fiscal Third Quarter 2026 Results"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "asia-stock-markets-cnbc",
+    "type": "news",
+    "title": "Asia Stock Markets - CNBC",
+    "slug": "asia-stock-markets-cnbc",
+    "date": "2026-06-06",
+    "displayDate": "June 6, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Asia markets closed mostly in the red, with Japan's Nikkei 225 losing 0.88%. Mixed trading occurred as investors assessed trade developments. India's Nifty 50 a",
+    "excerpt": "Asia markets closed mostly in the red, with Japan's Nikkei 225 losing 0.88%. Mixed trading occurred as investors assessed trade developments. India's Nifty 50 and BSE Sensex fell slightly.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Asia Stock Markets - CNBC"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "asia-stock-markets-wsj",
+    "type": "news",
+    "title": "Asia Stock Markets - WSJ",
+    "slug": "asia-stock-markets-wsj",
+    "date": "2026-06-06",
+    "displayDate": "June 6, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Asian stock markets were subdued due to lack of progress in the Trump-Xi meeting on tariffs and concerns about energy shocks. Key indexes like Shanghai and Dow ",
+    "excerpt": "Asian stock markets were subdued due to lack of progress in the Trump-Xi meeting on tariffs and concerns about energy shocks. Key indexes like Shanghai and Dow Jones showed minor declines. Current data reflects a cautious market sentiment.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Asia Stock Markets - WSJ"
     },
     "readingTime": 3
   },
@@ -210,6 +273,27 @@
     "readingTime": 3
   },
   {
+    "id": "bitcoin-btc-news-analysis-and-forecast-fxstreet",
+    "type": "news",
+    "title": "Bitcoin (BTC) News, Analysis and Forecast - FXStreet",
+    "slug": "bitcoin-btc-news-analysis-and-forecast-fxstreet",
+    "date": "2026-06-06",
+    "displayDate": "June 6, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin is currently below $74,000 and faces ETF outflows, with analysts predicting continued price declines. BTC bulls remain strong due to institutional deman",
+    "excerpt": "Bitcoin is currently below $74,000 and faces ETF outflows, with analysts predicting continued price declines. BTC bulls remain strong due to institutional demand. Top predictions suggest BTC could reach $60,000.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Bitcoin (BTC) News, Analysis and Forecast - FXStreet"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "bitcoin-btc-price-usd-today-news-charts-market-cap-coinbase",
     "type": "news",
     "title": "Bitcoin (BTC) Price USD Today, News, Charts, Market Cap | Coinbase",
@@ -269,6 +353,27 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "Bitcoin price crash reveals a surprisingly positive future outcome"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "bitcoin-price-today-btc-to-usd-live-price-market-cap-chart",
+    "type": "news",
+    "title": "Bitcoin Price Today | BTC to USD Live Price, Market Cap & Chart",
+    "slug": "bitcoin-price-today-btc-to-usd-live-price-market-cap-chart",
+    "date": "2026-06-06",
+    "displayDate": "June 6, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Bitcoin price today is $60,958.99 per BTC to USD. The market cap is $1.2 trillion USD. The 24-hour trading volume is $63.5 billion USD.",
+    "excerpt": "The Bitcoin price today is $60,958.99 per BTC to USD. The market cap is $1.2 trillion USD. The 24-hour trading volume is $63.5 billion USD.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Bitcoin Price Today | BTC to USD Live Price, Market Cap & Chart"
     },
     "readingTime": 3
   },
@@ -378,6 +483,27 @@
     "readingTime": 3
   },
   {
+    "id": "earnings-calendar-2026-daily-earnings-reports-marketbeat",
+    "type": "news",
+    "title": "Earnings Calendar 2026 | Daily Earnings Reports - MarketBeat",
+    "slug": "earnings-calendar-2026-daily-earnings-reports-marketbeat",
+    "date": "2026-06-06",
+    "displayDate": "June 6, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Oracle's Q4 2026 earnings are expected on June 10, 2026, with a call on June 8. FedEx and Micron Technology are also scheduled to report earnings in June 2026. ",
+    "excerpt": "Oracle's Q4 2026 earnings are expected on June 10, 2026, with a call on June 8. FedEx and Micron Technology are also scheduled to report earnings in June 2026. NIKE will report on June 30, 2026.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Earnings Calendar 2026 | Daily Earnings Reports - MarketBeat"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "earnings-calendar-and-analysis-for-this-week-june-8-12-kiplinger",
     "type": "news",
     "title": "Earnings Calendar and Analysis for This Week (June 8-12) | Kiplinger",
@@ -395,6 +521,27 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "Earnings Calendar and Analysis for This Week (June 8-12) | Kiplinger"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "earnings-calendar-marketwatch",
+    "type": "news",
+    "title": "Earnings Calendar - MarketWatch",
+    "slug": "earnings-calendar-marketwatch",
+    "date": "2026-06-06",
+    "displayDate": "June 6, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Meituan and Mesoblast are scheduled to report earnings on March 31, 2026. GitLab Inc. is set to report earnings on April 30, 2026. Earnings calendar data is cur",
+    "excerpt": "Meituan and Mesoblast are scheduled to report earnings on March 31, 2026. GitLab Inc. is set to report earnings on April 30, 2026. Earnings calendar data is current as of June 6, 2026.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Earnings Calendar - MarketWatch"
     },
     "readingTime": 3
   },
@@ -420,6 +567,27 @@
     "readingTime": 3
   },
   {
+    "id": "earnings-scheduled-for-monday-june-8-2026-earnings-whispers",
+    "type": "news",
+    "title": "Earnings Scheduled for Monday, June 8, 2026 - Earnings Whispers",
+    "slug": "earnings-scheduled-for-monday-june-8-2026-earnings-whispers",
+    "date": "2026-06-06",
+    "displayDate": "June 6, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "On Monday, June 8, 2026, Anixa Biosciences, BitFuFu Inc., Cango, and Chewy are scheduled to release earnings. This is the most anticipated earnings day for that",
+    "excerpt": "On Monday, June 8, 2026, Anixa Biosciences, BitFuFu Inc., Cango, and Chewy are scheduled to release earnings. This is the most anticipated earnings day for that date. The information is accurate as of June 6, 2026.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Earnings Scheduled for Monday, June 8, 2026 - Earnings Whispers"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "european-shares-climb-and-asian-shares-retreat-after-u-s-stocks-pause-their-reco",
     "type": "news",
     "title": "European shares climb and Asian shares retreat after U.S. stocks pause their record-breaking rally",
@@ -437,6 +605,27 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "European shares climb and Asian shares retreat after U.S. stocks pause their record-breaking rally"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "federal-open-market-committee-wikipedia",
+    "type": "news",
+    "title": "Federal Open Market Committee - Wikipedia",
+    "slug": "federal-open-market-committee-wikipedia",
+    "date": "2026-06-06",
+    "displayDate": "June 6, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Open Market Committee (FOMC) oversees the nation's open market operations and sets monetary policy. It consists of Federal Reserve Board members and",
+    "excerpt": "The Federal Open Market Committee (FOMC) oversees the nation's open market operations and sets monetary policy. It consists of Federal Reserve Board members and regional bank presidents. The FOMC influences the federal funds rate and manages the supply of credit.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Federal Open Market Committee - Wikipedia"
     },
     "readingTime": 3
   },
@@ -479,6 +668,27 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "GDP, CPI and other key economic reports - Bankrate"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "global-companies-reports-and-earnings-tradingview",
+    "type": "news",
+    "title": "Global Companies Reports and Earnings - TradingView",
+    "slug": "global-companies-reports-and-earnings-tradingview",
+    "date": "2026-06-06",
+    "displayDate": "June 6, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Global companies' earnings reports and updates are tracked on TradingView's earnings calendar and news sections. Key metrics and company activities are availabl",
+    "excerpt": "Global companies' earnings reports and updates are tracked on TradingView's earnings calendar and news sections. Key metrics and company activities are available for informed trading decisions. The calendar includes essential data like EPS and market capitalization.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Global Companies Reports and Earnings - TradingView"
     },
     "readingTime": 3
   },
@@ -567,6 +777,27 @@
     "readingTime": 3
   },
   {
+    "id": "investment-strategies-for-today-and-long-term-blackrock",
+    "type": "news",
+    "title": "Investment strategies for today and long-term - BlackRock",
+    "slug": "investment-strategies-for-today-and-long-term-blackrock",
+    "date": "2026-06-06",
+    "displayDate": "June 6, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "For today, consider diversification and income opportunities. For long-term, equities are typically more suitable for higher rewards. BlackRock offers strategie",
+    "excerpt": "For today, consider diversification and income opportunities. For long-term, equities are typically more suitable for higher rewards. BlackRock offers strategies to balance stability and growth.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Investment strategies for today and long-term - BlackRock"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "investment-strategies-for-today-s-market-linkedin",
     "type": "news",
     "title": "Investment Strategies for Today's Market - LinkedIn",
@@ -605,6 +836,132 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "Is Broadcom a Buy After Its Latest Earnings Report?"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "latest-asia-stock-market-news",
+    "type": "news",
+    "title": "Latest: Asia Stock Market News",
+    "slug": "latest-asia-stock-market-news",
+    "date": "2026-06-06",
+    "displayDate": "June 6, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Tokyo, Seoul, and Hong Kong stocks declined due to Broadcom's disappointing forecast and US Fed rate hike concerns. South Korean stocks surged on debt-fueled be",
+    "excerpt": "Tokyo, Seoul, and Hong Kong stocks declined due to Broadcom's disappointing forecast and US Fed rate hike concerns. South Korean stocks surged on debt-fueled bets. Japan's market data shows ongoing AI trade impacts.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Latest: Asia Stock Market News"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "meeting-calendars-and-information",
+    "type": "news",
+    "title": "Meeting calendars and information",
+    "slug": "meeting-calendars-and-information",
+    "date": "2026-06-06",
+    "displayDate": "June 6, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Reserve Open Market Committee (FOMC) meeting schedules are available on the Federal Reserve website and the MNI Markets calendar. The latest FOMC me",
+    "excerpt": "The Federal Reserve Open Market Committee (FOMC) meeting schedules are available on the Federal Reserve website and the MNI Markets calendar. The latest FOMC meeting is in April 2026. Check the official Federal Reserve site for the most accurate dates.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Meeting calendars and information"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "monetary-policy-federal-reserve-board",
+    "type": "news",
+    "title": "Monetary Policy - Federal Reserve Board",
+    "slug": "monetary-policy-federal-reserve-board",
+    "date": "2026-06-06",
+    "displayDate": "June 6, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Reserve sets U.S. monetary policy to achieve high employment and stable prices. It uses the federal funds rate as its main tool. The Federal Open Ma",
+    "excerpt": "The Federal Reserve sets U.S. monetary policy to achieve high employment and stable prices. It uses the federal funds rate as its main tool. The Federal Open Market Committee (FOMC) makes key decisions.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Monetary Policy - Federal Reserve Board"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "s-p-500-analysis-and-opinion-investing-com",
+    "type": "news",
+    "title": "S&P 500 Analysis and Opinion - Investing.com",
+    "slug": "s-p-500-analysis-and-opinion-investing-com",
+    "date": "2026-06-06",
+    "displayDate": "June 6, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "S&P 500 experienced a significant pullback but retains a bullish trend. Short sellers retreated following Andrew Left's conviction. Macro risks are growing, acc",
+    "excerpt": "S&P 500 experienced a significant pullback but retains a bullish trend. Short sellers retreated following Andrew Left's conviction. Macro risks are growing, according to options markets.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "S&P 500 Analysis and Opinion - Investing.com"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "s-p-500-index-sp500-analysis-news-and-chart-today",
+    "type": "news",
+    "title": "S&P 500 Index (SP500) Analysis, News, And Chart Today",
+    "slug": "s-p-500-index-sp500-analysis-news-and-chart-today",
+    "date": "2026-06-06",
+    "displayDate": "June 6, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The S&P 500 Index (.SPX) closed at 7,584.31 today, with a day high of 7,541.81 and a day low of 7,368.63. The 52-week high is 7,620.90 as of June 2, 2026.",
+    "excerpt": "The S&P 500 Index (.SPX) closed at 7,584.31 today, with a day high of 7,541.81 and a day low of 7,368.63. The 52-week high is 7,620.90 as of June 2, 2026.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "S&P 500 Index (SP500) Analysis, News, And Chart Today"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "s-p-500-sp500-technical-analysis-medium-term-investtech",
+    "type": "news",
+    "title": "S&P 500 (SP500) - Technical Analysis - Medium term - Investtech",
+    "slug": "s-p-500-sp500-technical-analysis-medium-term-investtech",
+    "date": "2026-06-06",
+    "displayDate": "June 6, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The S&P 500 technical analysis for medium term shows key trends and signals. Short-term and long-term analyses are also available. Investor responsibility for o",
+    "excerpt": "The S&P 500 technical analysis for medium term shows key trends and signals. Short-term and long-term analyses are also available. Investor responsibility for outcomes is emphasized.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "S&P 500 (SP500) - Technical Analysis - Medium term - Investtech"
     },
     "readingTime": 3
   },
@@ -735,6 +1092,27 @@
     "readingTime": 3
   },
   {
+    "id": "the-best-investment-strategies-for-the-continuous-market",
+    "type": "news",
+    "title": "The Best Investment Strategies For The Continuous Market",
+    "slug": "the-best-investment-strategies-for-the-continuous-market",
+    "date": "2026-06-06",
+    "displayDate": "June 6, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Effective investment strategies include value investing, growth investing, and long-term asset allocation. Patience and discipline are key, as markets can be vo",
+    "excerpt": "Effective investment strategies include value investing, growth investing, and long-term asset allocation. Patience and discipline are key, as markets can be volatile. Regularly review and adjust your portfolio to align with your long-term goals.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "The Best Investment Strategies For The Continuous Market"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "the-fed-april-28-29-2026-fomc-meeting",
     "type": "news",
     "title": "The Fed - April 28-29, 2026 FOMC Meeting",
@@ -857,6 +1235,27 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "U.S. Bureau of Economic Analysis (BEA)"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "u-s-economic-calendar-marketwatch",
+    "type": "news",
+    "title": "U.S. Economic Calendar - MarketWatch",
+    "slug": "u-s-economic-calendar-marketwatch",
+    "date": "2026-06-06",
+    "displayDate": "June 6, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The U.S. Economic Calendar on MarketWatch lists upcoming economic indicators and events. For current data, visit www.marketwatch.com. The calendar is updated re",
+    "excerpt": "The U.S. Economic Calendar on MarketWatch lists upcoming economic indicators and events. For current data, visit www.marketwatch.com. The calendar is updated regularly.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "U.S. Economic Calendar - MarketWatch"
     },
     "readingTime": 3
   },

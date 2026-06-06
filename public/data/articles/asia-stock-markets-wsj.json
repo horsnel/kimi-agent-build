@@ -1,0 +1,52 @@
+{
+  "id": "asia-stock-markets-wsj",
+  "type": "news",
+  "title": "Asia Stock Markets - WSJ",
+  "slug": "asia-stock-markets-wsj",
+  "date": "2026-06-06",
+  "displayDate": "June 6, 2026",
+  "author": "Sigma Capital",
+  "category": "Global Markets",
+  "tags": [
+    "global markets",
+    "financial news",
+    "market update"
+  ],
+  "metaDescription": "Asian stock markets were subdued due to lack of progress in the Trump-Xi meeting on tariffs and concerns about energy shocks. Key indexes like Shanghai and Dow ",
+  "excerpt": "Asian stock markets were subdued due to lack of progress in the Trump-Xi meeting on tariffs and concerns about energy shocks. Key indexes like Shanghai and Dow Jones showed minor declines. Current data reflects a cautious market sentiment.",
+  "content": {
+    "introduction": "Asian stock markets were subdued due to lack of progress in the Trump-Xi meeting on tariffs and concerns about energy shocks. Key indexes like Shanghai and Dow Jones showed minor declines. Current data reflects a cautious market sentiment.",
+    "body": [
+      "Asian stock markets were subdued as a Trump-Xi meeting lacked tangible progress on tariffs, amid worries about a war-driven energy shock.",
+      "Asian stock markets were subdued despite a positive lead from Wall Street overnight and a constructive tone from the meeting between President Trump and",
+      "Asia Stock Indexes Explore Our Brands WSJ. Shanghai 4027.74 -0.74% U.S. Dollar Index 95.90 -0.17% S&P GSCI Index Spot 706.48 -0.43% Dow Jones & Company Inc."
+    ],
+    "keyTakeaways": [
+      "Asian stock markets were subdued due to lack of progress in the Trump-Xi meeting on tariffs and concerns about energy sh",
+      "Asian stock markets were subdued as a Trump-Xi meeting lacked tangible progress on tariffs, amid worries about a war-dri",
+      "Asian stock markets were subdued despite a positive lead from Wall Street overnight and a constructive tone from the mee"
+    ],
+    "source": "wsj.com",
+    "sourceUrl": "https://www.wsj.com/market-data/stocks/asia"
+  },
+  "readingTime": 3,
+  "updatedAt": "2026-06-06T13:51:08.916Z",
+  "images": {
+    "thumbnail": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Asia Stock Markets - WSJ"
+    },
+    "hero": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Asia Stock Markets - WSJ"
+    },
+    "mid": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Asia Stock Markets - WSJ"
+    }
+  },
+  "image": {
+    "src": "/images/article_thumb_6.jpg",
+    "alt": "Asia Stock Markets - WSJ"
+  }
+}
