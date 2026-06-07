@@ -1,0 +1,52 @@
+{
+  "id": "earnings",
+  "type": "news",
+  "title": "Earnings",
+  "slug": "earnings",
+  "date": "2026-06-07",
+  "displayDate": "June 7, 2026",
+  "author": "Sigma Capital",
+  "category": "Earnings",
+  "tags": [
+    "earnings",
+    "financial news",
+    "market update"
+  ],
+  "metaDescription": "Earnings are the net profits a corporation makes from its operations, subject to corporate tax. Specific terms like EBIT and EBITDA provide more detailed financ",
+  "excerpt": "Earnings are the net profits a corporation makes from its operations, subject to corporate tax. Specific terms like EBIT and EBITDA provide more detailed financial insights. Earnings reports are crucial for investors and traders.",
+  "content": {
+    "introduction": "Earnings are the net profits a corporation makes from its operations, subject to corporate tax. Specific terms like EBIT and EBITDA provide more detailed financial insights. Earnings reports are crucial for investors and traders.",
+    "body": [
+      "November 17, 2025 - Earnings are the net benefits of a corporation's operation . Earnings are also the amount on which corporate tax is due. For an analysis of specific aspects of corporate operations several more specific terms are used as EBIT (earnings before interest and taxes) and EBITDA (earnings before interest,",
+      "Earnings Hub is a one-stop shop for everything related to company quarterly earnings: earnings calendar, earnings calls, earnings estimates, actuals, and alerts to stay on top of events",
+      "Earnings Whispers is the only provider of real, professional whisper numbers for professional traders and investors - the most reliable earnings expectation availabe - based on superior fundamental research that is combined with investor sentiment"
+    ],
+    "keyTakeaways": [
+      "Earnings are the net profits a corporation makes from its operations, subject to corporate tax. Specific terms like EBIT",
+      "November 17, 2025 - Earnings are the net benefits of a corporation's operation . Earnings are also the amount on which c",
+      "Earnings Hub is a one-stop shop for everything related to company quarterly earnings: earnings calendar, earnings calls,"
+    ],
+    "source": "cnbc.com",
+    "sourceUrl": "https://www.cnbc.com/earnings"
+  },
+  "readingTime": 3,
+  "updatedAt": "2026-06-07T04:17:48.024Z",
+  "images": {
+    "thumbnail": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Earnings"
+    },
+    "hero": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Earnings"
+    },
+    "mid": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Earnings"
+    }
+  },
+  "image": {
+    "src": "/images/article_thumb_3.jpg",
+    "alt": "Earnings"
+  }
+}
