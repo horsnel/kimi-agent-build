@@ -42,6 +42,27 @@
     "readingTime": 3
   },
   {
+    "id": "10-investment-strategies-for-new-investors-mintos",
+    "type": "news",
+    "title": "10 Investment strategies for new investors - Mintos",
+    "slug": "10-investment-strategies-for-new-investors-mintos",
+    "date": "2026-06-07",
+    "displayDate": "June 7, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "For new investors, consider long-term growth, short-term equity index funds, and income-focused strategies. Diversify with low-cost index funds or ETFs for begi",
+    "excerpt": "For new investors, consider long-term growth, short-term equity index funds, and income-focused strategies. Diversify with low-cost index funds or ETFs for beginners. Focus on high-yield, time-sensitive opportunities.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "10 Investment strategies for new investors - Mintos"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "2026-outlook-portfolio-wide-views-cambridge-associates",
     "type": "news",
     "title": "2026 Outlook: Portfolio-Wide Views - Cambridge Associates",
@@ -80,6 +101,27 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "5 Strategies to Navigate Market Volatility - Morgan Stanley"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "asian-market-headlines-breaking-stock-market-news-reuters",
+    "type": "news",
+    "title": "Asian Market Headlines | Breaking Stock Market News - Reuters",
+    "slug": "asian-market-headlines-breaking-stock-market-news-reuters",
+    "date": "2026-06-07",
+    "displayDate": "June 7, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "China encourages fund managers to support innovation while cautioning against hype. Indonesia's central bank and finance minister aim to boost asset yields. Asi",
+    "excerpt": "China encourages fund managers to support innovation while cautioning against hype. Indonesia's central bank and finance minister aim to boost asset yields. Asian markets are focusing on innovation and financial stability.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Asian Market Headlines | Breaking Stock Market News - Reuters"
     },
     "readingTime": 3
   },
@@ -185,6 +227,27 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "Cryptocurrency pricing, market & regulation news - Yahoo Finance"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "earnings-breaking-news-and-press-releases-business-wire",
+    "type": "news",
+    "title": "Earnings Breaking News and Press Releases - Business Wire",
+    "slug": "earnings-breaking-news-and-press-releases-business-wire",
+    "date": "2026-06-07",
+    "displayDate": "June 7, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Business Wire disseminates earnings news and press releases, offering financial updates and market reactions. It helps public companies communicate important mi",
+    "excerpt": "Business Wire disseminates earnings news and press releases, offering financial updates and market reactions. It helps public companies communicate important milestones. The latest earnings reports are available on their website.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Earnings Breaking News and Press Releases - Business Wire"
     },
     "readingTime": 3
   },
@@ -357,6 +420,48 @@
     "readingTime": 3
   },
   {
+    "id": "economic-calendar",
+    "type": "news",
+    "title": "Economic Calendar",
+    "slug": "economic-calendar",
+    "date": "2026-06-07",
+    "displayDate": "June 7, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "An economic calendar lists upcoming financial events and data releases that can impact markets. It includes details on their potential market impact and histori",
+    "excerpt": "An economic calendar lists upcoming financial events and data releases that can impact markets. It includes details on their potential market impact and historical figures. MarketWatch's U.S. Economic Calendar focuses on domestic economic indicators.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Economic Calendar"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "economic-indicators-calendar-federal-reserve-bank-of-new-york",
+    "type": "news",
+    "title": "Economic Indicators Calendar - FEDERAL RESERVE BANK of NEW YORK",
+    "slug": "economic-indicators-calendar-federal-reserve-bank-of-new-york",
+    "date": "2026-06-07",
+    "displayDate": "June 7, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Reserve Bank of New York's Economic Indicators Calendar lists key economic data releases. Today's notable releases include Empire State Manufacturin",
+    "excerpt": "The Federal Reserve Bank of New York's Economic Indicators Calendar lists key economic data releases. Today's notable releases include Empire State Manufacturing Survey and Advance Retail Sales. For full details, visit the New York Fed's website.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Economic Indicators Calendar - FEDERAL RESERVE BANK of NEW YORK"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "economic-indicators-calendar-new-york-fed",
     "type": "news",
     "title": "Economic Indicators Calendar | New York Fed",
@@ -374,6 +479,48 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "Economic Indicators Calendar | New York Fed"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "european-asian-stocks-fall-amid-geopolitical-tensions-wsj",
+    "type": "news",
+    "title": "European, Asian Stocks Fall Amid Geopolitical Tensions - WSJ",
+    "slug": "european-asian-stocks-fall-amid-geopolitical-tensions-wsj",
+    "date": "2026-06-07",
+    "displayDate": "June 7, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "European and Asian stocks fell due to heightened geopolitical tensions, particularly amid the Israel-Iran conflict. US markets were closed for Juneteenth, and T",
+    "excerpt": "European and Asian stocks fell due to heightened geopolitical tensions, particularly amid the Israel-Iran conflict. US markets were closed for Juneteenth, and Trump had approved attack plans against Iran but held off. Oil prices fluctuated, while gold futures eased and the U.S. dollar strengthened.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "European, Asian Stocks Fall Amid Geopolitical Tensions - WSJ"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "fed-holds-interest-rates-steady-for-third-straight-meeting-as-powell",
+    "type": "news",
+    "title": "Fed holds interest rates steady for third straight meeting, as Powell ...",
+    "slug": "fed-holds-interest-rates-steady-for-third-straight-meeting-as-powell",
+    "date": "2026-06-07",
+    "displayDate": "June 7, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Reserve held interest rates steady for the third consecutive meeting, maintaining the range of 5.25%-5.50%, the highest since 2001. Chair Jerome Pow",
+    "excerpt": "The Federal Reserve held interest rates steady for the third consecutive meeting, maintaining the range of 5.25%-5.50%, the highest since 2001. Chair Jerome Powell announced plans to stay on as a board governor after his term ends. The decision reflects ongoing economic uncertainties and elevated in",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Fed holds interest rates steady for third straight meeting, as Powell ..."
     },
     "readingTime": 3
   },
@@ -420,6 +567,27 @@
     "readingTime": 3
   },
   {
+    "id": "federal-reserve-keeps-interest-rates-steady-as-inflation-uncertainty",
+    "type": "news",
+    "title": "Federal Reserve keeps interest rates steady as inflation uncertainty ...",
+    "slug": "federal-reserve-keeps-interest-rates-steady-as-inflation-uncertainty",
+    "date": "2026-06-07",
+    "displayDate": "June 7, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Reserve kept interest rates steady at 3.50% to 3.75% amid inflation uncertainty, slower hiring, and geopolitical tensions. Energy prices may help cu",
+    "excerpt": "The Federal Reserve kept interest rates steady at 3.50% to 3.75% amid inflation uncertainty, slower hiring, and geopolitical tensions. Energy prices may help curb inflation, but shelter costs remain a concern.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Federal Reserve keeps interest rates steady as inflation uncertainty ..."
+    },
+    "readingTime": 3
+  },
+  {
     "id": "federal-reserve-keeps-interest-rates-steady-as-inflation",
     "type": "news",
     "title": "Federal Reserve keeps interest rates steady as inflation ...",
@@ -437,6 +605,48 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "Federal Reserve keeps interest rates steady as inflation ..."
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "gdp-cpi-and-other-key-economic-reports-bankrate",
+    "type": "news",
+    "title": "GDP, CPI and other key economic reports - Bankrate",
+    "slug": "gdp-cpi-and-other-key-economic-reports-bankrate",
+    "date": "2026-06-07",
+    "displayDate": "June 7, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The latest GDP, CPI, and other key economic reports are available on Bankrate, showing US economic performance metrics like gross domestic product and consumer ",
+    "excerpt": "The latest GDP, CPI, and other key economic reports are available on Bankrate, showing US economic performance metrics like gross domestic product and consumer price index.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "GDP, CPI and other key economic reports - Bankrate"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "global-companies-reports-and-earnings-tradingview",
+    "type": "news",
+    "title": "Global Companies Reports and Earnings - TradingView",
+    "slug": "global-companies-reports-and-earnings-tradingview",
+    "date": "2026-06-07",
+    "displayDate": "June 7, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Global companies' earnings reports and schedules are available on TradingView, Trading Economics, and Nasdaq. Key metrics include EPS, revenue, and market capit",
+    "excerpt": "Global companies' earnings reports and schedules are available on TradingView, Trading Economics, and Nasdaq. Key metrics include EPS, revenue, and market capitalization. Use these resources for financial analysis.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Global Companies Reports and Earnings - TradingView"
     },
     "readingTime": 3
   },
@@ -546,6 +756,27 @@
     "readingTime": 3
   },
   {
+    "id": "how-to-invest-in-today-s-market-u-s-bank",
+    "type": "news",
+    "title": "How to Invest in Today's Market | U.S. Bank",
+    "slug": "how-to-invest-in-today-s-market-u-s-bank",
+    "date": "2026-06-07",
+    "displayDate": "June 7, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "To invest in today's market, separate short-term needs from long-term funds. Start with a solid financial foundation, define your strategy, and choose appropria",
+    "excerpt": "To invest in today's market, separate short-term needs from long-term funds. Start with a solid financial foundation, define your strategy, and choose appropriate investment accounts. Regularly review your plan.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "How to Invest in Today's Market | U.S. Bank"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "huge-bitcoin-ethereum-xrp-news-crypto-youtube",
     "type": "news",
     "title": "HUGE BITCOIN, ETHEREUM, & XRP NEWS! CRYPTO ... - YouTube",
@@ -609,6 +840,27 @@
     "readingTime": 3
   },
   {
+    "id": "latest-asia-stock-market-news",
+    "type": "news",
+    "title": "Latest: Asia Stock Market News",
+    "slug": "latest-asia-stock-market-news",
+    "date": "2026-06-07",
+    "displayDate": "June 7, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Tokyo, Seoul, and Hong Kong stocks fell due to Broadcom's disappointing forecast and US Fed rate hike concerns. Nasdaq also dropped amid AI cost worries. South ",
+    "excerpt": "Tokyo, Seoul, and Hong Kong stocks fell due to Broadcom's disappointing forecast and US Fed rate hike concerns. Nasdaq also dropped amid AI cost worries. South Korean stocks surged on debt-fueled bets.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Latest: Asia Stock Market News"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "latest-technology-news-and-reviews-yahoo-finance",
     "type": "news",
     "title": "Latest Technology News and Reviews - Yahoo Finance",
@@ -626,6 +878,27 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "Latest Technology News and Reviews - Yahoo Finance"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "meta-title-sectors-yahoo-finance",
+    "type": "news",
+    "title": "META_TITLE_SECTORS - Yahoo Finance",
+    "slug": "meta-title-sectors-yahoo-finance",
+    "date": "2026-06-07",
+    "displayDate": "June 7, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The technology sector includes sub-sectors like semiconductors, software, and consumer electronics. Yahoo Finance lists technology as a major sector with variou",
+    "excerpt": "The technology sector includes sub-sectors like semiconductors, software, and consumer electronics. Yahoo Finance lists technology as a major sector with various sub-sectors. The technology sector is currently experiencing minor fluctuations.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "META_TITLE_SECTORS - Yahoo Finance"
     },
     "readingTime": 3
   },
@@ -1050,6 +1323,48 @@
     "readingTime": 3
   },
   {
+    "id": "united-states-federal-reserve-interest-rate-decision-investing-com",
+    "type": "news",
+    "title": "United States Federal Reserve Interest Rate Decision - Investing.com",
+    "slug": "united-states-federal-reserve-interest-rate-decision-investing-com",
+    "date": "2026-06-07",
+    "displayDate": "June 7, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Reserve's interest rate decision is set at 3.75%. The decision was not unanimous, with four officials dissenting. The rate decision impacts currency",
+    "excerpt": "The Federal Reserve's interest rate decision is set at 3.75%. The decision was not unanimous, with four officials dissenting. The rate decision impacts currency valuation, with higher rates bullish for the USD.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "United States Federal Reserve Interest Rate Decision - Investing.com"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "us-earnings-season-q1-2026-ii-interactive-investor",
+    "type": "news",
+    "title": "US earnings season - Q1 2026 - ii - Interactive Investor",
+    "slug": "us-earnings-season-q1-2026-ii-interactive-investor",
+    "date": "2026-06-07",
+    "displayDate": "June 7, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "US earnings season for Q1 2026 saw S&P 500 index earnings grow by 28.4%, the highest since Q4 2021, indicating strong corporate performance. This growth sets a ",
+    "excerpt": "US earnings season for Q1 2026 saw S&P 500 index earnings grow by 28.4%, the highest since Q4 2021, indicating strong corporate performance. This growth sets a positive tone for the year, with sectors like technology and healthcare leading the gains. Investors are closely watching these results to g",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "US earnings season - Q1 2026 - ii - Interactive Investor"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "us-stock-market-s-p-500-spx-projections-analysis-youtube",
     "type": "news",
     "title": "US Stock Market S&P 500 SPX Projections & Analysis - YouTube",
@@ -1067,6 +1382,27 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "US Stock Market S&P 500 SPX Projections & Analysis - YouTube"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "wall-street-ends-sharply-lower-as-jobs-data-fuels-rate-hike-fears",
+    "type": "news",
+    "title": "Wall Street ends sharply lower as jobs data fuels rate hike fears",
+    "slug": "wall-street-ends-sharply-lower-as-jobs-data-fuels-rate-hike-fears",
+    "date": "2026-06-07",
+    "displayDate": "June 7, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Wall Street ended sharply lower, with tech stocks and chipmakers leading the decline, due to fears of rising interest rates following a strong jobs report. The ",
+    "excerpt": "Wall Street ended sharply lower, with tech stocks and chipmakers leading the decline, due to fears of rising interest rates following a strong jobs report. The Nasdaq experienced its biggest daily drop since April 2025. The S&P 500 ended its nine-week winning streak.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Wall Street ends sharply lower as jobs data fuels rate hike fears"
     },
     "readingTime": 3
   },
@@ -1659,69 +1995,6 @@
     "readingTime": 3
   },
   {
-    "id": "gdp-cpi-and-other-key-economic-reports-bankrate",
-    "type": "news",
-    "title": "GDP, CPI and other key economic reports - Bankrate",
-    "slug": "gdp-cpi-and-other-key-economic-reports-bankrate",
-    "date": "2026-06-06",
-    "displayDate": "June 6, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "GDP, CPI, and other key economic reports are available on Bankrate and the Federal Reserve Economic Data (FRED) platform. FRED provides extensive historical eco",
-    "excerpt": "GDP, CPI, and other key economic reports are available on Bankrate and the Federal Reserve Economic Data (FRED) platform. FRED provides extensive historical economic data and current releases.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "GDP, CPI and other key economic reports - Bankrate"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "global-companies-reports-and-earnings-tradingview",
-    "type": "news",
-    "title": "Global Companies Reports and Earnings - TradingView",
-    "slug": "global-companies-reports-and-earnings-tradingview",
-    "date": "2026-06-06",
-    "displayDate": "June 6, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Global companies' earnings reports and updates are tracked on TradingView's earnings calendar and news sections. Key metrics and company activities are availabl",
-    "excerpt": "Global companies' earnings reports and updates are tracked on TradingView's earnings calendar and news sections. Key metrics and company activities are available for informed trading decisions. The calendar includes essential data like EPS and market capitalization.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Global Companies Reports and Earnings - TradingView"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "how-to-invest-in-today-s-market-u-s-bank",
-    "type": "news",
-    "title": "How to Invest in Today's Market | U.S. Bank",
-    "slug": "how-to-invest-in-today-s-market-u-s-bank",
-    "date": "2026-06-06",
-    "displayDate": "June 6, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "To invest in today's market, start by assessing your financial health, define your investment goals, and choose suitable accounts. Consult a financial advisor f",
-    "excerpt": "To invest in today's market, start by assessing your financial health, define your investment goals, and choose suitable accounts. Consult a financial advisor for personalized guidance.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "How to Invest in Today's Market | U.S. Bank"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "investment-strategies-for-today-and-long-term-blackrock",
     "type": "news",
     "title": "Investment strategies for today and long-term - BlackRock",
@@ -1781,27 +2054,6 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "Is Broadcom a Buy After Its Latest Earnings Report?"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "latest-asia-stock-market-news",
-    "type": "news",
-    "title": "Latest: Asia Stock Market News",
-    "slug": "latest-asia-stock-market-news",
-    "date": "2026-06-06",
-    "displayDate": "June 6, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Tokyo, Seoul, and Hong Kong stocks declined due to Broadcom's disappointing forecast and US Fed rate hike concerns. South Korean stocks surged on debt-fueled be",
-    "excerpt": "Tokyo, Seoul, and Hong Kong stocks declined due to Broadcom's disappointing forecast and US Fed rate hike concerns. South Korean stocks surged on debt-fueled bets. Japan's market data shows ongoing AI trade impacts.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Latest: Asia Stock Market News"
     },
     "readingTime": 3
   },
@@ -2075,27 +2327,6 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "U.S. stocks slump as Big Tech sinks and a strong May jobs report boosts odds for higher interest rates"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "united-states-federal-reserve-interest-rate-decision-investing-com",
-    "type": "news",
-    "title": "United States Federal Reserve Interest Rate Decision - Investing.com",
-    "slug": "united-states-federal-reserve-interest-rate-decision-investing-com",
-    "date": "2026-06-06",
-    "displayDate": "June 6, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Reserve's interest rate decision is scheduled for June 17, 2026. The current rate is 3.75%. The next rate decision will be announced on this date.",
-    "excerpt": "The Federal Reserve's interest rate decision is scheduled for June 17, 2026. The current rate is 3.75%. The next rate decision will be announced on this date.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "United States Federal Reserve Interest Rate Decision - Investing.com"
     },
     "readingTime": 3
   },
