@@ -1,5 +1,47 @@
 [
   {
+    "id": "10-best-investments-for-2026-bankrate",
+    "type": "news",
+    "title": "10 Best Investments For 2026 | Bankrate",
+    "slug": "10-best-investments-for-2026-bankrate",
+    "date": "2026-06-07",
+    "displayDate": "June 7, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "High-yield savings accounts, CD ladders, and S&P 500 index funds are among the best investments for 2026, offering stability and growth potential.",
+    "excerpt": "High-yield savings accounts, CD ladders, and S&P 500 index funds are among the best investments for 2026, offering stability and growth potential.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "10 Best Investments For 2026 | Bankrate"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "10-best-investments-where-to-invest-in-2026-nerdwallet",
+    "type": "news",
+    "title": "10 Best Investments: Where to Invest in 2026 - NerdWallet",
+    "slug": "10-best-investments-where-to-invest-in-2026-nerdwallet",
+    "date": "2026-06-07",
+    "displayDate": "June 7, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "For 2026, consider high-yield savings accounts, corporate bonds, and diversified index funds for balanced risk and returns.",
+    "excerpt": "For 2026, consider high-yield savings accounts, corporate bonds, and diversified index funds for balanced risk and returns.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "10 Best Investments: Where to Invest in 2026 - NerdWallet"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "2026-outlook-portfolio-wide-views-cambridge-associates",
     "type": "news",
     "title": "2026 Outlook: Portfolio-Wide Views - Cambridge Associates",
@@ -21,6 +63,27 @@
     "readingTime": 3
   },
   {
+    "id": "5-strategies-to-navigate-market-volatility-morgan-stanley",
+    "type": "news",
+    "title": "5 Strategies to Navigate Market Volatility - Morgan Stanley",
+    "slug": "5-strategies-to-navigate-market-volatility-morgan-stanley",
+    "date": "2026-06-07",
+    "displayDate": "June 7, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "To navigate market volatility, remain focused on your long-term plan, embrace consistency with dollar-cost averaging, and take advantage of periodic drawdowns. ",
+    "excerpt": "To navigate market volatility, remain focused on your long-term plan, embrace consistency with dollar-cost averaging, and take advantage of periodic drawdowns. These strategies help maintain financial stability and achieve long-term goals.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "5 Strategies to Navigate Market Volatility - Morgan Stanley"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "coindesk-bitcoin-ethereum-xrp-crypto-news-and-price-data",
     "type": "news",
     "title": "CoinDesk: Bitcoin, Ethereum, XRP, Crypto News and Price Data",
@@ -38,6 +101,27 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "CoinDesk: Bitcoin, Ethereum, XRP, Crypto News and Price Data"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "consumer-price-index-1913-federal-reserve-bank-of-minneapolis",
+    "type": "news",
+    "title": "Consumer Price Index, 1913- | Federal Reserve Bank of Minneapolis",
+    "slug": "consumer-price-index-1913-federal-reserve-bank-of-minneapolis",
+    "date": "2026-06-07",
+    "displayDate": "June 7, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Consumer Price Index (CPI) from 1913 onward is maintained by the Federal Reserve Bank of Minneapolis, with official U.S. data starting in 1913. The CPI meas",
+    "excerpt": "The Consumer Price Index (CPI) from 1913 onward is maintained by the Federal Reserve Bank of Minneapolis, with official U.S. data starting in 1913. The CPI measures average price changes for a basket of goods and services. The CPI for 2024 is higher than in 1913 due to inflation.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Consumer Price Index, 1913- | Federal Reserve Bank of Minneapolis"
     },
     "readingTime": 3
   },
@@ -105,6 +189,27 @@
     "readingTime": 3
   },
   {
+    "id": "earnings-calendar-2026-daily-earnings-reports-marketbeat",
+    "type": "news",
+    "title": "Earnings Calendar 2026 | Daily Earnings Reports - MarketBeat",
+    "slug": "earnings-calendar-2026-daily-earnings-reports-marketbeat",
+    "date": "2026-06-07",
+    "displayDate": "June 7, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The earnings calendar for 2026 includes reports from Oracle, Adobe, Accenture, FedEx, Micron Technology, NIKE, Fastenal, and Bank of America. Oracle's Q4 2026 e",
+    "excerpt": "The earnings calendar for 2026 includes reports from Oracle, Adobe, Accenture, FedEx, Micron Technology, NIKE, Fastenal, and Bank of America. Oracle's Q4 2026 earnings are expected on June 10, 2026. For the most current details, check the official earnings reports.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Earnings Calendar 2026 | Daily Earnings Reports - MarketBeat"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "earnings-calendar-and-analysis-for-this-week-june-8-12-kiplinger",
     "type": "news",
     "title": "Earnings Calendar and Analysis for This Week (June 8-12) | Kiplinger",
@@ -143,6 +248,48 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "Earnings Calendar - Investing.com"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "earnings-cnbc",
+    "type": "news",
+    "title": "Earnings - CNBC",
+    "slug": "earnings-cnbc",
+    "date": "2026-06-07",
+    "displayDate": "June 7, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "CNBC provides earnings rundowns, investment ideas, and highlights for companies, helping investors make informed decisions. The most recent data is available on",
+    "excerpt": "CNBC provides earnings rundowns, investment ideas, and highlights for companies, helping investors make informed decisions. The most recent data is available on their dedicated earnings pages.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Earnings - CNBC"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "earnings-scheduled-for-monday-june-8-2026-earnings-whispers",
+    "type": "news",
+    "title": "Earnings Scheduled for Monday, June 8, 2026 - Earnings Whispers",
+    "slug": "earnings-scheduled-for-monday-june-8-2026-earnings-whispers",
+    "date": "2026-06-07",
+    "displayDate": "June 7, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "On Monday, June 8, 2026, Oracle, Adobe, FuelCell Energy, Chewy, and Vail Resorts are scheduled to release earnings. These companies are highly anticipated for t",
+    "excerpt": "On Monday, June 8, 2026, Oracle, Adobe, FuelCell Energy, Chewy, and Vail Resorts are scheduled to release earnings. These companies are highly anticipated for their financial reports.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Earnings Scheduled for Monday, June 8, 2026 - Earnings Whispers"
     },
     "readingTime": 3
   },
@@ -252,6 +399,27 @@
     "readingTime": 3
   },
   {
+    "id": "federal-open-market-committee-wikipedia",
+    "type": "news",
+    "title": "Federal Open Market Committee - Wikipedia",
+    "slug": "federal-open-market-committee-wikipedia",
+    "date": "2026-06-07",
+    "displayDate": "June 7, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Open Market Committee (FOMC) oversees the nation's open market operations and sets monetary policy. It consists of Federal Reserve Board members and",
+    "excerpt": "The Federal Open Market Committee (FOMC) oversees the nation's open market operations and sets monetary policy. It consists of Federal Reserve Board members and regional bank presidents. The FOMC influences the federal funds rate through buying and selling securities.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Federal Open Market Committee - Wikipedia"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "federal-reserve-keeps-interest-rates-steady-as-inflation",
     "type": "news",
     "title": "Federal Reserve keeps interest rates steady as inflation ...",
@@ -336,6 +504,111 @@
     "readingTime": 3
   },
   {
+    "id": "health-care-sector-industry-performance-bloomberg",
+    "type": "news",
+    "title": "Health Care Sector & Industry Performance - Bloomberg",
+    "slug": "health-care-sector-industry-performance-bloomberg",
+    "date": "2026-06-07",
+    "displayDate": "June 7, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The health care sector is a major component of the S&P 500, encompassing a wide range of industries from pharmaceuticals to biotechnology. It often includes non",
+    "excerpt": "The health care sector is a major component of the S&P 500, encompassing a wide range of industries from pharmaceuticals to biotechnology. It often includes noncyclical companies, but also speculative fields. Pfizer is investing heavily in weight-loss drugs to lead the sector.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Health Care Sector & Industry Performance - Bloomberg"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "healthcare-sector-morningstar",
+    "type": "news",
+    "title": "Healthcare Sector | Morningstar",
+    "slug": "healthcare-sector-morningstar",
+    "date": "2026-06-07",
+    "displayDate": "June 7, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The healthcare sector includes undervalued stocks like Zoetis and Danaher, and Morningstar provides insights on the Morningstar Health Care Index. Zoetis is tra",
+    "excerpt": "The healthcare sector includes undervalued stocks like Zoetis and Danaher, and Morningstar provides insights on the Morningstar Health Care Index. Zoetis is trading below its fair value estimate.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Healthcare Sector | Morningstar"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "huge-bitcoin-ethereum-xrp-news-crypto-youtube",
+    "type": "news",
+    "title": "HUGE BITCOIN, ETHEREUM, & XRP NEWS! CRYPTO ... - YouTube",
+    "slug": "huge-bitcoin-ethereum-xrp-news-crypto-youtube",
+    "date": "2026-06-07",
+    "displayDate": "June 7, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "BlackRock Bitcoin ETF experienced a significant selloff. Strive has acquired 1109 bitcoins, increasing its total holdings to 16500 coins. Ripple's XRP continues",
+    "excerpt": "BlackRock Bitcoin ETF experienced a significant selloff. Strive has acquired 1109 bitcoins, increasing its total holdings to 16500 coins. Ripple's XRP continues to be a major focus in crypto news.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "HUGE BITCOIN, ETHEREUM, & XRP NEWS! CRYPTO ... - YouTube"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "inflation-consumer-prices-annual-united-states",
+    "type": "news",
+    "title": "Inflation, consumer prices (annual %) - United States",
+    "slug": "inflation-consumer-prices-annual-united-states",
+    "date": "2026-06-07",
+    "displayDate": "June 7, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The annual inflation rate for consumer prices in the United States is 3.80% as of April 2026. This figure reflects changes in the cost of living based on the Co",
+    "excerpt": "The annual inflation rate for consumer prices in the United States is 3.80% as of April 2026. This figure reflects changes in the cost of living based on the Consumer Price Index. The data is sourced from Trading Economics.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Inflation, consumer prices (annual %) - United States"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "inflation-economic-data-series-fred-st-louis-fed",
+    "type": "news",
+    "title": "Inflation - Economic Data Series | FRED | St. Louis Fed",
+    "slug": "inflation-economic-data-series-fred-st-louis-fed",
+    "date": "2026-06-07",
+    "displayDate": "June 7, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Inflation data is available on the St. Louis Fed's FRED database, showing annual and CPI metrics. The data includes historical economic series and tools for ana",
+    "excerpt": "Inflation data is available on the St. Louis Fed's FRED database, showing annual and CPI metrics. The data includes historical economic series and tools for analysis.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Inflation - Economic Data Series | FRED | St. Louis Fed"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "latest-technology-news-and-reviews-yahoo-finance",
     "type": "news",
     "title": "Latest Technology News and Reviews - Yahoo Finance",
@@ -353,6 +626,27 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "Latest Technology News and Reviews - Yahoo Finance"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "monetary-policy-federal-reserve-board",
+    "type": "news",
+    "title": "Monetary Policy - Federal Reserve Board",
+    "slug": "monetary-policy-federal-reserve-board",
+    "date": "2026-06-07",
+    "displayDate": "June 7, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Reserve implements monetary policy to achieve maximum employment and stable prices. The Federal Open Market Committee (FOMC) sets the federal funds ",
+    "excerpt": "The Federal Reserve implements monetary policy to achieve maximum employment and stable prices. The Federal Open Market Committee (FOMC) sets the federal funds rate target. The Fed's primary tool is adjusting interest rates.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Monetary Policy - Federal Reserve Board"
     },
     "readingTime": 3
   },
@@ -378,6 +672,48 @@
     "readingTime": 3
   },
   {
+    "id": "s-p-500-index-sp500-analysis-news-and-chart-today",
+    "type": "news",
+    "title": "S&P 500 Index (SP500) Analysis, News, And Chart Today",
+    "slug": "s-p-500-index-sp500-analysis-news-and-chart-today",
+    "date": "2026-06-07",
+    "displayDate": "June 7, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The S&P 500 Index reached a new 52-week high today at 7,620.90, surpassing previous highs. The current price is 7,537.36, with a previous close of 7,584.31. Tod",
+    "excerpt": "The S&P 500 Index reached a new 52-week high today at 7,620.90, surpassing previous highs. The current price is 7,537.36, with a previous close of 7,584.31. Today's high was 7,541.81 and low was 7,368.63.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "S&P 500 Index (SP500) Analysis, News, And Chart Today"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "s-p-500-index-technical-analysis-barchart-com",
+    "type": "news",
+    "title": "S&P 500 Index Technical Analysis - Barchart.com",
+    "slug": "s-p-500-index-technical-analysis-barchart-com",
+    "date": "2026-06-07",
+    "displayDate": "June 7, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The S&P 500 Index is currently at 7,546.29 with a 5-day average true range of 2.59%. The Barchart Technical Opinion rating is 80% Buy. The market data is delaye",
+    "excerpt": "The S&P 500 Index is currently at 7,546.29 with a 5-day average true range of 2.59%. The Barchart Technical Opinion rating is 80% Buy. The market data is delayed by 20 minutes.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "S&P 500 Index Technical Analysis - Barchart.com"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "s-p-sectors-weekly-performance-macromicro",
     "type": "news",
     "title": "S&P Sectors Weekly Performance(%) - MacroMicro",
@@ -395,6 +731,27 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "S&P Sectors Weekly Performance(%) - MacroMicro"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "sector-views-monthly-stock-sector-outlook-charles-schwab",
+    "type": "news",
+    "title": "Sector Views: Monthly Stock Sector Outlook - Charles Schwab",
+    "slug": "sector-views-monthly-stock-sector-outlook-charles-schwab",
+    "date": "2026-06-07",
+    "displayDate": "June 7, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Forward earnings growth is weak in Information Technology and cyclical sectors. Materials is highly cyclical, tied to global economic growth. Tactical portfolio",
+    "excerpt": "Forward earnings growth is weak in Information Technology and cyclical sectors. Materials is highly cyclical, tied to global economic growth. Tactical portfolio shifts can use sector ratings as a guide.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Sector Views: Monthly Stock Sector Outlook - Charles Schwab"
     },
     "readingTime": 3
   },
@@ -483,6 +840,27 @@
     "readingTime": 3
   },
   {
+    "id": "technology-news",
+    "type": "news",
+    "title": "Technology News",
+    "slug": "technology-news",
+    "date": "2026-06-07",
+    "displayDate": "June 7, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "TechNewsWorld reports on telecom cybersecurity alliances and AI advancements. CNBC highlights stock market forces and tech earnings. Reuters covers global busin",
+    "excerpt": "TechNewsWorld reports on telecom cybersecurity alliances and AI advancements. CNBC highlights stock market forces and tech earnings. Reuters covers global business and technology news.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Technology News"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "the-allocator-s-checklist-for-2026-and-beyond-wellington-management",
     "type": "news",
     "title": "The allocator’s checklist for 2026 and beyond | Wellington Management",
@@ -500,6 +878,48 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "The allocator’s checklist for 2026 and beyond | Wellington Management"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "the-block-bitcoin-ethereum-crypto-news-live-prices-data",
+    "type": "news",
+    "title": "The Block: Bitcoin, Ethereum & Crypto News | Live Prices, Data ...",
+    "slug": "the-block-bitcoin-ethereum-crypto-news-live-prices-data",
+    "date": "2026-06-07",
+    "displayDate": "June 7, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Block and CoinDesk are leading crypto news sites offering live prices and market insights on Bitcoin, Ethereum, and other digital assets. Both provide compr",
+    "excerpt": "The Block and CoinDesk are leading crypto news sites offering live prices and market insights on Bitcoin, Ethereum, and other digital assets. Both provide comprehensive coverage of the latest trends and developments in the cryptocurrency space.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "The Block: Bitcoin, Ethereum & Crypto News | Live Prices, Data ..."
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "the-fed-meeting-calendars-and-information-federal-reserve",
+    "type": "news",
+    "title": "The Fed - Meeting calendars and information - Federal Reserve",
+    "slug": "the-fed-meeting-calendars-and-information-federal-reserve",
+    "date": "2026-06-07",
+    "displayDate": "June 7, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Reserve holds eight regular FOMC meetings annually; the next meeting is on July 3, 2026. Federal Reserve staff do not speak publicly between the wee",
+    "excerpt": "The Federal Reserve holds eight regular FOMC meetings annually; the next meeting is on July 3, 2026. Federal Reserve staff do not speak publicly between the week before a meeting and the Thursday after. The Board of Governors is closed on July 3, 2026.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "The Fed - Meeting calendars and information - Federal Reserve"
     },
     "readingTime": 3
   },
@@ -525,6 +945,48 @@
     "readingTime": 3
   },
   {
+    "id": "u-s-bureau-of-economic-analysis-bea",
+    "type": "news",
+    "title": "U.S. Bureau of Economic Analysis (BEA)",
+    "slug": "u-s-bureau-of-economic-analysis-bea",
+    "date": "2026-06-07",
+    "displayDate": "June 7, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The U.S. Bureau of Economic Analysis (BEA) is a government agency that provides official economic statistics, including GDP, personal income, and industry data.",
+    "excerpt": "The U.S. Bureau of Economic Analysis (BEA) is a government agency that provides official economic statistics, including GDP, personal income, and industry data. It is part of the Department of Commerce. BEA ensures accurate and objective economic data.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "U.S. Bureau of Economic Analysis (BEA)"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "u-s-economic-calendar-marketwatch",
+    "type": "news",
+    "title": "U.S. Economic Calendar - MarketWatch",
+    "slug": "u-s-economic-calendar-marketwatch",
+    "date": "2026-06-07",
+    "displayDate": "June 7, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The U.S. Economic Calendar on MarketWatch lists key economic reports and events. Today's highlights include job openings and inflation data. Check MarketWatch f",
+    "excerpt": "The U.S. Economic Calendar on MarketWatch lists key economic reports and events. Today's highlights include job openings and inflation data. Check MarketWatch for the latest updates.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "U.S. Economic Calendar - MarketWatch"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "u-s-stock-market-headlines-breaking-stock-market-news-reuters",
     "type": "news",
     "title": "U.S. Stock Market Headlines | Breaking Stock Market News - Reuters",
@@ -546,6 +1008,27 @@
     "readingTime": 3
   },
   {
+    "id": "united-states-economic-indicators-moody-s-analytics",
+    "type": "news",
+    "title": "United States | Economic Indicators | Moody's Analytics",
+    "slug": "united-states-economic-indicators-moody-s-analytics",
+    "date": "2026-06-07",
+    "displayDate": "June 7, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The U.S. unemployment rate is 4.3% in April 2026, and GDP annual growth rate is 2.7% as of March 2026. The Producer Price Index was 275.9 in April 2026.",
+    "excerpt": "The U.S. unemployment rate is 4.3% in April 2026, and GDP annual growth rate is 2.7% as of March 2026. The Producer Price Index was 275.9 in April 2026.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "United States | Economic Indicators | Moody's Analytics"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "united-states-economy-at-a-glance-bureau-of-labor-statistics",
     "type": "news",
     "title": "United States Economy at a Glance - Bureau of Labor Statistics",
@@ -563,6 +1046,27 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "United States Economy at a Glance - Bureau of Labor Statistics"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "us-stock-market-s-p-500-spx-projections-analysis-youtube",
+    "type": "news",
+    "title": "US Stock Market S&P 500 SPX Projections & Analysis - YouTube",
+    "slug": "us-stock-market-s-p-500-spx-projections-analysis-youtube",
+    "date": "2026-06-07",
+    "displayDate": "June 7, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The S&P 500 projections suggest it could reach 7,500 by 2026. Cycle analysis and momentum indicators are used to predict market direction and timing. Market for",
+    "excerpt": "The S&P 500 projections suggest it could reach 7,500 by 2026. Cycle analysis and momentum indicators are used to predict market direction and timing. Market forecasts remain optimistic for the S&P 500's growth.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "US Stock Market S&P 500 SPX Projections & Analysis - YouTube"
     },
     "readingTime": 3
   },
@@ -647,27 +1151,6 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "2026 commercial real estate outlook"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "5-strategies-to-navigate-market-volatility-morgan-stanley",
-    "type": "news",
-    "title": "5 Strategies to Navigate Market Volatility - Morgan Stanley",
-    "slug": "5-strategies-to-navigate-market-volatility-morgan-stanley",
-    "date": "2026-06-06",
-    "displayDate": "June 6, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "To navigate market volatility, remain focused on your long-term plan, embrace consistency with dollar-cost averaging, and take advantage of periodic drawdowns. ",
-    "excerpt": "To navigate market volatility, remain focused on your long-term plan, embrace consistency with dollar-cost averaging, and take advantage of periodic drawdowns. Additionally, consider rebalancing thoughtfully and investing in stable assets like bonds.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "5 Strategies to Navigate Market Volatility - Morgan Stanley"
     },
     "readingTime": 3
   },
@@ -1092,27 +1575,6 @@
     "readingTime": 3
   },
   {
-    "id": "earnings-calendar-2026-daily-earnings-reports-marketbeat",
-    "type": "news",
-    "title": "Earnings Calendar 2026 | Daily Earnings Reports - MarketBeat",
-    "slug": "earnings-calendar-2026-daily-earnings-reports-marketbeat",
-    "date": "2026-06-06",
-    "displayDate": "June 6, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Oracle's Q4 2026 earnings are expected on June 10, 2026, with a call on June 8. FedEx and Micron Technology are also scheduled to report earnings in June 2026. ",
-    "excerpt": "Oracle's Q4 2026 earnings are expected on June 10, 2026, with a call on June 8. FedEx and Micron Technology are also scheduled to report earnings in June 2026. NIKE will report on June 30, 2026.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Earnings Calendar 2026 | Daily Earnings Reports - MarketBeat"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "earnings-calendar-marketwatch",
     "type": "news",
     "title": "Earnings Calendar - MarketWatch",
@@ -1155,27 +1617,6 @@
     "readingTime": 3
   },
   {
-    "id": "earnings-scheduled-for-monday-june-8-2026-earnings-whispers",
-    "type": "news",
-    "title": "Earnings Scheduled for Monday, June 8, 2026 - Earnings Whispers",
-    "slug": "earnings-scheduled-for-monday-june-8-2026-earnings-whispers",
-    "date": "2026-06-06",
-    "displayDate": "June 6, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "On Monday, June 8, 2026, Anixa Biosciences, BitFuFu Inc., Cango, and Chewy are scheduled to release earnings. This is the most anticipated earnings day for that",
-    "excerpt": "On Monday, June 8, 2026, Anixa Biosciences, BitFuFu Inc., Cango, and Chewy are scheduled to release earnings. This is the most anticipated earnings day for that date. The information is accurate as of June 6, 2026.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Earnings Scheduled for Monday, June 8, 2026 - Earnings Whispers"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "european-shares-climb-and-asian-shares-retreat-after-u-s-stocks-pause-their-reco",
     "type": "news",
     "title": "European shares climb and Asian shares retreat after U.S. stocks pause their record-breaking rally",
@@ -1193,27 +1634,6 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "European shares climb and Asian shares retreat after U.S. stocks pause their record-breaking rally"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "federal-open-market-committee-wikipedia",
-    "type": "news",
-    "title": "Federal Open Market Committee - Wikipedia",
-    "slug": "federal-open-market-committee-wikipedia",
-    "date": "2026-06-06",
-    "displayDate": "June 6, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Open Market Committee (FOMC) oversees the nation's open market operations and sets monetary policy. It consists of Federal Reserve Board members and",
-    "excerpt": "The Federal Open Market Committee (FOMC) oversees the nation's open market operations and sets monetary policy. It consists of Federal Reserve Board members and regional bank presidents. The FOMC influences the federal funds rate and manages the supply of credit.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Federal Open Market Committee - Wikipedia"
     },
     "readingTime": 3
   },
@@ -1407,27 +1827,6 @@
     "readingTime": 3
   },
   {
-    "id": "monetary-policy-federal-reserve-board",
-    "type": "news",
-    "title": "Monetary Policy - Federal Reserve Board",
-    "slug": "monetary-policy-federal-reserve-board",
-    "date": "2026-06-06",
-    "displayDate": "June 6, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Reserve sets U.S. monetary policy to achieve high employment and stable prices. It uses the federal funds rate as its main tool. The Federal Open Ma",
-    "excerpt": "The Federal Reserve sets U.S. monetary policy to achieve high employment and stable prices. It uses the federal funds rate as its main tool. The Federal Open Market Committee (FOMC) makes key decisions.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Monetary Policy - Federal Reserve Board"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "s-p-500-analysis-and-opinion-investing-com",
     "type": "news",
     "title": "S&P 500 Analysis and Opinion - Investing.com",
@@ -1445,27 +1844,6 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "S&P 500 Analysis and Opinion - Investing.com"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "s-p-500-index-sp500-analysis-news-and-chart-today",
-    "type": "news",
-    "title": "S&P 500 Index (SP500) Analysis, News, And Chart Today",
-    "slug": "s-p-500-index-sp500-analysis-news-and-chart-today",
-    "date": "2026-06-06",
-    "displayDate": "June 6, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The S&P 500 Index (.SPX) closed at 7,584.31 today, with a day high of 7,541.81 and a day low of 7,368.63. The 52-week high is 7,620.90 as of June 2, 2026.",
-    "excerpt": "The S&P 500 Index (.SPX) closed at 7,584.31 today, with a day high of 7,541.81 and a day low of 7,368.63. The 52-week high is 7,620.90 as of June 2, 2026.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "S&P 500 Index (SP500) Analysis, News, And Chart Today"
     },
     "readingTime": 3
   },
@@ -1638,48 +2016,6 @@
     "readingTime": 3
   },
   {
-    "id": "u-s-bureau-of-economic-analysis-bea",
-    "type": "news",
-    "title": "U.S. Bureau of Economic Analysis (BEA)",
-    "slug": "u-s-bureau-of-economic-analysis-bea",
-    "date": "2026-06-06",
-    "displayDate": "June 6, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The U.S. Bureau of Economic Analysis provides official macroeconomic data, including GDP, personal income, and industry statistics. It is part of the Department",
-    "excerpt": "The U.S. Bureau of Economic Analysis provides official macroeconomic data, including GDP, personal income, and industry statistics. It is part of the Department of Commerce. It aims for accuracy and objectivity in its reports.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "U.S. Bureau of Economic Analysis (BEA)"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "u-s-economic-calendar-marketwatch",
-    "type": "news",
-    "title": "U.S. Economic Calendar - MarketWatch",
-    "slug": "u-s-economic-calendar-marketwatch",
-    "date": "2026-06-06",
-    "displayDate": "June 6, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The U.S. Economic Calendar on MarketWatch lists upcoming economic indicators and events. For current data, visit www.marketwatch.com. The calendar is updated re",
-    "excerpt": "The U.S. Economic Calendar on MarketWatch lists upcoming economic indicators and events. For current data, visit www.marketwatch.com. The calendar is updated regularly.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "U.S. Economic Calendar - MarketWatch"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "u-s-indexes-are-dropping-after-a-strong-jobs-report-is-the-labor-market-a-proble",
     "type": "news",
     "title": "U.S. Indexes Are Dropping After a Strong Jobs Report. Is the Labor Market a Problem for the Stock Market?",
@@ -1739,27 +2075,6 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "U.S. stocks slump as Big Tech sinks and a strong May jobs report boosts odds for higher interest rates"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "united-states-economic-indicators-moody-s-analytics",
-    "type": "news",
-    "title": "United States | Economic Indicators | Moody's Analytics",
-    "slug": "united-states-economic-indicators-moody-s-analytics",
-    "date": "2026-06-06",
-    "displayDate": "June 6, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The United States' GDP annual growth rate is 2.7% as of March 2026, and the unemployment rate is 4.3% as of April 2026. Moody's Analytics provides extensive eco",
-    "excerpt": "The United States' GDP annual growth rate is 2.7% as of March 2026, and the unemployment rate is 4.3% as of April 2026. Moody's Analytics provides extensive economic data and forecasts for the U.S. states and metropolitan areas.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "United States | Economic Indicators | Moody's Analytics"
     },
     "readingTime": 3
   },

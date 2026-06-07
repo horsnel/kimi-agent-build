@@ -1,0 +1,52 @@
+{
+  "id": "earnings-cnbc",
+  "type": "news",
+  "title": "Earnings - CNBC",
+  "slug": "earnings-cnbc",
+  "date": "2026-06-07",
+  "displayDate": "June 7, 2026",
+  "author": "Sigma Capital",
+  "category": "Earnings",
+  "tags": [
+    "earnings",
+    "financial news",
+    "market update"
+  ],
+  "metaDescription": "CNBC provides earnings rundowns, investment ideas, and highlights for companies, helping investors make informed decisions. The most recent data is available on",
+  "excerpt": "CNBC provides earnings rundowns, investment ideas, and highlights for companies, helping investors make informed decisions. The most recent data is available on their dedicated earnings pages.",
+  "content": {
+    "introduction": "CNBC provides earnings rundowns, investment ideas, and highlights for companies, helping investors make informed decisions. The most recent data is available on their dedicated earnings pages.",
+    "body": [
+      "For a more in-depth look on navigating the market, CNBC's financial reporters weigh in on what every investor needs to know when it comes to companies'",
+      "View the Idea Generator lists to get the latest earnings activity. These lists allow you to quickly and easily scan for actionable investment ideas.",
+      "View the Idea Generator lists to get the latest earnings activity. These lists allow you to quickly and easily scan for actionable investment ideas."
+    ],
+    "keyTakeaways": [
+      "CNBC provides earnings rundowns, investment ideas, and highlights for companies, helping investors make informed decisio",
+      "For a more in-depth look on navigating the market, CNBC's financial reporters weigh in on what every investor needs to k",
+      "View the Idea Generator lists to get the latest earnings activity. These lists allow you to quickly and easily scan for "
+    ],
+    "source": "cnbc.com",
+    "sourceUrl": "https://www.cnbc.com/earnings"
+  },
+  "readingTime": 3,
+  "updatedAt": "2026-06-07T08:50:01.448Z",
+  "images": {
+    "thumbnail": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Earnings - CNBC"
+    },
+    "hero": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Earnings - CNBC"
+    },
+    "mid": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Earnings - CNBC"
+    }
+  },
+  "image": {
+    "src": "/images/article_thumb_5.jpg",
+    "alt": "Earnings - CNBC"
+  }
+}
