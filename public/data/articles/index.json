@@ -84,6 +84,27 @@
     "readingTime": 3
   },
   {
+    "id": "big-tech-just-delivered-the-most-consequential-earnings-week-of-2026",
+    "type": "news",
+    "title": "Big Tech just delivered the most consequential earnings week of 2026",
+    "slug": "big-tech-just-delivered-the-most-consequential-earnings-week-of-2026",
+    "date": "2026-06-08",
+    "displayDate": "June 8, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Google's parent company reported record revenue of $107 billion, with Google Cloud surpassing $20 billion for the first time. The Magnificent 7's strong earning",
+    "excerpt": "Google's parent company reported record revenue of $107 billion, with Google Cloud surpassing $20 billion for the first time. The Magnificent 7's strong earnings contributed to a 27.1% blended earnings growth rate for the S&P 500. This earnings week was deemed the most consequential of 2026.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Big Tech just delivered the most consequential earnings week of 2026"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "bitcoin-btc-news-analysis-and-forecast-fxstreet",
     "type": "news",
     "title": "Bitcoin (BTC) News, Analysis and Forecast - FXStreet",
@@ -143,6 +164,27 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "Bitcoin price today - BTC price chart & live trends - Kraken"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "btcusd-technical-analysis-for-bitcoin-usd-cryptocurrency",
+    "type": "news",
+    "title": "BTCUSD Technical Analysis for Bitcoin - USD Cryptocurrency",
+    "slug": "btcusd-technical-analysis-for-bitcoin-usd-cryptocurrency",
+    "date": "2026-06-08",
+    "displayDate": "June 8, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin (BTC-USD) technical analysis shows a sell signal; recent MACD is -1981.61, and RSI is 21.06. Bitcoin price is above $60,000. TradingView provides BTC te",
+    "excerpt": "Bitcoin (BTC-USD) technical analysis shows a sell signal; recent MACD is -1981.61, and RSI is 21.06. Bitcoin price is above $60,000. TradingView provides BTC technical ratings and news.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "BTCUSD Technical Analysis for Bitcoin - USD Cryptocurrency"
     },
     "readingTime": 3
   },
@@ -210,6 +252,27 @@
     "readingTime": 3
   },
   {
+    "id": "current-u-s-inflation-rate-is-3-8-chart-and-why-it-matters",
+    "type": "news",
+    "title": "Current U.S. Inflation Rate Is 3.8%: Chart and Why It Matters",
+    "slug": "current-u-s-inflation-rate-is-3-8-chart-and-why-it-matters",
+    "date": "2026-06-08",
+    "displayDate": "June 8, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The U.S. inflation rate is 3.8% as of June 2026, up from 3.3% in March. This rise is driven by increases in energy and shelter costs. Higher inflation can affec",
+    "excerpt": "The U.S. inflation rate is 3.8% as of June 2026, up from 3.3% in March. This rise is driven by increases in energy and shelter costs. Higher inflation can affect purchasing power and economic planning.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Current U.S. Inflation Rate Is 3.8%: Chart and Why It Matters"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "earnings-breaking-news-and-press-releases-business-wire",
     "type": "news",
     "title": "Earnings Breaking News and Press Releases - Business Wire",
@@ -248,6 +311,27 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "Earnings Calendar 2026 | Daily Earnings Reports"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "earnings-calendar-zacks-investment-research",
+    "type": "news",
+    "title": "Earnings Calendar - Zacks Investment Research",
+    "slug": "earnings-calendar-zacks-investment-research",
+    "date": "2026-06-08",
+    "displayDate": "June 8, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Zacks Investment Research's earnings calendar lists upcoming earnings reports, helping investors track company performance. The calendar includes details on ear",
+    "excerpt": "Zacks Investment Research's earnings calendar lists upcoming earnings reports, helping investors track company performance. The calendar includes details on earnings estimates and reported results. Zacks provides a comprehensive earnings calendar on its website.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Earnings Calendar - Zacks Investment Research"
     },
     "readingTime": 3
   },
@@ -357,6 +441,27 @@
     "readingTime": 3
   },
   {
+    "id": "federal-open-market-committee-wikipedia",
+    "type": "news",
+    "title": "Federal Open Market Committee - Wikipedia",
+    "slug": "federal-open-market-committee-wikipedia",
+    "date": "2026-06-08",
+    "displayDate": "June 8, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Open Market Committee (FOMC) oversees the Federal Reserve's open market operations, sets monetary policy, and influences the federal funds rate. It ",
+    "excerpt": "The Federal Open Market Committee (FOMC) oversees the Federal Reserve's open market operations, sets monetary policy, and influences the federal funds rate. It consists of Federal Reserve Board members and selected regional bank presidents. The current chairperson is Jerome Powell.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Federal Open Market Committee - Wikipedia"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "federal-reserve-keeps-interest-rates-steady-as-inflation-uncertainty",
     "type": "news",
     "title": "Federal Reserve keeps interest rates steady as inflation uncertainty ...",
@@ -395,6 +500,69 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "Global Companies Reports and Earnings - TradingView"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "global-market-headlines-breaking-stock-market-news-reuters",
+    "type": "news",
+    "title": "Global Market Headlines | Breaking Stock Market News | Reuters",
+    "slug": "global-market-headlines-breaking-stock-market-news-reuters",
+    "date": "2026-06-08",
+    "displayDate": "June 8, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Italy's Intesa Sanpaolo made a $35 billion bid for Monte dei Paschi. China announced an \"illegal\" outbound investment crackdown. Reuters reports these as top fi",
+    "excerpt": "Italy's Intesa Sanpaolo made a $35 billion bid for Monte dei Paschi. China announced an \"illegal\" outbound investment crackdown. Reuters reports these as top finance headlines.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Global Market Headlines | Breaking Stock Market News | Reuters"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "global-market-indices-international-markets-markets-insider",
+    "type": "news",
+    "title": "Global Market Indices | International Markets - Markets Insider",
+    "slug": "global-market-indices-international-markets-markets-insider",
+    "date": "2026-06-08",
+    "displayDate": "June 8, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Russell 2000 index is down 3.56% to 2,834.80. The TecDAX index is down 3.19% to 4,074.14. The AEX index is down 0.55% to 4,258.05.",
+    "excerpt": "The Russell 2000 index is down 3.56% to 2,834.80. The TecDAX index is down 3.19% to 4,074.14. The AEX index is down 0.55% to 4,258.05.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Global Market Indices | International Markets - Markets Insider"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "global-stock-market-news-and-world-indices-coverage-cnbc",
+    "type": "news",
+    "title": "Global Stock Market News and World Indices Coverage - CNBC",
+    "slug": "global-stock-market-news-and-world-indices-coverage-cnbc",
+    "date": "2026-06-08",
+    "displayDate": "June 8, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "European stock markets fluctuated with defense sector rallies and geopolitical tensions, while global indices and international investing trends were covered by",
+    "excerpt": "European stock markets fluctuated with defense sector rallies and geopolitical tensions, while global indices and international investing trends were covered by CNBC.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Global Stock Market News and World Indices Coverage - CNBC"
     },
     "readingTime": 3
   },
@@ -441,6 +609,90 @@
     "readingTime": 3
   },
   {
+    "id": "inflation-consumer-prices-annual-united-states",
+    "type": "news",
+    "title": "Inflation, consumer prices (annual %) - United States",
+    "slug": "inflation-consumer-prices-annual-united-states",
+    "date": "2026-06-08",
+    "displayDate": "June 8, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Inflation, consumer prices in the United States, as of June 2026, is tracked by the Federal Reserve Bank of St. Louis and the World Bank. The latest data shows ",
+    "excerpt": "Inflation, consumer prices in the United States, as of June 2026, is tracked by the Federal Reserve Bank of St. Louis and the World Bank. The latest data shows annual changes in consumer prices.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Inflation, consumer prices (annual %) - United States"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "inflation-economic-data-series-fred-st-louis-fed",
+    "type": "news",
+    "title": "Inflation - Economic Data Series | FRED | St. Louis Fed",
+    "slug": "inflation-economic-data-series-fred-st-louis-fed",
+    "date": "2026-06-08",
+    "displayDate": "June 8, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Inflation data is available on FRED from the St. Louis Fed, including CPI and 20-year inflation indexes. The CPI series has 4,901 entries. The 20-year inflation",
+    "excerpt": "Inflation data is available on FRED from the St. Louis Fed, including CPI and 20-year inflation indexes. The CPI series has 4,901 entries. The 20-year inflation series has only 2 entries.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Inflation - Economic Data Series | FRED | St. Louis Fed"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "investment-strategies-for-today-s-market-linkedin",
+    "type": "news",
+    "title": "Investment Strategies for Today's Market - LinkedIn",
+    "slug": "investment-strategies-for-today-s-market-linkedin",
+    "date": "2026-06-08",
+    "displayDate": "June 8, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Invest in high free cash flow companies for stability; diversify with low-cost index funds and maintain discipline over the long term; be cautious of market opt",
+    "excerpt": "Invest in high free cash flow companies for stability; diversify with low-cost index funds and maintain discipline over the long term; be cautious of market optimism as it may lead to risky investments.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Investment Strategies for Today's Market - LinkedIn"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "live-reaction-for-msft-meta-amzn-googl-more-youtube",
+    "type": "news",
+    "title": "Live Reaction for MSFT, META, AMZN, GOOGL & More - YouTube",
+    "slug": "live-reaction-for-msft-meta-amzn-googl-more-youtube",
+    "date": "2026-06-08",
+    "displayDate": "June 8, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Live reactions to earnings for MSFT, GOOGL, AMZN, and META are available on YouTube starting at 3:30 PM. Key insights and analysis are provided in real-time. Ch",
+    "excerpt": "Live reactions to earnings for MSFT, GOOGL, AMZN, and META are available on YouTube starting at 3:30 PM. Key insights and analysis are provided in real-time. Check YouTube for live updates.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Live Reaction for MSFT, META, AMZN, GOOGL & More - YouTube"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "meta-title-sectors-yahoo-finance",
     "type": "news",
     "title": "META_TITLE_SECTORS - Yahoo Finance",
@@ -458,6 +710,27 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "META_TITLE_SECTORS - Yahoo Finance"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "monetary-policy-federal-reserve-board",
+    "type": "news",
+    "title": "Monetary Policy - Federal Reserve Board",
+    "slug": "monetary-policy-federal-reserve-board",
+    "date": "2026-06-08",
+    "displayDate": "June 8, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Reserve implements monetary policy to promote maximum employment and stable prices. The Federal Open Market Committee (FOMC) sets the federal funds ",
+    "excerpt": "The Federal Reserve implements monetary policy to promote maximum employment and stable prices. The Federal Open Market Committee (FOMC) sets the federal funds rate target. The Fed's primary tool is adjusting interest rates.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Monetary Policy - Federal Reserve Board"
     },
     "readingTime": 3
   },
@@ -525,6 +798,27 @@
     "readingTime": 3
   },
   {
+    "id": "s-p-sectors-weekly-performance-macromicro",
+    "type": "news",
+    "title": "S&P Sectors Weekly Performance(%) - MacroMicro",
+    "slug": "s-p-sectors-weekly-performance-macromicro",
+    "date": "2026-06-08",
+    "displayDate": "June 8, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "As of 2026-06-05, Information Technology dropped 5.42%, Utilities fell 0.31%, Real Estate rose 1.52%, and Health Care increased 2.31% in weekly S&P sector perfo",
+    "excerpt": "As of 2026-06-05, Information Technology dropped 5.42%, Utilities fell 0.31%, Real Estate rose 1.52%, and Health Care increased 2.31% in weekly S&P sector performance.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "S&P Sectors Weekly Performance(%) - MacroMicro"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "sector-views-monthly-stock-sector-outlook-charles-schwab",
     "type": "news",
     "title": "Sector Views: Monthly Stock Sector Outlook - Charles Schwab",
@@ -546,6 +840,90 @@
     "readingTime": 3
   },
   {
+    "id": "sectors-stock-market-usa-tradingview",
+    "type": "news",
+    "title": "Sectors — Stock Market — USA — TradingView",
+    "slug": "sectors-stock-market-usa-tradingview",
+    "date": "2026-06-08",
+    "displayDate": "June 8, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The US stock market sectors include Technology Services, Finance, Utilities, Industrial Services, and Transportation. The S&P 500 sectors are Consumer Discretio",
+    "excerpt": "The US stock market sectors include Technology Services, Finance, Utilities, Industrial Services, and Transportation. The S&P 500 sectors are Consumer Discretionary, Consumer Staples, Health Care, Industrials, Materials, and Real Estate. The market sectors' performance varies daily.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Sectors — Stock Market — USA — TradingView"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "the-fed-meeting-calendars-and-information",
+    "type": "news",
+    "title": "The Fed - Meeting calendars and information",
+    "slug": "the-fed-meeting-calendars-and-information",
+    "date": "2026-06-08",
+    "displayDate": "June 8, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Reserve's next FOMC meeting is on July 30-31, 2026. The Federal Reserve Banks are closed on July 3, 2026, and July 5, 2027. Staff do not speak publi",
+    "excerpt": "The Federal Reserve's next FOMC meeting is on July 30-31, 2026. The Federal Reserve Banks are closed on July 3, 2026, and July 5, 2027. Staff do not speak publicly between FOMC meetings.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "The Fed - Meeting calendars and information"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "this-week-s-best-performing-stocks-sectors-industries-rankings",
+    "type": "news",
+    "title": "This Week's Best Performing Stocks, Sectors, Industries Rankings",
+    "slug": "this-week-s-best-performing-stocks-sectors-industries-rankings",
+    "date": "2026-06-08",
+    "displayDate": "June 8, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "This week, the best-performing sectors were Utilities and Communications, with significant gains. Leading stocks included Dell Technologies and Micron Technolog",
+    "excerpt": "This week, the best-performing sectors were Utilities and Communications, with significant gains. Leading stocks included Dell Technologies and Micron Technology. Sectors like Technology Services and Finance also showed notable performance.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "This Week's Best Performing Stocks, Sectors, Industries Rankings"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "u-s-bureau-of-economic-analysis-bea",
+    "type": "news",
+    "title": "U.S. Bureau of Economic Analysis (BEA)",
+    "slug": "u-s-bureau-of-economic-analysis-bea",
+    "date": "2026-06-08",
+    "displayDate": "June 8, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The U.S. Bureau of Economic Analysis (BEA) is a government agency that provides official macroeconomic and industry statistics, including GDP, personal income, ",
+    "excerpt": "The U.S. Bureau of Economic Analysis (BEA) is a government agency that provides official macroeconomic and industry statistics, including GDP, personal income, and corporate profits. It is part of the Department of Commerce and aims to deliver timely and accurate economic data.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "U.S. Bureau of Economic Analysis (BEA)"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "u-s-economic-calendar-marketwatch",
     "type": "news",
     "title": "U.S. Economic Calendar - MarketWatch",
@@ -563,6 +941,48 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "U.S. Economic Calendar - MarketWatch"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "u-s-stock-market-headlines-breaking-stock-market-news-reuters",
+    "type": "news",
+    "title": "U.S. Stock Market Headlines | Breaking Stock Market News - Reuters",
+    "slug": "u-s-stock-market-headlines-breaking-stock-market-news-reuters",
+    "date": "2026-06-08",
+    "displayDate": "June 8, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The U.S. stock market experienced a sharp decline as jobs data raised concerns about interest rate hikes. Nasdaq fell due to fears of rate hikes and AI-related ",
+    "excerpt": "The U.S. stock market experienced a sharp decline as jobs data raised concerns about interest rate hikes. Nasdaq fell due to fears of rate hikes and AI-related costs. Current market trends reflect these economic anxieties.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "U.S. Stock Market Headlines | Breaking Stock Market News - Reuters"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "united-states-economic-indicators-moody-s-analytics",
+    "type": "news",
+    "title": "United States | Economic Indicators | Moody's Analytics",
+    "slug": "united-states-economic-indicators-moody-s-analytics",
+    "date": "2026-06-08",
+    "displayDate": "June 8, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The U.S. GDP growth rate is 2.7% annually and the unemployment rate is 4.3% as of May 2026. Moody's Analytics provides comprehensive economic forecasts and data",
+    "excerpt": "The U.S. GDP growth rate is 2.7% annually and the unemployment rate is 4.3% as of May 2026. Moody's Analytics provides comprehensive economic forecasts and data for U.S. states and metropolitan areas.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "United States | Economic Indicators | Moody's Analytics"
     },
     "readingTime": 3
   },
@@ -605,6 +1025,69 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "United States Federal Reserve Interest Rate Decision - Investing.com"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "us-stock-market-earnings-calendar",
+    "type": "news",
+    "title": "US Stock Market Earnings Calendar",
+    "slug": "us-stock-market-earnings-calendar",
+    "date": "2026-06-08",
+    "displayDate": "June 8, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "No US stock earnings announcements are scheduled for June 8, 2026. MarketWatch and Yahoo Finance also show no upcoming earnings for this date.",
+    "excerpt": "No US stock earnings announcements are scheduled for June 8, 2026. MarketWatch and Yahoo Finance also show no upcoming earnings for this date.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "US Stock Market Earnings Calendar"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "wall-street-ends-sharply-lower-as-jobs-data-fuels-rate-hike-fears",
+    "type": "news",
+    "title": "Wall Street ends sharply lower as jobs data fuels rate hike fears",
+    "slug": "wall-street-ends-sharply-lower-as-jobs-data-fuels-rate-hike-fears",
+    "date": "2026-06-08",
+    "displayDate": "June 8, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Wall Street's nine-week winning streak ended sharply lower, with tech stocks, especially chipmakers, leading the decline after a strong May jobs report raised r",
+    "excerpt": "Wall Street's nine-week winning streak ended sharply lower, with tech stocks, especially chipmakers, leading the decline after a strong May jobs report raised rate hike fears. The Nasdaq saw its biggest daily drop since April 2025.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Wall Street ends sharply lower as jobs data fuels rate hike fears"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "weekly-trader-s-stock-market-outlook-charles-schwab",
+    "type": "news",
+    "title": "Weekly Trader's Stock Market Outlook | Charles Schwab",
+    "slug": "weekly-trader-s-stock-market-outlook-charles-schwab",
+    "date": "2026-06-08",
+    "displayDate": "June 8, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The stock market is experiencing a sell-off due to rising bond yields and potential rate hikes, along with the upcoming SpaceX IPO and seasonal trends. The S&P ",
+    "excerpt": "The stock market is experiencing a sell-off due to rising bond yields and potential rate hikes, along with the upcoming SpaceX IPO and seasonal trends. The S&P 500 has rallied significantly without a pullback. June is historically not a bullish month.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Weekly Trader's Stock Market Outlook | Charles Schwab"
     },
     "readingTime": 3
   },
@@ -668,27 +1151,6 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "5 Strategies to Navigate Market Volatility - Morgan Stanley"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "big-tech-just-delivered-the-most-consequential-earnings-week-of-2026",
-    "type": "news",
-    "title": "Big Tech just delivered the most consequential earnings week of 2026",
-    "slug": "big-tech-just-delivered-the-most-consequential-earnings-week-of-2026",
-    "date": "2026-06-07",
-    "displayDate": "June 7, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Google's parent company delivered the standout earnings result of 2026, with revenue of $107 billion and Google Cloud surpassing $20 billion for the first time.",
-    "excerpt": "Google's parent company delivered the standout earnings result of 2026, with revenue of $107 billion and Google Cloud surpassing $20 billion for the first time. The Magnificent 7 tech companies significantly drove the S&P 500's blended earnings growth rate to 27.1% year-over-year.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Big Tech just delivered the most consequential earnings week of 2026"
     },
     "readingTime": 3
   },
@@ -1029,27 +1491,6 @@
     "readingTime": 3
   },
   {
-    "id": "federal-open-market-committee-wikipedia",
-    "type": "news",
-    "title": "Federal Open Market Committee - Wikipedia",
-    "slug": "federal-open-market-committee-wikipedia",
-    "date": "2026-06-07",
-    "displayDate": "June 7, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Open Market Committee (FOMC) oversees the nation's open market operations and sets monetary policy. It consists of Federal Reserve Board members and",
-    "excerpt": "The Federal Open Market Committee (FOMC) oversees the nation's open market operations and sets monetary policy. It consists of Federal Reserve Board members and regional bank presidents. The FOMC influences the federal funds rate through buying and selling securities.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Federal Open Market Committee - Wikipedia"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "federal-reserve-keeps-interest-rates-steady-as-inflation",
     "type": "news",
     "title": "Federal Reserve keeps interest rates steady as inflation ...",
@@ -1088,69 +1529,6 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "GDP, CPI and other key economic reports - Bankrate"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "global-market-headlines-breaking-stock-market-news-reuters",
-    "type": "news",
-    "title": "Global Market Headlines | Breaking Stock Market News - Reuters",
-    "slug": "global-market-headlines-breaking-stock-market-news-reuters",
-    "date": "2026-06-07",
-    "displayDate": "June 7, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Global market headlines and breaking stock market news are available on Reuters.com, featuring the latest international finance updates. The site provides compr",
-    "excerpt": "Global market headlines and breaking stock market news are available on Reuters.com, featuring the latest international finance updates. The site provides comprehensive coverage of global market data, rates, bonds, and stocks.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Global Market Headlines | Breaking Stock Market News - Reuters"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "global-market-indices-international-markets-markets-insider",
-    "type": "news",
-    "title": "Global Market Indices | International Markets - Markets Insider",
-    "slug": "global-market-indices-international-markets-markets-insider",
-    "date": "2026-06-07",
-    "displayDate": "June 7, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Russell 2000 index closed at 2,920.80, down 18.5 points (-0.63%). The AEX index in the Netherlands closed at 4,258.05, down 23.36 points (-0.55%). The VIX i",
-    "excerpt": "The Russell 2000 index closed at 2,920.80, down 18.5 points (-0.63%). The AEX index in the Netherlands closed at 4,258.05, down 23.36 points (-0.55%). The VIX index closed at 15.81, up 0.41 points (+2.66%).",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Global Market Indices | International Markets - Markets Insider"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "global-stock-market-news-and-world-indices-coverage-cnbc",
-    "type": "news",
-    "title": "Global Stock Market News and World Indices Coverage - CNBC",
-    "slug": "global-stock-market-news-and-world-indices-coverage-cnbc",
-    "date": "2026-06-07",
-    "displayDate": "June 7, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "European stocks fluctuated, with defense sector rallying after EU loan deal; oil prices remained low; South Korea's Kospi hit records.",
-    "excerpt": "European stocks fluctuated, with defense sector rallying after EU loan deal; oil prices remained low; South Korea's Kospi hit records.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Global Stock Market News and World Indices Coverage - CNBC"
     },
     "readingTime": 3
   },
@@ -1218,48 +1596,6 @@
     "readingTime": 3
   },
   {
-    "id": "inflation-consumer-prices-annual-united-states",
-    "type": "news",
-    "title": "Inflation, consumer prices (annual %) - United States",
-    "slug": "inflation-consumer-prices-annual-united-states",
-    "date": "2026-06-07",
-    "displayDate": "June 7, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The annual inflation rate for consumer prices in the United States is 3.80% as of April 2026. This figure reflects changes in the cost of living based on the Co",
-    "excerpt": "The annual inflation rate for consumer prices in the United States is 3.80% as of April 2026. This figure reflects changes in the cost of living based on the Consumer Price Index. The data is sourced from Trading Economics.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Inflation, consumer prices (annual %) - United States"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "inflation-economic-data-series-fred-st-louis-fed",
-    "type": "news",
-    "title": "Inflation - Economic Data Series | FRED | St. Louis Fed",
-    "slug": "inflation-economic-data-series-fred-st-louis-fed",
-    "date": "2026-06-07",
-    "displayDate": "June 7, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Inflation data is available on the St. Louis Fed's FRED database, showing annual and CPI metrics. The data includes historical economic series and tools for ana",
-    "excerpt": "Inflation data is available on the St. Louis Fed's FRED database, showing annual and CPI metrics. The data includes historical economic series and tools for analysis.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Inflation - Economic Data Series | FRED | St. Louis Fed"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "latest-asia-stock-market-news",
     "type": "news",
     "title": "Latest: Asia Stock Market News",
@@ -1323,27 +1659,6 @@
     "readingTime": 3
   },
   {
-    "id": "monetary-policy-federal-reserve-board",
-    "type": "news",
-    "title": "Monetary Policy - Federal Reserve Board",
-    "slug": "monetary-policy-federal-reserve-board",
-    "date": "2026-06-07",
-    "displayDate": "June 7, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Reserve implements monetary policy to achieve maximum employment and stable prices. The Federal Open Market Committee (FOMC) sets the federal funds ",
-    "excerpt": "The Federal Reserve implements monetary policy to achieve maximum employment and stable prices. The Federal Open Market Committee (FOMC) sets the federal funds rate target. The Fed's primary tool is adjusting interest rates.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Monetary Policy - Federal Reserve Board"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "portfolio-rebalancing-guide-for-2026-bellwether-wealth",
     "type": "news",
     "title": "Portfolio Rebalancing Guide for 2026 — Bellwether Wealth",
@@ -1386,27 +1701,6 @@
     "readingTime": 3
   },
   {
-    "id": "s-p-sectors-weekly-performance-macromicro",
-    "type": "news",
-    "title": "S&P Sectors Weekly Performance(%) - MacroMicro",
-    "slug": "s-p-sectors-weekly-performance-macromicro",
-    "date": "2026-06-07",
-    "displayDate": "June 7, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "As of June 5, 2026, Information Technology dropped 5.42%, Utilities fell 0.31%, Real Estate rose 1.52%, and Health Care increased 2.31% in weekly S&P sector per",
-    "excerpt": "As of June 5, 2026, Information Technology dropped 5.42%, Utilities fell 0.31%, Real Estate rose 1.52%, and Health Care increased 2.31% in weekly S&P sector performance.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "S&P Sectors Weekly Performance(%) - MacroMicro"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "sector-views-monthly-stock-sector-outlook",
     "type": "news",
     "title": "Sector Views: Monthly Stock Sector Outlook",
@@ -1424,27 +1718,6 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "Sector Views: Monthly Stock Sector Outlook"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "sectors-stock-market-usa-tradingview",
-    "type": "news",
-    "title": "Sectors — Stock Market — USA — TradingView",
-    "slug": "sectors-stock-market-usa-tradingview",
-    "date": "2026-06-07",
-    "displayDate": "June 7, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The US stock market sectors include Technology Services, Finance, Utilities, and Industrial Services, with Technology Services being the largest. The S&P 500 se",
-    "excerpt": "The US stock market sectors include Technology Services, Finance, Utilities, and Industrial Services, with Technology Services being the largest. The S&P 500 sectors include Consumer Discretionary, Consumer Staples, Health Care, Industrials, Materials, and Real Estate. The most recent data shows Tec",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Sectors — Stock Market — USA — TradingView"
     },
     "readingTime": 3
   },
@@ -1596,90 +1869,6 @@
     "readingTime": 3
   },
   {
-    "id": "this-week-s-best-performing-stocks-sectors-industries-rankings",
-    "type": "news",
-    "title": "This Week's Best Performing Stocks, Sectors, Industries Rankings",
-    "slug": "this-week-s-best-performing-stocks-sectors-industries-rankings",
-    "date": "2026-06-07",
-    "displayDate": "June 7, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Sadot Group Inc leads this week's best performing stocks with a 266.77% gain. The Technology Services sector is the top-performing industry, up 0.47%. For the l",
-    "excerpt": "Sadot Group Inc leads this week's best performing stocks with a 266.77% gain. The Technology Services sector is the top-performing industry, up 0.47%. For the latest detailed rankings, visit CSI Market and TradingView.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "This Week's Best Performing Stocks, Sectors, Industries Rankings"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "u-s-bureau-of-economic-analysis-bea",
-    "type": "news",
-    "title": "U.S. Bureau of Economic Analysis (BEA)",
-    "slug": "u-s-bureau-of-economic-analysis-bea",
-    "date": "2026-06-07",
-    "displayDate": "June 7, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The U.S. Bureau of Economic Analysis (BEA) is a government agency that provides official economic statistics, including GDP, personal income, and industry data.",
-    "excerpt": "The U.S. Bureau of Economic Analysis (BEA) is a government agency that provides official economic statistics, including GDP, personal income, and industry data. It is part of the Department of Commerce. BEA ensures accurate and objective economic data.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "U.S. Bureau of Economic Analysis (BEA)"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "u-s-stock-market-headlines-breaking-stock-market-news-reuters",
-    "type": "news",
-    "title": "U.S. Stock Market Headlines | Breaking Stock Market News - Reuters",
-    "slug": "u-s-stock-market-headlines-breaking-stock-market-news-reuters",
-    "date": "2026-06-07",
-    "displayDate": "June 7, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Wall Street ended sharply lower due to rate hike fears, while the Dow reached a record closing high. Honeywell's Quantinuum debuted with a valuation of $17.63 b",
-    "excerpt": "Wall Street ended sharply lower due to rate hike fears, while the Dow reached a record closing high. Honeywell's Quantinuum debuted with a valuation of $17.63 billion. Sunshine Silver Mining saw an 11% rise in its NYSE debut.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "U.S. Stock Market Headlines | Breaking Stock Market News - Reuters"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "united-states-economic-indicators-moody-s-analytics",
-    "type": "news",
-    "title": "United States | Economic Indicators | Moody's Analytics",
-    "slug": "united-states-economic-indicators-moody-s-analytics",
-    "date": "2026-06-07",
-    "displayDate": "June 7, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The U.S. unemployment rate is 4.3% in April 2026, and GDP annual growth rate is 2.7% as of March 2026. The Producer Price Index was 275.9 in April 2026.",
-    "excerpt": "The U.S. unemployment rate is 4.3% in April 2026, and GDP annual growth rate is 2.7% as of March 2026. The Producer Price Index was 275.9 in April 2026.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "United States | Economic Indicators | Moody's Analytics"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "us-central-bank-cuts-key-lending-rate-by-a-quarter-point-bbc-news",
     "type": "news",
     "title": "US central bank cuts key lending rate by a quarter point - BBC News",
@@ -1739,48 +1928,6 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "US Stock Market S&P 500 SPX Projections & Analysis - YouTube"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "wall-street-ends-sharply-lower-as-jobs-data-fuels-rate-hike-fears",
-    "type": "news",
-    "title": "Wall Street ends sharply lower as jobs data fuels rate hike fears",
-    "slug": "wall-street-ends-sharply-lower-as-jobs-data-fuels-rate-hike-fears",
-    "date": "2026-06-07",
-    "displayDate": "June 7, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Wall Street ended sharply lower, with tech stocks and chipmakers leading the decline, due to fears of rising interest rates following a strong jobs report. The ",
-    "excerpt": "Wall Street ended sharply lower, with tech stocks and chipmakers leading the decline, due to fears of rising interest rates following a strong jobs report. The Nasdaq experienced its biggest daily drop since April 2025. The S&P 500 ended its nine-week winning streak.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Wall Street ends sharply lower as jobs data fuels rate hike fears"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "weekly-trader-s-stock-market-outlook-charles-schwab",
-    "type": "news",
-    "title": "Weekly Trader's Stock Market Outlook | Charles Schwab",
-    "slug": "weekly-trader-s-stock-market-outlook-charles-schwab",
-    "date": "2026-06-07",
-    "displayDate": "June 7, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The latest weekly stock market outlook from Charles Schwab indicates a bearish bias for the near-term, with a significant one-day drop in stocks due to a strong",
-    "excerpt": "The latest weekly stock market outlook from Charles Schwab indicates a bearish bias for the near-term, with a significant one-day drop in stocks due to a strong jobs report and rising bond yields.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Weekly Trader's Stock Market Outlook | Charles Schwab"
     },
     "readingTime": 3
   },
@@ -2121,27 +2268,6 @@
     "readingTime": 3
   },
   {
-    "id": "btcusd-technical-analysis-for-bitcoin-usd-cryptocurrency",
-    "type": "news",
-    "title": "BTCUSD Technical Analysis for Bitcoin - USD Cryptocurrency",
-    "slug": "btcusd-technical-analysis-for-bitcoin-usd-cryptocurrency",
-    "date": "2026-06-06",
-    "displayDate": "June 6, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Bitcoin (BTC-USD) technical analysis shows a bearish trend with a MACD of -1981.61 and RSI of 21.06, indicating potential selling opportunities. Moving averages",
-    "excerpt": "Bitcoin (BTC-USD) technical analysis shows a bearish trend with a MACD of -1981.61 and RSI of 21.06, indicating potential selling opportunities. Moving averages and buy/sell signals suggest caution. Current market trends suggest a downward momentum.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "BTCUSD Technical Analysis for Bitcoin - USD Cryptocurrency"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "coindesk-bitcoin-price-index-xbx-btcusd-marketwatch",
     "type": "news",
     "title": "CoinDesk Bitcoin Price Index (XBX) - BTCUSD - MarketWatch",
@@ -2306,27 +2432,6 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "Investment strategies for today and long-term - BlackRock"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "investment-strategies-for-today-s-market-linkedin",
-    "type": "news",
-    "title": "Investment Strategies for Today's Market - LinkedIn",
-    "slug": "investment-strategies-for-today-s-market-linkedin",
-    "date": "2026-06-06",
-    "displayDate": "June 6, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Focus on high free cash flow companies, diversify your portfolio, and consider long-term growth strategies.",
-    "excerpt": "Focus on high free cash flow companies, diversify your portfolio, and consider long-term growth strategies.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Investment Strategies for Today's Market - LinkedIn"
     },
     "readingTime": 3
   },
@@ -3188,27 +3293,6 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "Current price of Ethereum for June 5, 2026"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "current-u-s-inflation-rate-is-3-8-chart-and-why-it-matters",
-    "type": "news",
-    "title": "Current U.S. Inflation Rate Is 3.8%: Chart and Why It Matters",
-    "slug": "current-u-s-inflation-rate-is-3-8-chart-and-why-it-matters",
-    "date": "2026-06-05",
-    "displayDate": "June 5, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The U.S. inflation rate is currently 3.8%, up from 0.6% month-over-month and 3.2% year-over-year. This rise affects purchasing power and economic planning.",
-    "excerpt": "The U.S. inflation rate is currently 3.8%, up from 0.6% month-over-month and 3.2% year-over-year. This rise affects purchasing power and economic planning.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Current U.S. Inflation Rate Is 3.8%: Chart and Why It Matters"
     },
     "readingTime": 3
   },
