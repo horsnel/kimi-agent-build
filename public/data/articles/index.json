@@ -42,6 +42,27 @@
     "readingTime": 3
   },
   {
+    "id": "5-strategies-to-navigate-market-volatility",
+    "type": "news",
+    "title": "5 Strategies to Navigate Market Volatility",
+    "slug": "5-strategies-to-navigate-market-volatility",
+    "date": "2026-06-08",
+    "displayDate": "June 8, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "To navigate market volatility, stay calm, maintain a long-term investment strategy, and diversify your portfolio.",
+    "excerpt": "To navigate market volatility, stay calm, maintain a long-term investment strategy, and diversify your portfolio.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "5 Strategies to Navigate Market Volatility"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "asia-stock-markets-cnbc",
     "type": "news",
     "title": "Asia Stock Markets - CNBC",
@@ -210,6 +231,27 @@
     "readingTime": 3
   },
   {
+    "id": "coindesk-bitcoin-ethereum-xrp-crypto-news-and-price-data",
+    "type": "news",
+    "title": "CoinDesk: Bitcoin, Ethereum, XRP, Crypto News and Price Data",
+    "slug": "coindesk-bitcoin-ethereum-xrp-crypto-news-and-price-data",
+    "date": "2026-06-08",
+    "displayDate": "June 8, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "CoinDesk reports on Bitcoin, Ethereum, and XRP prices. Bitcoin and Ethereum are leading cryptocurrencies. CoinDesk provides news and analysis on digital finance",
+    "excerpt": "CoinDesk reports on Bitcoin, Ethereum, and XRP prices. Bitcoin and Ethereum are leading cryptocurrencies. CoinDesk provides news and analysis on digital finance.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "CoinDesk: Bitcoin, Ethereum, XRP, Crypto News and Price Data"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "company-earnings-calendar-yahoo-finance",
     "type": "news",
     "title": "Company Earnings Calendar - Yahoo Finance",
@@ -248,6 +290,27 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "CPI Home : U.S. Bureau of Labor Statistics"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "crypto-news-bitcoin-ethereum-xrp-news-crypto-news",
+    "type": "news",
+    "title": "Crypto News: Bitcoin, Ethereum & XRP News | crypto.news",
+    "slug": "crypto-news-bitcoin-ethereum-xrp-news-crypto-news",
+    "date": "2026-06-08",
+    "displayDate": "June 8, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin and Ethereum experienced price fluctuations, while XRP steadied above $1.10. Institutional interest in Bitcoin continues, with BlackRock ETF seeing sell",
+    "excerpt": "Bitcoin and Ethereum experienced price fluctuations, while XRP steadied above $1.10. Institutional interest in Bitcoin continues, with BlackRock ETF seeing selloff. Donald Trump aims to make the US the \"crypto capital of the world.\"",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Crypto News: Bitcoin, Ethereum & XRP News | crypto.news"
     },
     "readingTime": 3
   },
@@ -357,6 +420,48 @@
     "readingTime": 3
   },
   {
+    "id": "earnings-cnbc",
+    "type": "news",
+    "title": "Earnings - CNBC",
+    "slug": "earnings-cnbc",
+    "date": "2026-06-08",
+    "displayDate": "June 8, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "CrowdStrike narrowly beat earnings estimates but stock fell 10%. HPE stock skyrocketed 30% on earnings beat. Gap shares tumbled 14% after cutting sales guidance",
+    "excerpt": "CrowdStrike narrowly beat earnings estimates but stock fell 10%. HPE stock skyrocketed 30% on earnings beat. Gap shares tumbled 14% after cutting sales guidance.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Earnings - CNBC"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "earnings-scheduled-for-monday-june-8-2026-earnings-whispers",
+    "type": "news",
+    "title": "Earnings Scheduled for Monday, June 8, 2026 - Earnings Whispers",
+    "slug": "earnings-scheduled-for-monday-june-8-2026-earnings-whispers",
+    "date": "2026-06-08",
+    "displayDate": "June 8, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "On June 8, 2026, notable earnings include Anixa Biosciences, BitFuFu Inc., Cango, and Chewy. Oracle, Adobe, and Vail Resorts are also scheduled. This date is si",
+    "excerpt": "On June 8, 2026, notable earnings include Anixa Biosciences, BitFuFu Inc., Cango, and Chewy. Oracle, Adobe, and Vail Resorts are also scheduled. This date is significant for financial market updates.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Earnings Scheduled for Monday, June 8, 2026 - Earnings Whispers"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "economic-calendar",
     "type": "news",
     "title": "Economic Calendar",
@@ -395,6 +500,48 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "Economic Indicator Release Schedule: List View - US Census Bureau"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "economic-sector-performance-dashboards-yahoo-finance",
+    "type": "news",
+    "title": "Economic Sector Performance Dashboards - Yahoo Finance",
+    "slug": "economic-sector-performance-dashboards-yahoo-finance",
+    "date": "2026-06-08",
+    "displayDate": "June 8, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Yahoo Finance provides sector performance dashboards for various industries, including technology, healthcare, and financial services. The S&P 500's sector perf",
+    "excerpt": "Yahoo Finance provides sector performance dashboards for various industries, including technology, healthcare, and financial services. The S&P 500's sector performance is analyzed regularly. Current data is available for review.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Economic Sector Performance Dashboards - Yahoo Finance"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "ethereum-eth-news-analysis-and-forecast-fxstreet",
+    "type": "news",
+    "title": "Ethereum (ETH) News, Analysis and Forecast - FXStreet",
+    "slug": "ethereum-eth-news-analysis-and-forecast-fxstreet",
+    "date": "2026-06-08",
+    "displayDate": "June 8, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Ethereum prices are under pressure, consolidating near $1,600, but recent bullish accumulation suggests potential for a rise to $1,800. Despite market volatilit",
+    "excerpt": "Ethereum prices are under pressure, consolidating near $1,600, but recent bullish accumulation suggests potential for a rise to $1,800. Despite market volatility, Ethereum remains a favored investment for some investors.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Ethereum (ETH) News, Analysis and Forecast - FXStreet"
     },
     "readingTime": 3
   },
@@ -479,6 +626,27 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "Federal Reserve keeps interest rates steady as inflation uncertainty ..."
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "gdp-cpi-and-other-key-economic-reports-bankrate",
+    "type": "news",
+    "title": "GDP, CPI and other key economic reports - Bankrate",
+    "slug": "gdp-cpi-and-other-key-economic-reports-bankrate",
+    "date": "2026-06-08",
+    "displayDate": "June 8, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The latest US GDP, CPI, housing starts, and unemployment rates are available on Bankrate.com. Weekly and historical GDP data is provided. Weekly and historical ",
+    "excerpt": "The latest US GDP, CPI, housing starts, and unemployment rates are available on Bankrate.com. Weekly and historical GDP data is provided. Weekly and historical CPI data is also available.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "GDP, CPI and other key economic reports - Bankrate"
     },
     "readingTime": 3
   },
@@ -647,6 +815,48 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "Inflation - Economic Data Series | FRED | St. Louis Fed"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "interest-rates-steady-federal-reserve-forecasts-1-rate-cut-in-2026",
+    "type": "news",
+    "title": "Interest rates steady, Federal Reserve forecasts 1 rate cut in 2026",
+    "slug": "interest-rates-steady-federal-reserve-forecasts-1-rate-cut-in-2026",
+    "date": "2026-06-08",
+    "displayDate": "June 8, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Reserve kept interest rates steady and forecasts one rate cut in 2026. Powell indicated no changes for the rest of 2026 and into 2027. The Fed expec",
+    "excerpt": "The Federal Reserve kept interest rates steady and forecasts one rate cut in 2026. Powell indicated no changes for the rest of 2026 and into 2027. The Fed expects to lower rates to a \"neutral\" level by 2027.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Interest rates steady, Federal Reserve forecasts 1 rate cut in 2026"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "investment-strategies-for-today-and-long-term-blackrock",
+    "type": "news",
+    "title": "Investment strategies for today and long-term - BlackRock",
+    "slug": "investment-strategies-for-today-and-long-term-blackrock",
+    "date": "2026-06-08",
+    "displayDate": "June 8, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "BlackRock emphasizes long-term value creation and diversification for investment strategies. They focus on managing risk and generating income. Larry Fink advoc",
+    "excerpt": "BlackRock emphasizes long-term value creation and diversification for investment strategies. They focus on managing risk and generating income. Larry Fink advocates for a long-term approach to investing.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Investment strategies for today and long-term - BlackRock"
     },
     "readingTime": 3
   },
@@ -861,6 +1071,90 @@
     "readingTime": 3
   },
   {
+    "id": "tech-cnbc",
+    "type": "news",
+    "title": "Tech - CNBC",
+    "slug": "tech-cnbc",
+    "date": "2026-06-08",
+    "displayDate": "June 8, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "CNBC covers technology, focusing on major tech companies and industry trends. The site provides financial news, market updates, and analysis. Tech section inclu",
+    "excerpt": "CNBC covers technology, focusing on major tech companies and industry trends. The site provides financial news, market updates, and analysis. Tech section includes insights on AI, earnings, and market movements.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Tech - CNBC"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "tech-cnn-business",
+    "type": "news",
+    "title": "Tech | CNN Business",
+    "slug": "tech-cnn-business",
+    "date": "2026-06-08",
+    "displayDate": "June 8, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Major tech companies are investing heavily in self-controlling computers, and AI is transforming various sectors, including healthcare and internet search. Trum",
+    "excerpt": "Major tech companies are investing heavily in self-controlling computers, and AI is transforming various sectors, including healthcare and internet search. Trump signed an executive order to access new AI models before launch. AI-driven advancements are reshaping industries and job markets.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Tech | CNN Business"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "tech-news-today-s-latest-technology-news-reuters",
+    "type": "news",
+    "title": "Tech News | Today's Latest Technology News | Reuters",
+    "slug": "tech-news-today-s-latest-technology-news-reuters",
+    "date": "2026-06-08",
+    "displayDate": "June 8, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Today's top tech news includes AI chip giants impacting Asia's stock market and global executives attending Taiwan's tech show. Reuters provides comprehensive i",
+    "excerpt": "Today's top tech news includes AI chip giants impacting Asia's stock market and global executives attending Taiwan's tech show. Reuters provides comprehensive international technology coverage. The latest trends from startups to FAANG companies are also featured.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Tech News | Today's Latest Technology News | Reuters"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "the-best-investment-strategies-for-the-continuous-market",
+    "type": "news",
+    "title": "The Best Investment Strategies For The Continuous Market",
+    "slug": "the-best-investment-strategies-for-the-continuous-market",
+    "date": "2026-06-08",
+    "displayDate": "June 8, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Effective risk management, continuous learning, and long-term investing with diversification are key strategies for navigating the continuous market.",
+    "excerpt": "Effective risk management, continuous learning, and long-term investing with diversification are key strategies for navigating the continuous market.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "The Best Investment Strategies For The Continuous Market"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "the-fed-meeting-calendars-and-information",
     "type": "news",
     "title": "The Fed - Meeting calendars and information",
@@ -1029,6 +1323,27 @@
     "readingTime": 3
   },
   {
+    "id": "united-states-indicators-trading-economics",
+    "type": "news",
+    "title": "United States Indicators - Trading Economics",
+    "slug": "united-states-indicators-trading-economics",
+    "date": "2026-06-08",
+    "displayDate": "June 8, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The latest U.S. GDP growth rate is 1.6% in March 2026, and the unemployment rate is 4.3% in May 2026. The annual GDP growth rate is 2.7% as of March 2026. The c",
+    "excerpt": "The latest U.S. GDP growth rate is 1.6% in March 2026, and the unemployment rate is 4.3% in May 2026. The annual GDP growth rate is 2.7% as of March 2026. The current average hourly earnings increased by 0.3% in May 2026.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "United States Indicators - Trading Economics"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "us-stock-market-earnings-calendar",
     "type": "news",
     "title": "US Stock Market Earnings Calendar",
@@ -1048,6 +1363,27 @@
       "alt": "US Stock Market Earnings Calendar"
     },
     "readingTime": 3
+  },
+  {
+    "id": "us-stock-market-s-p-500-spx-projections-analysis-youtube",
+    "type": "news",
+    "title": "US Stock Market S&P 500 SPX Projections & Analysis - YouTube",
+    "slug": "us-stock-market-s-p-500-spx-projections-analysis-youtube",
+    "date": "2026-06-08",
+    "displayDate": "June 8, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The S&P 500 projections often involve cycle and momentum analysis to predict market direction and timing. Steve Miller's askSlim methodology uses proprietary in",
+    "excerpt": "The S&P 500 projections often involve cycle and momentum analysis to predict market direction and timing. Steve Miller's askSlim methodology uses proprietary indicators for trade planning. Current projections focus on identifying high-probability trading windows.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "US Stock Market S&P 500 SPX Projections & Analysis - YouTube"
+    },
+    "readingTime": 4
   },
   {
     "id": "wall-street-ends-sharply-lower-as-jobs-data-fuels-rate-hike-fears",
@@ -1088,6 +1424,27 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "Weekly Trader's Stock Market Outlook | Charles Schwab"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "when-is-the-next-fed-interest-rate-decision-equals-money",
+    "type": "news",
+    "title": "When is the next Fed interest rate decision? - Equals Money",
+    "slug": "when-is-the-next-fed-interest-rate-decision-equals-money",
+    "date": "2026-06-08",
+    "displayDate": "June 8, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The next Fed interest rate decision is scheduled for April 29, 2026, at 18:00 GMT, during an FOMC meeting. The Fed typically announces its decisions eight times",
+    "excerpt": "The next Fed interest rate decision is scheduled for April 29, 2026, at 18:00 GMT, during an FOMC meeting. The Fed typically announces its decisions eight times a year. The current federal funds rate target range is 3.50%–3.75%.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "When is the next Fed interest rate decision? - Equals Money"
     },
     "readingTime": 3
   },
@@ -1155,27 +1512,6 @@
     "readingTime": 3
   },
   {
-    "id": "coindesk-bitcoin-ethereum-xrp-crypto-news-and-price-data",
-    "type": "news",
-    "title": "CoinDesk: Bitcoin, Ethereum, XRP, Crypto News and Price Data",
-    "slug": "coindesk-bitcoin-ethereum-xrp-crypto-news-and-price-data",
-    "date": "2026-06-07",
-    "displayDate": "June 7, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "CoinDesk reports on Bitcoin, Ethereum, and XRP prices and news. As of June 7, 2026, Bitcoin is above $61,000. Ripple (XRP) has dropped 12.2% in the CoinDesk 20 ",
-    "excerpt": "CoinDesk reports on Bitcoin, Ethereum, and XRP prices and news. As of June 7, 2026, Bitcoin is above $61,000. Ripple (XRP) has dropped 12.2% in the CoinDesk 20 index.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "CoinDesk: Bitcoin, Ethereum, XRP, Crypto News and Price Data"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "consumer-price-index-1913-federal-reserve-bank-of-minneapolis",
     "type": "news",
     "title": "Consumer Price Index, 1913- | Federal Reserve Bank of Minneapolis",
@@ -1193,27 +1529,6 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "Consumer Price Index, 1913- | Federal Reserve Bank of Minneapolis"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "crypto-news-bitcoin-ethereum-xrp-news-crypto-news",
-    "type": "news",
-    "title": "Crypto News: Bitcoin, Ethereum & XRP News | crypto.news",
-    "slug": "crypto-news-bitcoin-ethereum-xrp-news-crypto-news",
-    "date": "2026-06-07",
-    "displayDate": "June 7, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Bitcoin and Ethereum prices are fluctuating, while XRP shows potential for a price rebound. BlackRock Bitcoin ETF experienced a selloff. Strive acquired more Bi",
-    "excerpt": "Bitcoin and Ethereum prices are fluctuating, while XRP shows potential for a price rebound. BlackRock Bitcoin ETF experienced a selloff. Strive acquired more Bitcoin, increasing its total holdings.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Crypto News: Bitcoin, Ethereum & XRP News | crypto.news"
     },
     "readingTime": 3
   },
@@ -1298,48 +1613,6 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "Earnings Calendar - Investing.com"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "earnings-cnbc",
-    "type": "news",
-    "title": "Earnings - CNBC",
-    "slug": "earnings-cnbc",
-    "date": "2026-06-07",
-    "displayDate": "June 7, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "CNBC provides earnings rundowns, investment ideas, and highlights for companies, helping investors make informed decisions. The most recent data is available on",
-    "excerpt": "CNBC provides earnings rundowns, investment ideas, and highlights for companies, helping investors make informed decisions. The most recent data is available on their dedicated earnings pages.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Earnings - CNBC"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "earnings-scheduled-for-monday-june-8-2026-earnings-whispers",
-    "type": "news",
-    "title": "Earnings Scheduled for Monday, June 8, 2026 - Earnings Whispers",
-    "slug": "earnings-scheduled-for-monday-june-8-2026-earnings-whispers",
-    "date": "2026-06-07",
-    "displayDate": "June 7, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "On Monday, June 8, 2026, Oracle, Adobe, FuelCell Energy, Chewy, and Vail Resorts are scheduled to release earnings. These companies are highly anticipated for t",
-    "excerpt": "On Monday, June 8, 2026, Oracle, Adobe, FuelCell Energy, Chewy, and Vail Resorts are scheduled to release earnings. These companies are highly anticipated for their financial reports.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Earnings Scheduled for Monday, June 8, 2026 - Earnings Whispers"
     },
     "readingTime": 3
   },
@@ -1508,27 +1781,6 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "Federal Reserve keeps interest rates steady as inflation ..."
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "gdp-cpi-and-other-key-economic-reports-bankrate",
-    "type": "news",
-    "title": "GDP, CPI and other key economic reports - Bankrate",
-    "slug": "gdp-cpi-and-other-key-economic-reports-bankrate",
-    "date": "2026-06-07",
-    "displayDate": "June 7, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The latest GDP, CPI, and other key economic reports are available on Bankrate, showing US economic performance metrics like gross domestic product and consumer ",
-    "excerpt": "The latest GDP, CPI, and other key economic reports are available on Bankrate, showing US economic performance metrics like gross domestic product and consumer price index.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "GDP, CPI and other key economic reports - Bankrate"
     },
     "readingTime": 3
   },
@@ -1743,27 +1995,6 @@
     "readingTime": 3
   },
   {
-    "id": "tech-cnn-business",
-    "type": "news",
-    "title": "Tech | CNN Business",
-    "slug": "tech-cnn-business",
-    "date": "2026-06-07",
-    "displayDate": "June 7, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "CNN Business covers tech, media, finance, and future innovations, focusing on global business trends and transformations. Their YouTube channel highlights leadi",
-    "excerpt": "CNN Business covers tech, media, finance, and future innovations, focusing on global business trends and transformations. Their YouTube channel highlights leading companies and personalities in business. For tech-specific case studies, visit their commercial site.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Tech | CNN Business"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "technology-industry-news-latest-tech-news-for-leaders",
     "type": "news",
     "title": "Technology Industry News: Latest Tech News for Leaders",
@@ -1907,27 +2138,6 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "US earnings season - Q1 2026 - ii - Interactive Investor"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "us-stock-market-s-p-500-spx-projections-analysis-youtube",
-    "type": "news",
-    "title": "US Stock Market S&P 500 SPX Projections & Analysis - YouTube",
-    "slug": "us-stock-market-s-p-500-spx-projections-analysis-youtube",
-    "date": "2026-06-07",
-    "displayDate": "June 7, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The S&P 500 projections suggest it could reach 7,500 by 2026. Cycle analysis and momentum indicators are used to predict market direction and timing. Market for",
-    "excerpt": "The S&P 500 projections suggest it could reach 7,500 by 2026. Cycle analysis and momentum indicators are used to predict market direction and timing. Market forecasts remain optimistic for the S&P 500's growth.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "US Stock Market S&P 500 SPX Projections & Analysis - YouTube"
     },
     "readingTime": 3
   },
@@ -2415,27 +2625,6 @@
     "readingTime": 3
   },
   {
-    "id": "investment-strategies-for-today-and-long-term-blackrock",
-    "type": "news",
-    "title": "Investment strategies for today and long-term - BlackRock",
-    "slug": "investment-strategies-for-today-and-long-term-blackrock",
-    "date": "2026-06-06",
-    "displayDate": "June 6, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "For today, consider diversification and income opportunities. For long-term, equities are typically more suitable for higher rewards. BlackRock offers strategie",
-    "excerpt": "For today, consider diversification and income opportunities. For long-term, equities are typically more suitable for higher rewards. BlackRock offers strategies to balance stability and growth.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Investment strategies for today and long-term - BlackRock"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "is-broadcom-a-buy-after-its-latest-earnings-report",
     "type": "news",
     "title": "Is Broadcom a Buy After Its Latest Earnings Report?",
@@ -2516,27 +2705,6 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "Stocks slump as Big Tech sinks and a strong May jobs report boosts odds for higher interest rates"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "the-best-investment-strategies-for-the-continuous-market",
-    "type": "news",
-    "title": "The Best Investment Strategies For The Continuous Market",
-    "slug": "the-best-investment-strategies-for-the-continuous-market",
-    "date": "2026-06-06",
-    "displayDate": "June 6, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Effective investment strategies include value investing, growth investing, and long-term asset allocation. Patience and discipline are key, as markets can be vo",
-    "excerpt": "Effective investment strategies include value investing, growth investing, and long-term asset allocation. Patience and discipline are key, as markets can be volatile. Regularly review and adjust your portfolio to align with your long-term goals.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "The Best Investment Strategies For The Continuous Market"
     },
     "readingTime": 3
   },
@@ -2688,27 +2856,6 @@
     "readingTime": 3
   },
   {
-    "id": "united-states-indicators-trading-economics",
-    "type": "news",
-    "title": "United States Indicators - Trading Economics",
-    "slug": "united-states-indicators-trading-economics",
-    "date": "2026-06-06",
-    "displayDate": "June 6, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The U.S. GDP annual growth rate is 2.7% as of March 2026, and the unemployment rate is 4.3% as of April 2026. The latest Producer Price Index (PPI) for April 20",
-    "excerpt": "The U.S. GDP annual growth rate is 2.7% as of March 2026, and the unemployment rate is 4.3% as of April 2026. The latest Producer Price Index (PPI) for April 2026 is 275.9.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "United States Indicators - Trading Economics"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "us-markets-company-earnings-stock-market-trends-market-news",
     "type": "news",
     "title": "US Markets, Company Earnings, Stock Market Trends, Market News",
@@ -2852,27 +2999,6 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "When is the Fed's next meeting? See the full schedule for 2026."
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "when-is-the-next-fed-interest-rate-decision-equals-money",
-    "type": "news",
-    "title": "When is the next Fed interest rate decision? - Equals Money",
-    "slug": "when-is-the-next-fed-interest-rate-decision-equals-money",
-    "date": "2026-06-06",
-    "displayDate": "June 6, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The next Fed interest rate decision is on April 29, 2026. The Federal Reserve announces its decisions eight times a year during FOMC meetings. The last decision",
-    "excerpt": "The next Fed interest rate decision is on April 29, 2026. The Federal Reserve announces its decisions eight times a year during FOMC meetings. The last decision was kept unchanged at 3.50% to 3.75% on March 18, 2026.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "When is the next Fed interest rate decision? - Equals Money"
     },
     "readingTime": 3
   },
