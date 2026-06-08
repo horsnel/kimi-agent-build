@@ -3,8 +3,8 @@
   "type": "news",
   "title": "Latest: Asia Stock Market News",
   "slug": "latest-asia-stock-market-news",
-  "date": "2026-06-07",
-  "displayDate": "June 7, 2026",
+  "date": "2026-06-08",
+  "displayDate": "June 8, 2026",
   "author": "Sigma Capital",
   "category": "Global Markets",
   "tags": [
@@ -12,41 +12,41 @@
     "financial news",
     "market update"
   ],
-  "metaDescription": "Tokyo, Seoul, and Hong Kong stocks fell due to Broadcom's disappointing forecast and US Fed rate hike concerns. Nasdaq also dropped amid AI cost worries. South ",
-  "excerpt": "Tokyo, Seoul, and Hong Kong stocks fell due to Broadcom's disappointing forecast and US Fed rate hike concerns. Nasdaq also dropped amid AI cost worries. South Korean stocks surged on debt-fueled bets.",
+  "metaDescription": "Asian markets fell, especially in Tokyo, Seoul, and Hong Kong, due to a disappointing forecast by Broadcom and US Fed rate hike concerns. South Korea's KOSPI in",
+  "excerpt": "Asian markets fell, especially in Tokyo, Seoul, and Hong Kong, due to a disappointing forecast by Broadcom and US Fed rate hike concerns. South Korea's KOSPI index dropped over 8% due to a decline in AI stocks.",
   "content": {
-    "introduction": "Tokyo, Seoul, and Hong Kong stocks fell due to Broadcom's disappointing forecast and US Fed rate hike concerns. Nasdaq also dropped amid AI cost worries. South Korean stocks surged on debt-fueled bets.",
+    "introduction": "Asian markets fell, especially in Tokyo, Seoul, and Hong Kong, due to a disappointing forecast by Broadcom and US Fed rate hike concerns. South Korea's KOSPI index dropped over 8% due to a decline in AI stocks.",
     "body": [
       "Tokyo, Seoul and Hong Kong fell on Wednesday after a disappointing forecast by chip giant Broadcom, plus concern of a rate hike by the US Fed. But hopes of a",
-      "Market Talk: Nasdaq's slide reflects rate-hike, AI cost jitters · Market Talk: AI trade is 'still intact' · Stocks drop as AI rally pauses, US-Iran peace talks",
+      "South Korea's KOSPI index fell more than 8% on Monday as chipmakers SK Hynix and Samsung joined a tumble in AI stocks that started last week on Wall Street.",
       "Asia News · The AI trade is remaking the global stock-market order · Debt-fueled bets are turbocharging the South Korean stock market as Kospi jumps 8% · Japan"
     ],
     "keyTakeaways": [
-      "Tokyo, Seoul, and Hong Kong stocks fell due to Broadcom's disappointing forecast and US Fed rate hike concerns. Nasdaq a",
+      "Asian markets fell, especially in Tokyo, Seoul, and Hong Kong, due to a disappointing forecast by Broadcom and US Fed ra",
       "Tokyo, Seoul and Hong Kong fell on Wednesday after a disappointing forecast by chip giant Broadcom, plus concern of a ra",
-      "Market Talk: Nasdaq's slide reflects rate-hike, AI cost jitters · Market Talk: AI trade is 'still intact' · Stocks drop "
+      "South Korea's KOSPI index fell more than 8% on Monday as chipmakers SK Hynix and Samsung joined a tumble in AI stocks th"
     ],
     "source": "asiafinancial.com",
     "sourceUrl": "https://www.asiafinancial.com/markets"
   },
   "readingTime": 3,
-  "updatedAt": "2026-06-07T14:01:07.072Z",
+  "updatedAt": "2026-06-08T20:21:41.105Z",
   "images": {
     "thumbnail": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Latest: Asia Stock Market News"
-    },
-    "hero": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "Latest: Asia Stock Market News"
     },
-    "mid": {
+    "hero": {
       "src": "/images/article_thumb_1.jpg",
+      "alt": "Latest: Asia Stock Market News"
+    },
+    "mid": {
+      "src": "/images/article_thumb_6.jpg",
       "alt": "Latest: Asia Stock Market News"
     }
   },
   "image": {
-    "src": "/images/article_thumb_1.jpg",
+    "src": "/images/article_thumb_4.jpg",
     "alt": "Latest: Asia Stock Market News"
   }
 }
