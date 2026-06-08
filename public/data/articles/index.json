@@ -1,5 +1,614 @@
 [
   {
+    "id": "10-best-investments-where-to-invest-in-2026-nerdwallet",
+    "type": "news",
+    "title": "10 Best Investments: Where to Invest in 2026 - NerdWallet",
+    "slug": "10-best-investments-where-to-invest-in-2026-nerdwallet",
+    "date": "2026-06-08",
+    "displayDate": "June 8, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "For 2026, consider high-yield savings accounts, corporate bonds, and S&P 500 index funds for balanced risk and growth.",
+    "excerpt": "For 2026, consider high-yield savings accounts, corporate bonds, and S&P 500 index funds for balanced risk and growth.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "10 Best Investments: Where to Invest in 2026 - NerdWallet"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "10-investment-strategies-for-new-investors-mintos",
+    "type": "news",
+    "title": "10 Investment strategies for new investors - Mintos",
+    "slug": "10-investment-strategies-for-new-investors-mintos",
+    "date": "2026-06-08",
+    "displayDate": "June 8, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "For new investors, consider long-term strategies, short-term gains, and income-focused investments. Diversify with stocks, bonds, and real estate. Manually inve",
+    "excerpt": "For new investors, consider long-term strategies, short-term gains, and income-focused investments. Diversify with stocks, bonds, and real estate. Manually invest in secured loans for safety.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "10 Investment strategies for new investors - Mintos"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "asia-stock-markets-cnbc",
+    "type": "news",
+    "title": "Asia Stock Markets - CNBC",
+    "slug": "asia-stock-markets-cnbc",
+    "date": "2026-06-08",
+    "displayDate": "June 8, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Asia stock markets fluctuated amid geopolitical tensions; South Korea's Kospi dropped 7% due to Iran attacks; U.S. stock futures also fell.",
+    "excerpt": "Asia stock markets fluctuated amid geopolitical tensions; South Korea's Kospi dropped 7% due to Iran attacks; U.S. stock futures also fell.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Asia Stock Markets - CNBC"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "asian-market-headlines-breaking-stock-market-news-reuters",
+    "type": "news",
+    "title": "Asian Market Headlines | Breaking Stock Market News - Reuters",
+    "slug": "asian-market-headlines-breaking-stock-market-news-reuters",
+    "date": "2026-06-08",
+    "displayDate": "June 8, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Asian markets dropped on Monday as the AI rally cooled, and Israeli strikes raised oil prices and the dollar. The latest news is available on Reuters.com.",
+    "excerpt": "Asian markets dropped on Monday as the AI rally cooled, and Israeli strikes raised oil prices and the dollar. The latest news is available on Reuters.com.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Asian Market Headlines | Breaking Stock Market News - Reuters"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "bitcoin-btc-news-analysis-and-forecast-fxstreet",
+    "type": "news",
+    "title": "Bitcoin (BTC) News, Analysis and Forecast - FXStreet",
+    "slug": "bitcoin-btc-news-analysis-and-forecast-fxstreet",
+    "date": "2026-06-08",
+    "displayDate": "June 8, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin is currently above $62,000 but faces risk-off sentiment and potential decline to $60,000. ETF outflows and geopolitical tensions are influencing its mar",
+    "excerpt": "Bitcoin is currently above $62,000 but faces risk-off sentiment and potential decline to $60,000. ETF outflows and geopolitical tensions are influencing its market behavior. Analysts predict a possible drop to $51,000.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Bitcoin (BTC) News, Analysis and Forecast - FXStreet"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "bitcoin-btc-price-usd-today-news-charts-market-cap-coinbase",
+    "type": "news",
+    "title": "Bitcoin (BTC) Price USD Today, News, Charts, Market Cap | Coinbase",
+    "slug": "bitcoin-btc-price-usd-today-news-charts-market-cap-coinbase",
+    "date": "2026-06-08",
+    "displayDate": "June 8, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin's price today is $63,066.68, down 3% from yesterday. The market cap is substantial, reflecting its leading position. Current data may vary by source.",
+    "excerpt": "Bitcoin's price today is $63,066.68, down 3% from yesterday. The market cap is substantial, reflecting its leading position. Current data may vary by source.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Bitcoin (BTC) Price USD Today, News, Charts, Market Cap | Coinbase"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "bitcoin-price-today-btc-price-chart-live-trends-kraken",
+    "type": "news",
+    "title": "Bitcoin price today - BTC price chart & live trends - Kraken",
+    "slug": "bitcoin-price-today-btc-price-chart-live-trends-kraken",
+    "date": "2026-06-08",
+    "displayDate": "June 8, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin price today is $63,020.00, up +2.61% in the last 24 hours. The circulating supply is 20,030,779 BTC, with a market cap of $1,262,339,689,233. For more d",
+    "excerpt": "Bitcoin price today is $63,020.00, up +2.61% in the last 24 hours. The circulating supply is 20,030,779 BTC, with a market cap of $1,262,339,689,233. For more details, visit Kraken.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Bitcoin price today - BTC price chart & live trends - Kraken"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "bureau-of-labor-statistics",
+    "type": "news",
+    "title": "Bureau of Labor Statistics",
+    "slug": "bureau-of-labor-statistics",
+    "date": "2026-06-08",
+    "displayDate": "June 8, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Bureau of Labor Statistics (BLS) is a federal agency that collects and reports data on employment, wages, and other labor market statistics. It is part of t",
+    "excerpt": "The Bureau of Labor Statistics (BLS) is a federal agency that collects and reports data on employment, wages, and other labor market statistics. It is part of the U.S. Department of Labor. BLS provides essential economic data for policy-making.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Bureau of Labor Statistics"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "company-earnings-calendar-yahoo-finance",
+    "type": "news",
+    "title": "Company Earnings Calendar - Yahoo Finance",
+    "slug": "company-earnings-calendar-yahoo-finance",
+    "date": "2026-06-08",
+    "displayDate": "June 8, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Yahoo Finance's earnings calendar lists upcoming and recent company earnings reports. To access it, go to Yahoo Finance and select \"Calendar\" under \"Research.\" ",
+    "excerpt": "Yahoo Finance's earnings calendar lists upcoming and recent company earnings reports. To access it, go to Yahoo Finance and select \"Calendar\" under \"Research.\" The calendar includes detailed financial data for major companies.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Company Earnings Calendar - Yahoo Finance"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "cpi-home-u-s-bureau-of-labor-statistics",
+    "type": "news",
+    "title": "CPI Home : U.S. Bureau of Labor Statistics",
+    "slug": "cpi-home-u-s-bureau-of-labor-statistics",
+    "date": "2026-06-08",
+    "displayDate": "June 8, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Consumer Price Index (CPI) measures inflation in the U.S. It increased 0.6% in April 2026. The CPI Home page provides data and resources from the U.S. Burea",
+    "excerpt": "The Consumer Price Index (CPI) measures inflation in the U.S. It increased 0.6% in April 2026. The CPI Home page provides data and resources from the U.S. Bureau of Labor Statistics.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "CPI Home : U.S. Bureau of Labor Statistics"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "earnings-breaking-news-and-press-releases-business-wire",
+    "type": "news",
+    "title": "Earnings Breaking News and Press Releases - Business Wire",
+    "slug": "earnings-breaking-news-and-press-releases-business-wire",
+    "date": "2026-06-08",
+    "displayDate": "June 8, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Business Wire provides earnings news and press releases for quarterly and annual reports. It is an American company that shares press releases globally. The lat",
+    "excerpt": "Business Wire provides earnings news and press releases for quarterly and annual reports. It is an American company that shares press releases globally. The latest earnings updates are available on their website.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Earnings Breaking News and Press Releases - Business Wire"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "earnings-calendar-2026-daily-earnings-reports",
+    "type": "news",
+    "title": "Earnings Calendar 2026 | Daily Earnings Reports",
+    "slug": "earnings-calendar-2026-daily-earnings-reports",
+    "date": "2026-06-08",
+    "displayDate": "June 8, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Earnings reports for June 8, 2026, are not available yet; however, key companies like Tesla, Amazon, and Apple typically release earnings in the fourth quarter.",
+    "excerpt": "Earnings reports for June 8, 2026, are not available yet; however, key companies like Tesla, Amazon, and Apple typically release earnings in the fourth quarter. For current earnings data, refer to financial news websites.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Earnings Calendar 2026 | Daily Earnings Reports"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "earnings-calendar",
+    "type": "news",
+    "title": "Earnings Calendar",
+    "slug": "earnings-calendar",
+    "date": "2026-06-08",
+    "displayDate": "June 8, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Earnings calendars track company financial reports, showing key metrics like time, EPS, and market cap. They help investors analyze company performance. Popular",
+    "excerpt": "Earnings calendars track company financial reports, showing key metrics like time, EPS, and market cap. They help investors analyze company performance. Popular sources include TradingView and Investing.com.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Earnings Calendar"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "economic-calendar",
+    "type": "news",
+    "title": "Economic Calendar",
+    "slug": "economic-calendar",
+    "date": "2026-06-08",
+    "displayDate": "June 8, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "An economic calendar lists upcoming financial events and data releases that can impact markets. It includes details on their potential market impact and histori",
+    "excerpt": "An economic calendar lists upcoming financial events and data releases that can impact markets. It includes details on their potential market impact and historical figures. MarketWatch offers a U.S. Economic Calendar.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Economic Calendar"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "economic-indicator-release-schedule-list-view-us-census-bureau",
+    "type": "news",
+    "title": "Economic Indicator Release Schedule: List View - US Census Bureau",
+    "slug": "economic-indicator-release-schedule-list-view-us-census-bureau",
+    "date": "2026-06-08",
+    "displayDate": "June 8, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The US Census Bureau releases Advance Monthly Sales for Retail and Food Services on March 6, 2026, covering January 2026, and Business Formation Statistics on M",
+    "excerpt": "The US Census Bureau releases Advance Monthly Sales for Retail and Food Services on March 6, 2026, covering January 2026, and Business Formation Statistics on March 11, 2026, for February 2026. The full release schedule is available on their official website.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Economic Indicator Release Schedule: List View - US Census Bureau"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "european-asian-stocks-fall-amid-geopolitical-tensions-wsj",
+    "type": "news",
+    "title": "European, Asian Stocks Fall Amid Geopolitical Tensions - WSJ",
+    "slug": "european-asian-stocks-fall-amid-geopolitical-tensions-wsj",
+    "date": "2026-06-08",
+    "displayDate": "June 8, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "European and Asian stocks fell due to heightened geopolitical tensions, particularly amid the Israel-Iran conflict. US markets were closed for Juneteenth, and T",
+    "excerpt": "European and Asian stocks fell due to heightened geopolitical tensions, particularly amid the Israel-Iran conflict. US markets were closed for Juneteenth, and Trump had approved Iran attack plans but held off. Oil prices fluctuated, gold futures eased, and the U.S. dollar strengthened.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "European, Asian Stocks Fall Amid Geopolitical Tensions - WSJ"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "fed-holds-interest-rates-steady-for-third-straight-meeting-as-powell",
+    "type": "news",
+    "title": "Fed holds interest rates steady for third straight meeting, as Powell ...",
+    "slug": "fed-holds-interest-rates-steady-for-third-straight-meeting-as-powell",
+    "date": "2026-06-08",
+    "displayDate": "June 8, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Reserve held interest rates steady for the third consecutive meeting, maintaining the benchmark rate in the range of 5.25%-5.50%. Chair Jerome Powel",
+    "excerpt": "The Federal Reserve held interest rates steady for the third consecutive meeting, maintaining the benchmark rate in the range of 5.25%-5.50%. Chair Jerome Powell announced his intention to remain as a board governor after his term ends, amid concerns about the Fed's independence.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Fed holds interest rates steady for third straight meeting, as Powell ..."
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "federal-reserve-keeps-interest-rates-steady-as-inflation-uncertainty",
+    "type": "news",
+    "title": "Federal Reserve keeps interest rates steady as inflation uncertainty ...",
+    "slug": "federal-reserve-keeps-interest-rates-steady-as-inflation-uncertainty",
+    "date": "2026-06-08",
+    "displayDate": "June 8, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Reserve kept interest rates steady in the 3.50%-3.75% range amid inflation uncertainty. The decision reflects ongoing economic considerations and ri",
+    "excerpt": "The Federal Reserve kept interest rates steady in the 3.50%-3.75% range amid inflation uncertainty. The decision reflects ongoing economic considerations and risks.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Federal Reserve keeps interest rates steady as inflation uncertainty ..."
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "global-companies-reports-and-earnings-tradingview",
+    "type": "news",
+    "title": "Global Companies Reports and Earnings - TradingView",
+    "slug": "global-companies-reports-and-earnings-tradingview",
+    "date": "2026-06-08",
+    "displayDate": "June 8, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Global companies' earnings reports and schedules are available on TradingView, Trading Economics, and Nasdaq. Key metrics include EPS, revenue, and market capit",
+    "excerpt": "Global companies' earnings reports and schedules are available on TradingView, Trading Economics, and Nasdaq. Key metrics include EPS, revenue, and market capitalization. Use these resources for financial analysis.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Global Companies Reports and Earnings - TradingView"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "healthcare-sector-morningstar",
+    "type": "news",
+    "title": "Healthcare Sector | Morningstar",
+    "slug": "healthcare-sector-morningstar",
+    "date": "2026-06-08",
+    "displayDate": "June 8, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Healthcare sector stocks have outperformed the market in 2024, driven by strong performance and investor interest in GLP-1 drugs. Morningstar emphasizes transpa",
+    "excerpt": "Healthcare sector stocks have outperformed the market in 2024, driven by strong performance and investor interest in GLP-1 drugs. Morningstar emphasizes transparency and integrity in its research. The sector remains a strong investment option amid market uncertainty.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Healthcare Sector | Morningstar"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "how-to-invest-in-today-s-market-u-s-bank",
+    "type": "news",
+    "title": "How to Invest in Today's Market | U.S. Bank",
+    "slug": "how-to-invest-in-today-s-market-u-s-bank",
+    "date": "2026-06-08",
+    "displayDate": "June 8, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "To invest in today's market, separate short-term needs from long-term funds. Start with a solid financial foundation, define your strategy, and choose appropria",
+    "excerpt": "To invest in today's market, separate short-term needs from long-term funds. Start with a solid financial foundation, define your strategy, and choose appropriate accounts. Regularly review your plan.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "How to Invest in Today's Market | U.S. Bank"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "meta-title-sectors-yahoo-finance",
+    "type": "news",
+    "title": "META_TITLE_SECTORS - Yahoo Finance",
+    "slug": "meta-title-sectors-yahoo-finance",
+    "date": "2026-06-08",
+    "displayDate": "June 8, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Yahoo Finance lists technology sectors including semiconductors, software, consumer electronics, and communication equipment. The technology sector includes var",
+    "excerpt": "Yahoo Finance lists technology sectors including semiconductors, software, consumer electronics, and communication equipment. The technology sector includes various sub-sectors like communication equipment. The technology sector is a key focus area on Yahoo Finance.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "META_TITLE_SECTORS - Yahoo Finance"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "s-p-500-analysis-and-opinion-investing-com",
+    "type": "news",
+    "title": "S&P 500 Analysis and Opinion - Investing.com",
+    "slug": "s-p-500-analysis-and-opinion-investing-com",
+    "date": "2026-06-08",
+    "displayDate": "June 8, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The S&P 500 faces potential risks in 2024, with interest rates and inflation as key factors. Recent earnings reports show mixed results, and market trends indic",
+    "excerpt": "The S&P 500 faces potential risks in 2024, with interest rates and inflation as key factors. Recent earnings reports show mixed results, and market trends indicate a possible pullback. Analysts predict a bullish trend despite short-term challenges.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "S&P 500 Analysis and Opinion - Investing.com"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "s-p-500-index-sp500-analysis-news-and-chart-today",
+    "type": "news",
+    "title": "S&P 500 Index (SP500) Analysis, News, And Chart Today",
+    "slug": "s-p-500-index-sp500-analysis-news-and-chart-today",
+    "date": "2026-06-08",
+    "displayDate": "June 8, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The S&P 500 Index closed at 7,584.31 on June 7, 2026, and opened at 7,537.36 on June 8, 2026. The highest point for the day was 7,541.81, and the lowest was 7,3",
+    "excerpt": "The S&P 500 Index closed at 7,584.31 on June 7, 2026, and opened at 7,537.36 on June 8, 2026. The highest point for the day was 7,541.81, and the lowest was 7,368.63. The 52-week high was 7,620.90 on June 2, 2026.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "S&P 500 Index (SP500) Analysis, News, And Chart Today"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "s-p-500-sp500-technical-analysis-medium-term-investtech",
+    "type": "news",
+    "title": "S&P 500 (SP500) - Technical Analysis - Medium term - Investtech",
+    "slug": "s-p-500-sp500-technical-analysis-medium-term-investtech",
+    "date": "2026-06-08",
+    "displayDate": "June 8, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The S&P 500 is technically positive for the medium term. It shows a rising trend and strong momentum. Investtech advises caution as they are not liable for any ",
+    "excerpt": "The S&P 500 is technically positive for the medium term. It shows a rising trend and strong momentum. Investtech advises caution as they are not liable for any losses.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "S&P 500 (SP500) - Technical Analysis - Medium term - Investtech"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "sector-views-monthly-stock-sector-outlook-charles-schwab",
+    "type": "news",
+    "title": "Sector Views: Monthly Stock Sector Outlook - Charles Schwab",
+    "slug": "sector-views-monthly-stock-sector-outlook-charles-schwab",
+    "date": "2026-06-08",
+    "displayDate": "June 8, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Charles Schwab provides a six- to 12-month outlook for stock sectors, focusing on the 11 S&P 500 sectors. The outlook helps investors understand sector performa",
+    "excerpt": "Charles Schwab provides a six- to 12-month outlook for stock sectors, focusing on the 11 S&P 500 sectors. The outlook helps investors understand sector performance trends. Current sectors may vary.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Sector Views: Monthly Stock Sector Outlook - Charles Schwab"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "u-s-economic-calendar-marketwatch",
+    "type": "news",
+    "title": "U.S. Economic Calendar - MarketWatch",
+    "slug": "u-s-economic-calendar-marketwatch",
+    "date": "2026-06-08",
+    "displayDate": "June 8, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Today's U.S. economic data includes existing home sales, wholesale inventories, and consumer price index updates. The latest CPI shows a 0.5% monthly increase. ",
+    "excerpt": "Today's U.S. economic data includes existing home sales, wholesale inventories, and consumer price index updates. The latest CPI shows a 0.5% monthly increase. The unemployment rate remains steady at 4.3%.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "U.S. Economic Calendar - MarketWatch"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "united-states-economy-at-a-glance-bureau-of-labor-statistics",
+    "type": "news",
+    "title": "United States Economy at a Glance - Bureau of Labor Statistics",
+    "slug": "united-states-economy-at-a-glance-bureau-of-labor-statistics",
+    "date": "2026-06-08",
+    "displayDate": "June 8, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The U.S. economy overview is provided by the Bureau of Labor Statistics, focusing on employment, inflation, and productivity at national, regional, state, and m",
+    "excerpt": "The U.S. economy overview is provided by the Bureau of Labor Statistics, focusing on employment, inflation, and productivity at national, regional, state, and metropolitan levels. Key data sources include the Current Employment Statistics and Local Area Unemployment Statistics programs. The latest d",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "United States Economy at a Glance - Bureau of Labor Statistics"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "united-states-federal-reserve-interest-rate-decision-investing-com",
+    "type": "news",
+    "title": "United States Federal Reserve Interest Rate Decision - Investing.com",
+    "slug": "united-states-federal-reserve-interest-rate-decision-investing-com",
+    "date": "2026-06-08",
+    "displayDate": "June 8, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Reserve's interest rate decision in June 2026 was 3.75%, with a non-unanimous 8-4 vote. The decision impacted currency valuations, with higher rates",
+    "excerpt": "The Federal Reserve's interest rate decision in June 2026 was 3.75%, with a non-unanimous 8-4 vote. The decision impacted currency valuations, with higher rates bullish for USD. The Fed held rates steady amid stable unemployment.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "United States Federal Reserve Interest Rate Decision - Investing.com"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "10-best-investments-for-2026-bankrate",
     "type": "news",
     "title": "10 Best Investments For 2026 | Bankrate",
@@ -17,48 +626,6 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "10 Best Investments For 2026 | Bankrate"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "10-best-investments-where-to-invest-in-2026-nerdwallet",
-    "type": "news",
-    "title": "10 Best Investments: Where to Invest in 2026 - NerdWallet",
-    "slug": "10-best-investments-where-to-invest-in-2026-nerdwallet",
-    "date": "2026-06-07",
-    "displayDate": "June 7, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "For 2026, consider high-yield savings accounts, corporate bonds, and diversified index funds for balanced risk and returns.",
-    "excerpt": "For 2026, consider high-yield savings accounts, corporate bonds, and diversified index funds for balanced risk and returns.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "10 Best Investments: Where to Invest in 2026 - NerdWallet"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "10-investment-strategies-for-new-investors-mintos",
-    "type": "news",
-    "title": "10 Investment strategies for new investors - Mintos",
-    "slug": "10-investment-strategies-for-new-investors-mintos",
-    "date": "2026-06-07",
-    "displayDate": "June 7, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "For new investors, consider long-term growth, short-term equity index funds, and income-focused strategies. Diversify with low-cost index funds or ETFs for begi",
-    "excerpt": "For new investors, consider long-term growth, short-term equity index funds, and income-focused strategies. Diversify with low-cost index funds or ETFs for beginners. Focus on high-yield, time-sensitive opportunities.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "10 Investment strategies for new investors - Mintos"
     },
     "readingTime": 3
   },
@@ -101,27 +668,6 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "5 Strategies to Navigate Market Volatility - Morgan Stanley"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "asian-market-headlines-breaking-stock-market-news-reuters",
-    "type": "news",
-    "title": "Asian Market Headlines | Breaking Stock Market News - Reuters",
-    "slug": "asian-market-headlines-breaking-stock-market-news-reuters",
-    "date": "2026-06-07",
-    "displayDate": "June 7, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "China encourages fund managers to support innovation while cautioning against hype. Indonesia's central bank and finance minister aim to boost asset yields. Asi",
-    "excerpt": "China encourages fund managers to support innovation while cautioning against hype. Indonesia's central bank and finance minister aim to boost asset yields. Asian markets are focusing on innovation and financial stability.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Asian Market Headlines | Breaking Stock Market News - Reuters"
     },
     "readingTime": 3
   },
@@ -189,27 +735,6 @@
     "readingTime": 3
   },
   {
-    "id": "cpi-home-u-s-bureau-of-labor-statistics",
-    "type": "news",
-    "title": "CPI Home : U.S. Bureau of Labor Statistics",
-    "slug": "cpi-home-u-s-bureau-of-labor-statistics",
-    "date": "2026-06-07",
-    "displayDate": "June 7, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Consumer Price Index (CPI) measures inflation in the U.S. It increased 0.6% in April 2026. The CPI-U is the primary index used by the Bureau of Labor Statis",
-    "excerpt": "The Consumer Price Index (CPI) measures inflation in the U.S. It increased 0.6% in April 2026. The CPI-U is the primary index used by the Bureau of Labor Statistics.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "CPI Home : U.S. Bureau of Labor Statistics"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "crypto-news-bitcoin-ethereum-xrp-news-crypto-news",
     "type": "news",
     "title": "Crypto News: Bitcoin, Ethereum & XRP News | crypto.news",
@@ -248,27 +773,6 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "Cryptocurrency pricing, market & regulation news - Yahoo Finance"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "earnings-breaking-news-and-press-releases-business-wire",
-    "type": "news",
-    "title": "Earnings Breaking News and Press Releases - Business Wire",
-    "slug": "earnings-breaking-news-and-press-releases-business-wire",
-    "date": "2026-06-07",
-    "displayDate": "June 7, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Business Wire disseminates earnings news and press releases, offering financial updates and market reactions. It helps public companies communicate important mi",
-    "excerpt": "Business Wire disseminates earnings news and press releases, offering financial updates and market reactions. It helps public companies communicate important milestones. The latest earnings reports are available on their website.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Earnings Breaking News and Press Releases - Business Wire"
     },
     "readingTime": 3
   },
@@ -462,27 +966,6 @@
     "readingTime": 3
   },
   {
-    "id": "economic-calendar",
-    "type": "news",
-    "title": "Economic Calendar",
-    "slug": "economic-calendar",
-    "date": "2026-06-07",
-    "displayDate": "June 7, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "An economic calendar lists upcoming financial events and data releases that can impact markets. It includes details on their potential market impact and histori",
-    "excerpt": "An economic calendar lists upcoming financial events and data releases that can impact markets. It includes details on their potential market impact and historical figures. MarketWatch's U.S. Economic Calendar focuses on domestic economic indicators.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Economic Calendar"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "economic-indicators-calendar-federal-reserve-bank-of-new-york",
     "type": "news",
     "title": "Economic Indicators Calendar - FEDERAL RESERVE BANK of NEW YORK",
@@ -521,48 +1004,6 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "Economic Indicators Calendar | New York Fed"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "european-asian-stocks-fall-amid-geopolitical-tensions-wsj",
-    "type": "news",
-    "title": "European, Asian Stocks Fall Amid Geopolitical Tensions - WSJ",
-    "slug": "european-asian-stocks-fall-amid-geopolitical-tensions-wsj",
-    "date": "2026-06-07",
-    "displayDate": "June 7, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "European and Asian stocks fell due to heightened geopolitical tensions, particularly amid the Israel-Iran conflict. US markets were closed for Juneteenth, and T",
-    "excerpt": "European and Asian stocks fell due to heightened geopolitical tensions, particularly amid the Israel-Iran conflict. US markets were closed for Juneteenth, and Trump had approved attack plans against Iran but held off. Oil prices fluctuated, while gold futures eased and the U.S. dollar strengthened.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "European, Asian Stocks Fall Amid Geopolitical Tensions - WSJ"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "fed-holds-interest-rates-steady-for-third-straight-meeting-as-powell",
-    "type": "news",
-    "title": "Fed holds interest rates steady for third straight meeting, as Powell ...",
-    "slug": "fed-holds-interest-rates-steady-for-third-straight-meeting-as-powell",
-    "date": "2026-06-07",
-    "displayDate": "June 7, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Reserve held interest rates steady for the third consecutive meeting, maintaining the range of 5.25%-5.50%, the highest since 2001. Chair Jerome Pow",
-    "excerpt": "The Federal Reserve held interest rates steady for the third consecutive meeting, maintaining the range of 5.25%-5.50%, the highest since 2001. Chair Jerome Powell announced plans to stay on as a board governor after his term ends. The decision reflects ongoing economic uncertainties and elevated in",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Fed holds interest rates steady for third straight meeting, as Powell ..."
     },
     "readingTime": 3
   },
@@ -609,27 +1050,6 @@
     "readingTime": 3
   },
   {
-    "id": "federal-reserve-keeps-interest-rates-steady-as-inflation-uncertainty",
-    "type": "news",
-    "title": "Federal Reserve keeps interest rates steady as inflation uncertainty ...",
-    "slug": "federal-reserve-keeps-interest-rates-steady-as-inflation-uncertainty",
-    "date": "2026-06-07",
-    "displayDate": "June 7, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Reserve kept interest rates steady at 3.50% to 3.75% amid inflation uncertainty, slower hiring, and geopolitical tensions. Energy prices may help cu",
-    "excerpt": "The Federal Reserve kept interest rates steady at 3.50% to 3.75% amid inflation uncertainty, slower hiring, and geopolitical tensions. Energy prices may help curb inflation, but shelter costs remain a concern.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Federal Reserve keeps interest rates steady as inflation uncertainty ..."
-    },
-    "readingTime": 3
-  },
-  {
     "id": "federal-reserve-keeps-interest-rates-steady-as-inflation",
     "type": "news",
     "title": "Federal Reserve keeps interest rates steady as inflation ...",
@@ -668,27 +1088,6 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "GDP, CPI and other key economic reports - Bankrate"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "global-companies-reports-and-earnings-tradingview",
-    "type": "news",
-    "title": "Global Companies Reports and Earnings - TradingView",
-    "slug": "global-companies-reports-and-earnings-tradingview",
-    "date": "2026-06-07",
-    "displayDate": "June 7, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Global companies' earnings reports and schedules are available on TradingView, Trading Economics, and Nasdaq. Key metrics include EPS, revenue, and market capit",
-    "excerpt": "Global companies' earnings reports and schedules are available on TradingView, Trading Economics, and Nasdaq. Key metrics include EPS, revenue, and market capitalization. Use these resources for financial analysis.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Global Companies Reports and Earnings - TradingView"
     },
     "readingTime": 3
   },
@@ -777,27 +1176,6 @@
     "readingTime": 3
   },
   {
-    "id": "healthcare-sector-morningstar",
-    "type": "news",
-    "title": "Healthcare Sector | Morningstar",
-    "slug": "healthcare-sector-morningstar",
-    "date": "2026-06-07",
-    "displayDate": "June 7, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The healthcare sector includes undervalued stocks like Zoetis and Danaher, and Morningstar provides insights on the Morningstar Health Care Index. Zoetis is tra",
-    "excerpt": "The healthcare sector includes undervalued stocks like Zoetis and Danaher, and Morningstar provides insights on the Morningstar Health Care Index. Zoetis is trading below its fair value estimate.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Healthcare Sector | Morningstar"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "healthcare-sector",
     "type": "news",
     "title": "Healthcare Sector",
@@ -815,27 +1193,6 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "Healthcare Sector"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "how-to-invest-in-today-s-market-u-s-bank",
-    "type": "news",
-    "title": "How to Invest in Today's Market | U.S. Bank",
-    "slug": "how-to-invest-in-today-s-market-u-s-bank",
-    "date": "2026-06-07",
-    "displayDate": "June 7, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "To invest in today's market, separate short-term needs from long-term funds. Start with a solid financial foundation, define your strategy, and choose appropria",
-    "excerpt": "To invest in today's market, separate short-term needs from long-term funds. Start with a solid financial foundation, define your strategy, and choose appropriate investment accounts. Regularly review your plan.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "How to Invest in Today's Market | U.S. Bank"
     },
     "readingTime": 3
   },
@@ -945,27 +1302,6 @@
     "readingTime": 3
   },
   {
-    "id": "meta-title-sectors-yahoo-finance",
-    "type": "news",
-    "title": "META_TITLE_SECTORS - Yahoo Finance",
-    "slug": "meta-title-sectors-yahoo-finance",
-    "date": "2026-06-07",
-    "displayDate": "June 7, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The technology sector includes sub-sectors like semiconductors, software, and consumer electronics. Yahoo Finance lists technology as a major sector with variou",
-    "excerpt": "The technology sector includes sub-sectors like semiconductors, software, and consumer electronics. Yahoo Finance lists technology as a major sector with various sub-sectors. The technology sector is currently experiencing minor fluctuations.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "META_TITLE_SECTORS - Yahoo Finance"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "meta-title-sectors",
     "type": "news",
     "title": "META_TITLE_SECTORS",
@@ -1029,27 +1365,6 @@
     "readingTime": 3
   },
   {
-    "id": "s-p-500-index-sp500-analysis-news-and-chart-today",
-    "type": "news",
-    "title": "S&P 500 Index (SP500) Analysis, News, And Chart Today",
-    "slug": "s-p-500-index-sp500-analysis-news-and-chart-today",
-    "date": "2026-06-07",
-    "displayDate": "June 7, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The S&P 500 Index reached a new 52-week high today at 7,620.90, surpassing previous highs. The current price is 7,537.36, with a previous close of 7,584.31. Tod",
-    "excerpt": "The S&P 500 Index reached a new 52-week high today at 7,620.90, surpassing previous highs. The current price is 7,537.36, with a previous close of 7,584.31. Today's high was 7,541.81 and low was 7,368.63.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "S&P 500 Index (SP500) Analysis, News, And Chart Today"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "s-p-500-index-technical-analysis-barchart-com",
     "type": "news",
     "title": "S&P 500 Index Technical Analysis - Barchart.com",
@@ -1088,27 +1403,6 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "S&P Sectors Weekly Performance(%) - MacroMicro"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "sector-views-monthly-stock-sector-outlook-charles-schwab",
-    "type": "news",
-    "title": "Sector Views: Monthly Stock Sector Outlook - Charles Schwab",
-    "slug": "sector-views-monthly-stock-sector-outlook-charles-schwab",
-    "date": "2026-06-07",
-    "displayDate": "June 7, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Forward earnings growth is weak in Information Technology and cyclical sectors. Materials is highly cyclical, tied to global economic growth. Tactical portfolio",
-    "excerpt": "Forward earnings growth is weak in Information Technology and cyclical sectors. Materials is highly cyclical, tied to global economic growth. Tactical portfolio shifts can use sector ratings as a guide.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Sector Views: Monthly Stock Sector Outlook - Charles Schwab"
     },
     "readingTime": 3
   },
@@ -1344,27 +1638,6 @@
     "readingTime": 3
   },
   {
-    "id": "u-s-economic-calendar-marketwatch",
-    "type": "news",
-    "title": "U.S. Economic Calendar - MarketWatch",
-    "slug": "u-s-economic-calendar-marketwatch",
-    "date": "2026-06-07",
-    "displayDate": "June 7, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The U.S. Economic Calendar on MarketWatch lists key economic reports and events. Today's highlights include job openings and inflation data. Check MarketWatch f",
-    "excerpt": "The U.S. Economic Calendar on MarketWatch lists key economic reports and events. Today's highlights include job openings and inflation data. Check MarketWatch for the latest updates.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "U.S. Economic Calendar - MarketWatch"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "u-s-stock-market-headlines-breaking-stock-market-news-reuters",
     "type": "news",
     "title": "U.S. Stock Market Headlines | Breaking Stock Market News - Reuters",
@@ -1403,48 +1676,6 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "United States | Economic Indicators | Moody's Analytics"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "united-states-economy-at-a-glance-bureau-of-labor-statistics",
-    "type": "news",
-    "title": "United States Economy at a Glance - Bureau of Labor Statistics",
-    "slug": "united-states-economy-at-a-glance-bureau-of-labor-statistics",
-    "date": "2026-06-07",
-    "displayDate": "June 7, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The U.S. economy shows key indicators like unemployment rates and job changes. The latest data is from June 2026, with revisions available. Bureau of Labor Stat",
-    "excerpt": "The U.S. economy shows key indicators like unemployment rates and job changes. The latest data is from June 2026, with revisions available. Bureau of Labor Statistics provides official, secure information.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "United States Economy at a Glance - Bureau of Labor Statistics"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "united-states-federal-reserve-interest-rate-decision-investing-com",
-    "type": "news",
-    "title": "United States Federal Reserve Interest Rate Decision - Investing.com",
-    "slug": "united-states-federal-reserve-interest-rate-decision-investing-com",
-    "date": "2026-06-07",
-    "displayDate": "June 7, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Reserve's interest rate decision is set at 3.75%. The decision was not unanimous, with four officials dissenting. The rate decision impacts currency",
-    "excerpt": "The Federal Reserve's interest rate decision is set at 3.75%. The decision was not unanimous, with four officials dissenting. The rate decision impacts currency valuation, with higher rates bullish for the USD.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "United States Federal Reserve Interest Rate Decision - Investing.com"
     },
     "readingTime": 3
   },
@@ -1743,27 +1974,6 @@
     "readingTime": 3
   },
   {
-    "id": "asia-stock-markets-cnbc",
-    "type": "news",
-    "title": "Asia Stock Markets - CNBC",
-    "slug": "asia-stock-markets-cnbc",
-    "date": "2026-06-06",
-    "displayDate": "June 6, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Asia markets closed mostly in the red, with Japan's Nikkei 225 losing 0.88%. Mixed trading occurred as investors assessed trade developments. India's Nifty 50 a",
-    "excerpt": "Asia markets closed mostly in the red, with Japan's Nikkei 225 losing 0.88%. Mixed trading occurred as investors assessed trade developments. India's Nifty 50 and BSE Sensex fell slightly.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Asia Stock Markets - CNBC"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "asia-stock-markets-wsj",
     "type": "news",
     "title": "Asia Stock Markets - WSJ",
@@ -1844,48 +2054,6 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "Best Performing Sector During the Iran Conflict May Surprise You - LPL Financial - Commentaries"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "bitcoin-btc-news-analysis-and-forecast-fxstreet",
-    "type": "news",
-    "title": "Bitcoin (BTC) News, Analysis and Forecast - FXStreet",
-    "slug": "bitcoin-btc-news-analysis-and-forecast-fxstreet",
-    "date": "2026-06-06",
-    "displayDate": "June 6, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Bitcoin is currently below $74,000 and faces ETF outflows, with analysts predicting continued price declines. BTC bulls remain strong due to institutional deman",
-    "excerpt": "Bitcoin is currently below $74,000 and faces ETF outflows, with analysts predicting continued price declines. BTC bulls remain strong due to institutional demand. Top predictions suggest BTC could reach $60,000.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Bitcoin (BTC) News, Analysis and Forecast - FXStreet"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "bitcoin-btc-price-usd-today-news-charts-market-cap-coinbase",
-    "type": "news",
-    "title": "Bitcoin (BTC) Price USD Today, News, Charts, Market Cap | Coinbase",
-    "slug": "bitcoin-btc-price-usd-today-news-charts-market-cap-coinbase",
-    "date": "2026-06-06",
-    "displayDate": "June 6, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Bitcoin's price today is $61,069.46. It has decreased by 15% from yesterday's high. The market cap is $1.2 trillion.",
-    "excerpt": "Bitcoin's price today is $61,069.46. It has decreased by 15% from yesterday's high. The market cap is $1.2 trillion.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Bitcoin (BTC) Price USD Today, News, Charts, Market Cap | Coinbase"
     },
     "readingTime": 3
   },
@@ -2201,48 +2369,6 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "Meeting calendars and information"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "s-p-500-analysis-and-opinion-investing-com",
-    "type": "news",
-    "title": "S&P 500 Analysis and Opinion - Investing.com",
-    "slug": "s-p-500-analysis-and-opinion-investing-com",
-    "date": "2026-06-06",
-    "displayDate": "June 6, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "S&P 500 experienced a significant pullback but retains a bullish trend. Short sellers retreated following Andrew Left's conviction. Macro risks are growing, acc",
-    "excerpt": "S&P 500 experienced a significant pullback but retains a bullish trend. Short sellers retreated following Andrew Left's conviction. Macro risks are growing, according to options markets.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "S&P 500 Analysis and Opinion - Investing.com"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "s-p-500-sp500-technical-analysis-medium-term-investtech",
-    "type": "news",
-    "title": "S&P 500 (SP500) - Technical Analysis - Medium term - Investtech",
-    "slug": "s-p-500-sp500-technical-analysis-medium-term-investtech",
-    "date": "2026-06-06",
-    "displayDate": "June 6, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The S&P 500 technical analysis for medium term shows key trends and signals. Short-term and long-term analyses are also available. Investor responsibility for o",
-    "excerpt": "The S&P 500 technical analysis for medium term shows key trends and signals. Short-term and long-term analyses are also available. Investor responsibility for outcomes is emphasized.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "S&P 500 (SP500) - Technical Analysis - Medium term - Investtech"
     },
     "readingTime": 3
   },
