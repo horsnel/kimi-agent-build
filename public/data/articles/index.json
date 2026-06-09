@@ -1,5 +1,26 @@
 [
   {
+    "id": "10-investment-strategies-for-new-investors-mintos",
+    "type": "news",
+    "title": "10 Investment strategies for new investors - Mintos",
+    "slug": "10-investment-strategies-for-new-investors-mintos",
+    "date": "2026-06-09",
+    "displayDate": "June 9, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "For new investors, focus on long-term strategies, diversify with stocks and bonds, and start small with automated investing.",
+    "excerpt": "For new investors, focus on long-term strategies, diversify with stocks and bonds, and start small with automated investing.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "10 Investment strategies for new investors - Mintos"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "5-strategies-to-navigate-market-volatility-morgan-stanley",
     "type": "news",
     "title": "5 Strategies to Navigate Market Volatility - Morgan Stanley",
@@ -17,6 +38,27 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "5 Strategies to Navigate Market Volatility - Morgan Stanley"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "ahead-of-wall-street-daily-stock-market-outlook",
+    "type": "news",
+    "title": "Ahead of Wall Street - Daily Stock Market Outlook",
+    "slug": "ahead-of-wall-street-daily-stock-market-outlook",
+    "date": "2026-06-09",
+    "displayDate": "June 9, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Q1 earnings season is over; focus shifts to Q2. Key stocks: Campbell’s Soup beat estimates, Duluth Holdings reported better-than-expected results, FuelCell Ener",
+    "excerpt": "Q1 earnings season is over; focus shifts to Q2. Key stocks: Campbell’s Soup beat estimates, Duluth Holdings reported better-than-expected results, FuelCell Energy missed but stock rose. AI rally boosts dividend stocks.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Ahead of Wall Street - Daily Stock Market Outlook"
     },
     "readingTime": 3
   },
@@ -63,6 +105,27 @@
     "readingTime": 3
   },
   {
+    "id": "company-earnings-calendar-yahoo-finance",
+    "type": "news",
+    "title": "Company Earnings Calendar - Yahoo Finance",
+    "slug": "company-earnings-calendar-yahoo-finance",
+    "date": "2026-06-09",
+    "displayDate": "June 9, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "To access the company earnings calendar on Yahoo Finance, go to Yahoo Finance, click on Research, then select Calendar. The earnings section lists upcoming earn",
+    "excerpt": "To access the company earnings calendar on Yahoo Finance, go to Yahoo Finance, click on Research, then select Calendar. The earnings section lists upcoming earnings reports.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Company Earnings Calendar - Yahoo Finance"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "cpi-home-u-s-bureau-of-labor-statistics",
     "type": "news",
     "title": "CPI Home : U.S. Bureau of Labor Statistics",
@@ -80,6 +143,48 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "CPI Home : U.S. Bureau of Labor Statistics"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "current-u-s-inflation-rate-is-3-8-chart-and-why-it-matters",
+    "type": "news",
+    "title": "Current U.S. Inflation Rate Is 3.8%: Chart and Why It Matters",
+    "slug": "current-u-s-inflation-rate-is-3-8-chart-and-why-it-matters",
+    "date": "2026-06-09",
+    "displayDate": "June 9, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The U.S. inflation rate is 3.8% as of June 2026, up from 3.3% in March. This rise is driven by increases in energy and shelter costs. Higher inflation impacts p",
+    "excerpt": "The U.S. inflation rate is 3.8% as of June 2026, up from 3.3% in March. This rise is driven by increases in energy and shelter costs. Higher inflation impacts purchasing power and economic planning.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Current U.S. Inflation Rate Is 3.8%: Chart and Why It Matters"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "earnings-breaking-news-and-press-releases-business-wire",
+    "type": "news",
+    "title": "Earnings Breaking News and Press Releases - Business Wire",
+    "slug": "earnings-breaking-news-and-press-releases-business-wire",
+    "date": "2026-06-09",
+    "displayDate": "June 9, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Business Wire offers the latest earnings news and press releases. Their services help public companies distribute press releases and enhance investor relations.",
+    "excerpt": "Business Wire offers the latest earnings news and press releases. Their services help public companies distribute press releases and enhance investor relations. For current earnings updates, visit their newsroom.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Earnings Breaking News and Press Releases - Business Wire"
     },
     "readingTime": 3
   },
@@ -126,6 +231,48 @@
     "readingTime": 3
   },
   {
+    "id": "earnings-cnbc",
+    "type": "news",
+    "title": "Earnings - CNBC",
+    "slug": "earnings-cnbc",
+    "date": "2026-06-09",
+    "displayDate": "June 9, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "CNBC covers earnings reports, including recent beats and misses by major companies. CrowdStrike and HPE had notable earnings results. Best Buy and Kohl's also r",
+    "excerpt": "CNBC covers earnings reports, including recent beats and misses by major companies. CrowdStrike and HPE had notable earnings results. Best Buy and Kohl's also reported earnings.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Earnings - CNBC"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "earnings-scheduled-for-monday-june-8-2026-earnings-whispers",
+    "type": "news",
+    "title": "Earnings Scheduled for Monday, June 8, 2026 - Earnings Whispers",
+    "slug": "earnings-scheduled-for-monday-june-8-2026-earnings-whispers",
+    "date": "2026-06-09",
+    "displayDate": "June 9, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The most anticipated earnings releases on June 8, 2026, are from Oracle, Adobe, FuelCell Energy, Chewy, and Vail Resorts. This information is based on the most ",
+    "excerpt": "The most anticipated earnings releases on June 8, 2026, are from Oracle, Adobe, FuelCell Energy, Chewy, and Vail Resorts. This information is based on the most recent data available.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Earnings Scheduled for Monday, June 8, 2026 - Earnings Whispers"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "economic-calendar",
     "type": "news",
     "title": "Economic Calendar",
@@ -143,6 +290,27 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "Economic Calendar"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "economic-indicators-calendar-federal-reserve-bank-of-new-york",
+    "type": "news",
+    "title": "Economic Indicators Calendar - FEDERAL RESERVE BANK of NEW YORK",
+    "slug": "economic-indicators-calendar-federal-reserve-bank-of-new-york",
+    "date": "2026-06-09",
+    "displayDate": "June 9, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Reserve Bank of New York's Economic Indicators Calendar lists key economic data releases. For specific dates and times, visit their official website",
+    "excerpt": "The Federal Reserve Bank of New York's Economic Indicators Calendar lists key economic data releases. For specific dates and times, visit their official website. This calendar helps track important economic updates.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Economic Indicators Calendar - FEDERAL RESERVE BANK of NEW YORK"
     },
     "readingTime": 3
   },
@@ -168,6 +336,27 @@
     "readingTime": 3
   },
   {
+    "id": "economic-sector-performance-dashboards-yahoo-finance",
+    "type": "news",
+    "title": "Economic Sector Performance Dashboards - Yahoo Finance",
+    "slug": "economic-sector-performance-dashboards-yahoo-finance",
+    "date": "2026-06-09",
+    "displayDate": "June 9, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Yahoo Finance's Economic Sector Performance Dashboards cover major sectors like technology, healthcare, and industrials. Sectors include detailed performance me",
+    "excerpt": "Yahoo Finance's Economic Sector Performance Dashboards cover major sectors like technology, healthcare, and industrials. Sectors include detailed performance metrics and comparisons. The dashboards provide insights into sector trends and relative performance.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Economic Sector Performance Dashboards - Yahoo Finance"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "economic-sector-performance-dashboards",
     "type": "news",
     "title": "Economic Sector Performance Dashboards",
@@ -189,6 +378,27 @@
     "readingTime": 3
   },
   {
+    "id": "ethereum-eth-news-analysis-and-forecast-fxstreet",
+    "type": "news",
+    "title": "Ethereum (ETH) News, Analysis and Forecast - FXStreet",
+    "slug": "ethereum-eth-news-analysis-and-forecast-fxstreet",
+    "date": "2026-06-09",
+    "displayDate": "June 9, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Ethereum's price is predicted to drop below $2,000 if support fails, but bullish accumulation below $2,400 remains. Bitcoin faces ETF outflows and potential pri",
+    "excerpt": "Ethereum's price is predicted to drop below $2,000 if support fails, but bullish accumulation below $2,400 remains. Bitcoin faces ETF outflows and potential price declines. Current market trends suggest volatility in both cryptocurrencies.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Ethereum (ETH) News, Analysis and Forecast - FXStreet"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "ethereum-eth-news-analysis-and-forecast",
     "type": "news",
     "title": "Ethereum (ETH) News, Analysis and Forecast",
@@ -206,6 +416,27 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "Ethereum (ETH) News, Analysis and Forecast"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "federal-open-market-committee-wikipedia",
+    "type": "news",
+    "title": "Federal Open Market Committee - Wikipedia",
+    "slug": "federal-open-market-committee-wikipedia",
+    "date": "2026-06-09",
+    "displayDate": "June 9, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Open Market Committee (FOMC) oversees the Federal Reserve's open market operations and sets monetary policy by targeting the federal funds rate. It ",
+    "excerpt": "The Federal Open Market Committee (FOMC) oversees the Federal Reserve's open market operations and sets monetary policy by targeting the federal funds rate. It consists of Federal Reserve Board members and selected regional bank presidents. The current chair is Jerome Powell.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Federal Open Market Committee - Wikipedia"
     },
     "readingTime": 3
   },
@@ -315,6 +546,111 @@
     "readingTime": 3
   },
   {
+    "id": "healthcare-yahoo-finance",
+    "type": "news",
+    "title": "Healthcare - Yahoo Finance",
+    "slug": "healthcare-yahoo-finance",
+    "date": "2026-06-09",
+    "displayDate": "June 9, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The healthcare sector includes drug manufacturers, biotechnology, healthcare plans, medical devices, and more. The NYSE Healthcare Index (NYPTR) tracks the perf",
+    "excerpt": "The healthcare sector includes drug manufacturers, biotechnology, healthcare plans, medical devices, and more. The NYSE Healthcare Index (NYPTR) tracks the performance of major healthcare companies. As of June 9, 2026, the index closed at 43,142.07.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Healthcare - Yahoo Finance"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "how-to-invest-in-today-s-market-u-s-bank",
+    "type": "news",
+    "title": "How to Invest in Today's Market | U.S. Bank",
+    "slug": "how-to-invest-in-today-s-market-u-s-bank",
+    "date": "2026-06-09",
+    "displayDate": "June 9, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "To invest in today's market, separate short-term needs from long-term funds. Start with a solid financial foundation, then define your strategy and choose inves",
+    "excerpt": "To invest in today's market, separate short-term needs from long-term funds. Start with a solid financial foundation, then define your strategy and choose investment accounts. Regularly review your plan.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "How to Invest in Today's Market | U.S. Bank"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "huge-bitcoin-ethereum-xrp-news-crypto-youtube",
+    "type": "news",
+    "title": "HUGE BITCOIN, ETHEREUM, & XRP NEWS! CRYPTO ... - YouTube",
+    "slug": "huge-bitcoin-ethereum-xrp-news-crypto-youtube",
+    "date": "2026-06-09",
+    "displayDate": "June 9, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "BlackRock Bitcoin ETF experienced a selloff; Strive acquired 1,109 bitcoins; Goldman Sachs disclosed large crypto holdings.",
+    "excerpt": "BlackRock Bitcoin ETF experienced a selloff; Strive acquired 1,109 bitcoins; Goldman Sachs disclosed large crypto holdings.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "HUGE BITCOIN, ETHEREUM, & XRP NEWS! CRYPTO ... - YouTube"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "inflation-consumer-prices-annual-united-states",
+    "type": "news",
+    "title": "Inflation, consumer prices (annual %) - United States",
+    "slug": "inflation-consumer-prices-annual-united-states",
+    "date": "2026-06-09",
+    "displayDate": "June 9, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The annual inflation rate for consumer prices in the United States is 3.80% as of April 2026. This figure reflects changes in the cost of living based on the Co",
+    "excerpt": "The annual inflation rate for consumer prices in the United States is 3.80% as of April 2026. This figure reflects changes in the cost of living based on the Consumer Price Index. The data is sourced from Trading Economics.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Inflation, consumer prices (annual %) - United States"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "inflation-economic-data-series-fred-st-louis-fed",
+    "type": "news",
+    "title": "Inflation - Economic Data Series | FRED | St. Louis Fed",
+    "slug": "inflation-economic-data-series-fred-st-louis-fed",
+    "date": "2026-06-09",
+    "displayDate": "June 9, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Inflation data is available on FRED from the St. Louis Fed, including CPI and 20-year inflation series. The CPI series includes 4,901 data series. Inflation dat",
+    "excerpt": "Inflation data is available on FRED from the St. Louis Fed, including CPI and 20-year inflation series. The CPI series includes 4,901 data series. Inflation data is seasonally adjusted and not seasonally adjusted.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Inflation - Economic Data Series | FRED | St. Louis Fed"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "investment-strategies-for-today-and-long-term-blackrock",
     "type": "news",
     "title": "Investment strategies for today and long-term - BlackRock",
@@ -336,6 +672,27 @@
     "readingTime": 3
   },
   {
+    "id": "investment-strategies-for-today-s-market-linkedin",
+    "type": "news",
+    "title": "Investment Strategies for Today's Market - LinkedIn",
+    "slug": "investment-strategies-for-today-s-market-linkedin",
+    "date": "2026-06-09",
+    "displayDate": "June 9, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Invest in high free cash flow companies for stability and growth. Monitor the bull market cycle to avoid risky exuberance. Stick to a disciplined, diversified p",
+    "excerpt": "Invest in high free cash flow companies for stability and growth. Monitor the bull market cycle to avoid risky exuberance. Stick to a disciplined, diversified portfolio of low-cost index funds for long-term success.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Investment Strategies for Today's Market - LinkedIn"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "live-updates-interest-rates-steady-federal-reserve-forecasts-1-rate",
     "type": "news",
     "title": "Live updates: Interest rates steady, Federal Reserve forecasts 1 rate ...",
@@ -353,6 +710,27 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "Live updates: Interest rates steady, Federal Reserve forecasts 1 rate ..."
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "sector-views-monthly-stock-sector-outlook-charles-schwab",
+    "type": "news",
+    "title": "Sector Views: Monthly Stock Sector Outlook - Charles Schwab",
+    "slug": "sector-views-monthly-stock-sector-outlook-charles-schwab",
+    "date": "2026-06-09",
+    "displayDate": "June 9, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Charles Schwab's monthly stock sector outlook covers the 11 S&P 500 sectors. Utilities are currently less favored. The report provides insights on sector perfor",
+    "excerpt": "Charles Schwab's monthly stock sector outlook covers the 11 S&P 500 sectors. Utilities are currently less favored. The report provides insights on sector performance.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Sector Views: Monthly Stock Sector Outlook - Charles Schwab"
     },
     "readingTime": 3
   },
@@ -481,6 +859,48 @@
       "alt": "The Block: Bitcoin, Ethereum & Crypto News | Live Prices ..."
     },
     "readingTime": 5
+  },
+  {
+    "id": "the-fed-april-28-29-2026-fomc-meeting-federal-reserve",
+    "type": "news",
+    "title": "The Fed - April 28-29, 2026 FOMC Meeting - Federal Reserve",
+    "slug": "the-fed-april-28-29-2026-fomc-meeting-federal-reserve",
+    "date": "2026-06-09",
+    "displayDate": "June 9, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Open Market Committee met on April 28-29, 2026, and released minutes on May 20, 2026. The meeting was held at the Board of Governors' offices. The F",
+    "excerpt": "The Federal Open Market Committee met on April 28-29, 2026, and released minutes on May 20, 2026. The meeting was held at the Board of Governors' offices. The Federal Reserve's primary goal is to maintain a safe, flexible, and stable monetary and financial system.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "The Fed - April 28-29, 2026 FOMC Meeting - Federal Reserve"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "the-fed-meeting-calendars-and-information-federal-reserve",
+    "type": "news",
+    "title": "The Fed - Meeting calendars and information - Federal Reserve",
+    "slug": "the-fed-meeting-calendars-and-information-federal-reserve",
+    "date": "2026-06-09",
+    "displayDate": "June 9, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Reserve's next FOMC meeting is on July 3, 2026. The Federal Reserve Banks are open but the Board of Governors is closed on this date. Federal Reserv",
+    "excerpt": "The Federal Reserve's next FOMC meeting is on July 3, 2026. The Federal Reserve Banks are open but the Board of Governors is closed on this date. Federal Reserve staff do not speak publicly around meeting dates.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "The Fed - Meeting calendars and information - Federal Reserve"
+    },
+    "readingTime": 3
   },
   {
     "id": "u-s-economic-calendar-marketwatch",
@@ -647,27 +1067,6 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "10 Best Investments: Where to Invest in 2026 - NerdWallet"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "10-investment-strategies-for-new-investors-mintos",
-    "type": "news",
-    "title": "10 Investment strategies for new investors - Mintos",
-    "slug": "10-investment-strategies-for-new-investors-mintos",
-    "date": "2026-06-08",
-    "displayDate": "June 8, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "For new investors, consider long-term strategies, short-term gains, and income-focused investments. Diversify with stocks, bonds, and real estate. Manually inve",
-    "excerpt": "For new investors, consider long-term strategies, short-term gains, and income-focused investments. Diversify with stocks, bonds, and real estate. Manually invest in secured loans for safety.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "10 Investment strategies for new investors - Mintos"
     },
     "readingTime": 3
   },
@@ -840,27 +1239,6 @@
     "readingTime": 3
   },
   {
-    "id": "company-earnings-calendar-yahoo-finance",
-    "type": "news",
-    "title": "Company Earnings Calendar - Yahoo Finance",
-    "slug": "company-earnings-calendar-yahoo-finance",
-    "date": "2026-06-08",
-    "displayDate": "June 8, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Yahoo Finance's earnings calendar lists upcoming and recent company earnings reports. To access it, go to Yahoo Finance and select \"Calendar\" under \"Research.\" ",
-    "excerpt": "Yahoo Finance's earnings calendar lists upcoming and recent company earnings reports. To access it, go to Yahoo Finance and select \"Calendar\" under \"Research.\" The calendar includes detailed financial data for major companies.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Company Earnings Calendar - Yahoo Finance"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "crypto-news-bitcoin-ethereum-xrp-news-crypto-news",
     "type": "news",
     "title": "Crypto News: Bitcoin, Ethereum & XRP News | crypto.news",
@@ -878,48 +1256,6 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "Crypto News: Bitcoin, Ethereum & XRP News | crypto.news"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "current-u-s-inflation-rate-is-3-8-chart-and-why-it-matters",
-    "type": "news",
-    "title": "Current U.S. Inflation Rate Is 3.8%: Chart and Why It Matters",
-    "slug": "current-u-s-inflation-rate-is-3-8-chart-and-why-it-matters",
-    "date": "2026-06-08",
-    "displayDate": "June 8, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The U.S. inflation rate is 3.8% as of June 2026, up from 3.3% in March. This rise is driven by increases in energy and shelter costs. Higher inflation can affec",
-    "excerpt": "The U.S. inflation rate is 3.8% as of June 2026, up from 3.3% in March. This rise is driven by increases in energy and shelter costs. Higher inflation can affect purchasing power and economic planning.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Current U.S. Inflation Rate Is 3.8%: Chart and Why It Matters"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "earnings-breaking-news-and-press-releases-business-wire",
-    "type": "news",
-    "title": "Earnings Breaking News and Press Releases - Business Wire",
-    "slug": "earnings-breaking-news-and-press-releases-business-wire",
-    "date": "2026-06-08",
-    "displayDate": "June 8, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Business Wire provides earnings news and press releases for quarterly and annual reports. It is an American company that shares press releases globally. The lat",
-    "excerpt": "Business Wire provides earnings news and press releases for quarterly and annual reports. It is an American company that shares press releases globally. The latest earnings updates are available on their website.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Earnings Breaking News and Press Releases - Business Wire"
     },
     "readingTime": 3
   },
@@ -987,48 +1323,6 @@
     "readingTime": 3
   },
   {
-    "id": "earnings-cnbc",
-    "type": "news",
-    "title": "Earnings - CNBC",
-    "slug": "earnings-cnbc",
-    "date": "2026-06-08",
-    "displayDate": "June 8, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "CrowdStrike narrowly beat earnings estimates but stock fell 10%. HPE stock skyrocketed 30% on earnings beat. Gap shares tumbled 14% after cutting sales guidance",
-    "excerpt": "CrowdStrike narrowly beat earnings estimates but stock fell 10%. HPE stock skyrocketed 30% on earnings beat. Gap shares tumbled 14% after cutting sales guidance.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Earnings - CNBC"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "earnings-scheduled-for-monday-june-8-2026-earnings-whispers",
-    "type": "news",
-    "title": "Earnings Scheduled for Monday, June 8, 2026 - Earnings Whispers",
-    "slug": "earnings-scheduled-for-monday-june-8-2026-earnings-whispers",
-    "date": "2026-06-08",
-    "displayDate": "June 8, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "On June 8, 2026, notable earnings include Anixa Biosciences, BitFuFu Inc., Cango, and Chewy. Oracle, Adobe, and Vail Resorts are also scheduled. This date is si",
-    "excerpt": "On June 8, 2026, notable earnings include Anixa Biosciences, BitFuFu Inc., Cango, and Chewy. Oracle, Adobe, and Vail Resorts are also scheduled. This date is significant for financial market updates.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Earnings Scheduled for Monday, June 8, 2026 - Earnings Whispers"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "economic-indicator-release-schedule-list-view-us-census-bureau",
     "type": "news",
     "title": "Economic Indicator Release Schedule: List View - US Census Bureau",
@@ -1046,48 +1340,6 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "Economic Indicator Release Schedule: List View - US Census Bureau"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "economic-sector-performance-dashboards-yahoo-finance",
-    "type": "news",
-    "title": "Economic Sector Performance Dashboards - Yahoo Finance",
-    "slug": "economic-sector-performance-dashboards-yahoo-finance",
-    "date": "2026-06-08",
-    "displayDate": "June 8, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Yahoo Finance provides sector performance dashboards for various industries, including technology, healthcare, and financial services. The S&P 500's sector perf",
-    "excerpt": "Yahoo Finance provides sector performance dashboards for various industries, including technology, healthcare, and financial services. The S&P 500's sector performance is analyzed regularly. Current data is available for review.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Economic Sector Performance Dashboards - Yahoo Finance"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "ethereum-eth-news-analysis-and-forecast-fxstreet",
-    "type": "news",
-    "title": "Ethereum (ETH) News, Analysis and Forecast - FXStreet",
-    "slug": "ethereum-eth-news-analysis-and-forecast-fxstreet",
-    "date": "2026-06-08",
-    "displayDate": "June 8, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Ethereum prices are under pressure, consolidating near $1,600, but recent bullish accumulation suggests potential for a rise to $1,800. Despite market volatilit",
-    "excerpt": "Ethereum prices are under pressure, consolidating near $1,600, but recent bullish accumulation suggests potential for a rise to $1,800. Despite market volatility, Ethereum remains a favored investment for some investors.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Ethereum (ETH) News, Analysis and Forecast - FXStreet"
     },
     "readingTime": 3
   },
@@ -1155,27 +1407,6 @@
     "readingTime": 3
   },
   {
-    "id": "federal-open-market-committee-wikipedia",
-    "type": "news",
-    "title": "Federal Open Market Committee - Wikipedia",
-    "slug": "federal-open-market-committee-wikipedia",
-    "date": "2026-06-08",
-    "displayDate": "June 8, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Open Market Committee (FOMC) oversees the Federal Reserve's open market operations, sets monetary policy, and influences the federal funds rate. It ",
-    "excerpt": "The Federal Open Market Committee (FOMC) oversees the Federal Reserve's open market operations, sets monetary policy, and influences the federal funds rate. It consists of Federal Reserve Board members and selected regional bank presidents. The current chairperson is Jerome Powell.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Federal Open Market Committee - Wikipedia"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "gdp-cpi-and-other-key-economic-reports-bankrate",
     "type": "news",
     "title": "GDP, CPI and other key economic reports - Bankrate",
@@ -1239,48 +1470,6 @@
     "readingTime": 3
   },
   {
-    "id": "how-to-invest-in-today-s-market-u-s-bank",
-    "type": "news",
-    "title": "How to Invest in Today's Market | U.S. Bank",
-    "slug": "how-to-invest-in-today-s-market-u-s-bank",
-    "date": "2026-06-08",
-    "displayDate": "June 8, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "To invest in today's market, separate short-term needs from long-term funds. Start with a solid financial foundation, define your strategy, and choose appropria",
-    "excerpt": "To invest in today's market, separate short-term needs from long-term funds. Start with a solid financial foundation, define your strategy, and choose appropriate accounts. Regularly review your plan.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "How to Invest in Today's Market | U.S. Bank"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "inflation-consumer-prices-annual-united-states",
-    "type": "news",
-    "title": "Inflation, consumer prices (annual %) - United States",
-    "slug": "inflation-consumer-prices-annual-united-states",
-    "date": "2026-06-08",
-    "displayDate": "June 8, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Inflation, consumer prices in the United States, as of June 2026, is tracked by the Federal Reserve Bank of St. Louis and the World Bank. The latest data shows ",
-    "excerpt": "Inflation, consumer prices in the United States, as of June 2026, is tracked by the Federal Reserve Bank of St. Louis and the World Bank. The latest data shows annual changes in consumer prices.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Inflation, consumer prices (annual %) - United States"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "inflation-consumer-prices-for-the-united-states-fpcpitotlzgusa",
     "type": "news",
     "title": "Inflation, consumer prices for the United States (FPCPITOTLZGUSA)",
@@ -1302,27 +1491,6 @@
     "readingTime": 3
   },
   {
-    "id": "inflation-economic-data-series-fred-st-louis-fed",
-    "type": "news",
-    "title": "Inflation - Economic Data Series | FRED | St. Louis Fed",
-    "slug": "inflation-economic-data-series-fred-st-louis-fed",
-    "date": "2026-06-08",
-    "displayDate": "June 8, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Inflation data is available on FRED from the St. Louis Fed, including CPI and 20-year inflation indexes. The CPI series has 4,901 entries. The 20-year inflation",
-    "excerpt": "Inflation data is available on FRED from the St. Louis Fed, including CPI and 20-year inflation indexes. The CPI series has 4,901 entries. The 20-year inflation series has only 2 entries.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Inflation - Economic Data Series | FRED | St. Louis Fed"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "interest-rates-steady-federal-reserve-forecasts-1-rate-cut-in-2026",
     "type": "news",
     "title": "Interest rates steady, Federal Reserve forecasts 1 rate cut in 2026",
@@ -1340,27 +1508,6 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "Interest rates steady, Federal Reserve forecasts 1 rate cut in 2026"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "investment-strategies-for-today-s-market-linkedin",
-    "type": "news",
-    "title": "Investment Strategies for Today's Market - LinkedIn",
-    "slug": "investment-strategies-for-today-s-market-linkedin",
-    "date": "2026-06-08",
-    "displayDate": "June 8, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Invest in high free cash flow companies for stability; diversify with low-cost index funds and maintain discipline over the long term; be cautious of market opt",
-    "excerpt": "Invest in high free cash flow companies for stability; diversify with low-cost index funds and maintain discipline over the long term; be cautious of market optimism as it may lead to risky investments.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Investment Strategies for Today's Market - LinkedIn"
     },
     "readingTime": 3
   },
@@ -1550,27 +1697,6 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "S&P Sectors Weekly Performance(%) - MacroMicro"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "sector-views-monthly-stock-sector-outlook-charles-schwab",
-    "type": "news",
-    "title": "Sector Views: Monthly Stock Sector Outlook - Charles Schwab",
-    "slug": "sector-views-monthly-stock-sector-outlook-charles-schwab",
-    "date": "2026-06-08",
-    "displayDate": "June 8, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Charles Schwab provides a six- to 12-month outlook for stock sectors, focusing on the 11 S&P 500 sectors. The outlook helps investors understand sector performa",
-    "excerpt": "Charles Schwab provides a six- to 12-month outlook for stock sectors, focusing on the 11 S&P 500 sectors. The outlook helps investors understand sector performance trends. Current sectors may vary.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Sector Views: Monthly Stock Sector Outlook - Charles Schwab"
     },
     "readingTime": 3
   },
@@ -2016,27 +2142,6 @@
     "readingTime": 3
   },
   {
-    "id": "economic-indicators-calendar-federal-reserve-bank-of-new-york",
-    "type": "news",
-    "title": "Economic Indicators Calendar - FEDERAL RESERVE BANK of NEW YORK",
-    "slug": "economic-indicators-calendar-federal-reserve-bank-of-new-york",
-    "date": "2026-06-07",
-    "displayDate": "June 7, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Reserve Bank of New York's Economic Indicators Calendar lists key economic data releases. Today's notable releases include Empire State Manufacturin",
-    "excerpt": "The Federal Reserve Bank of New York's Economic Indicators Calendar lists key economic data releases. Today's notable releases include Empire State Manufacturing Survey and Advance Retail Sales. For full details, visit the New York Fed's website.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Economic Indicators Calendar - FEDERAL RESERVE BANK of NEW YORK"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "fed-holds-interest-rates-steady-for-third-straight-meeting-as",
     "type": "news",
     "title": "Fed holds interest rates steady for third straight meeting, as ...",
@@ -2096,27 +2201,6 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "Health Care Sector & Industry Performance - Bloomberg"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "huge-bitcoin-ethereum-xrp-news-crypto-youtube",
-    "type": "news",
-    "title": "HUGE BITCOIN, ETHEREUM, & XRP NEWS! CRYPTO ... - YouTube",
-    "slug": "huge-bitcoin-ethereum-xrp-news-crypto-youtube",
-    "date": "2026-06-07",
-    "displayDate": "June 7, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "BlackRock Bitcoin ETF experienced a significant selloff. Strive has acquired 1109 bitcoins, increasing its total holdings to 16500 coins. Ripple's XRP continues",
-    "excerpt": "BlackRock Bitcoin ETF experienced a significant selloff. Strive has acquired 1109 bitcoins, increasing its total holdings to 16500 coins. Ripple's XRP continues to be a major focus in crypto news.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "HUGE BITCOIN, ETHEREUM, & XRP NEWS! CRYPTO ... - YouTube"
     },
     "readingTime": 3
   },
@@ -2306,27 +2390,6 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "The Block: Bitcoin, Ethereum & Crypto News | Live Prices, Data ..."
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "the-fed-meeting-calendars-and-information-federal-reserve",
-    "type": "news",
-    "title": "The Fed - Meeting calendars and information - Federal Reserve",
-    "slug": "the-fed-meeting-calendars-and-information-federal-reserve",
-    "date": "2026-06-07",
-    "displayDate": "June 7, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Reserve holds eight regular FOMC meetings annually; the next meeting is on July 3, 2026. Federal Reserve staff do not speak publicly between the wee",
-    "excerpt": "The Federal Reserve holds eight regular FOMC meetings annually; the next meeting is on July 3, 2026. Federal Reserve staff do not speak publicly between the week before a meeting and the Thursday after. The Board of Governors is closed on July 3, 2026.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "The Fed - Meeting calendars and information - Federal Reserve"
     },
     "readingTime": 3
   },
