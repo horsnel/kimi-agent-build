@@ -315,6 +315,27 @@
     "readingTime": 3
   },
   {
+    "id": "earnings-calendar-investing-com",
+    "type": "news",
+    "title": "Earnings Calendar - Investing.com",
+    "slug": "earnings-calendar-investing-com",
+    "date": "2026-06-09",
+    "displayDate": "June 9, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Earnings Calendar tracks forecasts and actual outcomes for companies' earnings reports worldwide. Key companies include JM Smucker, Uranium Energy, and Acad",
+    "excerpt": "The Earnings Calendar tracks forecasts and actual outcomes for companies' earnings reports worldwide. Key companies include JM Smucker, Uranium Energy, and Academy Sports. The data shows expected and actual earnings, along with percentage changes.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Earnings Calendar - Investing.com"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "earnings-calendar-zacks-investment-research",
     "type": "news",
     "title": "Earnings Calendar - Zacks Investment Research",
@@ -588,6 +609,27 @@
     "readingTime": 3
   },
   {
+    "id": "ethereum-usd-eth-usd-latest-stock-news-headlines",
+    "type": "news",
+    "title": "Ethereum USD (ETH-USD) Latest Stock News & Headlines",
+    "slug": "ethereum-usd-eth-usd-latest-stock-news-headlines",
+    "date": "2026-06-09",
+    "displayDate": "June 9, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Ethereum (ETH-USD) price is $1,674.06, down -0.47% in the last 24 hours. Current trading on 12,067 active markets. News indicates stabilization as investors con",
+    "excerpt": "Ethereum (ETH-USD) price is $1,674.06, down -0.47% in the last 24 hours. Current trading on 12,067 active markets. News indicates stabilization as investors consider alternatives.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Ethereum USD (ETH-USD) Latest Stock News & Headlines"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "federal-open-market-committee-wikipedia",
     "type": "news",
     "title": "Federal Open Market Committee - Wikipedia",
@@ -626,6 +668,27 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "Federal Reserve keeps interest rates steady as inflation uncertainty ..."
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "geekwire-breaking-news-in-technology-business",
+    "type": "news",
+    "title": "GeekWire – Breaking News in Technology & Business",
+    "slug": "geekwire-breaking-news-in-technology-business",
+    "date": "2026-06-09",
+    "displayDate": "June 9, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "GeekWire is a prominent technology news site based in Seattle, known for its breaking news and expert analysis in technology and business. It has a significant ",
+    "excerpt": "GeekWire is a prominent technology news site based in Seattle, known for its breaking news and expert analysis in technology and business. It has a significant online presence and a loyal readership. As of 2026, its annual recurring revenue is $3.9 million.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "GeekWire – Breaking News in Technology & Business"
     },
     "readingTime": 3
   },
@@ -777,6 +840,27 @@
     "readingTime": 3
   },
   {
+    "id": "how-to-build-an-investment-portfolio-in-2026-xtb-com",
+    "type": "news",
+    "title": "How to Build An Investment Portfolio in 2026 - XTB.com",
+    "slug": "how-to-build-an-investment-portfolio-in-2026-xtb-com",
+    "date": "2026-06-09",
+    "displayDate": "June 9, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "To build an investment portfolio in 2026, start by setting clear financial goals, assess your risk tolerance, and choose a diversified mix of asset classes like",
+    "excerpt": "To build an investment portfolio in 2026, start by setting clear financial goals, assess your risk tolerance, and choose a diversified mix of asset classes like stocks, bonds, and ETFs. Focus on low-cost, reliable investments to maximize returns.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "How to Build An Investment Portfolio in 2026 - XTB.com"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "how-to-invest-in-today-s-market-u-s-bank",
     "type": "news",
     "title": "How to Invest in Today's Market | U.S. Bank",
@@ -924,6 +1008,27 @@
     "readingTime": 3
   },
   {
+    "id": "latest-technology-news-and-reviews-yahoo-finance",
+    "type": "news",
+    "title": "Latest Technology News and Reviews - Yahoo Finance",
+    "slug": "latest-technology-news-and-reviews-yahoo-finance",
+    "date": "2026-06-09",
+    "displayDate": "June 9, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Yahoo Finance covers the latest technology news and expert analysis, while Yahoo Tech provides updates, reviews, and stories on technology trends. The Tech News",
+    "excerpt": "Yahoo Finance covers the latest technology news and expert analysis, while Yahoo Tech provides updates, reviews, and stories on technology trends. The Tech News Videos section highlights significant developments in Big Tech and AI.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Latest Technology News and Reviews - Yahoo Finance"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "live-updates-interest-rates-steady-federal-reserve-forecasts-1-rate",
     "type": "news",
     "title": "Live updates: Interest rates steady, Federal Reserve forecasts 1 rate ...",
@@ -1029,6 +1134,48 @@
     "readingTime": 3
   },
   {
+    "id": "s-p-sectors-weekly-performance-macromicro",
+    "type": "news",
+    "title": "S&P Sectors Weekly Performance(%) - MacroMicro",
+    "slug": "s-p-sectors-weekly-performance-macromicro",
+    "date": "2026-06-09",
+    "displayDate": "June 9, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "As of 2026-06-08, Information Technology dropped 5.76%, Utilities fell 0.54%, Real Estate rose 1.11%, and Health Care increased 3.60% in weekly performance.",
+    "excerpt": "As of 2026-06-08, Information Technology dropped 5.76%, Utilities fell 0.54%, Real Estate rose 1.11%, and Health Care increased 3.60% in weekly performance.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "S&P Sectors Weekly Performance(%) - MacroMicro"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "schwab-market-update-charles-schwab",
+    "type": "news",
+    "title": "Schwab Market Update | Charles Schwab",
+    "slug": "schwab-market-update-charles-schwab",
+    "date": "2026-06-09",
+    "displayDate": "June 9, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Schwab Market Update discusses recent stock market trends and inflation indicators. The latest update highlights a tech sell-off and focuses on CPI and PPI ",
+    "excerpt": "The Schwab Market Update discusses recent stock market trends and inflation indicators. The latest update highlights a tech sell-off and focuses on CPI and PPI data. The podcast provides essential market news and stock insights.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Schwab Market Update | Charles Schwab"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "sector-industry-performance-bloomberg-com",
     "type": "news",
     "title": "Sector & Industry Performance - Bloomberg.com",
@@ -1088,6 +1235,48 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "Sector Views: Monthly Stock Sector Outlook"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "sectors-stock-market-usa-tradingview",
+    "type": "news",
+    "title": "Sectors — Stock Market — USA — TradingView",
+    "slug": "sectors-stock-market-usa-tradingview",
+    "date": "2026-06-09",
+    "displayDate": "June 9, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The US stock market sectors include Technology Services, Finance, Utilities, Industrial Services, and Transportation. The S&P 500 sectors cover Consumer Discret",
+    "excerpt": "The US stock market sectors include Technology Services, Finance, Utilities, Industrial Services, and Transportation. The S&P 500 sectors cover Consumer Discretionary, Consumer Staples, Health Care, Industrials, Materials, and Real Estate. The market sectors' performance varies daily.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Sectors — Stock Market — USA — TradingView"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "stock-market-outlook-today-tomorrow-seeking-alpha",
+    "type": "news",
+    "title": "Stock Market Outlook Today & Tomorrow - Seeking Alpha",
+    "slug": "stock-market-outlook-today-tomorrow-seeking-alpha",
+    "date": "2026-06-09",
+    "displayDate": "June 9, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Today and tomorrow, stock market forecasts suggest cautious optimism with analysts advising portfolio positioning based on current trends. Expect moderate volat",
+    "excerpt": "Today and tomorrow, stock market forecasts suggest cautious optimism with analysts advising portfolio positioning based on current trends. Expect moderate volatility with potential for short-term gains. Keep an eye on U.S. and global market dynamics.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Stock Market Outlook Today & Tomorrow - Seeking Alpha"
     },
     "readingTime": 3
   },
@@ -1260,6 +1449,27 @@
     "readingTime": 3
   },
   {
+    "id": "this-week-s-best-performing-stocks-sectors-industries-rankings",
+    "type": "news",
+    "title": "This Week's Best Performing Stocks, Sectors, Industries Rankings",
+    "slug": "this-week-s-best-performing-stocks-sectors-industries-rankings",
+    "date": "2026-06-09",
+    "displayDate": "June 9, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "This week's best performing stock is Mingteng International Corporation Inc, up 60.82%. The top-performing sector is Technology Services, up 0.49%. The Utilitie",
+    "excerpt": "This week's best performing stock is Mingteng International Corporation Inc, up 60.82%. The top-performing sector is Technology Services, up 0.49%. The Utilities sector ranks highest in industry performance.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "This Week's Best Performing Stocks, Sectors, Industries Rankings"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "u-s-economic-calendar-marketwatch",
     "type": "news",
     "title": "U.S. Economic Calendar - MarketWatch",
@@ -1340,6 +1550,27 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "U.S. Stock Markets Today - Fox Business"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "united-states-consumer-price-index-cpi-trading-economics",
+    "type": "news",
+    "title": "United States Consumer Price Index (CPI) - Trading Economics",
+    "slug": "united-states-consumer-price-index-cpi-trading-economics",
+    "date": "2026-06-09",
+    "displayDate": "June 9, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The U.S. Consumer Price Index (CPI) in April 2026 was 333.02, up from 330.21 in March. The annual inflation rate rose to 3.8% in April 2026, the highest since M",
+    "excerpt": "The U.S. Consumer Price Index (CPI) in April 2026 was 333.02, up from 330.21 in March. The annual inflation rate rose to 3.8% in April 2026, the highest since May 2023. Core inflation rate increased to 2.8% year-over-year in April 2026.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "United States Consumer Price Index (CPI) - Trading Economics"
     },
     "readingTime": 3
   },
@@ -1890,48 +2121,6 @@
     "readingTime": 3
   },
   {
-    "id": "s-p-sectors-weekly-performance-macromicro",
-    "type": "news",
-    "title": "S&P Sectors Weekly Performance(%) - MacroMicro",
-    "slug": "s-p-sectors-weekly-performance-macromicro",
-    "date": "2026-06-08",
-    "displayDate": "June 8, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "As of 2026-06-05, Information Technology dropped 5.42%, Utilities fell 0.31%, Real Estate rose 1.52%, and Health Care increased 2.31% in weekly S&P sector perfo",
-    "excerpt": "As of 2026-06-05, Information Technology dropped 5.42%, Utilities fell 0.31%, Real Estate rose 1.52%, and Health Care increased 2.31% in weekly S&P sector performance.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "S&P Sectors Weekly Performance(%) - MacroMicro"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "sectors-stock-market-usa-tradingview",
-    "type": "news",
-    "title": "Sectors — Stock Market — USA — TradingView",
-    "slug": "sectors-stock-market-usa-tradingview",
-    "date": "2026-06-08",
-    "displayDate": "June 8, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The US stock market sectors include Technology Services, Finance, Utilities, Industrial Services, and Transportation. The S&P 500 sectors are Consumer Discretio",
-    "excerpt": "The US stock market sectors include Technology Services, Finance, Utilities, Industrial Services, and Transportation. The S&P 500 sectors are Consumer Discretionary, Consumer Staples, Health Care, Industrials, Materials, and Real Estate. The market sectors' performance varies daily.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Sectors — Stock Market — USA — TradingView"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "tech-cnbc",
     "type": "news",
     "title": "Tech - CNBC",
@@ -1970,27 +2159,6 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "The Fed - Meeting calendars and information"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "this-week-s-best-performing-stocks-sectors-industries-rankings",
-    "type": "news",
-    "title": "This Week's Best Performing Stocks, Sectors, Industries Rankings",
-    "slug": "this-week-s-best-performing-stocks-sectors-industries-rankings",
-    "date": "2026-06-08",
-    "displayDate": "June 8, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "This week, the best-performing sectors were Utilities and Communications, with significant gains. Leading stocks included Dell Technologies and Micron Technolog",
-    "excerpt": "This week, the best-performing sectors were Utilities and Communications, with significant gains. Leading stocks included Dell Technologies and Micron Technology. Sectors like Technology Services and Finance also showed notable performance.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "This Week's Best Performing Stocks, Sectors, Industries Rankings"
     },
     "readingTime": 3
   },
@@ -2226,27 +2394,6 @@
     "readingTime": 3
   },
   {
-    "id": "earnings-calendar-investing-com",
-    "type": "news",
-    "title": "Earnings Calendar - Investing.com",
-    "slug": "earnings-calendar-investing-com",
-    "date": "2026-06-07",
-    "displayDate": "June 7, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Earnings Calendar tracks forecasts and actual outcomes for companies' earnings reports worldwide. It shows EPS and revenue surprises to highlight performanc",
-    "excerpt": "The Earnings Calendar tracks forecasts and actual outcomes for companies' earnings reports worldwide. It shows EPS and revenue surprises to highlight performance against expectations. As of today, it includes data for upcoming and recent earnings reports.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Earnings Calendar - Investing.com"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "earnings-season-expected-to-drive-markets-higher-plus-youtube",
     "type": "news",
     "title": "Earnings season expected to drive markets higher, plus ... - YouTube",
@@ -2394,27 +2541,6 @@
     "readingTime": 3
   },
   {
-    "id": "latest-technology-news-and-reviews-yahoo-finance",
-    "type": "news",
-    "title": "Latest Technology News and Reviews - Yahoo Finance",
-    "slug": "latest-technology-news-and-reviews-yahoo-finance",
-    "date": "2026-06-07",
-    "displayDate": "June 7, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Yahoo Finance covers the latest technology news and expert analysis, while Yahoo Tech provides updates and reviews. The weekly newsletter highlights top tech ne",
-    "excerpt": "Yahoo Finance covers the latest technology news and expert analysis, while Yahoo Tech provides updates and reviews. The weekly newsletter highlights top tech news and trends.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Latest Technology News and Reviews - Yahoo Finance"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "meta-title-sectors",
     "type": "news",
     "title": "META_TITLE_SECTORS",
@@ -2453,27 +2579,6 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "Portfolio Rebalancing Guide for 2026 — Bellwether Wealth"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "stock-market-outlook-today-tomorrow-seeking-alpha",
-    "type": "news",
-    "title": "Stock Market Outlook Today & Tomorrow - Seeking Alpha",
-    "slug": "stock-market-outlook-today-tomorrow-seeking-alpha",
-    "date": "2026-06-07",
-    "displayDate": "June 7, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Today and tomorrow, stock market forecasts suggest moderate volatility with analysts advising cautious portfolio positioning. Current trends indicate potential ",
-    "excerpt": "Today and tomorrow, stock market forecasts suggest moderate volatility with analysts advising cautious portfolio positioning. Current trends indicate potential shifts in U.S. and global market dynamics. Seek expert insights for strategic decisions.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Stock Market Outlook Today & Tomorrow - Seeking Alpha"
     },
     "readingTime": 3
   },

@@ -3,8 +3,8 @@
   "type": "news",
   "title": "Latest Technology News and Reviews - Yahoo Finance",
   "slug": "latest-technology-news-and-reviews-yahoo-finance",
-  "date": "2026-06-07",
-  "displayDate": "June 7, 2026",
+  "date": "2026-06-09",
+  "displayDate": "June 9, 2026",
   "author": "Sigma Capital",
   "category": "Company News",
   "tags": [
@@ -12,31 +12,31 @@
     "financial news",
     "market update"
   ],
-  "metaDescription": "Yahoo Finance covers the latest technology news and expert analysis, while Yahoo Tech provides updates and reviews. The weekly newsletter highlights top tech ne",
-  "excerpt": "Yahoo Finance covers the latest technology news and expert analysis, while Yahoo Tech provides updates and reviews. The weekly newsletter highlights top tech news and trends.",
+  "metaDescription": "Yahoo Finance covers the latest technology news and expert analysis, while Yahoo Tech provides updates, reviews, and stories on technology trends. The Tech News",
+  "excerpt": "Yahoo Finance covers the latest technology news and expert analysis, while Yahoo Tech provides updates, reviews, and stories on technology trends. The Tech News Videos section highlights significant developments in Big Tech and AI.",
   "content": {
-    "introduction": "Yahoo Finance covers the latest technology news and expert analysis, while Yahoo Tech provides updates and reviews. The weekly newsletter highlights top tech news and trends.",
+    "introduction": "Yahoo Finance covers the latest technology news and expert analysis, while Yahoo Tech provides updates, reviews, and stories on technology trends. The Tech News Videos section highlights significant developments in Big Tech and AI.",
     "body": [
       "Yahoo Finance brings you the latest news and expert analysis of the biggest companies and trends in technology. Track Tech in AlphaSpace.",
-      "Tech Yahoo Finance Tech is a weekly newsletter highlighting our original take on the top news and trends in the industry. every Wednesday by 4 p.m. ET."
+      "From Big Tech to AI, the latest you need to know about some of the biggest names on Wall Street."
     ],
     "keyTakeaways": [
-      "Yahoo Finance covers the latest technology news and expert analysis, while Yahoo Tech provides updates and reviews. The ",
+      "Yahoo Finance covers the latest technology news and expert analysis, while Yahoo Tech provides updates, reviews, and sto",
       "Yahoo Finance brings you the latest news and expert analysis of the biggest companies and trends in technology. Track Te",
-      "Tech Yahoo Finance Tech is a weekly newsletter highlighting our original take on the top news and trends in the industry"
+      "From Big Tech to AI, the latest you need to know about some of the biggest names on Wall Street."
     ],
     "source": "finance.yahoo.com",
     "sourceUrl": "https://finance.yahoo.com/topic/tech"
   },
   "readingTime": 3,
-  "updatedAt": "2026-06-07T04:17:48.024Z",
+  "updatedAt": "2026-06-09T20:09:39.827Z",
   "images": {
     "thumbnail": {
-      "src": "/images/article_thumb_5.jpg",
+      "src": "/images/article_thumb_1.jpg",
       "alt": "Latest Technology News and Reviews - Yahoo Finance"
     },
     "hero": {
-      "src": "/images/article_thumb_2.jpg",
+      "src": "/images/article_thumb_5.jpg",
       "alt": "Latest Technology News and Reviews - Yahoo Finance"
     },
     "mid": {
@@ -45,7 +45,7 @@
     }
   },
   "image": {
-    "src": "/images/article_thumb_1.jpg",
+    "src": "/images/article_thumb_3.jpg",
     "alt": "Latest Technology News and Reviews - Yahoo Finance"
   }
 }
