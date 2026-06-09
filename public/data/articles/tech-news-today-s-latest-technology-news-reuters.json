@@ -3,8 +3,8 @@
   "type": "news",
   "title": "Tech News | Today's Latest Technology News | Reuters",
   "slug": "tech-news-today-s-latest-technology-news-reuters",
-  "date": "2026-06-08",
-  "displayDate": "June 8, 2026",
+  "date": "2026-06-09",
+  "displayDate": "June 9, 2026",
   "author": "Sigma Capital",
   "category": "Company News",
   "tags": [
@@ -12,32 +12,32 @@
     "financial news",
     "market update"
   ],
-  "metaDescription": "Today's top tech news includes AI chip giants impacting Asia's stock market and global executives attending Taiwan's tech show. Reuters provides comprehensive i",
-  "excerpt": "Today's top tech news includes AI chip giants impacting Asia's stock market and global executives attending Taiwan's tech show. Reuters provides comprehensive international technology coverage. The latest trends from startups to FAANG companies are also featured.",
+  "metaDescription": "Today, AI giants like OpenAI and Anthropic are heading to public markets, and Apple is focusing on improving Siri. Additionally, Nvidia has made significant dea",
+  "excerpt": "Today, AI giants like OpenAI and Anthropic are heading to public markets, and Apple is focusing on improving Siri. Additionally, Nvidia has made significant deals.",
   "content": {
-    "introduction": "Today's top tech news includes AI chip giants impacting Asia's stock market and global executives attending Taiwan's tech show. Reuters provides comprehensive international technology coverage. The latest trends from startups to FAANG companies are also featured.",
+    "introduction": "Today, AI giants like OpenAI and Anthropic are heading to public markets, and Apple is focusing on improving Siri. Additionally, Nvidia has made significant deals.",
     "body": [
-      "Find latest technology news from every corner of the globe at Reuters.com, your online source for breaking international news coverage.",
-      "From startups to the FAANGs, get the latest news and trends in the global technology industry.",
-      "How a few AI chip giants warped Asia's stock picking game · Chinese military hovered as global executives flocked to Taiwan tech show · Japanese firms field"
+      "Technology · OpenAI files for US IPO after Anthropic as AI giants head to public markets · Apple bets on overdue Siri fix to close AI gap · Nvidia clinches",
+      "China's global e-commerce push stalls as Iran war lifts costs, dampens demand · Japan's shareholder meetings run on bunk clockwork · Nvidia announces deals with",
+      "OpenAI files for US IPO after Anthropic as AI giants head to public markets · S&P 500, Nasdaq rise as tech, chipmakers rebound · Apple bets on overdue Siri fix to"
     ],
     "keyTakeaways": [
-      "Today's top tech news includes AI chip giants impacting Asia's stock market and global executives attending Taiwan's tec",
-      "Find latest technology news from every corner of the globe at Reuters.com, your online source for breaking international",
-      "From startups to the FAANGs, get the latest news and trends in the global technology industry."
+      "Today, AI giants like OpenAI and Anthropic are heading to public markets, and Apple is focusing on improving Siri. Addit",
+      "Technology · OpenAI files for US IPO after Anthropic as AI giants head to public markets · Apple bets on overdue Siri fi",
+      "China's global e-commerce push stalls as Iran war lifts costs, dampens demand · Japan's shareholder meetings run on bunk"
     ],
     "source": "reuters.com",
     "sourceUrl": "https://www.reuters.com/technology"
   },
   "readingTime": 3,
-  "updatedAt": "2026-06-08T15:59:34.626Z",
+  "updatedAt": "2026-06-09T03:53:27.438Z",
   "images": {
     "thumbnail": {
-      "src": "/images/article_thumb_6.jpg",
+      "src": "/images/article_thumb_1.jpg",
       "alt": "Tech News | Today's Latest Technology News | Reuters"
     },
     "hero": {
-      "src": "/images/article_thumb_1.jpg",
+      "src": "/images/article_thumb_2.jpg",
       "alt": "Tech News | Today's Latest Technology News | Reuters"
     },
     "mid": {
@@ -46,7 +46,7 @@
     }
   },
   "image": {
-    "src": "/images/article_thumb_2.jpg",
+    "src": "/images/article_thumb_5.jpg",
     "alt": "Tech News | Today's Latest Technology News | Reuters"
   }
 }

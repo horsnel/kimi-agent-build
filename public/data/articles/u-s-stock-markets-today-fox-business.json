@@ -1,0 +1,52 @@
+{
+  "id": "u-s-stock-markets-today-fox-business",
+  "type": "news",
+  "title": "U.S. Stock Markets Today - Fox Business",
+  "slug": "u-s-stock-markets-today-fox-business",
+  "date": "2026-06-09",
+  "displayDate": "June 9, 2026",
+  "author": "Sigma Capital",
+  "category": "Market Analysis",
+  "tags": [
+    "market analysis",
+    "financial news",
+    "market update"
+  ],
+  "metaDescription": "As of today, the Dow Jones averages 50,919.10, the NASDAQ Composite Index 26,072.39, and the S&P 500 7,437.68. The S&P 500 opened at $7,440.57.",
+  "excerpt": "As of today, the Dow Jones averages 50,919.10, the NASDAQ Composite Index 26,072.39, and the S&P 500 7,437.68. The S&P 500 opened at $7,440.57.",
+  "content": {
+    "introduction": "As of today, the Dow Jones averages 50,919.10, the NASDAQ Composite Index 26,072.39, and the S&P 500 7,437.68. The S&P 500 opened at $7,440.57.",
+    "body": [
+      "Discover the U.S. markets today with Fox Business. See the trending stocks in the USA stock market and today's stock market results.",
+      "U.S. Stock Market Quotes ; DOW JONES AVERAGES (I:DJI). 50,919.10 ; NASDAQ COMPOSITE INDEX (I:COMP). 26,072.39 ; S&P 500 (SP500). 7,437.68",
+      "SP500 Key Data ; Open. $7,440.57. Day Range. 7,395.13 - 7,466.81 ; 52 Week Range. 5,943.23 - 7,620.90. Market Cap. N/A ; Shares Outstanding. NaN. Public Float. N/A."
+    ],
+    "keyTakeaways": [
+      "As of today, the Dow Jones averages 50,919.10, the NASDAQ Composite Index 26,072",
+      "Discover the U.S",
+      "U.S"
+    ],
+    "source": "foxbusiness.com",
+    "sourceUrl": "https://www.foxbusiness.com/stocks"
+  },
+  "readingTime": 3,
+  "updatedAt": "2026-06-09T03:53:27.438Z",
+  "images": {
+    "thumbnail": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "U.S. Stock Markets Today - Fox Business"
+    },
+    "hero": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "U.S. Stock Markets Today - Fox Business"
+    },
+    "mid": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "U.S. Stock Markets Today - Fox Business"
+    }
+  },
+  "image": {
+    "src": "/images/article_thumb_2.jpg",
+    "alt": "U.S. Stock Markets Today - Fox Business"
+  }
+}
