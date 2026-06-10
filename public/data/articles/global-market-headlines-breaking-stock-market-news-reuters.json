@@ -3,8 +3,8 @@
   "type": "news",
   "title": "Global Market Headlines | Breaking Stock Market News | Reuters",
   "slug": "global-market-headlines-breaking-stock-market-news-reuters",
-  "date": "2026-06-09",
-  "displayDate": "June 9, 2026",
+  "date": "2026-06-10",
+  "displayDate": "June 10, 2026",
   "author": "Sigma Capital",
   "category": "Global Markets",
   "tags": [
@@ -12,17 +12,17 @@
     "financial news",
     "market update"
   ],
-  "metaDescription": "Global market headlines show tech and chipmakers rebounding, with S&P 500 and Nasdaq rising. AI giants like OpenAI are heading to public markets. Apple is focus",
-  "excerpt": "Global market headlines show tech and chipmakers rebounding, with S&P 500 and Nasdaq rising. AI giants like OpenAI are heading to public markets. Apple is focusing on improving Siri.",
+  "metaDescription": "S&P 500 and Nasdaq declined due to renewed tech selling; Trump vowed to respond to downed US helicopter; US Air Force confident in Boeing KC-46 fix.",
+  "excerpt": "S&P 500 and Nasdaq declined due to renewed tech selling; Trump vowed to respond to downed US helicopter; US Air Force confident in Boeing KC-46 fix.",
   "content": {
-    "introduction": "Global market headlines show tech and chipmakers rebounding, with S&P 500 and Nasdaq rising. AI giants like OpenAI are heading to public markets. Apple is focusing on improving Siri.",
+    "introduction": "S&P 500 and Nasdaq declined due to renewed tech selling; Trump vowed to respond to downed US helicopter; US Air Force confident in Boeing KC-46 fix.",
     "body": [
       "Find the latest stock market news from every corner of the globe at Reuters.com, your online source for breaking international market and finance news.",
       "Find latest finance news from every corner of the globe at Reuters.com, your online source for breaking international news coverage.",
-      "OpenAI files for US IPO after Anthropic as AI giants head to public markets · S&P 500, Nasdaq rise as tech, chipmakers rebound · Apple bets on overdue Siri fix to"
+      "S&P 500, Nasdaq fall as tech selling resumes, Trump vows to respond to downed US helicopter. 13 hours ago ; US Air Force confident in fix for Boeing KC-46"
     ],
     "keyTakeaways": [
-      "Global market headlines show tech and chipmakers rebounding, with S&P 500 and Nasdaq rising. AI giants like OpenAI are h",
+      "S&P 500 and Nasdaq declined due to renewed tech selling; Trump vowed to respond to downed US helicopter; US Air Force co",
       "Find the latest stock market news from every corner of the globe at Reuters.com, your online source for breaking interna",
       "Find latest finance news from every corner of the globe at Reuters.com, your online source for breaking international ne"
     ],
@@ -30,14 +30,14 @@
     "sourceUrl": "https://www.reuters.com/markets"
   },
   "readingTime": 3,
-  "updatedAt": "2026-06-09T03:53:27.438Z",
+  "updatedAt": "2026-06-10T04:04:47.734Z",
   "images": {
     "thumbnail": {
-      "src": "/images/article_thumb_6.jpg",
+      "src": "/images/article_thumb_1.jpg",
       "alt": "Global Market Headlines | Breaking Stock Market News | Reuters"
     },
     "hero": {
-      "src": "/images/article_thumb_5.jpg",
+      "src": "/images/article_thumb_2.jpg",
       "alt": "Global Market Headlines | Breaking Stock Market News | Reuters"
     },
     "mid": {
@@ -46,7 +46,7 @@
     }
   },
   "image": {
-    "src": "/images/article_thumb_1.jpg",
+    "src": "/images/article_thumb_4.jpg",
     "alt": "Global Market Headlines | Breaking Stock Market News | Reuters"
   }
 }

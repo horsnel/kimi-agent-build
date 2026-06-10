@@ -1,5 +1,635 @@
 [
   {
+    "id": "5-strategies-to-navigate-market-volatility-morgan-stanley",
+    "type": "news",
+    "title": "5 Strategies to Navigate Market Volatility - Morgan Stanley",
+    "slug": "5-strategies-to-navigate-market-volatility-morgan-stanley",
+    "date": "2026-06-10",
+    "displayDate": "June 10, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "To navigate market volatility, remain focused on your long-term plan, embrace consistency with dollar-cost averaging, and take advantage of periodic drawdowns. ",
+    "excerpt": "To navigate market volatility, remain focused on your long-term plan, embrace consistency with dollar-cost averaging, and take advantage of periodic drawdowns. Additionally, consider rebalancing thoughtfully and establishing a tax management strategy.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "5 Strategies to Navigate Market Volatility - Morgan Stanley"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "bitcoin-btc-news-analysis-and-forecast-fxstreet",
+    "type": "news",
+    "title": "Bitcoin (BTC) News, Analysis and Forecast - FXStreet",
+    "slug": "bitcoin-btc-news-analysis-and-forecast-fxstreet",
+    "date": "2026-06-10",
+    "displayDate": "June 10, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin is currently above $62,000, facing pressure from risk-off sentiment and geopolitical tensions. Analysts predict it may either bounce back or drop signif",
+    "excerpt": "Bitcoin is currently above $62,000, facing pressure from risk-off sentiment and geopolitical tensions. Analysts predict it may either bounce back or drop significantly. Bitcoin's $60,000 support level is under scrutiny.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Bitcoin (BTC) News, Analysis and Forecast - FXStreet"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "bitcoin-btc-price-usd-today-news-charts-market-cap-coinbase",
+    "type": "news",
+    "title": "Bitcoin (BTC) Price USD Today, News, Charts, Market Cap | Coinbase",
+    "slug": "bitcoin-btc-price-usd-today-news-charts-market-cap-coinbase",
+    "date": "2026-06-10",
+    "displayDate": "June 10, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin's price today is $61,438.82. It has a market cap of $1.2 trillion. The 24-hour trading volume is $38.7 billion.",
+    "excerpt": "Bitcoin's price today is $61,438.82. It has a market cap of $1.2 trillion. The 24-hour trading volume is $38.7 billion.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Bitcoin (BTC) Price USD Today, News, Charts, Market Cap | Coinbase"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "bitcoin-price-today-btc-price-chart-live-trends-kraken",
+    "type": "news",
+    "title": "Bitcoin price today - BTC price chart & live trends - Kraken",
+    "slug": "bitcoin-price-today-btc-price-chart-live-trends-kraken",
+    "date": "2026-06-10",
+    "displayDate": "June 10, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin price today is $61,812.00, down 1.52% in the last 24 hours. The circulating supply is 20,024,327 BTC, with a market cap of $1,237,743,717,496. For more ",
+    "excerpt": "Bitcoin price today is $61,812.00, down 1.52% in the last 24 hours. The circulating supply is 20,024,327 BTC, with a market cap of $1,237,743,717,496. For more details, visit Kraken.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Bitcoin price today - BTC price chart & live trends - Kraken"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "cpi-home-u-s-bureau-of-labor-statistics",
+    "type": "news",
+    "title": "CPI Home : U.S. Bureau of Labor Statistics",
+    "slug": "cpi-home-u-s-bureau-of-labor-statistics",
+    "date": "2026-06-10",
+    "displayDate": "June 10, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Consumer Price Index (CPI) measures inflation in the U.S. It increased 0.6% in April 2026. The CPI Home page is at https://www.bls.gov/cpi.",
+    "excerpt": "The Consumer Price Index (CPI) measures inflation in the U.S. It increased 0.6% in April 2026. The CPI Home page is at https://www.bls.gov/cpi.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "CPI Home : U.S. Bureau of Labor Statistics"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "earnings-calendar-events-wall-street-horizon",
+    "type": "news",
+    "title": "Earnings Calendar & Events - Wall Street Horizon",
+    "slug": "earnings-calendar-events-wall-street-horizon",
+    "date": "2026-06-10",
+    "displayDate": "June 10, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Wall Street Horizon earnings calendar lists upcoming earnings dates and confirmation timings for companies globally. It projects expected confirmation dates",
+    "excerpt": "The Wall Street Horizon earnings calendar lists upcoming earnings dates and confirmation timings for companies globally. It projects expected confirmation dates based on historical data. Subscription enhances TWS Company Fundamentals with related events calendars.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Earnings Calendar & Events - Wall Street Horizon"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "earnings-calendar-zacks-investment-research",
+    "type": "news",
+    "title": "Earnings Calendar - Zacks Investment Research",
+    "slug": "earnings-calendar-zacks-investment-research",
+    "date": "2026-06-10",
+    "displayDate": "June 10, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Zacks Investment Research's earnings calendar provides upcoming earnings reports for stocks. It helps investors prepare for market volatility. The calendar is a",
+    "excerpt": "Zacks Investment Research's earnings calendar provides upcoming earnings reports for stocks. It helps investors prepare for market volatility. The calendar is available at https://www.zacks.com/earnings/earnings-calendar.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Earnings Calendar - Zacks Investment Research"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "economic-calendar",
+    "type": "news",
+    "title": "Economic Calendar",
+    "slug": "economic-calendar",
+    "date": "2026-06-10",
+    "displayDate": "June 10, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "An economic calendar lists upcoming financial events and data releases that can impact markets. It includes real-time updates and details on their potential mar",
+    "excerpt": "An economic calendar lists upcoming financial events and data releases that can impact markets. It includes real-time updates and details on their potential market impact. Use it to track major economic indicators and events.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Economic Calendar"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "economic-indicators-calendar-federal-reserve-bank-of-new-york",
+    "type": "news",
+    "title": "Economic Indicators Calendar - FEDERAL RESERVE BANK of NEW YORK",
+    "slug": "economic-indicators-calendar-federal-reserve-bank-of-new-york",
+    "date": "2026-06-10",
+    "displayDate": "June 10, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Reserve Bank of New York's Economic Indicators Calendar lists key economic data releases, including manufacturing surveys and retail sales. For the ",
+    "excerpt": "The Federal Reserve Bank of New York's Economic Indicators Calendar lists key economic data releases, including manufacturing surveys and retail sales. For the most current schedule, visit their official website.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Economic Indicators Calendar - FEDERAL RESERVE BANK of NEW YORK"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "fed-interest-rate-meeting-begins-with-officials-deeply-divided",
+    "type": "news",
+    "title": "Fed Interest Rate Meeting Begins With Officials Deeply Divided",
+    "slug": "fed-interest-rate-meeting-begins-with-officials-deeply-divided",
+    "date": "2026-06-10",
+    "displayDate": "June 10, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Reserve's meeting began with officials deeply divided on interest rate cuts, with some favoring a pause and others pushing for reductions. Markets e",
+    "excerpt": "The Federal Reserve's meeting began with officials deeply divided on interest rate cuts, with some favoring a pause and others pushing for reductions. Markets expect a quarter-point cut, but future rates depend on new economic data and Fed Chair Powell's comments.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Fed Interest Rate Meeting Begins With Officials Deeply Divided"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "fed-live-updates-trump-says-i-don-t-care-that-chair-powell-is",
+    "type": "news",
+    "title": "Fed live updates: Trump says 'I don't care' that Chair Powell is ...",
+    "slug": "fed-live-updates-trump-says-i-don-t-care-that-chair-powell-is",
+    "date": "2026-06-10",
+    "displayDate": "June 10, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Trump stated he didn't care about Chair Powell, who will stay on the Fed board but remain low-profile. Powell's term ended, and Trump appointed Kevin Warsh as t",
+    "excerpt": "Trump stated he didn't care about Chair Powell, who will stay on the Fed board but remain low-profile. Powell's term ended, and Trump appointed Kevin Warsh as the new Fed chair. Trump criticized Powell for losing public trust.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Fed live updates: Trump says 'I don't care' that Chair Powell is ..."
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "geekwire-breaking-news-in-technology-business",
+    "type": "news",
+    "title": "GeekWire – Breaking News in Technology & Business",
+    "slug": "geekwire-breaking-news-in-technology-business",
+    "date": "2026-06-10",
+    "displayDate": "June 10, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "GeekWire is a prominent technology news site based in Seattle, covering startups and major tech companies. It launched in 2011 and has a strong national presenc",
+    "excerpt": "GeekWire is a prominent technology news site based in Seattle, covering startups and major tech companies. It launched in 2011 and has a strong national presence. The site focuses on breaking news in technology and business.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "GeekWire – Breaking News in Technology & Business"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "global-market-headlines-breaking-stock-market-news-reuters",
+    "type": "news",
+    "title": "Global Market Headlines | Breaking Stock Market News | Reuters",
+    "slug": "global-market-headlines-breaking-stock-market-news-reuters",
+    "date": "2026-06-10",
+    "displayDate": "June 10, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "S&P 500 and Nasdaq declined due to renewed tech selling; Trump vowed to respond to downed US helicopter; US Air Force confident in Boeing KC-46 fix.",
+    "excerpt": "S&P 500 and Nasdaq declined due to renewed tech selling; Trump vowed to respond to downed US helicopter; US Air Force confident in Boeing KC-46 fix.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Global Market Headlines | Breaking Stock Market News | Reuters"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "global-market-indices-international-markets-markets-insider",
+    "type": "news",
+    "title": "Global Market Indices | International Markets - Markets Insider",
+    "slug": "global-market-indices-international-markets-markets-insider",
+    "date": "2026-06-10",
+    "displayDate": "June 10, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Russell 2000 index is down 3.56% to 2,834.80. The TecDAX index is down 3.19% to 4,074.14. The Nasdaq 100 index is also tracked.",
+    "excerpt": "The Russell 2000 index is down 3.56% to 2,834.80. The TecDAX index is down 3.19% to 4,074.14. The Nasdaq 100 index is also tracked.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Global Market Indices | International Markets - Markets Insider"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "global-stock-market-news-and-world-indices-coverage-cnbc",
+    "type": "news",
+    "title": "Global Stock Market News and World Indices Coverage - CNBC",
+    "slug": "global-stock-market-news-and-world-indices-coverage-cnbc",
+    "date": "2026-06-10",
+    "displayDate": "June 10, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "European stocks fluctuated amid geopolitical tensions, while global markets showed mixed reactions to U.S. actions against Iran. Stock futures dipped following ",
+    "excerpt": "European stocks fluctuated amid geopolitical tensions, while global markets showed mixed reactions to U.S. actions against Iran. Stock futures dipped following U.S. strikes on Iran. CNBC's coverage includes detailed updates on these developments.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Global Stock Market News and World Indices Coverage - CNBC"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "health-technology-sector-stocks",
+    "type": "news",
+    "title": "Health Technology Sector - Stocks",
+    "slug": "health-technology-sector-stocks",
+    "date": "2026-06-10",
+    "displayDate": "June 10, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Eli Lilly, Johnson & Johnson, and Novo Nordisk are major stocks in the health technology sector, with strong market performance and high market capitalization.",
+    "excerpt": "Eli Lilly, Johnson & Johnson, and Novo Nordisk are major stocks in the health technology sector, with strong market performance and high market capitalization.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Health Technology Sector - Stocks"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "investment-strategies-for-today-and-long-term-blackrock",
+    "type": "news",
+    "title": "Investment strategies for today and long-term - BlackRock",
+    "slug": "investment-strategies-for-today-and-long-term-blackrock",
+    "date": "2026-06-10",
+    "displayDate": "June 10, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "BlackRock emphasizes long-term value creation and diversification for investment strategies. They focus on risk management and income opportunities. Larry Fink ",
+    "excerpt": "BlackRock emphasizes long-term value creation and diversification for investment strategies. They focus on risk management and income opportunities. Larry Fink advocates for long-term investing.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Investment strategies for today and long-term - BlackRock"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "latest-technology-news-and-reviews-yahoo-finance",
+    "type": "news",
+    "title": "Latest Technology News and Reviews - Yahoo Finance",
+    "slug": "latest-technology-news-and-reviews-yahoo-finance",
+    "date": "2026-06-10",
+    "displayDate": "June 10, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Salesforce recently laid off employees, NASA announced crew members for a 2027 mission, and The Mortal Shell 2 had a successful open beta download.",
+    "excerpt": "Salesforce recently laid off employees, NASA announced crew members for a 2027 mission, and The Mortal Shell 2 had a successful open beta download.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Latest Technology News and Reviews - Yahoo Finance"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "release-schedule-u-s-bureau-of-economic-analysis-bea",
+    "type": "news",
+    "title": "Release Schedule | U.S. Bureau of Economic Analysis (BEA)",
+    "slug": "release-schedule-u-s-bureau-of-economic-analysis-bea",
+    "date": "2026-06-10",
+    "displayDate": "June 10, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The U.S. Bureau of Economic Analysis (BEA) releases economic data regularly, with the next release scheduled for Personal Income and Outlays on May 28, 2026. Th",
+    "excerpt": "The U.S. Bureau of Economic Analysis (BEA) releases economic data regularly, with the next release scheduled for Personal Income and Outlays on May 28, 2026. The most recent release was on April 2026. For the full schedule, visit their official website.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Release Schedule | U.S. Bureau of Economic Analysis (BEA)"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "s-p-500-index-chart-spx-quote-tradingview",
+    "type": "news",
+    "title": "S&P 500 Index Chart — SPX Quote - TradingView",
+    "slug": "s-p-500-index-chart-spx-quote-tradingview",
+    "date": "2026-06-10",
+    "displayDate": "June 10, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The S&P 500 Index measures the performance of 500 large U.S. companies and is a key indicator of the U.S. economy. The SPDR S&P 500 ETF Trust (SPY) tracks the i",
+    "excerpt": "The S&P 500 Index measures the performance of 500 large U.S. companies and is a key indicator of the U.S. economy. The SPDR S&P 500 ETF Trust (SPY) tracks the index. The current S&P 500 data is available on TradingView.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "S&P 500 Index Chart — SPX Quote - TradingView"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "s-p-500-index-sp500-analysis-news-and-chart-today",
+    "type": "news",
+    "title": "S&P 500 Index (SP500) Analysis, News, And Chart Today",
+    "slug": "s-p-500-index-sp500-analysis-news-and-chart-today",
+    "date": "2026-06-10",
+    "displayDate": "June 10, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The S&P 500 Index closed at 7,438.66 today, with a day high of 7,483.15 and a day low of 7,237.85. The 52-week high was 7,620.90 on June 2, 2026.",
+    "excerpt": "The S&P 500 Index closed at 7,438.66 today, with a day high of 7,483.15 and a day low of 7,237.85. The 52-week high was 7,620.90 on June 2, 2026.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "S&P 500 Index (SP500) Analysis, News, And Chart Today"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "s-p-500-sp500-technical-analysis-medium-term-investtech",
+    "type": "news",
+    "title": "S&P 500 (SP500) - Technical Analysis - Medium term - Investtech",
+    "slug": "s-p-500-sp500-technical-analysis-medium-term-investtech",
+    "date": "2026-06-10",
+    "displayDate": "June 10, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The S&P 500 shows medium-term technical analysis trends. Investors are responsible for any losses. Investtech disclaims responsibility for any financial outcome",
+    "excerpt": "The S&P 500 shows medium-term technical analysis trends. Investors are responsible for any losses. Investtech disclaims responsibility for any financial outcomes.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "S&P 500 (SP500) - Technical Analysis - Medium term - Investtech"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "sector-industry-performance",
+    "type": "news",
+    "title": "Sector & Industry Performance",
+    "slug": "sector-industry-performance",
+    "date": "2026-06-10",
+    "displayDate": "June 10, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The technology sector is currently leading in market performance, followed by finance and utilities. Fidelity's sector research highlights communication service",
+    "excerpt": "The technology sector is currently leading in market performance, followed by finance and utilities. Fidelity's sector research highlights communication services and industrials as key areas. For the latest sector performance, visit Bloomberg's market sector page.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Sector & Industry Performance"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "sector-views-monthly-stock-sector-outlook",
+    "type": "news",
+    "title": "Sector Views: Monthly Stock Sector Outlook",
+    "slug": "sector-views-monthly-stock-sector-outlook",
+    "date": "2026-06-10",
+    "displayDate": "June 10, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The monthly stock sector outlook discusses the performance and outlook of the 11 S&P 500 sectors, with a current focus on utilities being less favored. Schwab F",
+    "excerpt": "The monthly stock sector outlook discusses the performance and outlook of the 11 S&P 500 sectors, with a current focus on utilities being less favored. Schwab Funds provide insights on sector trends and market impacts.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Sector Views: Monthly Stock Sector Outlook"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "tech-news-today-s-latest-technology-news-reuters",
+    "type": "news",
+    "title": "Tech News | Today's Latest Technology News | Reuters",
+    "slug": "tech-news-today-s-latest-technology-news-reuters",
+    "date": "2026-06-10",
+    "displayDate": "June 10, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "SpaceX IPO demand is four times oversubscribed. Musk's xAI and SpaceX face a class action lawsuit. Meta continues to dominate tech news.",
+    "excerpt": "SpaceX IPO demand is four times oversubscribed. Musk's xAI and SpaceX face a class action lawsuit. Meta continues to dominate tech news.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Tech News | Today's Latest Technology News | Reuters"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "the-best-investment-strategies-for-the-continuous-market",
+    "type": "news",
+    "title": "The Best Investment Strategies For The Continuous Market",
+    "slug": "the-best-investment-strategies-for-the-continuous-market",
+    "date": "2026-06-10",
+    "displayDate": "June 10, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Effective risk management, diversification, and continuous education are key investment strategies for long-term stability. Dollar cost averaging and staying in",
+    "excerpt": "Effective risk management, diversification, and continuous education are key investment strategies for long-term stability. Dollar cost averaging and staying invested through volatility can enhance gains. Growth stocks and diversified portfolios are recommended for sustained returns.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "The Best Investment Strategies For The Continuous Market"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "united-states-consumer-price-index-cpi-trading-economics",
+    "type": "news",
+    "title": "United States Consumer Price Index (CPI) - Trading Economics",
+    "slug": "united-states-consumer-price-index-cpi-trading-economics",
+    "date": "2026-06-10",
+    "displayDate": "June 10, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The U.S. Consumer Price Index (CPI) in April 2026 was 333.02, up from 330.21 in March. The annual inflation rate rose to 3.8% in April, the highest since May 20",
+    "excerpt": "The U.S. Consumer Price Index (CPI) in April 2026 was 333.02, up from 330.21 in March. The annual inflation rate rose to 3.8% in April, the highest since May 2023. Core inflation increased to 2.8% year-over-year in April.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "United States Consumer Price Index (CPI) - Trading Economics"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "united-states-economy-at-a-glance-bureau-of-labor-statistics",
+    "type": "news",
+    "title": "United States Economy at a Glance - Bureau of Labor Statistics",
+    "slug": "united-states-economy-at-a-glance-bureau-of-labor-statistics",
+    "date": "2026-06-10",
+    "displayDate": "June 10, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Bureau of Labor Statistics provides the U.S. Economy at a Glance, featuring national, regional, state, and metropolitan economic data. Key metrics include e",
+    "excerpt": "The Bureau of Labor Statistics provides the U.S. Economy at a Glance, featuring national, regional, state, and metropolitan economic data. Key metrics include employment, unemployment, and inflation. The data is seasonally adjusted at higher levels but not at the metropolitan level.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "United States Economy at a Glance - Bureau of Labor Statistics"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "us-central-bank-cuts-key-lending-rate-by-a-quarter-point-bbc-news",
+    "type": "news",
+    "title": "US central bank cuts key lending rate by a quarter point - BBC News",
+    "slug": "us-central-bank-cuts-key-lending-rate-by-a-quarter-point-bbc-news",
+    "date": "2026-06-10",
+    "displayDate": "June 10, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The US central bank cut the key lending rate by a quarter point to 3.50-3.75%, marking the third reduction this year. This decision was made to address cooling ",
+    "excerpt": "The US central bank cut the key lending rate by a quarter point to 3.50-3.75%, marking the third reduction this year. This decision was made to address cooling labor markets and elevated inflation.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "US central bank cuts key lending rate by a quarter point - BBC News"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "us-stock-market-earnings-calendar",
+    "type": "news",
+    "title": "US Stock Market Earnings Calendar",
+    "slug": "us-stock-market-earnings-calendar",
+    "date": "2026-06-10",
+    "displayDate": "June 10, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The US stock market earnings calendar lists upcoming earnings reports, including forecasts and actual results for major companies. Key upcoming reports include ",
+    "excerpt": "The US stock market earnings calendar lists upcoming earnings reports, including forecasts and actual results for major companies. Key upcoming reports include Oracle Corp. on May 31, 2026. MarketWatch provides detailed earnings forecasts.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "US Stock Market Earnings Calendar"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "10-investment-strategies-for-new-investors-mintos",
     "type": "news",
     "title": "10 Investment strategies for new investors - Mintos",
@@ -38,27 +668,6 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "2026 Outlook: Portfolio-Wide Views - Cambridge Associates"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "5-strategies-to-navigate-market-volatility-morgan-stanley",
-    "type": "news",
-    "title": "5 Strategies to Navigate Market Volatility - Morgan Stanley",
-    "slug": "5-strategies-to-navigate-market-volatility-morgan-stanley",
-    "date": "2026-06-09",
-    "displayDate": "June 9, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "To navigate market volatility, consider staying invested, rebalancing your portfolio, focusing on long-term goals, using tax-efficient strategies, and consultin",
-    "excerpt": "To navigate market volatility, consider staying invested, rebalancing your portfolio, focusing on long-term goals, using tax-efficient strategies, and consulting with financial advisors.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "5 Strategies to Navigate Market Volatility - Morgan Stanley"
     },
     "readingTime": 3
   },
@@ -189,27 +798,6 @@
     "readingTime": 3
   },
   {
-    "id": "cpi-home-u-s-bureau-of-labor-statistics",
-    "type": "news",
-    "title": "CPI Home : U.S. Bureau of Labor Statistics",
-    "slug": "cpi-home-u-s-bureau-of-labor-statistics",
-    "date": "2026-06-09",
-    "displayDate": "June 9, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Consumer Price Index (CPI) measures inflation in the U.S. It increased 0.6% in April 2026. For more details, visit the U.S. Bureau of Labor Statistics websi",
-    "excerpt": "The Consumer Price Index (CPI) measures inflation in the U.S. It increased 0.6% in April 2026. For more details, visit the U.S. Bureau of Labor Statistics website.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "CPI Home : U.S. Bureau of Labor Statistics"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "crypto-news-bitcoin-ethereum-xrp-news-crypto-news",
     "type": "news",
     "title": "Crypto News: Bitcoin, Ethereum & XRP News | crypto.news",
@@ -294,27 +882,6 @@
     "readingTime": 3
   },
   {
-    "id": "earnings-calendar-events-wall-street-horizon",
-    "type": "news",
-    "title": "Earnings Calendar & Events - Wall Street Horizon",
-    "slug": "earnings-calendar-events-wall-street-horizon",
-    "date": "2026-06-09",
-    "displayDate": "June 9, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Apple's next earnings date is unconfirmed for July 30, 2026. This date is based on historical trends. The exact confirmation status is not yet provided by Apple",
-    "excerpt": "Apple's next earnings date is unconfirmed for July 30, 2026. This date is based on historical trends. The exact confirmation status is not yet provided by Apple.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Earnings Calendar & Events - Wall Street Horizon"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "earnings-calendar-investing-com",
     "type": "news",
     "title": "Earnings Calendar - Investing.com",
@@ -332,27 +899,6 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "Earnings Calendar - Investing.com"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "earnings-calendar-zacks-investment-research",
-    "type": "news",
-    "title": "Earnings Calendar - Zacks Investment Research",
-    "slug": "earnings-calendar-zacks-investment-research",
-    "date": "2026-06-09",
-    "displayDate": "June 9, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Zacks Investment Research's earnings calendar lists upcoming earnings reports, helping investors prepare for market volatility. The calendar includes company es",
-    "excerpt": "Zacks Investment Research's earnings calendar lists upcoming earnings reports, helping investors prepare for market volatility. The calendar includes company estimates and reported results. For the latest data, visit Zacks' official earnings calendar page.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Earnings Calendar - Zacks Investment Research"
     },
     "readingTime": 3
   },
@@ -420,27 +966,6 @@
     "readingTime": 3
   },
   {
-    "id": "economic-calendar",
-    "type": "news",
-    "title": "Economic Calendar",
-    "slug": "economic-calendar",
-    "date": "2026-06-09",
-    "displayDate": "June 9, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "An economic calendar lists upcoming financial events and data releases that can impact markets. It includes details on their potential market impact and histori",
-    "excerpt": "An economic calendar lists upcoming financial events and data releases that can impact markets. It includes details on their potential market impact and historical figures. MarketWatch offers a U.S. Economic Calendar with specific economic reports and related news.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Economic Calendar"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "economic-indicator-release-schedule-list-view-us-census-bureau",
     "type": "news",
     "title": "Economic Indicator Release Schedule: List View - US Census Bureau",
@@ -458,27 +983,6 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "Economic Indicator Release Schedule: List View - US Census Bureau"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "economic-indicators-calendar-federal-reserve-bank-of-new-york",
-    "type": "news",
-    "title": "Economic Indicators Calendar - FEDERAL RESERVE BANK of NEW YORK",
-    "slug": "economic-indicators-calendar-federal-reserve-bank-of-new-york",
-    "date": "2026-06-09",
-    "displayDate": "June 9, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Reserve Bank of New York's Economic Indicators Calendar lists key economic data releases. For specific dates and times, visit their official website",
-    "excerpt": "The Federal Reserve Bank of New York's Economic Indicators Calendar lists key economic data releases. For specific dates and times, visit their official website. This calendar helps track important economic updates.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Economic Indicators Calendar - FEDERAL RESERVE BANK of NEW YORK"
     },
     "readingTime": 3
   },
@@ -672,90 +1176,6 @@
     "readingTime": 3
   },
   {
-    "id": "geekwire-breaking-news-in-technology-business",
-    "type": "news",
-    "title": "GeekWire – Breaking News in Technology & Business",
-    "slug": "geekwire-breaking-news-in-technology-business",
-    "date": "2026-06-09",
-    "displayDate": "June 9, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "GeekWire is a prominent technology news site based in Seattle, known for its breaking news and expert analysis in technology and business. It has a significant ",
-    "excerpt": "GeekWire is a prominent technology news site based in Seattle, known for its breaking news and expert analysis in technology and business. It has a significant online presence and a loyal readership. As of 2026, its annual recurring revenue is $3.9 million.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "GeekWire – Breaking News in Technology & Business"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "global-market-headlines-breaking-stock-market-news-reuters",
-    "type": "news",
-    "title": "Global Market Headlines | Breaking Stock Market News | Reuters",
-    "slug": "global-market-headlines-breaking-stock-market-news-reuters",
-    "date": "2026-06-09",
-    "displayDate": "June 9, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Global market headlines show tech and chipmakers rebounding, with S&P 500 and Nasdaq rising. AI giants like OpenAI are heading to public markets. Apple is focus",
-    "excerpt": "Global market headlines show tech and chipmakers rebounding, with S&P 500 and Nasdaq rising. AI giants like OpenAI are heading to public markets. Apple is focusing on improving Siri.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Global Market Headlines | Breaking Stock Market News | Reuters"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "global-market-indices-international-markets-markets-insider",
-    "type": "news",
-    "title": "Global Market Indices | International Markets - Markets Insider",
-    "slug": "global-market-indices-international-markets-markets-insider",
-    "date": "2026-06-09",
-    "displayDate": "June 9, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Russell 2000 is down 3.56% to 2,834.80. The DAX is down 3.19% to 4,074.14. The Dow Jones is up 1.73% to 51,582.93.",
-    "excerpt": "The Russell 2000 is down 3.56% to 2,834.80. The DAX is down 3.19% to 4,074.14. The Dow Jones is up 1.73% to 51,582.93.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Global Market Indices | International Markets - Markets Insider"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "global-stock-market-news-and-world-indices-coverage-cnbc",
-    "type": "news",
-    "title": "Global Stock Market News and World Indices Coverage - CNBC",
-    "slug": "global-stock-market-news-and-world-indices-coverage-cnbc",
-    "date": "2026-06-09",
-    "displayDate": "June 9, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "European stocks fluctuated with defense sector rallies and political turmoil; U.S. markets showed declines; global indices varied with focus on Iran conflict.",
-    "excerpt": "European stocks fluctuated with defense sector rallies and political turmoil; U.S. markets showed declines; global indices varied with focus on Iran conflict.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Global Stock Market News and World Indices Coverage - CNBC"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "health-technology-sector-companies-performance-and-stocks",
     "type": "news",
     "title": "Health Technology Sector: Companies, Performance and Stocks",
@@ -945,27 +1365,6 @@
     "readingTime": 3
   },
   {
-    "id": "investment-strategies-for-today-and-long-term-blackrock",
-    "type": "news",
-    "title": "Investment strategies for today and long-term - BlackRock",
-    "slug": "investment-strategies-for-today-and-long-term-blackrock",
-    "date": "2026-06-09",
-    "displayDate": "June 9, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "BlackRock emphasizes diversification, income opportunities, and interest rate insights for both short-term and long-term investment strategies. Long-term invest",
-    "excerpt": "BlackRock emphasizes diversification, income opportunities, and interest rate insights for both short-term and long-term investment strategies. Long-term investing is prioritized for stability and growth. Focus on balanced portfolios and market trends.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Investment strategies for today and long-term - BlackRock"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "investment-strategies-for-today-s-market-linkedin",
     "type": "news",
     "title": "Investment Strategies for Today's Market - LinkedIn",
@@ -1004,27 +1403,6 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "Latest: Asia Stock Market News"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "latest-technology-news-and-reviews-yahoo-finance",
-    "type": "news",
-    "title": "Latest Technology News and Reviews - Yahoo Finance",
-    "slug": "latest-technology-news-and-reviews-yahoo-finance",
-    "date": "2026-06-09",
-    "displayDate": "June 9, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Yahoo Finance covers the latest technology news and expert analysis, while Yahoo Tech provides updates, reviews, and stories on technology trends. The Tech News",
-    "excerpt": "Yahoo Finance covers the latest technology news and expert analysis, while Yahoo Tech provides updates, reviews, and stories on technology trends. The Tech News Videos section highlights significant developments in Big Tech and AI.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Latest Technology News and Reviews - Yahoo Finance"
     },
     "readingTime": 3
   },
@@ -1071,27 +1449,6 @@
     "readingTime": 3
   },
   {
-    "id": "s-p-500-index-sp500-analysis-news-and-chart-today",
-    "type": "news",
-    "title": "S&P 500 Index (SP500) Analysis, News, And Chart Today",
-    "slug": "s-p-500-index-sp500-analysis-news-and-chart-today",
-    "date": "2026-06-09",
-    "displayDate": "June 9, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The S&P 500 Index is currently at 7,440.57, up 0.30% from the previous close. It reached a 52-week high of 7,620.90 on June 2, 2026. Today's high is 7,466.81 an",
-    "excerpt": "The S&P 500 Index is currently at 7,440.57, up 0.30% from the previous close. It reached a 52-week high of 7,620.90 on June 2, 2026. Today's high is 7,466.81 and the low is 7,395.13.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "S&P 500 Index (SP500) Analysis, News, And Chart Today"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "s-p-500-index-technical-analysis-barchart-com",
     "type": "news",
     "title": "S&P 500 Index Technical Analysis - Barchart.com",
@@ -1109,27 +1466,6 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "S&P 500 Index Technical Analysis - Barchart.com"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "s-p-500-sp500-technical-analysis-medium-term-investtech",
-    "type": "news",
-    "title": "S&P 500 (SP500) - Technical Analysis - Medium term - Investtech",
-    "slug": "s-p-500-sp500-technical-analysis-medium-term-investtech",
-    "date": "2026-06-09",
-    "displayDate": "June 9, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The S&P 500 is technically positive for the medium term, showing a rising trend. Investtech's analysis focuses on trend status and momentum. Use of Investtech's",
-    "excerpt": "The S&P 500 is technically positive for the medium term, showing a rising trend. Investtech's analysis focuses on trend status and momentum. Use of Investtech's analysis is at the investor's own risk.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "S&P 500 (SP500) - Technical Analysis - Medium term - Investtech"
     },
     "readingTime": 3
   },
@@ -1218,27 +1554,6 @@
     "readingTime": 3
   },
   {
-    "id": "sector-views-monthly-stock-sector-outlook",
-    "type": "news",
-    "title": "Sector Views: Monthly Stock Sector Outlook",
-    "slug": "sector-views-monthly-stock-sector-outlook",
-    "date": "2026-06-09",
-    "displayDate": "June 9, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Monthly stock sector outlooks analyze performance trends of 11 S&P 500 sectors. Utilities are currently less favored. Schwab's Sector Views provide insights for",
-    "excerpt": "Monthly stock sector outlooks analyze performance trends of 11 S&P 500 sectors. Utilities are currently less favored. Schwab's Sector Views provide insights for investment decisions.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Sector Views: Monthly Stock Sector Outlook"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "sectors-stock-market-usa-tradingview",
     "type": "news",
     "title": "Sectors — Stock Market — USA — TradingView",
@@ -1302,27 +1617,6 @@
     "readingTime": 3
   },
   {
-    "id": "tech-news-today-s-latest-technology-news-reuters",
-    "type": "news",
-    "title": "Tech News | Today's Latest Technology News | Reuters",
-    "slug": "tech-news-today-s-latest-technology-news-reuters",
-    "date": "2026-06-09",
-    "displayDate": "June 9, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Today, AI giants like OpenAI and Anthropic are heading to public markets, and Apple is focusing on improving Siri. Additionally, Nvidia has made significant dea",
-    "excerpt": "Today, AI giants like OpenAI and Anthropic are heading to public markets, and Apple is focusing on improving Siri. Additionally, Nvidia has made significant deals.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Tech News | Today's Latest Technology News | Reuters"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "technology-bloomberg-com",
     "type": "news",
     "title": "Technology - Bloomberg.com",
@@ -1361,27 +1655,6 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "The allocator’s checklist for 2026 and beyond | Wellington Management"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "the-best-investment-strategies-for-the-continuous-market",
-    "type": "news",
-    "title": "The Best Investment Strategies For The Continuous Market",
-    "slug": "the-best-investment-strategies-for-the-continuous-market",
-    "date": "2026-06-09",
-    "displayDate": "June 9, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Effective risk management, diversification, and long-term commitment to investments like growth stocks and bond funds are key strategies for navigating the mark",
-    "excerpt": "Effective risk management, diversification, and long-term commitment to investments like growth stocks and bond funds are key strategies for navigating the market. Staying invested through volatility and rebalancing your portfolio regularly can help achieve financial stability.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "The Best Investment Strategies For The Continuous Market"
     },
     "readingTime": 3
   },
@@ -1554,90 +1827,6 @@
     "readingTime": 3
   },
   {
-    "id": "united-states-consumer-price-index-cpi-trading-economics",
-    "type": "news",
-    "title": "United States Consumer Price Index (CPI) - Trading Economics",
-    "slug": "united-states-consumer-price-index-cpi-trading-economics",
-    "date": "2026-06-09",
-    "displayDate": "June 9, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The U.S. Consumer Price Index (CPI) in April 2026 was 333.02, up from 330.21 in March. The annual inflation rate rose to 3.8% in April 2026, the highest since M",
-    "excerpt": "The U.S. Consumer Price Index (CPI) in April 2026 was 333.02, up from 330.21 in March. The annual inflation rate rose to 3.8% in April 2026, the highest since May 2023. Core inflation rate increased to 2.8% year-over-year in April 2026.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "United States Consumer Price Index (CPI) - Trading Economics"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "united-states-economy-at-a-glance-bureau-of-labor-statistics",
-    "type": "news",
-    "title": "United States Economy at a Glance - Bureau of Labor Statistics",
-    "slug": "united-states-economy-at-a-glance-bureau-of-labor-statistics",
-    "date": "2026-06-09",
-    "displayDate": "June 9, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The U.S. Bureau of Labor Statistics provides Economy at a Glance data on national, regional, state, and metropolitan levels, focusing on employment, unemploymen",
-    "excerpt": "The U.S. Bureau of Labor Statistics provides Economy at a Glance data on national, regional, state, and metropolitan levels, focusing on employment, unemployment, and inflation. The data is seasonally adjusted at higher levels but not at metropolitan. The latest update is June 2026.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "United States Economy at a Glance - Bureau of Labor Statistics"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "us-central-bank-cuts-key-lending-rate-by-a-quarter-point-bbc-news",
-    "type": "news",
-    "title": "US central bank cuts key lending rate by a quarter point - BBC News",
-    "slug": "us-central-bank-cuts-key-lending-rate-by-a-quarter-point-bbc-news",
-    "date": "2026-06-09",
-    "displayDate": "June 9, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Reserve cut the key lending rate by a quarter point, bringing it to 3.50-3.75%, marking the third reduction this year. This decision aims to ease bo",
-    "excerpt": "The Federal Reserve cut the key lending rate by a quarter point, bringing it to 3.50-3.75%, marking the third reduction this year. This decision aims to ease borrowing costs despite ongoing government shutdown delays in economic data. Fed Chair Jerome Powell confirmed the cut at his news conference.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "US central bank cuts key lending rate by a quarter point - BBC News"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "us-stock-market-earnings-calendar",
-    "type": "news",
-    "title": "US Stock Market Earnings Calendar",
-    "slug": "us-stock-market-earnings-calendar",
-    "date": "2026-06-09",
-    "displayDate": "June 9, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The US Stock Market Earnings Calendar lists upcoming earnings announcements, including companies like Duluth Holdings and Chewy Inc. for dates in April and May ",
-    "excerpt": "The US Stock Market Earnings Calendar lists upcoming earnings announcements, including companies like Duluth Holdings and Chewy Inc. for dates in April and May 2026. Key earnings reports are scheduled for April 30, 2026.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "US Stock Market Earnings Calendar"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "weekly-trader-s-stock-market-outlook-charles-schwab",
     "type": "news",
     "title": "Weekly Trader's Stock Market Outlook | Charles Schwab",
@@ -1739,69 +1928,6 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "Big Tech just delivered the most consequential earnings week of 2026"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "bitcoin-btc-news-analysis-and-forecast-fxstreet",
-    "type": "news",
-    "title": "Bitcoin (BTC) News, Analysis and Forecast - FXStreet",
-    "slug": "bitcoin-btc-news-analysis-and-forecast-fxstreet",
-    "date": "2026-06-08",
-    "displayDate": "June 8, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Bitcoin is currently above $62,000 but faces risk-off sentiment and potential decline to $60,000. ETF outflows and geopolitical tensions are influencing its mar",
-    "excerpt": "Bitcoin is currently above $62,000 but faces risk-off sentiment and potential decline to $60,000. ETF outflows and geopolitical tensions are influencing its market behavior. Analysts predict a possible drop to $51,000.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Bitcoin (BTC) News, Analysis and Forecast - FXStreet"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "bitcoin-btc-price-usd-today-news-charts-market-cap-coinbase",
-    "type": "news",
-    "title": "Bitcoin (BTC) Price USD Today, News, Charts, Market Cap | Coinbase",
-    "slug": "bitcoin-btc-price-usd-today-news-charts-market-cap-coinbase",
-    "date": "2026-06-08",
-    "displayDate": "June 8, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Bitcoin's price today is $63,066.68, down 3% from yesterday. The market cap is substantial, reflecting its leading position. Current data may vary by source.",
-    "excerpt": "Bitcoin's price today is $63,066.68, down 3% from yesterday. The market cap is substantial, reflecting its leading position. Current data may vary by source.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Bitcoin (BTC) Price USD Today, News, Charts, Market Cap | Coinbase"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "bitcoin-price-today-btc-price-chart-live-trends-kraken",
-    "type": "news",
-    "title": "Bitcoin price today - BTC price chart & live trends - Kraken",
-    "slug": "bitcoin-price-today-btc-price-chart-live-trends-kraken",
-    "date": "2026-06-08",
-    "displayDate": "June 8, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Bitcoin price today is $63,020.00, up +2.61% in the last 24 hours. The circulating supply is 20,030,779 BTC, with a market cap of $1,262,339,689,233. For more d",
-    "excerpt": "Bitcoin price today is $63,020.00, up +2.61% in the last 24 hours. The circulating supply is 20,030,779 BTC, with a market cap of $1,262,339,689,233. For more details, visit Kraken.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Bitcoin price today - BTC price chart & live trends - Kraken"
     },
     "readingTime": 3
   },
@@ -4427,27 +4553,6 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "Second Quarter 2026 Survey of Professional Forecasters"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "sector-industry-performance",
-    "type": "news",
-    "title": "Sector & Industry Performance",
-    "slug": "sector-industry-performance",
-    "date": "2026-06-05",
-    "displayDate": "June 5, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The technology sector is currently leading in performance, followed by utilities and finance. Bloomberg and Barchart provide detailed sector performance data. F",
-    "excerpt": "The technology sector is currently leading in performance, followed by utilities and finance. Bloomberg and Barchart provide detailed sector performance data. For the latest figures, visit Bloomberg or Barchart.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Sector & Industry Performance"
     },
     "readingTime": 3
   },

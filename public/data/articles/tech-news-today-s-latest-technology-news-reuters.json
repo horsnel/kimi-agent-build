@@ -3,8 +3,8 @@
   "type": "news",
   "title": "Tech News | Today's Latest Technology News | Reuters",
   "slug": "tech-news-today-s-latest-technology-news-reuters",
-  "date": "2026-06-09",
-  "displayDate": "June 9, 2026",
+  "date": "2026-06-10",
+  "displayDate": "June 10, 2026",
   "author": "Sigma Capital",
   "category": "Company News",
   "tags": [
@@ -12,41 +12,41 @@
     "financial news",
     "market update"
   ],
-  "metaDescription": "Today, AI giants like OpenAI and Anthropic are heading to public markets, and Apple is focusing on improving Siri. Additionally, Nvidia has made significant dea",
-  "excerpt": "Today, AI giants like OpenAI and Anthropic are heading to public markets, and Apple is focusing on improving Siri. Additionally, Nvidia has made significant deals.",
+  "metaDescription": "SpaceX IPO demand is four times oversubscribed. Musk's xAI and SpaceX face a class action lawsuit. Meta continues to dominate tech news.",
+  "excerpt": "SpaceX IPO demand is four times oversubscribed. Musk's xAI and SpaceX face a class action lawsuit. Meta continues to dominate tech news.",
   "content": {
-    "introduction": "Today, AI giants like OpenAI and Anthropic are heading to public markets, and Apple is focusing on improving Siri. Additionally, Nvidia has made significant deals.",
+    "introduction": "SpaceX IPO demand is four times oversubscribed. Musk's xAI and SpaceX face a class action lawsuit. Meta continues to dominate tech news.",
     "body": [
-      "Technology · OpenAI files for US IPO after Anthropic as AI giants head to public markets · Apple bets on overdue Siri fix to close AI gap · Nvidia clinches",
-      "China's global e-commerce push stalls as Iran war lifts costs, dampens demand · Japan's shareholder meetings run on bunk clockwork · Nvidia announces deals with",
-      "OpenAI files for US IPO after Anthropic as AI giants head to public markets · S&P 500, Nasdaq rise as tech, chipmakers rebound · Apple bets on overdue Siri fix to"
+      "Technology · Exclusive: SpaceX IPO demand is approaching four times oversubscribed · Musk's xAI, SpaceX hit with class action over data center 'nuisance' · Meta",
+      "From startups to the FAANGs, get the latest news and trends in the global technology industry.",
+      "China car sales downturn extends into May as VW tests EV revamp · Chip rout puts Korea's 'ant' investors to the test as margin debt soars · South Korea's KOSPI"
     ],
     "keyTakeaways": [
-      "Today, AI giants like OpenAI and Anthropic are heading to public markets, and Apple is focusing on improving Siri. Addit",
-      "Technology · OpenAI files for US IPO after Anthropic as AI giants head to public markets · Apple bets on overdue Siri fi",
-      "China's global e-commerce push stalls as Iran war lifts costs, dampens demand · Japan's shareholder meetings run on bunk"
+      "SpaceX IPO demand is four times oversubscribed. Musk's xAI and SpaceX face a class action lawsuit",
+      "Technology · Exclusive: SpaceX IPO demand is approaching four times oversubscribed · Musk's xAI, SpaceX hit with class a",
+      "From startups to the FAANGs, get the latest news and trends in the global technology industry."
     ],
     "source": "reuters.com",
     "sourceUrl": "https://www.reuters.com/technology"
   },
   "readingTime": 3,
-  "updatedAt": "2026-06-09T03:53:27.438Z",
+  "updatedAt": "2026-06-10T04:04:47.734Z",
   "images": {
     "thumbnail": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Tech News | Today's Latest Technology News | Reuters"
-    },
-    "hero": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "Tech News | Today's Latest Technology News | Reuters"
     },
-    "mid": {
+    "hero": {
       "src": "/images/article_thumb_5.jpg",
+      "alt": "Tech News | Today's Latest Technology News | Reuters"
+    },
+    "mid": {
+      "src": "/images/article_thumb_3.jpg",
       "alt": "Tech News | Today's Latest Technology News | Reuters"
     }
   },
   "image": {
-    "src": "/images/article_thumb_5.jpg",
+    "src": "/images/article_thumb_2.jpg",
     "alt": "Tech News | Today's Latest Technology News | Reuters"
   }
 }

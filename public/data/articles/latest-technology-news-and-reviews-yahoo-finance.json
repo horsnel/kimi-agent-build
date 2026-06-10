@@ -3,8 +3,8 @@
   "type": "news",
   "title": "Latest Technology News and Reviews - Yahoo Finance",
   "slug": "latest-technology-news-and-reviews-yahoo-finance",
-  "date": "2026-06-09",
-  "displayDate": "June 9, 2026",
+  "date": "2026-06-10",
+  "displayDate": "June 10, 2026",
   "author": "Sigma Capital",
   "category": "Company News",
   "tags": [
@@ -12,40 +12,41 @@
     "financial news",
     "market update"
   ],
-  "metaDescription": "Yahoo Finance covers the latest technology news and expert analysis, while Yahoo Tech provides updates, reviews, and stories on technology trends. The Tech News",
-  "excerpt": "Yahoo Finance covers the latest technology news and expert analysis, while Yahoo Tech provides updates, reviews, and stories on technology trends. The Tech News Videos section highlights significant developments in Big Tech and AI.",
+  "metaDescription": "Salesforce recently laid off employees, NASA announced crew members for a 2027 mission, and The Mortal Shell 2 had a successful open beta download.",
+  "excerpt": "Salesforce recently laid off employees, NASA announced crew members for a 2027 mission, and The Mortal Shell 2 had a successful open beta download.",
   "content": {
-    "introduction": "Yahoo Finance covers the latest technology news and expert analysis, while Yahoo Tech provides updates, reviews, and stories on technology trends. The Tech News Videos section highlights significant developments in Big Tech and AI.",
+    "introduction": "Salesforce recently laid off employees, NASA announced crew members for a 2027 mission, and The Mortal Shell 2 had a successful open beta download.",
     "body": [
       "Yahoo Finance brings you the latest news and expert analysis of the biggest companies and trends in technology. Track Tech in AlphaSpace.",
+      "News · Salesforce cuts jobs in new round of layoffs · The Mortal Shell 2 open beta was downloaded 250,000 times over the weekend · NASA names crew members for 2027",
       "From Big Tech to AI, the latest you need to know about some of the biggest names on Wall Street."
     ],
     "keyTakeaways": [
-      "Yahoo Finance covers the latest technology news and expert analysis, while Yahoo Tech provides updates, reviews, and sto",
+      "Salesforce recently laid off employees, NASA announced crew members for a 2027 mission, and The Mortal Shell 2 had a suc",
       "Yahoo Finance brings you the latest news and expert analysis of the biggest companies and trends in technology. Track Te",
-      "From Big Tech to AI, the latest you need to know about some of the biggest names on Wall Street."
+      "News · Salesforce cuts jobs in new round of layoffs · The Mortal Shell 2 open beta was downloaded 250,000 times over the"
     ],
     "source": "finance.yahoo.com",
     "sourceUrl": "https://finance.yahoo.com/topic/tech"
   },
   "readingTime": 3,
-  "updatedAt": "2026-06-09T20:09:39.827Z",
+  "updatedAt": "2026-06-10T04:04:47.734Z",
   "images": {
     "thumbnail": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "Latest Technology News and Reviews - Yahoo Finance"
     },
     "hero": {
-      "src": "/images/article_thumb_5.jpg",
+      "src": "/images/article_thumb_2.jpg",
       "alt": "Latest Technology News and Reviews - Yahoo Finance"
     },
     "mid": {
-      "src": "/images/article_thumb_3.jpg",
+      "src": "/images/article_thumb_5.jpg",
       "alt": "Latest Technology News and Reviews - Yahoo Finance"
     }
   },
   "image": {
-    "src": "/images/article_thumb_3.jpg",
+    "src": "/images/article_thumb_4.jpg",
     "alt": "Latest Technology News and Reviews - Yahoo Finance"
   }
 }
