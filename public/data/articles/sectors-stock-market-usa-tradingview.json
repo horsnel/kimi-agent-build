@@ -1,10 +1,10 @@
 {
   "id": "sectors-stock-market-usa-tradingview",
   "type": "news",
-  "title": "Sectors — Stock Market — USA — TradingView",
+  "title": "Sectors — Stock Market — USA - TradingView",
   "slug": "sectors-stock-market-usa-tradingview",
-  "date": "2026-06-09",
-  "displayDate": "June 9, 2026",
+  "date": "2026-06-10",
+  "displayDate": "June 10, 2026",
   "author": "Sigma Capital",
   "category": "Sector Performance",
   "tags": [
@@ -12,41 +12,41 @@
     "financial news",
     "market update"
   ],
-  "metaDescription": "The US stock market sectors include Technology Services, Finance, Utilities, Industrial Services, and Transportation. The S&P 500 sectors cover Consumer Discret",
-  "excerpt": "The US stock market sectors include Technology Services, Finance, Utilities, Industrial Services, and Transportation. The S&P 500 sectors cover Consumer Discretionary, Consumer Staples, Health Care, Industrials, Materials, and Real Estate. The market sectors' performance varies daily.",
+  "metaDescription": "The Technology Services sector is the largest in the US stock market, followed by Finance and Utilities. The S&P 500 Consumer Discretionary sector is currently ",
+  "excerpt": "The Technology Services sector is the largest in the US stock market, followed by Finance and Utilities. The S&P 500 Consumer Discretionary sector is currently down, while Industrials is a strong buy.",
   "content": {
-    "introduction": "The US stock market sectors include Technology Services, Finance, Utilities, Industrial Services, and Transportation. The S&P 500 sectors cover Consumer Discretionary, Consumer Staples, Health Care, Industrials, Materials, and Real Estate. The market sectors' performance varies daily.",
+    "introduction": "The Technology Services sector is the largest in the US stock market, followed by Finance and Utilities. The S&P 500 Consumer Discretionary sector is currently down, while Industrials is a strong buy.",
     "body": [
       "EN ![Image 1](https://www.tradingview.com/markets/stocks-usa/sectorandindustry-sector). *   /[Sectors](https://www.tradingview.com/markets/stocks-usa/sectorandindustry-sector/). | [Technology Services](https://www.tradingview.com/markets/stocks-usa/sectorandindustry-sector/technology-services/ \"Technology Services\") | 18.99 T USD | 0.49% | −2.06% | 10.9 M | 4 | 635 |. | [Finance](https://www.tradingview.com/markets/stocks-usa/sectorandindustry-sector/finance/ \"Finance\") | 15.67 T USD | 2.00% | +0.41% | 2.73 M | 14 | 1494 |. | [Utilities](https://www.tradingview.com/markets/stocks-usa/sectorandindustry-sector/utilities/ \"Utilities\") | 2.5 T USD | 3.96% | +0.89% | 1.52 M | 4 | 111 |. | [Industrial Services](https://www.tradingview.com/markets/stocks-usa/sectorandindustry-sector/industrial-services/ \"Industrial Services\") | 1.84 T USD | 2.52% | −0.93% | 1.66 M | 5 | 150 |. | [Transportation](https://www.tradingview.com/markets/stocks-usa/sectorandindustry-sector/transportation/ \"Transportation\") | 1.45 T USD | 1.66% | −0.37% | 2.88 M | 6 | 152 |. | [Process Industries](https://www.tradingview.com/markets/stocks-usa/sectorandindustry-sector/process-industries/ \"Process Industries\") | 1.12 T USD | 2.00% | +0.86% | 1.18 M | 8 | 164 |. | [Commercial Services](https://www.tradingview.com/markets/stocks-usa/sectorandindustry-sector/commercial-services/ \"Commercial Services\") | 1.1 T USD | 0.96% | −0.03% | 1.65 M | 5 | 251 |. | [Communications](https://www.tradingview.com/markets/stocks-usa/sectorandindustry-sector/communications/ \"Communications\") | 990.93 B USD | 3.65% | +0.94% | 7.33 M | 3 | 49 |.",
-      "# US Stock Market Sectors Overview Table [By MUQWISHI]. US Market Overview Table will identify the bullish and bearish sectors of a day by tracking the SPDR sectors funds. It's possible to add a ticker symbol for correlation compared to each sector. Table US Stock Market Sectors Overview V2. 2. Added two different set of sectors. 2. Added Chart Symbol/Custom options for correlation. 1. Added table.clear() function to the table. In true TradingView spirit, the creator of this script has made it open-source, so that traders can review and verify its functionality. While you can use it for free, remember that republishing the code is subject to our House Rules. Read more in the Terms of Use. consumercorrelationEnergy CommoditiesFundamental AnalysismatrixQQQsectorSPDR S&P 500 ETF (SPY) tabletechnologyTrend AnalysisVolatility. The information and publications are not meant to be, and do not constitute, financial, investment, trading, or other types of advice or recommendations supplied or endorsed by TradingView. Read more in the Terms of Use. consumercorrelationEnergy CommoditiesFundamental AnalysismatrixQQQsectorSPDR S&P 500 ETF (SPY) tabletechnologyTrend AnalysisVolatility.",
+      "| Semiconductors | 14.39 T USD | 0.49% | −1.00% | 85.85 M | Electronic technology | 100 |. | Internet Software/Services | 11.13 T USD | 0.26% | +0.15% | 22.56 M | Technology services | 104 |. | Packaged Software | 6.91 T USD | 0.66% | −2.16% | 21.78 M | Technology services | 376 |. | Telecommunications Equipment | 5.11 T USD | 0.49% | −3.52% | 63.23 M | Electronic technology | 34 |. | Major Banks | 4.67 T USD | 2.59% | +0.72% | 10.06 M | Finance | 89 |. | Pharmaceuticals: Major | 4.46 T USD | 1.95% | +1.12% | 6.07 M | Health technology | 350 |. | Internet Retail | 3.2 T USD | 0.14% | −0.26% | 36.71 M | Retail trade | 37 |. | Integrated Oil | 2.52 T USD | 3.43% | −1.57% | 9.09 M | Energy minerals | 49 |.",
       "The S&P 500 is a comprehensive US stock market index. S&P Dow Jones Indices group also features sector indices for various industries, including healthcare, real estate, etc., to provide insights into the overall US economy. | S5CONDS&P 500 Consumer Discretionary | 1,915.76 USD | −1.07% | −20.79 USD | 1,936.28 USD | 1,903.98 USD | Sell |. | S5CONSS&P 500 Consumer Staples | 915.77 USD | +0.78% | +7.05 USD | 921.32 USD | 907.96 USD | Sell |. | S5HLTHS&P 500 Health Care | 1,714.23 USD | +0.69% | +11.82 USD | 1,722.21 USD | 1,699.94 USD | Neutral |. | S5INDUS&P 500 Industrials | 1,470.04 USD | −0.10% | −1.47 USD | 1,488.08 USD | 1,467.41 USD | Strong buy |. | S5MATRS&P 500 Materials | 644.12 USD | +0.24% | +1.53 USD | 649.19 USD | 639.30 USD | Strong buy |. | S5REASS&P 500 Real Estate | 275.62 USD | +0.09% | +0.25 USD | 278.79 USD | 274.87 USD | Sell |."
     ],
     "keyTakeaways": [
-      "The US stock market sectors include Technology Services, Finance, Utilities, Industrial Services, and Transportation. Th",
+      "The Technology Services sector is the largest in the US stock market, followed by Finance and Utilities. The S&P 500 Con",
       "EN ![Image 1](https://www.tradingview",
-      "# US Stock Market Sectors Overview Table [By MUQWISHI]. US Market Overview Table will identify the bullish and bearish s"
+      "| Semiconductors | 14.39 T USD | 0"
     ],
     "source": "tradingview.com",
     "sourceUrl": "https://www.tradingview.com/markets/stocks-usa/sectorandindustry-sector"
   },
   "readingTime": 3,
-  "updatedAt": "2026-06-09T20:09:39.827Z",
+  "updatedAt": "2026-06-10T15:43:41.269Z",
   "images": {
     "thumbnail": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Sectors — Stock Market — USA — TradingView"
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Sectors — Stock Market — USA - TradingView"
     },
     "hero": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Sectors — Stock Market — USA — TradingView"
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Sectors — Stock Market — USA - TradingView"
     },
     "mid": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Sectors — Stock Market — USA — TradingView"
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Sectors — Stock Market — USA - TradingView"
     }
   },
   "image": {
-    "src": "/images/article_thumb_1.jpg",
-    "alt": "Sectors — Stock Market — USA — TradingView"
+    "src": "/images/article_thumb_3.jpg",
+    "alt": "Sectors — Stock Market — USA - TradingView"
   }
 }
