@@ -105,6 +105,27 @@
     "readingTime": 3
   },
   {
+    "id": "bitcoin-btc-price-today-btc-live-price-charts-news-crypto-com",
+    "type": "news",
+    "title": "Bitcoin (BTC) Price Today: BTC Live Price, Charts, News - Crypto.com",
+    "slug": "bitcoin-btc-price-today-btc-live-price-charts-news-crypto-com",
+    "date": "2026-06-10",
+    "displayDate": "June 10, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin's price today is $61,940.96, up 0.38% in the last 24 hours. It has a 24-hour trading volume of $29.77B. This is a 6.16% drop from its 7-day high.",
+    "excerpt": "Bitcoin's price today is $61,940.96, up 0.38% in the last 24 hours. It has a 24-hour trading volume of $29.77B. This is a 6.16% drop from its 7-day high.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Bitcoin (BTC) Price Today: BTC Live Price, Charts, News - Crypto.com"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "bitcoin-btc-price-usd-today-news-charts-market-cap-coinbase",
     "type": "news",
     "title": "Bitcoin (BTC) Price USD Today, News, Charts, Market Cap | Coinbase",
@@ -147,6 +168,48 @@
     "readingTime": 3
   },
   {
+    "id": "bitcoin-price-today-btc-to-usd-live-price-market-cap-chart",
+    "type": "news",
+    "title": "Bitcoin Price Today | BTC to USD Live Price, Market Cap & Chart",
+    "slug": "bitcoin-price-today-btc-to-usd-live-price-market-cap-chart",
+    "date": "2026-06-10",
+    "displayDate": "June 10, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "As of today, Bitcoin's price is approximately $61,753. Its market cap is around $1.2 trillion. The 24-hour trading volume is about $29 billion.",
+    "excerpt": "As of today, Bitcoin's price is approximately $61,753. Its market cap is around $1.2 trillion. The 24-hour trading volume is about $29 billion.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Bitcoin Price Today | BTC to USD Live Price, Market Cap & Chart"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "bitcoin-price-today-btc-to-usd-live-price-marketcap-and-chart",
+    "type": "news",
+    "title": "Bitcoin price today, BTC to USD live price, marketcap and chart",
+    "slug": "bitcoin-price-today-btc-to-usd-live-price-marketcap-and-chart",
+    "date": "2026-06-10",
+    "displayDate": "June 10, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The current Bitcoin price is $61,753.42 USD. The 24-hour trading volume is $29.1 billion USD. The market cap is $1.2 trillion USD.",
+    "excerpt": "The current Bitcoin price is $61,753.42 USD. The 24-hour trading volume is $29.1 billion USD. The market cap is $1.2 trillion USD.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Bitcoin price today, BTC to USD live price, marketcap and chart"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "btcusd-technical-analysis-for-bitcoin-usd-cryptocurrency",
     "type": "news",
     "title": "BTCUSD Technical Analysis for Bitcoin - USD Cryptocurrency",
@@ -185,6 +248,27 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "Bureau of Labor Statistics"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "consumer-price-index-1913-federal-reserve-bank-of-minneapolis",
+    "type": "news",
+    "title": "Consumer Price Index, 1913- | Federal Reserve Bank of Minneapolis",
+    "slug": "consumer-price-index-1913-federal-reserve-bank-of-minneapolis",
+    "date": "2026-06-10",
+    "displayDate": "June 10, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Consumer Price Index (CPI) began in 1913, and the Bureau of Labor Statistics started publishing it in 1921. The CPI measures average price changes for goods",
+    "excerpt": "The Consumer Price Index (CPI) began in 1913, and the Bureau of Labor Statistics started publishing it in 1921. The CPI measures average price changes for goods and services. The CPI for 2006 was 202.5.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Consumer Price Index, 1913- | Federal Reserve Bank of Minneapolis"
     },
     "readingTime": 3
   },
@@ -336,6 +420,27 @@
     "readingTime": 3
   },
   {
+    "id": "economic-indicator-release-schedule-list-view-us-census-bureau",
+    "type": "news",
+    "title": "Economic Indicator Release Schedule: List View - US Census Bureau",
+    "slug": "economic-indicator-release-schedule-list-view-us-census-bureau",
+    "date": "2026-06-10",
+    "displayDate": "June 10, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The U.S. Census Bureau releases advance economic indicators on January 14, 2026, for November 2025 and October 2025 data. Business formation statistics for Dece",
+    "excerpt": "The U.S. Census Bureau releases advance economic indicators on January 14, 2026, for November 2025 and October 2025 data. Business formation statistics for December 2025 will also be released on this date. The latest schedule shows updates for 2026 starting in February.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Economic Indicator Release Schedule: List View - US Census Bureau"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "economic-indicators-calendar-federal-reserve-bank-of-new-york",
     "type": "news",
     "title": "Economic Indicators Calendar - FEDERAL RESERVE BANK of NEW YORK",
@@ -395,6 +500,27 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "Economic Sector Performance Dashboards - Yahoo Finance"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "european-asian-stocks-fall-amid-geopolitical-tensions-wsj",
+    "type": "news",
+    "title": "European, Asian Stocks Fall Amid Geopolitical Tensions - WSJ",
+    "slug": "european-asian-stocks-fall-amid-geopolitical-tensions-wsj",
+    "date": "2026-06-10",
+    "displayDate": "June 10, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "European and Asian stocks fell due to geopolitical tensions, with the Dow Jones down over 300 points. US markets were closed for Juneteenth, and Trump had appro",
+    "excerpt": "European and Asian stocks fell due to geopolitical tensions, with the Dow Jones down over 300 points. US markets were closed for Juneteenth, and Trump had approved Iran attack plans but held off. Oil prices fluctuated, gold futures eased, and the U.S. dollar strengthened.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "European, Asian Stocks Fall Amid Geopolitical Tensions - WSJ"
     },
     "readingTime": 3
   },
@@ -630,6 +756,27 @@
     "readingTime": 3
   },
   {
+    "id": "inflation-consumer-prices-annual-united-states",
+    "type": "news",
+    "title": "Inflation, consumer prices (annual %) - United States",
+    "slug": "inflation-consumer-prices-annual-united-states",
+    "date": "2026-06-10",
+    "displayDate": "June 10, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Inflation, consumer prices in the United States, as of 2026, are tracked by the Federal Reserve Bank of St. Louis and the World Bank. The latest data shows a st",
+    "excerpt": "Inflation, consumer prices in the United States, as of 2026, are tracked by the Federal Reserve Bank of St. Louis and the World Bank. The latest data shows a steady annual increase. For precise figures, consult the latest reports from these institutions.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Inflation, consumer prices (annual %) - United States"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "investment-directions-2026-outlook-ishares",
     "type": "news",
     "title": "Investment Directions 2026 Outlook | iShares",
@@ -710,6 +857,27 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "Latest Technology News and Reviews - Yahoo Finance"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "live-updates-interest-rates-steady-federal-reserve-forecasts-1-rate",
+    "type": "news",
+    "title": "Live updates: Interest rates steady, Federal Reserve forecasts 1 rate ...",
+    "slug": "live-updates-interest-rates-steady-federal-reserve-forecasts-1-rate",
+    "date": "2026-06-10",
+    "displayDate": "June 10, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Interest rates remain steady; Federal Reserve forecasts one rate cut in 2026. The decision was not unanimous, with four officials dissenting. The Fed interest r",
+    "excerpt": "Interest rates remain steady; Federal Reserve forecasts one rate cut in 2026. The decision was not unanimous, with four officials dissenting. The Fed interest rate is currently 3.75%.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Live updates: Interest rates steady, Federal Reserve forecasts 1 rate ..."
     },
     "readingTime": 3
   },
@@ -861,6 +1029,27 @@
     "readingTime": 3
   },
   {
+    "id": "s-p-sectors-weekly-performance-macromicro",
+    "type": "news",
+    "title": "S&P Sectors Weekly Performance(%) - MacroMicro",
+    "slug": "s-p-sectors-weekly-performance-macromicro",
+    "date": "2026-06-10",
+    "displayDate": "June 10, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "As of June 10, 2026, Health Care led with a 4.91% weekly performance, followed by Real Estate at 3.26%, Utilities at 0.59%, and Information Technology at -7.48%",
+    "excerpt": "As of June 10, 2026, Health Care led with a 4.91% weekly performance, followed by Real Estate at 3.26%, Utilities at 0.59%, and Information Technology at -7.48%.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "S&P Sectors Weekly Performance(%) - MacroMicro"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "sector-industry-performance",
     "type": "news",
     "title": "Sector & Industry Performance",
@@ -924,6 +1113,48 @@
     "readingTime": 3
   },
   {
+    "id": "stock-market-outlook-midyear-2026-fidelity-investments",
+    "type": "news",
+    "title": "Stock market outlook midyear 2026 - Fidelity Investments",
+    "slug": "stock-market-outlook-midyear-2026-fidelity-investments",
+    "date": "2026-06-10",
+    "displayDate": "June 10, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Midyear 2026, stock market shows growth despite high oil prices; diversification into commodities advised; watch inflation impact.",
+    "excerpt": "Midyear 2026, stock market shows growth despite high oil prices; diversification into commodities advised; watch inflation impact.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Stock market outlook midyear 2026 - Fidelity Investments"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "stock-market-outlook-today-tomorrow-seeking-alpha",
+    "type": "news",
+    "title": "Stock Market Outlook Today & Tomorrow - Seeking Alpha",
+    "slug": "stock-market-outlook-today-tomorrow-seeking-alpha",
+    "date": "2026-06-10",
+    "displayDate": "June 10, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Today's stock market outlook suggests potential volatility with analysts predicting mixed performance. Tomorrow's forecasts indicate cautious optimism, advising",
+    "excerpt": "Today's stock market outlook suggests potential volatility with analysts predicting mixed performance. Tomorrow's forecasts indicate cautious optimism, advising portfolio adjustments. Current trends show a focus on U.S. and global market dynamics.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Stock Market Outlook Today & Tomorrow - Seeking Alpha"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "tech-cnn-business",
     "type": "news",
     "title": "Tech | CNN Business",
@@ -962,6 +1193,27 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "Tech News | Today's Latest Technology News | Reuters"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "technology-bloomberg-com",
+    "type": "news",
+    "title": "Technology - Bloomberg.com",
+    "slug": "technology-bloomberg-com",
+    "date": "2026-06-10",
+    "displayDate": "June 10, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Russia has restored access to the Roblox gaming platform, according to Interfax. ASML Holding NV plans to cut fewer jobs than initially planned and delay layoff",
+    "excerpt": "Russia has restored access to the Roblox gaming platform, according to Interfax. ASML Holding NV plans to cut fewer jobs than initially planned and delay layoffs. Bloomberg Technology covers global tech industry news.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Technology - Bloomberg.com"
     },
     "readingTime": 3
   },
@@ -1071,6 +1323,27 @@
     "readingTime": 3
   },
   {
+    "id": "truflation-us-cpi-inflation-index",
+    "type": "news",
+    "title": "Truflation US CPI Inflation Index",
+    "slug": "truflation-us-cpi-inflation-index",
+    "date": "2026-06-10",
+    "displayDate": "June 10, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Truflation US CPI Inflation Index is 1.84% with a 0.03% decrease from the previous month. The Truflation US CPI Aggregated Inflation Index is 30.39% with a ",
+    "excerpt": "The Truflation US CPI Inflation Index is 1.84% with a 0.03% decrease from the previous month. The Truflation US CPI Aggregated Inflation Index is 30.39% with a 0.03% decrease. The Truflation Electric Vehicle Commodity Index is $1,235.33 with a 0.41% increase.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Truflation US CPI Inflation Index"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "u-s-bureau-of-economic-analysis-bea",
     "type": "news",
     "title": "U.S. Bureau of Economic Analysis (BEA)",
@@ -1088,6 +1361,27 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "U.S. Bureau of Economic Analysis (BEA)"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "u-s-stock-markets-today-fox-business",
+    "type": "news",
+    "title": "U.S. Stock Markets Today - Fox Business",
+    "slug": "u-s-stock-markets-today-fox-business",
+    "date": "2026-06-10",
+    "displayDate": "June 10, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "U.S. stock markets today show trending stocks and real-time updates. Market data is provided by Factset. Comprehensive global market coverage is available.",
+    "excerpt": "U.S. stock markets today show trending stocks and real-time updates. Market data is provided by Factset. Comprehensive global market coverage is available.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "U.S. Stock Markets Today - Fox Business"
     },
     "readingTime": 3
   },
@@ -1491,27 +1785,6 @@
     "readingTime": 3
   },
   {
-    "id": "economic-indicator-release-schedule-list-view-us-census-bureau",
-    "type": "news",
-    "title": "Economic Indicator Release Schedule: List View - US Census Bureau",
-    "slug": "economic-indicator-release-schedule-list-view-us-census-bureau",
-    "date": "2026-06-09",
-    "displayDate": "June 9, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The U.S. Census Bureau releases advance economic indicators monthly, with the next release on July 28, 2026, covering June 2026 data. The latest updates include",
-    "excerpt": "The U.S. Census Bureau releases advance economic indicators monthly, with the next release on July 28, 2026, covering June 2026 data. The latest updates include delayed 2025 indicators due to federal funding lapse. The official schedule is available on the Census Bureau's website.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Economic Indicator Release Schedule: List View - US Census Bureau"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "economic-sector-performance-dashboards",
     "type": "news",
     "title": "Economic Sector Performance Dashboards",
@@ -1785,27 +2058,6 @@
     "readingTime": 3
   },
   {
-    "id": "inflation-consumer-prices-annual-united-states",
-    "type": "news",
-    "title": "Inflation, consumer prices (annual %) - United States",
-    "slug": "inflation-consumer-prices-annual-united-states",
-    "date": "2026-06-09",
-    "displayDate": "June 9, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The annual inflation rate for consumer prices in the United States is 3.80% as of April 2026. This figure reflects changes in the cost of living based on the Co",
-    "excerpt": "The annual inflation rate for consumer prices in the United States is 3.80% as of April 2026. This figure reflects changes in the cost of living based on the Consumer Price Index. The data is sourced from Trading Economics.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Inflation, consumer prices (annual %) - United States"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "inflation-economic-data-series-fred-st-louis-fed",
     "type": "news",
     "title": "Inflation - Economic Data Series | FRED | St. Louis Fed",
@@ -1848,27 +2100,6 @@
     "readingTime": 3
   },
   {
-    "id": "live-updates-interest-rates-steady-federal-reserve-forecasts-1-rate",
-    "type": "news",
-    "title": "Live updates: Interest rates steady, Federal Reserve forecasts 1 rate ...",
-    "slug": "live-updates-interest-rates-steady-federal-reserve-forecasts-1-rate",
-    "date": "2026-06-09",
-    "displayDate": "June 9, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Reserve kept interest rates steady in the 3.5%-3.75% range and forecasts one rate cut in 2026. The decision was widely expected and reflects ongoing",
-    "excerpt": "The Federal Reserve kept interest rates steady in the 3.5%-3.75% range and forecasts one rate cut in 2026. The decision was widely expected and reflects ongoing inflation uncertainty. Powell's press conference confirmed the steady rates and slower balance sheet reduction.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Live updates: Interest rates steady, Federal Reserve forecasts 1 rate ..."
-    },
-    "readingTime": 3
-  },
-  {
     "id": "monetary-policy-federal-reserve-board",
     "type": "news",
     "title": "Monetary Policy - Federal Reserve Board",
@@ -1886,27 +2117,6 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "Monetary Policy - Federal Reserve Board"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "s-p-sectors-weekly-performance-macromicro",
-    "type": "news",
-    "title": "S&P Sectors Weekly Performance(%) - MacroMicro",
-    "slug": "s-p-sectors-weekly-performance-macromicro",
-    "date": "2026-06-09",
-    "displayDate": "June 9, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "As of 2026-06-08, Information Technology dropped 5.76%, Utilities fell 0.54%, Real Estate rose 1.11%, and Health Care increased 3.60% in weekly performance.",
-    "excerpt": "As of 2026-06-08, Information Technology dropped 5.76%, Utilities fell 0.54%, Real Estate rose 1.11%, and Health Care increased 3.60% in weekly performance.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "S&P Sectors Weekly Performance(%) - MacroMicro"
     },
     "readingTime": 3
   },
@@ -1970,48 +2180,6 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "Sector Views: Monthly Stock Sector Outlook - Charles Schwab"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "stock-market-outlook-today-tomorrow-seeking-alpha",
-    "type": "news",
-    "title": "Stock Market Outlook Today & Tomorrow - Seeking Alpha",
-    "slug": "stock-market-outlook-today-tomorrow-seeking-alpha",
-    "date": "2026-06-09",
-    "displayDate": "June 9, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Today and tomorrow, stock market forecasts suggest cautious optimism with analysts advising portfolio positioning based on current trends. Expect moderate volat",
-    "excerpt": "Today and tomorrow, stock market forecasts suggest cautious optimism with analysts advising portfolio positioning based on current trends. Expect moderate volatility with potential for short-term gains. Keep an eye on U.S. and global market dynamics.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Stock Market Outlook Today & Tomorrow - Seeking Alpha"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "technology-bloomberg-com",
-    "type": "news",
-    "title": "Technology - Bloomberg.com",
-    "slug": "technology-bloomberg-com",
-    "date": "2026-06-09",
-    "displayDate": "June 9, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Nvidia and SK Hynix have signed a multi-year agreement to develop next-generation AI chips. Naver plans to use Nvidia's AI models to strengthen its market posit",
-    "excerpt": "Nvidia and SK Hynix have signed a multi-year agreement to develop next-generation AI chips. Naver plans to use Nvidia's AI models to strengthen its market position in Korea. Bloomberg Tech covers discussions on tech innovations and market trends.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Technology - Bloomberg.com"
     },
     "readingTime": 3
   },
@@ -2138,27 +2306,6 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "U.S. Stock Market Headlines | Breaking Stock Market News - Reuters"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "u-s-stock-markets-today-fox-business",
-    "type": "news",
-    "title": "U.S. Stock Markets Today - Fox Business",
-    "slug": "u-s-stock-markets-today-fox-business",
-    "date": "2026-06-09",
-    "displayDate": "June 9, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "As of today, the Dow Jones averages 50,919.10, the NASDAQ Composite Index 26,072.39, and the S&P 500 7,437.68. The S&P 500 opened at $7,440.57.",
-    "excerpt": "As of today, the Dow Jones averages 50,919.10, the NASDAQ Composite Index 26,072.39, and the S&P 500 7,437.68. The S&P 500 opened at $7,440.57.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "U.S. Stock Markets Today - Fox Business"
     },
     "readingTime": 3
   },
@@ -2306,27 +2453,6 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "Earnings Calendar"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "european-asian-stocks-fall-amid-geopolitical-tensions-wsj",
-    "type": "news",
-    "title": "European, Asian Stocks Fall Amid Geopolitical Tensions - WSJ",
-    "slug": "european-asian-stocks-fall-amid-geopolitical-tensions-wsj",
-    "date": "2026-06-08",
-    "displayDate": "June 8, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "European and Asian stocks fell due to heightened geopolitical tensions, particularly amid the Israel-Iran conflict. US markets were closed for Juneteenth, and T",
-    "excerpt": "European and Asian stocks fell due to heightened geopolitical tensions, particularly amid the Israel-Iran conflict. US markets were closed for Juneteenth, and Trump had approved Iran attack plans but held off. Oil prices fluctuated, gold futures eased, and the U.S. dollar strengthened.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "European, Asian Stocks Fall Amid Geopolitical Tensions - WSJ"
     },
     "readingTime": 3
   },
@@ -2663,27 +2789,6 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "10 Best Investments For 2026 | Bankrate"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "consumer-price-index-1913-federal-reserve-bank-of-minneapolis",
-    "type": "news",
-    "title": "Consumer Price Index, 1913- | Federal Reserve Bank of Minneapolis",
-    "slug": "consumer-price-index-1913-federal-reserve-bank-of-minneapolis",
-    "date": "2026-06-07",
-    "displayDate": "June 7, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Consumer Price Index (CPI) from 1913 onward is maintained by the Federal Reserve Bank of Minneapolis, with official U.S. data starting in 1913. The CPI meas",
-    "excerpt": "The Consumer Price Index (CPI) from 1913 onward is maintained by the Federal Reserve Bank of Minneapolis, with official U.S. data starting in 1913. The CPI measures average price changes for a basket of goods and services. The CPI for 2024 is higher than in 1913 due to inflation.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Consumer Price Index, 1913- | Federal Reserve Bank of Minneapolis"
     },
     "readingTime": 3
   },
@@ -3209,27 +3314,6 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "Bitcoin price crash reveals a surprisingly positive future outcome"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "bitcoin-price-today-btc-to-usd-live-price-market-cap-chart",
-    "type": "news",
-    "title": "Bitcoin Price Today | BTC to USD Live Price, Market Cap & Chart",
-    "slug": "bitcoin-price-today-btc-to-usd-live-price-market-cap-chart",
-    "date": "2026-06-06",
-    "displayDate": "June 6, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Bitcoin price today is $60,958.99 per BTC to USD. The market cap is $1.2 trillion USD. The 24-hour trading volume is $63.5 billion USD.",
-    "excerpt": "The Bitcoin price today is $60,958.99 per BTC to USD. The market cap is $1.2 trillion USD. The 24-hour trading volume is $63.5 billion USD.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Bitcoin Price Today | BTC to USD Live Price, Market Cap & Chart"
     },
     "readingTime": 3
   },
