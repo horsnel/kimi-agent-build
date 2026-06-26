@@ -1,13 +1,13 @@
 {
   "currentValue": 50,
   "currentLabel": "Neutral",
-  "oneWeekAgo": 45,
-  "oneMonthAgo": 52,
-  "oneYearAgo": 31,
+  "oneWeekAgo": 53,
+  "oneMonthAgo": 50,
+  "oneYearAgo": 36,
   "components": [
     {
       "label": "Stock Price Momentum",
-      "value": 46
+      "value": 42
     },
     {
       "label": "Stock Price Strength",
@@ -15,23 +15,23 @@
     },
     {
       "label": "Market Volatility",
-      "value": 58
+      "value": 50
     },
     {
       "label": "Safe Haven Demand",
-      "value": 58
+      "value": 40
     },
     {
       "label": "Junk Bond Demand",
-      "value": 59
+      "value": 51
     },
     {
       "label": "Market Breadth",
-      "value": 41
+      "value": 48
     },
     {
       "label": "Put/Call Ratio",
-      "value": 51
+      "value": 48
     }
   ]
 }
