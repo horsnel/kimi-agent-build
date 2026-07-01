@@ -63,6 +63,27 @@
     "readingTime": 3
   },
   {
+    "id": "coindesk-bitcoin-ethereum-xrp-crypto-news-and-price-data",
+    "type": "news",
+    "title": "CoinDesk: Bitcoin, Ethereum, XRP, Crypto News and Price Data",
+    "slug": "coindesk-bitcoin-ethereum-xrp-crypto-news-and-price-data",
+    "date": "2026-07-01",
+    "displayDate": "July 1, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "CoinDesk is a leading source for cryptocurrency news, analysis, and price data for Bitcoin, Ethereum, and XRP. It provides live updates and in-depth reports on ",
+    "excerpt": "CoinDesk is a leading source for cryptocurrency news, analysis, and price data for Bitcoin, Ethereum, and XRP. It provides live updates and in-depth reports on blockchain technology and digital finance. The site also features insights on regulatory developments and market trends.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "CoinDesk: Bitcoin, Ethereum, XRP, Crypto News and Price Data"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "company-earnings-calendar-yahoo-finance",
     "type": "news",
     "title": "Company Earnings Calendar - Yahoo Finance",
@@ -105,6 +126,27 @@
     "readingTime": 3
   },
   {
+    "id": "crypto-news-bitcoin-ethereum-xrp-news-crypto-news",
+    "type": "news",
+    "title": "Crypto News: Bitcoin, Ethereum & XRP News | crypto.news",
+    "slug": "crypto-news-bitcoin-ethereum-xrp-news-crypto-news",
+    "date": "2026-07-01",
+    "displayDate": "July 1, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Jim Cramer remains bearish on Bitcoin; Mastercard partners with Ripple for AI payment systems; latest XRP news focuses on potential impacts from the CLARITY Act",
+    "excerpt": "Jim Cramer remains bearish on Bitcoin; Mastercard partners with Ripple for AI payment systems; latest XRP news focuses on potential impacts from the CLARITY Act.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Crypto News: Bitcoin, Ethereum & XRP News | crypto.news"
+    },
+    "readingTime": 5
+  },
+  {
     "id": "cryptocurrency-market-today-news-prices-ideas-tradingview",
     "type": "news",
     "title": "Cryptocurrency Market Today: News, Prices, Ideas - TradingView",
@@ -143,6 +185,27 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "Earnings Calendar and Analysis for This Week (June 29- ..."
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "earnings-calendar-nasdaq",
+    "type": "news",
+    "title": "Earnings Calendar - Nasdaq",
+    "slug": "earnings-calendar-nasdaq",
+    "date": "2026-07-01",
+    "displayDate": "July 1, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Nasdaq earnings calendar is available at https://www.nasdaq.com/market-activity/earnings. Investing.com also offers an earnings calendar at https://www.inve",
+    "excerpt": "The Nasdaq earnings calendar is available at https://www.nasdaq.com/market-activity/earnings. Investing.com also offers an earnings calendar at https://www.investing.com/earnings-calendar.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Earnings Calendar - Nasdaq"
     },
     "readingTime": 3
   },
@@ -210,6 +273,69 @@
     "readingTime": 3
   },
   {
+    "id": "fomc-press-conference-october-29-2025-youtube",
+    "type": "news",
+    "title": "FOMC Press Conference, October 29, 2025 - YouTube",
+    "slug": "fomc-press-conference-october-29-2025-youtube",
+    "date": "2026-07-01",
+    "displayDate": "July 1, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The FOMC press conference on October 29, 2025, featured Jerome Powell discussing the Federal Reserve's interest rate decision, with expectations of a potential ",
+    "excerpt": "The FOMC press conference on October 29, 2025, featured Jerome Powell discussing the Federal Reserve's interest rate decision, with expectations of a potential rate cut. The event was live-streamed on YouTube. The exact details of the decision remain undisclosed.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "FOMC Press Conference, October 29, 2025 - YouTube"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "gdp-cpi-and-other-key-economic-reports-bankrate",
+    "type": "news",
+    "title": "GDP, CPI and other key economic reports - Bankrate",
+    "slug": "gdp-cpi-and-other-key-economic-reports-bankrate",
+    "date": "2026-07-01",
+    "displayDate": "July 1, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The latest GDP, CPI, housing starts, and unemployment rates are available on Bankrate. CPI data is updated weekly, and unemployment rates are also provided week",
+    "excerpt": "The latest GDP, CPI, housing starts, and unemployment rates are available on Bankrate. CPI data is updated weekly, and unemployment rates are also provided weekly.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "GDP, CPI and other key economic reports - Bankrate"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "global-companies-reports-and-earnings-tradingview",
+    "type": "news",
+    "title": "Global Companies Reports and Earnings - TradingView",
+    "slug": "global-companies-reports-and-earnings-tradingview",
+    "date": "2026-07-01",
+    "displayDate": "July 1, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Global companies' earnings reports are tracked on TradingView's Earnings Calendar, with detailed financial data available for major firms like Tesla and Amazon.",
+    "excerpt": "Global companies' earnings reports are tracked on TradingView's Earnings Calendar, with detailed financial data available for major firms like Tesla and Amazon. TradingView's Economic Calendar includes key corporate events and economic data. Earnings reports compare estimated and actual values to as",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Global Companies Reports and Earnings - TradingView"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "global-market-headlines-breaking-stock-market-news-reuters",
     "type": "news",
     "title": "Global Market Headlines | Breaking Stock Market News | Reuters",
@@ -269,6 +395,111 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "Global Stock Market News and World Indices Coverage - CNBC"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "global-stock-market-news-and-world-indices-coverage",
+    "type": "news",
+    "title": "Global Stock Market News and World Indices Coverage",
+    "slug": "global-stock-market-news-and-world-indices-coverage",
+    "date": "2026-07-01",
+    "displayDate": "July 1, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "European stock markets closed higher, while the S&P 500 and Nikkei 225 also rose. The NASDAQ Composite increased, and the VIX volatility index rose. Gold prices",
+    "excerpt": "European stock markets closed higher, while the S&P 500 and Nikkei 225 also rose. The NASDAQ Composite increased, and the VIX volatility index rose. Gold prices declined.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Global Stock Market News and World Indices Coverage"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "global-stock-market-trading-global-market-indices",
+    "type": "news",
+    "title": "Global Stock Market Trading | Global Market Indices",
+    "slug": "global-stock-market-trading-global-market-indices",
+    "date": "2026-07-01",
+    "displayDate": "July 1, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "As of July 1, 2026, the S&P 500 is up 0.79%, the Nasdaq Composite is up 1.52%, and the Dow Jones is down 0.19%. The VIX is up 3.89%.",
+    "excerpt": "As of July 1, 2026, the S&P 500 is up 0.79%, the Nasdaq Composite is up 1.52%, and the Dow Jones is down 0.19%. The VIX is up 3.89%.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Global Stock Market Trading | Global Market Indices"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "health-care-sector-industry-performance-bloomberg-com",
+    "type": "news",
+    "title": "Health Care Sector & Industry Performance - Bloomberg.com",
+    "slug": "health-care-sector-industry-performance-bloomberg-com",
+    "date": "2026-07-01",
+    "displayDate": "July 1, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The healthcare sector includes pharmaceuticals, biotechnology, medical devices, and healthcare services. Key companies include AstraZeneca, Pfizer, and Walgreen",
+    "excerpt": "The healthcare sector includes pharmaceuticals, biotechnology, medical devices, and healthcare services. Key companies include AstraZeneca, Pfizer, and Walgreens. The sector's performance varies by sub-industry, with some showing positive YTD returns.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Health Care Sector & Industry Performance - Bloomberg.com"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "healthcare-sector-morningstar",
+    "type": "news",
+    "title": "Healthcare Sector | Morningstar",
+    "slug": "healthcare-sector-morningstar",
+    "date": "2026-07-01",
+    "displayDate": "July 1, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Healthcare sector stocks have outperformed the market in 2024, driven by strong performance in pharmaceutical and medical device companies. Eli Lilly and AbbVie",
+    "excerpt": "Healthcare sector stocks have outperformed the market in 2024, driven by strong performance in pharmaceutical and medical device companies. Eli Lilly and AbbVie are leading healthcare stocks. Morningstar emphasizes transparency and data integrity in its research.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Healthcare Sector | Morningstar"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "how-to-invest-in-today-s-market-financial-perspectives-u-s-bank",
+    "type": "news",
+    "title": "How to Invest in Today's Market - Financial Perspectives - U.S. Bank",
+    "slug": "how-to-invest-in-today-s-market-financial-perspectives-u-s-bank",
+    "date": "2026-07-01",
+    "displayDate": "July 1, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "To invest in today's market, start with a solid financial foundation, define your strategy, and diversify across various investment options like stocks and bond",
+    "excerpt": "To invest in today's market, start with a solid financial foundation, define your strategy, and diversify across various investment options like stocks and bonds.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "How to Invest in Today's Market - Financial Perspectives - U.S. Bank"
     },
     "readingTime": 3
   },
@@ -441,6 +672,48 @@
     "readingTime": 3
   },
   {
+    "id": "sector-views-monthly-stock-sector-outlook-charles-schwab",
+    "type": "news",
+    "title": "Sector Views: Monthly Stock Sector Outlook - Charles Schwab",
+    "slug": "sector-views-monthly-stock-sector-outlook-charles-schwab",
+    "date": "2026-07-01",
+    "displayDate": "July 1, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Charles Schwab's monthly stock sector outlook covers the 11 S&P 500 sectors, providing insights on their performance. The outlook helps investors understand sec",
+    "excerpt": "Charles Schwab's monthly stock sector outlook covers the 11 S&P 500 sectors, providing insights on their performance. The outlook helps investors understand sector trends and potential opportunities. Schwab's analysis includes key facts about stock sectors.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Sector Views: Monthly Stock Sector Outlook - Charles Schwab"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "stock-market-outlook-midyear-2026-fidelity-investments",
+    "type": "news",
+    "title": "Stock market outlook midyear 2026 - Fidelity Investments",
+    "slug": "stock-market-outlook-midyear-2026-fidelity-investments",
+    "date": "2026-07-01",
+    "displayDate": "July 1, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The stock market outlook for midyear 2026 remains strong, with the bull run continuing despite geopolitical conflicts. Artificial intelligence and corporate ear",
+    "excerpt": "The stock market outlook for midyear 2026 remains strong, with the bull run continuing despite geopolitical conflicts. Artificial intelligence and corporate earnings are driving growth, and the economy shows resilience. Inflation remains a key risk factor.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Stock market outlook midyear 2026 - Fidelity Investments"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "the-best-investment-strategies-for-the-continuous-market",
     "type": "news",
     "title": "The Best Investment Strategies For The Continuous Market",
@@ -462,6 +735,27 @@
     "readingTime": 3
   },
   {
+    "id": "the-block-bitcoin-ethereum-crypto-news-live-prices",
+    "type": "news",
+    "title": "The Block: Bitcoin, Ethereum & Crypto News | Live Prices ...",
+    "slug": "the-block-bitcoin-ethereum-crypto-news-live-prices",
+    "date": "2026-07-01",
+    "displayDate": "July 1, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Block reports SEC opens ETF rule review; CoinDesk highlights U.S. spot Bitcoin ETFs' poor performance in June; latest crypto news includes Visa joining Open",
+    "excerpt": "The Block reports SEC opens ETF rule review; CoinDesk highlights U.S. spot Bitcoin ETFs' poor performance in June; latest crypto news includes Visa joining Open USD stablecoin initiative.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "The Block: Bitcoin, Ethereum & Crypto News | Live Prices ..."
+    },
+    "readingTime": 3
+  },
+  {
     "id": "the-fed-meeting-calendars-and-information-federal-reserve",
     "type": "news",
     "title": "The Fed - Meeting calendars and information - Federal Reserve",
@@ -479,6 +773,27 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "The Fed - Meeting calendars and information - Federal Reserve"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "the-most-anticipated-earnings-releases-for-the-week-of-june",
+    "type": "news",
+    "title": "The Most Anticipated Earnings Releases for the week of June ...",
+    "slug": "the-most-anticipated-earnings-releases-for-the-week-of-june",
+    "date": "2026-07-01",
+    "displayDate": "July 1, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The most anticipated earnings releases for the week of June 15, 2026, include Kroger, Progressive, Accenture, and others. These companies' earnings have minimal",
+    "excerpt": "The most anticipated earnings releases for the week of June 15, 2026, include Kroger, Progressive, Accenture, and others. These companies' earnings have minimal market impact. The current date is July 1, 2026.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "The Most Anticipated Earnings Releases for the week of June ..."
     },
     "readingTime": 3
   },
@@ -521,6 +836,27 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "This Week's Best Performing Stocks, Sectors, Industries Rankings"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "u-s-stock-market-headlines-breaking-stock-market-news-reuters",
+    "type": "news",
+    "title": "U.S. Stock Market Headlines | Breaking Stock Market News - Reuters",
+    "slug": "u-s-stock-market-headlines-breaking-stock-market-news-reuters",
+    "date": "2026-07-01",
+    "displayDate": "July 1, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The U.S. stock market experienced significant gains in the last quarter, with the S&P 500 and Nasdaq reaching their highest levels since 2020. Tech stocks led t",
+    "excerpt": "The U.S. stock market experienced significant gains in the last quarter, with the S&P 500 and Nasdaq reaching their highest levels since 2020. Tech stocks led the surge, but concerns about valuation bubbles persist. As of July 2026, market trends remain strong but volatile.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "U.S. Stock Market Headlines | Breaking Stock Market News - Reuters"
     },
     "readingTime": 3
   },
@@ -584,6 +920,27 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "United States Indicators - Trading Economics"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "weekly-trader-s-stock-market-outlook-charles-schwab",
+    "type": "news",
+    "title": "Weekly Trader's Stock Market Outlook | Charles Schwab",
+    "slug": "weekly-trader-s-stock-market-outlook-charles-schwab",
+    "date": "2026-07-01",
+    "displayDate": "July 1, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The tech sector faced selling pressure this week, with the Nasdaq down 3% and the S&P 500 down 2%. The VIX OI Change is moderately bearish, while the SPX OI Cha",
+    "excerpt": "The tech sector faced selling pressure this week, with the Nasdaq down 3% and the S&P 500 down 2%. The VIX OI Change is moderately bearish, while the SPX OI Change is moderately bullish.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Weekly Trader's Stock Market Outlook | Charles Schwab"
     },
     "readingTime": 3
   },
@@ -1491,27 +1848,6 @@
     "readingTime": 3
   },
   {
-    "id": "stock-market-outlook-midyear-2026-fidelity-investments",
-    "type": "news",
-    "title": "Stock market outlook midyear 2026 - Fidelity Investments",
-    "slug": "stock-market-outlook-midyear-2026-fidelity-investments",
-    "date": "2026-06-10",
-    "displayDate": "June 10, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Midyear 2026, stock market shows growth despite high oil prices; diversification into commodities advised; watch inflation impact.",
-    "excerpt": "Midyear 2026, stock market shows growth despite high oil prices; diversification into commodities advised; watch inflation impact.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Stock market outlook midyear 2026 - Fidelity Investments"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "stock-market-outlook-today-tomorrow-seeking-alpha",
     "type": "news",
     "title": "Stock Market Outlook Today & Tomorrow - Seeking Alpha",
@@ -1886,48 +2222,6 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "Ahead of Wall Street - Daily Stock Market Outlook"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "coindesk-bitcoin-ethereum-xrp-crypto-news-and-price-data",
-    "type": "news",
-    "title": "CoinDesk: Bitcoin, Ethereum, XRP, Crypto News and Price Data",
-    "slug": "coindesk-bitcoin-ethereum-xrp-crypto-news-and-price-data",
-    "date": "2026-06-09",
-    "displayDate": "June 9, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "CoinDesk provides news and data on Bitcoin, Ethereum, and other cryptocurrencies. It focuses on market trends, price updates, and industry analysis. The site em",
-    "excerpt": "CoinDesk provides news and data on Bitcoin, Ethereum, and other cryptocurrencies. It focuses on market trends, price updates, and industry analysis. The site emphasizes liquidity and trading insights for crypto assets.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "CoinDesk: Bitcoin, Ethereum, XRP, Crypto News and Price Data"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "crypto-news-bitcoin-ethereum-xrp-news-crypto-news",
-    "type": "news",
-    "title": "Crypto News: Bitcoin, Ethereum & XRP News | crypto.news",
-    "slug": "crypto-news-bitcoin-ethereum-xrp-news-crypto-news",
-    "date": "2026-06-09",
-    "displayDate": "June 9, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Bitcoin and Ethereum prices fluctuated recently, while XRP saw mixed news. BlackRock Bitcoin ETF experienced a selloff, and Strive increased its Bitcoin holding",
-    "excerpt": "Bitcoin and Ethereum prices fluctuated recently, while XRP saw mixed news. BlackRock Bitcoin ETF experienced a selloff, and Strive increased its Bitcoin holdings.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Crypto News: Bitcoin, Ethereum & XRP News | crypto.news"
     },
     "readingTime": 3
   },
@@ -2352,48 +2646,6 @@
     "readingTime": 3
   },
   {
-    "id": "sector-views-monthly-stock-sector-outlook-charles-schwab",
-    "type": "news",
-    "title": "Sector Views: Monthly Stock Sector Outlook - Charles Schwab",
-    "slug": "sector-views-monthly-stock-sector-outlook-charles-schwab",
-    "date": "2026-06-09",
-    "displayDate": "June 9, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Charles Schwab's monthly stock sector outlook covers the 11 S&P 500 sectors. Utilities are currently less favored. The report provides insights on sector perfor",
-    "excerpt": "Charles Schwab's monthly stock sector outlook covers the 11 S&P 500 sectors. Utilities are currently less favored. The report provides insights on sector performance.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Sector Views: Monthly Stock Sector Outlook - Charles Schwab"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "the-block-bitcoin-ethereum-crypto-news-live-prices",
-    "type": "news",
-    "title": "The Block: Bitcoin, Ethereum & Crypto News | Live Prices ...",
-    "slug": "the-block-bitcoin-ethereum-crypto-news-live-prices",
-    "date": "2026-06-09",
-    "displayDate": "June 9, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Block provides news and data on Bitcoin, Ethereum, and other cryptocurrencies. It emphasizes privacy and data protection. The site offers real-time market i",
-    "excerpt": "The Block provides news and data on Bitcoin, Ethereum, and other cryptocurrencies. It emphasizes privacy and data protection. The site offers real-time market insights and expert analysis.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "The Block: Bitcoin, Ethereum & Crypto News | Live Prices ..."
-    },
-    "readingTime": 5
-  },
-  {
     "id": "the-fed-april-28-29-2026-fomc-meeting-federal-reserve",
     "type": "news",
     "title": "The Fed - April 28-29, 2026 FOMC Meeting - Federal Reserve",
@@ -2453,48 +2705,6 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "U.S. Economic Calendar"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "u-s-stock-market-headlines-breaking-stock-market-news-reuters",
-    "type": "news",
-    "title": "U.S. Stock Market Headlines | Breaking Stock Market News - Reuters",
-    "slug": "u-s-stock-market-headlines-breaking-stock-market-news-reuters",
-    "date": "2026-06-09",
-    "displayDate": "June 9, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "U.S. stock market closed mostly higher, with Nasdaq up 0.86% and Dow Jones slightly down 0.16%. Nasdaq led gains, driven by tech and chipmakers. Latest data as ",
-    "excerpt": "U.S. stock market closed mostly higher, with Nasdaq up 0.86% and Dow Jones slightly down 0.16%. Nasdaq led gains, driven by tech and chipmakers. Latest data as of June 9, 2026.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "U.S. Stock Market Headlines | Breaking Stock Market News - Reuters"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "weekly-trader-s-stock-market-outlook-charles-schwab",
-    "type": "news",
-    "title": "Weekly Trader's Stock Market Outlook | Charles Schwab",
-    "slug": "weekly-trader-s-stock-market-outlook-charles-schwab",
-    "date": "2026-06-09",
-    "displayDate": "June 9, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The stock market experienced a significant sell-off due to rising bond yields and potential rate hikes, alongside seasonal market trends and upcoming IPOs. The ",
-    "excerpt": "The stock market experienced a significant sell-off due to rising bond yields and potential rate hikes, alongside seasonal market trends and upcoming IPOs. The S&P 500 saw a large one-day drop, breaking below its 20-day SMA. The VIX OI Change indicates a bearish outlook.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Weekly Trader's Stock Market Outlook | Charles Schwab"
     },
     "readingTime": 3
   },
@@ -2642,69 +2852,6 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "European Market Headlines | Breaking Stock Market News | Reuters"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "gdp-cpi-and-other-key-economic-reports-bankrate",
-    "type": "news",
-    "title": "GDP, CPI and other key economic reports - Bankrate",
-    "slug": "gdp-cpi-and-other-key-economic-reports-bankrate",
-    "date": "2026-06-08",
-    "displayDate": "June 8, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The latest US GDP, CPI, housing starts, and unemployment rates are available on Bankrate.com. Weekly and historical GDP data is provided. Weekly and historical ",
-    "excerpt": "The latest US GDP, CPI, housing starts, and unemployment rates are available on Bankrate.com. Weekly and historical GDP data is provided. Weekly and historical CPI data is also available.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "GDP, CPI and other key economic reports - Bankrate"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "global-companies-reports-and-earnings-tradingview",
-    "type": "news",
-    "title": "Global Companies Reports and Earnings - TradingView",
-    "slug": "global-companies-reports-and-earnings-tradingview",
-    "date": "2026-06-08",
-    "displayDate": "June 8, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Global companies' earnings reports and schedules are available on TradingView, Trading Economics, and Nasdaq. Key metrics include EPS, revenue, and market capit",
-    "excerpt": "Global companies' earnings reports and schedules are available on TradingView, Trading Economics, and Nasdaq. Key metrics include EPS, revenue, and market capitalization. Use these resources for financial analysis.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Global Companies Reports and Earnings - TradingView"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "healthcare-sector-morningstar",
-    "type": "news",
-    "title": "Healthcare Sector | Morningstar",
-    "slug": "healthcare-sector-morningstar",
-    "date": "2026-06-08",
-    "displayDate": "June 8, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Healthcare sector stocks have outperformed the market in 2024, driven by strong performance and investor interest in GLP-1 drugs. Morningstar emphasizes transpa",
-    "excerpt": "Healthcare sector stocks have outperformed the market in 2024, driven by strong performance and investor interest in GLP-1 drugs. Morningstar emphasizes transparency and integrity in its research. The sector remains a strong investment option amid market uncertainty.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Healthcare Sector | Morningstar"
     },
     "readingTime": 3
   },
