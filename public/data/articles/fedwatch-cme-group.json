@@ -1,0 +1,52 @@
+{
+  "id": "fedwatch-cme-group",
+  "type": "news",
+  "title": "FedWatch - CME Group",
+  "slug": "fedwatch-cme-group",
+  "date": "2026-07-01",
+  "displayDate": "July 1, 2026",
+  "author": "Sigma Capital",
+  "category": "Fed Policy",
+  "tags": [
+    "fed policy",
+    "financial news",
+    "market update"
+  ],
+  "metaDescription": "FedWatch is a tool by CME Group that estimates the likelihood of Federal Reserve interest rate changes based on futures prices. It uses 30-Day Federal Funds fut",
+  "excerpt": "FedWatch is a tool by CME Group that estimates the likelihood of Federal Reserve interest rate changes based on futures prices. It uses 30-Day Federal Funds futures to predict FOMC decisions. The tool provides both current and historical data for analysis.",
+  "content": {
+    "introduction": "FedWatch is a tool by CME Group that estimates the likelihood of Federal Reserve interest rate changes based on futures prices. It uses 30-Day Federal Funds futures to predict FOMC decisions. The tool provides both current and historical data for analysis.",
+    "body": [
+      "*   [Markets](https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html#). *   [Data](https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html#). *   [Solutions](https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html#). *   [Insights](https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html#). *   [Education](https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html#). [Interest Rates](https://www.cmegroup.com/markets/interest-rates.html). [Talk to an expert](https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html#connect). [Methodology](https://www.cmegroup.com/articles/2023/understanding-the-cme-group-fedwatch-tool-methodology.html). [User Guide](https://www.cmegroup.com/tools-information/quikstrike/cme-fedwatch-tool-user-guide.html). [FedWatch API](https://www.cmegroup.com/market-data/market-data-api.html). [U.S. Treasuries Access the most liquid markets for trading U.S. Treasury Notes and Bonds.](https://www.cmegroup.com/markets/interest-rates/us-treasury.html). [30-Year UMBS TBA futures Gain exposure to the TBA market with the efficiency and safety of a standardized futures contract.](https://www.cmegroup.com/markets/interest-rates/tba.html). [Log in](https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html#). [View all](https://www.cmegroup.com/education/browse-all.html#filters=interest-rates,article,product-information). Get pro perspectives from Jim Iuorio, Managing Director, TJM Institutional Services, on trading current market events with [Micro Treasury Yield futures](https://www.cmegroup.com/trading/interest-rates/yield-futures.html). [Launch lesson](https://www.cmegroup.com/content/cmegroup/en/education/courses/understanding-stir-futures/introduction-to-fed-fund-futures.html). [Launch lesson](https://www.cmegroup.com/content/cmegroup/en/education/courses/understanding-stir-futures/understanding-the-fomc-report.html). [Explore more courses](https://www.cmegroup.com/education/courses.html#filters=interest-rates). *   [About Us](https://www.cmegroup.com/company/about-us.html). *   [Contact Us](https://www.cmegroup.com/tools-information/contacts-list.html). *   [Overview](https://www.cmegroup.com/market-regulation.html). *   [Rulebooks](https://www.cmegroup.com/market-regulation/rulebook.html). *   [Regulatory Outreach](https://www.cmegroup.com/market-regulation/outreach.html). *   [CME](https://www.cmegroup.com/company/cme.html). *   [CBOT](https://www.cmegroup.com/company/cbot.html). *   [NYMEX](https://www.cmegroup.com/company/nymex.html). *   [COMEX](https://www.cmegroup.com/company/comex.html). Further information on each exchange's rules and product listings can be found by clicking on the links to [CME](https://www.cmegroup.com/company/cme.html), [CBOT](https://www.cmegroup.com/company/cbot.html), [NYMEX](https://www.cmegroup.com/company/nymex.html) and [COMEX](https://www.cmegroup.com/company/comex.html). [Disclaimer](https://www.cmegroup.com/disclaimer.html) |[Privacy Notice](https://www.cmegroup.com/privacy-policy.html) |[Cookie Notice](https://www.cmegroup.com/cookie-policy.html) |[Terms of Use](https://www.cmegroup.com/files/terms-of-use.pdf) |[Data Terms of Use](https://www.cmegroup.com/trading/market-data-explanation-disclaimer.html) |[Modern Slavery Act Transparency Statement](https://www.cmegroup.com/investor-relations/files/statement-on-modern-slavery.pdf) |[Report a Security Concern](https://www.cmegroup.com/report-a-security-concern.html \"Report a Security Concern\"). [CME Group Privacy Center](https://www.cmegroup.com/privacy-policy.html).",
+      "##### Markets Home. ##### Market Data Home. Market Data on Google Analytics Hub. Discover a cost-efficient way to access, query, and share CME Group market data. THE SOURCE FOR HISTORICAL DATA. Explore historical market data straight from the source to help refine your trading strategies. Using 30-Day Fed Fund futures pricing data, which have long been relied upon to express the market’s views on the likelihood of changes in U.S. monetary policy, the tool visualizes both current and historical probabilities of various FOMC rate change outcomes for a given meeting date. 1b: After selecting a meeting date at the top of the CME FedWatch Tool, the tool will display data on the likelihood of various target rate outcomes for that date in the “Current” tab. The box labeled “Historical” on the left side of the tool shows the historical probability of various target rate outcomes for the selected meeting date, with data going back a full year.",
+      "*   [![Image 1: YouTube](https://www.cmegroup.com/images/common/icons/youtube.svg)](https://www.youtube.com/user/cmegroup). *   [![Image 2: Twitter](https://www.cmegroup.com/images/common/icons/twitter.svg)](http://twitter.com/CMEGroup). *   [![Image 3: Facebook](https://www.cmegroup.com/images/common/icons/facebook.svg)](http://www.facebook.com/CMEGroup). *   [![Image 4: LinkedIn](https://www.cmegroup.com/images/common/icons/linkedin.svg)](http://www.linkedin.com/company/cme-group). *   [![Image 5: Instagram](https://www.cmegroup.com/images/common/icons/instagram.svg)](http://instagram.com/cmegroup). *   [![Image 6: Rss](https://www.cmegroup.com/images/common/icons/rss.svg)](http://www.cmegroup.com/rss/)."
+    ],
+    "keyTakeaways": [
+      "FedWatch is a tool by CME Group that estimates the likelihood of Federal Reserve interest rate changes based on futures ",
+      "*   [Markets](https://www.cmegroup",
+      "##### Markets Home. ##### Market Data Home"
+    ],
+    "source": "cmegroup.com",
+    "sourceUrl": "https://www.cmegroup.com/markets/interest-rates/cme-fedwatch-tool.html"
+  },
+  "readingTime": 3,
+  "updatedAt": "2026-07-01T19:59:20.565Z",
+  "images": {
+    "thumbnail": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "FedWatch - CME Group"
+    },
+    "hero": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "FedWatch - CME Group"
+    },
+    "mid": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "FedWatch - CME Group"
+    }
+  },
+  "image": {
+    "src": "/images/article_thumb_6.jpg",
+    "alt": "FedWatch - CME Group"
+  }
+}

@@ -1,5 +1,47 @@
 [
   {
+    "id": "10-best-investments-where-to-invest-in-2026-nerdwallet",
+    "type": "news",
+    "title": "10 Best Investments: Where to Invest in 2026 - NerdWallet",
+    "slug": "10-best-investments-where-to-invest-in-2026-nerdwallet",
+    "date": "2026-07-01",
+    "displayDate": "July 1, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "For 2026, consider high-yield savings accounts, certificates of deposit, and index funds for balanced risk and growth. Mutual funds and government bonds also of",
+    "excerpt": "For 2026, consider high-yield savings accounts, certificates of deposit, and index funds for balanced risk and growth. Mutual funds and government bonds also offer stability and potential returns. Always assess your risk tolerance.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "10 Best Investments: Where to Invest in 2026 - NerdWallet"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "11-top-investments-in-2026-fidelity",
+    "type": "news",
+    "title": "11 top investments in 2026 | Fidelity",
+    "slug": "11-top-investments-in-2026-fidelity",
+    "date": "2026-07-01",
+    "displayDate": "July 1, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "In 2026, consider stocks, bonds, and sectors like health care for potential growth. Fidelity suggests diversifying with conservative investments amid market vol",
+    "excerpt": "In 2026, consider stocks, bonds, and sectors like health care for potential growth. Fidelity suggests diversifying with conservative investments amid market volatility. Focus on sectors with strong fundamentals.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "11 top investments in 2026 | Fidelity"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "5-strategies-to-navigate-market-volatility-morgan-stanley",
     "type": "news",
     "title": "5 Strategies to Navigate Market Volatility - Morgan Stanley",
@@ -42,6 +84,27 @@
     "readingTime": 3
   },
   {
+    "id": "asia-stock-markets",
+    "type": "news",
+    "title": "Asia Stock Markets",
+    "slug": "asia-stock-markets",
+    "date": "2026-07-01",
+    "displayDate": "July 1, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Asia stock markets showed mixed performance, with some indices rising while others fell. Key indices like Nikkei 225 and KOSPI 100 saw gains, while others like ",
+    "excerpt": "Asia stock markets showed mixed performance, with some indices rising while others fell. Key indices like Nikkei 225 and KOSPI 100 saw gains, while others like S&P/ASX 200 were relatively flat. For detailed figures, refer to financial news sources.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Asia Stock Markets"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "asian-market-headlines-breaking-stock-market-news-reuters",
     "type": "news",
     "title": "Asian Market Headlines | Breaking Stock Market News - Reuters",
@@ -59,6 +122,48 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "Asian Market Headlines | Breaking Stock Market News - Reuters"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "asian-market-headlines-breaking-stock-market-news",
+    "type": "news",
+    "title": "Asian Market Headlines | Breaking Stock Market News",
+    "slug": "asian-market-headlines-breaking-stock-market-news",
+    "date": "2026-07-01",
+    "displayDate": "July 1, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Asian markets saw broad gains, with stocks rising as investors anticipated potential U.S.-Iran talks. Market data and headlines indicate positive trends. The la",
+    "excerpt": "Asian markets saw broad gains, with stocks rising as investors anticipated potential U.S.-Iran talks. Market data and headlines indicate positive trends. The latest news highlights economic and financial updates from the region.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Asian Market Headlines | Breaking Stock Market News"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "asian-pacific-stocks",
+    "type": "news",
+    "title": "Asian Pacific Stocks",
+    "slug": "asian-pacific-stocks",
+    "date": "2026-07-01",
+    "displayDate": "July 1, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Asian Pacific stock markets include the KOSPI, Taiwan TAIEX, and S&P/ASX 200 indices, with recent gains in technology and consumer sectors. Nikkei 225 also show",
+    "excerpt": "Asian Pacific stock markets include the KOSPI, Taiwan TAIEX, and S&P/ASX 200 indices, with recent gains in technology and consumer sectors. Nikkei 225 also showed positive growth. For detailed data, visit Bloomberg or Reuters.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Asian Pacific Stocks"
     },
     "readingTime": 3
   },
@@ -101,6 +206,48 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "Bitcoin (BTC) Price Today | Live Chart - Bybit"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "bitcoin-btc-price-usd-today-news-charts-market-cap-coinbase",
+    "type": "news",
+    "title": "Bitcoin (BTC) Price USD Today, News, Charts, Market Cap | Coinbase",
+    "slug": "bitcoin-btc-price-usd-today-news-charts-market-cap-coinbase",
+    "date": "2026-07-01",
+    "displayDate": "July 1, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin (BTC) price is $59,737.31 today, with a 24-hour trading volume of $35.2 billion. The market cap is substantial, reflecting strong investor interest. Thi",
+    "excerpt": "Bitcoin (BTC) price is $59,737.31 today, with a 24-hour trading volume of $35.2 billion. The market cap is substantial, reflecting strong investor interest. This data is current as of July 1, 2026.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Bitcoin (BTC) Price USD Today, News, Charts, Market Cap | Coinbase"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "bitcoin-btcusdt-technical-analysis-complete-report-investtech",
+    "type": "news",
+    "title": "Bitcoin (BTCUSDT) - Technical Analysis - Complete report - Investtech",
+    "slug": "bitcoin-btcusdt-technical-analysis-complete-report-investtech",
+    "date": "2026-07-01",
+    "displayDate": "July 1, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin (BTCUSDT) technical analysis shows negative short-term and medium-term trends. Investtech's overall analysis and complete report recommend a negative ou",
+    "excerpt": "Bitcoin (BTCUSDT) technical analysis shows negative short-term and medium-term trends. Investtech's overall analysis and complete report recommend a negative outlook for the next one to six months. Current date is July 1, 2026.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Bitcoin (BTCUSDT) - Technical Analysis - Complete report - Investtech"
     },
     "readingTime": 3
   },
@@ -164,6 +311,27 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "Bitcoin Price Today | Live BTC Price, Chart & Market Data - Binance"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "btc-usd-bitcoin-price-and-chart-tradingview",
+    "type": "news",
+    "title": "BTC USD — Bitcoin Price and Chart - TradingView",
+    "slug": "btc-usd-bitcoin-price-and-chart-tradingview",
+    "date": "2026-07-01",
+    "displayDate": "July 1, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin's price is currently in a bearish trend, having fallen over 50% from its peak. As of July 1, 2026, Bitcoin is trading below $60,000. Technical analysis ",
+    "excerpt": "Bitcoin's price is currently in a bearish trend, having fallen over 50% from its peak. As of July 1, 2026, Bitcoin is trading below $60,000. Technical analysis suggests a strong sell signal.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "BTC USD — Bitcoin Price and Chart - TradingView"
     },
     "readingTime": 3
   },
@@ -357,6 +525,27 @@
     "readingTime": 3
   },
   {
+    "id": "earnings-calendar",
+    "type": "news",
+    "title": "Earnings Calendar",
+    "slug": "earnings-calendar",
+    "date": "2026-07-01",
+    "displayDate": "July 1, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Earnings Calendar tracks upcoming and past earnings reports for publicly traded companies, showing expected and actual earnings per share. It helps investor",
+    "excerpt": "The Earnings Calendar tracks upcoming and past earnings reports for publicly traded companies, showing expected and actual earnings per share. It helps investors monitor financial performance and forecast surprises. As of today, it lists companies' earnings dates and results.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Earnings Calendar"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "earnings-cnbc",
     "type": "news",
     "title": "Earnings - CNBC",
@@ -374,6 +563,27 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "Earnings - CNBC"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "earnings-hub-earnings-this-week-earnings-calendar",
+    "type": "news",
+    "title": "Earnings Hub: Earnings This Week, Earnings Calendar",
+    "slug": "earnings-hub-earnings-this-week-earnings-calendar",
+    "date": "2026-07-01",
+    "displayDate": "July 1, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Earnings Hub offers a comprehensive earnings calendar and related tools for tracking company earnings and calls. The app is praised for its reliability and ease",
+    "excerpt": "Earnings Hub offers a comprehensive earnings calendar and related tools for tracking company earnings and calls. The app is praised for its reliability and ease of use. It helps investors stay informed about stock earnings and related news.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Earnings Hub: Earnings This Week, Earnings Calendar"
     },
     "readingTime": 3
   },
@@ -462,6 +672,27 @@
     "readingTime": 3
   },
   {
+    "id": "economic-sector-performance-dashboards-yahoo-finance",
+    "type": "news",
+    "title": "Economic Sector Performance Dashboards - Yahoo Finance",
+    "slug": "economic-sector-performance-dashboards-yahoo-finance",
+    "date": "2026-07-01",
+    "displayDate": "July 1, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Yahoo Finance's economic sector performance dashboards highlight recent trends in tech and industrial sectors, with notable news on Micron's earnings and AI mar",
+    "excerpt": "Yahoo Finance's economic sector performance dashboards highlight recent trends in tech and industrial sectors, with notable news on Micron's earnings and AI market shifts. The Industrials Services sector includes major companies like GE and RTX. Current data reflects significant market movements and",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Economic Sector Performance Dashboards - Yahoo Finance"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "fed-holds-rates-steady-as-new-chair-kevin-warsh-commits-to-price",
     "type": "news",
     "title": "Fed holds rates steady as new Chair Kevin Warsh commits to price ...",
@@ -521,6 +752,27 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "Federal Open Market Committee - Wikipedia"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "fedwatch-cme-group",
+    "type": "news",
+    "title": "FedWatch - CME Group",
+    "slug": "fedwatch-cme-group",
+    "date": "2026-07-01",
+    "displayDate": "July 1, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "FedWatch is a tool by CME Group that estimates the likelihood of Federal Reserve interest rate changes based on futures prices. It uses 30-Day Federal Funds fut",
+    "excerpt": "FedWatch is a tool by CME Group that estimates the likelihood of Federal Reserve interest rate changes based on futures prices. It uses 30-Day Federal Funds futures to predict FOMC decisions. The tool provides both current and historical data for analysis.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "FedWatch - CME Group"
     },
     "readingTime": 3
   },
@@ -945,6 +1197,27 @@
     "readingTime": 3
   },
   {
+    "id": "outlook-at-risk-real-gdp-growth-unemployment-and-inflation",
+    "type": "news",
+    "title": "Outlook-at-Risk: Real GDP Growth, Unemployment, and Inflation",
+    "slug": "outlook-at-risk-real-gdp-growth-unemployment-and-inflation",
+    "date": "2026-07-01",
+    "displayDate": "July 1, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Outlook-at-Risk assesses risks to real GDP growth, unemployment, and inflation. The Federal Reserve Bank of New York's tool uses quantitative methods. The Phila",
+    "excerpt": "Outlook-at-Risk assesses risks to real GDP growth, unemployment, and inflation. The Federal Reserve Bank of New York's tool uses quantitative methods. The Philadelphia Fed's 2026 survey forecasts GDP growth, unemployment, and inflation rates.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Outlook-at-Risk: Real GDP Growth, Unemployment, and Inflation"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "pdf-most-recent-data-releases-report-as-of-december-15th-2023",
     "type": "news",
     "title": "[PDF] Most Recent Data Releases Report as of December 15th, 2023",
@@ -962,6 +1235,48 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "[PDF] Most Recent Data Releases Report as of December 15th, 2023"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "s-p-500-gspc-charts-data-news-yahoo-finance",
+    "type": "news",
+    "title": "S&P 500 (^GSPC) Charts, Data & News - Yahoo Finance",
+    "slug": "s-p-500-gspc-charts-data-news-yahoo-finance",
+    "date": "2026-07-01",
+    "displayDate": "July 1, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The S&P 500 (^GSPC) closed at 7,499.36 with a volume of 2,573,425,000 shares. Its 52-week range is 6,188.29 to 7,620.90. The index's average daily volume is 5,5",
+    "excerpt": "The S&P 500 (^GSPC) closed at 7,499.36 with a volume of 2,573,425,000 shares. Its 52-week range is 6,188.29 to 7,620.90. The index's average daily volume is 5,550,627,049.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "S&P 500 (^GSPC) Charts, Data & News - Yahoo Finance"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "s-p-500-index-overview-spx-marketwatch",
+    "type": "news",
+    "title": "S&P 500 Index Overview - SPX - MarketWatch",
+    "slug": "s-p-500-index-overview-spx-marketwatch",
+    "date": "2026-07-01",
+    "displayDate": "July 1, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The S&P 500 is a stock market index tracking 500 large U.S. companies. It reflects the market value of these companies. As of July 2026, it includes sectors lik",
+    "excerpt": "The S&P 500 is a stock market index tracking 500 large U.S. companies. It reflects the market value of these companies. As of July 2026, it includes sectors like technology, healthcare, and finance.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "S&P 500 Index Overview - SPX - MarketWatch"
     },
     "readingTime": 3
   },
@@ -1088,6 +1403,27 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "Sector & Industry Performance"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "sector-research-news-and-performance-sector-industries",
+    "type": "news",
+    "title": "Sector Research, News and Performance | Sector Industries",
+    "slug": "sector-research-news-and-performance-sector-industries",
+    "date": "2026-07-01",
+    "displayDate": "July 1, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Sector research, news, and performance data are available from Fidelity, State Street Global Advisors, and Yahoo Finance. Fidelity offers sector performance dur",
+    "excerpt": "Sector research, news, and performance data are available from Fidelity, State Street Global Advisors, and Yahoo Finance. Fidelity offers sector performance during business cycles. State Street provides sector ETF performance summaries. Yahoo Finance features sector performance dashboards and recent",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Sector Research, News and Performance | Sector Industries"
     },
     "readingTime": 3
   },
@@ -1281,6 +1617,48 @@
     "readingTime": 3
   },
   {
+    "id": "u-s-bureau-of-economic-analysis-bea",
+    "type": "news",
+    "title": "U.S. Bureau of Economic Analysis (BEA)",
+    "slug": "u-s-bureau-of-economic-analysis-bea",
+    "date": "2026-07-01",
+    "displayDate": "July 1, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Bureau of Economic Analysis provides official macroeconomic statistics, including GDP, personal income, and corporate profits. It is part of the U.S. Depart",
+    "excerpt": "The Bureau of Economic Analysis provides official macroeconomic statistics, including GDP, personal income, and corporate profits. It is part of the U.S. Department of Commerce. Its data is used to understand economic trends and growth.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "U.S. Bureau of Economic Analysis (BEA)"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "u-s-census-bureau-economic-indicators",
+    "type": "news",
+    "title": "U.S. Census Bureau Economic Indicators",
+    "slug": "u-s-census-bureau-economic-indicators",
+    "date": "2026-07-01",
+    "displayDate": "July 1, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The U.S. Census Bureau provides economic indicators, including advance statistics on international trade, retail, and wholesale inventories. The Economic Census",
+    "excerpt": "The U.S. Census Bureau provides economic indicators, including advance statistics on international trade, retail, and wholesale inventories. The Economic Census offers comprehensive business statistics every five years. Monthly retail inventory estimates will be revised in August 2026.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "U.S. Census Bureau Economic Indicators"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "u-s-stock-market-headlines-breaking-stock-market-news-reuters",
     "type": "news",
     "title": "U.S. Stock Market Headlines | Breaking Stock Market News - Reuters",
@@ -1344,6 +1722,27 @@
     "readingTime": 3
   },
   {
+    "id": "united-states-federal-reserve-interest-rate-decision-investing-com",
+    "type": "news",
+    "title": "United States Federal Reserve Interest Rate Decision - Investing.com",
+    "slug": "united-states-federal-reserve-interest-rate-decision-investing-com",
+    "date": "2026-07-01",
+    "displayDate": "July 1, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The United States Federal Reserve's interest rate is currently 3.75%. The rate is expected to remain steady until at least June 2026. The Fed had previously pro",
+    "excerpt": "The United States Federal Reserve's interest rate is currently 3.75%. The rate is expected to remain steady until at least June 2026. The Fed had previously projected rate cuts in 2026 and 2027.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "United States Federal Reserve Interest Rate Decision - Investing.com"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "united-states-indicators-trading-economics",
     "type": "news",
     "title": "United States Indicators - Trading Economics",
@@ -1361,6 +1760,27 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "United States Indicators - Trading Economics"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "united-states-inflation-rate-trading-economics",
+    "type": "news",
+    "title": "United States Inflation Rate - Trading Economics",
+    "slug": "united-states-inflation-rate-trading-economics",
+    "date": "2026-07-01",
+    "displayDate": "July 1, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The U.S. inflation rate for May 2026 was 4.20% YoY and 0.50% MoM. Core inflation rate was 2.90% YoY. The CPI for May 2026 was 335.12 points.",
+    "excerpt": "The U.S. inflation rate for May 2026 was 4.20% YoY and 0.50% MoM. Core inflation rate was 2.90% YoY. The CPI for May 2026 was 335.12 points.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "United States Inflation Rate - Trading Economics"
     },
     "readingTime": 3
   },
@@ -1487,27 +1907,6 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "Bitcoin (BTC) Price Today: BTC Live Price, Charts, News - Crypto.com"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "bitcoin-btc-price-usd-today-news-charts-market-cap-coinbase",
-    "type": "news",
-    "title": "Bitcoin (BTC) Price USD Today, News, Charts, Market Cap | Coinbase",
-    "slug": "bitcoin-btc-price-usd-today-news-charts-market-cap-coinbase",
-    "date": "2026-06-10",
-    "displayDate": "June 10, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Bitcoin's price today is $61,438.82. It has a market cap of $1.2 trillion. The 24-hour trading volume is $38.7 billion.",
-    "excerpt": "Bitcoin's price today is $61,438.82. It has a market cap of $1.2 trillion. The 24-hour trading volume is $38.7 billion.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Bitcoin (BTC) Price USD Today, News, Charts, Market Cap | Coinbase"
     },
     "readingTime": 3
   },
@@ -1697,27 +2096,6 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "Economic Indicators Calendar | New York Fed"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "economic-sector-performance-dashboards-yahoo-finance",
-    "type": "news",
-    "title": "Economic Sector Performance Dashboards - Yahoo Finance",
-    "slug": "economic-sector-performance-dashboards-yahoo-finance",
-    "date": "2026-06-10",
-    "displayDate": "June 10, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Energy and Information Technology sectors lead in year-to-date performance, followed closely by others like Healthcare and Financial Services. Yahoo Finance pro",
-    "excerpt": "Energy and Information Technology sectors lead in year-to-date performance, followed closely by others like Healthcare and Financial Services. Yahoo Finance provides sector performance dashboards for detailed insights. Current data reflects May 2026 trends.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Economic Sector Performance Dashboards - Yahoo Finance"
     },
     "readingTime": 3
   },
@@ -2310,27 +2688,6 @@
     "readingTime": 3
   },
   {
-    "id": "u-s-bureau-of-economic-analysis-bea",
-    "type": "news",
-    "title": "U.S. Bureau of Economic Analysis (BEA)",
-    "slug": "u-s-bureau-of-economic-analysis-bea",
-    "date": "2026-06-10",
-    "displayDate": "June 10, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The U.S. Bureau of Economic Analysis provides official macroeconomic data, including GDP, personal income, and industry statistics. It is part of the Department",
-    "excerpt": "The U.S. Bureau of Economic Analysis provides official macroeconomic data, including GDP, personal income, and industry statistics. It is part of the Department of Commerce. It aims for integrity and objectivity in its reports.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "U.S. Bureau of Economic Analysis (BEA)"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "u-s-stock-markets-today-fox-business",
     "type": "news",
     "title": "U.S. Stock Markets Today - Fox Business",
@@ -2369,27 +2726,6 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "United States Consumer Price Index (CPI) - Trading Economics"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "united-states-federal-reserve-interest-rate-decision-investing-com",
-    "type": "news",
-    "title": "United States Federal Reserve Interest Rate Decision - Investing.com",
-    "slug": "united-states-federal-reserve-interest-rate-decision-investing-com",
-    "date": "2026-06-10",
-    "displayDate": "June 10, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Reserve Interest Rate Decision by the FOMC influences currency valuation; higher rates are bullish for the USD, while lower rates are bearish. The d",
-    "excerpt": "The Federal Reserve Interest Rate Decision by the FOMC influences currency valuation; higher rates are bullish for the USD, while lower rates are bearish. The decision impacts borrowing costs and economic growth. The most recent decision was in July 2027.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "United States Federal Reserve Interest Rate Decision - Investing.com"
     },
     "readingTime": 3
   },
@@ -2600,27 +2936,6 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "Earnings Calendar - Investing.com"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "earnings-hub-earnings-this-week-earnings-calendar",
-    "type": "news",
-    "title": "Earnings Hub: Earnings This Week, Earnings Calendar",
-    "slug": "earnings-hub-earnings-this-week-earnings-calendar",
-    "date": "2026-06-09",
-    "displayDate": "June 9, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Earnings Hub offers a comprehensive earnings calendar, live and past earnings call access, and real-time alerts for quarterly earnings. The platform also featur",
-    "excerpt": "Earnings Hub offers a comprehensive earnings calendar, live and past earnings call access, and real-time alerts for quarterly earnings. The platform also features AI summaries and stock quotes. Current earnings data includes upcoming reports for companies like IOT, PL, and RBRK.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Earnings Hub: Earnings This Week, Earnings Calendar"
     },
     "readingTime": 3
   },
@@ -3003,27 +3318,6 @@
     "readingTime": 3
   },
   {
-    "id": "10-best-investments-where-to-invest-in-2026-nerdwallet",
-    "type": "news",
-    "title": "10 Best Investments: Where to Invest in 2026 - NerdWallet",
-    "slug": "10-best-investments-where-to-invest-in-2026-nerdwallet",
-    "date": "2026-06-08",
-    "displayDate": "June 8, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "For 2026, consider high-yield savings accounts, corporate bonds, and S&P 500 index funds for balanced risk and growth.",
-    "excerpt": "For 2026, consider high-yield savings accounts, corporate bonds, and S&P 500 index funds for balanced risk and growth.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "10 Best Investments: Where to Invest in 2026 - NerdWallet"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "big-tech-just-delivered-the-most-consequential-earnings-week-of-2026",
     "type": "news",
     "title": "Big Tech just delivered the most consequential earnings week of 2026",
@@ -3062,27 +3356,6 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "Earnings Calendar 2026 | Daily Earnings Reports"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "earnings-calendar",
-    "type": "news",
-    "title": "Earnings Calendar",
-    "slug": "earnings-calendar",
-    "date": "2026-06-08",
-    "displayDate": "June 8, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Earnings calendars track company financial reports, showing key metrics like time, EPS, and market cap. They help investors analyze company performance. Popular",
-    "excerpt": "Earnings calendars track company financial reports, showing key metrics like time, EPS, and market cap. They help investors analyze company performance. Popular sources include TradingView and Investing.com.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Earnings Calendar"
     },
     "readingTime": 3
   },
