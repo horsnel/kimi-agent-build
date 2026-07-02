@@ -3,8 +3,8 @@
   "type": "news",
   "title": "Global Market Headlines | Breaking Stock Market News | Reuters",
   "slug": "global-market-headlines-breaking-stock-market-news-reuters",
-  "date": "2026-07-01",
-  "displayDate": "July 1, 2026",
+  "date": "2026-07-02",
+  "displayDate": "July 2, 2026",
   "author": "Sigma Capital",
   "category": "Global Markets",
   "tags": [
@@ -12,41 +12,41 @@
     "financial news",
     "market update"
   ],
-  "metaDescription": "Global market headlines show funds revisiting Indian stocks, while a tech selloff raises bubble fears in the US stock market. Reuters reports latest finance new",
-  "excerpt": "Global market headlines show funds revisiting Indian stocks, while a tech selloff raises bubble fears in the US stock market. Reuters reports latest finance news from around the world.",
+  "metaDescription": "US job growth likely cooled in June after recent gains; Wall Street futures are stable as investors await payrolls data. Latest finance and global market headli",
+  "excerpt": "US job growth likely cooled in June after recent gains; Wall Street futures are stable as investors await payrolls data. Latest finance and global market headlines are available on Reuters.com.",
   "content": {
-    "introduction": "Global market headlines show funds revisiting Indian stocks, while a tech selloff raises bubble fears in the US stock market. Reuters reports latest finance news from around the world.",
+    "introduction": "US job growth likely cooled in June after recent gains; Wall Street futures are stable as investors await payrolls data. Latest finance and global market headlines are available on Reuters.com.",
     "body": [
       "Find the latest stock market news from every corner of the globe at Reuters.com, your online source for breaking international market and finance news.",
-      "Global funds revisit Indian stocks as oil, rupee risks recede. 6 hours ago. Tech selloff stirs bubble fears in US stock market · Econ World. 1 hour ago. Bayer",
-      "Find latest finance news from every corner of the globe at Reuters.com, your online source for breaking international news coverage."
+      "Find latest finance news from every corner of the globe at Reuters.com, your online source for breaking international news coverage.",
+      "Business · 9 hours ago. US job growth likely cooled in June after recent string of big gains · 9 hours ago. Wall St futures muted as investors await payrolls data."
     ],
     "keyTakeaways": [
-      "Global market headlines show funds revisiting Indian stocks, while a tech selloff raises bubble fears in the US stock ma",
+      "US job growth likely cooled in June after recent gains; Wall Street futures are stable as investors await payrolls data.",
       "Find the latest stock market news from every corner of the globe at Reuters.com, your online source for breaking interna",
-      "Global funds revisit Indian stocks as oil, rupee risks recede. 6 hours ago"
+      "Find latest finance news from every corner of the globe at Reuters.com, your online source for breaking international ne"
     ],
     "source": "reuters.com",
     "sourceUrl": "https://www.reuters.com/markets"
   },
   "readingTime": 3,
-  "updatedAt": "2026-07-01T04:14:14.211Z",
+  "updatedAt": "2026-07-02T14:09:11.621Z",
   "images": {
     "thumbnail": {
-      "src": "/images/article_thumb_3.jpg",
+      "src": "/images/article_thumb_2.jpg",
       "alt": "Global Market Headlines | Breaking Stock Market News | Reuters"
     },
     "hero": {
-      "src": "/images/article_thumb_2.jpg",
+      "src": "/images/article_thumb_5.jpg",
       "alt": "Global Market Headlines | Breaking Stock Market News | Reuters"
     },
     "mid": {
-      "src": "/images/article_thumb_2.jpg",
+      "src": "/images/article_thumb_5.jpg",
       "alt": "Global Market Headlines | Breaking Stock Market News | Reuters"
     }
   },
   "image": {
-    "src": "/images/article_thumb_1.jpg",
+    "src": "/images/article_thumb_6.jpg",
     "alt": "Global Market Headlines | Breaking Stock Market News | Reuters"
   }
 }

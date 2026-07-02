@@ -1,0 +1,52 @@
+{
+  "id": "technology-wsj-com",
+  "type": "news",
+  "title": "Technology - WSJ.com",
+  "slug": "technology-wsj-com",
+  "date": "2026-07-02",
+  "displayDate": "July 2, 2026",
+  "author": "Sigma Capital",
+  "category": "Company News",
+  "tags": [
+    "company news",
+    "financial news",
+    "market update"
+  ],
+  "metaDescription": "The WSJ Technology section covers major tech developments, including AI advancements and SpaceX's new AI device prototype. It also highlights global concerns ab",
+  "excerpt": "The WSJ Technology section covers major tech developments, including AI advancements and SpaceX's new AI device prototype. It also highlights global concerns about AI regulation and its economic impacts.",
+  "content": {
+    "introduction": "The WSJ Technology section covers major tech developments, including AI advancements and SpaceX's new AI device prototype. It also highlights global concerns about AI regulation and its economic impacts.",
+    "body": [
+      "A weekly digest of tech columns, big stories and personal tech advice, plus a news ticker and a touch of dark humor. Plus, the hacker sent to calm the U.S. government’s nerves about AI, the surprising benefits of 3-D-printed batteries, Elon’s $86 billion war chest and more. ### Siri’s New Brain. Plus, Anthropic’s Fable woes, Meta’s big teacher bonuses and the terrifying rise of deepfake porn. Plus, a DIY solar hack, a country fights teen brain rot with free ChatGPT and Apple’s plans for a Siri-led AI comeback. Plus, voice-powered writing in Google Docs, the coming “vibe slop” crisis, the rising AI backlash and Apple’s success with imperfect chips. Plus, what to look for in a used EV, Anthropic’s AI lead, the Cerebras IPO, the OpenAI lottery tickets and the most AI-proof jobs in tech. Plus, how to vibe-code an app, OpenAI’s rocky road to an IPO and how big tech companies are beginning to strike AI gold. ### Apple’s New Boss.",
+      "Washington’s move to unblock Anthropic’s model underscores America’s divisions over how to regulate cutting-edge technology. SpaceX Showed Investors Prototype of Elon Musk’s New AI Device. The sleek, handset-like prototype was designed to integrate AI technology from SpaceX’s xAI. The World’s Top Economists Are Sounding the Alarm on AI. Anthropic Reaches Deal With Trump Administration to Restore Access to Fable AI Model. ### EXCLUSIVE SpaceX Showed Investors Prototype of Elon Musk’s New AI Device. Image thumbnail for article titled Me, Myself and AI. Image thumbnail for article titled The AI Race Pushes India Toward the West. ### The AI Race Pushes India Toward the West. Image thumbnail for article titled Happy Days Again for TV News? Image thumbnail for article titled Why Micron Is Betting Big on New York Chips. Image thumbnail for article titled U.S. Capitalism Isn’t Broken. The $8 billion deal would give Rocket Lab control over a satellite fleet and access to wireless resources it could use to compete with SpaceX.",
+      "Plus, world-building in AI, the brewing Zuck vs. Musk battle and a look at AI's spending problem, in this edition of the Technology newsletter."
+    ],
+    "keyTakeaways": [
+      "The WSJ Technology section covers major tech developments, including AI advancements and SpaceX's new AI device prototyp",
+      "A weekly digest of tech columns, big stories and personal tech advice, plus a news ticker and a touch of dark humor. Plu",
+      "Washington’s move to unblock Anthropic’s model underscores America’s divisions over how to regulate cutting-edge technol"
+    ],
+    "source": "wsj.com",
+    "sourceUrl": "https://www.wsj.com/tech"
+  },
+  "readingTime": 3,
+  "updatedAt": "2026-07-02T14:09:11.621Z",
+  "images": {
+    "thumbnail": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Technology - WSJ.com"
+    },
+    "hero": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Technology - WSJ.com"
+    },
+    "mid": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Technology - WSJ.com"
+    }
+  },
+  "image": {
+    "src": "/images/article_thumb_2.jpg",
+    "alt": "Technology - WSJ.com"
+  }
+}
