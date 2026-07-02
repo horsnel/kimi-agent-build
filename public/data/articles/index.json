@@ -42,6 +42,27 @@
     "readingTime": 3
   },
   {
+    "id": "asia-stock-markets-cnbc",
+    "type": "news",
+    "title": "Asia Stock Markets - CNBC",
+    "slug": "asia-stock-markets-cnbc",
+    "date": "2026-07-02",
+    "displayDate": "July 2, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Asia-Pacific markets traded mixed with some indices rising and others declining. US stock futures surged due to falling oil prices and hopes for a US-Iran peace",
+    "excerpt": "Asia-Pacific markets traded mixed with some indices rising and others declining. US stock futures surged due to falling oil prices and hopes for a US-Iran peace resolution. CNBC reports on the latest developments in Asian markets.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Asia Stock Markets - CNBC"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "asia-stocks-latest-news-headlines-the-business-times",
     "type": "news",
     "title": "Asia Stocks Latest News & Headlines - The Business Times",
@@ -189,6 +210,27 @@
     "readingTime": 3
   },
   {
+    "id": "bureau-of-labor-statistics",
+    "type": "news",
+    "title": "Bureau of Labor Statistics",
+    "slug": "bureau-of-labor-statistics",
+    "date": "2026-07-02",
+    "displayDate": "July 2, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Bureau of Labor Statistics (BLS) is a federal agency that collects and reports data on employment, wages, and other economic indicators. It was established ",
+    "excerpt": "The Bureau of Labor Statistics (BLS) is a federal agency that collects and reports data on employment, wages, and other economic indicators. It was established in 1884 and is part of the U.S. Department of Labor. The BLS provides essential labor market information to the government and the public.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Bureau of Labor Statistics"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "company-earnings-calendar-yahoo-finance",
     "type": "news",
     "title": "Company Earnings Calendar - Yahoo Finance",
@@ -252,6 +294,27 @@
     "readingTime": 3
   },
   {
+    "id": "crypto-news-bitcoin-ethereum-xrp-news-crypto-news",
+    "type": "news",
+    "title": "Crypto News: Bitcoin, Ethereum & XRP News | crypto.news",
+    "slug": "crypto-news-bitcoin-ethereum-xrp-news-crypto-news",
+    "date": "2026-07-02",
+    "displayDate": "July 2, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin and Ethereum prices are volatile, with recent news indicating significant market movements. Ripple's legal battles continue to impact XRP's market dynam",
+    "excerpt": "Bitcoin and Ethereum prices are volatile, with recent news indicating significant market movements. Ripple's legal battles continue to impact XRP's market dynamics. Stay informed on regulatory developments affecting cryptocurrencies.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Crypto News: Bitcoin, Ethereum & XRP News | crypto.news"
+    },
+    "readingTime": 5
+  },
+  {
     "id": "cryptocurrency-market-today-news-prices-ideas-tradingview",
     "type": "news",
     "title": "Cryptocurrency Market Today: News, Prices, Ideas - TradingView",
@@ -269,6 +332,48 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "Cryptocurrency Market Today: News, Prices, Ideas - TradingView"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "cryptocurrency-pricing-market-regulation-news-yahoo-finance",
+    "type": "news",
+    "title": "Cryptocurrency pricing, market & regulation news - Yahoo Finance",
+    "slug": "cryptocurrency-pricing-market-regulation-news-yahoo-finance",
+    "date": "2026-07-02",
+    "displayDate": "July 2, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Yahoo Finance provides real-time cryptocurrency prices and market data, including indices and news updates. It partners with CoinMarketCap for comprehensive cry",
+    "excerpt": "Yahoo Finance provides real-time cryptocurrency prices and market data, including indices and news updates. It partners with CoinMarketCap for comprehensive crypto market insights. Regulatory news and trends are also covered.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Cryptocurrency pricing, market & regulation news - Yahoo Finance"
+    },
+    "readingTime": 6
+  },
+  {
+    "id": "earnings-breaking-news-and-press-releases-business-wire",
+    "type": "news",
+    "title": "Earnings Breaking News and Press Releases - Business Wire",
+    "slug": "earnings-breaking-news-and-press-releases-business-wire",
+    "date": "2026-07-02",
+    "displayDate": "July 2, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Business Wire is a leader in press release distribution, offering the latest earnings news and financial reports. It disseminates press releases from companies ",
+    "excerpt": "Business Wire is a leader in press release distribution, offering the latest earnings news and financial reports. It disseminates press releases from companies worldwide. Access the latest earnings news at their newsroom.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Earnings Breaking News and Press Releases - Business Wire"
     },
     "readingTime": 3
   },
@@ -416,6 +521,69 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "Economic Indicators: Understanding GDP, Inflation, and ..."
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "economic-sector-performance-dashboards-yahoo-finance",
+    "type": "news",
+    "title": "Economic Sector Performance Dashboards - Yahoo Finance",
+    "slug": "economic-sector-performance-dashboards-yahoo-finance",
+    "date": "2026-07-02",
+    "displayDate": "July 2, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Economic sector performance dashboards on Yahoo Finance highlight recent gains in AI infrastructure stocks and tech sectors, with the Dow closing above 52,000. ",
+    "excerpt": "Economic sector performance dashboards on Yahoo Finance highlight recent gains in AI infrastructure stocks and tech sectors, with the Dow closing above 52,000. Micron's strong earnings impact Apple, and emerging markets are now key in AI chip trade.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Economic Sector Performance Dashboards - Yahoo Finance"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "equity-market-outlook-blackrock",
+    "type": "news",
+    "title": "Equity market outlook - BlackRock",
+    "slug": "equity-market-outlook-blackrock",
+    "date": "2026-07-02",
+    "displayDate": "July 2, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "BlackRock remains optimistic on global equities, highlighting AI opportunities and energy infrastructure as key growth areas. The firm sees potential in both AI",
+    "excerpt": "BlackRock remains optimistic on global equities, highlighting AI opportunities and energy infrastructure as key growth areas. The firm sees potential in both AI and broader global markets. Current outlook emphasizes resilience despite economic shifts.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Equity market outlook - BlackRock"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "ethereum-eth-news-analysis-and-forecast-fxstreet",
+    "type": "news",
+    "title": "Ethereum (ETH) News, Analysis and Forecast - FXStreet",
+    "slug": "ethereum-eth-news-analysis-and-forecast-fxstreet",
+    "date": "2026-07-02",
+    "displayDate": "July 2, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Ethereum (ETH) is currently under pressure as investors become more risk-averse. ETH price fell from $2,472 to $1,706, trading near $1,733 resistance. Analysts ",
+    "excerpt": "Ethereum (ETH) is currently under pressure as investors become more risk-averse. ETH price fell from $2,472 to $1,706, trading near $1,733 resistance. Analysts expect a potential rise if it breaks above $1,733.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Ethereum (ETH) News, Analysis and Forecast - FXStreet"
     },
     "readingTime": 3
   },
@@ -693,6 +861,27 @@
     "readingTime": 3
   },
   {
+    "id": "latest-asia-stock-market-news",
+    "type": "news",
+    "title": "Latest: Asia Stock Market News",
+    "slug": "latest-asia-stock-market-news",
+    "date": "2026-07-02",
+    "displayDate": "July 2, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The yen hit a 40-year low amid tensions with China, while key Asian markets experienced declines in technology stocks. Japan's yen saw a sudden jump against the",
+    "excerpt": "The yen hit a 40-year low amid tensions with China, while key Asian markets experienced declines in technology stocks. Japan's yen saw a sudden jump against the dollar, raising intervention concerns. Current market data shows mixed trends in Asia Pacific.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Latest: Asia Stock Market News"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "latest-technology-news-and-reviews-yahoo-finance",
     "type": "news",
     "title": "Latest Technology News and Reviews - Yahoo Finance",
@@ -903,6 +1092,27 @@
     "readingTime": 3
   },
   {
+    "id": "sector-industry-performance-bloomberg",
+    "type": "news",
+    "title": "Sector & Industry Performance - Bloomberg",
+    "slug": "sector-industry-performance-bloomberg",
+    "date": "2026-07-02",
+    "displayDate": "July 2, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "U.S. sectors and industries performance can be researched for the latest market updates and trends. Bloomberg and Fidelity offer comprehensive sector research a",
+    "excerpt": "U.S. sectors and industries performance can be researched for the latest market updates and trends. Bloomberg and Fidelity offer comprehensive sector research and performance data. For specific insights, visit the respective websites.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Sector & Industry Performance - Bloomberg"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "sector-industry-performance",
     "type": "news",
     "title": "Sector & Industry Performance",
@@ -985,6 +1195,27 @@
       "alt": "Six portfolio strategy ideas for 2026"
     },
     "readingTime": 4
+  },
+  {
+    "id": "stock-market-outlook-forecast-seeking-alpha",
+    "type": "news",
+    "title": "stock market outlook & forecast - Seeking Alpha",
+    "slug": "stock-market-outlook-forecast-seeking-alpha",
+    "date": "2026-07-02",
+    "displayDate": "July 2, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The 2026 market outlook predicts the S&P 500 will reach 8,300, driven by consumer demand and AI advancements. Biotech and pharma sectors are expected to outperf",
+    "excerpt": "The 2026 market outlook predicts the S&P 500 will reach 8,300, driven by consumer demand and AI advancements. Biotech and pharma sectors are expected to outperform. Small-cap stocks may see a pivot.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "stock market outlook & forecast - Seeking Alpha"
+    },
+    "readingTime": 3
   },
   {
     "id": "stock-market-outlook-forecast",
@@ -1176,6 +1407,27 @@
     "readingTime": 3
   },
   {
+    "id": "u-s-stock-market-headlines-breaking-stock-market-news-reuters",
+    "type": "news",
+    "title": "U.S. Stock Market Headlines | Breaking Stock Market News - Reuters",
+    "slug": "u-s-stock-market-headlines-breaking-stock-market-news-reuters",
+    "date": "2026-07-02",
+    "displayDate": "July 2, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Wall Street closed lower as tech shares declined. Experts predict the S&P 500 will reach 7,900 this year. AI-driven capex spending is expected to boost market g",
+    "excerpt": "Wall Street closed lower as tech shares declined. Experts predict the S&P 500 will reach 7,900 this year. AI-driven capex spending is expected to boost market growth.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "U.S. Stock Market Headlines | Breaking Stock Market News - Reuters"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "u-s-stock-market-headlines-breaking-stock-market-news",
     "type": "news",
     "title": "U.S. Stock Market Headlines | Breaking Stock Market News",
@@ -1193,6 +1445,27 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "U.S. Stock Market Headlines | Breaking Stock Market News"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "unemployment-rate-fred-st-louis-fed",
+    "type": "news",
+    "title": "Unemployment Rate | FRED | St. Louis Fed",
+    "slug": "unemployment-rate-fred-st-louis-fed",
+    "date": "2026-07-02",
+    "displayDate": "July 2, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The unemployment rate is the percentage of the labor force that is unemployed but actively seeking work. It is sourced from the U.S. Bureau of Labor Statistics ",
+    "excerpt": "The unemployment rate is the percentage of the labor force that is unemployed but actively seeking work. It is sourced from the U.S. Bureau of Labor Statistics and published by the Federal Reserve Bank of St. Louis. As of July 2026, the current rate is 3.5%.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Unemployment Rate | FRED | St. Louis Fed"
     },
     "readingTime": 3
   },
@@ -1256,6 +1529,48 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "United States Indicators - Trading Economics"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "united-states-indicators",
+    "type": "news",
+    "title": "United States Indicators",
+    "slug": "united-states-indicators",
+    "date": "2026-07-02",
+    "displayDate": "July 2, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The U.S. GDP growth rate was 2.1% in March 2026, and the unemployment rate was 4.2% in June 2026. The World Bank lists GDP per capita and poverty headcount rati",
+    "excerpt": "The U.S. GDP growth rate was 2.1% in March 2026, and the unemployment rate was 4.2% in June 2026. The World Bank lists GDP per capita and poverty headcount ratio among its indicators. Moody's Analytics reports a K-shaped economy with top 20% income earners accounting for nearly 60% of personal outla",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "United States Indicators"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "us-central-bank-cuts-key-lending-rate-by-a-quarter-point-bbc-news",
+    "type": "news",
+    "title": "US central bank cuts key lending rate by a quarter point - BBC News",
+    "slug": "us-central-bank-cuts-key-lending-rate-by-a-quarter-point-bbc-news",
+    "date": "2026-07-02",
+    "displayDate": "July 2, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Reserve cut the key lending rate by a quarter point, bringing it to 3.50-3.75%, marking the third reduction this year. This decision aims to ease bo",
+    "excerpt": "The Federal Reserve cut the key lending rate by a quarter point, bringing it to 3.50-3.75%, marking the third reduction this year. This decision aims to ease borrowing costs amid a slowing labor market. The move was made despite the US government shutdown delaying official data.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "US central bank cuts key lending rate by a quarter point - BBC News"
     },
     "readingTime": 3
   },
@@ -1575,27 +1890,6 @@
     "readingTime": 3
   },
   {
-    "id": "crypto-news-bitcoin-ethereum-xrp-news-crypto-news",
-    "type": "news",
-    "title": "Crypto News: Bitcoin, Ethereum & XRP News | crypto.news",
-    "slug": "crypto-news-bitcoin-ethereum-xrp-news-crypto-news",
-    "date": "2026-07-01",
-    "displayDate": "July 1, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Jim Cramer remains bearish on Bitcoin; Mastercard partners with Ripple for AI payment systems; latest XRP news focuses on potential impacts from the CLARITY Act",
-    "excerpt": "Jim Cramer remains bearish on Bitcoin; Mastercard partners with Ripple for AI payment systems; latest XRP news focuses on potential impacts from the CLARITY Act.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Crypto News: Bitcoin, Ethereum & XRP News | crypto.news"
-    },
-    "readingTime": 5
-  },
-  {
     "id": "earnings-calendar-and-analysis-for-this-week-june-29",
     "type": "news",
     "title": "Earnings Calendar and Analysis for This Week (June 29- ...",
@@ -1739,27 +2033,6 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "Economic Events Calendar for - Yahoo Finance"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "economic-sector-performance-dashboards-yahoo-finance",
-    "type": "news",
-    "title": "Economic Sector Performance Dashboards - Yahoo Finance",
-    "slug": "economic-sector-performance-dashboards-yahoo-finance",
-    "date": "2026-07-01",
-    "displayDate": "July 1, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Yahoo Finance's economic sector performance dashboards highlight recent trends in tech and industrial sectors, with notable news on Micron's earnings and AI mar",
-    "excerpt": "Yahoo Finance's economic sector performance dashboards highlight recent trends in tech and industrial sectors, with notable news on Micron's earnings and AI market shifts. The Industrials Services sector includes major companies like GE and RTX. Current data reflects significant market movements and",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Economic Sector Performance Dashboards - Yahoo Finance"
     },
     "readingTime": 3
   },
@@ -2075,27 +2348,6 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "Investment Strategies for Today's Market"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "latest-asia-stock-market-news",
-    "type": "news",
-    "title": "Latest: Asia Stock Market News",
-    "slug": "latest-asia-stock-market-news",
-    "date": "2026-07-01",
-    "displayDate": "July 1, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Indonesia's inflation rose to 3.34% in June. Taiwan's regulator inspected Cathay Financial's fund arm. Asia stock markets are up-to-date with latest economic ne",
-    "excerpt": "Indonesia's inflation rose to 3.34% in June. Taiwan's regulator inspected Cathay Financial's fund arm. Asia stock markets are up-to-date with latest economic news.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Latest: Asia Stock Market News"
     },
     "readingTime": 3
   },
@@ -2436,27 +2688,6 @@
     "readingTime": 3
   },
   {
-    "id": "u-s-stock-market-headlines-breaking-stock-market-news-reuters",
-    "type": "news",
-    "title": "U.S. Stock Market Headlines | Breaking Stock Market News - Reuters",
-    "slug": "u-s-stock-market-headlines-breaking-stock-market-news-reuters",
-    "date": "2026-07-01",
-    "displayDate": "July 1, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The U.S. stock market experienced significant gains in the last quarter, with the S&P 500 and Nasdaq reaching their highest levels since 2020. Tech stocks led t",
-    "excerpt": "The U.S. stock market experienced significant gains in the last quarter, with the S&P 500 and Nasdaq reaching their highest levels since 2020. Tech stocks led the surge, but concerns about valuation bubbles persist. As of July 2026, market trends remain strong but volatile.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "U.S. Stock Market Headlines | Breaking Stock Market News - Reuters"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "united-states-federal-reserve-interest-rate-decision-investing-com",
     "type": "news",
     "title": "United States Federal Reserve Interest Rate Decision - Investing.com",
@@ -2520,27 +2751,6 @@
     "readingTime": 3
   },
   {
-    "id": "asia-stock-markets-cnbc",
-    "type": "news",
-    "title": "Asia Stock Markets - CNBC",
-    "slug": "asia-stock-markets-cnbc",
-    "date": "2026-06-10",
-    "displayDate": "June 10, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Asia stock markets showed mixed performance, with SoftBank dropping 10% and tech stocks following Wall Street declines. South Korea's Kospi reached a new high, ",
-    "excerpt": "Asia stock markets showed mixed performance, with SoftBank dropping 10% and tech stocks following Wall Street declines. South Korea's Kospi reached a new high, while broader regional markets fluctuated. Current data reflects June 2026 trends.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Asia Stock Markets - CNBC"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "bitcoin-btc-price-today-btc-live-price-charts-news-crypto-com",
     "type": "news",
     "title": "Bitcoin (BTC) Price Today: BTC Live Price, Charts, News - Crypto.com",
@@ -2579,27 +2789,6 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "Bitcoin price today, BTC to USD live price, marketcap and chart"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "bureau-of-labor-statistics",
-    "type": "news",
-    "title": "Bureau of Labor Statistics",
-    "slug": "bureau-of-labor-statistics",
-    "date": "2026-06-10",
-    "displayDate": "June 10, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Bureau of Labor Statistics (BLS) is a federal agency that collects and reports data on the U.S. economy and labor market. It provides key statistics on empl",
-    "excerpt": "The Bureau of Labor Statistics (BLS) is a federal agency that collects and reports data on the U.S. economy and labor market. It provides key statistics on employment, wages, and productivity. BLS supports decision-making for the Department of Labor and the U.S. government.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Bureau of Labor Statistics"
     },
     "readingTime": 3
   },
@@ -3234,27 +3423,6 @@
     "readingTime": 3
   },
   {
-    "id": "us-central-bank-cuts-key-lending-rate-by-a-quarter-point-bbc-news",
-    "type": "news",
-    "title": "US central bank cuts key lending rate by a quarter point - BBC News",
-    "slug": "us-central-bank-cuts-key-lending-rate-by-a-quarter-point-bbc-news",
-    "date": "2026-06-10",
-    "displayDate": "June 10, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The US central bank cut the key lending rate by a quarter point to 3.50-3.75%, marking the third reduction this year. This decision was made to address cooling ",
-    "excerpt": "The US central bank cut the key lending rate by a quarter point to 3.50-3.75%, marking the third reduction this year. This decision was made to address cooling labor markets and elevated inflation.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "US central bank cuts key lending rate by a quarter point - BBC News"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "us-stock-market-earnings-calendar",
     "type": "news",
     "title": "US Stock Market Earnings Calendar",
@@ -3360,27 +3528,6 @@
     "readingTime": 3
   },
   {
-    "id": "earnings-breaking-news-and-press-releases-business-wire",
-    "type": "news",
-    "title": "Earnings Breaking News and Press Releases - Business Wire",
-    "slug": "earnings-breaking-news-and-press-releases-business-wire",
-    "date": "2026-06-09",
-    "displayDate": "June 9, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Business Wire offers the latest earnings news and press releases. Their services help public companies distribute press releases and enhance investor relations.",
-    "excerpt": "Business Wire offers the latest earnings news and press releases. Their services help public companies distribute press releases and enhance investor relations. For current earnings updates, visit their newsroom.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Earnings Breaking News and Press Releases - Business Wire"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "earnings-calendar-and-analysis-for-this-week-june-8-12-kiplinger",
     "type": "news",
     "title": "Earnings Calendar and Analysis for This Week (June 8-12) | Kiplinger",
@@ -3461,27 +3608,6 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "Economic Sector Performance Dashboards"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "ethereum-eth-news-analysis-and-forecast-fxstreet",
-    "type": "news",
-    "title": "Ethereum (ETH) News, Analysis and Forecast - FXStreet",
-    "slug": "ethereum-eth-news-analysis-and-forecast-fxstreet",
-    "date": "2026-06-09",
-    "displayDate": "June 9, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Ethereum's price is predicted to drop below $2,000 if support fails, but bullish accumulation below $2,400 remains. Bitcoin faces ETF outflows and potential pri",
-    "excerpt": "Ethereum's price is predicted to drop below $2,000 if support fails, but bullish accumulation below $2,400 remains. Bitcoin faces ETF outflows and potential price declines. Current market trends suggest volatility in both cryptocurrencies.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Ethereum (ETH) News, Analysis and Forecast - FXStreet"
     },
     "readingTime": 3
   },
@@ -4028,27 +4154,6 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "10 Best Investments For 2026 | Bankrate"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "cryptocurrency-pricing-market-regulation-news-yahoo-finance",
-    "type": "news",
-    "title": "Cryptocurrency pricing, market & regulation news - Yahoo Finance",
-    "slug": "cryptocurrency-pricing-market-regulation-news-yahoo-finance",
-    "date": "2026-06-07",
-    "displayDate": "June 7, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Bitcoin hovers near $78K, and the crypto industry is pushing for regulation. Bitcoin reached above $93,000 in early 2026. Real crypto regulation is anticipated ",
-    "excerpt": "Bitcoin hovers near $78K, and the crypto industry is pushing for regulation. Bitcoin reached above $93,000 in early 2026. Real crypto regulation is anticipated to generate excitement.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Cryptocurrency pricing, market & regulation news - Yahoo Finance"
     },
     "readingTime": 3
   },
