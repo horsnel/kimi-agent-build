@@ -1,0 +1,52 @@
+{
+  "id": "global-markets-data-breaking-stock-market-news",
+  "type": "news",
+  "title": "Global Markets Data | Breaking Stock Market News",
+  "slug": "global-markets-data-breaking-stock-market-news",
+  "date": "2026-07-02",
+  "displayDate": "July 2, 2026",
+  "author": "Sigma Capital",
+  "category": "Global Markets",
+  "tags": [
+    "global markets",
+    "financial news",
+    "market update"
+  ],
+  "metaDescription": "Global markets are currently experiencing fluctuations, with the Dow Jones and NASDAQ 100 showing minor changes. For the latest stock market news, Reuters and C",
+  "excerpt": "Global markets are currently experiencing fluctuations, with the Dow Jones and NASDAQ 100 showing minor changes. For the latest stock market news, Reuters and CNN offer comprehensive updates.",
+  "content": {
+    "introduction": "Global markets are currently experiencing fluctuations, with the Dow Jones and NASDAQ 100 showing minor changes. For the latest stock market news, Reuters and CNN offer comprehensive updates.",
+    "body": [
+      "Find the latest stock market news from every corner of the globe at Reuters.com, your online source for breaking international market and finance news.",
+      "Indices Overview ; The Global Dow · 6,784.84 6,780.90, 3.94 0.06%, 10:57:04 PM ; Dow Jones · 52,305.24 52,319.20, -13.96 -0.03%, 05:00:59 PM ; NASDAQ 100 · 29,809.13",
+      "Up-to-date stock market data coverage from CNN. Get the latest updates on US markets, world markets, stock quotes, crypto, commodities and currencies."
+    ],
+    "keyTakeaways": [
+      "Global markets are currently experiencing fluctuations, with the Dow Jones and NASDAQ 100 showing minor changes. For the",
+      "Find the latest stock market news from every corner of the globe at Reuters.com, your online source for breaking interna",
+      "Indices Overview ; The Global Dow · 6,784.84 6,780"
+    ],
+    "source": "reuters.com",
+    "sourceUrl": "https://www.reuters.com/markets/global-market-data"
+  },
+  "readingTime": 3,
+  "updatedAt": "2026-07-02T08:49:18.122Z",
+  "images": {
+    "thumbnail": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Global Markets Data | Breaking Stock Market News"
+    },
+    "hero": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Global Markets Data | Breaking Stock Market News"
+    },
+    "mid": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Global Markets Data | Breaking Stock Market News"
+    }
+  },
+  "image": {
+    "src": "/images/article_thumb_4.jpg",
+    "alt": "Global Markets Data | Breaking Stock Market News"
+  }
+}
