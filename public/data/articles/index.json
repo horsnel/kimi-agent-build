@@ -1,5 +1,26 @@
 [
   {
+    "id": "10-investment-strategies-for-new-investors",
+    "type": "news",
+    "title": "10 Investment strategies for new investors",
+    "slug": "10-investment-strategies-for-new-investors",
+    "date": "2026-07-03",
+    "displayDate": "July 3, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Start investing early, diversify your portfolio, and regularly review your strategy.",
+    "excerpt": "Start investing early, diversify your portfolio, and regularly review your strategy.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "10 Investment strategies for new investors"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "5-strategies-to-navigate-market-volatility-morgan-stanley",
     "type": "news",
     "title": "5 Strategies to Navigate Market Volatility - Morgan Stanley",
@@ -17,6 +38,27 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "5 Strategies to Navigate Market Volatility - Morgan Stanley"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "5-strategies-to-navigate-market-volatility",
+    "type": "news",
+    "title": "5 Strategies to Navigate Market Volatility",
+    "slug": "5-strategies-to-navigate-market-volatility",
+    "date": "2026-07-03",
+    "displayDate": "July 3, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "To navigate market volatility, focus on long-term financial plans, diversify portfolios, and seek professional guidance. Staying invested and rebalancing period",
+    "excerpt": "To navigate market volatility, focus on long-term financial plans, diversify portfolios, and seek professional guidance. Staying invested and rebalancing periodically can help achieve better outcomes.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "5 Strategies to Navigate Market Volatility"
     },
     "readingTime": 3
   },
@@ -189,6 +231,48 @@
     "readingTime": 3
   },
   {
+    "id": "bitcoin-price-today-live-btc-price-chart-market-data",
+    "type": "news",
+    "title": "Bitcoin Price Today | Live BTC Price, Chart & Market Data",
+    "slug": "bitcoin-price-today-live-btc-price-chart-market-data",
+    "date": "2026-07-03",
+    "displayDate": "July 3, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin's price today is $62,020.75 USD. It has increased by 0.71% in the last 24 hours. The 24-hour trading volume is $27,970,997,173.17.",
+    "excerpt": "Bitcoin's price today is $62,020.75 USD. It has increased by 0.71% in the last 24 hours. The 24-hour trading volume is $27,970,997,173.17.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Bitcoin Price Today | Live BTC Price, Chart & Market Data"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "btcusd-technical-analysis-for-bitcoin-usd",
+    "type": "news",
+    "title": "BTCUSD Technical Analysis for Bitcoin - USD ...",
+    "slug": "btcusd-technical-analysis-for-bitcoin-usd",
+    "date": "2026-07-03",
+    "displayDate": "July 3, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin's technical analysis suggests a bearish trend with a sell signal. The 20-day moving average is $62,551.23. The RSI is neutral at 39.28.",
+    "excerpt": "Bitcoin's technical analysis suggests a bearish trend with a sell signal. The 20-day moving average is $62,551.23. The RSI is neutral at 39.28.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "BTCUSD Technical Analysis for Bitcoin - USD ..."
+    },
+    "readingTime": 3
+  },
+  {
     "id": "coindesk-bitcoin-ethereum-xrp-crypto-news-and-price-data",
     "type": "news",
     "title": "CoinDesk: Bitcoin, Ethereum, XRP, Crypto News and Price Data",
@@ -294,6 +378,27 @@
     "readingTime": 3
   },
   {
+    "id": "earnings-calendar-2026-daily-earnings-reports",
+    "type": "news",
+    "title": "Earnings Calendar 2026 | Daily Earnings Reports",
+    "slug": "earnings-calendar-2026-daily-earnings-reports",
+    "date": "2026-07-03",
+    "displayDate": "July 3, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Earnings reports for July 3, 2026, are scheduled. Key companies include BitMine and Newmont Corporation. Yahoo Finance provides the latest updates.",
+    "excerpt": "Earnings reports for July 3, 2026, are scheduled. Key companies include BitMine and Newmont Corporation. Yahoo Finance provides the latest updates.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Earnings Calendar 2026 | Daily Earnings Reports"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "earnings-calendar-nasdaq",
     "type": "news",
     "title": "Earnings Calendar - Nasdaq",
@@ -378,6 +483,27 @@
     "readingTime": 3
   },
   {
+    "id": "earnings",
+    "type": "news",
+    "title": "Earnings",
+    "slug": "earnings",
+    "date": "2026-07-03",
+    "displayDate": "July 3, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Earnings are a company's profits over a specific period, shown on the income statement, and used to assess profitability and efficiency. Key types include EBITD",
+    "excerpt": "Earnings are a company's profits over a specific period, shown on the income statement, and used to assess profitability and efficiency. Key types include EBITDA, EBIT, EBT, and net income. Earnings influence stock prices and investor decisions.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Earnings"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "economic-news-releases-bureau-of-labor-statistics",
     "type": "news",
     "title": "Economic News Releases - Bureau of Labor Statistics",
@@ -399,6 +525,48 @@
     "readingTime": 3
   },
   {
+    "id": "economic-news-releases-u-s-bureau-of-labor-statistics",
+    "type": "news",
+    "title": "Economic News Releases : U.S. Bureau of Labor Statistics",
+    "slug": "economic-news-releases-u-s-bureau-of-labor-statistics",
+    "date": "2026-07-03",
+    "displayDate": "July 3, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The U.S. Bureau of Labor Statistics reports May 2026 CPI rose 0.5% monthly and 4.2% yearly; productivity increased 0.3% in nonfarm businesses. Upcoming July 202",
+    "excerpt": "The U.S. Bureau of Labor Statistics reports May 2026 CPI rose 0.5% monthly and 4.2% yearly; productivity increased 0.3% in nonfarm businesses. Upcoming July 2026 releases include Employment Situation and Productivity and Costs. The latest graphics complement BLS news releases.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Economic News Releases : U.S. Bureau of Labor Statistics"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "economic-release-calendar-fred-st-louis-fed",
+    "type": "news",
+    "title": "Economic Release Calendar | FRED | St. Louis Fed",
+    "slug": "economic-release-calendar-fred-st-louis-fed",
+    "date": "2026-07-03",
+    "displayDate": "July 3, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Economic Release Calendar on FRED lists key economic data releases, including the St. Louis Fed Economic News Index and Coinbase Cryptocurrencies, updated d",
+    "excerpt": "The Economic Release Calendar on FRED lists key economic data releases, including the St. Louis Fed Economic News Index and Coinbase Cryptocurrencies, updated daily. The latest release is the St. Louis Fed Economic News Index on July 2, 2026. For more details, visit the FRED website.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Economic Release Calendar | FRED | St. Louis Fed"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "economic-sector-performance-dashboards-yahoo-finance",
     "type": "news",
     "title": "Economic Sector Performance Dashboards - Yahoo Finance",
@@ -416,6 +584,27 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "Economic Sector Performance Dashboards - Yahoo Finance"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "economic-sector-performance-dashboards",
+    "type": "news",
+    "title": "Economic Sector Performance Dashboards",
+    "slug": "economic-sector-performance-dashboards",
+    "date": "2026-07-03",
+    "displayDate": "July 3, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Economic sector performance dashboards are available on Yahoo Finance, European Institute of Public Administration, and S&P Global for detailed sector analysis.",
+    "excerpt": "Economic sector performance dashboards are available on Yahoo Finance, European Institute of Public Administration, and S&P Global for detailed sector analysis. They cover sectors like technology, financial services, and healthcare. These dashboards provide key metrics and performance data.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Economic Sector Performance Dashboards"
     },
     "readingTime": 3
   },
@@ -483,6 +672,27 @@
     "readingTime": 3
   },
   {
+    "id": "federal-reserve-monetary-policy-u-s-bank",
+    "type": "news",
+    "title": "Federal Reserve Monetary Policy | U.S. Bank",
+    "slug": "federal-reserve-monetary-policy-u-s-bank",
+    "date": "2026-07-03",
+    "displayDate": "July 3, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Reserve's Federal Open Market Committee sets the federal funds rate to influence economic conditions. It uses this rate to manage inflation and empl",
+    "excerpt": "The Federal Reserve's Federal Open Market Committee sets the federal funds rate to influence economic conditions. It uses this rate to manage inflation and employment. The Fed's monetary policy aims to promote maximum employment and stable prices.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Federal Reserve Monetary Policy | U.S. Bank"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "finance-and-markets-wsj-com",
     "type": "news",
     "title": "Finance and Markets - WSJ.com",
@@ -521,6 +731,27 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "Finance and Markets"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "fomc-press-conference-october-29-2025",
+    "type": "news",
+    "title": "FOMC Press Conference, October 29, 2025",
+    "slug": "fomc-press-conference-october-29-2025",
+    "date": "2026-07-03",
+    "displayDate": "July 3, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "On October 29, 2025, the FOMC cut the policy interest rate by ¼ percentage point, aiming for maximum employment and stable prices. Powell emphasized that furthe",
+    "excerpt": "On October 29, 2025, the FOMC cut the policy interest rate by ¼ percentage point, aiming for maximum employment and stable prices. Powell emphasized that further rate cuts were not certain. The decision reflected a cautious approach to employment and inflation trends.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "FOMC Press Conference, October 29, 2025"
     },
     "readingTime": 3
   },
@@ -647,6 +878,48 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "Global Stock Market News and World Indices Coverage - CNBC"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "health-technology-sector-stocks",
+    "type": "news",
+    "title": "Health Technology Sector - Stocks",
+    "slug": "health-technology-sector-stocks",
+    "date": "2026-07-03",
+    "displayDate": "July 3, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Eli Lilly, Johnson & Johnson, AstraZeneca, Novartis, and Novo Nordisk are major stocks in the health technology sector. The sector has a combined market cap of ",
+    "excerpt": "Eli Lilly, Johnson & Johnson, AstraZeneca, Novartis, and Novo Nordisk are major stocks in the health technology sector. The sector has a combined market cap of $8.96 trillion. Healthcare stocks generally perform well, with many showing positive growth.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Health Technology Sector - Stocks"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "how-to-invest-in-today-s-market-financial-perspectives",
+    "type": "news",
+    "title": "How to Invest in Today's Market - Financial Perspectives",
+    "slug": "how-to-invest-in-today-s-market-financial-perspectives",
+    "date": "2026-07-03",
+    "displayDate": "July 3, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "To invest in today's market, prioritize long-term goals, diversify your portfolio, and stay informed about market trends. Regularly rebalance your assets to mai",
+    "excerpt": "To invest in today's market, prioritize long-term goals, diversify your portfolio, and stay informed about market trends. Regularly rebalance your assets to maintain your desired risk level.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "How to Invest in Today's Market - Financial Perspectives"
     },
     "readingTime": 3
   },
@@ -945,6 +1218,27 @@
     "readingTime": 3
   },
   {
+    "id": "sector-views-monthly-stock-sector-outlook",
+    "type": "news",
+    "title": "Sector Views: Monthly Stock Sector Outlook",
+    "slug": "sector-views-monthly-stock-sector-outlook",
+    "date": "2026-07-03",
+    "displayDate": "July 3, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The monthly stock sector outlook provides insights on the performance of the 11 S&P 500 sectors. It helps investors understand sector trends and potential inves",
+    "excerpt": "The monthly stock sector outlook provides insights on the performance of the 11 S&P 500 sectors. It helps investors understand sector trends and potential investment opportunities. Schwab Funds regularly updates this outlook based on market conditions.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Sector Views: Monthly Stock Sector Outlook"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "sectors-stock-market-usa-tradingview",
     "type": "news",
     "title": "Sectors — Stock Market — USA - TradingView",
@@ -1006,6 +1300,27 @@
       "alt": "Stock Market News Today | Edward Jones"
     },
     "readingTime": 3
+  },
+  {
+    "id": "stock-market-outlook-midyear-2026",
+    "type": "news",
+    "title": "Stock market outlook midyear 2026",
+    "slug": "stock-market-outlook-midyear-2026",
+    "date": "2026-07-03",
+    "displayDate": "July 3, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The 2026 midyear stock market outlook suggests a resilient bull market amid economic volatility and potential geopolitical risks. Experts predict continued grow",
+    "excerpt": "The 2026 midyear stock market outlook suggests a resilient bull market amid economic volatility and potential geopolitical risks. Experts predict continued growth despite challenges. Market trends remain positive for the second half of the year.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Stock market outlook midyear 2026"
+    },
+    "readingTime": 5
   },
   {
     "id": "stock-market-sector-analysis-and-performance-weekly-changes",
@@ -1365,6 +1680,27 @@
     "readingTime": 3
   },
   {
+    "id": "us-earnings-season-q2-2026",
+    "type": "news",
+    "title": "US earnings season - Q2 2026",
+    "slug": "us-earnings-season-q2-2026",
+    "date": "2026-07-03",
+    "displayDate": "July 3, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The US Q2 2026 earnings season starts mid-July, with PepsiCo and Delta Air Lines reporting first, followed by major US banks. The S&P 500 is expected to report ",
+    "excerpt": "The US Q2 2026 earnings season starts mid-July, with PepsiCo and Delta Air Lines reporting first, followed by major US banks. The S&P 500 is expected to report 23.3% year-over-year earnings growth. Investors are closely watching earnings reports for market impact.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "US earnings season - Q2 2026"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "us-stock-market-earnings-calendar",
     "type": "news",
     "title": "US Stock Market Earnings Calendar",
@@ -1701,27 +2037,6 @@
     "readingTime": 3
   },
   {
-    "id": "earnings",
-    "type": "news",
-    "title": "Earnings",
-    "slug": "earnings",
-    "date": "2026-07-02",
-    "displayDate": "July 2, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Earnings are the net income of a corporation after deducting expenses, costs, and taxes. They are crucial for stock valuation and investor decisions. Higher ear",
-    "excerpt": "Earnings are the net income of a corporation after deducting expenses, costs, and taxes. They are crucial for stock valuation and investor decisions. Higher earnings often lead to higher stock prices.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Earnings"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "economic-indicators-understanding-gdp-inflation-and",
     "type": "news",
     "title": "Economic Indicators: Understanding GDP, Inflation, and ...",
@@ -1802,27 +2117,6 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "Federal Open Market Committee"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "fomc-press-conference-october-29-2025",
-    "type": "news",
-    "title": "FOMC Press Conference, October 29, 2025",
-    "slug": "fomc-press-conference-october-29-2025",
-    "date": "2026-07-02",
-    "displayDate": "July 2, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The FOMC meeting on October 29, 2025, resulted in a 25 basis point cut to the federal funds rate, and Chair Powell indicated further rate cuts were not certain.",
-    "excerpt": "The FOMC meeting on October 29, 2025, resulted in a 25 basis point cut to the federal funds rate, and Chair Powell indicated further rate cuts were not certain. The Fed emphasized monitoring labor market changes and inflation trends.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "FOMC Press Conference, October 29, 2025"
     },
     "readingTime": 3
   },
@@ -2306,27 +2600,6 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "11 top investments in 2026 | Fidelity"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "5-strategies-to-navigate-market-volatility",
-    "type": "news",
-    "title": "5 Strategies to Navigate Market Volatility",
-    "slug": "5-strategies-to-navigate-market-volatility",
-    "date": "2026-07-01",
-    "displayDate": "July 1, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "To navigate market volatility, diversify investments, use dollar-cost averaging, focus on fundamentals, and maintain long-term asset allocation.",
-    "excerpt": "To navigate market volatility, diversify investments, use dollar-cost averaging, focus on fundamentals, and maintain long-term asset allocation.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "5 Strategies to Navigate Market Volatility"
     },
     "readingTime": 3
   },
@@ -2877,27 +3150,6 @@
     "readingTime": 3
   },
   {
-    "id": "how-to-invest-in-today-s-market-financial-perspectives",
-    "type": "news",
-    "title": "How to Invest in Today's Market - Financial Perspectives",
-    "slug": "how-to-invest-in-today-s-market-financial-perspectives",
-    "date": "2026-07-01",
-    "displayDate": "July 1, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "To invest in today's market, start with a diversified portfolio, consider long-term goals, and regularly rebalance your assets. Use a brokerage account for stoc",
-    "excerpt": "To invest in today's market, start with a diversified portfolio, consider long-term goals, and regularly rebalance your assets. Use a brokerage account for stock trading.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "How to Invest in Today's Market - Financial Perspectives"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "inflation-cpi",
     "type": "news",
     "title": "Inflation (CPI)",
@@ -3083,27 +3335,6 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "Sector Research, News and Performance | Sector Industries"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "sector-views-monthly-stock-sector-outlook",
-    "type": "news",
-    "title": "Sector Views: Monthly Stock Sector Outlook",
-    "slug": "sector-views-monthly-stock-sector-outlook",
-    "date": "2026-07-01",
-    "displayDate": "July 1, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Monthly stock sector outlooks analyze performance trends of 11 S&P 500 sectors. They help investors understand sector-specific risks and opportunities. Schwab F",
-    "excerpt": "Monthly stock sector outlooks analyze performance trends of 11 S&P 500 sectors. They help investors understand sector-specific risks and opportunities. Schwab Funds provides detailed sector views for informed investment decisions.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Sector Views: Monthly Stock Sector Outlook"
     },
     "readingTime": 3
   },
@@ -3524,27 +3755,6 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "Federal Reserve keeps interest rates steady as inflation ..."
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "health-technology-sector-stocks",
-    "type": "news",
-    "title": "Health Technology Sector - Stocks",
-    "slug": "health-technology-sector-stocks",
-    "date": "2026-06-10",
-    "displayDate": "June 10, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Eli Lilly, Johnson & Johnson, and Novo Nordisk are major stocks in the health technology sector, with strong market performance and high market capitalization.",
-    "excerpt": "Eli Lilly, Johnson & Johnson, and Novo Nordisk are major stocks in the health technology sector, with strong market performance and high market capitalization.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Health Technology Sector - Stocks"
     },
     "readingTime": 3
   },
@@ -4011,27 +4221,6 @@
     "readingTime": 3
   },
   {
-    "id": "economic-sector-performance-dashboards",
-    "type": "news",
-    "title": "Economic Sector Performance Dashboards",
-    "slug": "economic-sector-performance-dashboards",
-    "date": "2026-06-09",
-    "displayDate": "June 9, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Economic sector performance dashboards are available on Yahoo Finance and Barchart.com, offering detailed insights into various sectors' market trends and perfo",
-    "excerpt": "Economic sector performance dashboards are available on Yahoo Finance and Barchart.com, offering detailed insights into various sectors' market trends and performance. Piper Sandler's Strategy Portal provides interactive analysis and risk-management tools.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Economic Sector Performance Dashboards"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "ethereum-eth-news-analysis-and-forecast",
     "type": "news",
     "title": "Ethereum (ETH) News, Analysis and Forecast",
@@ -4364,27 +4553,6 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "Big Tech just delivered the most consequential earnings week of 2026"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "earnings-calendar-2026-daily-earnings-reports",
-    "type": "news",
-    "title": "Earnings Calendar 2026 | Daily Earnings Reports",
-    "slug": "earnings-calendar-2026-daily-earnings-reports",
-    "date": "2026-06-08",
-    "displayDate": "June 8, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Earnings reports for June 8, 2026, are not available yet; however, key companies like Tesla, Amazon, and Apple typically release earnings in the fourth quarter.",
-    "excerpt": "Earnings reports for June 8, 2026, are not available yet; however, key companies like Tesla, Amazon, and Apple typically release earnings in the fourth quarter. For current earnings data, refer to financial news websites.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Earnings Calendar 2026 | Daily Earnings Reports"
     },
     "readingTime": 3
   },
