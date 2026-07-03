@@ -1,0 +1,52 @@
+{
+  "id": "technology",
+  "type": "news",
+  "title": "Technology",
+  "slug": "technology",
+  "date": "2026-07-03",
+  "displayDate": "July 3, 2026",
+  "author": "Sigma Capital",
+  "category": "Company News",
+  "tags": [
+    "company news",
+    "financial news",
+    "market update"
+  ],
+  "metaDescription": "Technology refers to the application of scientific knowledge for practical purposes, evolving from ancient tools to modern engineering. It has transformed human",
+  "excerpt": "Technology refers to the application of scientific knowledge for practical purposes, evolving from ancient tools to modern engineering. It has transformed human life and continues to accelerate in the 21st century. Its ethical and societal impacts are ongoing subjects of debate.",
+  "content": {
+    "introduction": "Technology refers to the application of scientific knowledge for practical purposes, evolving from ancient tools to modern engineering. It has transformed human life and continues to accelerate in the 21st century. Its ethical and societal impacts are ongoing subjects of debate.",
+    "body": [
+      "# Technology. | By type of technology  * History of agriculture * History of biotechnology * History of communication * History of computer hardware * History of electrical engineering * History of manufacturing * History of maritime * History of materials science * History of measurement * History of medicine * History of simple machine * History of nuclear technology * History of transport |. The earliest known technology is the stone tool, used during prehistory, followed by the control of fire—which in turn contributed to the growth of the human brain and the development of language during the Ice Age, according to the cooking hypothesis. As a result, philosophical and political debates about the role and use of technology, the ethics of technology, and ways to mitigate its downsides are ongoing. In the 20th century, as a result of scientific progress and the Second Industrial Revolution, *technology* stopped being considered a distinct academic discipline and took on the meaning: the systemic use of knowledge to practical ends.",
+      "# technology. Encyclopaedia Britannica's editors oversee subject areas in which they have extensive knowledge, whether from years of experience gained by working on that content or via study for an advanced degree.... **technology**, the application of scientific knowledge to the practical aims of human life—or, as it is sometimes phrased, to the change and manipulation of the human environment. The word *technology* is a combination of the Greek *technē*, which means “art, craft,” and *logos*, which means “word, speech.” It first appeared in English in the 17th century, and it has evolved through several meanings to its present-day sense. :   National Center for Biotechnology Information - PubMed Central - Technology and the future of healthcare (June 06, 2026). What follows is a highly selective list of examples of how technology has changed our world—and how, in the 21st century, the speed of its development has only accelerated. * For a general overview of what counts as technology from the ancient world to the 21st century, *see* history of technology.",
+      "The meaning of TECHNOLOGY is the practical application of scientific knowledge especially in a particular area : engineering."
+    ],
+    "keyTakeaways": [
+      "Technology refers to the application of scientific knowledge for practical purposes, evolving from ancient tools to mode",
+      "# Technology. | By type of technology  * History of agriculture * History of biotechnology * History of communication * ",
+      "# technology. Encyclopaedia Britannica's editors oversee subject areas in which they have extensive knowledge, whether f"
+    ],
+    "source": "nytimes.com",
+    "sourceUrl": "https://www.nytimes.com/section/technology"
+  },
+  "readingTime": 3,
+  "updatedAt": "2026-07-03T03:36:54.570Z",
+  "images": {
+    "thumbnail": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Technology"
+    },
+    "hero": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Technology"
+    },
+    "mid": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Technology"
+    }
+  },
+  "image": {
+    "src": "/images/article_thumb_2.jpg",
+    "alt": "Technology"
+  }
+}
