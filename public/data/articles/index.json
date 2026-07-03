@@ -84,6 +84,69 @@
     "readingTime": 3
   },
   {
+    "id": "bitcoin-btc-news-analysis-and-forecast",
+    "type": "news",
+    "title": "Bitcoin (BTC) News, Analysis and Forecast",
+    "slug": "bitcoin-btc-news-analysis-and-forecast",
+    "date": "2026-07-03",
+    "displayDate": "July 3, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin stabilizes around $59,000 after hitting a 21-month low, with geopolitical tensions and inflation concerns affecting market sentiment. Analysts suggest a",
+    "excerpt": "Bitcoin stabilizes around $59,000 after hitting a 21-month low, with geopolitical tensions and inflation concerns affecting market sentiment. Analysts suggest a potential rebound if Bitcoin surpasses $67,000. Current trading is flat near $60,100.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Bitcoin (BTC) News, Analysis and Forecast"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "bitcoin-btc-price-today-btc-live-price-charts-news",
+    "type": "news",
+    "title": "Bitcoin (BTC) Price Today: BTC Live Price, Charts, News",
+    "slug": "bitcoin-btc-price-today-btc-live-price-charts-news",
+    "date": "2026-07-03",
+    "displayDate": "July 3, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin's price today is $61,661.11, up 1.85% in the last 24 hours. It is currently 0.62% below its 7-day high and 6.73% above its 7-day low. The 24-hour tradin",
+    "excerpt": "Bitcoin's price today is $61,661.11, up 1.85% in the last 24 hours. It is currently 0.62% below its 7-day high and 6.73% above its 7-day low. The 24-hour trading volume is $37.01 billion.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Bitcoin (BTC) Price Today: BTC Live Price, Charts, News"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "bitcoin-btc-price-usd-today-news-charts-market-cap",
+    "type": "news",
+    "title": "Bitcoin (BTC) Price USD Today, News, Charts, Market Cap",
+    "slug": "bitcoin-btc-price-usd-today-news-charts-market-cap",
+    "date": "2026-07-03",
+    "displayDate": "July 3, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin (BTC) price today is $61,479.89, with a 24-hour high of $62,113.66 and a 24-hour low of $60,095.09. The market capitalization stands at $1.18 trillion.",
+    "excerpt": "Bitcoin (BTC) price today is $61,479.89, with a 24-hour high of $62,113.66 and a 24-hour low of $60,095.09. The market capitalization stands at $1.18 trillion.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Bitcoin (BTC) Price USD Today, News, Charts, Market Cap"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "bitcoin-price-today-btc-price-chart-live-trends-kraken",
     "type": "news",
     "title": "Bitcoin price today - BTC price chart & live trends - Kraken",
@@ -210,6 +273,27 @@
     "readingTime": 5
   },
   {
+    "id": "earnings-breaking-news-and-press-releases-business-wire",
+    "type": "news",
+    "title": "Earnings Breaking News and Press Releases - Business Wire",
+    "slug": "earnings-breaking-news-and-press-releases-business-wire",
+    "date": "2026-07-03",
+    "displayDate": "July 3, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "RioCan Real Estate Investment Trust announced its second quarter 2026 earnings release, conference call, and webcast. The latest earnings news and press release",
+    "excerpt": "RioCan Real Estate Investment Trust announced its second quarter 2026 earnings release, conference call, and webcast. The latest earnings news and press releases are available on Business Wire and other financial news platforms. Check the provided URLs for the most current updates.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Earnings Breaking News and Press Releases - Business Wire"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "earnings-calendar-nasdaq",
     "type": "news",
     "title": "Earnings Calendar - Nasdaq",
@@ -248,6 +332,48 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "Earnings Calendar - Trading Economics"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "earnings-calendar-zacks-investment-research",
+    "type": "news",
+    "title": "Earnings Calendar - Zacks Investment Research",
+    "slug": "earnings-calendar-zacks-investment-research",
+    "date": "2026-07-03",
+    "displayDate": "July 3, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Zacks Investment Research's Earnings Calendar provides upcoming earnings reports for publicly traded companies. The calendar includes details on earnings releas",
+    "excerpt": "Zacks Investment Research's Earnings Calendar provides upcoming earnings reports for publicly traded companies. The calendar includes details on earnings releases, surprises, and trends. It is a valuable resource for investors tracking financial performance.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Earnings Calendar - Zacks Investment Research"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "earnings-cnbc",
+    "type": "news",
+    "title": "Earnings - CNBC",
+    "slug": "earnings-cnbc",
+    "date": "2026-07-03",
+    "displayDate": "July 3, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "CNBC covers earnings reports, including announcements and calendars, for various sectors like tech, retail, and industrials. Key earnings data is available on t",
+    "excerpt": "CNBC covers earnings reports, including announcements and calendars, for various sectors like tech, retail, and industrials. Key earnings data is available on their dedicated earnings page. For the latest updates, visit https://www.cnbc.com/earnings.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Earnings - CNBC"
     },
     "readingTime": 3
   },
@@ -336,6 +462,27 @@
     "readingTime": 3
   },
   {
+    "id": "federal-reserve-issues-fomc-statement",
+    "type": "news",
+    "title": "Federal Reserve issues FOMC statement",
+    "slug": "federal-reserve-issues-fomc-statement",
+    "date": "2026-07-03",
+    "displayDate": "July 3, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Reserve maintained the interest rate at 3.65% and kept the federal funds rate target range at 0 to 1/4 percent. The FOMC aims for maximum employment",
+    "excerpt": "The Federal Reserve maintained the interest rate at 3.65% and kept the federal funds rate target range at 0 to 1/4 percent. The FOMC aims for maximum employment and 2% inflation. The policy stance will remain until labor market and inflation conditions improve.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Federal Reserve issues FOMC statement"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "finance-and-markets-wsj-com",
     "type": "news",
     "title": "Finance and Markets - WSJ.com",
@@ -353,6 +500,27 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "Finance and Markets - WSJ.com"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "finance-and-markets",
+    "type": "news",
+    "title": "Finance and Markets",
+    "slug": "finance-and-markets",
+    "date": "2026-07-03",
+    "displayDate": "July 3, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Financial markets are platforms for trading assets like stocks, bonds, and currencies, facilitating capital allocation and economic growth. They enable business",
+    "excerpt": "Financial markets are platforms for trading assets like stocks, bonds, and currencies, facilitating capital allocation and economic growth. They enable businesses and governments to raise funds and investors to trade assets. Financial markets also allow risk transfer and promote commerce.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Finance and Markets"
     },
     "readingTime": 3
   },
@@ -420,6 +588,111 @@
     "readingTime": 3
   },
   {
+    "id": "global-market-headlines-breaking-stock-market-news-reuters",
+    "type": "news",
+    "title": "Global Market Headlines | Breaking Stock Market News | Reuters",
+    "slug": "global-market-headlines-breaking-stock-market-news-reuters",
+    "date": "2026-07-03",
+    "displayDate": "July 3, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Global stocks are rising as US jobs data shows a slowdown. Tech stocks are in demand after recent market dips. Latest finance news highlights global market tren",
+    "excerpt": "Global stocks are rising as US jobs data shows a slowdown. Tech stocks are in demand after recent market dips. Latest finance news highlights global market trends.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Global Market Headlines | Breaking Stock Market News | Reuters"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "global-market-indices-international-markets-markets-insider",
+    "type": "news",
+    "title": "Global Market Indices | International Markets - Markets Insider",
+    "slug": "global-market-indices-international-markets-markets-insider",
+    "date": "2026-07-03",
+    "displayDate": "July 3, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Global market indices include the S&P 500, Dow Jones, and Nasdaq 100. Major indices are tracked on Investing.com. Business Insider provides indices and stock ma",
+    "excerpt": "Global market indices include the S&P 500, Dow Jones, and Nasdaq 100. Major indices are tracked on Investing.com. Business Insider provides indices and stock market news.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Global Market Indices | International Markets - Markets Insider"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "global-stock-market-news-and-world-indices-coverage-cnbc",
+    "type": "news",
+    "title": "Global Stock Market News and World Indices Coverage - CNBC",
+    "slug": "global-stock-market-news-and-world-indices-coverage-cnbc",
+    "date": "2026-07-03",
+    "displayDate": "July 3, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The S&P 500 and Nasdaq closed lower recently, while European markets rebounded after Trump threatened Iran. The Dow 30 remains a key focus for investors. CNBC p",
+    "excerpt": "The S&P 500 and Nasdaq closed lower recently, while European markets rebounded after Trump threatened Iran. The Dow 30 remains a key focus for investors. CNBC provides comprehensive global stock market news and analysis.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Global Stock Market News and World Indices Coverage - CNBC"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "inflation-consumer-prices-annual-united-states",
+    "type": "news",
+    "title": "Inflation, consumer prices (annual %) - United States",
+    "slug": "inflation-consumer-prices-annual-united-states",
+    "date": "2026-07-03",
+    "displayDate": "July 3, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Inflation, consumer prices in the United States for 2026 is 4.20%. This annual rate reflects the Consumer Price Index changes. The latest data is from Trading E",
+    "excerpt": "Inflation, consumer prices in the United States for 2026 is 4.20%. This annual rate reflects the Consumer Price Index changes. The latest data is from Trading Economics.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Inflation, consumer prices (annual %) - United States"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "inflation-consumer-prices-for-the-united-states-fred",
+    "type": "news",
+    "title": "Inflation, consumer prices for the United States - FRED",
+    "slug": "inflation-consumer-prices-for-the-united-states-fred",
+    "date": "2026-07-03",
+    "displayDate": "July 3, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Inflation, consumer prices for the United States, measured by the Consumer Price Index, reflects the annual change in the cost of a fixed basket of goods and se",
+    "excerpt": "Inflation, consumer prices for the United States, measured by the Consumer Price Index, reflects the annual change in the cost of a fixed basket of goods and services. The latest data is available from the Federal Reserve Bank of St. Louis. Current inflation rate is not provided here.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Inflation, consumer prices for the United States - FRED"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "investment-strategies-for-today-s-market-linkedin",
     "type": "news",
     "title": "Investment Strategies for Today's Market - LinkedIn",
@@ -479,6 +752,27 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "Latest Technology News and Reviews - Yahoo Finance"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "live-updates-interest-rates-steady-federal-reserve-forecasts-1-rate",
+    "type": "news",
+    "title": "Live updates: Interest rates steady, Federal Reserve forecasts 1 rate ...",
+    "slug": "live-updates-interest-rates-steady-federal-reserve-forecasts-1-rate",
+    "date": "2026-07-03",
+    "displayDate": "July 3, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Reserve held interest rates steady in June 2026 and forecasts one rate cut in 2026. The Fed's decision was widely anticipated. The Fed's policy rate",
+    "excerpt": "The Federal Reserve held interest rates steady in June 2026 and forecasts one rate cut in 2026. The Fed's decision was widely anticipated. The Fed's policy rate remains at 3.75%.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Live updates: Interest rates steady, Federal Reserve forecasts 1 rate ..."
     },
     "readingTime": 3
   },
@@ -647,6 +941,27 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "Sector Views: Monthly Stock Sector Outlook - Charles Schwab"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "sectors-stock-market-usa-tradingview",
+    "type": "news",
+    "title": "Sectors — Stock Market — USA - TradingView",
+    "slug": "sectors-stock-market-usa-tradingview",
+    "date": "2026-07-03",
+    "displayDate": "July 3, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The US stock market sectors include Electronic Technology, Producer Manufacturing, Consumer Non-Durables, Energy Minerals, Utilities, Consumer Durables, Consume",
+    "excerpt": "The US stock market sectors include Electronic Technology, Producer Manufacturing, Consumer Non-Durables, Energy Minerals, Utilities, Consumer Durables, Consumer Services, and Process Industries. The top sectors by market cap are Electronic Technology and Producer Manufacturing. The most active sect",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Sectors — Stock Market — USA - TradingView"
     },
     "readingTime": 3
   },
@@ -882,6 +1197,27 @@
     "readingTime": 3
   },
   {
+    "id": "u-s-market-analysis-valuation-dow-jones-nasdaq",
+    "type": "news",
+    "title": "U.S. Market Analysis & Valuation - Dow Jones, Nasdaq, ...",
+    "slug": "u-s-market-analysis-valuation-dow-jones-nasdaq",
+    "date": "2026-07-03",
+    "displayDate": "July 3, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The U.S. market has climbed 1.9% in the last week, with the Information Technology sector leading gains. The market valuation has increased over the past year, ",
+    "excerpt": "The U.S. market has climbed 1.9% in the last week, with the Information Technology sector leading gains. The market valuation has increased over the past year, reaching $7500.45 as of July 2026. The market has seen significant growth over the past 12 months.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "U.S. Market Analysis & Valuation - Dow Jones, Nasdaq, ..."
+    },
+    "readingTime": 3
+  },
+  {
     "id": "u-s-stock-market-headlines-breaking-stock-market-news-reuters",
     "type": "news",
     "title": "U.S. Stock Market Headlines | Breaking Stock Market News - Reuters",
@@ -899,6 +1235,27 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "U.S. Stock Market Headlines | Breaking Stock Market News - Reuters"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "u-s-stock-market-headlines-breaking-stock-market-news",
+    "type": "news",
+    "title": "U.S. Stock Market Headlines | Breaking Stock Market News",
+    "slug": "u-s-stock-market-headlines-breaking-stock-market-news",
+    "date": "2026-07-03",
+    "displayDate": "July 3, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The S&P 500 and Nasdaq had their biggest quarterly gains since 2020, driven by strong investor optimism. Semiconductor shares boosted Wall Street's strong first",
+    "excerpt": "The S&P 500 and Nasdaq had their biggest quarterly gains since 2020, driven by strong investor optimism. Semiconductor shares boosted Wall Street's strong first half of 2026. US stocks closed higher, marking one of the best quarterly performances in years.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "U.S. Stock Market Headlines | Breaking Stock Market News"
     },
     "readingTime": 3
   },
@@ -987,6 +1344,27 @@
     "readingTime": 3
   },
   {
+    "id": "us-earnings-season-q2-2026-ii-interactive-investor",
+    "type": "news",
+    "title": "US earnings season - Q2 2026 - ii - Interactive Investor",
+    "slug": "us-earnings-season-q2-2026-ii-interactive-investor",
+    "date": "2026-07-03",
+    "displayDate": "July 3, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The US Q2 2026 earnings season starts mid-July, with PepsiCo and Delta Air Lines reporting first, followed by major banks. Analysts expect S&P 500 earnings grow",
+    "excerpt": "The US Q2 2026 earnings season starts mid-July, with PepsiCo and Delta Air Lines reporting first, followed by major banks. Analysts expect S&P 500 earnings growth of 23.3% for Q2 2026. Market focus will be on earnings, revenue, and company outlooks.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "US earnings season - Q2 2026 - ii - Interactive Investor"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "us-stock-market-earnings-calendar",
     "type": "news",
     "title": "US Stock Market Earnings Calendar",
@@ -1004,6 +1382,27 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "US Stock Market Earnings Calendar"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "what-is-the-current-inflation-rate-in-the-us",
+    "type": "news",
+    "title": "What is the current inflation rate in the US?",
+    "slug": "what-is-the-current-inflation-rate-in-the-us",
+    "date": "2026-07-03",
+    "displayDate": "July 3, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The current inflation rate in the US is 4.2%. This figure reflects the annual rate as of May 2026.",
+    "excerpt": "The current inflation rate in the US is 4.2%. This figure reflects the annual rate as of May 2026.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "What is the current inflation rate in the US?"
     },
     "readingTime": 3
   },
@@ -1027,6 +1426,27 @@
       "alt": "What to Look Out for in Economic Data This Week (July 6-10)"
     },
     "readingTime": 4
+  },
+  {
+    "id": "when-is-the-next-fed-interest-rate-decision-equals-money",
+    "type": "news",
+    "title": "When is the next Fed interest rate decision? - Equals Money",
+    "slug": "when-is-the-next-fed-interest-rate-decision-equals-money",
+    "date": "2026-07-03",
+    "displayDate": "July 3, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The next Fed interest rate decision is scheduled for April 29, 2026, at 18:00 GMT. The Federal Open Market Committee (FOMC) meets eight times a year to set mone",
+    "excerpt": "The next Fed interest rate decision is scheduled for April 29, 2026, at 18:00 GMT. The Federal Open Market Committee (FOMC) meets eight times a year to set monetary policy. The last decision kept the federal funds rate unchanged.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "When is the next Fed interest rate decision? - Equals Money"
+    },
+    "readingTime": 3
   },
   {
     "id": "2026-outlook-portfolio-wide-views-cambridge-associates",
@@ -1197,27 +1617,6 @@
     "readingTime": 6
   },
   {
-    "id": "earnings-breaking-news-and-press-releases-business-wire",
-    "type": "news",
-    "title": "Earnings Breaking News and Press Releases - Business Wire",
-    "slug": "earnings-breaking-news-and-press-releases-business-wire",
-    "date": "2026-07-02",
-    "displayDate": "July 2, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Business Wire is a leader in press release distribution, offering the latest earnings news and financial reports. It disseminates press releases from companies ",
-    "excerpt": "Business Wire is a leader in press release distribution, offering the latest earnings news and financial reports. It disseminates press releases from companies worldwide. Access the latest earnings news at their newsroom.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Earnings Breaking News and Press Releases - Business Wire"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "earnings-calendar-2026-daily-earnings-reports-marketbeat",
     "type": "news",
     "title": "Earnings Calendar 2026 | Daily Earnings Reports - MarketBeat",
@@ -1277,27 +1676,6 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "Earnings Calendar | Seeking Alpha"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "earnings-cnbc",
-    "type": "news",
-    "title": "Earnings - CNBC",
-    "slug": "earnings-cnbc",
-    "date": "2026-07-02",
-    "displayDate": "July 2, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Micron's stock surged 15% due to AI-driven revenue growth. Nike's earnings report was soft, impacting stock decisions. Oracle's earnings beat expectations, but ",
-    "excerpt": "Micron's stock surged 15% due to AI-driven revenue growth. Nike's earnings report was soft, impacting stock decisions. Oracle's earnings beat expectations, but stock fell on $20 billion raise plans.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Earnings - CNBC"
     },
     "readingTime": 3
   },
@@ -1428,27 +1806,6 @@
     "readingTime": 3
   },
   {
-    "id": "federal-reserve-issues-fomc-statement",
-    "type": "news",
-    "title": "Federal Reserve issues FOMC statement",
-    "slug": "federal-reserve-issues-fomc-statement",
-    "date": "2026-07-02",
-    "displayDate": "July 2, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Reserve maintained the interest rate at 3.65% and kept the federal funds rate target range at 3.5% to 3.75% in its June 2026 FOMC statement. The Com",
-    "excerpt": "The Federal Reserve maintained the interest rate at 3.65% and kept the federal funds rate target range at 3.5% to 3.75% in its June 2026 FOMC statement. The Committee aims to support the economy and maintain inflation at 2%. The decision was unanimous.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Federal Reserve issues FOMC statement"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "fomc-press-conference-october-29-2025",
     "type": "news",
     "title": "FOMC Press Conference, October 29, 2025",
@@ -1466,48 +1823,6 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "FOMC Press Conference, October 29, 2025"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "global-market-headlines-breaking-stock-market-news-reuters",
-    "type": "news",
-    "title": "Global Market Headlines | Breaking Stock Market News | Reuters",
-    "slug": "global-market-headlines-breaking-stock-market-news-reuters",
-    "date": "2026-07-02",
-    "displayDate": "July 2, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "US job growth likely cooled in June after recent gains; Wall Street futures are stable as investors await payrolls data. Latest finance and global market headli",
-    "excerpt": "US job growth likely cooled in June after recent gains; Wall Street futures are stable as investors await payrolls data. Latest finance and global market headlines are available on Reuters.com.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Global Market Headlines | Breaking Stock Market News | Reuters"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "global-market-indices-international-markets-markets-insider",
-    "type": "news",
-    "title": "Global Market Indices | International Markets - Markets Insider",
-    "slug": "global-market-indices-international-markets-markets-insider",
-    "date": "2026-07-02",
-    "displayDate": "July 2, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The NASDAQ 100 is down 1.54% to 29,809.13. The DAX is up 0.18% to 25,040.28. The TecDAX is up 0.94% to 3,889.17.",
-    "excerpt": "The NASDAQ 100 is down 1.54% to 29,809.13. The DAX is up 0.18% to 25,040.28. The TecDAX is up 0.94% to 3,889.17.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Global Market Indices | International Markets - Markets Insider"
     },
     "readingTime": 3
   },
@@ -1533,27 +1848,6 @@
     "readingTime": 3
   },
   {
-    "id": "global-stock-market-news-and-world-indices-coverage-cnbc",
-    "type": "news",
-    "title": "Global Stock Market News and World Indices Coverage - CNBC",
-    "slug": "global-stock-market-news-and-world-indices-coverage-cnbc",
-    "date": "2026-07-02",
-    "displayDate": "July 2, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Global stock markets fluctuated with mixed performances; gold reached record highs amid economic uncertainties; Nikkei 225 surpassed 57,000 for the first time.",
-    "excerpt": "Global stock markets fluctuated with mixed performances; gold reached record highs amid economic uncertainties; Nikkei 225 surpassed 57,000 for the first time.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Global Stock Market News and World Indices Coverage - CNBC"
-    },
-    "readingTime": 6
-  },
-  {
     "id": "global-stock-market-news-and-world-indices-coverage",
     "type": "news",
     "title": "Global Stock Market News and World Indices Coverage",
@@ -1571,27 +1865,6 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "Global Stock Market News and World Indices Coverage"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "inflation-consumer-prices-annual-united-states",
-    "type": "news",
-    "title": "Inflation, consumer prices (annual %) - United States",
-    "slug": "inflation-consumer-prices-annual-united-states",
-    "date": "2026-07-02",
-    "displayDate": "July 2, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Inflation, consumer prices in the United States for 2026 is 3.8%. The Consumer Price Index measures annual percentage change in cost of goods and services. The ",
-    "excerpt": "Inflation, consumer prices in the United States for 2026 is 3.8%. The Consumer Price Index measures annual percentage change in cost of goods and services. The latest data is from Trading Economics.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Inflation, consumer prices (annual %) - United States"
     },
     "readingTime": 3
   },
@@ -1634,27 +1907,6 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "Live Bitcoin Price, Charts & News - BTC Today | eToro"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "live-updates-interest-rates-steady-federal-reserve-forecasts-1-rate",
-    "type": "news",
-    "title": "Live updates: Interest rates steady, Federal Reserve forecasts 1 rate ...",
-    "slug": "live-updates-interest-rates-steady-federal-reserve-forecasts-1-rate",
-    "date": "2026-07-02",
-    "displayDate": "July 2, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Reserve held interest rates steady and forecasts one rate cut in 2026. Powell emphasized uncertainty surrounding inflation and the economy. The Fed'",
-    "excerpt": "The Federal Reserve held interest rates steady and forecasts one rate cut in 2026. Powell emphasized uncertainty surrounding inflation and the economy. The Fed's benchmark rate remains at 5.25%-5.50%.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Live updates: Interest rates steady, Federal Reserve forecasts 1 rate ..."
     },
     "readingTime": 3
   },
@@ -1718,27 +1970,6 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "Sector & Industry Performance"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "sectors-stock-market-usa-tradingview",
-    "type": "news",
-    "title": "Sectors — Stock Market — USA - TradingView",
-    "slug": "sectors-stock-market-usa-tradingview",
-    "date": "2026-07-02",
-    "displayDate": "July 2, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The top sectors in the US stock market include Technology Services, Communications, Consumer Non-Durables, Energy Minerals, and Consumer Services. The Technolog",
-    "excerpt": "The top sectors in the US stock market include Technology Services, Communications, Consumer Non-Durables, Energy Minerals, and Consumer Services. The Technology Services sector leads with the highest market capitalization. The most active sector is Consumer Services.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Sectors — Stock Market — USA - TradingView"
     },
     "readingTime": 3
   },
@@ -1953,27 +2184,6 @@
     "readingTime": 3
   },
   {
-    "id": "u-s-stock-market-headlines-breaking-stock-market-news",
-    "type": "news",
-    "title": "U.S. Stock Market Headlines | Breaking Stock Market News",
-    "slug": "u-s-stock-market-headlines-breaking-stock-market-news",
-    "date": "2026-07-02",
-    "displayDate": "July 2, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "U.S. stocks closed slightly lower, with technology shares declining, but Meta Platforms' gains provided support. Micron joined the $1 trillion market cap club, ",
-    "excerpt": "U.S. stocks closed slightly lower, with technology shares declining, but Meta Platforms' gains provided support. Micron joined the $1 trillion market cap club, and Qualcomm surged on a ByteDance deal. SpaceX IPO sparked interest in space stocks and ETFs.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "U.S. Stock Market Headlines | Breaking Stock Market News"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "unemployment-rate-fred-st-louis-fed",
     "type": "news",
     "title": "Unemployment Rate | FRED | St. Louis Fed",
@@ -2054,27 +2264,6 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "US data. Note: The unemployment rate, GDP growth, CPI inflation ..."
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "when-is-the-next-fed-interest-rate-decision-equals-money",
-    "type": "news",
-    "title": "When is the next Fed interest rate decision? - Equals Money",
-    "slug": "when-is-the-next-fed-interest-rate-decision-equals-money",
-    "date": "2026-07-02",
-    "displayDate": "July 2, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The next Federal Reserve interest rate decision is scheduled for April 29, 2026, at 18:00 GMT, during an FOMC meeting. The FOMC meets eight times a year to set ",
-    "excerpt": "The next Federal Reserve interest rate decision is scheduled for April 29, 2026, at 18:00 GMT, during an FOMC meeting. The FOMC meets eight times a year to set monetary policy. The last decision was kept unchanged at 3.50% to 3.75% on March 18, 2026.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "When is the next Fed interest rate decision? - Equals Money"
     },
     "readingTime": 3
   },
@@ -3146,27 +3335,6 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "Earnings Calendar & Events - Wall Street Horizon"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "earnings-calendar-zacks-investment-research",
-    "type": "news",
-    "title": "Earnings Calendar - Zacks Investment Research",
-    "slug": "earnings-calendar-zacks-investment-research",
-    "date": "2026-06-10",
-    "displayDate": "June 10, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Zacks Investment Research's earnings calendar provides upcoming earnings reports for stocks. It helps investors prepare for market volatility. The calendar is a",
-    "excerpt": "Zacks Investment Research's earnings calendar provides upcoming earnings reports for stocks. It helps investors prepare for market volatility. The calendar is available at https://www.zacks.com/earnings/earnings-calendar.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Earnings Calendar - Zacks Investment Research"
     },
     "readingTime": 3
   },
