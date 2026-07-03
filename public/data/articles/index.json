@@ -126,6 +126,27 @@
     "readingTime": 3
   },
   {
+    "id": "coindesk-bitcoin-ethereum-xrp-crypto-news-and-price-data",
+    "type": "news",
+    "title": "CoinDesk: Bitcoin, Ethereum, XRP, Crypto News and Price Data",
+    "slug": "coindesk-bitcoin-ethereum-xrp-crypto-news-and-price-data",
+    "date": "2026-07-03",
+    "displayDate": "July 3, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "CoinDesk is a leading source for cryptocurrency news, analysis, and price data for Bitcoin, Ethereum, and XRP. It provides live updates and in-depth reports on ",
+    "excerpt": "CoinDesk is a leading source for cryptocurrency news, analysis, and price data for Bitcoin, Ethereum, and XRP. It provides live updates and in-depth reports on blockchain technology and digital finance. The site features market analysis and regulatory news.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "CoinDesk: Bitcoin, Ethereum, XRP, Crypto News and Price Data"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "company-earnings-calendar-yahoo-finance",
     "type": "news",
     "title": "Company Earnings Calendar - Yahoo Finance",
@@ -164,6 +185,48 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "CPI Home : U.S. Bureau of Labor Statistics"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "crypto-news-bitcoin-ethereum-xrp-news-crypto-news",
+    "type": "news",
+    "title": "Crypto News: Bitcoin, Ethereum & XRP News | crypto.news",
+    "slug": "crypto-news-bitcoin-ethereum-xrp-news-crypto-news",
+    "date": "2026-07-03",
+    "displayDate": "July 3, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin holds above $60,000, Ethereum eyes $1,700 breakout, and Ripple partners with Mastercard for AI payments.",
+    "excerpt": "Bitcoin holds above $60,000, Ethereum eyes $1,700 breakout, and Ripple partners with Mastercard for AI payments.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Crypto News: Bitcoin, Ethereum & XRP News | crypto.news"
+    },
+    "readingTime": 5
+  },
+  {
+    "id": "earnings-calendar-nasdaq",
+    "type": "news",
+    "title": "Earnings Calendar - Nasdaq",
+    "slug": "earnings-calendar-nasdaq",
+    "date": "2026-07-03",
+    "displayDate": "July 3, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Nasdaq earnings calendar is available at https://www.nasdaq.com/market-activity/earnings. Key companies' earnings can be tracked on TradingView. Nasdaq's qu",
+    "excerpt": "The Nasdaq earnings calendar is available at https://www.nasdaq.com/market-activity/earnings. Key companies' earnings can be tracked on TradingView. Nasdaq's quarterly earnings reports are accessible at https://ir.nasdaq.com/financials/quarterly-results.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Earnings Calendar - Nasdaq"
     },
     "readingTime": 3
   },
@@ -248,6 +311,48 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "Federal Open Market Committee - Wikipedia"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "federal-reserve-economic-data-fred-st-louis-fed",
+    "type": "news",
+    "title": "Federal Reserve Economic Data | FRED | St. Louis Fed",
+    "slug": "federal-reserve-economic-data-fred-st-louis-fed",
+    "date": "2026-07-03",
+    "displayDate": "July 3, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "FRED is a comprehensive economic database maintained by the St. Louis Fed, offering over 800,000 time series data on various economic indicators. It provides ac",
+    "excerpt": "FRED is a comprehensive economic database maintained by the St. Louis Fed, offering over 800,000 time series data on various economic indicators. It provides access to data on banking, employment, and financial markets. Users can download data and view charts.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Federal Reserve Economic Data | FRED | St. Louis Fed"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "finance-and-markets-wsj-com",
+    "type": "news",
+    "title": "Finance and Markets - WSJ.com",
+    "slug": "finance-and-markets-wsj-com",
+    "date": "2026-07-03",
+    "displayDate": "July 3, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The S&P 500 closed 0.2% lower, and markets await the upcoming jobs report. Tesla's sales increased, but its stock had a significant decline. Treasury yields sho",
+    "excerpt": "The S&P 500 closed 0.2% lower, and markets await the upcoming jobs report. Tesla's sales increased, but its stock had a significant decline. Treasury yields showed mixed reactions following the jobs data release.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Finance and Markets - WSJ.com"
     },
     "readingTime": 3
   },
@@ -378,6 +483,27 @@
     "readingTime": 3
   },
   {
+    "id": "meta-title-sectors-yahoo-finance",
+    "type": "news",
+    "title": "META_TITLE_SECTORS - Yahoo Finance",
+    "slug": "meta-title-sectors-yahoo-finance",
+    "date": "2026-07-03",
+    "displayDate": "July 3, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The technology sector on Yahoo Finance includes sub-sectors like semiconductors, software, and consumer electronics, with recent news highlighting AI's impact o",
+    "excerpt": "The technology sector on Yahoo Finance includes sub-sectors like semiconductors, software, and consumer electronics, with recent news highlighting AI's impact on earnings. The sector's performance varies, with some sub-sectors experiencing gains and others losses.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "META_TITLE_SECTORS - Yahoo Finance"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "monetary-policy-federal-reserve-board",
     "type": "news",
     "title": "Monetary Policy - Federal Reserve Board",
@@ -462,6 +588,27 @@
     "readingTime": 3
   },
   {
+    "id": "sector-industry-performance-bloomberg-com",
+    "type": "news",
+    "title": "Sector & Industry Performance - Bloomberg.com",
+    "slug": "sector-industry-performance-bloomberg-com",
+    "date": "2026-07-03",
+    "displayDate": "July 3, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Sector and industry performance shows recent tech-led selloff rebound, with gold climbing and jobs data aiding Fed decisions. Nigeria's market reforms face poli",
+    "excerpt": "Sector and industry performance shows recent tech-led selloff rebound, with gold climbing and jobs data aiding Fed decisions. Nigeria's market reforms face political challenges, while Saudi Arabia exports the most crude since the Iran war truce. Tech stocks retreat ahead of US payrolls report.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Sector & Industry Performance - Bloomberg.com"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "sector-industry-performance-bloomberg",
     "type": "news",
     "title": "Sector & Industry Performance - Bloomberg",
@@ -483,6 +630,69 @@
     "readingTime": 3
   },
   {
+    "id": "sector-views-monthly-stock-sector-outlook-charles-schwab",
+    "type": "news",
+    "title": "Sector Views: Monthly Stock Sector Outlook - Charles Schwab",
+    "slug": "sector-views-monthly-stock-sector-outlook-charles-schwab",
+    "date": "2026-07-03",
+    "displayDate": "July 3, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Charles Schwab's monthly stock sector outlook analyzes the performance of the 11 S&P 500 sectors. It provides insights for investors. The latest outlook is from",
+    "excerpt": "Charles Schwab's monthly stock sector outlook analyzes the performance of the 11 S&P 500 sectors. It provides insights for investors. The latest outlook is from June 2026.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Sector Views: Monthly Stock Sector Outlook - Charles Schwab"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "stock-earnings-calendar-earnings-reports-today-this-week",
+    "type": "news",
+    "title": "Stock Earnings Calendar | Earnings Reports Today & This Week",
+    "slug": "stock-earnings-calendar-earnings-reports-today-this-week",
+    "date": "2026-07-03",
+    "displayDate": "July 3, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Today and this week, key companies are reporting earnings. Notable reports include major players with significant market impact. For detailed schedules, check f",
+    "excerpt": "Today and this week, key companies are reporting earnings. Notable reports include major players with significant market impact. For detailed schedules, check financial news platforms.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Stock Earnings Calendar | Earnings Reports Today & This Week"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "stock-market-news-today-edward-jones",
+    "type": "news",
+    "title": "Stock Market News Today | Edward Jones",
+    "slug": "stock-market-news-today-edward-jones",
+    "date": "2026-07-03",
+    "displayDate": "July 3, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Today's stock market news from Edward Jones includes daily updates on bond and stock market performance. For the latest insights, visit their financial market p",
+    "excerpt": "Today's stock market news from Edward Jones includes daily updates on bond and stock market performance. For the latest insights, visit their financial market page. Weekly updates are also available for past week's market performance.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Stock Market News Today | Edward Jones"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "stock-market-sector-analysis-and-performance-weekly-changes",
     "type": "news",
     "title": "Stock Market Sector Analysis and Performance - Weekly Changes",
@@ -500,6 +710,48 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "Stock Market Sector Analysis and Performance - Weekly Changes"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "tech-cnn-business",
+    "type": "news",
+    "title": "Tech | CNN Business",
+    "slug": "tech-cnn-business",
+    "date": "2026-07-03",
+    "displayDate": "July 3, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "TECH is a leading sector in innovation, with companies driving advancements in diagnostics and biotechnology. Its stock has shown significant growth, trading ne",
+    "excerpt": "TECH is a leading sector in innovation, with companies driving advancements in diagnostics and biotechnology. Its stock has shown significant growth, trading near the top of its 52-week range. Recent financials show revenue and EPS growth, despite a net income decline.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Tech | CNN Business"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "technology-bloomberg-com",
+    "type": "news",
+    "title": "Technology - Bloomberg.com",
+    "slug": "technology-bloomberg-com",
+    "date": "2026-07-03",
+    "displayDate": "July 3, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bloomberg's technology section covers AI, big tech, cybersecurity, consumer tech, and startups. Bloomberg Tech is a daily news program hosted by Ed Ludlow. Bloo",
+    "excerpt": "Bloomberg's technology section covers AI, big tech, cybersecurity, consumer tech, and startups. Bloomberg Tech is a daily news program hosted by Ed Ludlow. Bloomberg applies AI and machine learning in financial models.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Technology - Bloomberg.com"
     },
     "readingTime": 3
   },
@@ -546,6 +798,27 @@
     "readingTime": 3
   },
   {
+    "id": "the-block-bitcoin-ethereum-crypto-news-live-prices",
+    "type": "news",
+    "title": "The Block: Bitcoin, Ethereum & Crypto News | Live Prices ...",
+    "slug": "the-block-bitcoin-ethereum-crypto-news-live-prices",
+    "date": "2026-07-03",
+    "displayDate": "July 3, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Block reports latest crypto news; Bitcoin and Ethereum updates are available; live prices and market analysis are featured.",
+    "excerpt": "The Block reports latest crypto news; Bitcoin and Ethereum updates are available; live prices and market analysis are featured.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "The Block: Bitcoin, Ethereum & Crypto News | Live Prices ..."
+    },
+    "readingTime": 3
+  },
+  {
     "id": "the-fed-meeting-calendars-and-information-federal-reserve",
     "type": "news",
     "title": "The Fed - Meeting calendars and information - Federal Reserve",
@@ -563,6 +836,27 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "The Fed - Meeting calendars and information - Federal Reserve"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "the-fed-meeting-calendars-and-information",
+    "type": "news",
+    "title": "The Fed - Meeting calendars and information",
+    "slug": "the-fed-meeting-calendars-and-information",
+    "date": "2026-07-03",
+    "displayDate": "July 3, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Reserve Bank is open on July 3, 2026, but the Board of Governors is closed. The next FOMC meeting is scheduled for July 31, 2026. Federal Reserve st",
+    "excerpt": "The Federal Reserve Bank is open on July 3, 2026, but the Board of Governors is closed. The next FOMC meeting is scheduled for July 31, 2026. Federal Reserve staff do not speak publicly around FOMC meetings.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "The Fed - Meeting calendars and information"
     },
     "readingTime": 3
   },
@@ -588,6 +882,48 @@
     "readingTime": 3
   },
   {
+    "id": "u-s-stock-market-headlines-breaking-stock-market-news-reuters",
+    "type": "news",
+    "title": "U.S. Stock Market Headlines | Breaking Stock Market News - Reuters",
+    "slug": "u-s-stock-market-headlines-breaking-stock-market-news-reuters",
+    "date": "2026-07-03",
+    "displayDate": "July 3, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Nasdaq closed lower on July 2 as tech stocks declined. The Federal Reserve's concerns eased due to a weaker-than-expected U.S. jobs report. Current market t",
+    "excerpt": "The Nasdaq closed lower on July 2 as tech stocks declined. The Federal Reserve's concerns eased due to a weaker-than-expected U.S. jobs report. Current market trends reflect these shifts.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "U.S. Stock Market Headlines | Breaking Stock Market News - Reuters"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "united-states-economic-indicators-moody-s-analytics",
+    "type": "news",
+    "title": "United States | Economic Indicators | Moody's Analytics",
+    "slug": "united-states-economic-indicators-moody-s-analytics",
+    "date": "2026-07-03",
+    "displayDate": "July 3, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The U.S. unemployment rate is 4.2% in June 2026, and GDP growth is 2.1% for the quarter ending March 2026. The annual GDP growth rate is 2.7% for March 2026. Th",
+    "excerpt": "The U.S. unemployment rate is 4.2% in June 2026, and GDP growth is 2.1% for the quarter ending March 2026. The annual GDP growth rate is 2.7% for March 2026. The government consumption was $5,416,715 million in Q1 2026.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "United States | Economic Indicators | Moody's Analytics"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "united-states-economy-at-a-glance-bureau-of-labor-statistics",
     "type": "news",
     "title": "United States Economy at a Glance - Bureau of Labor Statistics",
@@ -605,6 +941,69 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "United States Economy at a Glance - Bureau of Labor Statistics"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "united-states-economy-at-a-glance",
+    "type": "news",
+    "title": "United States Economy at a Glance",
+    "slug": "united-states-economy-at-a-glance",
+    "date": "2026-07-03",
+    "displayDate": "July 3, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "In Q1 2026, U.S. GDP grew 2.1%, personal income rose 0.7% in May, and the trade deficit narrowed in April. The current-account deficit widened to $226.8 billion",
+    "excerpt": "In Q1 2026, U.S. GDP grew 2.1%, personal income rose 0.7% in May, and the trade deficit narrowed in April. The current-account deficit widened to $226.8 billion.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "United States Economy at a Glance"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "united-states-indicators-trading-economics",
+    "type": "news",
+    "title": "United States Indicators - Trading Economics",
+    "slug": "united-states-indicators-trading-economics",
+    "date": "2026-07-03",
+    "displayDate": "July 3, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The United States GDP annual growth rate is 2.7% as of March 2026, and the unemployment rate is 4.2% as of June 2026.",
+    "excerpt": "The United States GDP annual growth rate is 2.7% as of March 2026, and the unemployment rate is 4.2% as of June 2026.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "United States Indicators - Trading Economics"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "us-stock-market-earnings-calendar",
+    "type": "news",
+    "title": "US Stock Market Earnings Calendar",
+    "slug": "us-stock-market-earnings-calendar",
+    "date": "2026-07-03",
+    "displayDate": "July 3, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The US Stock Market Earnings Calendar is available on Investing.com, TradingView, and Market Chameleon. Key companies like Tesla, Amazon, and Apple report earni",
+    "excerpt": "The US Stock Market Earnings Calendar is available on Investing.com, TradingView, and Market Chameleon. Key companies like Tesla, Amazon, and Apple report earnings. Use these resources for upcoming announcements.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "US Stock Market Earnings Calendar"
     },
     "readingTime": 3
   },
@@ -754,27 +1153,6 @@
       "alt": "Consumer Price Index, 1913- | Federal Reserve Bank of Minneapolis"
     },
     "readingTime": 3
-  },
-  {
-    "id": "crypto-news-bitcoin-ethereum-xrp-news-crypto-news",
-    "type": "news",
-    "title": "Crypto News: Bitcoin, Ethereum & XRP News | crypto.news",
-    "slug": "crypto-news-bitcoin-ethereum-xrp-news-crypto-news",
-    "date": "2026-07-02",
-    "displayDate": "July 2, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Bitcoin and Ethereum prices are volatile, with recent news indicating significant market movements. Ripple's legal battles continue to impact XRP's market dynam",
-    "excerpt": "Bitcoin and Ethereum prices are volatile, with recent news indicating significant market movements. Ripple's legal battles continue to impact XRP's market dynamics. Stay informed on regulatory developments affecting cryptocurrencies.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Crypto News: Bitcoin, Ethereum & XRP News | crypto.news"
-    },
-    "readingTime": 5
   },
   {
     "id": "cryptocurrency-market-today-news-prices-ideas-tradingview",
@@ -1281,27 +1659,6 @@
     "readingTime": 3
   },
   {
-    "id": "meta-title-sectors-yahoo-finance",
-    "type": "news",
-    "title": "META_TITLE_SECTORS - Yahoo Finance",
-    "slug": "meta-title-sectors-yahoo-finance",
-    "date": "2026-07-02",
-    "displayDate": "July 2, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Yahoo Finance lists sectors including Technology, Financial Services, Healthcare, and Consumer Defensive, with Technology currently underperforming. The YTD ret",
-    "excerpt": "Yahoo Finance lists sectors including Technology, Financial Services, Healthcare, and Consumer Defensive, with Technology currently underperforming. The YTD return for all sectors is 13.33%.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "META_TITLE_SECTORS - Yahoo Finance"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "s-p-500-ideas-spcfd-spx",
     "type": "news",
     "title": "S&P 500 Ideas — SPCFD:SPX",
@@ -1596,27 +1953,6 @@
     "readingTime": 3
   },
   {
-    "id": "u-s-stock-market-headlines-breaking-stock-market-news-reuters",
-    "type": "news",
-    "title": "U.S. Stock Market Headlines | Breaking Stock Market News - Reuters",
-    "slug": "u-s-stock-market-headlines-breaking-stock-market-news-reuters",
-    "date": "2026-07-02",
-    "displayDate": "July 2, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Wall Street closed lower as tech shares declined. Experts predict the S&P 500 will reach 7,900 this year. AI-driven capex spending is expected to boost market g",
-    "excerpt": "Wall Street closed lower as tech shares declined. Experts predict the S&P 500 will reach 7,900 this year. AI-driven capex spending is expected to boost market growth.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "U.S. Stock Market Headlines | Breaking Stock Market News - Reuters"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "u-s-stock-market-headlines-breaking-stock-market-news",
     "type": "news",
     "title": "U.S. Stock Market Headlines | Breaking Stock Market News",
@@ -1655,48 +1991,6 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "Unemployment Rate | FRED | St. Louis Fed"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "united-states-economic-indicators-moody-s-analytics",
-    "type": "news",
-    "title": "United States | Economic Indicators | Moody's Analytics",
-    "slug": "united-states-economic-indicators-moody-s-analytics",
-    "date": "2026-07-02",
-    "displayDate": "July 2, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The U.S. GDP annual growth rate is 2.7% in March 2026, and the unemployment rate is 4.3% in May 2026. The Purchasing Managers index for June 2026 is 53.3.",
-    "excerpt": "The U.S. GDP annual growth rate is 2.7% in March 2026, and the unemployment rate is 4.3% in May 2026. The Purchasing Managers index for June 2026 is 53.3.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "United States | Economic Indicators | Moody's Analytics"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "united-states-indicators-trading-economics",
-    "type": "news",
-    "title": "United States Indicators - Trading Economics",
-    "slug": "united-states-indicators-trading-economics",
-    "date": "2026-07-02",
-    "displayDate": "July 2, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The United States GDP annual growth rate is 2.7% as of March 2026, and the unemployment rate is 4.3% as of May 2026. The latest United States news was updated o",
-    "excerpt": "The United States GDP annual growth rate is 2.7% as of March 2026, and the unemployment rate is 4.3% as of May 2026. The latest United States news was updated on July 1, 2026.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "United States Indicators - Trading Economics"
     },
     "readingTime": 3
   },
@@ -2037,27 +2331,6 @@
     "readingTime": 3
   },
   {
-    "id": "coindesk-bitcoin-ethereum-xrp-crypto-news-and-price-data",
-    "type": "news",
-    "title": "CoinDesk: Bitcoin, Ethereum, XRP, Crypto News and Price Data",
-    "slug": "coindesk-bitcoin-ethereum-xrp-crypto-news-and-price-data",
-    "date": "2026-07-01",
-    "displayDate": "July 1, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "CoinDesk is a leading source for cryptocurrency news, analysis, and price data for Bitcoin, Ethereum, and XRP. It provides live updates and in-depth reports on ",
-    "excerpt": "CoinDesk is a leading source for cryptocurrency news, analysis, and price data for Bitcoin, Ethereum, and XRP. It provides live updates and in-depth reports on blockchain technology and digital finance. The site also features insights on regulatory developments and market trends.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "CoinDesk: Bitcoin, Ethereum, XRP, Crypto News and Price Data"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "earnings-calendar-and-analysis-for-this-week-june-29",
     "type": "news",
     "title": "Earnings Calendar and Analysis for This Week (June 29- ...",
@@ -2075,27 +2348,6 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "Earnings Calendar and Analysis for This Week (June 29- ..."
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "earnings-calendar-nasdaq",
-    "type": "news",
-    "title": "Earnings Calendar - Nasdaq",
-    "slug": "earnings-calendar-nasdaq",
-    "date": "2026-07-01",
-    "displayDate": "July 1, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Nasdaq earnings calendar is available at https://www.nasdaq.com/market-activity/earnings. Investing.com also offers an earnings calendar at https://www.inve",
-    "excerpt": "The Nasdaq earnings calendar is available at https://www.nasdaq.com/market-activity/earnings. Investing.com also offers an earnings calendar at https://www.investing.com/earnings-calendar.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Earnings Calendar - Nasdaq"
     },
     "readingTime": 3
   },
@@ -2625,27 +2877,6 @@
     "readingTime": 3
   },
   {
-    "id": "sector-industry-performance-bloomberg-com",
-    "type": "news",
-    "title": "Sector & Industry Performance - Bloomberg.com",
-    "slug": "sector-industry-performance-bloomberg-com",
-    "date": "2026-07-01",
-    "displayDate": "July 1, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Japan's manufacturing confidence is at its highest since 2018, and Australia proposes reforms for its consulting sector. Nike's earnings exceeded expectations. ",
-    "excerpt": "Japan's manufacturing confidence is at its highest since 2018, and Australia proposes reforms for its consulting sector. Nike's earnings exceeded expectations. For sector performance, visit Bloomberg's sector page.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Sector & Industry Performance - Bloomberg.com"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "sector-research-news-and-performance-sector-industries",
     "type": "news",
     "title": "Sector Research, News and Performance | Sector Industries",
@@ -2663,27 +2894,6 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "Sector Research, News and Performance | Sector Industries"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "sector-views-monthly-stock-sector-outlook-charles-schwab",
-    "type": "news",
-    "title": "Sector Views: Monthly Stock Sector Outlook - Charles Schwab",
-    "slug": "sector-views-monthly-stock-sector-outlook-charles-schwab",
-    "date": "2026-07-01",
-    "displayDate": "July 1, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Charles Schwab's monthly stock sector outlook covers the 11 S&P 500 sectors, providing insights on their performance. The outlook helps investors understand sec",
-    "excerpt": "Charles Schwab's monthly stock sector outlook covers the 11 S&P 500 sectors, providing insights on their performance. The outlook helps investors understand sector trends and potential opportunities. Schwab's analysis includes key facts about stock sectors.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Sector Views: Monthly Stock Sector Outlook - Charles Schwab"
     },
     "readingTime": 3
   },
@@ -2726,27 +2936,6 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "Stock market outlook midyear 2026 - Fidelity Investments"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "the-block-bitcoin-ethereum-crypto-news-live-prices",
-    "type": "news",
-    "title": "The Block: Bitcoin, Ethereum & Crypto News | Live Prices ...",
-    "slug": "the-block-bitcoin-ethereum-crypto-news-live-prices",
-    "date": "2026-07-01",
-    "displayDate": "July 1, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Block reports SEC opens ETF rule review; CoinDesk highlights U.S. spot Bitcoin ETFs' poor performance in June; latest crypto news includes Visa joining Open",
-    "excerpt": "The Block reports SEC opens ETF rule review; CoinDesk highlights U.S. spot Bitcoin ETFs' poor performance in June; latest crypto news includes Visa joining Open USD stablecoin initiative.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "The Block: Bitcoin, Ethereum & Crypto News | Live Prices ..."
     },
     "readingTime": 3
   },
@@ -3360,27 +3549,6 @@
     "readingTime": 3
   },
   {
-    "id": "tech-cnn-business",
-    "type": "news",
-    "title": "Tech | CNN Business",
-    "slug": "tech-cnn-business",
-    "date": "2026-06-10",
-    "displayDate": "June 10, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The CNN Business tech section covers major tech companies and innovations, including Apple's WWDC and emerging AI apps. For more details, visit the official CNN",
-    "excerpt": "The CNN Business tech section covers major tech companies and innovations, including Apple's WWDC and emerging AI apps. For more details, visit the official CNN Business website.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Tech | CNN Business"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "tech-news-today-s-latest-technology-news-reuters",
     "type": "news",
     "title": "Tech News | Today's Latest Technology News | Reuters",
@@ -3398,27 +3566,6 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "Tech News | Today's Latest Technology News | Reuters"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "technology-bloomberg-com",
-    "type": "news",
-    "title": "Technology - Bloomberg.com",
-    "slug": "technology-bloomberg-com",
-    "date": "2026-06-10",
-    "displayDate": "June 10, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Russia has restored access to the Roblox gaming platform, according to Interfax. ASML Holding NV plans to cut fewer jobs than initially planned and delay layoff",
-    "excerpt": "Russia has restored access to the Roblox gaming platform, according to Interfax. ASML Holding NV plans to cut fewer jobs than initially planned and delay layoffs. Bloomberg Technology covers global tech industry news.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Technology - Bloomberg.com"
     },
     "readingTime": 3
   },
@@ -3545,27 +3692,6 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "United States Federal Reserve Interest Rate Decision"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "us-stock-market-earnings-calendar",
-    "type": "news",
-    "title": "US Stock Market Earnings Calendar",
-    "slug": "us-stock-market-earnings-calendar",
-    "date": "2026-06-10",
-    "displayDate": "June 10, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The US stock market earnings calendar lists upcoming earnings reports, including forecasts and actual results for major companies. Key upcoming reports include ",
-    "excerpt": "The US stock market earnings calendar lists upcoming earnings reports, including forecasts and actual results for major companies. Key upcoming reports include Oracle Corp. on May 31, 2026. MarketWatch provides detailed earnings forecasts.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "US Stock Market Earnings Calendar"
     },
     "readingTime": 3
   },
@@ -4196,27 +4322,6 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "Tech - CNBC"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "the-fed-meeting-calendars-and-information",
-    "type": "news",
-    "title": "The Fed - Meeting calendars and information",
-    "slug": "the-fed-meeting-calendars-and-information",
-    "date": "2026-06-08",
-    "displayDate": "June 8, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Reserve's next FOMC meeting is on July 30-31, 2026. The Federal Reserve Banks are closed on July 3, 2026, and July 5, 2027. Staff do not speak publi",
-    "excerpt": "The Federal Reserve's next FOMC meeting is on July 30-31, 2026. The Federal Reserve Banks are closed on July 3, 2026, and July 5, 2027. Staff do not speak publicly between FOMC meetings.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "The Fed - Meeting calendars and information"
     },
     "readingTime": 3
   },
@@ -4910,27 +5015,6 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "Meeting calendars and information"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "stock-earnings-calendar-earnings-reports-today-this-week",
-    "type": "news",
-    "title": "Stock Earnings Calendar | Earnings Reports Today & This Week",
-    "slug": "stock-earnings-calendar-earnings-reports-today-this-week",
-    "date": "2026-06-06",
-    "displayDate": "June 6, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Today and this week, key earnings reports are scheduled from notable companies. Check the Investing.com calendar for detailed forecasts and outcomes. For live u",
-    "excerpt": "Today and this week, key earnings reports are scheduled from notable companies. Check the Investing.com calendar for detailed forecasts and outcomes. For live updates, visit StockTwits.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Stock Earnings Calendar | Earnings Reports Today & This Week"
     },
     "readingTime": 3
   },

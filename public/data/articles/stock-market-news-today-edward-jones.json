@@ -1,0 +1,52 @@
+{
+  "id": "stock-market-news-today-edward-jones",
+  "type": "news",
+  "title": "Stock Market News Today | Edward Jones",
+  "slug": "stock-market-news-today-edward-jones",
+  "date": "2026-07-03",
+  "displayDate": "July 3, 2026",
+  "author": "Sigma Capital",
+  "category": "Market Analysis",
+  "tags": [
+    "market analysis",
+    "financial news",
+    "market update"
+  ],
+  "metaDescription": "Today's stock market news from Edward Jones includes daily updates on bond and stock market performance. For the latest insights, visit their financial market p",
+  "excerpt": "Today's stock market news from Edward Jones includes daily updates on bond and stock market performance. For the latest insights, visit their financial market page. Weekly updates are also available for past week's market performance.",
+  "content": {
+    "introduction": "Today's stock market news from Edward Jones includes daily updates on bond and stock market performance. For the latest insights, visit their financial market page. Weekly updates are also available for past week's market performance.",
+    "body": [
+      "Get today's stock market news from Edward Jones. Bond and stock market news updated daily when the U.S. stock market is open.",
+      "Follow the latest stock market news with Edward Jones. Get breaking business and stock news, market data, daily and monthly stock market outlooks,",
+      "Get Market Updates and insights from experts at Edward Jones covering last week's performance."
+    ],
+    "keyTakeaways": [
+      "Today's stock market news from Edward Jones includes daily updates on bond and stock market performance. For the latest ",
+      "Get today's stock market news from Edward Jones. Bond and stock market news updated daily when the U",
+      "Follow the latest stock market news with Edward Jones. Get breaking business and stock news, market data, daily and mont"
+    ],
+    "source": "edwardjones.com",
+    "sourceUrl": "https://www.edwardjones.com/us-en/market-news-insights/stock-market-news/daily-market-recap"
+  },
+  "readingTime": 3,
+  "updatedAt": "2026-07-03T08:55:48.524Z",
+  "images": {
+    "thumbnail": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Stock Market News Today | Edward Jones"
+    },
+    "hero": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Stock Market News Today | Edward Jones"
+    },
+    "mid": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Stock Market News Today | Edward Jones"
+    }
+  },
+  "image": {
+    "src": "/images/article_thumb_1.jpg",
+    "alt": "Stock Market News Today | Edward Jones"
+  }
+}
