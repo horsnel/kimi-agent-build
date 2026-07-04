@@ -3,8 +3,8 @@
   "type": "news",
   "title": "GDP, CPI and other key economic reports",
   "slug": "gdp-cpi-and-other-key-economic-reports",
-  "date": "2026-07-01",
-  "displayDate": "July 1, 2026",
+  "date": "2026-07-04",
+  "displayDate": "July 4, 2026",
   "author": "Sigma Capital",
   "category": "Economic Data",
   "tags": [
@@ -30,23 +30,23 @@
     "sourceUrl": "https://www.bankrate.com/rates/economic-indicators/reports"
   },
   "readingTime": 3,
-  "updatedAt": "2026-07-01T14:43:40.448Z",
+  "updatedAt": "2026-07-04T03:29:45.178Z",
   "images": {
     "thumbnail": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "GDP, CPI and other key economic reports"
     },
     "hero": {
-      "src": "/images/article_thumb_1.jpg",
+      "src": "/images/article_thumb_5.jpg",
       "alt": "GDP, CPI and other key economic reports"
     },
     "mid": {
-      "src": "/images/article_thumb_6.jpg",
+      "src": "/images/article_thumb_5.jpg",
       "alt": "GDP, CPI and other key economic reports"
     }
   },
   "image": {
-    "src": "/images/article_thumb_1.jpg",
+    "src": "/images/article_thumb_6.jpg",
     "alt": "GDP, CPI and other key economic reports"
   }
 }
