@@ -3,8 +3,8 @@
   "type": "news",
   "title": "Sector & Industry Performance - Bloomberg",
   "slug": "sector-industry-performance-bloomberg",
-  "date": "2026-07-03",
-  "displayDate": "July 3, 2026",
+  "date": "2026-07-04",
+  "displayDate": "July 4, 2026",
   "author": "Sigma Capital",
   "category": "Sector Performance",
   "tags": [
@@ -12,41 +12,41 @@
     "financial news",
     "market update"
   ],
-  "metaDescription": "U.S. sectors and industries show varied performance; tech stocks are volatile, and Saudi Arabia leads oil exports post-Iran truce. For detailed data, use Bloomb",
-  "excerpt": "U.S. sectors and industries show varied performance; tech stocks are volatile, and Saudi Arabia leads oil exports post-Iran truce. For detailed data, use Bloomberg Terminal's BI function.",
+  "metaDescription": "Gulf carriers are seeking Boeing and Airbus jets as Air India considers order delays. Bloomberg provides comprehensive industry data and analysis. For detailed ",
+  "excerpt": "Gulf carriers are seeking Boeing and Airbus jets as Air India considers order delays. Bloomberg provides comprehensive industry data and analysis. For detailed industry insights, use Bloomberg Intelligence.",
   "content": {
-    "introduction": "U.S. sectors and industries show varied performance; tech stocks are volatile, and Saudi Arabia leads oil exports post-Iran truce. For detailed data, use Bloomberg Terminal's BI function.",
+    "introduction": "Gulf carriers are seeking Boeing and Airbus jets as Air India considers order delays. Bloomberg provides comprehensive industry data and analysis. For detailed industry insights, use Bloomberg Intelligence.",
     "body": [
-      "Research the performance of U.S. sectors & industries. Find the latest new and performance information on the markets and track the top global sectors.",
-      "Nigeria’s Reforms Revered by Markets Become Political Problem for Tinubu   Seated beneath a large red canvas umbrella outside Nigeria’s main stock exchange in Lagos, Sulaimon Isiaka watches traders, bankers and executives stream past his newspaper stand each day. Saudi Supertankers Exit Hormuz in Kingdom’s Biggest Oil Flow Since Iran War Truce   Saudi Arabia is exporting the most crude from inside the Persian Gulf since the the Iran war blocked the Strait of Hormuz, as producers across the region boost shipments following an interim peace deal between Washington and Tehran. Tech-Stocks Retreat Deepens Ahead of US Payrolls: Markets Wrap   The latest bout of volatility in technology stocks entered a second day, with chipmakers in South Korea bearing the brunt of the selling. The dollar fell and Treasuries wavered ahead of the June US payrolls report. Tech-Stocks Retreat Deepens Ahead of US Payrolls: Markets Wrap. OpenAI has begun preliminary discussions about giving the US government a 5% stake in the ChatGPT-developer.",
-      "# Bloomberg Terminal: Finding Industry Information. A basic introduction to the Bloomberg Terminal. * Finding Public Company Information   Toggle Dropdown;). ## How Do I Find Industry Information? On any page in Bloomberg, type **BI** (which is a mnemonic for *Bloomberg Industries*) and then press GO. Select your industry, using the *All Industries* menu. Scroll or page down to see the full list of Bloomberg's industry sectors. After selecting your industry, choose the data  you would like to see, such as *Themes*, *Earnings*, *Markets*, etc., as categorized on the left side of the page. * << **Previous:** Finding Government Bond Information. * Last Updated: Oct 2, 2024 2:04 PM. * URL: https://libguides.nypl.org/BloombergTerminal."
+      "Bloomberg the Company & Its Products The Company & its ProductsBloomberg Terminal Demo RequestBloomberg Anywhere Remote Login Bloomberg Anywhere LoginBloomberg Customer Support Customer Support. Connecting decision makers to a dynamic network of information, people and ideas, Bloomberg quickly and accurately delivers business and financial information, news and insight around the world. *   Manage Products and Account Information. Updated 18 minutes ago Gulf Carriers Eye Boeing, Airbus Jets as Air India Weighs Delays Airlines in the Persian Gulf are looking to snap up earlier delivery slots for Boeing Co. and Airbus SE aircraft that may be freed up as Air India Ltd. discusses potentially deferring some orders, according to people familiar with the matter. Updated 34 minutes ago Wildfires Ravage Southern France as Next Heat Wave Looms More than 2,000 firefighters are battling to contain wildfires that have ravaged homes and campsites in southern France, forcing thousands to evacuate. Image 4: ECB Is 'Comfortable' With Its Base Scenario, Moulin Says. Updated 10 minutes ago ECB Is 'Comfortable' With Its Base Scenario, Moulin Says.",
+      "# Bloomberg. * Bloomberg Query Language (BQL) as a Tool to Retrieve Data for Analysis in Excel. ## Industry. **Bloomberg Industries** combines the insight from industry analysts with comprehensive data to provide users with a complete view of an industry and its key constituents.To access **Bloomberg Industries** enter **BI .**. Select your industry using the **All Industries menu**, Scroll or page down to see the full list of industry sectors. After selecting your industry, choose the data you would like to see such as **Themes**, **Earnings,** **Markets**, etc., as listed on the left side of the page or the **Tabs** on the top. **BI:**Bloomberg Intelligence provides key industry data, interactive charting and written analysis by Bloomberg Industry experts. Each industry home page features individual modules - **Analysis, Data Library, & Monitor**- allowing users to locate more in-depth industry information. The Data Library features data-sets specific for each industry such as market share, and includes macro and industry factors and company-level operating, financial, and valuation statistics.",
+      "# How do I use Bloomberg: Industry Information. This guide helps you understand how to navigate Bloomberg. ## How to search industry information. * What is the primary product? * What is the industry groups or industry or sub-sectors? * Which industry sector is the primary product grouped under? * What is the GICS of the primary product? * Who are the major players or market leaders in the industry (globally)? * What is the MSCI Index of the industry? You can search Information using the Bloomberg Intelligence for data, research, and analysts insights about industries and companies in an industry, topics, and special reports from the Bloomberg Intelligence Dashboard page. **Bloomberg Intelligence Dashboard page [BI]**. On the Bloomberg Intelligence dashboard screen, you can click an industry (e.g., Healthcare > Biotech & Pharma > Biotech) to bring up its screen. On a selected industry’s screen, you can then click entries for industry outlook, featured research, industry indicators, operating statitics and competitors."
     ],
     "keyTakeaways": [
-      "U.S",
-      "Research the performance of U.S",
-      "Nigeria’s Reforms Revered by Markets Become Political Problem for Tinubu   Seated beneath a large red canvas umbrella ou"
+      "Gulf carriers are seeking Boeing and Airbus jets as Air India considers order delays. Bloomberg provides comprehensive i",
+      "Bloomberg the Company & Its Products The Company & its ProductsBloomberg Terminal Demo RequestBloomberg Anywhere Remote ",
+      "# Bloomberg. * Bloomberg Query Language (BQL) as a Tool to Retrieve Data for Analysis in Excel"
     ],
     "source": "bloomberg.com",
     "sourceUrl": "https://www.bloomberg.com/markets/sectors"
   },
   "readingTime": 3,
-  "updatedAt": "2026-07-03T03:36:54.570Z",
+  "updatedAt": "2026-07-04T08:30:53.459Z",
   "images": {
     "thumbnail": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Sector & Industry Performance - Bloomberg"
-    },
-    "hero": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "Sector & Industry Performance - Bloomberg"
     },
+    "hero": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Sector & Industry Performance - Bloomberg"
+    },
     "mid": {
-      "src": "/images/article_thumb_5.jpg",
+      "src": "/images/article_thumb_4.jpg",
       "alt": "Sector & Industry Performance - Bloomberg"
     }
   },
   "image": {
-    "src": "/images/article_thumb_3.jpg",
+    "src": "/images/article_thumb_1.jpg",
     "alt": "Sector & Industry Performance - Bloomberg"
   }
 }
