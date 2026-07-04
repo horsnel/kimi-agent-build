@@ -231,6 +231,27 @@
     "readingTime": 3
   },
   {
+    "id": "consumer-price-index-cpi-us-prices-collection",
+    "type": "news",
+    "title": "Consumer Price Index (CPI) | US Prices | Collection",
+    "slug": "consumer-price-index-cpi-us-prices-collection",
+    "date": "2026-07-04",
+    "displayDate": "July 4, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Consumer Price Index (CPI) measures average changes in prices paid by consumers for goods and services. As of July 2026, the CPI was 335.12 points. The CPI ",
+    "excerpt": "The Consumer Price Index (CPI) measures average changes in prices paid by consumers for goods and services. As of July 2026, the CPI was 335.12 points. The CPI helps assess inflation trends.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Consumer Price Index (CPI) | US Prices | Collection"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "consumer-price-index-data-from-1913-to-2026",
     "type": "news",
     "title": "Consumer Price Index Data from 1913 to 2026",
@@ -378,6 +399,27 @@
     "readingTime": 3
   },
   {
+    "id": "earnings-calendar-nasdaq",
+    "type": "news",
+    "title": "Earnings Calendar - Nasdaq",
+    "slug": "earnings-calendar-nasdaq",
+    "date": "2026-07-04",
+    "displayDate": "July 4, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Nasdaq earnings calendar is available at https://www.nasdaq.com/market-activity/earnings. Recent earnings reports include Q2 2024 and Q4 2023 releases. For ",
+    "excerpt": "The Nasdaq earnings calendar is available at https://www.nasdaq.com/market-activity/earnings. Recent earnings reports include Q2 2024 and Q4 2023 releases. For historical data, visit https://ir.nasdaq.com/financials/quarterly-results.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Earnings Calendar - Nasdaq"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "earnings-cnbc",
     "type": "news",
     "title": "Earnings - CNBC",
@@ -500,6 +542,69 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "Ethereum (ETH) News, Analysis and Forecast - FXStreet"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "ethereum-eth-news-analysis-and-forecast",
+    "type": "news",
+    "title": "Ethereum (ETH) News, Analysis and Forecast",
+    "slug": "ethereum-eth-news-analysis-and-forecast",
+    "date": "2026-07-04",
+    "displayDate": "July 4, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Ethereum's price is expected to reach $1,646.55 by July 6, 2026, with a potential profit of $838.38 if held until September 2, 2026. This forecast reflects a 83",
+    "excerpt": "Ethereum's price is expected to reach $1,646.55 by July 6, 2026, with a potential profit of $838.38 if held until September 2, 2026. This forecast reflects a 83.84% return on investment. Ethereum's market cap is $2.08 trillion.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Ethereum (ETH) News, Analysis and Forecast"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "ethereum-eth-price-today-news-live-chart",
+    "type": "news",
+    "title": "Ethereum (ETH) Price Today, News & Live Chart",
+    "slug": "ethereum-eth-price-today-news-live-chart",
+    "date": "2026-07-04",
+    "displayDate": "July 4, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Ethereum (ETH) price today is $1,759.34, with a 24-hour trading volume of $8.4 billion. The market cap is $212.3 billion. This data is current as of July 4, 202",
+    "excerpt": "Ethereum (ETH) price today is $1,759.34, with a 24-hour trading volume of $8.4 billion. The market cap is $212.3 billion. This data is current as of July 4, 2026.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Ethereum (ETH) Price Today, News & Live Chart"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "ethereum-usd-price-eth-usd",
+    "type": "news",
+    "title": "Ethereum USD PRICE (ETH-USD)",
+    "slug": "ethereum-usd-price-eth-usd",
+    "date": "2026-07-04",
+    "displayDate": "July 4, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Ethereum's price is $1,763.87, up 2.06% in 24 hours. Sources confirm ETH/USD at $1,760.31. Current price may vary slightly.",
+    "excerpt": "Ethereum's price is $1,763.87, up 2.06% in 24 hours. Sources confirm ETH/USD at $1,760.31. Current price may vary slightly.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Ethereum USD PRICE (ETH-USD)"
     },
     "readingTime": 3
   },
@@ -672,6 +777,27 @@
     "readingTime": 3
   },
   {
+    "id": "healthcare-sector",
+    "type": "news",
+    "title": "Healthcare Sector",
+    "slug": "healthcare-sector",
+    "date": "2026-07-04",
+    "displayDate": "July 4, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The healthcare sector is a major part of the U.S. economy, accounting for 18% of GDP in 2020. It includes companies that manufacture drugs, medical equipment, a",
+    "excerpt": "The healthcare sector is a major part of the U.S. economy, accounting for 18% of GDP in 2020. It includes companies that manufacture drugs, medical equipment, and provide medical services. It is driven by strong demand due to medical research and an aging population.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Healthcare Sector"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "inflation-consumer-prices-annual-united-states-data",
     "type": "news",
     "title": "Inflation, consumer prices (annual %) - United States | Data",
@@ -689,6 +815,48 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "Inflation, consumer prices (annual %) - United States | Data"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "inflation-consumer-prices-annual-united-states",
+    "type": "news",
+    "title": "Inflation, consumer prices (annual %) - United States",
+    "slug": "inflation-consumer-prices-annual-united-states",
+    "date": "2026-07-04",
+    "displayDate": "July 4, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The annual inflation rate for consumer prices in the United States is 3.8% as of July 2026. This reflects the Consumer Price Index's annual percentage change in",
+    "excerpt": "The annual inflation rate for consumer prices in the United States is 3.8% as of July 2026. This reflects the Consumer Price Index's annual percentage change in the cost of a fixed basket of goods and services. The data is sourced from Trading Economics.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Inflation, consumer prices (annual %) - United States"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "inflation-consumer-prices-for-the-united-states-fred",
+    "type": "news",
+    "title": "Inflation, consumer prices for the United States - FRED",
+    "slug": "inflation-consumer-prices-for-the-united-states-fred",
+    "date": "2026-07-04",
+    "displayDate": "July 4, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Inflation, consumer prices for the United States is measured by the Consumer Price Index, reflecting annual changes in the cost of a fixed basket of goods and s",
+    "excerpt": "Inflation, consumer prices for the United States is measured by the Consumer Price Index, reflecting annual changes in the cost of a fixed basket of goods and services. The key series is CPIAUCSL from the U.S. Bureau of Labor Statistics. Current data is available up to July 2026.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Inflation, consumer prices for the United States - FRED"
     },
     "readingTime": 3
   },
@@ -819,6 +987,27 @@
     "readingTime": 3
   },
   {
+    "id": "s-p-500-sp500-technical-analysis-medium-term-investtech",
+    "type": "news",
+    "title": "S&P 500 (SP500) - Technical Analysis - Medium term - Investtech",
+    "slug": "s-p-500-sp500-technical-analysis-medium-term-investtech",
+    "date": "2026-07-04",
+    "displayDate": "July 4, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The S&P 500 is in a rising trend channel in the medium term and is technically slightly positive. Investtech is not liable for any losses from using their analy",
+    "excerpt": "The S&P 500 is in a rising trend channel in the medium term and is technically slightly positive. Investtech is not liable for any losses from using their analyses. The current date is 2026-07-04.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "S&P 500 (SP500) - Technical Analysis - Medium term - Investtech"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "s-p-500-sp500-technical-analysis-medium-term",
     "type": "news",
     "title": "S&P 500 (SP500) - Technical Analysis - Medium term",
@@ -836,6 +1025,27 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "S&P 500 (SP500) - Technical Analysis - Medium term"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "s-p-500-technical-analysis-and-moving-averages-investing-com",
+    "type": "news",
+    "title": "S&P 500 Technical Analysis and Moving Averages - Investing.com",
+    "slug": "s-p-500-technical-analysis-and-moving-averages-investing-com",
+    "date": "2026-07-04",
+    "displayDate": "July 4, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The S&P 500 and its ETF show strong buy signals based on technical analysis, with positive moving averages and indicators. The S&P 500 Futures also indicate a s",
+    "excerpt": "The S&P 500 and its ETF show strong buy signals based on technical analysis, with positive moving averages and indicators. The S&P 500 Futures also indicate a strong buy.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "S&P 500 Technical Analysis and Moving Averages - Investing.com"
     },
     "readingTime": 3
   },
@@ -882,6 +1092,27 @@
     "readingTime": 3
   },
   {
+    "id": "sector-industry-performance",
+    "type": "news",
+    "title": "Sector & Industry Performance",
+    "slug": "sector-industry-performance",
+    "date": "2026-07-04",
+    "displayDate": "July 4, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Sectors like Technology Services and Health Technology are performing well, while Energy Minerals and Consumer Services also show positive trends. For detailed ",
+    "excerpt": "Sectors like Technology Services and Health Technology are performing well, while Energy Minerals and Consumer Services also show positive trends. For detailed sector performance, visit Bloomberg or TradingView.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Sector & Industry Performance"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "sector-views-monthly-stock-sector-outlook-charles-schwab",
     "type": "news",
     "title": "Sector Views: Monthly Stock Sector Outlook - Charles Schwab",
@@ -901,6 +1132,48 @@
       "alt": "Sector Views: Monthly Stock Sector Outlook - Charles Schwab"
     },
     "readingTime": 6
+  },
+  {
+    "id": "sector-views-monthly-stock-sector-outlook",
+    "type": "news",
+    "title": "Sector Views: Monthly Stock Sector Outlook",
+    "slug": "sector-views-monthly-stock-sector-outlook",
+    "date": "2026-07-04",
+    "displayDate": "July 4, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Monthly stock sector outlooks analyze performance trends in 11 S&P 500 sectors; they help investors understand sector-specific risks and opportunities; Schwab F",
+    "excerpt": "Monthly stock sector outlooks analyze performance trends in 11 S&P 500 sectors; they help investors understand sector-specific risks and opportunities; Schwab Funds provides these insights regularly.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Sector Views: Monthly Stock Sector Outlook"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "six-portfolio-strategy-ideas-for-2026-youtube",
+    "type": "news",
+    "title": "Six portfolio strategy ideas for 2026 - YouTube",
+    "slug": "six-portfolio-strategy-ideas-for-2026-youtube",
+    "date": "2026-07-04",
+    "displayDate": "July 4, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "For 2026, consider increasing small caps and emerging markets, staying overweight equities, preparing for sector shifts, using fixed income for stability, deplo",
+    "excerpt": "For 2026, consider increasing small caps and emerging markets, staying overweight equities, preparing for sector shifts, using fixed income for stability, deploying excess cash strategically, and exploring alternatives for advanced investors.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Six portfolio strategy ideas for 2026 - YouTube"
+    },
+    "readingTime": 5
   },
   {
     "id": "six-portfolio-strategy-ideas-for-2026",
@@ -1008,6 +1281,27 @@
     "readingTime": 3
   },
   {
+    "id": "the-fed-meeting-calendars-and-information",
+    "type": "news",
+    "title": "The Fed - Meeting calendars and information",
+    "slug": "the-fed-meeting-calendars-and-information",
+    "date": "2026-07-04",
+    "displayDate": "July 4, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Open Market Committee (FOMC) meets eight times a year to set U.S. monetary policy. The next meeting is July 27-28, 2026. The FOMC's decisions influe",
+    "excerpt": "The Federal Open Market Committee (FOMC) meets eight times a year to set U.S. monetary policy. The next meeting is July 27-28, 2026. The FOMC's decisions influence interest rates and economic policy.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "The Fed - Meeting calendars and information"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "u-s-market-analysis-valuation-dow-jones-nasdaq-s-p-500",
     "type": "news",
     "title": "U.S. Market Analysis & Valuation - Dow Jones, Nasdaq, S&P 500 ...",
@@ -1092,6 +1386,27 @@
     "readingTime": 3
   },
   {
+    "id": "united-states-indicators-trading-economics",
+    "type": "news",
+    "title": "United States Indicators - Trading Economics",
+    "slug": "united-states-indicators-trading-economics",
+    "date": "2026-07-04",
+    "displayDate": "July 4, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The United States GDP growth rate was 2.1% in March 2026, and the unemployment rate was 4.2% in June 2026. The latest United States economic news was updated on",
+    "excerpt": "The United States GDP growth rate was 2.1% in March 2026, and the unemployment rate was 4.2% in June 2026. The latest United States economic news was updated on July 4, 2026.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "United States Indicators - Trading Economics"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "united-states-indicators",
     "type": "news",
     "title": "United States Indicators",
@@ -1151,6 +1466,27 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "US earnings season - Q2 2026 - ii - Interactive Investor"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "us-stock-market-earnings-calendar",
+    "type": "news",
+    "title": "US Stock Market Earnings Calendar",
+    "slug": "us-stock-market-earnings-calendar",
+    "date": "2026-07-04",
+    "displayDate": "July 4, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The US Stock Market Earnings Calendar is available on Market Chameleon, MarketWatch, and TradingView, providing upcoming earnings announcements and financial re",
+    "excerpt": "The US Stock Market Earnings Calendar is available on Market Chameleon, MarketWatch, and TradingView, providing upcoming earnings announcements and financial reports. MarketWatch and TradingView offer additional tools and market data.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "US Stock Market Earnings Calendar"
     },
     "readingTime": 3
   },
@@ -1403,27 +1739,6 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "Earnings Calendar 2026 | Daily Earnings Reports"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "earnings-calendar-nasdaq",
-    "type": "news",
-    "title": "Earnings Calendar - Nasdaq",
-    "slug": "earnings-calendar-nasdaq",
-    "date": "2026-07-03",
-    "displayDate": "July 3, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Nasdaq earnings calendar is available at https://www.nasdaq.com/market-activity/earnings. Key companies' earnings can be tracked on TradingView. Nasdaq's qu",
-    "excerpt": "The Nasdaq earnings calendar is available at https://www.nasdaq.com/market-activity/earnings. Key companies' earnings can be tracked on TradingView. Nasdaq's quarterly earnings reports are accessible at https://ir.nasdaq.com/financials/quarterly-results.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Earnings Calendar - Nasdaq"
     },
     "readingTime": 3
   },
@@ -1764,48 +2079,6 @@
     "readingTime": 3
   },
   {
-    "id": "inflation-consumer-prices-annual-united-states",
-    "type": "news",
-    "title": "Inflation, consumer prices (annual %) - United States",
-    "slug": "inflation-consumer-prices-annual-united-states",
-    "date": "2026-07-03",
-    "displayDate": "July 3, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Inflation, consumer prices in the United States for 2026 is 4.20%. This annual rate reflects the Consumer Price Index changes. The latest data is from Trading E",
-    "excerpt": "Inflation, consumer prices in the United States for 2026 is 4.20%. This annual rate reflects the Consumer Price Index changes. The latest data is from Trading Economics.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Inflation, consumer prices (annual %) - United States"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "inflation-consumer-prices-for-the-united-states-fred",
-    "type": "news",
-    "title": "Inflation, consumer prices for the United States - FRED",
-    "slug": "inflation-consumer-prices-for-the-united-states-fred",
-    "date": "2026-07-03",
-    "displayDate": "July 3, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Inflation, consumer prices for the United States, measured by the Consumer Price Index, reflects the annual change in the cost of a fixed basket of goods and se",
-    "excerpt": "Inflation, consumer prices for the United States, measured by the Consumer Price Index, reflects the annual change in the cost of a fixed basket of goods and services. The latest data is available from the Federal Reserve Bank of St. Louis. Current inflation rate is not provided here.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Inflation, consumer prices for the United States - FRED"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "latest-technology-news-and-reviews-yahoo-finance",
     "type": "news",
     "title": "Latest Technology News and Reviews - Yahoo Finance",
@@ -1890,27 +2163,6 @@
     "readingTime": 3
   },
   {
-    "id": "s-p-500-sp500-technical-analysis-medium-term-investtech",
-    "type": "news",
-    "title": "S&P 500 (SP500) - Technical Analysis - Medium term - Investtech",
-    "slug": "s-p-500-sp500-technical-analysis-medium-term-investtech",
-    "date": "2026-07-03",
-    "displayDate": "July 3, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The S&P 500 is in a rising trend channel in the medium term, indicating positive market development and buy interest. Investtech's research shows stocks in risi",
-    "excerpt": "The S&P 500 is in a rising trend channel in the medium term, indicating positive market development and buy interest. Investtech's research shows stocks in rising trends tend to outperform benchmarks. Use Investtech's analyses at your own risk.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "S&P 500 (SP500) - Technical Analysis - Medium term - Investtech"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "sector-industry-performance-bloomberg-com",
     "type": "news",
     "title": "Sector & Industry Performance - Bloomberg.com",
@@ -1928,27 +2180,6 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "Sector & Industry Performance - Bloomberg.com"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "sector-views-monthly-stock-sector-outlook",
-    "type": "news",
-    "title": "Sector Views: Monthly Stock Sector Outlook",
-    "slug": "sector-views-monthly-stock-sector-outlook",
-    "date": "2026-07-03",
-    "displayDate": "July 3, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The monthly stock sector outlook provides insights on the performance of the 11 S&P 500 sectors. It helps investors understand sector trends and potential inves",
-    "excerpt": "The monthly stock sector outlook provides insights on the performance of the 11 S&P 500 sectors. It helps investors understand sector trends and potential investment opportunities. Schwab Funds regularly updates this outlook based on market conditions.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Sector Views: Monthly Stock Sector Outlook"
     },
     "readingTime": 3
   },
@@ -2142,27 +2373,6 @@
     "readingTime": 3
   },
   {
-    "id": "the-fed-meeting-calendars-and-information",
-    "type": "news",
-    "title": "The Fed - Meeting calendars and information",
-    "slug": "the-fed-meeting-calendars-and-information",
-    "date": "2026-07-03",
-    "displayDate": "July 3, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Reserve Bank is open on July 3, 2026, but the Board of Governors is closed. The next FOMC meeting is scheduled for July 31, 2026. Federal Reserve st",
-    "excerpt": "The Federal Reserve Bank is open on July 3, 2026, but the Board of Governors is closed. The next FOMC meeting is scheduled for July 31, 2026. Federal Reserve staff do not speak publicly around FOMC meetings.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "The Fed - Meeting calendars and information"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "u-s-bureau-of-economic-analysis-bea",
     "type": "news",
     "title": "U.S. Bureau of Economic Analysis (BEA)",
@@ -2268,27 +2478,6 @@
     "readingTime": 3
   },
   {
-    "id": "united-states-indicators-trading-economics",
-    "type": "news",
-    "title": "United States Indicators - Trading Economics",
-    "slug": "united-states-indicators-trading-economics",
-    "date": "2026-07-03",
-    "displayDate": "July 3, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The United States GDP annual growth rate is 2.7% as of March 2026, and the unemployment rate is 4.2% as of June 2026.",
-    "excerpt": "The United States GDP annual growth rate is 2.7% as of March 2026, and the unemployment rate is 4.2% as of June 2026.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "United States Indicators - Trading Economics"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "us-earnings-season-q2-2026",
     "type": "news",
     "title": "US earnings season - Q2 2026",
@@ -2306,27 +2495,6 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "US earnings season - Q2 2026"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "us-stock-market-earnings-calendar",
-    "type": "news",
-    "title": "US Stock Market Earnings Calendar",
-    "slug": "us-stock-market-earnings-calendar",
-    "date": "2026-07-03",
-    "displayDate": "July 3, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The US Stock Market Earnings Calendar is available on Investing.com, TradingView, and Market Chameleon. Key companies like Tesla, Amazon, and Apple report earni",
-    "excerpt": "The US Stock Market Earnings Calendar is available on Investing.com, TradingView, and Market Chameleon. Key companies like Tesla, Amazon, and Apple report earnings. Use these resources for upcoming announcements.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "US Stock Market Earnings Calendar"
     },
     "readingTime": 3
   },
@@ -2749,48 +2917,6 @@
       "alt": "S&P 500 Ideas — SPCFD:SPX"
     },
     "readingTime": 3
-  },
-  {
-    "id": "sector-industry-performance",
-    "type": "news",
-    "title": "Sector & Industry Performance",
-    "slug": "sector-industry-performance",
-    "date": "2026-07-02",
-    "displayDate": "July 2, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Technology Services sector is currently leading in market capitalization, followed by Consumer Non-Durables and Communications. Energy Minerals and Consumer",
-    "excerpt": "The Technology Services sector is currently leading in market capitalization, followed by Consumer Non-Durables and Communications. Energy Minerals and Consumer Services are also significant sectors. For detailed performance, refer to financial market reports.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Sector & Industry Performance"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "six-portfolio-strategy-ideas-for-2026-youtube",
-    "type": "news",
-    "title": "Six portfolio strategy ideas for 2026 - YouTube",
-    "slug": "six-portfolio-strategy-ideas-for-2026-youtube",
-    "date": "2026-07-02",
-    "displayDate": "July 2, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "For 2026, consider increasing exposure to small caps and emerging markets, staying overweight in equities, and diversifying globally. Prepare for shifting secto",
-    "excerpt": "For 2026, consider increasing exposure to small caps and emerging markets, staying overweight in equities, and diversifying globally. Prepare for shifting sector leadership and use fixed income for stability.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Six portfolio strategy ideas for 2026 - YouTube"
-    },
-    "readingTime": 5
   },
   {
     "id": "stock-market-outlook-forecast",
@@ -3423,27 +3549,6 @@
     "readingTime": 3
   },
   {
-    "id": "healthcare-sector",
-    "type": "news",
-    "title": "Healthcare Sector",
-    "slug": "healthcare-sector",
-    "date": "2026-07-01",
-    "displayDate": "July 1, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The healthcare sector comprises industries providing medical services, manufacturing medical equipment and drugs, and offering insurance, contributing significa",
-    "excerpt": "The healthcare sector comprises industries providing medical services, manufacturing medical equipment and drugs, and offering insurance, contributing significantly to the U.S. economy. In 2020, it accounted for 18% of the GDP. Key companies include AstraZeneca, Pfizer, and Walgreens Boots Alliance.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Healthcare Sector"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "how-to-invest-in-today-s-market-financial-perspectives-u-s-bank",
     "type": "news",
     "title": "How to Invest in Today's Market - Financial Perspectives - U.S. Bank",
@@ -3608,27 +3713,6 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "S&P 500 Index Technical Analysis - Barchart.com"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "s-p-500-technical-analysis-and-moving-averages-investing-com",
-    "type": "news",
-    "title": "S&P 500 Technical Analysis and Moving Averages - Investing.com",
-    "slug": "s-p-500-technical-analysis-and-moving-averages-investing-com",
-    "date": "2026-07-01",
-    "displayDate": "July 1, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The S&P 500 technical analysis suggests a Strong Sell signal based on moving averages and indicators. The 5-day moving average is 7362.96. The RSI is 67.139, in",
-    "excerpt": "The S&P 500 technical analysis suggests a Strong Sell signal based on moving averages and indicators. The 5-day moving average is 7362.96. The RSI is 67.139, indicating a Strong Buy.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "S&P 500 Technical Analysis and Moving Averages - Investing.com"
     },
     "readingTime": 3
   },
@@ -4448,27 +4532,6 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "Earnings Scheduled for Monday, June 8, 2026 - Earnings Whispers"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "ethereum-eth-news-analysis-and-forecast",
-    "type": "news",
-    "title": "Ethereum (ETH) News, Analysis and Forecast",
-    "slug": "ethereum-eth-news-analysis-and-forecast",
-    "date": "2026-06-09",
-    "displayDate": "June 9, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Ethereum's price is expected to rise by 1.04% in the next 24 hours, reaching an average of $1,751.06. Long-term forecasts suggest a bearish outlook with minimal",
-    "excerpt": "Ethereum's price is expected to rise by 1.04% in the next 24 hours, reaching an average of $1,751.06. Long-term forecasts suggest a bearish outlook with minimal profit potential over the next few months. Current market conditions indicate extreme fear.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Ethereum (ETH) News, Analysis and Forecast"
     },
     "readingTime": 3
   },
