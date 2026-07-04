@@ -462,6 +462,27 @@
     "readingTime": 3
   },
   {
+    "id": "economic-calendar",
+    "type": "news",
+    "title": "Economic Calendar",
+    "slug": "economic-calendar",
+    "date": "2026-07-04",
+    "displayDate": "July 4, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "An economic calendar lists upcoming financial events and data releases that can impact markets. It includes details on their importance and previous figures. Us",
+    "excerpt": "An economic calendar lists upcoming financial events and data releases that can impact markets. It includes details on their importance and previous figures. Users can filter by significance and adjust time displays.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Economic Calendar"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "economic-indicators-calendar-federal-reserve-bank-of-new-york",
     "type": "news",
     "title": "Economic Indicators Calendar - FEDERAL RESERVE BANK of NEW YORK",
@@ -479,6 +500,27 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "Economic Indicators Calendar - FEDERAL RESERVE BANK of NEW YORK"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "economic-indicators-calendar-new-york-fed",
+    "type": "news",
+    "title": "Economic Indicators Calendar | New York Fed",
+    "slug": "economic-indicators-calendar-new-york-fed",
+    "date": "2026-07-04",
+    "displayDate": "July 4, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The New York Fed's Economic Indicators Calendar lists upcoming economic data releases. The latest available calendar is for January 2026. Check the New York Fed",
+    "excerpt": "The New York Fed's Economic Indicators Calendar lists upcoming economic data releases. The latest available calendar is for January 2026. Check the New York Fed's website for updates.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Economic Indicators Calendar | New York Fed"
     },
     "readingTime": 3
   },
@@ -651,6 +693,48 @@
     "readingTime": 3
   },
   {
+    "id": "federal-reserve-holds-interest-rates-steady-but-leaves",
+    "type": "news",
+    "title": "Federal Reserve holds interest rates steady but leaves ...",
+    "slug": "federal-reserve-holds-interest-rates-steady-but-leaves",
+    "date": "2026-07-04",
+    "displayDate": "July 4, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Reserve held interest rates steady in 2026 amid economic uncertainty and rising inflation. The decision was unanimous, marking the fourth consecutiv",
+    "excerpt": "The Federal Reserve held interest rates steady in 2026 amid economic uncertainty and rising inflation. The decision was unanimous, marking the fourth consecutive meeting with no change. Some officials hinted at potential hikes later in the year.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Federal Reserve holds interest rates steady but leaves ..."
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "federal-reserve-issues-fomc-statement",
+    "type": "news",
+    "title": "Federal Reserve issues FOMC statement",
+    "slug": "federal-reserve-issues-fomc-statement",
+    "date": "2026-07-04",
+    "displayDate": "July 4, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Reserve maintained the interest rate at 3.65% and set the federal funds rate target range at 3.5% to 3.75% in its June 2026 FOMC statement. The deci",
+    "excerpt": "The Federal Reserve maintained the interest rate at 3.65% and set the federal funds rate target range at 3.5% to 3.75% in its June 2026 FOMC statement. The decision was unanimous. The statement was released on June 17, 2026.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Federal Reserve issues FOMC statement"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "federal-reserve-monetary-policy-u-s-bank",
     "type": "news",
     "title": "Federal Reserve Monetary Policy | U.S. Bank",
@@ -689,6 +773,27 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "FOMC Press Conference, October 29, 2025"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "gdp-cpi-and-other-key-economic-reports-bankrate",
+    "type": "news",
+    "title": "GDP, CPI and other key economic reports - Bankrate",
+    "slug": "gdp-cpi-and-other-key-economic-reports-bankrate",
+    "date": "2026-07-04",
+    "displayDate": "July 4, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "GDP measures economic growth; CPI gauges inflation; both are key economic indicators.",
+    "excerpt": "GDP measures economic growth; CPI gauges inflation; both are key economic indicators.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "GDP, CPI and other key economic reports - Bankrate"
     },
     "readingTime": 3
   },
@@ -752,6 +857,48 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "Global Market Headlines | Breaking Stock Market News | Reuters"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "global-market-indices-international-markets-markets-insider",
+    "type": "news",
+    "title": "Global Market Indices | International Markets - Markets Insider",
+    "slug": "global-market-indices-international-markets-markets-insider",
+    "date": "2026-07-04",
+    "displayDate": "July 4, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Dow Jones is up 1.14%, NASDAQ 100 is down 1.61%, and VIX is down 2.11% as of July 2, 2026. Global indices include Nasdaq, Dow Jones, and S&P 500. Current da",
+    "excerpt": "The Dow Jones is up 1.14%, NASDAQ 100 is down 1.61%, and VIX is down 2.11% as of July 2, 2026. Global indices include Nasdaq, Dow Jones, and S&P 500. Current date is July 4, 2026.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Global Market Indices | International Markets - Markets Insider"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "global-stock-market-news-and-world-indices-coverage-cnbc",
+    "type": "news",
+    "title": "Global Stock Market News and World Indices Coverage - CNBC",
+    "slug": "global-stock-market-news-and-world-indices-coverage-cnbc",
+    "date": "2026-07-04",
+    "displayDate": "July 4, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Global stock markets fluctuated with mixed performances, driven by geopolitical tensions and economic indicators. The S&P 500 and Nasdaq experienced volatility,",
+    "excerpt": "Global stock markets fluctuated with mixed performances, driven by geopolitical tensions and economic indicators. The S&P 500 and Nasdaq experienced volatility, while international markets showed varied trends influenced by U.S.-Iran relations. Current data reflects ongoing market dynamics and inves",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Global Stock Market News and World Indices Coverage - CNBC"
     },
     "readingTime": 3
   },
@@ -924,6 +1071,27 @@
     "readingTime": 3
   },
   {
+    "id": "latest-technology-news-and-reviews-yahoo-finance",
+    "type": "news",
+    "title": "Latest Technology News and Reviews - Yahoo Finance",
+    "slug": "latest-technology-news-and-reviews-yahoo-finance",
+    "date": "2026-07-04",
+    "displayDate": "July 4, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Dow closed above 52,000 for the first time, driven by tech gains. Apple announced early updates. Big Tech and AI trends are covered in Yahoo Finance videos.",
+    "excerpt": "The Dow closed above 52,000 for the first time, driven by tech gains. Apple announced early updates. Big Tech and AI trends are covered in Yahoo Finance videos.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Latest Technology News and Reviews - Yahoo Finance"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "meta-title-sectors",
     "type": "news",
     "title": "META_TITLE_SECTORS",
@@ -966,6 +1134,27 @@
     "readingTime": 3
   },
   {
+    "id": "real-gross-domestic-product-fred-st-louis-fed",
+    "type": "news",
+    "title": "Real Gross Domestic Product | FRED | St. Louis Fed",
+    "slug": "real-gross-domestic-product-fred-st-louis-fed",
+    "date": "2026-07-04",
+    "displayDate": "July 4, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Real Gross Domestic Product measures the value of economic output adjusted for price changes. It is reported quarterly and seasonally adjusted. The latest data ",
+    "excerpt": "Real Gross Domestic Product measures the value of economic output adjusted for price changes. It is reported quarterly and seasonally adjusted. The latest data is available from the Federal Reserve Bank of St. Louis.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Real Gross Domestic Product | FRED | St. Louis Fed"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "s-p-500-index-sp500-analysis-news-and-chart-today",
     "type": "news",
     "title": "S&P 500 Index (SP500) Analysis, News, And Chart Today",
@@ -983,6 +1172,27 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "S&P 500 Index (SP500) Analysis, News, And Chart Today"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "s-p-500-index-technical-analysis-barchart-com",
+    "type": "news",
+    "title": "S&P 500 Index Technical Analysis - Barchart.com",
+    "slug": "s-p-500-index-technical-analysis-barchart-com",
+    "date": "2026-07-04",
+    "displayDate": "July 4, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The S&P 500 has a Strong Buy signal based on moving averages and technical indicators. The 14-day RSI and MACD suggest a bullish trend. Technical analysis tools",
+    "excerpt": "The S&P 500 has a Strong Buy signal based on moving averages and technical indicators. The 14-day RSI and MACD suggest a bullish trend. Technical analysis tools like RSI and MACD indicate a favorable outlook.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "S&P 500 Index Technical Analysis - Barchart.com"
     },
     "readingTime": 3
   },
@@ -1155,6 +1365,48 @@
     "readingTime": 3
   },
   {
+    "id": "sectors-stock-market-usa-tradingview",
+    "type": "news",
+    "title": "Sectors — Stock Market — USA - TradingView",
+    "slug": "sectors-stock-market-usa-tradingview",
+    "date": "2026-07-04",
+    "displayDate": "July 4, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The top sectors in the US stock market include Technology Services, Health Technology, and Consumer Non-Durables. These sectors have significant market capitali",
+    "excerpt": "The top sectors in the US stock market include Technology Services, Health Technology, and Consumer Non-Durables. These sectors have significant market capitalizations and varying performance percentages. The most active sectors are Process Industries and Commercial Services.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Sectors — Stock Market — USA - TradingView"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "sectors-technology",
+    "type": "news",
+    "title": "SECTORS - Technology",
+    "slug": "sectors-technology",
+    "date": "2026-07-04",
+    "displayDate": "July 4, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The technology sector includes companies in electronics, software, and AI, driving innovation and growth. Key sectors are semiconductors, software, and consumer",
+    "excerpt": "The technology sector includes companies in electronics, software, and AI, driving innovation and growth. Key sectors are semiconductors, software, and consumer electronics. Major companies like Apple and Google lead the industry.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "SECTORS - Technology"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "six-portfolio-strategy-ideas-for-2026-youtube",
     "type": "news",
     "title": "Six portfolio strategy ideas for 2026 - YouTube",
@@ -1260,6 +1512,27 @@
     "readingTime": 3
   },
   {
+    "id": "tech-cnn-business",
+    "type": "news",
+    "title": "Tech | CNN Business",
+    "slug": "tech-cnn-business",
+    "date": "2026-07-04",
+    "displayDate": "July 4, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "China's humanoid robots are gaining attention, but a rental market highlights their limitations. Apple raised MacBook and iPad prices due to a memory chip short",
+    "excerpt": "China's humanoid robots are gaining attention, but a rental market highlights their limitations. Apple raised MacBook and iPad prices due to a memory chip shortage. Anthropic faces challenges amid the chaotic AI regulation landscape.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Tech | CNN Business"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "the-best-investment-strategies-for-the-continuous-market",
     "type": "news",
     "title": "The Best Investment Strategies For The Continuous Market",
@@ -1281,6 +1554,27 @@
     "readingTime": 3
   },
   {
+    "id": "the-block-bitcoin-ethereum-crypto-news-live-prices-data",
+    "type": "news",
+    "title": "The Block: Bitcoin, Ethereum & Crypto News | Live Prices, Data ...",
+    "slug": "the-block-bitcoin-ethereum-crypto-news-live-prices-data",
+    "date": "2026-07-04",
+    "displayDate": "July 4, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin holds $61,000 rebound ahead of US Independence Day as soft jobs data eases rate fears. Binance research discusses the cross-asset frontier of tokenized ",
+    "excerpt": "Bitcoin holds $61,000 rebound ahead of US Independence Day as soft jobs data eases rate fears. Binance research discusses the cross-asset frontier of tokenized equities. Newhedge provides detailed Bitcoin address balance insights.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "The Block: Bitcoin, Ethereum & Crypto News | Live Prices, Data ..."
+    },
+    "readingTime": 3
+  },
+  {
     "id": "the-fed-meeting-calendars-and-information",
     "type": "news",
     "title": "The Fed - Meeting calendars and information",
@@ -1298,6 +1592,27 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "The Fed - Meeting calendars and information"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "this-week-s-best-performing-stocks-sectors-industries-rankings",
+    "type": "news",
+    "title": "This Week's Best Performing Stocks, Sectors, Industries Rankings",
+    "slug": "this-week-s-best-performing-stocks-sectors-industries-rankings",
+    "date": "2026-07-04",
+    "displayDate": "July 4, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "This week, Cayman Holdings Limited led in stock performance, while Health Technology sectors showed significant growth. For sectors, Technology Services and Con",
+    "excerpt": "This week, Cayman Holdings Limited led in stock performance, while Health Technology sectors showed significant growth. For sectors, Technology Services and Consumer Non-Durables performed well.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "This Week's Best Performing Stocks, Sectors, Industries Rankings"
     },
     "readingTime": 3
   },
@@ -1445,6 +1760,27 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "United States Inflation Rate"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "us-central-bank-cuts-key-lending-rate-by-a-quarter-point",
+    "type": "news",
+    "title": "US central bank cuts key lending rate by a quarter point",
+    "slug": "us-central-bank-cuts-key-lending-rate-by-a-quarter-point",
+    "date": "2026-07-04",
+    "displayDate": "July 4, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The US central bank cut its key lending rate by a quarter point, lowering it to a range of 3.5% to 3.75%, the lowest since 2022. This decision aligns with expec",
+    "excerpt": "The US central bank cut its key lending rate by a quarter point, lowering it to a range of 3.5% to 3.75%, the lowest since 2022. This decision aligns with expectations and aims to stimulate economic activity. The Federal Reserve's move signals a continued effort to manage inflation and support growt",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "US central bank cuts key lending rate by a quarter point"
     },
     "readingTime": 3
   },
@@ -1869,27 +2205,6 @@
     "readingTime": 3
   },
   {
-    "id": "federal-reserve-issues-fomc-statement",
-    "type": "news",
-    "title": "Federal Reserve issues FOMC statement",
-    "slug": "federal-reserve-issues-fomc-statement",
-    "date": "2026-07-03",
-    "displayDate": "July 3, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Reserve maintained the interest rate at 3.65% and kept the federal funds rate target range at 0 to 1/4 percent. The FOMC aims for maximum employment",
-    "excerpt": "The Federal Reserve maintained the interest rate at 3.65% and kept the federal funds rate target range at 0 to 1/4 percent. The FOMC aims for maximum employment and 2% inflation. The policy stance will remain until labor market and inflation conditions improve.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Federal Reserve issues FOMC statement"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "finance-and-markets-wsj-com",
     "type": "news",
     "title": "Finance and Markets - WSJ.com",
@@ -1928,27 +2243,6 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "Finance and Markets"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "gdp-cpi-and-other-key-economic-reports-bankrate",
-    "type": "news",
-    "title": "GDP, CPI and other key economic reports - Bankrate",
-    "slug": "gdp-cpi-and-other-key-economic-reports-bankrate",
-    "date": "2026-07-03",
-    "displayDate": "July 3, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "GDP, CPI, and other key economic reports are essential for measuring economic output and inflation; they are available on Bankrate and the St. Louis Fed's FRED ",
-    "excerpt": "GDP, CPI, and other key economic reports are essential for measuring economic output and inflation; they are available on Bankrate and the St. Louis Fed's FRED database.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "GDP, CPI and other key economic reports - Bankrate"
     },
     "readingTime": 3
   },
@@ -1995,48 +2289,6 @@
     "readingTime": 3
   },
   {
-    "id": "global-market-indices-international-markets-markets-insider",
-    "type": "news",
-    "title": "Global Market Indices | International Markets - Markets Insider",
-    "slug": "global-market-indices-international-markets-markets-insider",
-    "date": "2026-07-03",
-    "displayDate": "July 3, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Global market indices include the S&P 500, Dow Jones, and Nasdaq 100. Major indices are tracked on Investing.com. Business Insider provides indices and stock ma",
-    "excerpt": "Global market indices include the S&P 500, Dow Jones, and Nasdaq 100. Major indices are tracked on Investing.com. Business Insider provides indices and stock market news.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Global Market Indices | International Markets - Markets Insider"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "global-stock-market-news-and-world-indices-coverage-cnbc",
-    "type": "news",
-    "title": "Global Stock Market News and World Indices Coverage - CNBC",
-    "slug": "global-stock-market-news-and-world-indices-coverage-cnbc",
-    "date": "2026-07-03",
-    "displayDate": "July 3, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The S&P 500 and Nasdaq closed lower recently, while European markets rebounded after Trump threatened Iran. The Dow 30 remains a key focus for investors. CNBC p",
-    "excerpt": "The S&P 500 and Nasdaq closed lower recently, while European markets rebounded after Trump threatened Iran. The Dow 30 remains a key focus for investors. CNBC provides comprehensive global stock market news and analysis.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Global Stock Market News and World Indices Coverage - CNBC"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "health-technology-sector-stocks",
     "type": "news",
     "title": "Health Technology Sector - Stocks",
@@ -2075,27 +2327,6 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "How to Invest in Today's Market - Financial Perspectives"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "latest-technology-news-and-reviews-yahoo-finance",
-    "type": "news",
-    "title": "Latest Technology News and Reviews - Yahoo Finance",
-    "slug": "latest-technology-news-and-reviews-yahoo-finance",
-    "date": "2026-07-03",
-    "displayDate": "July 3, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Dow closed above 52,000 for the first time, driven by tech gains. Apple announced early updates. Big Tech and AI trends are leading market shifts.",
-    "excerpt": "The Dow closed above 52,000 for the first time, driven by tech gains. Apple announced early updates. Big Tech and AI trends are leading market shifts.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Latest Technology News and Reviews - Yahoo Finance"
     },
     "readingTime": 3
   },
@@ -2184,27 +2415,6 @@
     "readingTime": 3
   },
   {
-    "id": "sectors-stock-market-usa-tradingview",
-    "type": "news",
-    "title": "Sectors — Stock Market — USA - TradingView",
-    "slug": "sectors-stock-market-usa-tradingview",
-    "date": "2026-07-03",
-    "displayDate": "July 3, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The US stock market sectors include Electronic Technology, Producer Manufacturing, Consumer Non-Durables, Energy Minerals, Utilities, Consumer Durables, Consume",
-    "excerpt": "The US stock market sectors include Electronic Technology, Producer Manufacturing, Consumer Non-Durables, Energy Minerals, Utilities, Consumer Durables, Consumer Services, and Process Industries. The top sectors by market cap are Electronic Technology and Producer Manufacturing. The most active sect",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Sectors — Stock Market — USA - TradingView"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "stock-market-news-today-edward-jones",
     "type": "news",
     "title": "Stock Market News Today | Edward Jones",
@@ -2264,27 +2474,6 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "Stock Market Sector Analysis and Performance - Weekly Changes"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "tech-cnn-business",
-    "type": "news",
-    "title": "Tech | CNN Business",
-    "slug": "tech-cnn-business",
-    "date": "2026-07-03",
-    "displayDate": "July 3, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "TECH is a leading sector in innovation, with companies driving advancements in diagnostics and biotechnology. Its stock has shown significant growth, trading ne",
-    "excerpt": "TECH is a leading sector in innovation, with companies driving advancements in diagnostics and biotechnology. Its stock has shown significant growth, trading near the top of its 52-week range. Recent financials show revenue and EPS growth, despite a net income decline.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Tech | CNN Business"
     },
     "readingTime": 3
   },
@@ -3024,27 +3213,6 @@
     "readingTime": 4
   },
   {
-    "id": "this-week-s-best-performing-stocks-sectors-industries-rankings",
-    "type": "news",
-    "title": "This Week's Best Performing Stocks, Sectors, Industries Rankings",
-    "slug": "this-week-s-best-performing-stocks-sectors-industries-rankings",
-    "date": "2026-07-02",
-    "displayDate": "July 2, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "This week's top-performing industries include Computer Hardware and Semiconductors, with notable stock winners like 707 Cayman Holdings Limited and Quince Thera",
-    "excerpt": "This week's top-performing industries include Computer Hardware and Semiconductors, with notable stock winners like 707 Cayman Holdings Limited and Quince Therapeutics Inc. For the latest detailed rankings, visit the provided sources.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "This Week's Best Performing Stocks, Sectors, Industries Rankings"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "u-s-inflation-climbs-to-4-2-as-energy-costs-rise-nerdwallet",
     "type": "news",
     "title": "U.S. Inflation Climbs to 4.2% as Energy Costs Rise - NerdWallet",
@@ -3381,27 +3549,6 @@
     "readingTime": 3
   },
   {
-    "id": "economic-calendar",
-    "type": "news",
-    "title": "Economic Calendar",
-    "slug": "economic-calendar",
-    "date": "2026-07-01",
-    "displayDate": "July 1, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "An economic calendar lists upcoming financial events and indicators that impact markets, including stocks, Forex, and bonds. It provides real-time updates and f",
-    "excerpt": "An economic calendar lists upcoming financial events and indicators that impact markets, including stocks, Forex, and bonds. It provides real-time updates and forecasts. The calendar helps traders prepare for market movements.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Economic Calendar"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "economic-events-calendar-for-yahoo-finance",
     "type": "news",
     "title": "Economic Events Calendar for - Yahoo Finance",
@@ -3696,27 +3843,6 @@
     "readingTime": 3
   },
   {
-    "id": "s-p-500-index-technical-analysis-barchart-com",
-    "type": "news",
-    "title": "S&P 500 Index Technical Analysis - Barchart.com",
-    "slug": "s-p-500-index-technical-analysis-barchart-com",
-    "date": "2026-07-01",
-    "displayDate": "July 1, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The S&P 500 is currently showing a strong sell signal based on technical analysis. The 5-day moving average is 7362.96, indicating a bearish trend. The RSI and ",
-    "excerpt": "The S&P 500 is currently showing a strong sell signal based on technical analysis. The 5-day moving average is 7362.96, indicating a bearish trend. The RSI and MACD also suggest a sell outlook.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "S&P 500 Index Technical Analysis - Barchart.com"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "sector-research-news-and-performance-sector-industries",
     "type": "news",
     "title": "Sector Research, News and Performance | Sector Industries",
@@ -3965,27 +4091,6 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "Economic Indicator Release Schedule: List View - US Census Bureau"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "economic-indicators-calendar-new-york-fed",
-    "type": "news",
-    "title": "Economic Indicators Calendar | New York Fed",
-    "slug": "economic-indicators-calendar-new-york-fed",
-    "date": "2026-06-10",
-    "displayDate": "June 10, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The New York Fed's Economic Indicators Calendar lists key economic data releases, including manufacturing surveys and employment reports. The calendar helps tra",
-    "excerpt": "The New York Fed's Economic Indicators Calendar lists key economic data releases, including manufacturing surveys and employment reports. The calendar helps track economic trends and forecasts. The latest data includes initial claims and durable goods sales.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Economic Indicators Calendar | New York Fed"
     },
     "readingTime": 3
   },
@@ -5162,27 +5267,6 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "Technology News"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "the-block-bitcoin-ethereum-crypto-news-live-prices-data",
-    "type": "news",
-    "title": "The Block: Bitcoin, Ethereum & Crypto News | Live Prices, Data ...",
-    "slug": "the-block-bitcoin-ethereum-crypto-news-live-prices-data",
-    "date": "2026-06-07",
-    "displayDate": "June 7, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Block and CoinDesk are leading crypto news sites offering live prices and market insights on Bitcoin, Ethereum, and other digital assets. Both provide compr",
-    "excerpt": "The Block and CoinDesk are leading crypto news sites offering live prices and market insights on Bitcoin, Ethereum, and other digital assets. Both provide comprehensive coverage of the latest trends and developments in the cryptocurrency space.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "The Block: Bitcoin, Ethereum & Crypto News | Live Prices, Data ..."
     },
     "readingTime": 3
   },
