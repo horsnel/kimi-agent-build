@@ -1,0 +1,52 @@
+{
+  "id": "technology-financial-times",
+  "type": "news",
+  "title": "Technology | Financial Times",
+  "slug": "technology-financial-times",
+  "date": "2026-07-05",
+  "displayDate": "July 5, 2026",
+  "author": "Sigma Capital",
+  "category": "Company News",
+  "tags": [
+    "company news",
+    "financial news",
+    "market update"
+  ],
+  "metaDescription": "The Financial Times offers business news and insights, including technology updates, through its app and podcast. The FT app provides free access to journalism ",
+  "excerpt": "The Financial Times offers business news and insights, including technology updates, through its app and podcast. The FT app provides free access to journalism and podcasts, while the FT Tech Tonic podcast explores technological advancements.",
+  "content": {
+    "introduction": "The Financial Times offers business news and insights, including technology updates, through its app and podcast. The FT app provides free access to journalism and podcasts, while the FT Tech Tonic podcast explores technological advancements.",
+    "body": [
+      "Image 2: FT Product & Technology. ## FT Product & Technology. ## Guiding Strategy: How an in-app survey supported product iteration ### User research helped us understand FT Edit’s users. Image 11: Guiding Strategy: How an in-app survey supported product iteration. ## A New Framework for Engineering Progression at the FT ### At the Financial Times, we’ve recently updated the career framework for our engineers and managers. ## How to introduce UX research into a new space: A User Researcher’s take on discovery in advertising ### Lessons any team can apply when introducing user research into commercial spaces. Image 22: How to introduce UX research into a new space: A User Researcher’s take on discovery in advertising. ## From Insight to Impact: Product Lessons From an Advertising Discovery Project ### How we turned advertiser research into a roadmap for 2025. Image 106: From Onboarding to Impact: A Group Product Manager’s Journey starting at the FT.",
+      "# Financial Times: Business News. Empower your ambitions with the Financial Times’ unrivalled, globally focused journalism. Enjoy for free: All podcasts including The Story of Money and FT News Briefing, markets data, our luxury lifestyle magazine How To Spend It and a daily challenge with our crossword puzzles. • Unbiased reporting: Expert comment and analysis on world news, business, politics, economics, finance, companies and more. • Thought-provoking journalism: Explore the arts, real estate, fashion, food, books, technology news and more with a unique FT voice. • Go beyond free access with discounts and offers in the app. IS THE FT FOR YOU? Whether you're an economist analysing global trends, a stockbroker navigating market shifts, a business leader staying ahead of financial news, or a curious mind exploring politics, culture, and the forces shaping our world, the Financial Times offers world-class insights to inspire, inform, and push you further in your ambitions. This app may share these data types with third parties.",
+      "Tech Tonic is the show that investigates the promises and perils of this new technological age. Hosted on Acast."
+    ],
+    "keyTakeaways": [
+      "The Financial Times offers business news and insights, including technology updates, through its app and podcast. The FT",
+      "Image 2: FT Product & Technology. ## FT Product & Technology",
+      "# Financial Times: Business News. Empower your ambitions with the Financial Times’ unrivalled, globally focused journali"
+    ],
+    "source": "ft.com",
+    "sourceUrl": "https://www.ft.com/technology"
+  },
+  "readingTime": 3,
+  "updatedAt": "2026-07-05T08:47:03.573Z",
+  "images": {
+    "thumbnail": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Technology | Financial Times"
+    },
+    "hero": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Technology | Financial Times"
+    },
+    "mid": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Technology | Financial Times"
+    }
+  },
+  "image": {
+    "src": "/images/article_thumb_5.jpg",
+    "alt": "Technology | Financial Times"
+  }
+}

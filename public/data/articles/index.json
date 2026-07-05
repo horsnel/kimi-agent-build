@@ -21,6 +21,27 @@
     "readingTime": 3
   },
   {
+    "id": "a-list-of-stocks-in-the-healthcare-sector",
+    "type": "news",
+    "title": "A List of Stocks in the Healthcare Sector",
+    "slug": "a-list-of-stocks-in-the-healthcare-sector",
+    "date": "2026-07-05",
+    "displayDate": "July 5, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Key healthcare sector stocks include Eli Lilly, UnitedHealth Group, AstraZeneca, Novartis, and Novo Nordisk. These companies are major players in pharmaceutical",
+    "excerpt": "Key healthcare sector stocks include Eli Lilly, UnitedHealth Group, AstraZeneca, Novartis, and Novo Nordisk. These companies are major players in pharmaceuticals and healthcare services.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "A List of Stocks in the Healthcare Sector"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "asia-stock-markets-cnbc",
     "type": "news",
     "title": "Asia Stock Markets - CNBC",
@@ -84,6 +105,48 @@
     "readingTime": 3
   },
   {
+    "id": "bitcoin-btc-price-usd-today-news-charts-market-cap-coinbase",
+    "type": "news",
+    "title": "Bitcoin (BTC) Price USD Today, News, Charts, Market Cap | Coinbase",
+    "slug": "bitcoin-btc-price-usd-today-news-charts-market-cap-coinbase",
+    "date": "2026-07-05",
+    "displayDate": "July 5, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin's price today is $62,671.22, with a 3% increase from yesterday. The market cap is $1.3 trillion. The 24-hour trading volume is $18 billion.",
+    "excerpt": "Bitcoin's price today is $62,671.22, with a 3% increase from yesterday. The market cap is $1.3 trillion. The 24-hour trading volume is $18 billion.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Bitcoin (BTC) Price USD Today, News, Charts, Market Cap | Coinbase"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "bitcoin-price-today-btc-price-chart-live-trends-kraken",
+    "type": "news",
+    "title": "Bitcoin price today - BTC price chart & live trends - Kraken",
+    "slug": "bitcoin-price-today-btc-price-chart-live-trends-kraken",
+    "date": "2026-07-05",
+    "displayDate": "July 5, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin price today is $63,175.00, up +1.03% in the last 24 hours. The circulating supply is 20,051,967 BTC, with a market cap of $1,266,783,004,338. This data ",
+    "excerpt": "Bitcoin price today is $63,175.00, up +1.03% in the last 24 hours. The circulating supply is 20,051,967 BTC, with a market cap of $1,266,783,004,338. This data is based on Kraken's latest figures.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Bitcoin price today - BTC price chart & live trends - Kraken"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "bitcoin-price-today-btc-price-chart-live-trends",
     "type": "news",
     "title": "Bitcoin price today - BTC price chart & live trends",
@@ -122,6 +185,27 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "Bitcoin Price Today | Live BTC Price, Chart & Market Data"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "company-earnings-calendar-yahoo-finance",
+    "type": "news",
+    "title": "Company Earnings Calendar - Yahoo Finance",
+    "slug": "company-earnings-calendar-yahoo-finance",
+    "date": "2026-07-05",
+    "displayDate": "July 5, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Yahoo Finance's Company Earnings Calendar lists upcoming earnings announcements, IPO events, and stock splits. To access it, visit https://finance.yahoo.com/cal",
+    "excerpt": "Yahoo Finance's Company Earnings Calendar lists upcoming earnings announcements, IPO events, and stock splits. To access it, visit https://finance.yahoo.com/calendar/earnings. This tool helps track financial events.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Company Earnings Calendar - Yahoo Finance"
     },
     "readingTime": 3
   },
@@ -168,6 +252,27 @@
     "readingTime": 3
   },
   {
+    "id": "cryptocurrency-market-today-news-prices-ideas-tradingview",
+    "type": "news",
+    "title": "Cryptocurrency Market Today: News, Prices, Ideas - TradingView",
+    "slug": "cryptocurrency-market-today-news-prices-ideas-tradingview",
+    "date": "2026-07-05",
+    "displayDate": "July 5, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin and altcoin prices are currently fluctuating, with the total crypto market cap holding above $2.02 trillion. Market trends and news are available for in",
+    "excerpt": "Bitcoin and altcoin prices are currently fluctuating, with the total crypto market cap holding above $2.02 trillion. Market trends and news are available for informed trading decisions.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Cryptocurrency Market Today: News, Prices, Ideas - TradingView"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "earnings-breaking-news-and-press-releases-business-wire",
     "type": "news",
     "title": "Earnings Breaking News and Press Releases - Business Wire",
@@ -210,6 +315,27 @@
     "readingTime": 3
   },
   {
+    "id": "earnings-calendar-and-analysis-for-this-week-july-6-10",
+    "type": "news",
+    "title": "Earnings Calendar and Analysis for This Week (July 6-10)",
+    "slug": "earnings-calendar-and-analysis-for-this-week-july-6-10",
+    "date": "2026-07-05",
+    "displayDate": "July 5, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "No noteworthy earnings reports are scheduled for July 6-7. PepsiCo and Delta Air Lines report earnings on July 9 and 10, respectively. Earnings from various sec",
+    "excerpt": "No noteworthy earnings reports are scheduled for July 6-7. PepsiCo and Delta Air Lines report earnings on July 9 and 10, respectively. Earnings from various sectors are expected throughout the week.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Earnings Calendar and Analysis for This Week (July 6-10)"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "earnings-calendar-nasdaq",
     "type": "news",
     "title": "Earnings Calendar - Nasdaq",
@@ -227,6 +353,27 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "Earnings Calendar - Nasdaq"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "earnings-cnbc",
+    "type": "news",
+    "title": "Earnings - CNBC",
+    "slug": "earnings-cnbc",
+    "date": "2026-07-05",
+    "displayDate": "July 5, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Nike's earnings report was underwhelming, while Micron's stock surged due to AI-driven revenue growth. Dell's stock hit a record high on strong AI server sales.",
+    "excerpt": "Nike's earnings report was underwhelming, while Micron's stock surged due to AI-driven revenue growth. Dell's stock hit a record high on strong AI server sales. Oracle's earnings beat expectations, but stock fell on a $20 billion raise plan.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Earnings - CNBC"
     },
     "readingTime": 3
   },
@@ -294,6 +441,111 @@
     "readingTime": 3
   },
   {
+    "id": "global-market-headlines-breaking-stock-market-news-reuters",
+    "type": "news",
+    "title": "Global Market Headlines | Breaking Stock Market News | Reuters",
+    "slug": "global-market-headlines-breaking-stock-market-news-reuters",
+    "date": "2026-07-05",
+    "displayDate": "July 5, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Global stocks are having a strong week; US jobs data impacts rate outlook. Reuters reports on international market and finance news. Check Reuters for the lates",
+    "excerpt": "Global stocks are having a strong week; US jobs data impacts rate outlook. Reuters reports on international market and finance news. Check Reuters for the latest headlines.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Global Market Headlines | Breaking Stock Market News | Reuters"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "global-market-indices-international-markets-markets-insider",
+    "type": "news",
+    "title": "Global Market Indices | International Markets - Markets Insider",
+    "slug": "global-market-indices-international-markets-markets-insider",
+    "date": "2026-07-05",
+    "displayDate": "July 5, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Dow Jones is up 1.14%, NASDAQ 100 is down 1.61%, and the VIX is down 2.11% as of July 2026. Global indices like the Nasdaq, Dow Jones, and S&P 500 are track",
+    "excerpt": "The Dow Jones is up 1.14%, NASDAQ 100 is down 1.61%, and the VIX is down 2.11% as of July 2026. Global indices like the Nasdaq, Dow Jones, and S&P 500 are tracked for market performance.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Global Market Indices | International Markets - Markets Insider"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "global-stock-market-news-and-world-indices-coverage-cnbc",
+    "type": "news",
+    "title": "Global Stock Market News and World Indices Coverage - CNBC",
+    "slug": "global-stock-market-news-and-world-indices-coverage-cnbc",
+    "date": "2026-07-05",
+    "displayDate": "July 5, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Global stock markets fluctuated with tech stocks rebounding, while geopolitical tensions influenced European markets. S&P 500 and Nasdaq experienced mixed resul",
+    "excerpt": "Global stock markets fluctuated with tech stocks rebounding, while geopolitical tensions influenced European markets. S&P 500 and Nasdaq experienced mixed results. Investors closely monitored U.S.-Iran relations and economic data.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Global Stock Market News and World Indices Coverage - CNBC"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "health-care-sector-industry-performance",
+    "type": "news",
+    "title": "Health Care Sector & Industry Performance",
+    "slug": "health-care-sector-industry-performance",
+    "date": "2026-07-05",
+    "displayDate": "July 5, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The health care sector has seen a 5% increase in the last week, with strong performance from companies like Johnson & Johnson. The sector's valuation has grown ",
+    "excerpt": "The health care sector has seen a 5% increase in the last week, with strong performance from companies like Johnson & Johnson. The sector's valuation has grown significantly over the past few years, reflecting its robust growth and market confidence.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Health Care Sector & Industry Performance"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "health-technology-sector-stocks",
+    "type": "news",
+    "title": "Health Technology Sector - Stocks",
+    "slug": "health-technology-sector-stocks",
+    "date": "2026-07-05",
+    "displayDate": "July 5, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Health Technology sector includes stocks like Eli Lilly, AstraZeneca, Novartis, Novo Nordisk, and GSK, with recent performance showing gains and mixed ratin",
+    "excerpt": "The Health Technology sector includes stocks like Eli Lilly, AstraZeneca, Novartis, Novo Nordisk, and GSK, with recent performance showing gains and mixed ratings. Healthcare sector stocks outperformed the S&P 500 in the past week, highlighting its defensive nature.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Health Technology Sector - Stocks"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "how-to-build-a-diversified-investment-portfolio-in-2026",
     "type": "news",
     "title": "How to Build a Diversified Investment Portfolio in 2026",
@@ -357,6 +609,48 @@
     "readingTime": 3
   },
   {
+    "id": "inflation-consumer-prices-for-the-united-states-fred",
+    "type": "news",
+    "title": "Inflation, consumer prices for the United States - FRED",
+    "slug": "inflation-consumer-prices-for-the-united-states-fred",
+    "date": "2026-07-05",
+    "displayDate": "July 5, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Inflation, consumer prices for the United States is measured by the Consumer Price Index, reflecting annual changes in the cost of goods and services. The key s",
+    "excerpt": "Inflation, consumer prices for the United States is measured by the Consumer Price Index, reflecting annual changes in the cost of goods and services. The key series is CPIAUCSL from the U.S. Bureau of Labor Statistics. Data is available from FRED.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Inflation, consumer prices for the United States - FRED"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "inflation-update-u-s-congress-joint-economic-committee",
+    "type": "news",
+    "title": "Inflation Update - U.S. Congress Joint Economic Committee",
+    "slug": "inflation-update-u-s-congress-joint-economic-committee",
+    "date": "2026-07-05",
+    "displayDate": "July 5, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Inflation has increased average household spending by $706 nationally since January 2021, with the District of Columbia experiencing the highest costs at $948. ",
+    "excerpt": "Inflation has increased average household spending by $706 nationally since January 2021, with the District of Columbia experiencing the highest costs at $948. The U.S. Congress Joint Economic Committee tracks these costs state-by-state. The latest data shows significant variation across states.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Inflation Update - U.S. Congress Joint Economic Committee"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "latest-asia-stock-market-news",
     "type": "news",
     "title": "Latest: Asia Stock Market News",
@@ -395,6 +689,69 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "Monetary Policy - Federal Reserve Board"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "s-p-500-index-sp500-analysis-news-and-chart-today",
+    "type": "news",
+    "title": "S&P 500 Index (SP500) Analysis, News, And Chart Today",
+    "slug": "s-p-500-index-sp500-analysis-news-and-chart-today",
+    "date": "2026-07-05",
+    "displayDate": "July 5, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The S&P 500 Index (SPX) opened at 7,495.14, reached a high of 7,540.75, and a low of 7,427.55 today. The previous close was 7,483.23. The 52-week high is 7,620.",
+    "excerpt": "The S&P 500 Index (SPX) opened at 7,495.14, reached a high of 7,540.75, and a low of 7,427.55 today. The previous close was 7,483.23. The 52-week high is 7,620.90.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "S&P 500 Index (SP500) Analysis, News, And Chart Today"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "s-p-500-index-technical-analysis-barchart-com",
+    "type": "news",
+    "title": "S&P 500 Index Technical Analysis - Barchart.com",
+    "slug": "s-p-500-index-technical-analysis-barchart-com",
+    "date": "2026-07-05",
+    "displayDate": "July 5, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The S&P 500 Index technical analysis on Barchart.com includes moving averages, price changes, and market performance data. The site offers comprehensive market ",
+    "excerpt": "The S&P 500 Index technical analysis on Barchart.com includes moving averages, price changes, and market performance data. The site offers comprehensive market data and tools for technical analysis. For specific futures technical analysis, visit the dedicated page.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "S&P 500 Index Technical Analysis - Barchart.com"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "s-p-500-sp500-technical-analysis-medium-term-investtech",
+    "type": "news",
+    "title": "S&P 500 (SP500) - Technical Analysis - Medium term - Investtech",
+    "slug": "s-p-500-sp500-technical-analysis-medium-term-investtech",
+    "date": "2026-07-05",
+    "displayDate": "July 5, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The S&P 500 shows medium-term technical analysis trends. Investtech disclaims responsibility for any losses from its analyses. Cookies are used to enhance user ",
+    "excerpt": "The S&P 500 shows medium-term technical analysis trends. Investtech disclaims responsibility for any losses from its analyses. Cookies are used to enhance user experience.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "S&P 500 (SP500) - Technical Analysis - Medium term - Investtech"
     },
     "readingTime": 3
   },
@@ -441,6 +798,27 @@
     "readingTime": 3
   },
   {
+    "id": "six-portfolio-strategy-ideas-for-2026-youtube",
+    "type": "news",
+    "title": "Six portfolio strategy ideas for 2026 - YouTube",
+    "slug": "six-portfolio-strategy-ideas-for-2026-youtube",
+    "date": "2026-07-05",
+    "displayDate": "July 5, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "For 2026, consider increasing small caps and emerging markets, staying overweight equities globally, preparing for shifting sector leadership, using fixed incom",
+    "excerpt": "For 2026, consider increasing small caps and emerging markets, staying overweight equities globally, preparing for shifting sector leadership, using fixed income for stability, deploying excess cash toward key themes, and exploring alternatives for qualified investors.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Six portfolio strategy ideas for 2026 - YouTube"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "stock-earnings-calendar-earnings-reports-today-this-week",
     "type": "news",
     "title": "Stock Earnings Calendar | Earnings Reports Today & This Week",
@@ -458,6 +836,69 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "Stock Earnings Calendar | Earnings Reports Today & This Week"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "technology-financial-times",
+    "type": "news",
+    "title": "Technology | Financial Times",
+    "slug": "technology-financial-times",
+    "date": "2026-07-05",
+    "displayDate": "July 5, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Financial Times offers business news and insights, including technology updates, through its app and podcast. The FT app provides free access to journalism ",
+    "excerpt": "The Financial Times offers business news and insights, including technology updates, through its app and podcast. The FT app provides free access to journalism and podcasts, while the FT Tech Tonic podcast explores technological advancements.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Technology | Financial Times"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "technology-stock-performance-yahoo-finance",
+    "type": "news",
+    "title": "Technology Stock Performance - Yahoo Finance",
+    "slug": "technology-stock-performance-yahoo-finance",
+    "date": "2026-07-05",
+    "displayDate": "July 5, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Tech stocks had a strong six-month performance, driven by AI infrastructure stocks. Micron's earnings boosted semiconductor stocks, while AI jitters affected th",
+    "excerpt": "Tech stocks had a strong six-month performance, driven by AI infrastructure stocks. Micron's earnings boosted semiconductor stocks, while AI jitters affected the broader market. AI remains a key driver of tech sector growth.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Technology Stock Performance - Yahoo Finance"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "technology-the-new-york-times",
+    "type": "news",
+    "title": "Technology - The New York Times",
+    "slug": "technology-the-new-york-times",
+    "date": "2026-07-05",
+    "displayDate": "July 5, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bending Spoons, an Italian company, is going public with a potential value of $19 billion. Teens face risks from harmful content and unknown adults on tech devi",
+    "excerpt": "Bending Spoons, an Italian company, is going public with a potential value of $19 billion. Teens face risks from harmful content and unknown adults on tech devices. San Francisco tech salaries are insufficient despite high costs of living.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Technology - The New York Times"
     },
     "readingTime": 3
   },
@@ -630,6 +1071,27 @@
     "readingTime": 3
   },
   {
+    "id": "what-federal-reserve-monetary-policy-means-for-investors",
+    "type": "news",
+    "title": "What Federal Reserve monetary policy means for investors",
+    "slug": "what-federal-reserve-monetary-policy-means-for-investors",
+    "date": "2026-07-05",
+    "displayDate": "July 5, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Federal Reserve monetary policy affects borrowing costs, stock and bond performance, and overall economic growth, influencing investors' decisions. The Fed sets",
+    "excerpt": "Federal Reserve monetary policy affects borrowing costs, stock and bond performance, and overall economic growth, influencing investors' decisions. The Fed sets interest rates to manage inflation and employment, impacting investment returns. Changes in policy can lead to shifts in market conditions.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "What Federal Reserve monetary policy means for investors"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "2026-economic-calendar",
     "type": "news",
     "title": "2026 Economic Calendar",
@@ -798,27 +1260,6 @@
     "readingTime": 3
   },
   {
-    "id": "company-earnings-calendar-yahoo-finance",
-    "type": "news",
-    "title": "Company Earnings Calendar - Yahoo Finance",
-    "slug": "company-earnings-calendar-yahoo-finance",
-    "date": "2026-07-04",
-    "displayDate": "July 4, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Company Earnings Calendar on Yahoo Finance is found at https://finance.yahoo.com/calendar/earnings. It lists upcoming earnings announcements and financial e",
-    "excerpt": "The Company Earnings Calendar on Yahoo Finance is found at https://finance.yahoo.com/calendar/earnings. It lists upcoming earnings announcements and financial events.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Company Earnings Calendar - Yahoo Finance"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "consumer-price-index-cpi-us-prices-collection",
     "type": "news",
     "title": "Consumer Price Index (CPI) | US Prices | Collection",
@@ -941,27 +1382,6 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "Earnings Calendar | Markets Insider"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "earnings-cnbc",
-    "type": "news",
-    "title": "Earnings - CNBC",
-    "slug": "earnings-cnbc",
-    "date": "2026-07-04",
-    "displayDate": "July 4, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "CNBC provides earnings reports, announcements, and a calendar for upcoming earnings. The earnings section covers various sectors including tech, retail, and ind",
-    "excerpt": "CNBC provides earnings reports, announcements, and a calendar for upcoming earnings. The earnings section covers various sectors including tech, retail, and industrials. The earnings calendar lists companies scheduled to report.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Earnings - CNBC"
     },
     "readingTime": 3
   },
@@ -1323,69 +1743,6 @@
     "readingTime": 3
   },
   {
-    "id": "global-market-headlines-breaking-stock-market-news-reuters",
-    "type": "news",
-    "title": "Global Market Headlines | Breaking Stock Market News | Reuters",
-    "slug": "global-market-headlines-breaking-stock-market-news-reuters",
-    "date": "2026-07-04",
-    "displayDate": "July 4, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Global stocks are up, and the US job data has shifted interest rate expectations. Russia's VTB is increasing reserves due to rising fuel prices. US sanctions im",
-    "excerpt": "Global stocks are up, and the US job data has shifted interest rate expectations. Russia's VTB is increasing reserves due to rising fuel prices. US sanctions impacted a Brazilian drug investigation.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Global Market Headlines | Breaking Stock Market News | Reuters"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "global-market-indices-international-markets-markets-insider",
-    "type": "news",
-    "title": "Global Market Indices | International Markets - Markets Insider",
-    "slug": "global-market-indices-international-markets-markets-insider",
-    "date": "2026-07-04",
-    "displayDate": "July 4, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Dow Jones is up 1.14%, NASDAQ 100 is down 1.61%, and VIX is down 2.11% as of July 2, 2026. Global indices include Nasdaq, Dow Jones, and S&P 500. Current da",
-    "excerpt": "The Dow Jones is up 1.14%, NASDAQ 100 is down 1.61%, and VIX is down 2.11% as of July 2, 2026. Global indices include Nasdaq, Dow Jones, and S&P 500. Current date is July 4, 2026.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Global Market Indices | International Markets - Markets Insider"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "global-stock-market-news-and-world-indices-coverage-cnbc",
-    "type": "news",
-    "title": "Global Stock Market News and World Indices Coverage - CNBC",
-    "slug": "global-stock-market-news-and-world-indices-coverage-cnbc",
-    "date": "2026-07-04",
-    "displayDate": "July 4, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Global stock markets fluctuated with mixed performances, driven by geopolitical tensions and economic indicators. The S&P 500 and Nasdaq experienced volatility,",
-    "excerpt": "Global stock markets fluctuated with mixed performances, driven by geopolitical tensions and economic indicators. The S&P 500 and Nasdaq experienced volatility, while international markets showed varied trends influenced by U.S.-Iran relations. Current data reflects ongoing market dynamics and inves",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Global Stock Market News and World Indices Coverage - CNBC"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "health-care-sector-industry-performance-bloomberg-com",
     "type": "news",
     "title": "Health Care Sector & Industry Performance - Bloomberg.com",
@@ -1445,27 +1802,6 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "Inflation, consumer prices (annual %) - United States | Data"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "inflation-consumer-prices-for-the-united-states-fred",
-    "type": "news",
-    "title": "Inflation, consumer prices for the United States - FRED",
-    "slug": "inflation-consumer-prices-for-the-united-states-fred",
-    "date": "2026-07-04",
-    "displayDate": "July 4, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Inflation, consumer prices for the United States is measured by the Consumer Price Index, reflecting annual changes in the cost of a fixed basket of goods and s",
-    "excerpt": "Inflation, consumer prices for the United States is measured by the Consumer Price Index, reflecting annual changes in the cost of a fixed basket of goods and services. The key series is CPIAUCSL from the U.S. Bureau of Labor Statistics. Current data is available up to July 2026.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Inflation, consumer prices for the United States - FRED"
     },
     "readingTime": 3
   },
@@ -1571,69 +1907,6 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "Real Gross Domestic Product | FRED | St. Louis Fed"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "s-p-500-index-sp500-analysis-news-and-chart-today",
-    "type": "news",
-    "title": "S&P 500 Index (SP500) Analysis, News, And Chart Today",
-    "slug": "s-p-500-index-sp500-analysis-news-and-chart-today",
-    "date": "2026-07-04",
-    "displayDate": "July 4, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The S&P 500 Index today shows a price of 160.44, with real-time news and analysis available. Current trends and analyst forecasts are also accessible for inform",
-    "excerpt": "The S&P 500 Index today shows a price of 160.44, with real-time news and analysis available. Current trends and analyst forecasts are also accessible for informed decisions.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "S&P 500 Index (SP500) Analysis, News, And Chart Today"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "s-p-500-index-technical-analysis-barchart-com",
-    "type": "news",
-    "title": "S&P 500 Index Technical Analysis - Barchart.com",
-    "slug": "s-p-500-index-technical-analysis-barchart-com",
-    "date": "2026-07-04",
-    "displayDate": "July 4, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The S&P 500 has a Strong Buy signal based on moving averages and technical indicators. The 14-day RSI and MACD suggest a bullish trend. Technical analysis tools",
-    "excerpt": "The S&P 500 has a Strong Buy signal based on moving averages and technical indicators. The 14-day RSI and MACD suggest a bullish trend. Technical analysis tools like RSI and MACD indicate a favorable outlook.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "S&P 500 Index Technical Analysis - Barchart.com"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "s-p-500-sp500-technical-analysis-medium-term-investtech",
-    "type": "news",
-    "title": "S&P 500 (SP500) - Technical Analysis - Medium term - Investtech",
-    "slug": "s-p-500-sp500-technical-analysis-medium-term-investtech",
-    "date": "2026-07-04",
-    "displayDate": "July 4, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The S&P 500 is in a rising trend channel in the medium term and is technically slightly positive. Investtech is not liable for any losses from using their analy",
-    "excerpt": "The S&P 500 is in a rising trend channel in the medium term and is technically slightly positive. Investtech is not liable for any losses from using their analyses. The current date is 2026-07-04.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "S&P 500 (SP500) - Technical Analysis - Medium term - Investtech"
     },
     "readingTime": 3
   },
@@ -1783,27 +2056,6 @@
       "alt": "SECTORS - Technology"
     },
     "readingTime": 3
-  },
-  {
-    "id": "six-portfolio-strategy-ideas-for-2026-youtube",
-    "type": "news",
-    "title": "Six portfolio strategy ideas for 2026 - YouTube",
-    "slug": "six-portfolio-strategy-ideas-for-2026-youtube",
-    "date": "2026-07-04",
-    "displayDate": "July 4, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "For 2026, consider increasing small caps and emerging markets, staying overweight equities, preparing for sector shifts, using fixed income for stability, deplo",
-    "excerpt": "For 2026, consider increasing small caps and emerging markets, staying overweight equities, preparing for sector shifts, using fixed income for stability, deploying excess cash strategically, and exploring alternatives for advanced investors.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Six portfolio strategy ideas for 2026 - YouTube"
-    },
-    "readingTime": 5
   },
   {
     "id": "six-portfolio-strategy-ideas-for-2026",
@@ -2205,27 +2457,6 @@
     "readingTime": 3
   },
   {
-    "id": "bitcoin-price-today-btc-price-chart-live-trends-kraken",
-    "type": "news",
-    "title": "Bitcoin price today - BTC price chart & live trends - Kraken",
-    "slug": "bitcoin-price-today-btc-price-chart-live-trends-kraken",
-    "date": "2026-07-03",
-    "displayDate": "July 3, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Bitcoin price today is $61,331.00. In the last 24 hours, it increased by 2.30%. The live trends show a steady rise.",
-    "excerpt": "Bitcoin price today is $61,331.00. In the last 24 hours, it increased by 2.30%. The live trends show a steady rise.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Bitcoin price today - BTC price chart & live trends - Kraken"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "bitcoin-price-today-live-btc-price-chart-market-data-binance",
     "type": "news",
     "title": "Bitcoin Price Today | Live BTC Price, Chart & Market Data - Binance",
@@ -2474,27 +2705,6 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "Global Companies Reports and Earnings"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "health-technology-sector-stocks",
-    "type": "news",
-    "title": "Health Technology Sector - Stocks",
-    "slug": "health-technology-sector-stocks",
-    "date": "2026-07-03",
-    "displayDate": "July 3, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Eli Lilly, Johnson & Johnson, AstraZeneca, Novartis, and Novo Nordisk are major stocks in the health technology sector. The sector has a combined market cap of ",
-    "excerpt": "Eli Lilly, Johnson & Johnson, AstraZeneca, Novartis, and Novo Nordisk are major stocks in the health technology sector. The sector has a combined market cap of $8.96 trillion. Healthcare stocks generally perform well, with many showing positive growth.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Health Technology Sector - Stocks"
     },
     "readingTime": 3
   },
@@ -2961,27 +3171,6 @@
     "readingTime": 3
   },
   {
-    "id": "bitcoin-btc-price-usd-today-news-charts-market-cap-coinbase",
-    "type": "news",
-    "title": "Bitcoin (BTC) Price USD Today, News, Charts, Market Cap | Coinbase",
-    "slug": "bitcoin-btc-price-usd-today-news-charts-market-cap-coinbase",
-    "date": "2026-07-02",
-    "displayDate": "July 2, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Bitcoin's price today is $59,897.40. Its market cap is $1,200,678,327,986. The price has decreased by 6% over the past week.",
-    "excerpt": "Bitcoin's price today is $59,897.40. Its market cap is $1,200,678,327,986. The price has decreased by 6% over the past week.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Bitcoin (BTC) Price USD Today, News, Charts, Market Cap | Coinbase"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "bureau-of-labor-statistics",
     "type": "news",
     "title": "Bureau of Labor Statistics",
@@ -2999,27 +3188,6 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "Bureau of Labor Statistics"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "cryptocurrency-market-today-news-prices-ideas-tradingview",
-    "type": "news",
-    "title": "Cryptocurrency Market Today: News, Prices, Ideas - TradingView",
-    "slug": "cryptocurrency-market-today-news-prices-ideas-tradingview",
-    "date": "2026-07-02",
-    "displayDate": "July 2, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Bitcoin and altcoin prices are currently fluctuating, with market cap and news updates available for informed investing. Major coins and emerging tokens are tra",
-    "excerpt": "Bitcoin and altcoin prices are currently fluctuating, with market cap and news updates available for informed investing. Major coins and emerging tokens are tracked for trends. Stay updated with the latest cryptocurrency news and market insights.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Cryptocurrency Market Today: News, Prices, Ideas - TradingView"
     },
     "readingTime": 3
   },
@@ -14402,27 +14570,6 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "Global stocks retreat and bonds wilt as oil climbs"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "health-care-sector-industry-performance",
-    "type": "news",
-    "title": "Health Care Sector & Industry Performance",
-    "slug": "health-care-sector-industry-performance",
-    "date": "2026-05-18",
-    "displayDate": "May 18, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Find information about the Health Care sector and industry performance in the U.S. Track the Health Care performance of the stock sector...",
-    "excerpt": "Find information about the Health Care sector and industry performance in the U.S. Track the Health Care performance of the stock sector...",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Health Care Sector & Industry Performance"
     },
     "readingTime": 3
   },

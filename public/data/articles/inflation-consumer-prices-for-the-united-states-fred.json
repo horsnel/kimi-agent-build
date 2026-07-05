@@ -3,8 +3,8 @@
   "type": "news",
   "title": "Inflation, consumer prices for the United States - FRED",
   "slug": "inflation-consumer-prices-for-the-united-states-fred",
-  "date": "2026-07-04",
-  "displayDate": "July 4, 2026",
+  "date": "2026-07-05",
+  "displayDate": "July 5, 2026",
   "author": "Sigma Capital",
   "category": "Economic Data",
   "tags": [
@@ -12,10 +12,10 @@
     "financial news",
     "market update"
   ],
-  "metaDescription": "Inflation, consumer prices for the United States is measured by the Consumer Price Index, reflecting annual changes in the cost of a fixed basket of goods and s",
-  "excerpt": "Inflation, consumer prices for the United States is measured by the Consumer Price Index, reflecting annual changes in the cost of a fixed basket of goods and services. The key series is CPIAUCSL from the U.S. Bureau of Labor Statistics. Current data is available up to July 2026.",
+  "metaDescription": "Inflation, consumer prices for the United States is measured by the Consumer Price Index, reflecting annual changes in the cost of goods and services. The key s",
+  "excerpt": "Inflation, consumer prices for the United States is measured by the Consumer Price Index, reflecting annual changes in the cost of goods and services. The key series is CPIAUCSL from the U.S. Bureau of Labor Statistics. Data is available from FRED.",
   "content": {
-    "introduction": "Inflation, consumer prices for the United States is measured by the Consumer Price Index, reflecting annual changes in the cost of a fixed basket of goods and services. The key series is CPIAUCSL from the U.S. Bureau of Labor Statistics. Current data is available up to July 2026.",
+    "introduction": "Inflation, consumer prices for the United States is measured by the Consumer Price Index, reflecting annual changes in the cost of goods and services. The key series is CPIAUCSL from the U.S. Bureau of Labor Statistics. Data is available from FRED.",
     "body": [
       "U.S. financial, economic, and banking history. Home > Categories > International Data > Countries > United States. # Inflation, consumer prices for the United States (FPCPITOTLZGUSA). Inflation as measured by the consumer price index reflects the annual percentage change in the cost to the average consumer of acquiring a basket of goods and services that may be fixed or changed at specified intervals, such as yearly. World Bank, Inflation, consumer prices for the United States [FPCPITOTLZGUSA], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/FPCPITOTLZGUSA, . **Consumer Price Index: All Items: Total for United States**. **Consumer Price Index for All Urban Consumers: All Items Less Food and Energy in U.S. City Average**. **Consumer Price Index for All Urban Consumers: All Items in U.S. City Average**. **Inflation, consumer prices for the United States**. United States Countries International Data. Consumer   Consumer Price Index   World Development Indicators   World Bank   Inflation   Price Index   Indexes   Price   Annual   Nation   Public Domain: Citation Requested   United States of America   Not Seasonally Adjusted.",
       "U.S. Bureau of Labor Statistics, Consumer Price Index for All Urban Consumers: All Items in U.S. City Average [CPIAUCSL], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/CPIAUCSL, July 4, 2026. [![Image 14](https://fred.stlouisfed.org/images/loading.svg)](https://fred.stlouisfed.org/series/FPCPITOTLZGUSA \"Inflation, consumer prices for the United States\"). [![Image 15](https://fred.stlouisfed.org/images/loading.svg)](https://fred.stlouisfed.org/series/CPILFESL \"Consumer Price Index for All Urban Consumers: All Items Less Food and Energy in U.S. City Average\"). [![Image 18](https://fred.stlouisfed.org/images/loading.svg)](https://fred.stlouisfed.org/series/CPALTT01USM657N \"Consumer Price Index: All Items: Total for United States\"). [![Image 19](https://fred.stlouisfed.org/images/loading.svg)](https://fred.stlouisfed.org/series/CORESTICKM159SFRBATL \"Sticky Price Consumer Price Index less Food and Energy\"). [![Image 21](https://fred.stlouisfed.org/images/loading.svg)](https://fredblog.stlouisfed.org/2025/11/long-term-price-trends/?utm_source=series_page&utm_medium=related_content&utm_term=related_resources&utm_campaign=fredblog \"Long-term price trends\"). [![Image 22](https://fred.stlouisfed.org/images/loading.svg)](https://fredblog.stlouisfed.org/2025/11/the-harmonized-consumer-price-index/?utm_source=series_page&utm_medium=related_content&utm_term=related_resources&utm_campaign=fredblog \"The harmonized consumer price index\"). [![Image 23](https://fred.stlouisfed.org/images/loading.svg)](https://fredblog.stlouisfed.org/2025/10/demystifying-the-producer-price-index/?utm_source=series_page&utm_medium=related_content&utm_term=related_resources&utm_campaign=fredblog \"Demystifying the producer price index\"). [![Image 24](https://fred.stlouisfed.org/images/loading.svg)](https://alfred.stlouisfed.org/series?seid=CPIAUCSL&utm_source=series_page&utm_medium=related_content&utm_term=related_resources&utm_campaign=alfred \"Consumer Price Index for All Urban Consumers: All Items in U.S. City Average\"). [**Consumer Price Index for All Urban Consumers: All Items in U.S. City Average**](https://alfred.stlouisfed.org/series?seid=CPIAUCSL&utm_source=series_page&utm_medium=related_content&utm_term=related_resources&utm_campaign=alfred \"Consumer Price Index for All Urban Consumers: All Items in U.S. City Average\"). [More Series from Consumer Price Index](https://fred.stlouisfed.org/release?rid=10).",
@@ -30,14 +30,14 @@
     "sourceUrl": "https://fred.stlouisfed.org/series/FPCPITOTLZGUSA"
   },
   "readingTime": 3,
-  "updatedAt": "2026-07-04T13:40:22.846Z",
+  "updatedAt": "2026-07-05T08:47:03.573Z",
   "images": {
     "thumbnail": {
-      "src": "/images/article_thumb_6.jpg",
+      "src": "/images/article_thumb_5.jpg",
       "alt": "Inflation, consumer prices for the United States - FRED"
     },
     "hero": {
-      "src": "/images/article_thumb_6.jpg",
+      "src": "/images/article_thumb_5.jpg",
       "alt": "Inflation, consumer prices for the United States - FRED"
     },
     "mid": {
@@ -46,7 +46,7 @@
     }
   },
   "image": {
-    "src": "/images/article_thumb_4.jpg",
+    "src": "/images/article_thumb_2.jpg",
     "alt": "Inflation, consumer prices for the United States - FRED"
   }
 }
