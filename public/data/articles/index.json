@@ -1,5 +1,635 @@
 [
   {
+    "id": "2026-outlook-portfolio-wide-views-cambridge-associates",
+    "type": "news",
+    "title": "2026 Outlook: Portfolio-Wide Views - Cambridge Associates",
+    "slug": "2026-outlook-portfolio-wide-views-cambridge-associates",
+    "date": "2026-07-05",
+    "displayDate": "July 5, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Equity allocations have increased, prompting reassessment for diversification. Labor market weakening may signal economic shifts. Cambridge Associates suggests ",
+    "excerpt": "Equity allocations have increased, prompting reassessment for diversification. Labor market weakening may signal economic shifts. Cambridge Associates suggests overweighting global ex-US equities in 2026.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "2026 Outlook: Portfolio-Wide Views - Cambridge Associates"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "asia-stock-markets-cnbc",
+    "type": "news",
+    "title": "Asia Stock Markets - CNBC",
+    "slug": "asia-stock-markets-cnbc",
+    "date": "2026-07-05",
+    "displayDate": "July 5, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Asia stock markets opened higher, tracking overnight Wall Street gains. The Kospi, Nikkei 225, and Topix all rose significantly. U.S. futures also increased fol",
+    "excerpt": "Asia stock markets opened higher, tracking overnight Wall Street gains. The Kospi, Nikkei 225, and Topix all rose significantly. U.S. futures also increased following positive peace talks.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Asia Stock Markets - CNBC"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "asian-market-headlines-breaking-stock-market-news-reuters",
+    "type": "news",
+    "title": "Asian Market Headlines | Breaking Stock Market News - Reuters",
+    "slug": "asian-market-headlines-breaking-stock-market-news-reuters",
+    "date": "2026-07-05",
+    "displayDate": "July 5, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Indian shares outperformed broader Asia as oil prices dropped and IT rebounded. Japan continues to monitor yen intervention. Latest global market news available",
+    "excerpt": "Indian shares outperformed broader Asia as oil prices dropped and IT rebounded. Japan continues to monitor yen intervention. Latest global market news available on Reuters.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Asian Market Headlines | Breaking Stock Market News - Reuters"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "bitcoin-btc-price-today-live-chart",
+    "type": "news",
+    "title": "Bitcoin (BTC) Price Today | Live Chart",
+    "slug": "bitcoin-btc-price-today-live-chart",
+    "date": "2026-07-05",
+    "displayDate": "July 5, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin's price today is approximately $63,000. The 24-hour trading volume is around $18 billion. Bitcoin has risen by about 1% in the past day.",
+    "excerpt": "Bitcoin's price today is approximately $63,000. The 24-hour trading volume is around $18 billion. Bitcoin has risen by about 1% in the past day.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Bitcoin (BTC) Price Today | Live Chart"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "bitcoin-price-today-btc-price-chart-live-trends",
+    "type": "news",
+    "title": "Bitcoin price today - BTC price chart & live trends",
+    "slug": "bitcoin-price-today-btc-price-chart-live-trends",
+    "date": "2026-07-05",
+    "displayDate": "July 5, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin's price today is around $63,000. It has increased by about 1% in the last 24 hours. The current market cap is over $1.3 trillion.",
+    "excerpt": "Bitcoin's price today is around $63,000. It has increased by about 1% in the last 24 hours. The current market cap is over $1.3 trillion.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Bitcoin price today - BTC price chart & live trends"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "bitcoin-price-today-live-btc-price-chart-market-data",
+    "type": "news",
+    "title": "Bitcoin Price Today | Live BTC Price, Chart & Market Data",
+    "slug": "bitcoin-price-today-live-btc-price-chart-market-data",
+    "date": "2026-07-05",
+    "displayDate": "July 5, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "As of today, Bitcoin's price is approximately $63,000. The 24-hour trading volume is around $18.6 billion. Bitcoin's market cap is over $1.3 trillion.",
+    "excerpt": "As of today, Bitcoin's price is approximately $63,000. The 24-hour trading volume is around $18.6 billion. Bitcoin's market cap is over $1.3 trillion.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Bitcoin Price Today | Live BTC Price, Chart & Market Data"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "consumer-price-index-1913-federal-reserve-bank-of-minneapolis",
+    "type": "news",
+    "title": "Consumer Price Index, 1913- | Federal Reserve Bank of Minneapolis",
+    "slug": "consumer-price-index-1913-federal-reserve-bank-of-minneapolis",
+    "date": "2026-07-05",
+    "displayDate": "July 5, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Consumer Price Index (CPI) began in 1913, with official U.S. data from the Bureau of Labor Statistics. The CPI measures inflation and is calculated from 191",
+    "excerpt": "The Consumer Price Index (CPI) began in 1913, with official U.S. data from the Bureau of Labor Statistics. The CPI measures inflation and is calculated from 1913 onward. The Federal Reserve Bank of Minneapolis provides historical CPI data.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Consumer Price Index, 1913- | Federal Reserve Bank of Minneapolis"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "cpi-home-u-s-bureau-of-labor-statistics",
+    "type": "news",
+    "title": "CPI Home : U.S. Bureau of Labor Statistics",
+    "slug": "cpi-home-u-s-bureau-of-labor-statistics",
+    "date": "2026-07-05",
+    "displayDate": "July 5, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Consumer Price Index (CPI) measures inflation in the U.S. It tracks price changes for goods and services. The latest CPI report shows a 0.5% increase in May",
+    "excerpt": "The Consumer Price Index (CPI) measures inflation in the U.S. It tracks price changes for goods and services. The latest CPI report shows a 0.5% increase in May 2026.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "CPI Home : U.S. Bureau of Labor Statistics"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "earnings-breaking-news-and-press-releases-business-wire",
+    "type": "news",
+    "title": "Earnings Breaking News and Press Releases - Business Wire",
+    "slug": "earnings-breaking-news-and-press-releases-business-wire",
+    "date": "2026-07-05",
+    "displayDate": "July 5, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Business Wire provides the latest earnings news and press releases, distributing financial performance updates and market reactions. It is a leader in news rele",
+    "excerpt": "Business Wire provides the latest earnings news and press releases, distributing financial performance updates and market reactions. It is a leader in news release distribution to investors and media.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Earnings Breaking News and Press Releases - Business Wire"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "earnings-calendar-2026-daily-earnings-reports-marketbeat",
+    "type": "news",
+    "title": "Earnings Calendar 2026 | Daily Earnings Reports - MarketBeat",
+    "slug": "earnings-calendar-2026-daily-earnings-reports-marketbeat",
+    "date": "2026-07-05",
+    "displayDate": "July 5, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Earnings reports for July 9, 2026, include Byrna Technologies, Frequency Electronics, and Helen of Troy Limited. Analysts' estimates and financial details are a",
+    "excerpt": "Earnings reports for July 9, 2026, include Byrna Technologies, Frequency Electronics, and Helen of Troy Limited. Analysts' estimates and financial details are available. MarketBeat provides comprehensive summaries of financial performance.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Earnings Calendar 2026 | Daily Earnings Reports - MarketBeat"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "earnings-calendar-nasdaq",
+    "type": "news",
+    "title": "Earnings Calendar - Nasdaq",
+    "slug": "earnings-calendar-nasdaq",
+    "date": "2026-07-05",
+    "displayDate": "July 5, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Nasdaq earnings calendar is available at https://www.nasdaq.com/market-activity/earnings. For additional earnings data, visit https://www.investing.com/earn",
+    "excerpt": "The Nasdaq earnings calendar is available at https://www.nasdaq.com/market-activity/earnings. For additional earnings data, visit https://www.investing.com/earnings-calendar. Nasdaq's quarterly earnings reports are found at https://ir.nasdaq.com/financials/quarterly-results.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Earnings Calendar - Nasdaq"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "federal-open-market-committee-wikipedia",
+    "type": "news",
+    "title": "Federal Open Market Committee - Wikipedia",
+    "slug": "federal-open-market-committee-wikipedia",
+    "date": "2026-07-05",
+    "displayDate": "July 5, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Open Market Committee (FOMC) oversees the nation's open market operations and sets monetary policy. It consists of 12 members, including seven Board",
+    "excerpt": "The Federal Open Market Committee (FOMC) oversees the nation's open market operations and sets monetary policy. It consists of 12 members, including seven Board of Governors and four rotating Reserve Bank presidents. The FOMC directs open market operations to achieve economic goals.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Federal Open Market Committee - Wikipedia"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "federal-reserve-monetary-policy-u-s-bank",
+    "type": "news",
+    "title": "Federal Reserve Monetary Policy | U.S. Bank",
+    "slug": "federal-reserve-monetary-policy-u-s-bank",
+    "date": "2026-07-05",
+    "displayDate": "July 5, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Reserve's Federal Open Market Committee sets the federal funds rate to influence economic conditions. The Fed uses tools like open market operations",
+    "excerpt": "The Federal Reserve's Federal Open Market Committee sets the federal funds rate to influence economic conditions. The Fed uses tools like open market operations and the discount rate to manage the money supply and interest rates. These policies aim to control inflation and stabilize the economy.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Federal Reserve Monetary Policy | U.S. Bank"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "finance-and-markets-wsj-com",
+    "type": "news",
+    "title": "Finance and Markets - WSJ.com",
+    "slug": "finance-and-markets-wsj-com",
+    "date": "2026-07-05",
+    "displayDate": "July 5, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Russell 2000 climbed 22% in the first half of the year. U.S. stocks and market indexes are available for real-time quotes. The president's investment accoun",
+    "excerpt": "The Russell 2000 climbed 22% in the first half of the year. U.S. stocks and market indexes are available for real-time quotes. The president's investment accounts made over 20,000 trades last year.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Finance and Markets - WSJ.com"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "how-to-build-a-diversified-investment-portfolio-in-2026",
+    "type": "news",
+    "title": "How to Build a Diversified Investment Portfolio in 2026",
+    "slug": "how-to-build-a-diversified-investment-portfolio-in-2026",
+    "date": "2026-07-05",
+    "displayDate": "July 5, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "To build a diversified investment portfolio in 2026, include a mix of stocks, bonds, precious metals, and cryptocurrencies. Focus on reducing concentration risk",
+    "excerpt": "To build a diversified investment portfolio in 2026, include a mix of stocks, bonds, precious metals, and cryptocurrencies. Focus on reducing concentration risk and consider rebalancing to maintain balance. Use smart diversification strategies to protect against market volatility.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "How to Build a Diversified Investment Portfolio in 2026"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "inflation-consumer-prices-annual-united-states",
+    "type": "news",
+    "title": "Inflation, consumer prices (annual %) - United States",
+    "slug": "inflation-consumer-prices-annual-united-states",
+    "date": "2026-07-05",
+    "displayDate": "July 5, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Inflation in the United States, measured by the consumer price index, was 3.8% in May 2026. Core inflation, excluding food and energy, was 4.2%. These figures r",
+    "excerpt": "Inflation in the United States, measured by the consumer price index, was 3.8% in May 2026. Core inflation, excluding food and energy, was 4.2%. These figures reflect annual percentage changes in consumer prices.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Inflation, consumer prices (annual %) - United States"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "inflation-consumer-prices-for-the-united-states-fpcpitotlzgusa",
+    "type": "news",
+    "title": "Inflation, consumer prices for the United States (FPCPITOTLZGUSA)",
+    "slug": "inflation-consumer-prices-for-the-united-states-fpcpitotlzgusa",
+    "date": "2026-07-05",
+    "displayDate": "July 5, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Inflation, consumer prices for the United States (FPCPITOTLZGUSA) measures the annual percentage change in the cost of a fixed basket of goods and services. The",
+    "excerpt": "Inflation, consumer prices for the United States (FPCPITOTLZGUSA) measures the annual percentage change in the cost of a fixed basket of goods and services. The latest data is available from 1960 onward. As of July 4, 2026, the most recent figure is not seasonally adjusted.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Inflation, consumer prices for the United States (FPCPITOTLZGUSA)"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "latest-asia-stock-market-news",
+    "type": "news",
+    "title": "Latest: Asia Stock Market News",
+    "slug": "latest-asia-stock-market-news",
+    "date": "2026-07-05",
+    "displayDate": "July 5, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Asia's stock markets experienced significant declines, with South Korea's Kospi plunging nearly 8% and triggering a trading halt. India's Adani Enterprises incr",
+    "excerpt": "Asia's stock markets experienced significant declines, with South Korea's Kospi plunging nearly 8% and triggering a trading halt. India's Adani Enterprises increased its share sale to $1.75 billion. Chinese robot maker Unitree received approval for a $619 million IPO.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Latest: Asia Stock Market News"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "monetary-policy-federal-reserve-board",
+    "type": "news",
+    "title": "Monetary Policy - Federal Reserve Board",
+    "slug": "monetary-policy-federal-reserve-board",
+    "date": "2026-07-05",
+    "displayDate": "July 5, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Reserve implements monetary policy to achieve high employment and stable inflation, primarily using interest rates and asset purchases. The Federal ",
+    "excerpt": "The Federal Reserve implements monetary policy to achieve high employment and stable inflation, primarily using interest rates and asset purchases. The Federal Open Market Committee (FOMC) sets the federal funds rate target. In 2026, the Fed maintained a patient stance amid inflation and labor marke",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Monetary Policy - Federal Reserve Board"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "sector-industry-performance",
+    "type": "news",
+    "title": "Sector & Industry Performance",
+    "slug": "sector-industry-performance",
+    "date": "2026-07-05",
+    "displayDate": "July 5, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The top-performing sectors include Technology Services and Health Technology, while Finance and Consumer Non-Durables also show strong growth. For detailed sect",
+    "excerpt": "The top-performing sectors include Technology Services and Health Technology, while Finance and Consumer Non-Durables also show strong growth. For detailed sector performance, visit TradingView or Fidelity.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Sector & Industry Performance"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "sectors-stock-market-usa-tradingview",
+    "type": "news",
+    "title": "Sectors — Stock Market — USA — TradingView",
+    "slug": "sectors-stock-market-usa-tradingview",
+    "date": "2026-07-05",
+    "displayDate": "July 5, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The top sectors in the US stock market include Technology Services, Finance, and Health Technology, with significant market capitalization and varying percentag",
+    "excerpt": "The top sectors in the US stock market include Technology Services, Finance, and Health Technology, with significant market capitalization and varying percentage changes. The most active sectors are Consumer Services and Consumer Non-Durables. The market data is sourced from TradingView.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Sectors — Stock Market — USA — TradingView"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "stock-earnings-calendar-earnings-reports-today-this-week",
+    "type": "news",
+    "title": "Stock Earnings Calendar | Earnings Reports Today & This Week",
+    "slug": "stock-earnings-calendar-earnings-reports-today-this-week",
+    "date": "2026-07-05",
+    "displayDate": "July 5, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Today and this week, key companies report earnings, with notable events listed on stocktwits.com, earningshub.com, and investing.com. These platforms track earn",
+    "excerpt": "Today and this week, key companies report earnings, with notable events listed on stocktwits.com, earningshub.com, and investing.com. These platforms track earnings reports and forecasts.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Stock Earnings Calendar | Earnings Reports Today & This Week"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "the-allocator-s-checklist-for-2026-and-beyond-wellington-management",
+    "type": "news",
+    "title": "The allocator’s checklist for 2026 and beyond | Wellington Management",
+    "slug": "the-allocator-s-checklist-for-2026-and-beyond-wellington-management",
+    "date": "2026-07-05",
+    "displayDate": "July 5, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The 2026 allocator checklist emphasizes equity outperformance, the US dollar's volatility, and strategic policy impacts on markets. It focuses on defining inves",
+    "excerpt": "The 2026 allocator checklist emphasizes equity outperformance, the US dollar's volatility, and strategic policy impacts on markets. It focuses on defining investment priorities for greater impact.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "The allocator’s checklist for 2026 and beyond | Wellington Management"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "this-week-s-best-performing-stocks-sectors-industries-rankings-csimarket",
+    "type": "news",
+    "title": "This Week's Best Performing Stocks, Sectors, Industries Rankings - CSIMarket",
+    "slug": "this-week-s-best-performing-stocks-sectors-industries-rankings-csimarket",
+    "date": "2026-07-05",
+    "displayDate": "July 5, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "This week's best performing sector is Computer Hardware. Year-to-date, Computer Hardware leads with 158.17% growth. Marqeta Inc is this month's top performer wi",
+    "excerpt": "This week's best performing sector is Computer Hardware. Year-to-date, Computer Hardware leads with 158.17% growth. Marqeta Inc is this month's top performer with 144.92% growth.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "This Week's Best Performing Stocks, Sectors, Industries Rankings - CSIMarket"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "u-s-stock-market-headlines-breaking-stock-market-news-reuters",
+    "type": "news",
+    "title": "U.S. Stock Market Headlines | Breaking Stock Market News - Reuters",
+    "slug": "u-s-stock-market-headlines-breaking-stock-market-news-reuters",
+    "date": "2026-07-05",
+    "displayDate": "July 5, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "U.S. stocks dipped slightly on Wednesday, with tech shares declining, but Meta Platforms' gains limited the drop. The Fed and stock market received relief from ",
+    "excerpt": "U.S. stocks dipped slightly on Wednesday, with tech shares declining, but Meta Platforms' gains limited the drop. The Fed and stock market received relief from cooling US jobs data. The June jobs report eased investor concerns.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "U.S. Stock Market Headlines | Breaking Stock Market News - Reuters"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "u-s-stock-markets-today-fox-business",
+    "type": "news",
+    "title": "U.S. Stock Markets Today - Fox Business",
+    "slug": "u-s-stock-markets-today-fox-business",
+    "date": "2026-07-05",
+    "displayDate": "July 5, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "As of today, the Dow Jones averages 52,305.24, the NASDAQ Composite Index 26,040.03, and the S&P 500 7,483.23. These are the latest U.S. stock market quotes.",
+    "excerpt": "As of today, the Dow Jones averages 52,305.24, the NASDAQ Composite Index 26,040.03, and the S&P 500 7,483.23. These are the latest U.S. stock market quotes.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "U.S. Stock Markets Today - Fox Business"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "united-states-economic-indicators-moody-s-analytics",
+    "type": "news",
+    "title": "United States | Economic Indicators | Moody's Analytics",
+    "slug": "united-states-economic-indicators-moody-s-analytics",
+    "date": "2026-07-05",
+    "displayDate": "July 5, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The U.S. economy saw a GDP annual growth rate of 2.7% in March 2026, with an unemployment rate of 4.2% in June 2026. The full-year GDP growth for 2025 was 2.1%.",
+    "excerpt": "The U.S. economy saw a GDP annual growth rate of 2.7% in March 2026, with an unemployment rate of 4.2% in June 2026. The full-year GDP growth for 2025 was 2.1%. These figures reflect the economic performance and labor market conditions.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "United States | Economic Indicators | Moody's Analytics"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "united-states-indicators",
+    "type": "news",
+    "title": "United States Indicators",
+    "slug": "united-states-indicators",
+    "date": "2026-07-05",
+    "displayDate": "July 5, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The United States GDP growth rate is 2.1% in March 2026, and the unemployment rate is 4.2% in June 2026. The World Bank reports a GDP of $21.43 trillion in curr",
+    "excerpt": "The United States GDP growth rate is 2.1% in March 2026, and the unemployment rate is 4.2% in June 2026. The World Bank reports a GDP of $21.43 trillion in current US dollars for 2026. The poverty headcount ratio is 3.4% of the population.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "United States Indicators"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "us-earnings-season-q2-2026-ii-interactive-investor",
+    "type": "news",
+    "title": "US earnings season - Q2 2026 - ii - Interactive Investor",
+    "slug": "us-earnings-season-q2-2026-ii-interactive-investor",
+    "date": "2026-07-05",
+    "displayDate": "July 5, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "US earnings season for Q2 2026 starts in earnest in the second week of July. Analysts predict higher earnings growth. The S&P 500 is expected to see a 21% price",
+    "excerpt": "US earnings season for Q2 2026 starts in earnest in the second week of July. Analysts predict higher earnings growth. The S&P 500 is expected to see a 21% price increase over the next 12 months.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "US earnings season - Q2 2026 - ii - Interactive Investor"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "us-stock-market-earnings-calendar",
+    "type": "news",
+    "title": "US Stock Market Earnings Calendar",
+    "slug": "us-stock-market-earnings-calendar",
+    "date": "2026-07-05",
+    "displayDate": "July 5, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The US Stock Market Earnings Calendar is available on Market Chameleon, Investing.com, and MarketWatch. These sites provide upcoming earnings announcements and ",
+    "excerpt": "The US Stock Market Earnings Calendar is available on Market Chameleon, Investing.com, and MarketWatch. These sites provide upcoming earnings announcements and related financial tools.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "US Stock Market Earnings Calendar"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "2026-economic-calendar",
     "type": "news",
     "title": "2026 Economic Calendar",
@@ -19,27 +649,6 @@
       "alt": "2026 Economic Calendar"
     },
     "readingTime": 4
-  },
-  {
-    "id": "2026-outlook-portfolio-wide-views-cambridge-associates",
-    "type": "news",
-    "title": "2026 Outlook: Portfolio-Wide Views - Cambridge Associates",
-    "slug": "2026-outlook-portfolio-wide-views-cambridge-associates",
-    "date": "2026-07-04",
-    "displayDate": "July 4, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Investors should consider greater diversification in 2026 due to elevated equity allocations. Global ex US equities are expected to outperform US equities. Labo",
-    "excerpt": "Investors should consider greater diversification in 2026 due to elevated equity allocations. Global ex US equities are expected to outperform US equities. Labor market trends may weaken, impacting economic direction.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "2026 Outlook: Portfolio-Wide Views - Cambridge Associates"
-    },
-    "readingTime": 3
   },
   {
     "id": "5-strategies-to-navigate-market-volatility-morgan-stanley",
@@ -80,27 +689,6 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "Asia Stock Markets"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "asian-market-headlines-breaking-stock-market-news-reuters",
-    "type": "news",
-    "title": "Asian Market Headlines | Breaking Stock Market News - Reuters",
-    "slug": "asian-market-headlines-breaking-stock-market-news-reuters",
-    "date": "2026-07-04",
-    "displayDate": "July 4, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "India's Adani Enterprises increased its share sale to $1.75 billion. Chinese robot maker Unitree received approval for a funding round. China took over private ",
-    "excerpt": "India's Adani Enterprises increased its share sale to $1.75 billion. Chinese robot maker Unitree received approval for a funding round. China took over private lender Zhongbang Bank due to credit risks.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Asian Market Headlines | Breaking Stock Market News - Reuters"
     },
     "readingTime": 3
   },
@@ -273,27 +861,6 @@
     "readingTime": 3
   },
   {
-    "id": "cpi-home-u-s-bureau-of-labor-statistics",
-    "type": "news",
-    "title": "CPI Home : U.S. Bureau of Labor Statistics",
-    "slug": "cpi-home-u-s-bureau-of-labor-statistics",
-    "date": "2026-07-04",
-    "displayDate": "July 4, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Consumer Price Index (CPI) from the U.S. Bureau of Labor Statistics measures inflation by tracking price changes for a basket of goods and services. The lat",
-    "excerpt": "The Consumer Price Index (CPI) from the U.S. Bureau of Labor Statistics measures inflation by tracking price changes for a basket of goods and services. The latest CPI report shows a 0.5% increase in May 2026. For more details, visit the CPI Home page.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "CPI Home : U.S. Bureau of Labor Statistics"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "crypto-news-bitcoin-ethereum-xrp-news-crypto-news",
     "type": "news",
     "title": "Crypto News: Bitcoin, Ethereum & XRP News | crypto.news",
@@ -313,27 +880,6 @@
       "alt": "Crypto News: Bitcoin, Ethereum & XRP News | crypto.news"
     },
     "readingTime": 7
-  },
-  {
-    "id": "earnings-breaking-news-and-press-releases-business-wire",
-    "type": "news",
-    "title": "Earnings Breaking News and Press Releases - Business Wire",
-    "slug": "earnings-breaking-news-and-press-releases-business-wire",
-    "date": "2026-07-04",
-    "displayDate": "July 4, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Company earnings reports are released by Business Wire. The second quarter 2026 earnings are expected on July 22, 2026. This date is crucial for financial perfo",
-    "excerpt": "Company earnings reports are released by Business Wire. The second quarter 2026 earnings are expected on July 22, 2026. This date is crucial for financial performance insights.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Earnings Breaking News and Press Releases - Business Wire"
-    },
-    "readingTime": 3
   },
   {
     "id": "earnings-breaking-news-and-press-releases",
@@ -395,27 +941,6 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "Earnings Calendar | Markets Insider"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "earnings-calendar-nasdaq",
-    "type": "news",
-    "title": "Earnings Calendar - Nasdaq",
-    "slug": "earnings-calendar-nasdaq",
-    "date": "2026-07-04",
-    "displayDate": "July 4, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Nasdaq earnings calendar is available at https://www.nasdaq.com/market-activity/earnings. Recent earnings reports include Q2 2024 and Q4 2023 releases. For ",
-    "excerpt": "The Nasdaq earnings calendar is available at https://www.nasdaq.com/market-activity/earnings. Recent earnings reports include Q2 2024 and Q4 2023 releases. For historical data, visit https://ir.nasdaq.com/financials/quarterly-results.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Earnings Calendar - Nasdaq"
     },
     "readingTime": 3
   },
@@ -651,27 +1176,6 @@
     "readingTime": 3
   },
   {
-    "id": "federal-open-market-committee-wikipedia",
-    "type": "news",
-    "title": "Federal Open Market Committee - Wikipedia",
-    "slug": "federal-open-market-committee-wikipedia",
-    "date": "2026-07-04",
-    "displayDate": "July 4, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Open Market Committee (FOMC) oversees the nation's open market operations and sets monetary policy. It consists of twelve members, including seven B",
-    "excerpt": "The Federal Open Market Committee (FOMC) oversees the nation's open market operations and sets monetary policy. It consists of twelve members, including seven Board of Governors and four rotating Reserve Bank presidents. The FOMC directs open market operations to achieve economic goals.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Federal Open Market Committee - Wikipedia"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "federal-reserve-board-monetary-policy",
     "type": "news",
     "title": "Federal Reserve Board - Monetary Policy",
@@ -731,27 +1235,6 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "Federal Reserve issues FOMC statement"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "federal-reserve-monetary-policy-u-s-bank",
-    "type": "news",
-    "title": "Federal Reserve Monetary Policy | U.S. Bank",
-    "slug": "federal-reserve-monetary-policy-u-s-bank",
-    "date": "2026-07-04",
-    "displayDate": "July 4, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Reserve sets U.S. monetary policy to promote maximum employment and stable prices. It uses tools like interest rates and reserve requirements. The F",
-    "excerpt": "The Federal Reserve sets U.S. monetary policy to promote maximum employment and stable prices. It uses tools like interest rates and reserve requirements. The Federal Reserve System is independent of the U.S. government.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Federal Reserve Monetary Policy | U.S. Bank"
     },
     "readingTime": 3
   },
@@ -966,27 +1449,6 @@
     "readingTime": 3
   },
   {
-    "id": "inflation-consumer-prices-annual-united-states",
-    "type": "news",
-    "title": "Inflation, consumer prices (annual %) - United States",
-    "slug": "inflation-consumer-prices-annual-united-states",
-    "date": "2026-07-04",
-    "displayDate": "July 4, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The annual inflation rate for consumer prices in the United States is 3.8% as of July 2026. This reflects the Consumer Price Index's annual percentage change in",
-    "excerpt": "The annual inflation rate for consumer prices in the United States is 3.8% as of July 2026. This reflects the Consumer Price Index's annual percentage change in the cost of a fixed basket of goods and services. The data is sourced from Trading Economics.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Inflation, consumer prices (annual %) - United States"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "inflation-consumer-prices-for-the-united-states-fred",
     "type": "news",
     "title": "Inflation, consumer prices for the United States - FRED",
@@ -1050,27 +1512,6 @@
     "readingTime": 3
   },
   {
-    "id": "latest-asia-stock-market-news",
-    "type": "news",
-    "title": "Latest: Asia Stock Market News",
-    "slug": "latest-asia-stock-market-news",
-    "date": "2026-07-04",
-    "displayDate": "July 4, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Asia stocks retreated, with South Korea's Kospi plunging nearly 8%, triggering a trading halt. India's Adani Enterprises increased its share sale to $1.75 billi",
-    "excerpt": "Asia stocks retreated, with South Korea's Kospi plunging nearly 8%, triggering a trading halt. India's Adani Enterprises increased its share sale to $1.75 billion. Chinese robot maker Unitree received approval for a $619 million IPO.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Latest: Asia Stock Market News"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "latest-technology-news-and-reviews-yahoo-finance",
     "type": "news",
     "title": "Latest Technology News and Reviews - Yahoo Finance",
@@ -1109,27 +1550,6 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "META_TITLE_SECTORS"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "monetary-policy-federal-reserve-board",
-    "type": "news",
-    "title": "Monetary Policy - Federal Reserve Board",
-    "slug": "monetary-policy-federal-reserve-board",
-    "date": "2026-07-04",
-    "displayDate": "July 4, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Reserve implements monetary policy to promote maximum employment and stable prices. It uses tools like interest rates and open market operations. Th",
-    "excerpt": "The Federal Reserve implements monetary policy to promote maximum employment and stable prices. It uses tools like interest rates and open market operations. The Federal Open Market Committee (FOMC) makes key decisions.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Monetary Policy - Federal Reserve Board"
     },
     "readingTime": 3
   },
@@ -1302,27 +1722,6 @@
     "readingTime": 3
   },
   {
-    "id": "sector-industry-performance",
-    "type": "news",
-    "title": "Sector & Industry Performance",
-    "slug": "sector-industry-performance",
-    "date": "2026-07-04",
-    "displayDate": "July 4, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Sectors like Technology Services and Health Technology are performing well, while Energy Minerals and Consumer Services also show positive trends. For detailed ",
-    "excerpt": "Sectors like Technology Services and Health Technology are performing well, while Energy Minerals and Consumer Services also show positive trends. For detailed sector performance, visit Bloomberg or TradingView.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Sector & Industry Performance"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "sector-views-monthly-stock-sector-outlook-charles-schwab",
     "type": "news",
     "title": "Sector Views: Monthly Stock Sector Outlook - Charles Schwab",
@@ -1361,27 +1760,6 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "Sector Views: Monthly Stock Sector Outlook"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "sectors-stock-market-usa-tradingview",
-    "type": "news",
-    "title": "Sectors — Stock Market — USA - TradingView",
-    "slug": "sectors-stock-market-usa-tradingview",
-    "date": "2026-07-04",
-    "displayDate": "July 4, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The top sectors in the US stock market include Technology Services, Health Technology, and Consumer Non-Durables. These sectors have significant market capitali",
-    "excerpt": "The top sectors in the US stock market include Technology Services, Health Technology, and Consumer Non-Durables. These sectors have significant market capitalizations and varying performance percentages. The most active sectors are Process Industries and Commercial Services.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Sectors — Stock Market — USA - TradingView"
     },
     "readingTime": 3
   },
@@ -1445,27 +1823,6 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "Six portfolio strategy ideas for 2026"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "stock-earnings-calendar-earnings-reports-today-this-week",
-    "type": "news",
-    "title": "Stock Earnings Calendar | Earnings Reports Today & This Week",
-    "slug": "stock-earnings-calendar-earnings-reports-today-this-week",
-    "date": "2026-07-04",
-    "displayDate": "July 4, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Today and this week, key companies report earnings, including major players. Check the Investing.com Earnings Calendar for detailed forecasts and outcomes. For ",
-    "excerpt": "Today and this week, key companies report earnings, including major players. Check the Investing.com Earnings Calendar for detailed forecasts and outcomes. For real-time updates, visit StockTwits.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Stock Earnings Calendar | Earnings Reports Today & This Week"
     },
     "readingTime": 3
   },
@@ -1638,48 +1995,6 @@
     "readingTime": 3
   },
   {
-    "id": "u-s-stock-markets-today-fox-business",
-    "type": "news",
-    "title": "U.S. Stock Markets Today - Fox Business",
-    "slug": "u-s-stock-markets-today-fox-business",
-    "date": "2026-07-04",
-    "displayDate": "July 4, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The U.S. stock markets today show real-time quotes with delays of at least 15 minutes. Trending stocks and market results are available. Comprehensive coverage ",
-    "excerpt": "The U.S. stock markets today show real-time quotes with delays of at least 15 minutes. Trending stocks and market results are available. Comprehensive coverage includes global market trends.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "U.S. Stock Markets Today - Fox Business"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "united-states-economic-indicators-moody-s-analytics",
-    "type": "news",
-    "title": "United States | Economic Indicators | Moody's Analytics",
-    "slug": "united-states-economic-indicators-moody-s-analytics",
-    "date": "2026-07-04",
-    "displayDate": "July 4, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The U.S. economy shows a K-shaped recovery, with top earners driving most spending. The unemployment rate is 4.3% in May 2026. GDP growth is 2.7% annually as of",
-    "excerpt": "The U.S. economy shows a K-shaped recovery, with top earners driving most spending. The unemployment rate is 4.3% in May 2026. GDP growth is 2.7% annually as of March 2026.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "United States | Economic Indicators | Moody's Analytics"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "united-states-economy-at-a-glance",
     "type": "news",
     "title": "United States Economy at a Glance",
@@ -1722,27 +2037,6 @@
     "readingTime": 3
   },
   {
-    "id": "united-states-indicators",
-    "type": "news",
-    "title": "United States Indicators",
-    "slug": "united-states-indicators",
-    "date": "2026-07-04",
-    "displayDate": "July 4, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The United States GDP growth rate is 2.1% in March 2026, and the unemployment rate is 4.2% in June 2026. The World Bank reports the U.S. GDP per capita is over ",
-    "excerpt": "The United States GDP growth rate is 2.1% in March 2026, and the unemployment rate is 4.2% in June 2026. The World Bank reports the U.S. GDP per capita is over $60,000.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "United States Indicators"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "united-states-inflation-rate",
     "type": "news",
     "title": "United States Inflation Rate",
@@ -1781,48 +2075,6 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "US central bank cuts key lending rate by a quarter point"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "us-earnings-season-q2-2026-ii-interactive-investor",
-    "type": "news",
-    "title": "US earnings season - Q2 2026 - ii - Interactive Investor",
-    "slug": "us-earnings-season-q2-2026-ii-interactive-investor",
-    "date": "2026-07-04",
-    "displayDate": "July 4, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Q2 2026 earnings season starts mid-July with PepsiCo and Delta Air Lines reporting first. Major US banks like JPMorgan Chase and Citigroup follow. Markets w",
-    "excerpt": "The Q2 2026 earnings season starts mid-July with PepsiCo and Delta Air Lines reporting first. Major US banks like JPMorgan Chase and Citigroup follow. Markets will watch earnings growth and company outlooks.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "US earnings season - Q2 2026 - ii - Interactive Investor"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "us-stock-market-earnings-calendar",
-    "type": "news",
-    "title": "US Stock Market Earnings Calendar",
-    "slug": "us-stock-market-earnings-calendar",
-    "date": "2026-07-04",
-    "displayDate": "July 4, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The US Stock Market Earnings Calendar is available on Market Chameleon, MarketWatch, and TradingView, providing upcoming earnings announcements and financial re",
-    "excerpt": "The US Stock Market Earnings Calendar is available on Market Chameleon, MarketWatch, and TradingView, providing upcoming earnings announcements and financial reports. MarketWatch and TradingView offer additional tools and market data.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "US Stock Market Earnings Calendar"
     },
     "readingTime": 3
   },
@@ -1886,27 +2138,6 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "5 Strategies to Navigate Market Volatility"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "asia-stock-markets-cnbc",
-    "type": "news",
-    "title": "Asia Stock Markets - CNBC",
-    "slug": "asia-stock-markets-cnbc",
-    "date": "2026-07-03",
-    "displayDate": "July 3, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Asia-Pacific markets were mixed; Japan's Nikkei 225 fell, while Australia's S&P/ASX 200 rose. The Dow Jones hit a record high, but the Nasdaq dropped. Tensions ",
-    "excerpt": "Asia-Pacific markets were mixed; Japan's Nikkei 225 fell, while Australia's S&P/ASX 200 rose. The Dow Jones hit a record high, but the Nasdaq dropped. Tensions and tech sector shifts influenced trading.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Asia Stock Markets - CNBC"
     },
     "readingTime": 3
   },
@@ -2012,27 +2243,6 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "Bitcoin Price Today | Live BTC Price, Chart & Market Data - Binance"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "bitcoin-price-today-live-btc-price-chart-market-data",
-    "type": "news",
-    "title": "Bitcoin Price Today | Live BTC Price, Chart & Market Data",
-    "slug": "bitcoin-price-today-live-btc-price-chart-market-data",
-    "date": "2026-07-03",
-    "displayDate": "July 3, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Bitcoin's price today is $62,020.75 USD. It has increased by 0.71% in the last 24 hours. The 24-hour trading volume is $27,970,997,173.17.",
-    "excerpt": "Bitcoin's price today is $62,020.75 USD. It has increased by 0.71% in the last 24 hours. The 24-hour trading volume is $27,970,997,173.17.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Bitcoin Price Today | Live BTC Price, Chart & Market Data"
     },
     "readingTime": 3
   },
@@ -2201,27 +2411,6 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "Federal Reserve Economic Data | FRED | St. Louis Fed"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "finance-and-markets-wsj-com",
-    "type": "news",
-    "title": "Finance and Markets - WSJ.com",
-    "slug": "finance-and-markets-wsj-com",
-    "date": "2026-07-03",
-    "displayDate": "July 3, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The S&P 500 closed 0.2% lower, and markets await the upcoming jobs report. Tesla's sales increased, but its stock had a significant decline. Treasury yields sho",
-    "excerpt": "The S&P 500 closed 0.2% lower, and markets await the upcoming jobs report. Tesla's sales increased, but its stock had a significant decline. Treasury yields showed mixed reactions following the jobs data release.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Finance and Markets - WSJ.com"
     },
     "readingTime": 3
   },
@@ -2604,27 +2793,6 @@
     "readingTime": 3
   },
   {
-    "id": "u-s-stock-market-headlines-breaking-stock-market-news-reuters",
-    "type": "news",
-    "title": "U.S. Stock Market Headlines | Breaking Stock Market News - Reuters",
-    "slug": "u-s-stock-market-headlines-breaking-stock-market-news-reuters",
-    "date": "2026-07-03",
-    "displayDate": "July 3, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Nasdaq closed lower on July 2 as tech stocks declined. The Federal Reserve's concerns eased due to a weaker-than-expected U.S. jobs report. Current market t",
-    "excerpt": "The Nasdaq closed lower on July 2 as tech stocks declined. The Federal Reserve's concerns eased due to a weaker-than-expected U.S. jobs report. Current market trends reflect these shifts.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "U.S. Stock Market Headlines | Breaking Stock Market News - Reuters"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "u-s-stock-market-headlines-breaking-stock-market-news",
     "type": "news",
     "title": "U.S. Stock Market Headlines | Breaking Stock Market News",
@@ -2835,27 +3003,6 @@
     "readingTime": 3
   },
   {
-    "id": "consumer-price-index-1913-federal-reserve-bank-of-minneapolis",
-    "type": "news",
-    "title": "Consumer Price Index, 1913- | Federal Reserve Bank of Minneapolis",
-    "slug": "consumer-price-index-1913-federal-reserve-bank-of-minneapolis",
-    "date": "2026-07-02",
-    "displayDate": "July 2, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Consumer Price Index (CPI) began in 1913, and the Bureau of Labor Statistics calculates it to measure inflation. The CPI compares prices of goods and servic",
-    "excerpt": "The Consumer Price Index (CPI) began in 1913, and the Bureau of Labor Statistics calculates it to measure inflation. The CPI compares prices of goods and services over time. The CPI for 2026 is not yet available.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Consumer Price Index, 1913- | Federal Reserve Bank of Minneapolis"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "cryptocurrency-market-today-news-prices-ideas-tradingview",
     "type": "news",
     "title": "Cryptocurrency Market Today: News, Prices, Ideas - TradingView",
@@ -2896,27 +3043,6 @@
       "alt": "Cryptocurrency pricing, market & regulation news - Yahoo Finance"
     },
     "readingTime": 6
-  },
-  {
-    "id": "earnings-calendar-2026-daily-earnings-reports-marketbeat",
-    "type": "news",
-    "title": "Earnings Calendar 2026 | Daily Earnings Reports - MarketBeat",
-    "slug": "earnings-calendar-2026-daily-earnings-reports-marketbeat",
-    "date": "2026-07-02",
-    "displayDate": "July 2, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "PepsiCo will report earnings on July 9, 2026, and Bank of America, Wells Fargo, and Citigroup will report on July 14, 2026. ASML and Kinder Morgan are scheduled",
-    "excerpt": "PepsiCo will report earnings on July 9, 2026, and Bank of America, Wells Fargo, and Citigroup will report on July 14, 2026. ASML and Kinder Morgan are scheduled for July 15, 2026.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Earnings Calendar 2026 | Daily Earnings Reports - MarketBeat"
-    },
-    "readingTime": 3
   },
   {
     "id": "earnings-calendar-seeking-alpha",
@@ -3190,27 +3316,6 @@
       "alt": "The allocator's checklist for 2026 and beyond"
     },
     "readingTime": 5
-  },
-  {
-    "id": "this-week-s-best-performing-stocks-sectors-industries-rankings-csimarket",
-    "type": "news",
-    "title": "This Week's Best Performing Stocks, Sectors, Industries Rankings - CSIMarket",
-    "slug": "this-week-s-best-performing-stocks-sectors-industries-rankings-csimarket",
-    "date": "2026-07-02",
-    "displayDate": "July 2, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "This week's best performing industry is Computer Hardware, with a 4.77% increase. The top-performing stock is 707 Cayman Holdings Limited, up 267.59%. This mont",
-    "excerpt": "This week's best performing industry is Computer Hardware, with a 4.77% increase. The top-performing stock is 707 Cayman Holdings Limited, up 267.59%. This month's top industry is Office Supplies, up 19.38%.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "This Week's Best Performing Stocks, Sectors, Industries Rankings - CSIMarket"
-    },
-    "readingTime": 4
   },
   {
     "id": "u-s-inflation-climbs-to-4-2-as-energy-costs-rise-nerdwallet",
@@ -4410,27 +4515,6 @@
     "readingTime": 3
   },
   {
-    "id": "the-allocator-s-checklist-for-2026-and-beyond-wellington-management",
-    "type": "news",
-    "title": "The allocator’s checklist for 2026 and beyond | Wellington Management",
-    "slug": "the-allocator-s-checklist-for-2026-and-beyond-wellington-management",
-    "date": "2026-06-10",
-    "displayDate": "June 10, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Wellington Management's 2026 allocator checklist focuses on inflation, geopolitical risks, and strategic asset allocation. It emphasizes risk management and mul",
-    "excerpt": "Wellington Management's 2026 allocator checklist focuses on inflation, geopolitical risks, and strategic asset allocation. It emphasizes risk management and multi-asset strategies. The checklist also highlights the importance of evaluating emerging managers.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "The allocator’s checklist for 2026 and beyond | Wellington Management"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "truflation-us-cpi-inflation-index",
     "type": "news",
     "title": "Truflation US CPI Inflation Index",
@@ -4725,27 +4809,6 @@
     "readingTime": 3
   },
   {
-    "id": "how-to-build-a-diversified-investment-portfolio-in-2026",
-    "type": "news",
-    "title": "How to Build a Diversified Investment Portfolio in 2026",
-    "slug": "how-to-build-a-diversified-investment-portfolio-in-2026",
-    "date": "2026-06-09",
-    "displayDate": "June 9, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "To build a diversified investment portfolio in 2026, set clear goals, allocate assets across various classes, and rebalance periodically to maintain balance. Fo",
-    "excerpt": "To build a diversified investment portfolio in 2026, set clear goals, allocate assets across various classes, and rebalance periodically to maintain balance. Focus on geographic diversification and monitor costs to enhance long-term returns.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "How to Build a Diversified Investment Portfolio in 2026"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "how-to-build-an-investment-portfolio-in-2026-xtb-com",
     "type": "news",
     "title": "How to Build An Investment Portfolio in 2026 - XTB.com",
@@ -4973,27 +5036,6 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "European Market Headlines | Breaking Stock Market News | Reuters"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "inflation-consumer-prices-for-the-united-states-fpcpitotlzgusa",
-    "type": "news",
-    "title": "Inflation, consumer prices for the United States (FPCPITOTLZGUSA)",
-    "slug": "inflation-consumer-prices-for-the-united-states-fpcpitotlzgusa",
-    "date": "2026-06-08",
-    "displayDate": "June 8, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Inflation, consumer prices for the United States (FPCPITOTLZGUSA) measures the Consumer Price Index, showing changes in the cost of a typical basket of goods an",
-    "excerpt": "Inflation, consumer prices for the United States (FPCPITOTLZGUSA) measures the Consumer Price Index, showing changes in the cost of a typical basket of goods and services. The index is published by the Federal Reserve Bank of St. Louis. The data is available from 1960 onward.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Inflation, consumer prices for the United States (FPCPITOTLZGUSA)"
     },
     "readingTime": 3
   },

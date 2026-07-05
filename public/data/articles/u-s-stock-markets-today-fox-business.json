@@ -3,8 +3,8 @@
   "type": "news",
   "title": "U.S. Stock Markets Today - Fox Business",
   "slug": "u-s-stock-markets-today-fox-business",
-  "date": "2026-07-04",
-  "displayDate": "July 4, 2026",
+  "date": "2026-07-05",
+  "displayDate": "July 5, 2026",
   "author": "Sigma Capital",
   "category": "Market Analysis",
   "tags": [
@@ -12,17 +12,17 @@
     "financial news",
     "market update"
   ],
-  "metaDescription": "The U.S. stock markets today show real-time quotes with delays of at least 15 minutes. Trending stocks and market results are available. Comprehensive coverage ",
-  "excerpt": "The U.S. stock markets today show real-time quotes with delays of at least 15 minutes. Trending stocks and market results are available. Comprehensive coverage includes global market trends.",
+  "metaDescription": "As of today, the Dow Jones averages 52,305.24, the NASDAQ Composite Index 26,040.03, and the S&P 500 7,483.23. These are the latest U.S. stock market quotes.",
+  "excerpt": "As of today, the Dow Jones averages 52,305.24, the NASDAQ Composite Index 26,040.03, and the S&P 500 7,483.23. These are the latest U.S. stock market quotes.",
   "content": {
-    "introduction": "The U.S. stock markets today show real-time quotes with delays of at least 15 minutes. Trending stocks and market results are available. Comprehensive coverage includes global market trends.",
+    "introduction": "As of today, the Dow Jones averages 52,305.24, the NASDAQ Composite Index 26,040.03, and the S&P 500 7,483.23. These are the latest U.S. stock market quotes.",
     "body": [
       "Discover the U.S. markets today with Fox Business. See the trending stocks in the USA stock market and today's stock market results.",
-      "U.S. Stock Market Quotes ... Quotes displayed in real-time or delayed by at least 15 minutes. Market data provided by Factset. Powered and implemented by FactSet",
-      "Explore comprehensive coverage of global markets, including stock market trends, bond markets, commodities, currencies, and more. U.S. Stock Market Quotes …"
+      "U.S. Stock Market Quotes ; DOW JONES AVERAGES (I:DJI). 52,305.24 ; NASDAQ COMPOSITE INDEX (I:COMP). 26,040.03 ; S&P 500 (SP500). 7,483.23",
+      "U.S. Stock Market Quotes ; DOW JONES AVERAGES (I:DJI). 52,305.24 ; NASDAQ COMPOSITE INDEX (I:COMP). 26,040.03 ; S&P 500 (SP500). 7,483.23"
     ],
     "keyTakeaways": [
-      "The U.S",
+      "As of today, the Dow Jones averages 52,305.24, the NASDAQ Composite Index 26,040",
       "Discover the U.S",
       "U.S"
     ],
@@ -30,23 +30,23 @@
     "sourceUrl": "https://www.foxbusiness.com/stocks"
   },
   "readingTime": 3,
-  "updatedAt": "2026-07-04T03:29:45.178Z",
+  "updatedAt": "2026-07-05T03:47:29.433Z",
   "images": {
     "thumbnail": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "U.S. Stock Markets Today - Fox Business"
-    },
-    "hero": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "U.S. Stock Markets Today - Fox Business"
     },
+    "hero": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "U.S. Stock Markets Today - Fox Business"
+    },
     "mid": {
-      "src": "/images/article_thumb_3.jpg",
+      "src": "/images/article_thumb_5.jpg",
       "alt": "U.S. Stock Markets Today - Fox Business"
     }
   },
   "image": {
-    "src": "/images/article_thumb_3.jpg",
+    "src": "/images/article_thumb_5.jpg",
     "alt": "U.S. Stock Markets Today - Fox Business"
   }
 }
