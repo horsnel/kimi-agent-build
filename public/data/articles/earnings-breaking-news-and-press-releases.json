@@ -3,8 +3,8 @@
   "type": "news",
   "title": "Earnings Breaking News and Press Releases",
   "slug": "earnings-breaking-news-and-press-releases",
-  "date": "2026-07-04",
-  "displayDate": "July 4, 2026",
+  "date": "2026-07-05",
+  "displayDate": "July 5, 2026",
   "author": "Sigma Capital",
   "category": "Company News",
   "tags": [
@@ -12,17 +12,17 @@
     "financial news",
     "market update"
   ],
-  "metaDescription": "Latest earnings news includes quarterly and annual reports from major companies. Key sources include Business Wire, PR Newswire, and Yahoo Finance. These update",
-  "excerpt": "Latest earnings news includes quarterly and annual reports from major companies. Key sources include Business Wire, PR Newswire, and Yahoo Finance. These updates cover financial performance and company earnings.",
+  "metaDescription": "Latest earnings news and press releases are available from Business Wire and PR Newswire, with SEC.gov providing official announcements. Check these sources for",
+  "excerpt": "Latest earnings news and press releases are available from Business Wire and PR Newswire, with SEC.gov providing official announcements. Check these sources for the most current information.",
   "content": {
-    "introduction": "Latest earnings news includes quarterly and annual reports from major companies. Key sources include Business Wire, PR Newswire, and Yahoo Finance. These updates cover financial performance and company earnings.",
+    "introduction": "Latest earnings news and press releases are available from Business Wire and PR Newswire, with SEC.gov providing official announcements. Check these sources for the most current information.",
     "body": [
       "Stay informed with the latest earnings news. Read press releases covering quarterly and annual earnings reports, financial performance,",
       "This section offers news and announcements related to reported corporate earnings, including quarterly and annual reports.",
-      "Find the latest earnings reports and analysis, earnings whispers and expectations, and company earnings news from experts at Yahoo Finance."
+      "Official announcements highlighting recent actions taken by the SEC and other newsworthy information."
     ],
     "keyTakeaways": [
-      "Latest earnings news includes quarterly and annual reports from major companies. Key sources include Business Wire, PR N",
+      "Latest earnings news and press releases are available from Business Wire and PR Newswire, with SEC.gov providing officia",
       "Stay informed with the latest earnings news. Read press releases covering quarterly and annual earnings reports, financi",
       "This section offers news and announcements related to reported corporate earnings, including quarterly and annual report"
     ],
@@ -30,14 +30,14 @@
     "sourceUrl": "https://www.businesswire.com/newsroom/subject/earnings"
   },
   "readingTime": 3,
-  "updatedAt": "2026-07-04T08:30:53.459Z",
+  "updatedAt": "2026-07-05T19:20:58.732Z",
   "images": {
     "thumbnail": {
-      "src": "/images/article_thumb_5.jpg",
+      "src": "/images/article_thumb_4.jpg",
       "alt": "Earnings Breaking News and Press Releases"
     },
     "hero": {
-      "src": "/images/article_thumb_3.jpg",
+      "src": "/images/article_thumb_5.jpg",
       "alt": "Earnings Breaking News and Press Releases"
     },
     "mid": {
@@ -46,7 +46,7 @@
     }
   },
   "image": {
-    "src": "/images/article_thumb_6.jpg",
+    "src": "/images/article_thumb_3.jpg",
     "alt": "Earnings Breaking News and Press Releases"
   }
 }
