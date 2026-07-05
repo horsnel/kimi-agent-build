@@ -1,0 +1,52 @@
+{
+  "id": "global-market-headlines-breaking-stock-market-news",
+  "type": "news",
+  "title": "Global Market Headlines | Breaking Stock Market News",
+  "slug": "global-market-headlines-breaking-stock-market-news",
+  "date": "2026-07-05",
+  "displayDate": "July 5, 2026",
+  "author": "Sigma Capital",
+  "category": "Global Markets",
+  "tags": [
+    "global markets",
+    "financial news",
+    "market update"
+  ],
+  "metaDescription": "The global stock market saw significant activity with notable gains in technology stocks and a surge in space sector investments. Micron joined the trillion-dol",
+  "excerpt": "The global stock market saw significant activity with notable gains in technology stocks and a surge in space sector investments. Micron joined the trillion-dollar club, and Qualcomm rose following a major deal. For the latest updates, check financial news outlets like Reuters and Yahoo Finance.",
+  "content": {
+    "introduction": "The global stock market saw significant activity with notable gains in technology stocks and a surge in space sector investments. Micron joined the trillion-dollar club, and Qualcomm rose following a major deal. For the latest updates, check financial news outlets like Reuters and Yahoo Finance.",
+    "body": [
+      "Find the latest stock market news from every corner of the globe at Reuters.com, your online source for breaking international market and finance news.",
+      "Breaking news and in-depth coverage from the global business and financial markets. The latest corporate earnings reports from the stock market and insights",
+      "Stock Market News · Micron joins $1T club; Qualcomm jumps on ByteDance deal · SpaceX IPO ignites frenzy in space stocks and ETFs."
+    ],
+    "keyTakeaways": [
+      "The global stock market saw significant activity with notable gains in technology stocks and a surge in space sector inv",
+      "Find the latest stock market news from every corner of the globe at Reuters.com, your online source for breaking interna",
+      "Breaking news and in-depth coverage from the global business and financial markets. The latest corporate earnings report"
+    ],
+    "source": "reuters.com",
+    "sourceUrl": "https://www.reuters.com/markets"
+  },
+  "readingTime": 3,
+  "updatedAt": "2026-07-05T13:47:00.757Z",
+  "images": {
+    "thumbnail": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Global Market Headlines | Breaking Stock Market News"
+    },
+    "hero": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Global Market Headlines | Breaking Stock Market News"
+    },
+    "mid": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Global Market Headlines | Breaking Stock Market News"
+    }
+  },
+  "image": {
+    "src": "/images/article_thumb_3.jpg",
+    "alt": "Global Market Headlines | Breaking Stock Market News"
+  }
+}
