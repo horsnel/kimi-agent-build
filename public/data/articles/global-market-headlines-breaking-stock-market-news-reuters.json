@@ -1,10 +1,10 @@
 {
   "id": "global-market-headlines-breaking-stock-market-news-reuters",
   "type": "news",
-  "title": "Global Market Headlines | Breaking Stock Market News | Reuters",
+  "title": "Global Market Headlines | Breaking Stock Market News - Reuters",
   "slug": "global-market-headlines-breaking-stock-market-news-reuters",
-  "date": "2026-07-05",
-  "displayDate": "July 5, 2026",
+  "date": "2026-07-06",
+  "displayDate": "July 6, 2026",
   "author": "Sigma Capital",
   "category": "Global Markets",
   "tags": [
@@ -12,41 +12,41 @@
     "financial news",
     "market update"
   ],
-  "metaDescription": "Global stocks are having a strong week; US jobs data impacts rate outlook. Reuters reports on international market and finance news. Check Reuters for the lates",
-  "excerpt": "Global stocks are having a strong week; US jobs data impacts rate outlook. Reuters reports on international market and finance news. Check Reuters for the latest headlines.",
+  "metaDescription": "Global market headlines and breaking stock market news are available on Reuters, featuring the latest international finance and business updates. Key financial ",
+  "excerpt": "Global market headlines and breaking stock market news are available on Reuters, featuring the latest international finance and business updates. Key financial data, rates, bonds, and stocks are covered. Current date is July 6, 2026.",
   "content": {
-    "introduction": "Global stocks are having a strong week; US jobs data impacts rate outlook. Reuters reports on international market and finance news. Check Reuters for the latest headlines.",
+    "introduction": "Global market headlines and breaking stock market news are available on Reuters, featuring the latest international finance and business updates. Key financial data, rates, bonds, and stocks are covered. Current date is July 6, 2026.",
     "body": [
       "Find the latest stock market news from every corner of the globe at Reuters.com, your online source for breaking international market and finance news.",
-      "Global stocks head for best week since May; US jobs data shifts rate outlook · German share price index DAX graph is pictured at the stock exchange in Frankfurt.",
-      "Find latest finance news from every corner of the globe at Reuters.com, your online source for breaking international news coverage."
+      "Find latest finance news from every corner of the globe at Reuters.com, international news coverage. Global Market Data Rates & Bonds Stocks",
+      "Find latest business news from every corner of the globe at Reuters.com, Global Market Data Rates & Bonds Stocks U.S. Markets"
     ],
     "keyTakeaways": [
-      "Global stocks are having a strong week; US jobs data impacts rate outlook. Reuters reports on international market and f",
+      "Global market headlines and breaking stock market news are available on Reuters, featuring the latest international fina",
       "Find the latest stock market news from every corner of the globe at Reuters.com, your online source for breaking interna",
-      "Global stocks head for best week since May; US jobs data shifts rate outlook · German share price index DAX graph is pic"
+      "Find latest finance news from every corner of the globe at Reuters.com, international news coverage"
     ],
     "source": "reuters.com",
     "sourceUrl": "https://www.reuters.com/markets"
   },
   "readingTime": 3,
-  "updatedAt": "2026-07-05T08:47:03.573Z",
+  "updatedAt": "2026-07-06T10:08:32.172Z",
   "images": {
     "thumbnail": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Global Market Headlines | Breaking Stock Market News | Reuters"
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Global Market Headlines | Breaking Stock Market News - Reuters"
     },
     "hero": {
       "src": "/images/article_thumb_2.jpg",
-      "alt": "Global Market Headlines | Breaking Stock Market News | Reuters"
+      "alt": "Global Market Headlines | Breaking Stock Market News - Reuters"
     },
     "mid": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Global Market Headlines | Breaking Stock Market News | Reuters"
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Global Market Headlines | Breaking Stock Market News - Reuters"
     }
   },
   "image": {
-    "src": "/images/article_thumb_5.jpg",
-    "alt": "Global Market Headlines | Breaking Stock Market News | Reuters"
+    "src": "/images/article_thumb_3.jpg",
+    "alt": "Global Market Headlines | Breaking Stock Market News - Reuters"
   }
 }

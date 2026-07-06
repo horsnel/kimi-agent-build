@@ -3,8 +3,8 @@
   "type": "news",
   "title": "Economic Calendar",
   "slug": "economic-calendar",
-  "date": "2026-07-05",
-  "displayDate": "July 5, 2026",
+  "date": "2026-07-06",
+  "displayDate": "July 6, 2026",
   "author": "Sigma Capital",
   "category": "Economic Indicators",
   "tags": [
@@ -12,17 +12,17 @@
     "financial news",
     "market update"
   ],
-  "metaDescription": "An economic calendar lists upcoming financial events and data releases that can impact markets. It includes details on their importance and previous figures. Us",
-  "excerpt": "An economic calendar lists upcoming financial events and data releases that can impact markets. It includes details on their importance and previous figures. Use it to prepare for trades by understanding market-moving events.",
+  "metaDescription": "An economic calendar tracks financial events and indicators that impact markets, providing real-time updates and forecasts. It helps traders prepare for market ",
+  "excerpt": "An economic calendar tracks financial events and indicators that impact markets, providing real-time updates and forecasts. It helps traders prepare for market movements. The most important calendar is the US one due to the country's economic influence.",
   "content": {
-    "introduction": "An economic calendar lists upcoming financial events and data releases that can impact markets. It includes details on their importance and previous figures. Use it to prepare for trades by understanding market-moving events.",
+    "introduction": "An economic calendar tracks financial events and indicators that impact markets, providing real-time updates and forecasts. It helps traders prepare for market movements. The most important calendar is the US one due to the country's economic influence.",
     "body": [
       "# Calendar. ## How to use Economic Calendar. Economic Calendar on TradingView shows the latest and upcoming economic events that can affect certain assets, regions, and global markets — for example, stocks, Forex, or bonds. All events are in chronological order and linked with economic indicators like interest rates or GDP. The calendar is customizable: one click will give you a weekly economic calendar, another — narrow it down to US economic calendar only. Plus, you will see short explainers of the events and forecasts from experts. Just set your calendar and prepare for the next trade. Learn more about the Economic Calendar features in our Help Center. ## Frequently asked questions.",
-      "# Economic Calendar. Our real-time Economic Calendar keeps track of all financial events and economic indicators that drive the markets. The Economic Calendar contains a full descriptions of the events and their relative importance in affecting the market, in addition to previous, forecast and actual figures as they're announced. ### What is the Investing.com Economic Calendar? The Economic Calendar is a real-time, streaming schedule of economic events and data releases that can move financial markets. You can filter the calendar by importance level to focus on the events that matter most to you. You can also toggle the display to show either the event time or the time remaining until each announcement. We are proud to share our economic calendar with you, but would remind you that due to external factors beyond our control, Investing.com cannot be held responsible for any trading losses or other losses incurred as a result of using the economic calendar.",
-      "You can lose your money rapidly due to leverage. Please ensure you understand how this product works and whether you can afford to take the high risk of losing money. * Trading platforms Economic and trading calendar. # Economic and trading calendar. Keep your finger on the pulse of the financial markets and get a head start on your next trades with our economic and trading calendar. Discover and explore the calendar and learn about the different ways you can use it. ## How to use our economic and trading calendar. You can use our economic and trading calendar to browse or search for upcoming macroeconomic events, earnings and dividends announcements, initial public offerings (IPOs) and stock splits – there’s a dedicated tab for each. Here are some ways in which you can use the calendar:. * Select the tab for the shares-related event you’re interested in. * Search for the shares using the issuing company’s name or ticker symbol or scroll down to the date of the event."
+      "# Economic Calendar. Our real-time Economic Calendar keeps track of all financial events and economic indicators that drive the markets. The Economic Calendar contains a full descriptions of the events and their relative importance in affecting the market, in addition to previous, forecast and actual figures as they're announced. | AU | AU | MI Inflation Gauge(MoM)(Jun)  Act: -0.4%  Cons: -  Prev.: -0.3% | -0.4% | -0.3% |. | NZ | NZ | ANZ Commodity Price Index(MoM)  Act: -1.0%  Cons: -  Prev.: 0.7% | -1.0% | 0.7% |. | SG | SG | Retail Sales(MoM)(May)  Act: -2.3%  Cons: -  Prev.: 0.4% | -2.3% | 0.4% |. | CH | CH | Unemployment Rate s.a.(Jun)  Act: -  Cons: 3.0%  Prev.: 3.0% | 3.0% | 3.0% |. | EU | EU | PPI(MoM)(May)  Act: -  Cons: 0.2%  Prev.: 0.6% | 0.2% | 0.6% |. | EU | EU | Retail Sales(MoM)(May)  Act: -  Cons: 0.2%  Prev.: -0.4% | 0.2% | -0.4% |.",
+      "Markets start the week in a relatively calm manner as investors wait for trading conditions to normalize following a three-day weekend in the United States. In the second half of the day, the US economic calendar will feature the Institute for Supply Management's Services Purchasing Managers' Index data for June and the Bank of Canada will publish its Business Outlook Survey. ###### Real time Economic Calendar. The real-time Economic Calendar covers financial events and indicators from all over the world. The Real-time Economic Calendar only provides general information and it is not meant to be a trading guide. The US economic calendar is the most important one since the country is the world’s largest economy. Some of the most relevant indicators of Canada's Economic Calendar include:. Some of the most relevant indicators of the United Kingdom Economic Calendar include:. Some of the most relevant indicators of the Australian Economic Calendar include:. FXStreet's real-time Economic Calendar covers economic events and indicators from all over the world with:."
     ],
     "keyTakeaways": [
-      "An economic calendar lists upcoming financial events and data releases that can impact markets. It includes details on t",
+      "An economic calendar tracks financial events and indicators that impact markets, providing real-time updates and forecas",
       "# Calendar. ## How to use Economic Calendar",
       "# Economic Calendar. Our real-time Economic Calendar keeps track of all financial events and economic indicators that dr"
     ],
@@ -30,23 +30,23 @@
     "sourceUrl": "https://tradingeconomics.com/calendar"
   },
   "readingTime": 3,
-  "updatedAt": "2026-07-05T19:20:58.732Z",
+  "updatedAt": "2026-07-06T10:08:32.172Z",
   "images": {
     "thumbnail": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Economic Calendar"
-    },
-    "hero": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "Economic Calendar"
     },
+    "hero": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Economic Calendar"
+    },
     "mid": {
-      "src": "/images/article_thumb_3.jpg",
+      "src": "/images/article_thumb_2.jpg",
       "alt": "Economic Calendar"
     }
   },
   "image": {
-    "src": "/images/article_thumb_2.jpg",
+    "src": "/images/article_thumb_3.jpg",
     "alt": "Economic Calendar"
   }
 }

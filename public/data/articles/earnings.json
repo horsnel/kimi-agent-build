@@ -3,45 +3,45 @@
   "type": "news",
   "title": "Earnings",
   "slug": "earnings",
-  "date": "2026-07-05",
-  "displayDate": "July 5, 2026",
+  "date": "2026-07-06",
+  "displayDate": "July 6, 2026",
   "author": "Sigma Capital",
-  "category": "Company News",
+  "category": "Earnings",
   "tags": [
-    "company news",
+    "earnings",
     "financial news",
     "market update"
   ],
-  "metaDescription": "Earnings are the net profits a corporation makes from its operations. They determine the company's financial health and stock value. Earnings are also the basis",
-  "excerpt": "Earnings are the net profits a corporation makes from its operations. They determine the company's financial health and stock value. Earnings are also the basis for corporate tax calculations.",
+  "metaDescription": "Earnings are a company's profits over a specific period, shown on the income statement, and used to assess financial health and profitability. Key metrics inclu",
+  "excerpt": "Earnings are a company's profits over a specific period, shown on the income statement, and used to assess financial health and profitability. Key metrics include net income and earnings per share (EPS). Earnings reports are crucial for investors to gauge performance and make informed decisions.",
   "content": {
-    "introduction": "Earnings are the net profits a corporation makes from its operations. They determine the company's financial health and stock value. Earnings are also the basis for corporate tax calculations.",
+    "introduction": "Earnings are a company's profits over a specific period, shown on the income statement, and used to assess financial health and profitability. Key metrics include net income and earnings per share (EPS). Earnings reports are crucial for investors to gauge performance and make informed decisions.",
     "body": [
-      "Earnings are the net benefits of a corporation's operation. Earnings are also the amount on which corporate tax is due. For an analysis of specific aspects",
-      "Earnings, also known as net income or profits, play a crucial role in assessing a company's financial health and determining its stock value.",
-      "Simple Definition A Simple Definition is available from our Learner's Dictionary to help you understand the meaning faster. ## Synonyms of _earnings_. ## Examples of _earnings_ in a Sentence. Recent Examples on the Web. Examples are automatically compiled from online sources to show current usage.Read More Opinions expressed in the examples do not represent those of Merriam-Webster or its editors. Alphabet, Amazon and Apple are set to report _earnings_ after the bell Thursday and all eyes will be scrutinizing the results to see how those challenges affected the crucial December quarter.— Nicole Goodkind, _CNN_, 2 Feb. 2023 The three tech giants, the Detroit auto maker and the energy behemoth are among companies set to report _earnings_ Thursday.— Josh Mitchell, _WSJ_, 2 Feb. 2023 Tech giants Apple, Amazon, Alphabet, and Meta report _earnings_ this week.— Harold Maass, _The Week_, 30 Jan. 2023 The world’s largest maker of chips, smartphones and display panels is set to report fourth-quarter _earnings_ on Tuesday, followed by a call during which analysts are likely to question its capacity management plans.— Sohee Kim, _Fortune_, 29 Jan. 2023 See All Example Sentences for _earnings_. ## More from Merriam-Webster on _earnings_."
+      "Earnings refer to the income that an individual or organization gains during a certain period. They can be found on a company’s income statement and are used to measure the profitability of that company. However, the calculation of earnings is subject to accounting manipulation. Thus, both the accounting quality and earnings quality should be considered when analyzing the earnings of a company. * **EBITDA, EBIT, EBT, and net income can be calculated from the top to bottom of an income statement.**. * **Earnings can be used in relative valuation through the ratios such as P/E and EV/EBITDA.**. * **Comparing earnings with balance sheet accounts (ROE and ROA) helps to measure the efficiency that a company uses its capital and assets to generate incomes.**. ### Types of Earnings. There are different types of earnings from the top to bottom of income statements. Net income, also known as net earnings, can be calculated by deducting the taxes from EBT.",
+      "Delta Neutral HedgingDelta-neutral hedging, or delta-neutral trading, refers to an approach that is often utilized in options-focused markets. Earnings, in the context of the stock market, refer to the profits, or lack thereof, that a publicly traded company generates over a specific period - typically a quarter. Earnings reports offer a snapshot of the company’s financial performance, including key metrics such as revenue, net income, and earnings per share (EPS). Earnings reports play a pivotal role in the stock market because they provide investors and traders with transparency into a company’s financial health. Additionally, earnings reports allow investors to evaluate how a company is performing relative to its peers and the broader market, which can inform decisions about whether to hold, buy, or sell a particular stock. Earnings are vital for investors as they provide a clear measure of a company’s financial health, profitability, and growth potential.",
+      "Earnings Hub is a one-stop shop for everything related to company quarterly earnings: earnings calendar, earnings calls, earnings estimates, actuals,"
     ],
     "keyTakeaways": [
-      "Earnings are the net profits a corporation makes from its operations. They determine the company's financial health and ",
-      "Earnings are the net benefits of a corporation's operation. Earnings are also the amount on which corporate tax is due",
-      "Earnings, also known as net income or profits, play a crucial role in assessing a company's financial health and determi"
+      "Earnings are a company's profits over a specific period, shown on the income statement, and used to assess financial hea",
+      "Earnings refer to the income that an individual or organization gains during a certain period. They can be found on a co",
+      "Delta Neutral HedgingDelta-neutral hedging, or delta-neutral trading, refers to an approach that is often utilized in op"
     ],
     "source": "cnbc.com",
     "sourceUrl": "https://www.cnbc.com/earnings"
   },
   "readingTime": 3,
-  "updatedAt": "2026-07-05T19:20:58.732Z",
+  "updatedAt": "2026-07-06T10:08:32.172Z",
   "images": {
     "thumbnail": {
-      "src": "/images/article_thumb_4.jpg",
+      "src": "/images/article_thumb_1.jpg",
       "alt": "Earnings"
     },
     "hero": {
-      "src": "/images/article_thumb_3.jpg",
+      "src": "/images/article_thumb_1.jpg",
       "alt": "Earnings"
     },
     "mid": {
-      "src": "/images/article_thumb_4.jpg",
+      "src": "/images/article_thumb_3.jpg",
       "alt": "Earnings"
     }
   },
