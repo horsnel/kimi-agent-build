@@ -3,8 +3,8 @@
   "type": "news",
   "title": "GeekWire – Breaking News in Technology & Business",
   "slug": "geekwire-breaking-news-in-technology-business",
-  "date": "2026-07-03",
-  "displayDate": "July 3, 2026",
+  "date": "2026-07-06",
+  "displayDate": "July 6, 2026",
   "author": "Sigma Capital",
   "category": "Company News",
   "tags": [
@@ -12,32 +12,32 @@
     "financial news",
     "market update"
   ],
-  "metaDescription": "GeekWire is a prominent technology news site based in Seattle, covering tech startups and companies, launched in 2011. It reports on industry trends and busines",
-  "excerpt": "GeekWire is a prominent technology news site based in Seattle, covering tech startups and companies, launched in 2011. It reports on industry trends and business developments.",
+  "metaDescription": "GeekWire is a prominent technology news site based in Seattle, covering tech trends and business news. It has a strong online presence and a dedicated audience.",
+  "excerpt": "GeekWire is a prominent technology news site based in Seattle, covering tech trends and business news. It has a strong online presence and a dedicated audience. The site focuses on technology, business, and related fields.",
   "content": {
-    "introduction": "GeekWire is a prominent technology news site based in Seattle, covering tech startups and companies, launched in 2011. It reports on industry trends and business developments.",
+    "introduction": "GeekWire is a prominent technology news site based in Seattle, covering tech trends and business news. It has a strong online presence and a dedicated audience. The site focuses on technology, business, and related fields.",
     "body": [
-      "GeekWire is a fast-growing, national technology news site with strong roots in the Seattle region and a large audience of loyal, tech-savvy readers",
-      "GeekWire is a fast-growing, national technology news site with strong roots in the Seattle region … reports accelerating Azure growth and $37B AI run rate",
-      "GeekWire is an American technology news website that covers startups and established technology companies. The site launched in March 2011 and is based"
+      "GeekWire is a fast-growing, national technology news site with strong roots in the Seattle region and a large audience of loyal, tech-savvy readers around",
+      "Technology and business news from GeekWire, covering technology, space, science, business and geeklife from Seattle.",
+      "The latest technology news and trends in mobile devices, the Internet, computers, video games, e-commerce, electronic books, and more."
     ],
     "keyTakeaways": [
-      "GeekWire is a prominent technology news site based in Seattle, covering tech startups and companies, launched in 2011. I",
+      "GeekWire is a prominent technology news site based in Seattle, covering tech trends and business news. It has a strong o",
       "GeekWire is a fast-growing, national technology news site with strong roots in the Seattle region and a large audience o",
-      "GeekWire is a fast-growing, national technology news site with strong roots in the Seattle region … reports accelerating"
+      "Technology and business news from GeekWire, covering technology, space, science, business and geeklife from Seattle."
     ],
     "source": "geekwire.com",
     "sourceUrl": "https://www.geekwire.com"
   },
   "readingTime": 3,
-  "updatedAt": "2026-07-03T03:36:54.570Z",
+  "updatedAt": "2026-07-06T03:55:26.248Z",
   "images": {
     "thumbnail": {
-      "src": "/images/article_thumb_3.jpg",
+      "src": "/images/article_thumb_2.jpg",
       "alt": "GeekWire – Breaking News in Technology & Business"
     },
     "hero": {
-      "src": "/images/article_thumb_2.jpg",
+      "src": "/images/article_thumb_5.jpg",
       "alt": "GeekWire – Breaking News in Technology & Business"
     },
     "mid": {
@@ -46,7 +46,7 @@
     }
   },
   "image": {
-    "src": "/images/article_thumb_2.jpg",
+    "src": "/images/article_thumb_4.jpg",
     "alt": "GeekWire – Breaking News in Technology & Business"
   }
 }
