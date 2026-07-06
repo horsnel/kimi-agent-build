@@ -1,0 +1,52 @@
+{
+  "id": "s-p-500",
+  "type": "news",
+  "title": "S&P 500",
+  "slug": "s-p-500",
+  "date": "2026-07-06",
+  "displayDate": "July 6, 2026",
+  "author": "Sigma Capital",
+  "category": "Market Analysis",
+  "tags": [
+    "market analysis",
+    "financial news",
+    "market update"
+  ],
+  "metaDescription": "The S&P 500 is a leading stock market index in the U.S., tracking 500 large companies. As of July 6, 2026, it was at 7,537.72, up by 54.48 points (0.73%). It re",
+  "excerpt": "The S&P 500 is a leading stock market index in the U.S., tracking 500 large companies. As of July 6, 2026, it was at 7,537.72, up by 54.48 points (0.73%). It represents approximately 80% of the U.S. equity market.",
+  "content": {
+    "introduction": "The S&P 500 is a leading stock market index in the U.S., tracking 500 large companies. As of July 6, 2026, it was at 7,537.72, up by 54.48 points (0.73%). It represents approximately 80% of the U.S. equity market.",
+    "body": [
+      "É (S&P 500) um índice ponderado de valor de mercado (valor do ativo multiplicado pelo número de ações em circulação) com o peso de cada ativo no índice",
+      "O S&P 500 é um índice que inclui as 500 empresas de capital aberto negociadas nas Bolsas de Valores dos Estados Unidos.",
+      "O S&P 500® é amplamente considerado o melhor indicador das ações large cap dos EUA. O índice inclui 500 empresas líderes e representa aproximadamente 80% da"
+    ],
+    "keyTakeaways": [
+      "The S&P 500 is a leading stock market index in the U.S",
+      "É (S&P 500) um índice ponderado de valor de mercado (valor do ativo multiplicado pelo número de ações em circulação) com",
+      "O S&P 500 é um índice que inclui as 500 empresas de capital aberto negociadas nas Bolsas de Valores dos Estados Unidos."
+    ],
+    "source": "en.wikipedia.org",
+    "sourceUrl": "https://en.wikipedia.org/wiki/S%26P_500"
+  },
+  "readingTime": 3,
+  "updatedAt": "2026-07-06T20:01:01.553Z",
+  "images": {
+    "thumbnail": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "S&P 500"
+    },
+    "hero": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "S&P 500"
+    },
+    "mid": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "S&P 500"
+    }
+  },
+  "image": {
+    "src": "/images/article_thumb_3.jpg",
+    "alt": "S&P 500"
+  }
+}

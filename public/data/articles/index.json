@@ -252,6 +252,27 @@
     "readingTime": 3
   },
   {
+    "id": "btcusd-technical-analysis-for-bitcoin-usd",
+    "type": "news",
+    "title": "BTCUSD Technical Analysis for Bitcoin - USD ...",
+    "slug": "btcusd-technical-analysis-for-bitcoin-usd",
+    "date": "2026-07-06",
+    "displayDate": "July 6, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin's technical analysis uses indicators like RSI, MACD, and pivot points for forecasting. Key tools include oscillators to gauge overbought/oversold condit",
+    "excerpt": "Bitcoin's technical analysis uses indicators like RSI, MACD, and pivot points for forecasting. Key tools include oscillators to gauge overbought/oversold conditions. Current technical data includes stochastic and moving averages.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "BTCUSD Technical Analysis for Bitcoin - USD ..."
+    },
+    "readingTime": 3
+  },
+  {
     "id": "company-earnings-calendar-yahoo-finance",
     "type": "news",
     "title": "Company Earnings Calendar - Yahoo Finance",
@@ -399,6 +420,27 @@
     "readingTime": 3
   },
   {
+    "id": "earnings-calendar-markets-insider",
+    "type": "news",
+    "title": "Earnings Calendar | Markets Insider",
+    "slug": "earnings-calendar-markets-insider",
+    "date": "2026-07-06",
+    "displayDate": "July 6, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Today's earnings reports include Catena AB, Wallenstam AB, Wihlborgs Fastigheter AB, Dios Fastigheter AB, and Zoomcar Holdings Inc. Other companies are schedule",
+    "excerpt": "Today's earnings reports include Catena AB, Wallenstam AB, Wihlborgs Fastigheter AB, Dios Fastigheter AB, and Zoomcar Holdings Inc. Other companies are scheduled for later in the quarter. Check the Markets Insider calendar for details.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Earnings Calendar | Markets Insider"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "earnings-report-calendar-us-stock",
     "type": "news",
     "title": "Earnings Report Calendar | US Stock ...",
@@ -500,6 +542,48 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "Economic News Releases"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "economic-sector-performance-dashboards-yahoo-finance",
+    "type": "news",
+    "title": "Economic Sector Performance Dashboards - Yahoo Finance",
+    "slug": "economic-sector-performance-dashboards-yahoo-finance",
+    "date": "2026-07-06",
+    "displayDate": "July 6, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Yahoo Finance's economic sector performance dashboard shows current sector indices and their percentage changes, with Energy leading at +0.56%. The S&P 500 is s",
+    "excerpt": "Yahoo Finance's economic sector performance dashboard shows current sector indices and their percentage changes, with Energy leading at +0.56%. The S&P 500 is stable at 7,483.24. Industrials sector is up by 0.47%.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Economic Sector Performance Dashboards - Yahoo Finance"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "federal-reserve-issues-fomc-statement",
+    "type": "news",
+    "title": "Federal Reserve issues FOMC statement",
+    "slug": "federal-reserve-issues-fomc-statement",
+    "date": "2026-07-06",
+    "displayDate": "July 6, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Reserve maintained the interest rate at 3.65% and directed open market operations to keep the federal funds rate in a target range of 3.5% to 3.75%.",
+    "excerpt": "The Federal Reserve maintained the interest rate at 3.65% and directed open market operations to keep the federal funds rate in a target range of 3.5% to 3.75%. The FOMC statement was released on June 17, 2026.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Federal Reserve issues FOMC statement"
     },
     "readingTime": 3
   },
@@ -693,6 +777,27 @@
     "readingTime": 3
   },
   {
+    "id": "healthcare-stock-performance-yahoo-finance",
+    "type": "news",
+    "title": "Healthcare Stock Performance - Yahoo Finance",
+    "slug": "healthcare-stock-performance-yahoo-finance",
+    "date": "2026-07-06",
+    "displayDate": "July 6, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Healthcare stocks have shown mixed performance, with some sectors rising and others declining. Key players like JNJ and AZN saw significant gains, while others ",
+    "excerpt": "Healthcare stocks have shown mixed performance, with some sectors rising and others declining. Key players like JNJ and AZN saw significant gains, while others like UNH and PFE had minor fluctuations. As of July 6, 2026, the sector remains volatile.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Healthcare Stock Performance - Yahoo Finance"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "how-to-invest-in-today-s-market-financial-perspectives-u-s-bank",
     "type": "news",
     "title": "How to Invest in Today's Market - Financial Perspectives - U.S. Bank",
@@ -777,6 +882,27 @@
     "readingTime": 3
   },
   {
+    "id": "inflation-update-u-s-congress-joint-economic-committee",
+    "type": "news",
+    "title": "Inflation Update - U.S. Congress Joint Economic Committee",
+    "slug": "inflation-update-u-s-congress-joint-economic-committee",
+    "date": "2026-07-06",
+    "displayDate": "July 6, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Inflation has decreased, with families spending $700 more due to inflation under Trump, according to the latest Joint Economic Committee report. The national de",
+    "excerpt": "Inflation has decreased, with families spending $700 more due to inflation under Trump, according to the latest Joint Economic Committee report. The national debt and employment updates are also available.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Inflation Update - U.S. Congress Joint Economic Committee"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "investment-strategies-for-today-s-market-linkedin",
     "type": "news",
     "title": "Investment Strategies for Today's Market - LinkedIn",
@@ -836,6 +962,27 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "Latest: Asia Stock Market News"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "live-updates-interest-rates-steady-federal-reserve",
+    "type": "news",
+    "title": "Live updates: Interest rates steady, Federal Reserve ...",
+    "slug": "live-updates-interest-rates-steady-federal-reserve",
+    "date": "2026-07-06",
+    "displayDate": "July 6, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Reserve held interest rates steady in June 2026, but officials hinted at potential hikes later in the year. The decision was widely anticipated. War",
+    "excerpt": "The Federal Reserve held interest rates steady in June 2026, but officials hinted at potential hikes later in the year. The decision was widely anticipated. Warsh formed task forces to overhaul Fed operations.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Live updates: Interest rates steady, Federal Reserve ..."
     },
     "readingTime": 3
   },
@@ -924,6 +1071,27 @@
     "readingTime": 3
   },
   {
+    "id": "s-p-500-sp500-technical-analysis-medium-term",
+    "type": "news",
+    "title": "S&P 500 (SP500) - Technical Analysis - Medium term",
+    "slug": "s-p-500-sp500-technical-analysis-medium-term",
+    "date": "2026-07-06",
+    "displayDate": "July 6, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The S&P 500 has a strong buy signal based on moving averages and technical indicators. The 14-day RSI and MACD suggest a bullish trend. The index is currently f",
+    "excerpt": "The S&P 500 has a strong buy signal based on moving averages and technical indicators. The 14-day RSI and MACD suggest a bullish trend. The index is currently favorable for buying.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "S&P 500 (SP500) - Technical Analysis - Medium term"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "s-p-500-stock-market-heatmap-stock-analysis",
     "type": "news",
     "title": "S&P 500 Stock Market Heatmap - Stock Analysis",
@@ -941,6 +1109,27 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "S&P 500 Stock Market Heatmap - Stock Analysis"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "s-p-500",
+    "type": "news",
+    "title": "S&P 500",
+    "slug": "s-p-500",
+    "date": "2026-07-06",
+    "displayDate": "July 6, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The S&P 500 is a leading stock market index in the U.S., tracking 500 large companies. As of July 6, 2026, it was at 7,537.72, up by 54.48 points (0.73%). It re",
+    "excerpt": "The S&P 500 is a leading stock market index in the U.S., tracking 500 large companies. As of July 6, 2026, it was at 7,537.72, up by 54.48 points (0.73%). It represents approximately 80% of the U.S. equity market.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "S&P 500"
     },
     "readingTime": 3
   },
@@ -1004,6 +1193,27 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "Sector Research, News and Performance | Sector Industries | Fidelity"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "sector-views-monthly-stock-sector-outlook-charles-schwab",
+    "type": "news",
+    "title": "Sector Views: Monthly Stock Sector Outlook - Charles Schwab",
+    "slug": "sector-views-monthly-stock-sector-outlook-charles-schwab",
+    "date": "2026-07-06",
+    "displayDate": "July 6, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Charles Schwab's monthly stock sector outlook covers the 11 S&P 500 sectors, providing insights for investors. The latest outlook was published on June 26, 2026",
+    "excerpt": "Charles Schwab's monthly stock sector outlook covers the 11 S&P 500 sectors, providing insights for investors. The latest outlook was published on June 26, 2026. This report is part of Schwab's market commentary.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Sector Views: Monthly Stock Sector Outlook - Charles Schwab"
     },
     "readingTime": 3
   },
@@ -1113,6 +1323,27 @@
     "readingTime": 3
   },
   {
+    "id": "techcompanynews",
+    "type": "news",
+    "title": "TechCompanyNews",
+    "slug": "techcompanynews",
+    "date": "2026-07-06",
+    "displayDate": "July 6, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Tech Company News is a newspaper publishing company focused on technology news, with a small team and no disclosed funding details. It covers tech updates and f",
+    "excerpt": "Tech Company News is a newspaper publishing company focused on technology news, with a small team and no disclosed funding details. It covers tech updates and funding rounds, including recent investments in companies like Warp and Nebulock.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "TechCompanyNews"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "technology-stock-performance-yahoo-finance",
     "type": "news",
     "title": "Technology Stock Performance - Yahoo Finance",
@@ -1153,6 +1384,27 @@
       "alt": "Technology"
     },
     "readingTime": 3
+  },
+  {
+    "id": "the-allocator-s-checklist-for-2026-and-beyond-wellington-management",
+    "type": "news",
+    "title": "The allocator’s checklist for 2026 and beyond | Wellington Management",
+    "slug": "the-allocator-s-checklist-for-2026-and-beyond-wellington-management",
+    "date": "2026-07-06",
+    "displayDate": "July 6, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The 2026 allocator checklist emphasizes prioritizing equity returns, considering non-US equities, and managing risk amid a fluctuating US dollar. Key takeaways ",
+    "excerpt": "The 2026 allocator checklist emphasizes prioritizing equity returns, considering non-US equities, and managing risk amid a fluctuating US dollar. Key takeaways focus on strategic asset allocation and market outlook.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "The allocator’s checklist for 2026 and beyond | Wellington Management"
+    },
+    "readingTime": 5
   },
   {
     "id": "the-best-investment-strategies-for-the-continuous-market",
@@ -1340,6 +1592,48 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "United States Economy at a Glance"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "united-states-federal-reserve-interest-rate-decision",
+    "type": "news",
+    "title": "United States Federal Reserve Interest Rate Decision",
+    "slug": "united-states-federal-reserve-interest-rate-decision",
+    "date": "2026-07-06",
+    "displayDate": "July 6, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The next Federal Reserve interest rate decision is scheduled for April 29, 2026. The current federal funds rate target range is 3.50% to 3.75%. The last FOMC me",
+    "excerpt": "The next Federal Reserve interest rate decision is scheduled for April 29, 2026. The current federal funds rate target range is 3.50% to 3.75%. The last FOMC meeting held rates unchanged on March 18, 2026.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "United States Federal Reserve Interest Rate Decision"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "united-states-indicators-trading-economics",
+    "type": "news",
+    "title": "United States Indicators - Trading Economics",
+    "slug": "united-states-indicators-trading-economics",
+    "date": "2026-07-06",
+    "displayDate": "July 6, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The United States GDP growth rate was 2.1% in March 2026, and the unemployment rate was 4.2% in June 2026. The Composite Leading Indicator increased to 101.02 p",
+    "excerpt": "The United States GDP growth rate was 2.1% in March 2026, and the unemployment rate was 4.2% in June 2026. The Composite Leading Indicator increased to 101.02 points in May 2026.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "United States Indicators - Trading Economics"
     },
     "readingTime": 3
   },
@@ -1953,27 +2247,6 @@
     "readingTime": 3
   },
   {
-    "id": "inflation-update-u-s-congress-joint-economic-committee",
-    "type": "news",
-    "title": "Inflation Update - U.S. Congress Joint Economic Committee",
-    "slug": "inflation-update-u-s-congress-joint-economic-committee",
-    "date": "2026-07-05",
-    "displayDate": "July 5, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Inflation has increased average household spending by $706 nationally since January 2021, with the District of Columbia experiencing the highest costs at $948. ",
-    "excerpt": "Inflation has increased average household spending by $706 nationally since January 2021, with the District of Columbia experiencing the highest costs at $948. The U.S. Congress Joint Economic Committee tracks these costs state-by-state. The latest data shows significant variation across states.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Inflation Update - U.S. Congress Joint Economic Committee"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "investment-directions-2026-outlook-ishares",
     "type": "news",
     "title": "Investment Directions 2026 Outlook | iShares",
@@ -2180,27 +2453,6 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "Technology - The New York Times"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "the-allocator-s-checklist-for-2026-and-beyond-wellington-management",
-    "type": "news",
-    "title": "The allocator’s checklist for 2026 and beyond | Wellington Management",
-    "slug": "the-allocator-s-checklist-for-2026-and-beyond-wellington-management",
-    "date": "2026-07-05",
-    "displayDate": "July 5, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The 2026 allocator checklist emphasizes equity outperformance, the US dollar's volatility, and strategic policy impacts on markets. It focuses on defining inves",
-    "excerpt": "The 2026 allocator checklist emphasizes equity outperformance, the US dollar's volatility, and strategic policy impacts on markets. It focuses on defining investment priorities for greater impact.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "The allocator’s checklist for 2026 and beyond | Wellington Management"
     },
     "readingTime": 3
   },
@@ -2520,27 +2772,6 @@
     "readingTime": 3
   },
   {
-    "id": "earnings-calendar-markets-insider",
-    "type": "news",
-    "title": "Earnings Calendar | Markets Insider",
-    "slug": "earnings-calendar-markets-insider",
-    "date": "2026-07-04",
-    "displayDate": "July 4, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The earnings calendar tracks companies' earnings reports, including S.J.S Enterprises, Mawana Sugars, and Julien Agro Infratech on July 4, 2026. Nasdaq and Inve",
-    "excerpt": "The earnings calendar tracks companies' earnings reports, including S.J.S Enterprises, Mawana Sugars, and Julien Agro Infratech on July 4, 2026. Nasdaq and Investing.com also offer comprehensive earnings calendars.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Earnings Calendar | Markets Insider"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "economic-indicators-calendar-federal-reserve-bank-of-new-york",
     "type": "news",
     "title": "Economic Indicators Calendar - FEDERAL RESERVE BANK of NEW YORK",
@@ -2579,27 +2810,6 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "Economic Indicators Calendar | New York Fed"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "economic-sector-performance-dashboards-yahoo-finance",
-    "type": "news",
-    "title": "Economic Sector Performance Dashboards - Yahoo Finance",
-    "slug": "economic-sector-performance-dashboards-yahoo-finance",
-    "date": "2026-07-04",
-    "displayDate": "July 4, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Yahoo Finance provides sector performance dashboards for various industries, including technology, healthcare, and financial services. Sectors include technolog",
-    "excerpt": "Yahoo Finance provides sector performance dashboards for various industries, including technology, healthcare, and financial services. Sectors include technology, financial services, and healthcare. The dashboard tracks performance and trends.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Economic Sector Performance Dashboards - Yahoo Finance"
     },
     "readingTime": 3
   },
@@ -2726,27 +2936,6 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "Federal Reserve holds interest rates steady but leaves ..."
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "federal-reserve-issues-fomc-statement",
-    "type": "news",
-    "title": "Federal Reserve issues FOMC statement",
-    "slug": "federal-reserve-issues-fomc-statement",
-    "date": "2026-07-04",
-    "displayDate": "July 4, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Reserve maintained the interest rate at 3.65% and set the federal funds rate target range at 3.5% to 3.75% in its June 2026 FOMC statement. The deci",
-    "excerpt": "The Federal Reserve maintained the interest rate at 3.65% and set the federal funds rate target range at 3.5% to 3.75% in its June 2026 FOMC statement. The decision was unanimous. The statement was released on June 17, 2026.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Federal Reserve issues FOMC statement"
     },
     "readingTime": 3
   },
@@ -2919,27 +3108,6 @@
     "readingTime": 3
   },
   {
-    "id": "s-p-500-sp500-technical-analysis-medium-term",
-    "type": "news",
-    "title": "S&P 500 (SP500) - Technical Analysis - Medium term",
-    "slug": "s-p-500-sp500-technical-analysis-medium-term",
-    "date": "2026-07-04",
-    "displayDate": "July 4, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The S&P 500 is in a rising trend channel, testing resistance at 7560, with a positive signal expected if it breaks through this level. Technical analysis shows ",
-    "excerpt": "The S&P 500 is in a rising trend channel, testing resistance at 7560, with a positive signal expected if it breaks through this level. Technical analysis shows a strong buy outlook based on moving averages and indicators. The index is currently trending upward.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "S&P 500 (SP500) - Technical Analysis - Medium term"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "s-p-500-technical-analysis-and-moving-averages",
     "type": "news",
     "title": "S&P 500 Technical Analysis and Moving Averages",
@@ -2959,27 +3127,6 @@
       "alt": "S&P 500 Technical Analysis and Moving Averages"
     },
     "readingTime": 3
-  },
-  {
-    "id": "sector-views-monthly-stock-sector-outlook-charles-schwab",
-    "type": "news",
-    "title": "Sector Views: Monthly Stock Sector Outlook - Charles Schwab",
-    "slug": "sector-views-monthly-stock-sector-outlook-charles-schwab",
-    "date": "2026-07-04",
-    "displayDate": "July 4, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Charles Schwab's monthly stock sector outlook evaluates 11 S&P 500 sectors using growth, quality, sentiment, stability, and valuation. Currently, energy, financ",
-    "excerpt": "Charles Schwab's monthly stock sector outlook evaluates 11 S&P 500 sectors using growth, quality, sentiment, stability, and valuation. Currently, energy, financials, and materials outperform; real estate and consumer discretionary underperform. The report emphasizes informed decision-making.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Sector Views: Monthly Stock Sector Outlook - Charles Schwab"
-    },
-    "readingTime": 6
   },
   {
     "id": "sectors-technology",
@@ -3062,27 +3209,6 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "U.S. Market Analysis & Valuation - Dow Jones, Nasdaq, S&P 500 ..."
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "united-states-indicators-trading-economics",
-    "type": "news",
-    "title": "United States Indicators - Trading Economics",
-    "slug": "united-states-indicators-trading-economics",
-    "date": "2026-07-04",
-    "displayDate": "July 4, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The United States GDP growth rate was 2.1% in March 2026, and the unemployment rate was 4.2% in June 2026. The latest United States economic news was updated on",
-    "excerpt": "The United States GDP growth rate was 2.1% in March 2026, and the unemployment rate was 4.2% in June 2026. The latest United States economic news was updated on July 4, 2026.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "United States Indicators - Trading Economics"
     },
     "readingTime": 3
   },
@@ -3209,27 +3335,6 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "Bitcoin (BTC) Price Today: BTC Live Price, Charts, News"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "btcusd-technical-analysis-for-bitcoin-usd",
-    "type": "news",
-    "title": "BTCUSD Technical Analysis for Bitcoin - USD ...",
-    "slug": "btcusd-technical-analysis-for-bitcoin-usd",
-    "date": "2026-07-03",
-    "displayDate": "July 3, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Bitcoin's technical analysis suggests a bearish trend with a sell signal. The 20-day moving average is $62,551.23. The RSI is neutral at 39.28.",
-    "excerpt": "Bitcoin's technical analysis suggests a bearish trend with a sell signal. The 20-day moving average is $62,551.23. The RSI is neutral at 39.28.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "BTCUSD Technical Analysis for Bitcoin - USD ..."
     },
     "readingTime": 3
   },
@@ -5162,27 +5267,6 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "United States Consumer Price Index (CPI) - Trading Economics"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "united-states-federal-reserve-interest-rate-decision",
-    "type": "news",
-    "title": "United States Federal Reserve Interest Rate Decision",
-    "slug": "united-states-federal-reserve-interest-rate-decision",
-    "date": "2026-06-10",
-    "displayDate": "June 10, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Reserve announces interest rate decisions eight times a year, with the current target range at 3.50%–3.75%. The next decision is scheduled for June ",
-    "excerpt": "The Federal Reserve announces interest rate decisions eight times a year, with the current target range at 3.50%–3.75%. The next decision is scheduled for June 18, 2026. The effective federal funds rate is currently around 3.64%.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "United States Federal Reserve Interest Rate Decision"
     },
     "readingTime": 3
   },
