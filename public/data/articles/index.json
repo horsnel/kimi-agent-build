@@ -315,6 +315,27 @@
     "readingTime": 3
   },
   {
+    "id": "coindesk-bitcoin-ethereum-xrp-crypto-news-and-price-data",
+    "type": "news",
+    "title": "CoinDesk: Bitcoin, Ethereum, XRP, Crypto News and Price Data",
+    "slug": "coindesk-bitcoin-ethereum-xrp-crypto-news-and-price-data",
+    "date": "2026-07-07",
+    "displayDate": "July 7, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "CoinDesk is a leading source for cryptocurrency news, including updates on Bitcoin, Ethereum, and XRP, along with analysis and price data. Vanguard is exploring",
+    "excerpt": "CoinDesk is a leading source for cryptocurrency news, including updates on Bitcoin, Ethereum, and XRP, along with analysis and price data. Vanguard is exploring digital assets leadership roles, and Tether's former investment chief is looking to sell part of his stake.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "CoinDesk: Bitcoin, Ethereum, XRP, Crypto News and Price Data"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "company-earnings-calendar-yahoo-finance",
     "type": "news",
     "title": "Company Earnings Calendar - Yahoo Finance",
@@ -374,6 +395,48 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "CPI Home : U.S. Bureau of Labor Statistics"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "crypto-news-bitcoin-ethereum-xrp-news-crypto-news",
+    "type": "news",
+    "title": "Crypto News: Bitcoin, Ethereum & XRP News | crypto.news",
+    "slug": "crypto-news-bitcoin-ethereum-xrp-news-crypto-news",
+    "date": "2026-07-07",
+    "displayDate": "July 7, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin ETF sees selloff; BlackRock and Fidelity dominate; Mastercard partners with Ripple, Solana for AI payments.",
+    "excerpt": "Bitcoin ETF sees selloff; BlackRock and Fidelity dominate; Mastercard partners with Ripple, Solana for AI payments.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Crypto News: Bitcoin, Ethereum & XRP News | crypto.news"
+    },
+    "readingTime": 7
+  },
+  {
+    "id": "earnings-calendar-and-analysis-for-this-week-july-6-10-kiplinger",
+    "type": "news",
+    "title": "Earnings Calendar and Analysis for This Week (July 6-10) - Kiplinger",
+    "slug": "earnings-calendar-and-analysis-for-this-week-july-6-10-kiplinger",
+    "date": "2026-07-07",
+    "displayDate": "July 7, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "No noteworthy earnings reports are scheduled for July 6-10, but economic data including Fed meeting minutes will be released. Key economic releases include Fed ",
+    "excerpt": "No noteworthy earnings reports are scheduled for July 6-10, but economic data including Fed meeting minutes will be released. Key economic releases include Fed meeting minutes on Wednesday. No major stock earnings expected this week.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Earnings Calendar and Analysis for This Week (July 6-10) - Kiplinger"
     },
     "readingTime": 3
   },
@@ -483,6 +546,27 @@
     "readingTime": 3
   },
   {
+    "id": "economic-news-releases-u-s-bureau-of-labor-statistics",
+    "type": "news",
+    "title": "Economic News Releases - U.S. Bureau of Labor Statistics",
+    "slug": "economic-news-releases-u-s-bureau-of-labor-statistics",
+    "date": "2026-07-07",
+    "displayDate": "July 7, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The U.S. Bureau of Labor Statistics releases economic news, including inflation, unemployment, and productivity data. The latest Consumer Price Index rose 4.2% ",
+    "excerpt": "The U.S. Bureau of Labor Statistics releases economic news, including inflation, unemployment, and productivity data. The latest Consumer Price Index rose 4.2% over the past year. Productivity increased 0.3% in the first quarter of 2026.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Economic News Releases - U.S. Bureau of Labor Statistics"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "economic-sector-performance-dashboards-yahoo-finance",
     "type": "news",
     "title": "Economic Sector Performance Dashboards - Yahoo Finance",
@@ -521,6 +605,48 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "Fed holds rates steady as new Chair Kevin Warsh commits to price ..."
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "fed-meeting-april-2026-what-is-next-for-interest-rates-fidelity",
+    "type": "news",
+    "title": "Fed meeting April 2026: What is next for interest rates | Fidelity",
+    "slug": "fed-meeting-april-2026-what-is-next-for-interest-rates-fidelity",
+    "date": "2026-07-07",
+    "displayDate": "July 7, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Fed's next meeting is in June 2026; interest rates are expected to remain unchanged, but future hikes are anticipated. The Federal Open Market Committee (FO",
+    "excerpt": "The Fed's next meeting is in June 2026; interest rates are expected to remain unchanged, but future hikes are anticipated. The Federal Open Market Committee (FOMC) will review economic data to decide on rate adjustments.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Fed meeting April 2026: What is next for interest rates | Fidelity"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "federal-reserve-holds-interest-rates-steady-but-leaves-door-open-to",
+    "type": "news",
+    "title": "Federal Reserve holds interest rates steady but leaves door open to ...",
+    "slug": "federal-reserve-holds-interest-rates-steady-but-leaves-door-open-to",
+    "date": "2026-07-07",
+    "displayDate": "July 7, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Reserve held interest rates steady but signaled openness to cuts later, amid ongoing inflation and leadership transition concerns. The decision main",
+    "excerpt": "The Federal Reserve held interest rates steady but signaled openness to cuts later, amid ongoing inflation and leadership transition concerns. The decision maintained the benchmark rate between 3.5%-3.75%. Powell indicated he would stay on the Board of Governors.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Federal Reserve holds interest rates steady but leaves door open to ..."
     },
     "readingTime": 3
   },
@@ -693,6 +819,48 @@
     "readingTime": 3
   },
   {
+    "id": "healthcare-stock-performance-yahoo-finance",
+    "type": "news",
+    "title": "Healthcare Stock Performance - Yahoo Finance",
+    "slug": "healthcare-stock-performance-yahoo-finance",
+    "date": "2026-07-07",
+    "displayDate": "July 7, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Healthcare sector index (^YH206) closed at 6,734,650.00 on July 6, 2026, with a 52-week range of 5,941,224.00 to 8,068,906.00. NYSE Healthcare Index (^NYP) was ",
+    "excerpt": "Healthcare sector index (^YH206) closed at 6,734,650.00 on July 6, 2026, with a 52-week range of 5,941,224.00 to 8,068,906.00. NYSE Healthcare Index (^NYP) was at 28,382.24, down 1.37% on the same date.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Healthcare Stock Performance - Yahoo Finance"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "how-to-invest-in-today-s-market-financial-perspectives",
+    "type": "news",
+    "title": "How to Invest in Today's Market - Financial Perspectives",
+    "slug": "how-to-invest-in-today-s-market-financial-perspectives",
+    "date": "2026-07-07",
+    "displayDate": "July 7, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "To invest in today's market, review your portfolio and risk tolerance, stay informed with market insights, and consider rebalancing your assets for long-term st",
+    "excerpt": "To invest in today's market, review your portfolio and risk tolerance, stay informed with market insights, and consider rebalancing your assets for long-term stability.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "How to Invest in Today's Market - Financial Perspectives"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "inflation-consumer-prices-annual-united-states",
     "type": "news",
     "title": "Inflation, consumer prices (annual %) - United States",
@@ -735,6 +903,27 @@
     "readingTime": 3
   },
   {
+    "id": "inflation-consumer-prices-for-the-united-states-fred",
+    "type": "news",
+    "title": "Inflation, consumer prices for the United States - FRED",
+    "slug": "inflation-consumer-prices-for-the-united-states-fred",
+    "date": "2026-07-07",
+    "displayDate": "July 7, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Inflation, consumer prices for the United States is measured by the Consumer Price Index (CPI). The CPIAUCSL series tracks changes in the cost of a basket of go",
+    "excerpt": "Inflation, consumer prices for the United States is measured by the Consumer Price Index (CPI). The CPIAUCSL series tracks changes in the cost of a basket of goods and services for urban consumers. The latest data is available from the Federal Reserve Bank of St. Louis.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Inflation, consumer prices for the United States - FRED"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "inflation-economic-data-series-fred-st-louis-fed",
     "type": "news",
     "title": "Inflation - Economic Data Series | FRED | St. Louis Fed",
@@ -773,6 +962,48 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "Inflation Update - U.S. Congress Joint Economic Committee"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "inflation-update",
+    "type": "news",
+    "title": "Inflation Update",
+    "slug": "inflation-update",
+    "date": "2026-07-07",
+    "displayDate": "July 7, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Annual inflation in February 2026 was 2.4%, unchanged from January, while monthly inflation rose to 0.47%. The Federal Reserve may be less likely to cut rates d",
+    "excerpt": "Annual inflation in February 2026 was 2.4%, unchanged from January, while monthly inflation rose to 0.47%. The Federal Reserve may be less likely to cut rates due to higher gas prices.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Inflation Update"
+    },
+    "readingTime": 6
+  },
+  {
+    "id": "investment-strategies-for-today-s-market",
+    "type": "news",
+    "title": "Investment Strategies for Today's Market",
+    "slug": "investment-strategies-for-today-s-market",
+    "date": "2026-07-07",
+    "displayDate": "July 7, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Invest in high free cash flow companies, diversify your portfolio, and consider interest rate impacts for long-term growth.",
+    "excerpt": "Invest in high free cash flow companies, diversify your portfolio, and consider interest rate impacts for long-term growth.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Investment Strategies for Today's Market"
     },
     "readingTime": 3
   },
@@ -966,6 +1197,27 @@
     "readingTime": 3
   },
   {
+    "id": "s-p-500-sp500-technical-analysis-medium-term-investtech",
+    "type": "news",
+    "title": "S&P 500 (SP500) - Technical Analysis - Medium term - Investtech",
+    "slug": "s-p-500-sp500-technical-analysis-medium-term-investtech",
+    "date": "2026-07-07",
+    "displayDate": "July 7, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The S&P 500 is in a rising trend channel in the medium long term. Support is at 6940, resistance at 7600. Use analysis at your own risk.",
+    "excerpt": "The S&P 500 is in a rising trend channel in the medium long term. Support is at 6940, resistance at 7600. Use analysis at your own risk.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "S&P 500 (SP500) - Technical Analysis - Medium term - Investtech"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "s-p-500-sp500-technical-analysis-medium-term",
     "type": "news",
     "title": "S&P 500 (SP500) - Technical Analysis - Medium term",
@@ -983,6 +1235,27 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "S&P 500 (SP500) - Technical Analysis - Medium term"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "s-p-500-technical-analysis-and-moving-averages-investing-com",
+    "type": "news",
+    "title": "S&P 500 Technical Analysis and Moving Averages - Investing.com",
+    "slug": "s-p-500-technical-analysis-and-moving-averages-investing-com",
+    "date": "2026-07-07",
+    "displayDate": "July 7, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The S&P 500 is currently a strong buy; moving averages suggest a neutral stance; the 14-day RSI is 60.735.",
+    "excerpt": "The S&P 500 is currently a strong buy; moving averages suggest a neutral stance; the 14-day RSI is 60.735.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "S&P 500 Technical Analysis and Moving Averages - Investing.com"
     },
     "readingTime": 3
   },
@@ -1176,6 +1449,27 @@
     "readingTime": 3
   },
   {
+    "id": "technology-bloomberg-com",
+    "type": "news",
+    "title": "Technology - Bloomberg.com",
+    "slug": "technology-bloomberg-com",
+    "date": "2026-07-07",
+    "displayDate": "July 7, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bloomberg covers the latest in technology, including AI developments, quantum computing, and innovations in financial data and tools. Bloomberg's Terminal uses ",
+    "excerpt": "Bloomberg covers the latest in technology, including AI developments, quantum computing, and innovations in financial data and tools. Bloomberg's Terminal uses advanced AI and machine learning for market data. Bloomberg Tech provides daily updates on technology trends.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Technology - Bloomberg.com"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "technology-news",
     "type": "news",
     "title": "Technology News",
@@ -1193,6 +1487,69 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "Technology News"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "technology-the-new-york-times",
+    "type": "news",
+    "title": "Technology - The New York Times",
+    "slug": "technology-the-new-york-times",
+    "date": "2026-07-07",
+    "displayDate": "July 7, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "American AI companies report Chinese competitors are catching up. Microsoft is laying off thousands and closing Xbox game studios. Tesla's sales in Europe have ",
+    "excerpt": "American AI companies report Chinese competitors are catching up. Microsoft is laying off thousands and closing Xbox game studios. Tesla's sales in Europe have surged by 25%.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Technology - The New York Times"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "the-best-investment-strategies-for-the-continuous-market",
+    "type": "news",
+    "title": "The Best Investment Strategies For The Continuous Market",
+    "slug": "the-best-investment-strategies-for-the-continuous-market",
+    "date": "2026-07-07",
+    "displayDate": "July 7, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Long-term investment strategies include dollar cost averaging and maintaining a diversified portfolio. Patience and consistent contributions are key. Focus on l",
+    "excerpt": "Long-term investment strategies include dollar cost averaging and maintaining a diversified portfolio. Patience and consistent contributions are key. Focus on long-term growth over short-term market fluctuations.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "The Best Investment Strategies For The Continuous Market"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "the-block-bitcoin-ethereum-crypto-news-live-prices",
+    "type": "news",
+    "title": "The Block: Bitcoin, Ethereum & Crypto News | Live Prices ...",
+    "slug": "the-block-bitcoin-ethereum-crypto-news-live-prices",
+    "date": "2026-07-07",
+    "displayDate": "July 7, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin price is $64,181.94, up 0.88%. Ethereum price is $1,808.30, up 0.59%. Block's price is $0.00001838, unchanged in the last 24 hours.",
+    "excerpt": "Bitcoin price is $64,181.94, up 0.88%. Ethereum price is $1,808.30, up 0.59%. Block's price is $0.00001838, unchanged in the last 24 hours.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "The Block: Bitcoin, Ethereum & Crypto News | Live Prices ..."
     },
     "readingTime": 3
   },
@@ -1403,6 +1760,27 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "What Federal Reserve monetary policy means for investors"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "when-is-the-next-fed-interest-rate-decision-equals-money",
+    "type": "news",
+    "title": "When is the next Fed interest rate decision? - Equals Money",
+    "slug": "when-is-the-next-fed-interest-rate-decision-equals-money",
+    "date": "2026-07-07",
+    "displayDate": "July 7, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The next Fed interest rate decision is scheduled for April 29, 2026, at 18:00 GMT, during an FOMC meeting. The Federal Reserve announces its decisions eight tim",
+    "excerpt": "The next Fed interest rate decision is scheduled for April 29, 2026, at 18:00 GMT, during an FOMC meeting. The Federal Reserve announces its decisions eight times a year.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "When is the next Fed interest rate decision? - Equals Money"
     },
     "readingTime": 3
   },
@@ -1638,27 +2016,6 @@
     "readingTime": 3
   },
   {
-    "id": "earnings-calendar-and-analysis-for-this-week-july-6-10-kiplinger",
-    "type": "news",
-    "title": "Earnings Calendar and Analysis for This Week (July 6-10) | Kiplinger",
-    "slug": "earnings-calendar-and-analysis-for-this-week-july-6-10-kiplinger",
-    "date": "2026-07-06",
-    "displayDate": "July 6, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "No major earnings reports are scheduled for July 6-7. PepsiCo (PEP) and Delta Air Lines (DAL) are key earnings reports on July 9 and 10, respectively.",
-    "excerpt": "No major earnings reports are scheduled for July 6-7. PepsiCo (PEP) and Delta Air Lines (DAL) are key earnings reports on July 9 and 10, respectively.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Earnings Calendar and Analysis for This Week (July 6-10) | Kiplinger"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "earnings-report-calendar-us-stock",
     "type": "news",
     "title": "Earnings Report Calendar | US Stock ...",
@@ -1827,27 +2184,6 @@
     "readingTime": 3
   },
   {
-    "id": "healthcare-stock-performance-yahoo-finance",
-    "type": "news",
-    "title": "Healthcare Stock Performance - Yahoo Finance",
-    "slug": "healthcare-stock-performance-yahoo-finance",
-    "date": "2026-07-06",
-    "displayDate": "July 6, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Healthcare stocks have shown mixed performance, with some sectors rising and others declining. Key players like JNJ and AZN saw significant gains, while others ",
-    "excerpt": "Healthcare stocks have shown mixed performance, with some sectors rising and others declining. Key players like JNJ and AZN saw significant gains, while others like UNH and PFE had minor fluctuations. As of July 6, 2026, the sector remains volatile.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Healthcare Stock Performance - Yahoo Finance"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "how-to-invest-in-today-s-market-financial-perspectives-u-s-bank",
     "type": "news",
     "title": "How to Invest in Today's Market - Financial Perspectives - U.S. Bank",
@@ -1865,27 +2201,6 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "How to Invest in Today's Market - Financial Perspectives - U.S. Bank"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "inflation-consumer-prices-for-the-united-states-fred",
-    "type": "news",
-    "title": "Inflation, consumer prices for the United States - FRED",
-    "slug": "inflation-consumer-prices-for-the-united-states-fred",
-    "date": "2026-07-06",
-    "displayDate": "July 6, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Inflation in the United States is measured by the Consumer Price Index, showing annual percentage changes in the cost of a fixed basket of goods and services. T",
-    "excerpt": "Inflation in the United States is measured by the Consumer Price Index, showing annual percentage changes in the cost of a fixed basket of goods and services. The key series is CPIAUCSL from the U.S. Bureau of Labor Statistics. The latest data is available on the Federal Reserve Bank of St. Louis's ",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Inflation, consumer prices for the United States - FRED"
     },
     "readingTime": 3
   },
@@ -1949,27 +2264,6 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "MarketWatch: Stock Market News - Financial News ..."
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "s-p-500-sp500-technical-analysis-medium-term-investtech",
-    "type": "news",
-    "title": "S&P 500 (SP500) - Technical Analysis - Medium term - Investtech",
-    "slug": "s-p-500-sp500-technical-analysis-medium-term-investtech",
-    "date": "2026-07-06",
-    "displayDate": "July 6, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The S&P 500 medium-term technical analysis shows a rising trend with strong momentum. Investtech's research indicates stocks in rising trends tend to outperform",
-    "excerpt": "The S&P 500 medium-term technical analysis shows a rising trend with strong momentum. Investtech's research indicates stocks in rising trends tend to outperform. Investors should consider their own risk tolerance.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "S&P 500 (SP500) - Technical Analysis - Medium term - Investtech"
     },
     "readingTime": 3
   },
@@ -2182,27 +2476,6 @@
       "alt": "The allocator’s checklist for 2026 and beyond | Wellington Management"
     },
     "readingTime": 5
-  },
-  {
-    "id": "the-best-investment-strategies-for-the-continuous-market",
-    "type": "news",
-    "title": "The Best Investment Strategies For The Continuous Market",
-    "slug": "the-best-investment-strategies-for-the-continuous-market",
-    "date": "2026-07-06",
-    "displayDate": "July 6, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Long-term investing strategies focus on regular contributions and diversification to achieve financial goals. Patience and a diversified portfolio help manage r",
-    "excerpt": "Long-term investing strategies focus on regular contributions and diversification to achieve financial goals. Patience and a diversified portfolio help manage risk. Mutual funds offer diversified exposure to reduce individual stock risk.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "The Best Investment Strategies For The Continuous Market"
-    },
-    "readingTime": 3
   },
   {
     "id": "the-information",
@@ -2541,27 +2814,6 @@
     "readingTime": 3
   },
   {
-    "id": "crypto-news-bitcoin-ethereum-xrp-news-crypto-news",
-    "type": "news",
-    "title": "Crypto News: Bitcoin, Ethereum & XRP News | crypto.news",
-    "slug": "crypto-news-bitcoin-ethereum-xrp-news-crypto-news",
-    "date": "2026-07-05",
-    "displayDate": "July 5, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Bitcoin price targets $65K; Ethereum price targets $1,800; XRP price climbs on buy signal.",
-    "excerpt": "Bitcoin price targets $65K; Ethereum price targets $1,800; XRP price climbs on buy signal.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Crypto News: Bitcoin, Ethereum & XRP News | crypto.news"
-    },
-    "readingTime": 7
-  },
-  {
     "id": "earnings-breaking-news-and-press-releases-business-wire",
     "type": "news",
     "title": "Earnings Breaking News and Press Releases - Business Wire",
@@ -2709,27 +2961,6 @@
     "readingTime": 3
   },
   {
-    "id": "economic-news-releases-u-s-bureau-of-labor-statistics",
-    "type": "news",
-    "title": "Economic News Releases :  U.S. Bureau of Labor Statistics",
-    "slug": "economic-news-releases-u-s-bureau-of-labor-statistics",
-    "date": "2026-07-05",
-    "displayDate": "July 5, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The U.S. Bureau of Labor Statistics reports May 2026 CPI rose 0.5% monthly and 4.2% yearly; PPI increased 1.1% monthly. BLS provides economic data and news rele",
-    "excerpt": "The U.S. Bureau of Labor Statistics reports May 2026 CPI rose 0.5% monthly and 4.2% yearly; PPI increased 1.1% monthly. BLS provides economic data and news releases on employment, productivity, and prices. Visit www.bls.gov for detailed reports.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Economic News Releases :  U.S. Bureau of Labor Statistics"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "ethereum-eth-price-today-news-live-chart-forbes",
     "type": "news",
     "title": "Ethereum (ETH) Price Today, News & Live Chart - Forbes",
@@ -2856,27 +3087,6 @@
     "readingTime": 3
   },
   {
-    "id": "how-to-invest-in-today-s-market-financial-perspectives",
-    "type": "news",
-    "title": "How to Invest in Today's Market - Financial Perspectives",
-    "slug": "how-to-invest-in-today-s-market-financial-perspectives",
-    "date": "2026-07-05",
-    "displayDate": "July 5, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "To invest in today's market, open a brokerage account, review your risk tolerance, and consider long-term strategies.",
-    "excerpt": "To invest in today's market, open a brokerage account, review your risk tolerance, and consider long-term strategies.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "How to Invest in Today's Market - Financial Perspectives"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "investment-directions-2026-outlook-ishares",
     "type": "news",
     "title": "Investment Directions 2026 Outlook | iShares",
@@ -2915,27 +3125,6 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "S&P 500 Index Technical Analysis - Barchart.com"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "s-p-500-technical-analysis-and-moving-averages-investing-com",
-    "type": "news",
-    "title": "S&P 500 Technical Analysis and Moving Averages - Investing.com",
-    "slug": "s-p-500-technical-analysis-and-moving-averages-investing-com",
-    "date": "2026-07-05",
-    "displayDate": "July 5, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The S&P 500 is currently showing a Strong Buy signal based on technical analysis and moving averages. The 14-day RSI is 55.832, indicating a Buy. The MACD is po",
-    "excerpt": "The S&P 500 is currently showing a Strong Buy signal based on technical analysis and moving averages. The 14-day RSI is 55.832, indicating a Buy. The MACD is positive at 3.35, also suggesting a Buy.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "S&P 500 Technical Analysis and Moving Averages - Investing.com"
     },
     "readingTime": 3
   },
@@ -3020,27 +3209,6 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "Technology | Financial Times"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "technology-the-new-york-times",
-    "type": "news",
-    "title": "Technology - The New York Times",
-    "slug": "technology-the-new-york-times",
-    "date": "2026-07-05",
-    "displayDate": "July 5, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Bending Spoons, an Italian company, is going public with a potential value of $19 billion. Teens face risks from harmful content and unknown adults on tech devi",
-    "excerpt": "Bending Spoons, an Italian company, is going public with a potential value of $19 billion. Teens face risks from harmful content and unknown adults on tech devices. San Francisco tech salaries are insufficient despite high costs of living.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Technology - The New York Times"
     },
     "readingTime": 3
   },
@@ -3230,27 +3398,6 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "Bitcoin price today, BTC to USD live price, marketcap and chart"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "coindesk-bitcoin-ethereum-xrp-crypto-news-and-price-data",
-    "type": "news",
-    "title": "CoinDesk: Bitcoin, Ethereum, XRP, Crypto News and Price Data",
-    "slug": "coindesk-bitcoin-ethereum-xrp-crypto-news-and-price-data",
-    "date": "2026-07-04",
-    "displayDate": "July 4, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "CoinDesk provides live and historical cryptocurrency price data, market news, and analysis for Bitcoin, Ethereum, and XRP. The site includes charts, news update",
-    "excerpt": "CoinDesk provides live and historical cryptocurrency price data, market news, and analysis for Bitcoin, Ethereum, and XRP. The site includes charts, news updates, and regulatory insights. The latest data reflects current market trends and significant events.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "CoinDesk: Bitcoin, Ethereum, XRP, Crypto News and Price Data"
     },
     "readingTime": 3
   },
@@ -4032,48 +4179,6 @@
     "readingTime": 5
   },
   {
-    "id": "technology-bloomberg-com",
-    "type": "news",
-    "title": "Technology - Bloomberg.com",
-    "slug": "technology-bloomberg-com",
-    "date": "2026-07-03",
-    "displayDate": "July 3, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Bloomberg's technology section covers AI, big tech, cybersecurity, consumer tech, and startups. Bloomberg Tech is a daily news program hosted by Ed Ludlow. Bloo",
-    "excerpt": "Bloomberg's technology section covers AI, big tech, cybersecurity, consumer tech, and startups. Bloomberg Tech is a daily news program hosted by Ed Ludlow. Bloomberg applies AI and machine learning in financial models.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Technology - Bloomberg.com"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "the-block-bitcoin-ethereum-crypto-news-live-prices",
-    "type": "news",
-    "title": "The Block: Bitcoin, Ethereum & Crypto News | Live Prices ...",
-    "slug": "the-block-bitcoin-ethereum-crypto-news-live-prices",
-    "date": "2026-07-03",
-    "displayDate": "July 3, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Block reports latest crypto news; Bitcoin and Ethereum updates are available; live prices and market analysis are featured.",
-    "excerpt": "The Block reports latest crypto news; Bitcoin and Ethereum updates are available; live prices and market analysis are featured.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "The Block: Bitcoin, Ethereum & Crypto News | Live Prices ..."
-    },
-    "readingTime": 3
-  },
-  {
     "id": "u-s-market-analysis-valuation-dow-jones-nasdaq",
     "type": "news",
     "title": "U.S. Market Analysis & Valuation - Dow Jones, Nasdaq, ...",
@@ -4156,27 +4261,6 @@
       "alt": "What to Look Out for in Economic Data This Week (July 6-10)"
     },
     "readingTime": 4
-  },
-  {
-    "id": "when-is-the-next-fed-interest-rate-decision-equals-money",
-    "type": "news",
-    "title": "When is the next Fed interest rate decision? - Equals Money",
-    "slug": "when-is-the-next-fed-interest-rate-decision-equals-money",
-    "date": "2026-07-03",
-    "displayDate": "July 3, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The next Fed interest rate decision is scheduled for April 29, 2026, at 18:00 GMT. The Federal Open Market Committee (FOMC) meets eight times a year to set mone",
-    "excerpt": "The next Fed interest rate decision is scheduled for April 29, 2026, at 18:00 GMT. The Federal Open Market Committee (FOMC) meets eight times a year to set monetary policy. The last decision kept the federal funds rate unchanged.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "When is the next Fed interest rate decision? - Equals Money"
-    },
-    "readingTime": 3
   },
   {
     "id": "asia-stocks-latest-news-headlines-the-business-times",
@@ -4746,27 +4830,6 @@
     "readingTime": 3
   },
   {
-    "id": "fed-meeting-april-2026-what-is-next-for-interest-rates-fidelity",
-    "type": "news",
-    "title": "Fed meeting April 2026: What is next for interest rates | Fidelity",
-    "slug": "fed-meeting-april-2026-what-is-next-for-interest-rates-fidelity",
-    "date": "2026-07-01",
-    "displayDate": "July 1, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Fed's April 2026 meeting indicated no interest rate change, but higher rates are expected later in the year. The Federal Open Market Committee (FOMC) will c",
-    "excerpt": "The Fed's April 2026 meeting indicated no interest rate change, but higher rates are expected later in the year. The Federal Open Market Committee (FOMC) will continue to monitor economic indicators. Future rate decisions will depend on inflation and GDP growth trends.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Fed meeting April 2026: What is next for interest rates | Fidelity"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "fedwatch-cme-group",
     "type": "news",
     "title": "FedWatch - CME Group",
@@ -4868,27 +4931,6 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "Inflation (CPI)"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "investment-strategies-for-today-s-market",
-    "type": "news",
-    "title": "Investment Strategies for Today's Market",
-    "slug": "investment-strategies-for-today-s-market",
-    "date": "2026-07-01",
-    "displayDate": "July 1, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Focus on income investing for steady cash flow, consider index investing for market alignment, and value investing for undervalued assets.",
-    "excerpt": "Focus on income investing for steady cash flow, consider index investing for market alignment, and value investing for undervalued assets.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Investment Strategies for Today's Market"
     },
     "readingTime": 3
   },
