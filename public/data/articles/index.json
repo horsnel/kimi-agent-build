@@ -84,6 +84,27 @@
     "readingTime": 3
   },
   {
+    "id": "asia-stock-markets-wsj",
+    "type": "news",
+    "title": "Asia Stock Markets - WSJ",
+    "slug": "asia-stock-markets-wsj",
+    "date": "2026-07-07",
+    "displayDate": "July 7, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Asia stock markets have seen significant gains, with Japan's Nikkei up 4.4% and South Korea's Kospi adding around 5%. International stocks have been recovering ",
+    "excerpt": "Asia stock markets have seen significant gains, with Japan's Nikkei up 4.4% and South Korea's Kospi adding around 5%. International stocks have been recovering from losses due to the Iran war. Current market trends remain influenced by global economic factors.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Asia Stock Markets - WSJ"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "asia-stock-markets",
     "type": "news",
     "title": "Asia Stock Markets",
@@ -105,6 +126,27 @@
     "readingTime": 3
   },
   {
+    "id": "asian-market-commentary-rttnews",
+    "type": "news",
+    "title": "Asian Market Commentary - RTTNews",
+    "slug": "asian-market-commentary-rttnews",
+    "date": "2026-07-07",
+    "displayDate": "July 7, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Asian markets mostly traded lower, with the Nikkei 225 falling below 69,300 and the Australian market extending losses. The Thai stock market may accelerate. Th",
+    "excerpt": "Asian markets mostly traded lower, with the Nikkei 225 falling below 69,300 and the Australian market extending losses. The Thai stock market may accelerate. The global forecast for Asian markets is mixed to higher.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Asian Market Commentary - RTTNews"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "big-tech-latest-news-breaking-stories-and-comment",
     "type": "news",
     "title": "Big Tech - latest news, breaking stories and comment",
@@ -122,6 +164,48 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "Big Tech - latest news, breaking stories and comment"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "bitcoin-btc-news-analysis-and-forecast-fxstreet",
+    "type": "news",
+    "title": "Bitcoin (BTC) News, Analysis and Forecast - FXStreet",
+    "slug": "bitcoin-btc-news-analysis-and-forecast-fxstreet",
+    "date": "2026-07-07",
+    "displayDate": "July 7, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin is currently above $63,000, showing a three-month high. Its recovery is linked to optimism around a potential US-Iran deal. Bitcoin futures often trade ",
+    "excerpt": "Bitcoin is currently above $63,000, showing a three-month high. Its recovery is linked to optimism around a potential US-Iran deal. Bitcoin futures often trade at a premium or discount to the spot price.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Bitcoin (BTC) News, Analysis and Forecast - FXStreet"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "bitcoin-btc-price-today-btc-live-price-charts-news-crypto-com",
+    "type": "news",
+    "title": "Bitcoin (BTC) Price Today: BTC Live Price, Charts, News - Crypto.com",
+    "slug": "bitcoin-btc-price-today-btc-live-price-charts-news-crypto-com",
+    "date": "2026-07-07",
+    "displayDate": "July 7, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin (BTC) price today is $63,270.58, with a 24-hour trading volume of $19.75 billion. BTC has risen by 0.86% in the last 24 hours.",
+    "excerpt": "Bitcoin (BTC) price today is $63,270.58, with a 24-hour trading volume of $19.75 billion. BTC has risen by 0.86% in the last 24 hours.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Bitcoin (BTC) Price Today: BTC Live Price, Charts, News - Crypto.com"
     },
     "readingTime": 3
   },
@@ -294,6 +378,27 @@
     "readingTime": 3
   },
   {
+    "id": "earnings-calendar-investing-com",
+    "type": "news",
+    "title": "Earnings Calendar - Investing.com",
+    "slug": "earnings-calendar-investing-com",
+    "date": "2026-07-07",
+    "displayDate": "July 7, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "An earnings calendar lists upcoming and past company earnings reports, showing expected release dates and actual outcomes. It helps investors track financial he",
+    "excerpt": "An earnings calendar lists upcoming and past company earnings reports, showing expected release dates and actual outcomes. It helps investors track financial health and forecast impacts. As of July 7, 2026, check the calendar for the latest reports.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Earnings Calendar - Investing.com"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "earnings-calendar-markets-insider",
     "type": "news",
     "title": "Earnings Calendar | Markets Insider",
@@ -336,6 +441,27 @@
     "readingTime": 3
   },
   {
+    "id": "economic-calendar",
+    "type": "news",
+    "title": "Economic Calendar",
+    "slug": "economic-calendar",
+    "date": "2026-07-07",
+    "displayDate": "July 7, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Economic Calendar covers over 190 countries, providing more than 300,000 economic indicators. It includes events from major global economies and G20 members",
+    "excerpt": "The Economic Calendar covers over 190 countries, providing more than 300,000 economic indicators. It includes events from major global economies and G20 members. The calendar is updated in real-time.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Economic Calendar"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "economic-events-calendar-for-yahoo-finance",
     "type": "news",
     "title": "Economic Events Calendar for - Yahoo Finance",
@@ -374,6 +500,27 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "Economic Sector Performance Dashboards - Yahoo Finance"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "fed-holds-rates-steady-as-new-chair-kevin-warsh-commits-to-price",
+    "type": "news",
+    "title": "Fed holds rates steady as new Chair Kevin Warsh commits to price ...",
+    "slug": "fed-holds-rates-steady-as-new-chair-kevin-warsh-commits-to-price",
+    "date": "2026-07-07",
+    "displayDate": "July 7, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Reserve held interest rates steady at 3.5 to 3.75 percent under new Chair Kevin Warsh. Warsh committed to price stability amid inflation driven by e",
+    "excerpt": "The Federal Reserve held interest rates steady at 3.5 to 3.75 percent under new Chair Kevin Warsh. Warsh committed to price stability amid inflation driven by energy prices. The decision was unanimous.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Fed holds rates steady as new Chair Kevin Warsh commits to price ..."
     },
     "readingTime": 3
   },
@@ -525,6 +672,27 @@
     "readingTime": 3
   },
   {
+    "id": "health-care-sector-industry-performance-bloomberg-com",
+    "type": "news",
+    "title": "Health Care Sector & Industry Performance - Bloomberg.com",
+    "slug": "health-care-sector-industry-performance-bloomberg-com",
+    "date": "2026-07-07",
+    "displayDate": "July 7, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Health Care sector on Bloomberg is currently down by 1.17%. The latest data was updated as of 4:43 PM EDT on July 6, 2026. For more details, visit Bloomberg",
+    "excerpt": "The Health Care sector on Bloomberg is currently down by 1.17%. The latest data was updated as of 4:43 PM EDT on July 6, 2026. For more details, visit Bloomberg's sector performance page.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Health Care Sector & Industry Performance - Bloomberg.com"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "inflation-consumer-prices-annual-united-states",
     "type": "news",
     "title": "Inflation, consumer prices (annual %) - United States",
@@ -563,6 +731,48 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "Inflation, consumer prices for the United States (FPCPITOTLZGUSA)"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "inflation-economic-data-series-fred-st-louis-fed",
+    "type": "news",
+    "title": "Inflation - Economic Data Series | FRED | St. Louis Fed",
+    "slug": "inflation-economic-data-series-fred-st-louis-fed",
+    "date": "2026-07-07",
+    "displayDate": "July 7, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Inflation data on FRED includes Consumer Price Index (CPI) and Personal Consumption Expenditures (PCE) series. CPI has 4,901 series, while PCE has 114 series. A",
+    "excerpt": "Inflation data on FRED includes Consumer Price Index (CPI) and Personal Consumption Expenditures (PCE) series. CPI has 4,901 series, while PCE has 114 series. Access detailed economic data from the St. Louis Fed.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Inflation - Economic Data Series | FRED | St. Louis Fed"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "inflation-update-u-s-congress-joint-economic-committee",
+    "type": "news",
+    "title": "Inflation Update - U.S. Congress Joint Economic Committee",
+    "slug": "inflation-update-u-s-congress-joint-economic-committee",
+    "date": "2026-07-07",
+    "displayDate": "July 7, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Inflation has varied across U.S. states, with families spending an average of $700 more due to inflation under Trump. The highest inflation increase was in Hawa",
+    "excerpt": "Inflation has varied across U.S. states, with families spending an average of $700 more due to inflation under Trump. The highest inflation increase was in Hawaii, while Texas had the lowest. The data reflects average household consumption from November 2025.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Inflation Update - U.S. Congress Joint Economic Committee"
     },
     "readingTime": 3
   },
@@ -647,6 +857,27 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "Latest Technology News and Reviews"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "live-updates-interest-rates-steady-federal-reserve-forecasts-1-rate",
+    "type": "news",
+    "title": "Live updates: Interest rates steady, Federal Reserve forecasts 1 rate ...",
+    "slug": "live-updates-interest-rates-steady-federal-reserve-forecasts-1-rate",
+    "date": "2026-07-07",
+    "displayDate": "July 7, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Reserve kept interest rates steady and forecasts one rate cut in 2026. The federal funds rate remains at 3.75%. The Fed left the door open for a pot",
+    "excerpt": "The Federal Reserve kept interest rates steady and forecasts one rate cut in 2026. The federal funds rate remains at 3.75%. The Fed left the door open for a potential rate hike later in the year.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Live updates: Interest rates steady, Federal Reserve forecasts 1 rate ..."
     },
     "readingTime": 3
   },
@@ -777,6 +1008,27 @@
     "readingTime": 3
   },
   {
+    "id": "sector-views-monthly-stock-sector-outlook-charles-schwab",
+    "type": "news",
+    "title": "Sector Views: Monthly Stock Sector Outlook - Charles Schwab",
+    "slug": "sector-views-monthly-stock-sector-outlook-charles-schwab",
+    "date": "2026-07-07",
+    "displayDate": "July 7, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Charles Schwab's monthly stock sector outlook evaluates the 11 sectors of the S&P 500, using growth, quality, sentiment, stability, and valuation factors. Curre",
+    "excerpt": "Charles Schwab's monthly stock sector outlook evaluates the 11 sectors of the S&P 500, using growth, quality, sentiment, stability, and valuation factors. Currently, energy, financials, and materials outperform, while real estate and consumer discretionary underperform. This analysis helps investors",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Sector Views: Monthly Stock Sector Outlook - Charles Schwab"
+    },
+    "readingTime": 5
+  },
+  {
     "id": "sectors-stock-market-usa-tradingview",
     "type": "news",
     "title": "Sectors — Stock Market — USA — TradingView",
@@ -840,6 +1092,27 @@
     "readingTime": 3
   },
   {
+    "id": "stock-market-outlook-midyear-2026-fidelity-investments",
+    "type": "news",
+    "title": "Stock market outlook midyear 2026 - Fidelity Investments",
+    "slug": "stock-market-outlook-midyear-2026-fidelity-investments",
+    "date": "2026-07-07",
+    "displayDate": "July 7, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The stock market outlook for midyear 2026 remains bullish, with potential for new highs driven by earnings growth and the AI boom. Fidelity suggests focusing on",
+    "excerpt": "The stock market outlook for midyear 2026 remains bullish, with potential for new highs driven by earnings growth and the AI boom. Fidelity suggests focusing on technology and diversification strategies to navigate economic uncertainties.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Stock market outlook midyear 2026 - Fidelity Investments"
+    },
+    "readingTime": 5
+  },
+  {
     "id": "stock-market-sector-analysis-and-performance-weekly-changes",
     "type": "news",
     "title": "Stock Market Sector Analysis and Performance - Weekly Changes",
@@ -899,6 +1172,27 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "Tech Company News"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "technology-news",
+    "type": "news",
+    "title": "Technology News",
+    "slug": "technology-news",
+    "date": "2026-07-07",
+    "displayDate": "July 7, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Amazon plans to raise $25 billion in a bond sale and Google invests in a nuclear fusion startup. Solstice CEO defends its $14.5B acquisition despite stock plung",
+    "excerpt": "Amazon plans to raise $25 billion in a bond sale and Google invests in a nuclear fusion startup. Solstice CEO defends its $14.5B acquisition despite stock plunge. AI's next winners are being sought in the stock market.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Technology News"
     },
     "readingTime": 3
   },
@@ -1050,6 +1344,48 @@
     "readingTime": 3
   },
   {
+    "id": "us-central-bank-cuts-key-lending-rate-by-a-quarter-point-bbc-news",
+    "type": "news",
+    "title": "US central bank cuts key lending rate by a quarter point - BBC News",
+    "slug": "us-central-bank-cuts-key-lending-rate-by-a-quarter-point-bbc-news",
+    "date": "2026-07-07",
+    "displayDate": "July 7, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The US central bank, the Federal Reserve, cut the key lending rate by a quarter point, bringing it to 3.50%-3.75%, marking the third reduction this year. This d",
+    "excerpt": "The US central bank, the Federal Reserve, cut the key lending rate by a quarter point, bringing it to 3.50%-3.75%, marking the third reduction this year. This decision was announced by Jerome Powell following his news conference.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "US central bank cuts key lending rate by a quarter point - BBC News"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "weekly-trader-s-stock-market-outlook-charles-schwab",
+    "type": "news",
+    "title": "Weekly Trader's Stock Market Outlook | Charles Schwab",
+    "slug": "weekly-trader-s-stock-market-outlook-charles-schwab",
+    "date": "2026-07-07",
+    "displayDate": "July 7, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The tech sector faced selling pressure as investors shifted focus, while broader indices showed bullish trends. The Nasdaq Composite dropped below its 50-day SM",
+    "excerpt": "The tech sector faced selling pressure as investors shifted focus, while broader indices showed bullish trends. The Nasdaq Composite dropped below its 50-day SMA. The PHLX Semiconductor Index fell 12% due to a significant drop in the Korean market.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Weekly Trader's Stock Market Outlook | Charles Schwab"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "what-federal-reserve-monetary-policy-means-for-investors",
     "type": "news",
     "title": "What Federal Reserve monetary policy means for investors",
@@ -1109,27 +1445,6 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "5 investment strategies in 2026: Types and how to choose"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "asia-stock-markets-wsj",
-    "type": "news",
-    "title": "Asia Stock Markets - WSJ",
-    "slug": "asia-stock-markets-wsj",
-    "date": "2026-07-06",
-    "displayDate": "July 6, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Asia stock markets were subdued due to lack of progress in Trump-Xi talks on tariffs. Energy concerns also weighed on market sentiment. Current trends reflect c",
-    "excerpt": "Asia stock markets were subdued due to lack of progress in Trump-Xi talks on tariffs. Energy concerns also weighed on market sentiment. Current trends reflect cautious investor sentiment.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Asia Stock Markets - WSJ"
     },
     "readingTime": 3
   },
@@ -1407,27 +1722,6 @@
     "readingTime": 3
   },
   {
-    "id": "economic-calendar",
-    "type": "news",
-    "title": "Economic Calendar",
-    "slug": "economic-calendar",
-    "date": "2026-07-06",
-    "displayDate": "July 6, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "An economic calendar tracks financial events and indicators that impact markets, providing real-time updates and forecasts. It helps traders prepare for market ",
-    "excerpt": "An economic calendar tracks financial events and indicators that impact markets, providing real-time updates and forecasts. It helps traders prepare for market movements. The most important calendar is the US one due to the country's economic influence.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Economic Calendar"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "economic-news-releases",
     "type": "news",
     "title": "Economic News Releases",
@@ -1596,27 +1890,6 @@
     "readingTime": 3
   },
   {
-    "id": "inflation-update-u-s-congress-joint-economic-committee",
-    "type": "news",
-    "title": "Inflation Update - U.S. Congress Joint Economic Committee",
-    "slug": "inflation-update-u-s-congress-joint-economic-committee",
-    "date": "2026-07-06",
-    "displayDate": "July 6, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Inflation has decreased, with families spending $700 more due to inflation under Trump, according to the latest Joint Economic Committee report. The national de",
-    "excerpt": "Inflation has decreased, with families spending $700 more due to inflation under Trump, according to the latest Joint Economic Committee report. The national debt and employment updates are also available.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Inflation Update - U.S. Congress Joint Economic Committee"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "investment-strategies-for-today-s-market-linkedin",
     "type": "news",
     "title": "Investment Strategies for Today's Market - LinkedIn",
@@ -1781,27 +2054,6 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "Sector Research, News and Performance | Sector Industries | Fidelity"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "sector-views-monthly-stock-sector-outlook-charles-schwab",
-    "type": "news",
-    "title": "Sector Views: Monthly Stock Sector Outlook - Charles Schwab",
-    "slug": "sector-views-monthly-stock-sector-outlook-charles-schwab",
-    "date": "2026-07-06",
-    "displayDate": "July 6, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Charles Schwab's monthly stock sector outlook covers the 11 S&P 500 sectors, providing insights for investors. The latest outlook was published on June 26, 2026",
-    "excerpt": "Charles Schwab's monthly stock sector outlook covers the 11 S&P 500 sectors, providing insights for investors. The latest outlook was published on June 26, 2026. This report is part of Schwab's market commentary.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Sector Views: Monthly Stock Sector Outlook - Charles Schwab"
     },
     "readingTime": 3
   },
@@ -2961,27 +3213,6 @@
     "readingTime": 3
   },
   {
-    "id": "bitcoin-btc-news-analysis-and-forecast-fxstreet",
-    "type": "news",
-    "title": "Bitcoin (BTC) News, Analysis and Forecast - FXStreet",
-    "slug": "bitcoin-btc-news-analysis-and-forecast-fxstreet",
-    "date": "2026-07-04",
-    "displayDate": "July 4, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Bitcoin is currently around $59,000, after hitting a 21-month low, and analysts predict mixed future trends. Recent forecasts suggest potential rallies and cont",
-    "excerpt": "Bitcoin is currently around $59,000, after hitting a 21-month low, and analysts predict mixed future trends. Recent forecasts suggest potential rallies and continued bearish pressure.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Bitcoin (BTC) News, Analysis and Forecast - FXStreet"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "bitcoin-price-today-btc-to-usd-live-price-marketcap-and-chart",
     "type": "news",
     "title": "Bitcoin price today, BTC to USD live price, marketcap and chart",
@@ -3251,27 +3482,6 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "GDP, CPI and other key economic reports - Bankrate"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "health-care-sector-industry-performance-bloomberg-com",
-    "type": "news",
-    "title": "Health Care Sector & Industry Performance - Bloomberg.com",
-    "slug": "health-care-sector-industry-performance-bloomberg-com",
-    "date": "2026-07-04",
-    "displayDate": "July 4, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The healthcare sector has shown positive performance, with notable gains in health information services and pharmaceutical retailers. Recent market trends indic",
-    "excerpt": "The healthcare sector has shown positive performance, with notable gains in health information services and pharmaceutical retailers. Recent market trends indicate a robust outlook for the industry. For detailed sector performance, visit Bloomberg or Yahoo Finance.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Health Care Sector & Industry Performance - Bloomberg.com"
     },
     "readingTime": 3
   },
@@ -3755,27 +3965,6 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "Global Companies Reports and Earnings"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "live-updates-interest-rates-steady-federal-reserve-forecasts-1-rate",
-    "type": "news",
-    "title": "Live updates: Interest rates steady, Federal Reserve forecasts 1 rate ...",
-    "slug": "live-updates-interest-rates-steady-federal-reserve-forecasts-1-rate",
-    "date": "2026-07-03",
-    "displayDate": "July 3, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Reserve held interest rates steady in June 2026 and forecasts one rate cut in 2026. The Fed's decision was widely anticipated. The Fed's policy rate",
-    "excerpt": "The Federal Reserve held interest rates steady in June 2026 and forecasts one rate cut in 2026. The Fed's decision was widely anticipated. The Fed's policy rate remains at 3.75%.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Live updates: Interest rates steady, Federal Reserve forecasts 1 rate ..."
     },
     "readingTime": 3
   },
@@ -4347,27 +4536,6 @@
     "readingTime": 3
   },
   {
-    "id": "us-central-bank-cuts-key-lending-rate-by-a-quarter-point-bbc-news",
-    "type": "news",
-    "title": "US central bank cuts key lending rate by a quarter point - BBC News",
-    "slug": "us-central-bank-cuts-key-lending-rate-by-a-quarter-point-bbc-news",
-    "date": "2026-07-02",
-    "displayDate": "July 2, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Reserve cut the key lending rate by a quarter point, bringing it to 3.50-3.75%, marking the third reduction this year. This decision aims to ease bo",
-    "excerpt": "The Federal Reserve cut the key lending rate by a quarter point, bringing it to 3.50-3.75%, marking the third reduction this year. This decision aims to ease borrowing costs amid a slowing labor market. The move was made despite the US government shutdown delaying official data.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "US central bank cuts key lending rate by a quarter point - BBC News"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "us-data-note-the-unemployment-rate-gdp-growth-cpi-inflation",
     "type": "news",
     "title": "US data. Note: The unemployment rate, GDP growth, CPI inflation ...",
@@ -4574,27 +4742,6 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "Economic Calendar - Bloomberg Markets"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "fed-holds-rates-steady-as-new-chair-kevin-warsh-commits-to-price",
-    "type": "news",
-    "title": "Fed holds rates steady as new Chair Kevin Warsh commits to price ...",
-    "slug": "fed-holds-rates-steady-as-new-chair-kevin-warsh-commits-to-price",
-    "date": "2026-07-01",
-    "displayDate": "July 1, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Reserve held interest rates steady in June 2026 under new Chair Kevin Warsh, signaling a potential future rate hike due to rising inflation. Warsh c",
-    "excerpt": "The Federal Reserve held interest rates steady in June 2026 under new Chair Kevin Warsh, signaling a potential future rate hike due to rising inflation. Warsh committed to price stability. Nine officials now expect at least one rate increase by year-end.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Fed holds rates steady as new Chair Kevin Warsh commits to price ..."
     },
     "readingTime": 3
   },
@@ -4851,27 +4998,6 @@
     "readingTime": 3
   },
   {
-    "id": "stock-market-outlook-midyear-2026-fidelity-investments",
-    "type": "news",
-    "title": "Stock market outlook midyear 2026 - Fidelity Investments",
-    "slug": "stock-market-outlook-midyear-2026-fidelity-investments",
-    "date": "2026-07-01",
-    "displayDate": "July 1, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The stock market outlook for midyear 2026 remains strong, with the bull run continuing despite geopolitical conflicts. Artificial intelligence and corporate ear",
-    "excerpt": "The stock market outlook for midyear 2026 remains strong, with the bull run continuing despite geopolitical conflicts. Artificial intelligence and corporate earnings are driving growth, and the economy shows resilience. Inflation remains a key risk factor.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Stock market outlook midyear 2026 - Fidelity Investments"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "the-most-anticipated-earnings-releases-for-the-week-of-june",
     "type": "news",
     "title": "The Most Anticipated Earnings Releases for the week of June ...",
@@ -4973,48 +5099,6 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "United States Inflation Rate - Trading Economics"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "weekly-trader-s-stock-market-outlook-charles-schwab",
-    "type": "news",
-    "title": "Weekly Trader's Stock Market Outlook | Charles Schwab",
-    "slug": "weekly-trader-s-stock-market-outlook-charles-schwab",
-    "date": "2026-07-01",
-    "displayDate": "July 1, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The tech sector faced selling pressure this week, with the Nasdaq down 3% and the S&P 500 down 2%. The VIX OI Change is moderately bearish, while the SPX OI Cha",
-    "excerpt": "The tech sector faced selling pressure this week, with the Nasdaq down 3% and the S&P 500 down 2%. The VIX OI Change is moderately bearish, while the SPX OI Change is moderately bullish.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Weekly Trader's Stock Market Outlook | Charles Schwab"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "bitcoin-btc-price-today-btc-live-price-charts-news-crypto-com",
-    "type": "news",
-    "title": "Bitcoin (BTC) Price Today: BTC Live Price, Charts, News - Crypto.com",
-    "slug": "bitcoin-btc-price-today-btc-live-price-charts-news-crypto-com",
-    "date": "2026-06-10",
-    "displayDate": "June 10, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Bitcoin's price today is $61,940.96, up 0.38% in the last 24 hours. It has a 24-hour trading volume of $29.77B. This is a 6.16% drop from its 7-day high.",
-    "excerpt": "Bitcoin's price today is $61,940.96, up 0.38% in the last 24 hours. It has a 24-hour trading volume of $29.77B. This is a 6.16% drop from its 7-day high.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Bitcoin (BTC) Price Today: BTC Live Price, Charts, News - Crypto.com"
     },
     "readingTime": 3
   },
@@ -5460,27 +5544,6 @@
     "readingTime": 3
   },
   {
-    "id": "earnings-calendar-investing-com",
-    "type": "news",
-    "title": "Earnings Calendar - Investing.com",
-    "slug": "earnings-calendar-investing-com",
-    "date": "2026-06-09",
-    "displayDate": "June 9, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Earnings Calendar tracks forecasts and actual outcomes for companies' earnings reports worldwide. Key companies include JM Smucker, Uranium Energy, and Acad",
-    "excerpt": "The Earnings Calendar tracks forecasts and actual outcomes for companies' earnings reports worldwide. Key companies include JM Smucker, Uranium Energy, and Academy Sports. The data shows expected and actual earnings, along with percentage changes.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Earnings Calendar - Investing.com"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "earnings-scheduled-for-monday-june-8-2026-earnings-whispers",
     "type": "news",
     "title": "Earnings Scheduled for Monday, June 8, 2026 - Earnings Whispers",
@@ -5645,27 +5708,6 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "HUGE BITCOIN, ETHEREUM, & XRP NEWS! CRYPTO ... - YouTube"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "inflation-economic-data-series-fred-st-louis-fed",
-    "type": "news",
-    "title": "Inflation - Economic Data Series | FRED | St. Louis Fed",
-    "slug": "inflation-economic-data-series-fred-st-louis-fed",
-    "date": "2026-06-09",
-    "displayDate": "June 9, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Inflation data is available on FRED from the St. Louis Fed, including CPI and 20-year inflation series. The CPI series includes 4,901 data series. Inflation dat",
-    "excerpt": "Inflation data is available on FRED from the St. Louis Fed, including CPI and 20-year inflation series. The CPI series includes 4,901 data series. Inflation data is seasonally adjusted and not seasonally adjusted.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Inflation - Economic Data Series | FRED | St. Louis Fed"
     },
     "readingTime": 3
   },
@@ -6023,27 +6065,6 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "Portfolio Rebalancing Guide for 2026 — Bellwether Wealth"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "technology-news",
-    "type": "news",
-    "title": "Technology News",
-    "slug": "technology-news",
-    "date": "2026-06-07",
-    "displayDate": "June 7, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "TechNewsWorld reports on telecom cybersecurity alliances and AI advancements. CNBC highlights stock market forces and tech earnings. Reuters covers global busin",
-    "excerpt": "TechNewsWorld reports on telecom cybersecurity alliances and AI advancements. CNBC highlights stock market forces and tech earnings. Reuters covers global business and technology news.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Technology News"
     },
     "readingTime": 3
   },

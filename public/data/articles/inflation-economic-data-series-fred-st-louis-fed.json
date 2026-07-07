@@ -3,8 +3,8 @@
   "type": "news",
   "title": "Inflation - Economic Data Series | FRED | St. Louis Fed",
   "slug": "inflation-economic-data-series-fred-st-louis-fed",
-  "date": "2026-06-09",
-  "displayDate": "June 9, 2026",
+  "date": "2026-07-07",
+  "displayDate": "July 7, 2026",
   "author": "Sigma Capital",
   "category": "Economic Data",
   "tags": [
@@ -12,32 +12,32 @@
     "financial news",
     "market update"
   ],
-  "metaDescription": "Inflation data is available on FRED from the St. Louis Fed, including CPI and 20-year inflation series. The CPI series includes 4,901 data series. Inflation dat",
-  "excerpt": "Inflation data is available on FRED from the St. Louis Fed, including CPI and 20-year inflation series. The CPI series includes 4,901 data series. Inflation data is seasonally adjusted and not seasonally adjusted.",
+  "metaDescription": "Inflation data on FRED includes Consumer Price Index (CPI) and Personal Consumption Expenditures (PCE) series. CPI has 4,901 series, while PCE has 114 series. A",
+  "excerpt": "Inflation data on FRED includes Consumer Price Index (CPI) and Personal Consumption Expenditures (PCE) series. CPI has 4,901 series, while PCE has 114 series. Access detailed economic data from the St. Louis Fed.",
   "content": {
-    "introduction": "Inflation data is available on FRED from the St. Louis Fed, including CPI and 20-year inflation series. The CPI series includes 4,901 data series. Inflation data is seasonally adjusted and not seasonally adjusted.",
+    "introduction": "Inflation data on FRED includes Consumer Price Index (CPI) and Personal Consumption Expenditures (PCE) series. CPI has 4,901 series, while PCE has 114 series. Access detailed economic data from the St. Louis Fed.",
     "body": [
-      "*    Inflation [](https://fred.stlouisfed.org/tags/series?t=inflation&rt=inflation&ob=pv&od=desc). *   [Frequency](https://fred.stlouisfed.org/tags/series?t=inflation#). *   [Inflation **Remove**](https://fred.stlouisfed.org/tags/series?t=inflation&rt=inflation&ob=pv&od=desc). *   [Loading Filters](https://fred.stlouisfed.org/tags/series?t=inflation). *   [Concepts](https://fred.stlouisfed.org/tags/series?t=inflation#). *   [Loading Filters](https://fred.stlouisfed.org/tags/series?t=inflation). *   [Indexes**(15,654)**](https://fred.stlouisfed.org/tags/series?t=indexes%3Binflation&ob=pv&od=desc). *   [Price**(15,629)**](https://fred.stlouisfed.org/tags/series?t=inflation%3Bprice&ob=pv&od=desc). *   [Price Index**(15,626)**](https://fred.stlouisfed.org/tags/series?t=inflation%3Bprice%20index&ob=pv&od=desc). *   [Producer Price Index**(10,682)**](https://fred.stlouisfed.org/tags/series?t=inflation%3Bppi&ob=pv&od=desc). *   [Commodities**(6,034)**](https://fred.stlouisfed.org/tags/series?t=commodities%3Binflation&ob=pv&od=desc). *   [Consumer Price Index**(4,901)**](https://fred.stlouisfed.org/tags/series?t=cpi%3Binflation&ob=pv&od=desc). *   [Consumer**(4,644)**](https://fred.stlouisfed.org/tags/series?t=consumer%3Binflation&ob=pv&od=desc). *   [Urban**(4,431)**](https://fred.stlouisfed.org/tags/series?t=inflation%3Burban&ob=pv&od=desc). *   [Manufacturing**(2,885)**](https://fred.stlouisfed.org/tags/series?t=inflation%3Bmanufacturing&ob=pv&od=desc). *   [Loading Filters](https://fred.stlouisfed.org/tags/series?t=inflation). *   [Nation**(11,783)**](https://fred.stlouisfed.org/tags/series?t=inflation%3Bnation&ob=pv&od=desc). *   [Metropolitan Statistical Area**(2,066)**](https://fred.stlouisfed.org/tags/series?t=inflation%3Bmsa&ob=pv&od=desc). *   [Transnational**(77)**](https://fred.stlouisfed.org/tags/series?t=inflation%3Btransnational&ob=pv&od=desc). *   [Loading Filters](https://fred.stlouisfed.org/tags/series?t=inflation). *   [United States of America**(15,367)**](https://fred.stlouisfed.org/tags/series?t=inflation%3Busa&ob=pv&od=desc). *   [Pennsylvania**(252)**](https://fred.stlouisfed.org/tags/series?t=inflation%3Bpa&ob=pv&od=desc). *   [Wisconsin**(204)**](https://fred.stlouisfed.org/tags/series?t=inflation%3Bwi&ob=pv&od=desc). *   [Maryland**(200)**](https://fred.stlouisfed.org/tags/series?t=inflation%3Bmd&ob=pv&od=desc). *   [New Jersey**(200)**](https://fred.stlouisfed.org/tags/series?t=inflation%3Bnj&ob=pv&od=desc). *   [Texas**(200)**](https://fred.stlouisfed.org/tags/series?t=inflation%3Btx&ob=pv&od=desc). *   [Indiana**(152)**](https://fred.stlouisfed.org/tags/series?t=in%3Binflation&ob=pv&od=desc). *   [Frequencies](https://fred.stlouisfed.org/tags/series?t=inflation#). *   [Loading Filters](https://fred.stlouisfed.org/tags/series?t=inflation). *   [Monthly**(13,065)**](https://fred.stlouisfed.org/tags/series?t=inflation%3Bmonthly&ob=pv&od=desc). *   [Semiannual**(1,694)**](https://fred.stlouisfed.org/tags/series?t=inflation%3Bsemiannual&ob=pv&od=desc). *   [Annual**(1,061)**](https://fred.stlouisfed.org/tags/series?t=annual%3Binflation&ob=pv&od=desc). *   [Quarterly**(150)**](https://fred.stlouisfed.org/tags/series?t=inflation%3Bquarterly&ob=pv&od=desc). *   [Daily**(26)**](https://fred.stlouisfed.org/tags/series?t=daily%3Binflation&ob=pv&od=desc). *   [Weekly**(5)**](https://fred.stlouisfed.org/tags/series?t=inflation%3Bweekly&ob=pv&od=desc). *   [Sources](https://fred.stlouisfed.org/tags/series?t=inflation#). *   [Loading Filters](https://fred.stlouisfed.org/tags/series?t=inflation). *   [Org. for Economic Co-operation and Development**(291)**](https://fred.stlouisfed.org/tags/series?t=inflation%3Boecd&ob=pv&od=desc). *   [World Bank**(222)**](https://fred.stlouisfed.org/tags/series?t=inflation%3Bworld%20bank&ob=pv&od=desc). *   [Nasdaq, Inc.**(23)**](https://fred.stlouisfed.org/tags/series?t=inflation%3Bnasdaq%20inc.&ob=pv&od=desc). *   [Loading Filters](https://fred.stlouisfed.org/tags/series?t=inflation). *   [Main Economic Indicators**(283)**](https://fred.stlouisfed.org/tags/series?t=inflation%3Bmei&ob=pv&od=desc). *   [World Development Indicators**(222)**](https://fred.stlouisfed.org/tags/series?t=inflation%3Bwdi&ob=pv&od=desc). *   [National Income and Product Accounts**(92)**](https://fred.stlouisfed.org/tags/series?t=inflation%3Bnipa&ob=pv&od=desc). *   [Harmonized Index of Consumer Prices**(89)**](https://fred.stlouisfed.org/tags/series?t=hicp%3Binflation&ob=pv&od=desc). *   [Underlying Inflation Gauge**(2)**](https://fred.stlouisfed.org/tags/series?t=inflation%3Buig&ob=pv&od=desc). *   [U.S. Import & Export Price Indexes**(1)**](https://fred.stlouisfed.org/tags/series?t=inflation%3Bmxp&ob=pv&od=desc). *   [Loading Filters](https://fred.stlouisfed.org/tags/series?t=inflation). *   [Not Seasonally Adjusted**(14,410)**](https://fred.stlouisfed.org/tags/series?t=inflation%3Bnsa&ob=pv&od=desc). *   [Seasonally Adjusted**(1,598)**](https://fred.stlouisfed.org/tags/series?t=inflation%3Bsa&ob=pv&od=desc). *   [Loading Filters](https://fred.stlouisfed.org/tags/series?t=inflation). *   Inflation[](https://fred.stlouisfed.org/tags/series?t=inflation&rt=inflation&ob=pv&od=desc). [Reset](https://fred.stlouisfed.org/tags/series?&ob=pv&od=desc). *   [Frequency](https://fred.stlouisfed.org/tags/series?t=inflation#). *   [Frequency](https://fred.stlouisfed.org/tags/series?t=inflation#).",
+      "# 16,008 Series. ## Filter 1. + Producer Price Index **(10,682)**. + Consumer Price Index **(4,901)**. + Metropolitan Statistical Area **(2,066)**. + Core-Based Statistical Area **(1,106)**. + United States of America **(15,367)**. + Bureau of Labor Statistics **(15,115)**. + Org. for Economic Co-operation and Development **(291)**. + Bureau of Economic Analysis **(92)**. + Federal Open Market Committee **(21)**. + National Income and Product Accounts **(92)**. + Harmonized Index of Consumer Prices **(89)**. + H.4.1 Factors Affecting Reserve Balances **(4)**. + U.S. Import & Export Price Indexes **(1)**. + Not Seasonally Adjusted **(14,410)**. + Public Domain: Citation Requested **(15,517)**. + Copyrighted: Pre-Approval Required **(23)**. ### Subscribe to the FRED newsletter. ### Follow us. Saint Louis Fed linkedin page. Saint Louis Fed facebook page. Saint Louis Fed X page. Saint Louis Fed YouTube page. ### Need Help?",
       "* + FRED Add-in for Excel. Tools and resources to find and use economic data worldwide. U.S. financial, economic, and banking history. Vintages of economic data from specific dates in history. View banking market concentrations and perform HHI analysis. # 4,901 Series. ## With Tags:. ## Filter by:. ### Subscribe to the FRED newsletter. ### Follow us. Saint Louis Fed linkedin page   Saint Louis Fed facebook page   Saint Louis Fed X page   Saint Louis Fed YouTube page. ### Need Help?",
-      "* + FRED Add-in for Excel. Tools and resources to find and use economic data worldwide. U.S. financial, economic, and banking history. Vintages of economic data from specific dates in history. View banking market concentrations and perform HHI analysis. # 2 Series. ## With Tags:. ## Filter by:. ### Subscribe to the FRED newsletter. ### Follow us. Saint Louis Fed linkedin page   Saint Louis Fed facebook page   Saint Louis Fed X page   Saint Louis Fed YouTube page. ### Need Help?"
+      "* + FRED Add-in for Excel. Tools and resources to find and use economic data worldwide. U.S. financial, economic, and banking history. Vintages of economic data from specific dates in history. View banking market concentrations and perform HHI analysis. # 114 Series. ## With Tags:. ## Filter by:. ### Subscribe to the FRED newsletter. ### Follow us. Saint Louis Fed linkedin page   Saint Louis Fed facebook page   Saint Louis Fed X page   Saint Louis Fed YouTube page. ### Need Help?"
     ],
     "keyTakeaways": [
-      "Inflation data is available on FRED from the St. Louis Fed, including CPI and 20-year inflation series",
-      "*    Inflation [](https://fred.stlouisfed",
+      "Inflation data on FRED includes Consumer Price Index (CPI) and Personal Consumption Expenditures (PCE) series. CPI has 4",
+      "# 16,008 Series. ## Filter 1",
       "* + FRED Add-in for Excel. Tools and resources to find and use economic data worldwide"
     ],
     "source": "fred.stlouisfed.org",
     "sourceUrl": "https://fred.stlouisfed.org/tags/series?t=inflation"
   },
   "readingTime": 3,
-  "updatedAt": "2026-06-09T09:34:05.276Z",
+  "updatedAt": "2026-07-07T14:43:24.206Z",
   "images": {
     "thumbnail": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "Inflation - Economic Data Series | FRED | St. Louis Fed"
     },
     "hero": {
-      "src": "/images/article_thumb_3.jpg",
+      "src": "/images/article_thumb_5.jpg",
       "alt": "Inflation - Economic Data Series | FRED | St. Louis Fed"
     },
     "mid": {
@@ -46,7 +46,7 @@
     }
   },
   "image": {
-    "src": "/images/article_thumb_5.jpg",
+    "src": "/images/article_thumb_1.jpg",
     "alt": "Inflation - Economic Data Series | FRED | St. Louis Fed"
   }
 }
