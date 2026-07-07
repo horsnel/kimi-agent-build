@@ -3,8 +3,8 @@
   "type": "news",
   "title": "Global Market Headlines | Breaking Stock Market News",
   "slug": "global-market-headlines-breaking-stock-market-news",
-  "date": "2026-07-06",
-  "displayDate": "July 6, 2026",
+  "date": "2026-07-07",
+  "displayDate": "July 7, 2026",
   "author": "Sigma Capital",
   "category": "Global Markets",
   "tags": [
@@ -12,32 +12,32 @@
     "financial news",
     "market update"
   ],
-  "metaDescription": "S&P 500 and Nasdaq futures are up following a strong week on Wall Street, with chip stocks leading the gains. Gold prices have dipped from a two-week high due t",
-  "excerpt": "S&P 500 and Nasdaq futures are up following a strong week on Wall Street, with chip stocks leading the gains. Gold prices have dipped from a two-week high due to a stronger dollar. Federal Reserve minutes are under scrutiny.",
+  "metaDescription": "The S&P 500 and Nasdaq closed higher, with Broadcom and other chip stocks leading the gains. Samsung Electronics reported a record profit, but its shares declin",
+  "excerpt": "The S&P 500 and Nasdaq closed higher, with Broadcom and other chip stocks leading the gains. Samsung Electronics reported a record profit, but its shares declined. Solstice CEO defended a $14.5B acquisition despite a 15% stock drop.",
   "content": {
-    "introduction": "S&P 500 and Nasdaq futures are up following a strong week on Wall Street, with chip stocks leading the gains. Gold prices have dipped from a two-week high due to a stronger dollar. Federal Reserve minutes are under scrutiny.",
+    "introduction": "The S&P 500 and Nasdaq closed higher, with Broadcom and other chip stocks leading the gains. Samsung Electronics reported a record profit, but its shares declined. Solstice CEO defended a $14.5B acquisition despite a 15% stock drop.",
     "body": [
-      "Find the latest stock market news from every corner of the globe at Reuters.com, your online source for breaking international market and finance news.",
+      "Find the latest stock market news. The S&P 500 and Nasdaq ended sharply higher on Monday, with Broadcom and other chip stocks rallying",
       "Breaking news and in-depth coverage from the global business and financial markets. The latest corporate earnings reports from the stock market and insights",
-      "S&P 500 and Nasdaq futures rise after a strong week on Wall Street, led by chip stocks · Gold slips from two-week high on firmer dollar; Fed minutes in focus"
+      "Latest News · Samsung Electronics sees record preliminary 2Q profit, but shares fall · Solstice CEO defends its $14.5B acquisition after the stock plunges 15%."
     ],
     "keyTakeaways": [
-      "S&P 500 and Nasdaq futures are up following a strong week on Wall Street, with chip stocks leading the gains. Gold price",
-      "Find the latest stock market news from every corner of the globe at Reuters.com, your online source for breaking interna",
+      "The S&P 500 and Nasdaq closed higher, with Broadcom and other chip stocks leading the gains. Samsung Electronics reporte",
+      "Find the latest stock market news. The S&P 500 and Nasdaq ended sharply higher on Monday, with Broadcom and other chip s",
       "Breaking news and in-depth coverage from the global business and financial markets. The latest corporate earnings report"
     ],
     "source": "reuters.com",
     "sourceUrl": "https://www.reuters.com/markets"
   },
   "readingTime": 3,
-  "updatedAt": "2026-07-06T15:40:07.773Z",
+  "updatedAt": "2026-07-07T03:45:29.473Z",
   "images": {
     "thumbnail": {
-      "src": "/images/article_thumb_5.jpg",
+      "src": "/images/article_thumb_2.jpg",
       "alt": "Global Market Headlines | Breaking Stock Market News"
     },
     "hero": {
-      "src": "/images/article_thumb_2.jpg",
+      "src": "/images/article_thumb_5.jpg",
       "alt": "Global Market Headlines | Breaking Stock Market News"
     },
     "mid": {
@@ -46,7 +46,7 @@
     }
   },
   "image": {
-    "src": "/images/article_thumb_5.jpg",
+    "src": "/images/article_thumb_3.jpg",
     "alt": "Global Market Headlines | Breaking Stock Market News"
   }
 }
