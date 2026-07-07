@@ -1,10 +1,10 @@
 {
   "id": "global-market-headlines-breaking-stock-market-news-reuters",
   "type": "news",
-  "title": "Global Market Headlines | Breaking Stock Market News - Reuters",
+  "title": "Global Market Headlines | Breaking Stock Market News | Reuters",
   "slug": "global-market-headlines-breaking-stock-market-news-reuters",
-  "date": "2026-07-06",
-  "displayDate": "July 6, 2026",
+  "date": "2026-07-07",
+  "displayDate": "July 7, 2026",
   "author": "Sigma Capital",
   "category": "Global Markets",
   "tags": [
@@ -12,41 +12,41 @@
     "financial news",
     "market update"
   ],
-  "metaDescription": "Global market headlines and breaking stock market news are available on Reuters, featuring the latest international finance and business updates. Key financial ",
-  "excerpt": "Global market headlines and breaking stock market news are available on Reuters, featuring the latest international finance and business updates. Key financial data, rates, bonds, and stocks are covered. Current date is July 6, 2026.",
+  "metaDescription": "Stocks dipped despite positive Samsung forecast; US service sector growth slowed in June; employment rebounded.",
+  "excerpt": "Stocks dipped despite positive Samsung forecast; US service sector growth slowed in June; employment rebounded.",
   "content": {
-    "introduction": "Global market headlines and breaking stock market news are available on Reuters, featuring the latest international finance and business updates. Key financial data, rates, bonds, and stocks are covered. Current date is July 6, 2026.",
+    "introduction": "Stocks dipped despite positive Samsung forecast; US service sector growth slowed in June; employment rebounded.",
     "body": [
       "Find the latest stock market news from every corner of the globe at Reuters.com, your online source for breaking international market and finance news.",
-      "Find latest finance news from every corner of the globe at Reuters.com, international news coverage. Global Market Data Rates & Bonds Stocks",
-      "Find latest business news from every corner of the globe at Reuters.com, Global Market Data Rates & Bonds Stocks U.S. Markets"
+      "2 hours ago. Stocks ease despite upbeat Samsung forecast, yen languishes · 9 hours ago. US service sector growth dips in June; employment rebounds after months",
+      "Find latest finance news from every corner of the globe at Reuters.com, your online source for breaking international news coverage."
     ],
     "keyTakeaways": [
-      "Global market headlines and breaking stock market news are available on Reuters, featuring the latest international fina",
+      "Stocks dipped despite positive Samsung forecast; US service sector growth slowed in June; employment rebounded.",
       "Find the latest stock market news from every corner of the globe at Reuters.com, your online source for breaking interna",
-      "Find latest finance news from every corner of the globe at Reuters.com, international news coverage"
+      "2 hours ago. Stocks ease despite upbeat Samsung forecast, yen languishes · 9 hours ago"
     ],
     "source": "reuters.com",
     "sourceUrl": "https://www.reuters.com/markets"
   },
   "readingTime": 3,
-  "updatedAt": "2026-07-06T10:08:32.172Z",
+  "updatedAt": "2026-07-07T09:33:18.389Z",
   "images": {
     "thumbnail": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Global Market Headlines | Breaking Stock Market News - Reuters"
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Global Market Headlines | Breaking Stock Market News | Reuters"
     },
     "hero": {
       "src": "/images/article_thumb_2.jpg",
-      "alt": "Global Market Headlines | Breaking Stock Market News - Reuters"
+      "alt": "Global Market Headlines | Breaking Stock Market News | Reuters"
     },
     "mid": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Global Market Headlines | Breaking Stock Market News - Reuters"
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Global Market Headlines | Breaking Stock Market News | Reuters"
     }
   },
   "image": {
-    "src": "/images/article_thumb_3.jpg",
-    "alt": "Global Market Headlines | Breaking Stock Market News - Reuters"
+    "src": "/images/article_thumb_6.jpg",
+    "alt": "Global Market Headlines | Breaking Stock Market News | Reuters"
   }
 }

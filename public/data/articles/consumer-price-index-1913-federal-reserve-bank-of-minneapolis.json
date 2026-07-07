@@ -3,8 +3,8 @@
   "type": "news",
   "title": "Consumer Price Index, 1913- | Federal Reserve Bank of Minneapolis",
   "slug": "consumer-price-index-1913-federal-reserve-bank-of-minneapolis",
-  "date": "2026-07-06",
-  "displayDate": "July 6, 2026",
+  "date": "2026-07-07",
+  "displayDate": "July 7, 2026",
   "author": "Sigma Capital",
   "category": "Economic Data",
   "tags": [
@@ -12,17 +12,17 @@
     "financial news",
     "market update"
   ],
-  "metaDescription": "The Consumer Price Index (CPI) began in 1913, with official U.S. data starting in 1917. The CPI measures inflation and is calculated by the Bureau of Labor Stat",
-  "excerpt": "The Consumer Price Index (CPI) began in 1913, with official U.S. data starting in 1917. The CPI measures inflation and is calculated by the Bureau of Labor Statistics. The CPI-U covers urban consumers since 1978.",
+  "metaDescription": "The Consumer Price Index (CPI) began in 1913, calculated by the U.S. Bureau of Labor Statistics, and measures inflation since then. The CPI-U covers urban consu",
+  "excerpt": "The Consumer Price Index (CPI) began in 1913, calculated by the U.S. Bureau of Labor Statistics, and measures inflation since then. The CPI-U covers urban consumers from 1978 onward. The Minneapolis Fed provides historical CPI data and an inflation calculator.",
   "content": {
-    "introduction": "The Consumer Price Index (CPI) began in 1913, with official U.S. data starting in 1917. The CPI measures inflation and is calculated by the Bureau of Labor Statistics. The CPI-U covers urban consumers since 1978.",
+    "introduction": "The Consumer Price Index (CPI) began in 1913, calculated by the U.S. Bureau of Labor Statistics, and measures inflation since then. The CPI-U covers urban consumers from 1978 onward. The Minneapolis Fed provides historical CPI data and an inflation calculator.",
     "body": [
       "# Consumer Price Index, 1913-. Historical data from the era of the modern U.S. consumer price index (CPI). The U.S. Bureau of Labor Statistics (BLS) began collecting family expenditure data in 1917 and published its first price indexes for select cities in 1919. In 1921, the BLS published a national consumer price index (CPI), including estimates of the CPI back to 1913. The data and methods starting in 1913 are considered generally compatible through the present day; however, the Minneapolis Fed maintains a separate historical table that includes estimates prior to 1913. This chart uses data from the sole measure of CPI available until 1978, after which it reflects the CPI for all urban consumers (CPI-U). You can use the Minneapolis Fed’s inflation calculator to instantly compare the buying power of past and present dollars. To find out how much a price in Year 1 would be in Year 2 dollars:. Year 2 Price = Year 1 Price x (Year 2 CPI/Year 1 CPI).",
       "# Consumer Price Index, 1800-. Historic data including estimates before the modern U.S. consumer price index (CPI). Official U.S. data go back to 1913 for a consumer price index (CPI) comparable to what the U.S. Bureau of Labor Statistics (BLS) still calculates today. You can use the Minneapolis Fed’s inflation calculator to instantly compare the buying power of past and present dollars back to 1913. The table below reflects the following historical series as initially compiled by the BLS for the Handbook of Labor Statistics, with modern CPI data from 1913 to the present day:. * **1851 to 1890** - Consumer Price Index by Ethel D. * **1913 to 1977** - Consumer Price Index (CPI). * **1978 to present** - Consumer Price Index for all Urban Consumers (CPI-U). With the caveat that data before 1913 should be considered estimates, you can use the Annual Average Index numbers below (center column) to make manual calculations of inflation over time.",
-      "# Consumer Price Index, 1800-2024. This dataset contains historic consumer price index (CPI) data. including estimates before the modern U.S. CPI, retrieved from. the Federal Reserve Bank of Minneapolis. A data frame with 225 observations of 3 variables. Official U.S. data go back to 1913 for a consumer price index (CPI) comparable to what the U.S. Bureau of Labor Statistics (BLS) still calculates today. The table below reflects the following historical series as initially compiled by the BLS for the Handbook of Labor Statistics, with modern CPI data from 1913 to the present day:. 1800 to 1851 - Index of Prices Paid by Vermont Farmers for Family Living. 1851 to 1890 - Consumer Price Index by Ethel D. 1913 to 1977 - Consumer Price Index (CPI). 1978 to present - Consumer Price Index for all Urban Consumers (CPI-U). `year`: date of CPI, or estimate of CPI. This data is compiled from the Federal Reserve Bank of Minneapolis:."
+      "You signed in with another tab or window. #' Consumer Price Index, 1800-2024. #' This dataset contains historic consumer price index (CPI) data. #' \\item \\code{year}: date of CPI, or estimate of CPI. #' \\item \\code{annual\\_percentage\\_change}: annual percentage change of the CPI. #' These details are taken from \\url{https://www.minneapolisfed.org/about-us/monetary-policy/inflation-calculator/consumer-price-index-1800-} and edited. #' Official U.S. data go back to 1913 for a consumer price index (CPI) comparable to what the U.S. Bureau of Labor Statistics (BLS) still calculates today. #' The table below reflects the following historical series as initially compiled by the BLS for the Handbook of Labor Statistics, with modern CPI data from 1913 to the present day:. #' \\item 1851 to 1890 - Consumer Price Index by Ethel D. #' \\item 1913 to 1977 - Consumer Price Index (CPI). #' \\item 1978 to present - Consumer Price Index for all Urban Consumers (CPI-U). #' To find out how much a price in Year 1 would be in Year 2 dollars:. #' \\url{https://www.minneapolisfed.org/about-us/monetary-policy/inflation-calculator/consumer-price-index-1800-}."
     ],
     "keyTakeaways": [
-      "The Consumer Price Index (CPI) began in 1913, with official U.S",
+      "The Consumer Price Index (CPI) began in 1913, calculated by the U.S",
       "# Consumer Price Index, 1913-. Historical data from the era of the modern U",
       "# Consumer Price Index, 1800-. Historic data including estimates before the modern U"
     ],
@@ -30,14 +30,14 @@
     "sourceUrl": "https://www.minneapolisfed.org/about-us/monetary-policy/inflation-calculator/consumer-price-index-1913-"
   },
   "readingTime": 3,
-  "updatedAt": "2026-07-06T15:40:07.773Z",
+  "updatedAt": "2026-07-07T09:33:18.389Z",
   "images": {
     "thumbnail": {
-      "src": "/images/article_thumb_1.jpg",
+      "src": "/images/article_thumb_3.jpg",
       "alt": "Consumer Price Index, 1913- | Federal Reserve Bank of Minneapolis"
     },
     "hero": {
-      "src": "/images/article_thumb_4.jpg",
+      "src": "/images/article_thumb_1.jpg",
       "alt": "Consumer Price Index, 1913- | Federal Reserve Bank of Minneapolis"
     },
     "mid": {
@@ -46,7 +46,7 @@
     }
   },
   "image": {
-    "src": "/images/article_thumb_6.jpg",
+    "src": "/images/article_thumb_5.jpg",
     "alt": "Consumer Price Index, 1913- | Federal Reserve Bank of Minneapolis"
   }
 }
