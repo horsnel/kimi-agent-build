@@ -3,8 +3,8 @@
   "type": "news",
   "title": "Truflation US CPI Inflation Index",
   "slug": "truflation-us-cpi-inflation-index",
-  "date": "2026-06-10",
-  "displayDate": "June 10, 2026",
+  "date": "2026-07-08",
+  "displayDate": "July 8, 2026",
   "author": "Sigma Capital",
   "category": "Economic Data",
   "tags": [
@@ -12,28 +12,20 @@
     "financial news",
     "market update"
   ],
-  "metaDescription": "The Truflation US CPI Inflation Index is 1.84% with a 0.03% decrease from the previous month. The Truflation US CPI Aggregated Inflation Index is 30.39% with a ",
-  "excerpt": "The Truflation US CPI Inflation Index is 1.84% with a 0.03% decrease from the previous month. The Truflation US CPI Aggregated Inflation Index is 30.39% with a 0.03% decrease. The Truflation Electric Vehicle Commodity Index is $1,235.33 with a 0.41% increase.",
+  "metaDescription": "The Truflation CPI Index utilize modern consumer and spending data sets along with cutting-edge technology to deliver the world's only verifiable daily",
+  "excerpt": "The Truflation CPI Index utilize modern consumer and spending data sets along with cutting-edge technology to deliver the world's only verifiable daily",
   "content": {
-    "introduction": "The Truflation US CPI Inflation Index is 1.84% with a 0.03% decrease from the previous month. The Truflation US CPI Aggregated Inflation Index is 30.39% with a 0.03% decrease. The Truflation Electric Vehicle Commodity Index is $1,235.33 with a 0.41% increase.",
-    "body": [
-      "Truflation US CPI Inflation Index. 1.84+1.66% ; BLS Consumer Price Index. 3.80+15.15% ; BEA PCE Price Index. 3.77+6.80% ; Producer Price Index. 6.00+39.53%.",
-      "Truflation US CPI Inflation Index. TruCPI-US. 1.81%. -0.03 ; Total Public Debt. 39.23. +0.08% ; Truflation US CPI Eggs Index. TruCPIEggs-US. $2.71. +0.37%.",
-      "[![Image 1: Truflation](blob:http://localhost/f21e0c2580acc4af6e08424676887495)](https://truflation.com/). [Home](https://truflation.com/dashboard). [Reports](https://truflation.com/members-area/insights). [Resources](https://truflation.com/marketplace/us-inflation-rate?modalOpen=true&modalWindow=signup). [T-1 Forecast](https://truflation.com/t-1). [Pricing](https://truflation.com/pricing). By signing up, you agree to our [Terms](https://truflation.com/terms) and [Privacy Policy.](https://truflation.com/privacy). ![Image 5: Customer logos](https://truflation.com/_nuxt/customers.Bp8ARaez.svg). [Learn more →](https://truflation.com/). [Start Calculating](https://truflation.com/calculator/form). [Contact us Contact](https://truflation.com/contact). [![Image 15: Truflation EV Commodity Index icon](https://res.cloudinary.com/dk1kgznug/image/upload/v1732858299/ev-index_gs6wkn.svg) Electric Vehicle Index $1,235.33 +0.41% The Truflation Electric Vehicle Commodity Index tracks the real-time prices of core commodities essential for ...](https://truflation.com/marketplace/ev-index)[![Image 16: Truflation US CPI Aggregate Inflation Index icon](https://res.cloudinary.com/djy27wpqd/image/upload/v1700377652/usaInflation_uxtpz7.svg) US Aggregated 30.39% -0.03 The Truflation US CPI Aggregated Inflation Index is compiled using real-time data from over 30 data sources, e...](https://truflation.com/marketplace/truflation-us-aggregated)[![Image 17: Gold Futures icon](https://res.cloudinary.com/djy27wpqd/image/upload/v1702555292/metals.svg) Gold Futures $4,349.8 +0.03% Gold futures is the price of financial contracts for the future delivery of Gold that is traded on the Commodi...](https://truflation.com/marketplace/gold). [Contact Us](https://truflation.com/contact)[Read Docs](https://api.truflation.com/). [![Image 18: footer logo](https://truflation.com/_nuxt/footer-logo.B79g_IhY.svg)](https://truflation.com/). *   [Indexes](https://truflation.com/marketplace). *   [Pricing](https://truflation.com/pricing). *   [Inflation Calculator](https://truflation.com/calculator). *   [Economic Calendar](https://truflation.com/economic-calendar). *   [Prediction Market](https://predict.truflation.com/). *   [About Us](https://truflation.com/about). *   [Our Data](https://truflation.com/data-advantage). *   [Media Kit](https://media-kit.truflation.com/). *   [Blog](https://truflation.com/blog). *   [Help Center](https://truflation.com/help). *   [Contact Us](https://truflation.com/contact). [Privacy Policy](https://truflation.com/privacy) | © 2026."
-    ],
-    "keyTakeaways": [
-      "The Truflation US CPI Inflation Index is 1.84% with a 0",
-      "Truflation US CPI Inflation Index. 1",
-      "Truflation US CPI Inflation Index. TruCPI-US"
-    ],
+    "introduction": "The Truflation CPI Index utilize modern consumer and spending data sets along with cutting-edge technology to deliver the world's only verifiable daily",
+    "body": [],
+    "keyTakeaways": [],
     "source": "truflation.com",
-    "sourceUrl": "https://truflation.com/marketplace/us-inflation-rate?modalOpen=true&modalWindow=signup"
+    "sourceUrl": "https://truflation.com/marketplace/us-inflation-rate"
   },
   "readingTime": 3,
-  "updatedAt": "2026-06-10T20:33:24.667Z",
+  "updatedAt": "2026-07-08T08:19:34.173Z",
   "images": {
     "thumbnail": {
-      "src": "/images/article_thumb_4.jpg",
+      "src": "/images/article_thumb_5.jpg",
       "alt": "Truflation US CPI Inflation Index"
     },
     "hero": {
@@ -41,12 +33,12 @@
       "alt": "Truflation US CPI Inflation Index"
     },
     "mid": {
-      "src": "/images/article_thumb_4.jpg",
+      "src": "/images/article_thumb_1.jpg",
       "alt": "Truflation US CPI Inflation Index"
     }
   },
   "image": {
-    "src": "/images/article_thumb_4.jpg",
+    "src": "/images/article_thumb_2.jpg",
     "alt": "Truflation US CPI Inflation Index"
   }
 }
