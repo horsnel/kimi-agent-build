@@ -1,21 +1,42 @@
 [
   {
+    "id": "12-month-percentage-change-consumer-price-index-selected",
+    "type": "news",
+    "title": "12-month percentage change, Consumer Price Index, selected ...",
+    "slug": "12-month-percentage-change-consumer-price-index-selected",
+    "date": "2026-07-08",
+    "displayDate": "July 8, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The 12-month percentage change in the Consumer Price Index was highest in November 2021 at 33.3%. The U.S. Bureau of Labor Statistics tracks these changes. The ",
+    "excerpt": "The 12-month percentage change in the Consumer Price Index was highest in November 2021 at 33.3%. The U.S. Bureau of Labor Statistics tracks these changes. The latest data is available on their official website.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "12-month percentage change, Consumer Price Index, selected ..."
+    },
+    "readingTime": 3
+  },
+  {
     "id": "2026-economic-calendar",
     "type": "news",
     "title": "2026 Economic Calendar",
     "slug": "2026-economic-calendar",
-    "date": "2026-07-07",
-    "displayDate": "July 7, 2026",
+    "date": "2026-07-08",
+    "displayDate": "July 8, 2026",
     "category": "Economic Indicators",
     "tags": [
       "economic indicators",
       "financial news",
       "market update"
     ],
-    "metaDescription": "The 2026 economic calendar includes key events like ISM Services Index and FOMC Minutes. July 7 features auctions and economic reports. For full details, visit ",
-    "excerpt": "The 2026 economic calendar includes key events like ISM Services Index and FOMC Minutes. July 7 features auctions and economic reports. For full details, visit econoday.com.",
+    "metaDescription": "The 2026 economic calendar includes key events like ISM Services Index and FOMC Minutes. July 8 features announcements like Treasury Buyback and Baker Hughes Ri",
+    "excerpt": "The 2026 economic calendar includes key events like ISM Services Index and FOMC Minutes. July 8 features announcements like Treasury Buyback and Baker Hughes Rig Count. For detailed monthly events, visit economic data websites.",
     "image": {
-      "src": "/images/article_thumb_2.jpg",
+      "src": "/images/article_thumb_6.jpg",
       "alt": "2026 Economic Calendar"
     },
     "readingTime": 4
@@ -25,19 +46,565 @@
     "type": "news",
     "title": "2026 Outlook: Portfolio-Wide Views - Cambridge Associates",
     "slug": "2026-outlook-portfolio-wide-views-cambridge-associates",
-    "date": "2026-07-07",
-    "displayDate": "July 7, 2026",
+    "date": "2026-07-08",
+    "displayDate": "July 8, 2026",
     "category": "Investment Strategies",
     "tags": [
       "investment strategies",
       "financial news",
       "market update"
     ],
-    "metaDescription": "Investors should consider rebalancing portfolios with greater diversification in 2026, as equity allocations have risen significantly. Global ex US equities are",
-    "excerpt": "Investors should consider rebalancing portfolios with greater diversification in 2026, as equity allocations have risen significantly. Global ex US equities are expected to outperform US equities due to valuation and earnings growth. Economic trends suggest potential labor market weakening.",
+    "metaDescription": "Equity allocations have increased, prompting reassessment for diversification. Global ex US equities are expected to outperform US equities in 2026 due to valua",
+    "excerpt": "Equity allocations have increased, prompting reassessment for diversification. Global ex US equities are expected to outperform US equities in 2026 due to valuation and earnings growth. Labor market trends may signal economic shifts.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "2026 Outlook: Portfolio-Wide Views - Cambridge Associates"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "asia-stock-markets-wsj",
+    "type": "news",
+    "title": "Asia Stock Markets - WSJ",
+    "slug": "asia-stock-markets-wsj",
+    "date": "2026-07-08",
+    "displayDate": "July 8, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Asia stock markets were subdued as the Trump-Xi summit concluded without significant tariff progress, causing investor concerns. The Shanghai Composite and othe",
+    "excerpt": "Asia stock markets were subdued as the Trump-Xi summit concluded without significant tariff progress, causing investor concerns. The Shanghai Composite and other indexes showed minimal changes. For the latest data, visit The Wall Street Journal's market section.",
     "image": {
       "src": "/images/article_thumb_5.jpg",
-      "alt": "2026 Outlook: Portfolio-Wide Views - Cambridge Associates"
+      "alt": "Asia Stock Markets - WSJ"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "asian-market-commentary-rttnews",
+    "type": "news",
+    "title": "Asian Market Commentary - RTTNews",
+    "slug": "asian-market-commentary-rttnews",
+    "date": "2026-07-08",
+    "displayDate": "July 8, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Asian refers to people or cultures from the continent of Asia, including East, South, and Southeast Asia. In many countries, it often denotes East Asian ethnici",
+    "excerpt": "Asian refers to people or cultures from the continent of Asia, including East, South, and Southeast Asia. In many countries, it often denotes East Asian ethnicities like Chinese, Japanese, and Korean. The term can vary in meaning depending on the region.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Asian Market Commentary - RTTNews"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "big-tech-just-delivered-the-most-consequential-earnings-week",
+    "type": "news",
+    "title": "Big Tech just delivered the most consequential earnings week ...",
+    "slug": "big-tech-just-delivered-the-most-consequential-earnings-week",
+    "date": "2026-07-08",
+    "displayDate": "July 8, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Big Tech companies reported mixed earnings in Q1 2026, with significant capex increases and mixed stock performance. Meta, Microsoft, and Amazon saw declines, w",
+    "excerpt": "Big Tech companies reported mixed earnings in Q1 2026, with significant capex increases and mixed stock performance. Meta, Microsoft, and Amazon saw declines, while Apple and Google's cloud business performed well. The AI investments raised concerns about spending levels.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Big Tech just delivered the most consequential earnings week ..."
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "bitcoin-btc-news-analysis-and-forecast",
+    "type": "news",
+    "title": "Bitcoin (BTC) News, Analysis and Forecast",
+    "slug": "bitcoin-btc-news-analysis-and-forecast",
+    "date": "2026-07-08",
+    "displayDate": "July 8, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin (BTC) is currently around $63,000, showing minor gains, and analysts predict potential upward movement. ETF inflows and market expert forecasts support ",
+    "excerpt": "Bitcoin (BTC) is currently around $63,000, showing minor gains, and analysts predict potential upward movement. ETF inflows and market expert forecasts support a bullish outlook. Bitcoin's price remains volatile amid broader market trends.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Bitcoin (BTC) News, Analysis and Forecast"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "bitcoin-btc-price-today-btc-live-price-charts-news",
+    "type": "news",
+    "title": "Bitcoin (BTC) Price Today: BTC Live Price, Charts, News",
+    "slug": "bitcoin-btc-price-today-btc-live-price-charts-news",
+    "date": "2026-07-08",
+    "displayDate": "July 8, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "As of today, Bitcoin's price is around $63,734. It has decreased by about 1% in the last 24 hours. The market is closely watching for further changes.",
+    "excerpt": "As of today, Bitcoin's price is around $63,734. It has decreased by about 1% in the last 24 hours. The market is closely watching for further changes.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Bitcoin (BTC) Price Today: BTC Live Price, Charts, News"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "bitcoin-price-today-btc-price-chart-live-trends",
+    "type": "news",
+    "title": "Bitcoin price today - BTC price chart & live trends",
+    "slug": "bitcoin-price-today-btc-price-chart-live-trends",
+    "date": "2026-07-08",
+    "displayDate": "July 8, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin's price today is $63,018.02 according to Google, but it fluctuates; currently, it's $63,664.00 on Kraken and $63,665.09 on Crypto.com. The price has var",
+    "excerpt": "Bitcoin's price today is $63,018.02 according to Google, but it fluctuates; currently, it's $63,664.00 on Kraken and $63,665.09 on Crypto.com. The price has varied slightly over the last 24 hours.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Bitcoin price today - BTC price chart & live trends"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "company-earnings-calendar-yahoo-finance",
+    "type": "news",
+    "title": "Company Earnings Calendar - Yahoo Finance",
+    "slug": "company-earnings-calendar-yahoo-finance",
+    "date": "2026-07-08",
+    "displayDate": "July 8, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Yahoo Finance's Company Earnings Calendar lists upcoming earnings announcements, including AMC's Q3 2026 earnings. Other companies like NovaBridge Biosciences a",
+    "excerpt": "Yahoo Finance's Company Earnings Calendar lists upcoming earnings announcements, including AMC's Q3 2026 earnings. Other companies like NovaBridge Biosciences and American Resources Corporation also have scheduled earnings for Q1 2026.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Company Earnings Calendar - Yahoo Finance"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "cpi-home-u-s-bureau-of-labor-statistics",
+    "type": "news",
+    "title": "CPI Home : U.S. Bureau of Labor Statistics",
+    "slug": "cpi-home-u-s-bureau-of-labor-statistics",
+    "date": "2026-07-08",
+    "displayDate": "July 8, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Consumer Price Index (CPI) from the U.S. Bureau of Labor Statistics measures inflation by tracking price changes for a basket of goods and services. The lat",
+    "excerpt": "The Consumer Price Index (CPI) from the U.S. Bureau of Labor Statistics measures inflation by tracking price changes for a basket of goods and services. The latest CPI report shows a 0.5% increase in May 2026, driven by higher gasoline and shelter costs. For more details, visit the BLS CPI page.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "CPI Home : U.S. Bureau of Labor Statistics"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "earnings-calendar-markets-insider",
+    "type": "news",
+    "title": "Earnings Calendar | Markets Insider",
+    "slug": "earnings-calendar-markets-insider",
+    "date": "2026-07-08",
+    "displayDate": "July 8, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "On July 8, 2026, Industrivaerden AB, Levi's, Pricesmart Inc., Dart Group PLC, Life Corp, and Ministop Co Ltd are scheduled to report their earnings. The earning",
+    "excerpt": "On July 8, 2026, Industrivaerden AB, Levi's, Pricesmart Inc., Dart Group PLC, Life Corp, and Ministop Co Ltd are scheduled to report their earnings. The earnings calendar also includes Auribis Resources Corp Registered Shs and Newbury Pharmaceuticals AB Registered Shs.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Earnings Calendar | Markets Insider"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "earnings-calendar",
+    "type": "news",
+    "title": "Earnings Calendar",
+    "slug": "earnings-calendar",
+    "date": "2026-07-08",
+    "displayDate": "July 8, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The earnings calendar tracks upcoming and released company earnings reports, sorted by date, and helps traders analyze financial performance. Key metrics includ",
+    "excerpt": "The earnings calendar tracks upcoming and released company earnings reports, sorted by date, and helps traders analyze financial performance. Key metrics include time, company name, EPS, and market capitalization. Use it to plan trading strategies.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Earnings Calendar"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "earnings",
+    "type": "news",
+    "title": "Earnings",
+    "slug": "earnings",
+    "date": "2026-07-08",
+    "displayDate": "July 8, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Earnings are the net income of a corporation after deducting all expenses. They are also the basis for corporate tax. Companies report earnings to show their fi",
+    "excerpt": "Earnings are the net income of a corporation after deducting all expenses. They are also the basis for corporate tax. Companies report earnings to show their financial performance.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Earnings"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "economic-release-calendar",
+    "type": "news",
+    "title": "Economic Release Calendar",
+    "slug": "economic-release-calendar",
+    "date": "2026-07-08",
+    "displayDate": "July 8, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The economic release calendar includes key U.S. and international economic data releases, with notable upcoming reports on international trade and manufacturing",
+    "excerpt": "The economic release calendar includes key U.S. and international economic data releases, with notable upcoming reports on international trade and manufacturing shipments. The Federal Reserve Economic Data (FRED) calendar lists various interest rates and economic indicators for the day. The latest d",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Economic Release Calendar"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "fomc-press-conference-october-29-2025",
+    "type": "news",
+    "title": "FOMC Press Conference, October 29, 2025",
+    "slug": "fomc-press-conference-october-29-2025",
+    "date": "2026-07-08",
+    "displayDate": "July 8, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "On October 29, 2025, the Federal Reserve cut its policy interest rate by ¼ percentage point, aiming to support maximum employment and stable prices. Chair Powel",
+    "excerpt": "On October 29, 2025, the Federal Reserve cut its policy interest rate by ¼ percentage point, aiming to support maximum employment and stable prices. Chair Powell emphasized that further rate cuts were not guaranteed. The decision reflected a cautious approach amid recent layoffs and economic shifts.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "FOMC Press Conference, October 29, 2025"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "inflation-consumer-prices-annual-united-states",
+    "type": "news",
+    "title": "Inflation, consumer prices (annual %) - United States",
+    "slug": "inflation-consumer-prices-annual-united-states",
+    "date": "2026-07-08",
+    "displayDate": "July 8, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The annual inflation rate for the United States in 2026 is 3.8%. This reflects the annual percentage change in consumer prices. The latest data is from Trading ",
+    "excerpt": "The annual inflation rate for the United States in 2026 is 3.8%. This reflects the annual percentage change in consumer prices. The latest data is from Trading Economics.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Inflation, consumer prices (annual %) - United States"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "investment-strategy-2026-portfolio-moves-for-a-changing-market",
+    "type": "news",
+    "title": "Investment Strategy 2026 Portfolio Moves for a Changing Market",
+    "slug": "investment-strategy-2026-portfolio-moves-for-a-changing-market",
+    "date": "2026-07-08",
+    "displayDate": "July 8, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "For 2026, consider a balanced portfolio with global diversification, increased exposure to small caps and emerging markets, and strategic use of fixed income an",
+    "excerpt": "For 2026, consider a balanced portfolio with global diversification, increased exposure to small caps and emerging markets, and strategic use of fixed income and alternatives to manage risk. Focus on long-term discipline and avoid short-term market noise. Tax efficiency and cash management are also ",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Investment Strategy 2026 Portfolio Moves for a Changing Market"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "latest-asia-stock-market-news",
+    "type": "news",
+    "title": "Latest: Asia Stock Market News",
+    "slug": "latest-asia-stock-market-news",
+    "date": "2026-07-08",
+    "displayDate": "July 8, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The KOSPI index plunged nearly 8% on Thursday, and South Korean shares fell significantly due to AI-related concerns. Asian markets remain volatile, with the Ye",
+    "excerpt": "The KOSPI index plunged nearly 8% on Thursday, and South Korean shares fell significantly due to AI-related concerns. Asian markets remain volatile, with the Yen hitting a 40-year low.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Latest: Asia Stock Market News"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "monetary-policy-federal-reserve-board",
+    "type": "news",
+    "title": "Monetary Policy - Federal Reserve Board",
+    "slug": "monetary-policy-federal-reserve-board",
+    "date": "2026-07-08",
+    "displayDate": "July 8, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Reserve implements monetary policy to achieve high employment and stable inflation. Its main tool is the federal funds rate. The Fed recently reduce",
+    "excerpt": "The Federal Reserve implements monetary policy to achieve high employment and stable inflation. Its main tool is the federal funds rate. The Fed recently reduced asset purchases.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Monetary Policy - Federal Reserve Board"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "sector-research-news-and-performance-fidelity-investments",
+    "type": "news",
+    "title": "Sector Research, News and Performance - Fidelity Investments",
+    "slug": "sector-research-news-and-performance-fidelity-investments",
+    "date": "2026-07-08",
+    "displayDate": "July 8, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Fidelity Investments highlights sector performance trends and suggests sectors may outperform during specific business cycle phases. Current top-rated stocks ar",
+    "excerpt": "Fidelity Investments highlights sector performance trends and suggests sectors may outperform during specific business cycle phases. Current top-rated stocks are available based on Equity Summary Score. Sector investing can target client objectives and manage risk.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Sector Research, News and Performance - Fidelity Investments"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "sectors-stock-market-usa-tradingview",
+    "type": "news",
+    "title": "Sectors — Stock Market — USA — TradingView",
+    "slug": "sectors-stock-market-usa-tradingview",
+    "date": "2026-07-08",
+    "displayDate": "July 8, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The USA stock market sectors include Electronic Technology, Finance, Health Technology, Consumer Services, and others. The S&P 500 sectors are Consumer Discreti",
+    "excerpt": "The USA stock market sectors include Electronic Technology, Finance, Health Technology, Consumer Services, and others. The S&P 500 sectors are Consumer Discretionary, Consumer Staples, Health Care, Industrials, Utilities, and Financials. The most recent data is from July 2026.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Sectors — Stock Market — USA — TradingView"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "six-portfolio-strategy-ideas-for-2026",
+    "type": "news",
+    "title": "Six portfolio strategy ideas for 2026",
+    "slug": "six-portfolio-strategy-ideas-for-2026",
+    "date": "2026-07-08",
+    "displayDate": "July 8, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "For 2026, consider high-quality fixed income, real assets for resilience, undervalued equities, and international stocks for diversification. These strategies a",
+    "excerpt": "For 2026, consider high-quality fixed income, real assets for resilience, undervalued equities, and international stocks for diversification. These strategies aim to navigate economic and geopolitical risks.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Six portfolio strategy ideas for 2026"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "stock-market-outlook-midyear-2026",
+    "type": "news",
+    "title": "Stock market outlook midyear 2026",
+    "slug": "stock-market-outlook-midyear-2026",
+    "date": "2026-07-08",
+    "displayDate": "July 8, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Midyear 2026 outlook suggests U.S. stocks may continue to grow due to strong business investment, but consumer spending could struggle if inflation and geopolit",
+    "excerpt": "Midyear 2026 outlook suggests U.S. stocks may continue to grow due to strong business investment, but consumer spending could struggle if inflation and geopolitical tensions persist. Fidelity and Schwab highlight resilience in the bull market and shifts in sector performance. T Rowe Price notes a ne",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Stock market outlook midyear 2026"
+    },
+    "readingTime": 5
+  },
+  {
+    "id": "the-fed-meeting-calendars-and-information",
+    "type": "news",
+    "title": "The Fed - Meeting calendars and information",
+    "slug": "the-fed-meeting-calendars-and-information",
+    "date": "2026-07-08",
+    "displayDate": "July 8, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Reserve's next FOMC meeting is on July 28-29, 2026. The Federal Reserve Banks are open, but the Board of Governors is closed on July 3, 2026. Federa",
+    "excerpt": "The Federal Reserve's next FOMC meeting is on July 28-29, 2026. The Federal Reserve Banks are open, but the Board of Governors is closed on July 3, 2026. Federal Reserve staff do not speak publicly around FOMC meetings.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "The Fed - Meeting calendars and information"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "this-week-s-best-performing-stocks-sectors-industries-rankings-csimarket",
+    "type": "news",
+    "title": "This Week's Best Performing Stocks, Sectors, Industries Rankings - CSIMarket",
+    "slug": "this-week-s-best-performing-stocks-sectors-industries-rankings-csimarket",
+    "date": "2026-07-08",
+    "displayDate": "July 8, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "This week's best performing industry is Alcoholic Beverages, and the top stock is Netclass Technology Inc with a 243.88% gain. Today's top industry is Environme",
+    "excerpt": "This week's best performing industry is Alcoholic Beverages, and the top stock is Netclass Technology Inc with a 243.88% gain. Today's top industry is Environmental Services, and the leading stock is Solai Limited with a 144.78% gain. Year to date, Computer Hardware leads with the highest percentage",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "This Week's Best Performing Stocks, Sectors, Industries Rankings - CSIMarket"
+    },
+    "readingTime": 6
+  },
+  {
+    "id": "u-s-bureau-of-economic-analysis-bea",
+    "type": "news",
+    "title": "U.S. Bureau of Economic Analysis (BEA)",
+    "slug": "u-s-bureau-of-economic-analysis-bea",
+    "date": "2026-07-08",
+    "displayDate": "July 8, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The U.S. Bureau of Economic Analysis provides official macroeconomic and industry statistics, including GDP, personal income, and government spending. It is par",
+    "excerpt": "The U.S. Bureau of Economic Analysis provides official macroeconomic and industry statistics, including GDP, personal income, and government spending. It is part of the Department of Commerce. The BEA produces timely and objective economic accounts data.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "U.S. Bureau of Economic Analysis (BEA)"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "u-s-stock-market-headlines-breaking-stock-market-news",
+    "type": "news",
+    "title": "U.S. Stock Market Headlines | Breaking Stock Market News",
+    "slug": "u-s-stock-market-headlines-breaking-stock-market-news",
+    "date": "2026-07-08",
+    "displayDate": "July 8, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "U.S. stocks ended lower on July 7, with Micron Technology leading losses. Nasdaq also fell sharply. Crude oil prices increased significantly.",
+    "excerpt": "U.S. stocks ended lower on July 7, with Micron Technology leading losses. Nasdaq also fell sharply. Crude oil prices increased significantly.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "U.S. Stock Market Headlines | Breaking Stock Market News"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "u-s-stock-markets-today",
+    "type": "news",
+    "title": "U.S. Stock Markets Today",
+    "slug": "u-s-stock-markets-today",
+    "date": "2026-07-08",
+    "displayDate": "July 8, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "U.S. stock markets closed lower on Tuesday with the S&P 500 down 0.4%, Nasdaq 100 down 1.8%, and Dow Jones losing 131 points. Trading was impacted by a selloff ",
+    "excerpt": "U.S. stock markets closed lower on Tuesday with the S&P 500 down 0.4%, Nasdaq 100 down 1.8%, and Dow Jones losing 131 points. Trading was impacted by a selloff in chipmakers.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "U.S. Stock Markets Today"
     },
     "readingTime": 3
   },
@@ -84,27 +651,6 @@
     "readingTime": 3
   },
   {
-    "id": "asia-stock-markets-wsj",
-    "type": "news",
-    "title": "Asia Stock Markets - WSJ",
-    "slug": "asia-stock-markets-wsj",
-    "date": "2026-07-07",
-    "displayDate": "July 7, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Asia stock markets have seen significant gains, with Japan's Nikkei up 4.4% and South Korea's Kospi adding around 5%. International stocks have been recovering ",
-    "excerpt": "Asia stock markets have seen significant gains, with Japan's Nikkei up 4.4% and South Korea's Kospi adding around 5%. International stocks have been recovering from losses due to the Iran war. Current market trends remain influenced by global economic factors.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Asia Stock Markets - WSJ"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "asia-stock-markets",
     "type": "news",
     "title": "Asia Stock Markets",
@@ -122,27 +668,6 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "Asia Stock Markets"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "asian-market-commentary-rttnews",
-    "type": "news",
-    "title": "Asian Market Commentary - RTTNews",
-    "slug": "asian-market-commentary-rttnews",
-    "date": "2026-07-07",
-    "displayDate": "July 7, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Asian markets mostly traded lower, with the Nikkei 225 falling below 69,300 and the Australian market extending losses. The Thai stock market may accelerate. Th",
-    "excerpt": "Asian markets mostly traded lower, with the Nikkei 225 falling below 69,300 and the Australian market extending losses. The Thai stock market may accelerate. The global forecast for Asian markets is mixed to higher.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Asian Market Commentary - RTTNews"
     },
     "readingTime": 3
   },
@@ -336,27 +861,6 @@
     "readingTime": 3
   },
   {
-    "id": "company-earnings-calendar-yahoo-finance",
-    "type": "news",
-    "title": "Company Earnings Calendar - Yahoo Finance",
-    "slug": "company-earnings-calendar-yahoo-finance",
-    "date": "2026-07-07",
-    "displayDate": "July 7, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Yahoo Finance earnings calendar is at https://finance.yahoo.com/calendar/earnings. Key companies like Samsung Electronics report earnings. The calendar help",
-    "excerpt": "The Yahoo Finance earnings calendar is at https://finance.yahoo.com/calendar/earnings. Key companies like Samsung Electronics report earnings. The calendar helps track upcoming earnings announcements.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Company Earnings Calendar - Yahoo Finance"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "consumer-price-index-1913-federal-reserve-bank-of-minneapolis",
     "type": "news",
     "title": "Consumer Price Index, 1913- | Federal Reserve Bank of Minneapolis",
@@ -374,27 +878,6 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "Consumer Price Index, 1913- | Federal Reserve Bank of Minneapolis"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "cpi-home-u-s-bureau-of-labor-statistics",
-    "type": "news",
-    "title": "CPI Home : U.S. Bureau of Labor Statistics",
-    "slug": "cpi-home-u-s-bureau-of-labor-statistics",
-    "date": "2026-07-07",
-    "displayDate": "July 7, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Consumer Price Index (CPI) from the U.S. Bureau of Labor Statistics measures inflation by tracking price changes for a basket of goods and services. The lat",
-    "excerpt": "The Consumer Price Index (CPI) from the U.S. Bureau of Labor Statistics measures inflation by tracking price changes for a basket of goods and services. The latest CPI report shows a 0.5% increase in May 2026. For more details, visit the CPI Home page.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "CPI Home : U.S. Bureau of Labor Statistics"
     },
     "readingTime": 3
   },
@@ -458,48 +941,6 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "Earnings Calendar - Investing.com"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "earnings-calendar-markets-insider",
-    "type": "news",
-    "title": "Earnings Calendar | Markets Insider",
-    "slug": "earnings-calendar-markets-insider",
-    "date": "2026-07-07",
-    "displayDate": "July 7, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "On July 7, 2026, Enerpac Tool Group Corp, Kinnevik AB, and Kura Sushi USA Inc are scheduled to report earnings. PepsiCo and Fast Retailing are also set to repor",
-    "excerpt": "On July 7, 2026, Enerpac Tool Group Corp, Kinnevik AB, and Kura Sushi USA Inc are scheduled to report earnings. PepsiCo and Fast Retailing are also set to report earnings on this date.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Earnings Calendar | Markets Insider"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "earnings-calendar",
-    "type": "news",
-    "title": "Earnings Calendar",
-    "slug": "earnings-calendar",
-    "date": "2026-07-07",
-    "displayDate": "July 7, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The earnings calendar lists upcoming earnings announcements for companies, helping investors track financial performance dates. Key sites include Investing.com,",
-    "excerpt": "The earnings calendar lists upcoming earnings announcements for companies, helping investors track financial performance dates. Key sites include Investing.com, Nasdaq, and Wall Street Horizon. These calendars are crucial for market analysis and investment decisions.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Earnings Calendar"
     },
     "readingTime": 3
   },
@@ -647,27 +1088,6 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "Federal Reserve holds interest rates steady but leaves door open to ..."
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "fomc-press-conference-october-29-2025",
-    "type": "news",
-    "title": "FOMC Press Conference, October 29, 2025",
-    "slug": "fomc-press-conference-october-29-2025",
-    "date": "2026-07-07",
-    "displayDate": "July 7, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The FOMC meeting on October 29, 2025, saw a 25 basis point rate cut, and Chair Powell indicated further reductions were uncertain. The Fed remains focused on em",
-    "excerpt": "The FOMC meeting on October 29, 2025, saw a 25 basis point rate cut, and Chair Powell indicated further reductions were uncertain. The Fed remains focused on employment and price stability. Powell emphasized caution due to recent layoffs.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "FOMC Press Conference, October 29, 2025"
     },
     "readingTime": 3
   },
@@ -861,27 +1281,6 @@
     "readingTime": 3
   },
   {
-    "id": "inflation-consumer-prices-annual-united-states",
-    "type": "news",
-    "title": "Inflation, consumer prices (annual %) - United States",
-    "slug": "inflation-consumer-prices-annual-united-states",
-    "date": "2026-07-07",
-    "displayDate": "July 7, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The annual inflation rate for the United States in 2026 is 4.20%. This reflects the annual percentage change in consumer prices. The data is sourced from Tradin",
-    "excerpt": "The annual inflation rate for the United States in 2026 is 4.20%. This reflects the annual percentage change in consumer prices. The data is sourced from Trading Economics.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Inflation, consumer prices (annual %) - United States"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "inflation-consumer-prices-for-the-united-states-fpcpitotlzgusa",
     "type": "news",
     "title": "Inflation, consumer prices for the United States (FPCPITOTLZGUSA)",
@@ -1008,27 +1407,6 @@
     "readingTime": 3
   },
   {
-    "id": "investment-strategy-2026-portfolio-moves-for-a-changing-market",
-    "type": "news",
-    "title": "Investment Strategy 2026 Portfolio Moves for a Changing Market",
-    "slug": "investment-strategy-2026-portfolio-moves-for-a-changing-market",
-    "date": "2026-07-07",
-    "displayDate": "July 7, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "For 2026, consider increasing small caps and emerging markets, diversifying globally, and using fixed income for stability. Monitor sector shifts and risks.",
-    "excerpt": "For 2026, consider increasing small caps and emerging markets, diversifying globally, and using fixed income for stability. Monitor sector shifts and risks.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Investment Strategy 2026 Portfolio Moves for a Changing Market"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "investment-strategy-2026-portfolio-moves-for-a-changing",
     "type": "news",
     "title": "Investment Strategy 2026 Portfolio Moves for a Changing ...",
@@ -1048,27 +1426,6 @@
       "alt": "Investment Strategy 2026 Portfolio Moves for a Changing ..."
     },
     "readingTime": 4
-  },
-  {
-    "id": "latest-asia-stock-market-news",
-    "type": "news",
-    "title": "Latest: Asia Stock Market News",
-    "slug": "latest-asia-stock-market-news",
-    "date": "2026-07-07",
-    "displayDate": "July 7, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Kospi fell nearly 8% due to market anxiety, but optimism rose from Fed remarks on inflation. SK Hynix debuted in the US amid strong Korean trade. CNBC repor",
-    "excerpt": "The Kospi fell nearly 8% due to market anxiety, but optimism rose from Fed remarks on inflation. SK Hynix debuted in the US amid strong Korean trade. CNBC reports solid Q2 expectations despite inflation.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Latest: Asia Stock Market News"
-    },
-    "readingTime": 3
   },
   {
     "id": "latest-technology-news-and-reviews",
@@ -1130,27 +1487,6 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "META_TITLE_SECTORS - Yahoo Finance"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "monetary-policy-federal-reserve-board",
-    "type": "news",
-    "title": "Monetary Policy - Federal Reserve Board",
-    "slug": "monetary-policy-federal-reserve-board",
-    "date": "2026-07-07",
-    "displayDate": "July 7, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Reserve Board implements monetary policy to achieve high employment and stable prices, primarily through setting the federal funds rate. The Federal",
-    "excerpt": "The Federal Reserve Board implements monetary policy to achieve high employment and stable prices, primarily through setting the federal funds rate. The Federal Open Market Committee (FOMC) leads this effort. The Fed's tools include open market operations, reserve requirements, and discount rates.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Monetary Policy - Federal Reserve Board"
     },
     "readingTime": 3
   },
@@ -1302,27 +1638,6 @@
     "readingTime": 5
   },
   {
-    "id": "sectors-stock-market-usa-tradingview",
-    "type": "news",
-    "title": "Sectors — Stock Market — USA — TradingView",
-    "slug": "sectors-stock-market-usa-tradingview",
-    "date": "2026-07-07",
-    "displayDate": "July 7, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The main sectors in the USA stock market include Technology Services, Finance, and Health Technology. The S&P 500 includes sectors like Consumer Discretionary, ",
-    "excerpt": "The main sectors in the USA stock market include Technology Services, Finance, and Health Technology. The S&P 500 includes sectors like Consumer Discretionary, Industrials, and Utilities. The most recent data is from July 2026.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Sectors — Stock Market — USA — TradingView"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "six-portfolio-strategy-ideas-for-2026-youtube",
     "type": "news",
     "title": "Six portfolio strategy ideas for 2026 - YouTube",
@@ -1342,27 +1657,6 @@
       "alt": "Six portfolio strategy ideas for 2026 - YouTube"
     },
     "readingTime": 5
-  },
-  {
-    "id": "six-portfolio-strategy-ideas-for-2026",
-    "type": "news",
-    "title": "Six portfolio strategy ideas for 2026",
-    "slug": "six-portfolio-strategy-ideas-for-2026",
-    "date": "2026-07-07",
-    "displayDate": "July 7, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "For 2026, consider high-quality fixed income, real assets, and undervalued equities. Diversification into international stocks is also gaining traction. Focus o",
-    "excerpt": "For 2026, consider high-quality fixed income, real assets, and undervalued equities. Diversification into international stocks is also gaining traction. Focus on sectors beyond AI for balanced portfolios.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Six portfolio strategy ideas for 2026"
-    },
-    "readingTime": 3
   },
   {
     "id": "stock-market-outlook-midyear-2026-fidelity-investments",
@@ -1571,27 +1865,6 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "The Fed - Meeting calendars and information - Federal Reserve"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "u-s-bureau-of-economic-analysis-bea",
-    "type": "news",
-    "title": "U.S. Bureau of Economic Analysis (BEA)",
-    "slug": "u-s-bureau-of-economic-analysis-bea",
-    "date": "2026-07-07",
-    "displayDate": "July 7, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The U.S. Bureau of Economic Analysis provides official macroeconomic data, including GDP and personal income, to inform government and business decisions. It is",
-    "excerpt": "The U.S. Bureau of Economic Analysis provides official macroeconomic data, including GDP and personal income, to inform government and business decisions. It is part of the Department of Commerce. Its reports are crucial for economic analysis and policy-making.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "U.S. Bureau of Economic Analysis (BEA)"
     },
     "readingTime": 3
   },
@@ -1890,27 +2163,6 @@
     "readingTime": 3
   },
   {
-    "id": "bitcoin-price-today-btc-price-chart-live-trends",
-    "type": "news",
-    "title": "Bitcoin price today - BTC price chart & live trends",
-    "slug": "bitcoin-price-today-btc-price-chart-live-trends",
-    "date": "2026-07-06",
-    "displayDate": "July 6, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Bitcoin's price today is $63,141.39 USD according to Google, but it fluctuates; currently, it's $63,770.00 on Kraken, $63,426.12 on Crypto.com, and $63,589.15 o",
-    "excerpt": "Bitcoin's price today is $63,141.39 USD according to Google, but it fluctuates; currently, it's $63,770.00 on Kraken, $63,426.12 on Crypto.com, and $63,589.15 on CoinMarketCap.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Bitcoin price today - BTC price chart & live trends"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "bitcoin-price-today-live-btc-price-chart-market-data",
     "type": "news",
     "title": "Bitcoin Price Today | Live BTC Price, Chart & Market Data",
@@ -2033,27 +2285,6 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "Earnings Report Calendar | US Stock ..."
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "earnings",
-    "type": "news",
-    "title": "Earnings",
-    "slug": "earnings",
-    "date": "2026-07-06",
-    "displayDate": "July 6, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Earnings are a company's profits over a specific period, shown on the income statement, and used to assess financial health and profitability. Key metrics inclu",
-    "excerpt": "Earnings are a company's profits over a specific period, shown on the income statement, and used to assess financial health and profitability. Key metrics include net income and earnings per share (EPS). Earnings reports are crucial for investors to gauge performance and make informed decisions.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Earnings"
     },
     "readingTime": 3
   },
@@ -2537,27 +2768,6 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "U.S. Economic Calendar"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "u-s-stock-markets-today",
-    "type": "news",
-    "title": "U.S. Stock Markets Today",
-    "slug": "u-s-stock-markets-today",
-    "date": "2026-07-06",
-    "displayDate": "July 6, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Dow Jones Industrial Average rose by 1.14%, while the S&P 500 remained nearly unchanged today. Nasdaq Composite saw a minor increase. For the most current d",
-    "excerpt": "The Dow Jones Industrial Average rose by 1.14%, while the S&P 500 remained nearly unchanged today. Nasdaq Composite saw a minor increase. For the most current details, check financial news sources.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "U.S. Stock Markets Today"
     },
     "readingTime": 3
   },
@@ -3234,48 +3444,6 @@
     "readingTime": 3
   },
   {
-    "id": "the-fed-meeting-calendars-and-information",
-    "type": "news",
-    "title": "The Fed - Meeting calendars and information",
-    "slug": "the-fed-meeting-calendars-and-information",
-    "date": "2026-07-05",
-    "displayDate": "July 5, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Open Market Committee (FOMC) meets eight times a year to set monetary policy; the next meeting is July 27-28, 2026.",
-    "excerpt": "The Federal Open Market Committee (FOMC) meets eight times a year to set monetary policy; the next meeting is July 27-28, 2026.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "The Fed - Meeting calendars and information"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "this-week-s-best-performing-stocks-sectors-industries-rankings-csimarket",
-    "type": "news",
-    "title": "This Week's Best Performing Stocks, Sectors, Industries Rankings - CSIMarket",
-    "slug": "this-week-s-best-performing-stocks-sectors-industries-rankings-csimarket",
-    "date": "2026-07-05",
-    "displayDate": "July 5, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "This week's best performing sector is Computer Hardware. Year-to-date, Computer Hardware leads with 158.17% growth. Marqeta Inc is this month's top performer wi",
-    "excerpt": "This week's best performing sector is Computer Hardware. Year-to-date, Computer Hardware leads with 158.17% growth. Marqeta Inc is this month's top performer with 144.92% growth.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "This Week's Best Performing Stocks, Sectors, Industries Rankings - CSIMarket"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "u-s-stock-markets-today-fox-business",
     "type": "news",
     "title": "U.S. Stock Markets Today - Fox Business",
@@ -3906,48 +4074,6 @@
     "readingTime": 3
   },
   {
-    "id": "bitcoin-btc-news-analysis-and-forecast",
-    "type": "news",
-    "title": "Bitcoin (BTC) News, Analysis and Forecast",
-    "slug": "bitcoin-btc-news-analysis-and-forecast",
-    "date": "2026-07-03",
-    "displayDate": "July 3, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Bitcoin stabilizes around $59,000 after hitting a 21-month low, with geopolitical tensions and inflation concerns affecting market sentiment. Analysts suggest a",
-    "excerpt": "Bitcoin stabilizes around $59,000 after hitting a 21-month low, with geopolitical tensions and inflation concerns affecting market sentiment. Analysts suggest a potential rebound if Bitcoin surpasses $67,000. Current trading is flat near $60,100.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Bitcoin (BTC) News, Analysis and Forecast"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "bitcoin-btc-price-today-btc-live-price-charts-news",
-    "type": "news",
-    "title": "Bitcoin (BTC) Price Today: BTC Live Price, Charts, News",
-    "slug": "bitcoin-btc-price-today-btc-live-price-charts-news",
-    "date": "2026-07-03",
-    "displayDate": "July 3, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Bitcoin's price today is $61,661.11, up 1.85% in the last 24 hours. It is currently 0.62% below its 7-day high and 6.73% above its 7-day low. The 24-hour tradin",
-    "excerpt": "Bitcoin's price today is $61,661.11, up 1.85% in the last 24 hours. It is currently 0.62% below its 7-day high and 6.73% above its 7-day low. The 24-hour trading volume is $37.01 billion.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Bitcoin (BTC) Price Today: BTC Live Price, Charts, News"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "earnings-calendar-trading-economics",
     "type": "news",
     "title": "Earnings Calendar - Trading Economics",
@@ -4158,27 +4284,6 @@
     "readingTime": 3
   },
   {
-    "id": "stock-market-outlook-midyear-2026",
-    "type": "news",
-    "title": "Stock market outlook midyear 2026",
-    "slug": "stock-market-outlook-midyear-2026",
-    "date": "2026-07-03",
-    "displayDate": "July 3, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The 2026 midyear stock market outlook suggests a resilient bull market amid economic volatility and potential geopolitical risks. Experts predict continued grow",
-    "excerpt": "The 2026 midyear stock market outlook suggests a resilient bull market amid economic volatility and potential geopolitical risks. Experts predict continued growth despite challenges. Market trends remain positive for the second half of the year.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Stock market outlook midyear 2026"
-    },
-    "readingTime": 5
-  },
-  {
     "id": "u-s-market-analysis-valuation-dow-jones-nasdaq",
     "type": "news",
     "title": "U.S. Market Analysis & Valuation - Dow Jones, Nasdaq, ...",
@@ -4196,27 +4301,6 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "U.S. Market Analysis & Valuation - Dow Jones, Nasdaq, ..."
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "u-s-stock-market-headlines-breaking-stock-market-news",
-    "type": "news",
-    "title": "U.S. Stock Market Headlines | Breaking Stock Market News",
-    "slug": "u-s-stock-market-headlines-breaking-stock-market-news",
-    "date": "2026-07-03",
-    "displayDate": "July 3, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The S&P 500 and Nasdaq had their biggest quarterly gains since 2020, driven by strong investor optimism. Semiconductor shares boosted Wall Street's strong first",
-    "excerpt": "The S&P 500 and Nasdaq had their biggest quarterly gains since 2020, driven by strong investor optimism. Semiconductor shares boosted Wall Street's strong first half of 2026. US stocks closed higher, marking one of the best quarterly performances in years.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "U.S. Stock Market Headlines | Breaking Stock Market News"
     },
     "readingTime": 3
   },

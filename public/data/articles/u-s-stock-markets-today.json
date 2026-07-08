@@ -3,8 +3,8 @@
   "type": "news",
   "title": "U.S. Stock Markets Today",
   "slug": "u-s-stock-markets-today",
-  "date": "2026-07-06",
-  "displayDate": "July 6, 2026",
+  "date": "2026-07-08",
+  "displayDate": "July 8, 2026",
   "author": "Sigma Capital",
   "category": "Market Analysis",
   "tags": [
@@ -12,36 +12,36 @@
     "financial news",
     "market update"
   ],
-  "metaDescription": "The Dow Jones Industrial Average rose by 1.14%, while the S&P 500 remained nearly unchanged today. Nasdaq Composite saw a minor increase. For the most current d",
-  "excerpt": "The Dow Jones Industrial Average rose by 1.14%, while the S&P 500 remained nearly unchanged today. Nasdaq Composite saw a minor increase. For the most current details, check financial news sources.",
+  "metaDescription": "U.S. stock markets closed lower on Tuesday with the S&P 500 down 0.4%, Nasdaq 100 down 1.8%, and Dow Jones losing 131 points. Trading was impacted by a selloff ",
+  "excerpt": "U.S. stock markets closed lower on Tuesday with the S&P 500 down 0.4%, Nasdaq 100 down 1.8%, and Dow Jones losing 131 points. Trading was impacted by a selloff in chipmakers.",
   "content": {
-    "introduction": "The Dow Jones Industrial Average rose by 1.14%, while the S&P 500 remained nearly unchanged today. Nasdaq Composite saw a minor increase. For the most current details, check financial news sources.",
+    "introduction": "U.S. stock markets closed lower on Tuesday with the S&P 500 down 0.4%, Nasdaq 100 down 1.8%, and Dow Jones losing 131 points. Trading was impacted by a selloff in chipmakers.",
     "body": [
-      "Markets Performance · Commodities · Currencies · Rates & Bonds · Stocks. Index, Last, % Change. S&P 500, 7,483.24, +0.00%Positive. Dow Jones, 52,900.07, +1.14%",
-      "U.S. markets closed ; S&P Futures. 7,552.00. +23.75 ; Dow Futures. 53,162.00. -21.00 ; Nasdaq Futures. 29,796.75. +240.75 ; Russell 2000 Futures. 3,014.10. -0.10",
-      "U.S. STOCKS ; DJIA, 52900.07, 594.83 ; Nasdaq Composite, 25832.67, -207.36 ; S&P 500, 7483.24, 0.01 ; DJ Total Stock Market, 74314.56, -48.49"
+      "U.S. markets closed ; S&P Futures. 7,548.75. -2.50 ; Dow Futures. 53,131.00. -66.00 ; Nasdaq Futures. 29,413.50. +22.00 ; Russell 2000 Futures. 2,993.90. -4.90 ; VIX.",
+      "US stock indices closed lower on Tuesday amid a selloff in chipmakers. The S&P 500 fell 0.4%, the Nasdaq 100 dropped 1.8%, and the Dow Jones lost 131 points",
+      "Up to date market data and stock market news is available online. View US market headlines and market charts. Get the latest economy news, markets in our"
     ],
     "keyTakeaways": [
-      "The Dow Jones Industrial Average rose by 1.14%, while the S&P 500 remained nearly unchanged today",
-      "Markets Performance · Commodities · Currencies · Rates & Bonds · Stocks. Index, Last, % Change",
-      "U.S"
+      "U.S",
+      "U.S",
+      "US stock indices closed lower on Tuesday amid a selloff in chipmakers. The S&P 500 fell 0"
     ],
     "source": "foxbusiness.com",
     "sourceUrl": "https://www.foxbusiness.com/stocks"
   },
   "readingTime": 3,
-  "updatedAt": "2026-07-06T03:55:26.248Z",
+  "updatedAt": "2026-07-08T03:14:15.671Z",
   "images": {
     "thumbnail": {
-      "src": "/images/article_thumb_5.jpg",
+      "src": "/images/article_thumb_6.jpg",
       "alt": "U.S. Stock Markets Today"
     },
     "hero": {
-      "src": "/images/article_thumb_2.jpg",
+      "src": "/images/article_thumb_3.jpg",
       "alt": "U.S. Stock Markets Today"
     },
     "mid": {
-      "src": "/images/article_thumb_2.jpg",
+      "src": "/images/article_thumb_4.jpg",
       "alt": "U.S. Stock Markets Today"
     }
   },
