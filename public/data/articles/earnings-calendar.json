@@ -3,50 +3,50 @@
   "type": "news",
   "title": "Earnings Calendar",
   "slug": "earnings-calendar",
-  "date": "2026-07-08",
-  "displayDate": "July 8, 2026",
+  "date": "2026-08-01",
+  "displayDate": "August 1, 2026",
   "author": "Sigma Capital",
-  "category": "Company News",
+  "category": "Earnings",
   "tags": [
-    "company news",
+    "earnings",
     "financial news",
     "market update"
   ],
-  "metaDescription": "The earnings calendar tracks upcoming and released company earnings reports, sorted by date, and helps traders analyze financial performance. Key metrics includ",
-  "excerpt": "The earnings calendar tracks upcoming and released company earnings reports, sorted by date, and helps traders analyze financial performance. Key metrics include time, company name, EPS, and market capitalization. Use it to plan trading strategies.",
+  "metaDescription": "An earnings calendar lists upcoming and past earnings reports for publicly traded companies, showing dates, EPS estimates, and actual results. It helps investor",
+  "excerpt": "An earnings calendar lists upcoming and past earnings reports for publicly traded companies, showing dates, EPS estimates, and actual results. It helps investors track financial performance and surprises. The calendar is crucial for planning investment strategies.",
   "content": {
-    "introduction": "The earnings calendar tracks upcoming and released company earnings reports, sorted by date, and helps traders analyze financial performance. Key metrics include time, company name, EPS, and market capitalization. Use it to plan trading strategies.",
+    "introduction": "An earnings calendar lists upcoming and past earnings reports for publicly traded companies, showing dates, EPS estimates, and actual results. It helps investors track financial performance and surprises. The calendar is crucial for planning investment strategies.",
     "body": [
-      "# Calendar. ## How to use the Earnings Calendar? TradingView’s Earnings Calendar shows the latest and upcoming earnings reports released by companies. As an important indicator of a company’s financial state, earnings per share are one of the most followed metrics among traders, so the calendar above can serve as a powerful tool for analysis. All reports are sorted in chronological order, from the oldest ones on top to the newest or future values on the bottom. The calendar is simple but contains all the necessary information — the report’s time and company name, estimated and actual EPS, surprise, and the company’s market capitalization. With buttons on the upper panel, you can customize the calendar — choose a time period, country, and time zone to see only those reports that suit your strategy. This way, you can decide to see only the earnings of US companies or track reports globally. You can follow companies' earnings in more detail on corresponding symbol pages. Track Tesla's earnings, Amazon's earnings, and even more.",
-      "*   [U.S. Market Activity->](https://www.nasdaq.com/market-activity). *   [Stocks](https://www.nasdaq.com/market-activity/stocks). *   [ETFs](https://www.nasdaq.com/market-activity/etf). *   [Indexes](https://www.nasdaq.com/market-activity/indexes). *   [Cryptocurrency](https://www.nasdaq.com/market-activity/cryptocurrency). *   [Market Data](https://www.nasdaq.com/solutions/data). *   [Shares](https://www.nasdaq.com/european-market-activity/shares). *   [Indexes](https://www.nasdaq.com/european-market-activity/indexes). *   [Fixed Income](https://www.nasdaq.com/european-market-activity/corporate-bonds). *   [Funds](https://www.nasdaq.com/european-market-activity/funds). *   [News](https://www.nasdaq.com/european-market-activity/news/company-news). *   [Symbol Screener](https://www.nasdaq.com/market-activity/stocks/screener). *   [Economic Calendar](https://www.nasdaq.com/market-activity/economic-calendar). *   [Earnings](https://www.nasdaq.com/market-activity/earnings). *   [IPO Calendar](https://www.nasdaq.com/market-activity/ipos). *   [Dividend Calendar](https://www.nasdaq.com/market-activity/dividends). *   [SPO Calendar](https://www.nasdaq.com/market-activity/spos). *   [Most Active](https://www.nasdaq.com/market-activity/most-active). [Explore All U.S. Market Activity->](https://www.nasdaq.com/market-activity). *   [Public Markets (Listings)](https://www.nasdaq.com/solutions/listings/list-your-company). *   [Market & Alternative Datasets](https://www.nasdaq.com/solutions/data). [All Dividends (12)](https://www.nasdaq.com/market-activity/dividends). [Full IPO Calendar (1)](https://www.nasdaq.com/market-activity/ipos). [Economic (64)](https://www.nasdaq.com/market-activity/economic-calendar). [Stock Splits (4)](https://www.nasdaq.com/market-activity/stock-splits). [Screener ->](https://www.nasdaq.com/market-activity/stocks/screener). [Screener ->](https://www.nasdaq.com/market-activity/stocks/screener). [](https://www.nasdaq.com/symbol/). *   [](https://www.nasdaq.com/market-activity/earnings)·. *   [Cookies](https://www.nasdaq.com/cookie-statement). *   [Do Not Sell or Share My Personal Information](https://www.nasdaq.com/market-activity/earnings \"Do Not Sell or Share My Personal Information\"). *   [My Quotes](https://www.nasdaq.com/market-activity/earnings#watchlist-tab-1). *   [My European Quotes](https://www.nasdaq.com/market-activity/earnings#watchlist-tab-4). *   [Watchlist](https://www.nasdaq.com/market-activity/earnings#watchlist-tab-2). Add/Edit Symbols[View as Table](https://www.nasdaq.com/market-activity/recently-viewed-symbols). [Cookie Policy](https://www.nasdaq.com/cookie-statement). [Show more results ->](https://www.nasdaq.com/search). [Add up to 25 symbols](https://www.nasdaq.com/market-activity/earnings#symbols-text-input). [Add up to 25 instruments](https://www.nasdaq.com/market-activity/earnings#symbols-text-input). [Add up to 20 symbols](https://www.nasdaq.com/market-activity/earnings#symbols-text-input). By clicking “Accept All Cookies”, you agree to the storing of cookies on your device to enhance site navigation, analyze site usage, and assist in our marketing efforts.[Cookie Policy](https://www.nasdaq.com/cookie-statement).",
-      "You can use the earnings calendar to easily select a date to view the stocks that are expected to announce their earnings or type in a specific stock symbol in"
+      "## FAQ\n\n### What is the Investing.com Earnings Calendar?\n\nThe Earnings Calendar is a free tool that tracks earnings report dates for publicly traded companies worldwide. It displays EPS and Revenue forecasts alongside actual results once released, so you can compare analyst expectations with reported outcomes in a single view.\n\n### What is an earnings surprise? [...] Most publicly traded companies report earnings four times a year, once per fiscal quarter. Earnings season typically begins a few weeks after each quarter ends, with the busiest reporting periods falling in January, April, July, and October. Not all companies report on the same date, so the Earnings Calendar helps you track which companies are reporting on any given day.\n\n### How do I filter the Earnings Calendar? [...] An earnings surprise occurs when a company's reported EPS or Revenue differs from the analyst consensus forecast. A positive surprise means the company outperformed expectations, while a negative surprise means it underperformed. The Earnings Calendar displays this as the EPS Surprise % and Revenue Surprise % columns, making it easy to spot which companies beat or missed forecasts at a glance.\n\n### What does the EPS Revisions column show?",
+      "# Calendar\n\n## How to use the Earnings Calendar?\n\nTradingView’s Earnings Calendar shows the latest and upcoming earnings reports released by companies. As an important indicator of a company’s financial state, earnings per share are one of the most followed metrics among traders, so the calendar above can serve as a powerful tool for analysis. [...] With buttons on the upper panel, you can customize the calendar — choose a time period, country, and time zone to see only those reports that suit your strategy. This way, you can decide to see only the earnings of US companies or track reports globally. When all is set, you can easily shift through the calendar to plan your next move.\n\nYou can follow companies' earnings in more detail on corresponding symbol pages. Track Tesla's earnings, Amazon's earnings, and even more. [...] All reports are sorted in chronological order, from the oldest ones on top to the newest or future values on the bottom. The calendar is simple but contains all the necessary information — the report’s time and company name, estimated and actual EPS, surprise, and the company’s market capitalization. Clicking on any of the financial metrics will sort the report in the table.",
+      "All Events\n Earnings\n Stock Splits\n IPOs\n Economic Events\n\n# Earnings Calendar for:\n\nSun, Jul 26\n\n2 Earnings\n\nMon, Jul 27\n\n60 Earnings\n\nTue, Jul 28\n\n165 Earnings\n\nWed, Jul 29\n\n270 Earnings\n\nThu, Jul 30\n\n273 Earnings\n\nFri, Jul 31\n\n62 Earnings\n\nSat, Aug 1\n\nEarnings On Fri, Jul 31 [...] | Symbol | Company | Event Name | Earnings Call Time | EPS Estimate | Reported EPS | Surprise (%) | Market Cap | Follow |\n ---  ---  ---  --- \n| XOM | ExxonMobil Holdings Corporation  TAS | 3.63 | 4.11 | +13.36 | 639.4B |  |\n| ABBV | AbbVie Inc.  TAS | 3.61 | 3.65 | +1.08 | 445.41B |  |\n| CVX | Chevron Corporation  TAS | 5.6 | 6.06 | +8.14 | 389.48B |  |\n| LIN | Linde plc  TAS | 4.12 | 4.15 | +0.66 | 221.32B |  | [...] | CHD | Church & Dwight Co., Inc.  TAS | 0.9 | 0.89 | -0.95 | 23.49B |  |\n| MRNA | Moderna, Inc.  TAS | -2.06 | -1.97 | +4.33 | 22.13B |  |\n| BCH | Banco de Chile  TAS | 0.68 | 0.84 | +24.03 | 21.07B |  |\n| LYB | LyondellBasell Industries N.V.  TAS | 3.42 | 4.3 | +25.6 | 19.93B |  |\n| MGA | Magna International Inc.  TAS | 1.53 | 1.86 | +21.62 | 18.37B |  |\n| RBC | RBC Bearings Incorporated  TAS | 3.43 | 3.88 | +13.24 | 17.95B |  |"
     ],
     "keyTakeaways": [
-      "The earnings calendar tracks upcoming and released company earnings reports, sorted by date, and helps traders analyze f",
-      "# Calendar. ## How to use the Earnings Calendar? TradingView’s Earnings Calendar shows the latest and upcoming earnings ",
-      "*   [U.S"
+      "An earnings calendar lists upcoming and past earnings reports for publicly traded companies, showing dates, EPS estimate",
+      "## FAQ\n\n### What is the Investing.com Earnings Calendar?\n\nThe Earnings Calendar is a free tool that tracks earnings repo",
+      "# Calendar\n\n## How to use the Earnings Calendar?\n\nTradingView’s Earnings Calendar shows the latest and upcoming earnings"
     ],
-    "source": "marketwatch.com",
-    "sourceUrl": "https://www.marketwatch.com/tools/earnings-calendar"
+    "source": "zacks.com",
+    "sourceUrl": "https://www.zacks.com/earnings/earnings-calendar"
   },
-  "readingTime": 3,
-  "updatedAt": "2026-07-08T03:14:15.671Z",
+  "readingTime": 4,
+  "updatedAt": "2026-08-01T03:18:32.012Z",
   "images": {
     "thumbnail": {
-      "src": "/images/article_thumb_4.jpg",
+      "src": "/images/article_thumb_1.jpg",
       "alt": "Earnings Calendar"
     },
     "hero": {
-      "src": "/images/article_thumb_6.jpg",
+      "src": "/images/article_thumb_5.jpg",
       "alt": "Earnings Calendar"
     },
     "mid": {
-      "src": "/images/article_thumb_4.jpg",
+      "src": "/images/article_thumb_3.jpg",
       "alt": "Earnings Calendar"
     }
   },
   "image": {
-    "src": "/images/article_thumb_1.jpg",
+    "src": "/images/article_thumb_2.jpg",
     "alt": "Earnings Calendar"
   }
 }
