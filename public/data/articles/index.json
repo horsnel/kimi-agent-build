@@ -1,5 +1,47 @@
 [
   {
+    "id": "12-month-percentage-change-consumer-price-index-selected",
+    "type": "news",
+    "title": "12-month percentage change, Consumer Price Index, selected ...",
+    "slug": "12-month-percentage-change-consumer-price-index-selected",
+    "date": "2026-08-01",
+    "displayDate": "August 1, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The 12-month percentage change in the Consumer Price Index for June 2026 was 3.5%, with energy rising 15.7% and fruits and vegetables up 5.3%. The overall index",
+    "excerpt": "The 12-month percentage change in the Consumer Price Index for June 2026 was 3.5%, with energy rising 15.7% and fruits and vegetables up 5.3%. The overall index reflects a modest inflation rate.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "12-month percentage change, Consumer Price Index, selected ..."
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "2026-spring-investment-directions",
+    "type": "news",
+    "title": "2026 Spring Investment Directions",
+    "slug": "2026-spring-investment-directions",
+    "date": "2026-08-01",
+    "displayDate": "August 1, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "In Spring 2026, focus on healthcare, large-cap banks, and resilient strategies. Diversification and downside protection are key, with gold and hedge funds recom",
+    "excerpt": "In Spring 2026, focus on healthcare, large-cap banks, and resilient strategies. Diversification and downside protection are key, with gold and hedge funds recommended. Private markets and specific emerging markets like Brazil and Mexico are favored.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "2026 Spring Investment Directions"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "5-strategies-to-navigate-market-volatility-morgan-stanley",
     "type": "news",
     "title": "5 Strategies to Navigate Market Volatility | Morgan Stanley",
@@ -21,6 +63,27 @@
     "readingTime": 3
   },
   {
+    "id": "ahead-of-wall-street-daily-stock-market-outlook",
+    "type": "news",
+    "title": "Ahead of Wall Street - Daily Stock Market Outlook",
+    "slug": "ahead-of-wall-street-daily-stock-market-outlook",
+    "date": "2026-08-01",
+    "displayDate": "August 1, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Apple reported strong Q3 earnings, but shares fell post-announcement. Analysts favor the Tech sector for growth. Market cap and earnings for U.S. markets are st",
+    "excerpt": "Apple reported strong Q3 earnings, but shares fell post-announcement. Analysts favor the Tech sector for growth. Market cap and earnings for U.S. markets are stable.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Ahead of Wall Street - Daily Stock Market Outlook"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "amazon-apple-both-report-earnings-the-close-7-30-2026",
     "type": "news",
     "title": "Amazon & Apple Both Report Earnings | The Close 7/30/2026",
@@ -40,6 +103,69 @@
       "alt": "Amazon & Apple Both Report Earnings | The Close 7/30/2026"
     },
     "readingTime": 4
+  },
+  {
+    "id": "bitcoin-btc-news-analysis-and-forecast",
+    "type": "news",
+    "title": "Bitcoin (BTC) News, Analysis and Forecast",
+    "slug": "bitcoin-btc-news-analysis-and-forecast",
+    "date": "2026-08-01",
+    "displayDate": "August 1, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin's current price is $64,406.60 USD, with forecasts predicting a rise to $68,617.12 by August 2026. Bitcoin's supply is limited to 21 million coins, with ",
+    "excerpt": "Bitcoin's current price is $64,406.60 USD, with forecasts predicting a rise to $68,617.12 by August 2026. Bitcoin's supply is limited to 21 million coins, with 1.32 million unmined. Binance predicts Bitcoin could reach $82,367.88 in 2032.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Bitcoin (BTC) News, Analysis and Forecast"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "bitcoin-btc-price-usd-today-news-charts-market-cap",
+    "type": "news",
+    "title": "Bitcoin (BTC) Price USD Today, News, Charts, Market Cap",
+    "slug": "bitcoin-btc-price-usd-today-news-charts-market-cap",
+    "date": "2026-08-01",
+    "displayDate": "August 1, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin's price today is $64,192.47, with a market cap of $1.29 trillion. It has a circulating supply of 20.06 million BTC and a maximum supply of 21 million BT",
+    "excerpt": "Bitcoin's price today is $64,192.47, with a market cap of $1.29 trillion. It has a circulating supply of 20.06 million BTC and a maximum supply of 21 million BTC.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Bitcoin (BTC) Price USD Today, News, Charts, Market Cap"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "btcusd-price-quote-forecast-charts-news",
+    "type": "news",
+    "title": "BTCUSD Price: Quote, Forecast, Charts & News",
+    "slug": "btcusd-price-quote-forecast-charts-news",
+    "date": "2026-08-01",
+    "displayDate": "August 1, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin's price is currently around $64,282. It has seen significant volatility, fluctuating between support and resistance levels. The market cap is approximat",
+    "excerpt": "Bitcoin's price is currently around $64,282. It has seen significant volatility, fluctuating between support and resistance levels. The market cap is approximately $1.29 trillion.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "BTCUSD Price: Quote, Forecast, Charts & News"
+    },
+    "readingTime": 3
   },
   {
     "id": "cpi-home-u-s-bureau-of-labor-statistics",
@@ -80,6 +206,48 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "Crypto News: Bitcoin, Ethereum & XRP News | crypto.news"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "divided-fed-leaves-interest-rates-unchanged",
+    "type": "news",
+    "title": "Divided Fed Leaves Interest Rates Unchanged",
+    "slug": "divided-fed-leaves-interest-rates-unchanged",
+    "date": "2026-08-01",
+    "displayDate": "August 1, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Reserve left interest rates unchanged, with a range of 3.5% to 3.75%, despite internal dissent and a hawkish policy statement. Three members voted f",
+    "excerpt": "The Federal Reserve left interest rates unchanged, with a range of 3.5% to 3.75%, despite internal dissent and a hawkish policy statement. Three members voted for a hike. The decision followed Kevin Warsh's first meeting as chair.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Divided Fed Leaves Interest Rates Unchanged"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "earnings-calendar-and-analysis-for-this-week-august-3-7",
+    "type": "news",
+    "title": "Earnings Calendar and Analysis for This Week (August 3-7)",
+    "slug": "earnings-calendar-and-analysis-for-this-week-august-3-7",
+    "date": "2026-08-01",
+    "displayDate": "August 1, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "This week, major earnings reports from McDonald’s, Walt Disney, and several tech firms are expected. The S&P 500 companies have shown strong performance, with 8",
+    "excerpt": "This week, major earnings reports from McDonald’s, Walt Disney, and several tech firms are expected. The S&P 500 companies have shown strong performance, with 85% beating expectations. Key economic data releases are also scheduled for August 7.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Earnings Calendar and Analysis for This Week (August 3-7)"
     },
     "readingTime": 4
   },
@@ -294,6 +462,48 @@
     "readingTime": 4
   },
   {
+    "id": "health-technology-sector-companies-performance-and-stocks-usa-tradingview",
+    "type": "news",
+    "title": "Health Technology Sector: Companies, Performance and Stocks — USA — TradingView",
+    "slug": "health-technology-sector-companies-performance-and-stocks-usa-tradingview",
+    "date": "2026-08-01",
+    "displayDate": "August 1, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The health technology sector includes major pharmaceutical companies, medical specialties, and biotechnology firms. Key players include AbbVie, Merck, and Illum",
+    "excerpt": "The health technology sector includes major pharmaceutical companies, medical specialties, and biotechnology firms. Key players include AbbVie, Merck, and Illumina. The sector's performance shows mixed results with some stocks rising and others falling.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Health Technology Sector: Companies, Performance and Stocks — USA — TradingView"
+    },
+    "readingTime": 5
+  },
+  {
+    "id": "inflation-economic-data-series-fred-st-louis-fed",
+    "type": "news",
+    "title": "Inflation - Economic Data Series | FRED | St. Louis Fed",
+    "slug": "inflation-economic-data-series-fred-st-louis-fed",
+    "date": "2026-08-01",
+    "displayDate": "August 1, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Inflation data includes the Consumer Price Index, Producer Price Index, and GDP deflator from the St. Louis Fed's FRED database. Key metrics cover monthly and a",
+    "excerpt": "Inflation data includes the Consumer Price Index, Producer Price Index, and GDP deflator from the St. Louis Fed's FRED database. Key metrics cover monthly and annual inflation rates. The most recent data is up to June 2026.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Inflation - Economic Data Series | FRED | St. Louis Fed"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "investment-strategies-5-types-how-to-choose-the-right-one-in-2026",
     "type": "news",
     "title": "Investment Strategies: 5 Types & How to Choose the Right One in 2026",
@@ -311,6 +521,48 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "Investment Strategies: 5 Types & How to Choose the Right One in 2026"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "investment-strategy-2026-portfolio-moves-for-a-changing-market",
+    "type": "news",
+    "title": "Investment Strategy 2026 Portfolio Moves for a Changing Market",
+    "slug": "investment-strategy-2026-portfolio-moves-for-a-changing-market",
+    "date": "2026-08-01",
+    "displayDate": "August 1, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "In 2026, focus on rebalancing, diversifying, and adding real assets to strengthen portfolios. Income generation is challenging due to lower rates, while AI-driv",
+    "excerpt": "In 2026, focus on rebalancing, diversifying, and adding real assets to strengthen portfolios. Income generation is challenging due to lower rates, while AI-driven diversification is crucial. Stay invested for long-term goals to build resilience.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Investment Strategy 2026 Portfolio Moves for a Changing Market"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "meta-title-sectors",
+    "type": "news",
+    "title": "META_TITLE_SECTORS",
+    "slug": "meta-title-sectors",
+    "date": "2026-08-01",
+    "displayDate": "August 1, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "A meta title is an HTML element that defines a webpage's title, used by search engines to display it in search results. It's crucial for SEO, as it impacts sear",
+    "excerpt": "A meta title is an HTML element that defines a webpage's title, used by search engines to display it in search results. It's crucial for SEO, as it impacts search rankings and visibility. Meta titles should be concise and include relevant keywords.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "META_TITLE_SECTORS"
     },
     "readingTime": 4
   },
@@ -420,6 +672,27 @@
     "readingTime": 5
   },
   {
+    "id": "six-portfolio-strategy-ideas-for-2026",
+    "type": "news",
+    "title": "Six portfolio strategy ideas for 2026",
+    "slug": "six-portfolio-strategy-ideas-for-2026",
+    "date": "2026-08-01",
+    "displayDate": "August 1, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "For 2026, consider increasing exposure to small caps and emerging markets, diversifying globally, and using fixed income for stability. Focus on resilient secto",
+    "excerpt": "For 2026, consider increasing exposure to small caps and emerging markets, diversifying globally, and using fixed income for stability. Focus on resilient sectors like Financials and Utilities.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Six portfolio strategy ideas for 2026"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "spdr-s-p-500-etf-spy",
     "type": "news",
     "title": "SPDR S&P 500 ETF (SPY)",
@@ -460,6 +733,69 @@
       "alt": "Stocks Hit Record Close Ahead of Busy Earnings Week | The Close 4/27/2026"
     },
     "readingTime": 3
+  },
+  {
+    "id": "tech-news-today-s-latest-technology-news",
+    "type": "news",
+    "title": "Tech News | Today's Latest Technology News",
+    "slug": "tech-news-today-s-latest-technology-news",
+    "date": "2026-08-01",
+    "displayDate": "August 1, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Amazon faces a lawsuit over seafood sustainability claims, while Google withdrew an AI tool due to misinformation risks. Tech giants like Amazon and Reddit repo",
+    "excerpt": "Amazon faces a lawsuit over seafood sustainability claims, while Google withdrew an AI tool due to misinformation risks. Tech giants like Amazon and Reddit report strong growth and financial performance.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Tech News | Today's Latest Technology News"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "techcrunch-startup-and-technology-news",
+    "type": "news",
+    "title": "TechCrunch | Startup and Technology News",
+    "slug": "techcrunch-startup-and-technology-news",
+    "date": "2026-08-01",
+    "displayDate": "August 1, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "TechCrunch is a technology news site focusing on startups and high-tech, founded in 2005 and acquired by AOL in 2010. It hosts TechCrunch Disrupt conferences an",
+    "excerpt": "TechCrunch is a technology news site focusing on startups and high-tech, founded in 2005 and acquired by AOL in 2010. It hosts TechCrunch Disrupt conferences and covers various tech sectors. The site also features Startup Battlefield events.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "TechCrunch | Startup and Technology News"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "technology-news",
+    "type": "news",
+    "title": "Technology News",
+    "slug": "technology-news",
+    "date": "2026-08-01",
+    "displayDate": "August 1, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Amazon's AWS experienced its fastest growth since 2021, driven by AI and chip demand. Snapchat joined other platforms in combating 'AI slop'. Google withdrew it",
+    "excerpt": "Amazon's AWS experienced its fastest growth since 2021, driven by AI and chip demand. Snapchat joined other platforms in combating 'AI slop'. Google withdrew its new Earth AI tool due to misinformation risks.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Technology News"
+    },
+    "readingTime": 4
   },
   {
     "id": "top-investment-strategies-key-approaches-to-maximize-returns",
@@ -504,6 +840,27 @@
     "readingTime": 3
   },
   {
+    "id": "u-s-economic-calendar",
+    "type": "news",
+    "title": "U.S. Economic Calendar",
+    "slug": "u-s-economic-calendar",
+    "date": "2026-08-01",
+    "displayDate": "August 1, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "On August 13, 2026, initial jobless claims and producer price index data will be released. The FOMC interest-rate decision will be announced on July 29. The U.S",
+    "excerpt": "On August 13, 2026, initial jobless claims and producer price index data will be released. The FOMC interest-rate decision will be announced on July 29. The U.S. retail sales report is scheduled for August 14.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "U.S. Economic Calendar"
+    },
+    "readingTime": 6
+  },
+  {
     "id": "united-states-federal-reserve-interest-rate-decision",
     "type": "news",
     "title": "United States Federal Reserve Interest Rate Decision",
@@ -544,6 +901,90 @@
       "alt": "United States Inflation Rate"
     },
     "readingTime": 4
+  },
+  {
+    "id": "wall-street-horizon-earnings-calendar-event-data",
+    "type": "news",
+    "title": "Wall Street Horizon: Earnings Calendar & Event Data",
+    "slug": "wall-street-horizon-earnings-calendar-event-data",
+    "date": "2026-08-01",
+    "displayDate": "August 1, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Wall Street Horizon provides earnings calendar and event data for financial markets. It focuses on key dates and corporate events. The data is essential for inv",
+    "excerpt": "Wall Street Horizon provides earnings calendar and event data for financial markets. It focuses on key dates and corporate events. The data is essential for investors and analysts.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Wall Street Horizon: Earnings Calendar & Event Data"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "weekly-market-recap",
+    "type": "news",
+    "title": "Weekly Market Recap",
+    "slug": "weekly-market-recap",
+    "date": "2026-08-01",
+    "displayDate": "August 1, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "U.S. large-cap equities rose +1.2% last week; international markets fell; tech stocks led the decline.",
+    "excerpt": "U.S. large-cap equities rose +1.2% last week; international markets fell; tech stocks led the decline.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Weekly Market Recap"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "weekly-trader-s-outlook",
+    "type": "news",
+    "title": "Weekly Trader's Outlook",
+    "slug": "weekly-trader-s-outlook",
+    "date": "2026-08-01",
+    "displayDate": "August 1, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Stocks experienced modest weekly losses, driven by rising oil prices and Middle East tensions. Technology sector was hardest hit. Inflation and Treasury yields ",
+    "excerpt": "Stocks experienced modest weekly losses, driven by rising oil prices and Middle East tensions. Technology sector was hardest hit. Inflation and Treasury yields remain concerns.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Weekly Trader's Outlook"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "what-to-look-out-for-in-economic-data-this-week-august-3-7-kiplinger",
+    "type": "news",
+    "title": "What to Look Out for in Economic Data This Week (August 3-7) | Kiplinger",
+    "slug": "what-to-look-out-for-in-economic-data-this-week-august-3-7-kiplinger",
+    "date": "2026-08-01",
+    "displayDate": "August 1, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "This week, focus on the July nonfarm payrolls report and the Federal Reserve's FOMC meeting for key economic insights. Expect updates on employment trends and F",
+    "excerpt": "This week, focus on the July nonfarm payrolls report and the Federal Reserve's FOMC meeting for key economic insights. Expect updates on employment trends and Federal Reserve policy decisions.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "What to Look Out for in Economic Data This Week (August 3-7) | Kiplinger"
+    },
+    "readingTime": 3
   },
   {
     "id": "what-to-look-out-for-in-economic-data-this-week-august-3-7",
@@ -607,27 +1048,6 @@
       "alt": "World Stock Market Indexes by Country | Live Quotes & Historical Data | Trading Economics"
     },
     "readingTime": 5
-  },
-  {
-    "id": "12-month-percentage-change-consumer-price-index-selected",
-    "type": "news",
-    "title": "12-month percentage change, Consumer Price Index, selected ...",
-    "slug": "12-month-percentage-change-consumer-price-index-selected",
-    "date": "2026-07-08",
-    "displayDate": "July 8, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The 12-month percentage change in the Consumer Price Index was highest in November 2021 at 33.3%. The U.S. Bureau of Labor Statistics tracks these changes. The ",
-    "excerpt": "The 12-month percentage change in the Consumer Price Index was highest in November 2021 at 33.3%. The U.S. Bureau of Labor Statistics tracks these changes. The latest data is available on their official website.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "12-month percentage change, Consumer Price Index, selected ..."
-    },
-    "readingTime": 3
   },
   {
     "id": "2026-economic-calendar",
@@ -752,27 +1172,6 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "Biggest Winners And Losers From The Fed's Latest Meeting"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "bitcoin-btc-news-analysis-and-forecast",
-    "type": "news",
-    "title": "Bitcoin (BTC) News, Analysis and Forecast",
-    "slug": "bitcoin-btc-news-analysis-and-forecast",
-    "date": "2026-07-08",
-    "displayDate": "July 8, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Bitcoin (BTC) is currently around $63,000, showing minor gains, and analysts predict potential upward movement. ETF inflows and market expert forecasts support ",
-    "excerpt": "Bitcoin (BTC) is currently around $63,000, showing minor gains, and analysts predict potential upward movement. ETF inflows and market expert forecasts support a bullish outlook. Bitcoin's price remains volatile amid broader market trends.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Bitcoin (BTC) News, Analysis and Forecast"
     },
     "readingTime": 3
   },
@@ -1113,27 +1512,6 @@
     "readingTime": 3
   },
   {
-    "id": "investment-strategy-2026-portfolio-moves-for-a-changing-market",
-    "type": "news",
-    "title": "Investment Strategy 2026 Portfolio Moves for a Changing Market",
-    "slug": "investment-strategy-2026-portfolio-moves-for-a-changing-market",
-    "date": "2026-07-08",
-    "displayDate": "July 8, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "For 2026, consider a balanced portfolio with global diversification, increased exposure to small caps and emerging markets, and strategic use of fixed income an",
-    "excerpt": "For 2026, consider a balanced portfolio with global diversification, increased exposure to small caps and emerging markets, and strategic use of fixed income and alternatives to manage risk. Focus on long-term discipline and avoid short-term market noise. Tax efficiency and cash management are also ",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Investment Strategy 2026 Portfolio Moves for a Changing Market"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "investor-gov-home",
     "type": "news",
     "title": "Investor.gov: Home",
@@ -1235,27 +1613,6 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "Sector Research, News and Performance - Fidelity Investments"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "six-portfolio-strategy-ideas-for-2026",
-    "type": "news",
-    "title": "Six portfolio strategy ideas for 2026",
-    "slug": "six-portfolio-strategy-ideas-for-2026",
-    "date": "2026-07-08",
-    "displayDate": "July 8, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "For 2026, consider high-quality fixed income, real assets for resilience, undervalued equities, and international stocks for diversification. These strategies a",
-    "excerpt": "For 2026, consider high-quality fixed income, real assets for resilience, undervalued equities, and international stocks for diversification. These strategies aim to navigate economic and geopolitical risks.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Six portfolio strategy ideas for 2026"
     },
     "readingTime": 3
   },
@@ -1529,27 +1886,6 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "2026 Outlook: Portfolio-Wide Views"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "ahead-of-wall-street-daily-stock-market-outlook",
-    "type": "news",
-    "title": "Ahead of Wall Street - Daily Stock Market Outlook",
-    "slug": "ahead-of-wall-street-daily-stock-market-outlook",
-    "date": "2026-07-07",
-    "displayDate": "July 7, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The U.S. stock market is up 20% over the last 12 months, led by the Information Technology sector. Private-sector payrolls from ADP posted job gains in June bel",
-    "excerpt": "The U.S. stock market is up 20% over the last 12 months, led by the Information Technology sector. Private-sector payrolls from ADP posted job gains in June below expectations. Zacks provides daily stock market outlook and analyst reports.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Ahead of Wall Street - Daily Stock Market Outlook"
     },
     "readingTime": 3
   },
@@ -2058,27 +2394,6 @@
     "readingTime": 3
   },
   {
-    "id": "inflation-economic-data-series-fred-st-louis-fed",
-    "type": "news",
-    "title": "Inflation - Economic Data Series | FRED | St. Louis Fed",
-    "slug": "inflation-economic-data-series-fred-st-louis-fed",
-    "date": "2026-07-07",
-    "displayDate": "July 7, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Inflation data on FRED includes Consumer Price Index (CPI) and Personal Consumption Expenditures (PCE) series. CPI has 4,901 series, while PCE has 114 series. A",
-    "excerpt": "Inflation data on FRED includes Consumer Price Index (CPI) and Personal Consumption Expenditures (PCE) series. CPI has 4,901 series, while PCE has 114 series. Access detailed economic data from the St. Louis Fed.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Inflation - Economic Data Series | FRED | St. Louis Fed"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "inflation-update-u-s-congress-joint-economic-committee",
     "type": "news",
     "title": "Inflation Update - U.S. Congress Joint Economic Committee",
@@ -2457,27 +2772,6 @@
     "readingTime": 3
   },
   {
-    "id": "technology-news",
-    "type": "news",
-    "title": "Technology News",
-    "slug": "technology-news",
-    "date": "2026-07-07",
-    "displayDate": "July 7, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Amazon plans to raise $25 billion in a bond sale and Google invests in a nuclear fusion startup. Solstice CEO defends its $14.5B acquisition despite stock plung",
-    "excerpt": "Amazon plans to raise $25 billion in a bond sale and Google invests in a nuclear fusion startup. Solstice CEO defends its $14.5B acquisition despite stock plunge. AI's next winners are being sought in the stock market.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Technology News"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "technology-the-new-york-times",
     "type": "news",
     "title": "Technology - The New York Times",
@@ -2789,27 +3083,6 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "Bitcoin (BTC) Price Today | Live Chart"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "bitcoin-btc-price-usd-today-news-charts-market-cap",
-    "type": "news",
-    "title": "Bitcoin (BTC) Price USD Today, News, Charts, Market Cap",
-    "slug": "bitcoin-btc-price-usd-today-news-charts-market-cap",
-    "date": "2026-07-06",
-    "displayDate": "July 6, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Bitcoin's price today is $63,231.99, up 0.62% in the last 24 hours. Its market cap is substantial, with a 24-hour trading volume of $19.7 billion.",
-    "excerpt": "Bitcoin's price today is $63,231.99, up 0.62% in the last 24 hours. Its market cap is substantial, with a 24-hour trading volume of $19.7 billion.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Bitcoin (BTC) Price USD Today, News, Charts, Market Cap"
     },
     "readingTime": 3
   },
@@ -3314,27 +3587,6 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "This Week's Best Performing Stocks, Sectors, Industries Rankings"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "u-s-economic-calendar",
-    "type": "news",
-    "title": "U.S. Economic Calendar",
-    "slug": "u-s-economic-calendar",
-    "date": "2026-07-06",
-    "displayDate": "July 6, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The U.S. Economic Calendar lists upcoming economic events and indicators, including employment data and inflation reports. Key events include ADP employment and",
-    "excerpt": "The U.S. Economic Calendar lists upcoming economic events and indicators, including employment data and inflation reports. Key events include ADP employment and ISM manufacturing. The calendar helps investors track economic trends.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "U.S. Economic Calendar"
     },
     "readingTime": 3
   },
@@ -4301,27 +4553,6 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "Latest Technology News and Reviews - Yahoo Finance"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "meta-title-sectors",
-    "type": "news",
-    "title": "META_TITLE_SECTORS",
-    "slug": "meta-title-sectors",
-    "date": "2026-07-04",
-    "displayDate": "July 4, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The technology sector has a YTD return of -1.67%, while communication services show the highest growth at +3.06%. Financial services and healthcare sectors have",
-    "excerpt": "The technology sector has a YTD return of -1.67%, while communication services show the highest growth at +3.06%. Financial services and healthcare sectors have returns of +1.25% and +0.35%, respectively.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "META_TITLE_SECTORS"
     },
     "readingTime": 3
   },
