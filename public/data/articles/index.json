@@ -21,6 +21,27 @@
     "readingTime": 5
   },
   {
+    "id": "2026-spring-investment-directions",
+    "type": "news",
+    "title": "2026 Spring Investment Directions",
+    "slug": "2026-spring-investment-directions",
+    "date": "2026-08-02",
+    "displayDate": "August 2, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "In Spring 2026, focus on healthcare, large-cap banks, and resilient strategies. Diversification and downside protection are key, with gold and hedge funds recom",
+    "excerpt": "In Spring 2026, focus on healthcare, large-cap banks, and resilient strategies. Diversification and downside protection are key, with gold and hedge funds recommended. Private markets and specific sectors like AT1s are also favored.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "2026 Spring Investment Directions"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "5-strategies-to-navigate-market-volatility",
     "type": "news",
     "title": "5 Strategies to Navigate Market Volatility",
@@ -38,6 +59,48 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "5 Strategies to Navigate Market Volatility"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "ahead-of-wall-street-daily-stock-market-outlook",
+    "type": "news",
+    "title": "Ahead of Wall Street - Daily Stock Market Outlook",
+    "slug": "ahead-of-wall-street-daily-stock-market-outlook",
+    "date": "2026-08-02",
+    "displayDate": "August 2, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Dow, S&P 500, and Nasdaq showed minor gains. Tech sector earnings growth is expected at 22% annually over the next five years. Big Tech stocks face investor",
+    "excerpt": "The Dow, S&P 500, and Nasdaq showed minor gains. Tech sector earnings growth is expected at 22% annually over the next five years. Big Tech stocks face investor impatience over spending.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Ahead of Wall Street - Daily Stock Market Outlook"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "amazon-apple-both-report-earnings-the-close-7-30-2026",
+    "type": "news",
+    "title": "Amazon & Apple Both Report Earnings | The Close 7/30/2026",
+    "slug": "amazon-apple-both-report-earnings-the-close-7-30-2026",
+    "date": "2026-08-02",
+    "displayDate": "August 2, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "On July 30, 2026, Apple and Amazon reported earnings, with both companies exceeding revenue expectations. Apple's revenue grew 16% to $109.4 billion, while Amaz",
+    "excerpt": "On July 30, 2026, Apple and Amazon reported earnings, with both companies exceeding revenue expectations. Apple's revenue grew 16% to $109.4 billion, while Amazon's revenue surged 20% to $200.6 billion. Amazon's earnings grew 245% due to AI investments.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Amazon & Apple Both Report Earnings | The Close 7/30/2026"
     },
     "readingTime": 3
   },
@@ -231,6 +294,27 @@
     "readingTime": 4
   },
   {
+    "id": "crypto-news-bitcoin-ethereum-xrp-news-crypto-news",
+    "type": "news",
+    "title": "Crypto News: Bitcoin, Ethereum & XRP News | crypto.news",
+    "slug": "crypto-news-bitcoin-ethereum-xrp-news-crypto-news",
+    "date": "2026-08-02",
+    "displayDate": "August 2, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin price is $63,393.00, Ethereum price is $1,875.05, and XRP price is $1.08 as of 2026-08-02. BlackRock Bitcoin ETF faces a selloff, while Ethereum and XRP",
+    "excerpt": "Bitcoin price is $63,393.00, Ethereum price is $1,875.05, and XRP price is $1.08 as of 2026-08-02. BlackRock Bitcoin ETF faces a selloff, while Ethereum and XRP have notable developments.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Crypto News: Bitcoin, Ethereum & XRP News | crypto.news"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "earnings-breaking-news-and-press-releases",
     "type": "news",
     "title": "Earnings Breaking News and Press Releases",
@@ -355,6 +439,153 @@
       "alt": "Economic Indicators Calendar | New York Fed"
     },
     "readingTime": 3
+  },
+  {
+    "id": "ethereum-eth-news-analysis-and-forecast",
+    "type": "news",
+    "title": "Ethereum (ETH) News, Analysis and Forecast",
+    "slug": "ethereum-eth-news-analysis-and-forecast",
+    "date": "2026-08-02",
+    "displayDate": "August 2, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Ethereum transitioned to Proof-of-Stake in 2022. Current forecasts predict ETH to reach $1,879.72 by August 9, 2026. Long-term predictions suggest ETH could rea",
+    "excerpt": "Ethereum transitioned to Proof-of-Stake in 2022. Current forecasts predict ETH to reach $1,879.72 by August 9, 2026. Long-term predictions suggest ETH could reach $2,108.46 in 2027.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Ethereum (ETH) News, Analysis and Forecast"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "ethereum-eth-price-usd-today-news-charts-market-cap",
+    "type": "news",
+    "title": "Ethereum (ETH) Price USD Today, News, Charts, Market Cap",
+    "slug": "ethereum-eth-price-usd-today-news-charts-market-cap",
+    "date": "2026-08-02",
+    "displayDate": "August 2, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Ethereum (ETH) price is $1,867.82, with a market cap of $225.4 billion. It has declined by 2.78% in the last 24 hours. The circulating supply is 120.7 million E",
+    "excerpt": "Ethereum (ETH) price is $1,867.82, with a market cap of $225.4 billion. It has declined by 2.78% in the last 24 hours. The circulating supply is 120.7 million ETH.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Ethereum (ETH) Price USD Today, News, Charts, Market Cap"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "eu-countries-european-union",
+    "type": "news",
+    "title": "EU countries | European Union",
+    "slug": "eu-countries-european-union",
+    "date": "2026-08-02",
+    "displayDate": "August 2, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "As of 2026, the European Union comprises 27 countries: Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece,",
+    "excerpt": "As of 2026, the European Union comprises 27 countries: Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Poland, Portugal, Romania, Slovakia, Slovenia, and Spain. The U",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "EU countries | European Union"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "europe",
+    "type": "news",
+    "title": "Europe",
+    "slug": "europe",
+    "date": "2026-08-02",
+    "displayDate": "August 2, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Europe is the second-smallest continent, comprising 47 countries, with a population density second only to Asia. It covers about 2% of Earth's surface and is pa",
+    "excerpt": "Europe is the second-smallest continent, comprising 47 countries, with a population density second only to Asia. It covers about 2% of Earth's surface and is part of the Eurasian landmass. Its boundaries are defined by the Arctic, Atlantic, Mediterranean, Black, and Caspian Seas.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Europe"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "european-union",
+    "type": "news",
+    "title": "European Union",
+    "slug": "european-union",
+    "date": "2026-08-02",
+    "displayDate": "August 2, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The European Union is an international organization of 27 European countries with shared economic, social, and security policies. It has seven main institutions",
+    "excerpt": "The European Union is an international organization of 27 European countries with shared economic, social, and security policies. It has seven main institutions: the European Parliament, the Council of the European Union, and the European Commission. The EU was founded in 1992 with the Maastricht Tr",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "European Union"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "fed-announces-monetary-policy-meeting-scheduled-for-2025-2026",
+    "type": "news",
+    "title": "Fed announces monetary policy meeting scheduled for 2025, 2026",
+    "slug": "fed-announces-monetary-policy-meeting-scheduled-for-2025-2026",
+    "date": "2026-08-02",
+    "displayDate": "August 2, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Reserve announced its tentative meeting schedule for 2025 and 2026. The next FOMC meeting is scheduled for April 28–29, 2026. The Fed's decision wil",
+    "excerpt": "The Federal Reserve announced its tentative meeting schedule for 2025 and 2026. The next FOMC meeting is scheduled for April 28–29, 2026. The Fed's decision will be announced at 6:00 PM GMT.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Fed announces monetary policy meeting scheduled for 2025, 2026"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "fed-chair-powell-announces-rate-cut-at-december-2025-fomc-meeting-signaling-shif",
+    "type": "news",
+    "title": "Fed Chair Powell Announces Rate Cut at December 2025 FOMC Meeting, Signaling Shift in Monetary Policy | Roic News",
+    "slug": "fed-chair-powell-announces-rate-cut-at-december-2025-fomc-meeting-signaling-shif",
+    "date": "2026-08-02",
+    "displayDate": "August 2, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "In December 2025, the Federal Reserve cut its interest rate by 25 basis points, marking its third consecutive reduction. Fed Chair Jerome Powell indicated the d",
+    "excerpt": "In December 2025, the Federal Reserve cut its interest rate by 25 basis points, marking its third consecutive reduction. Fed Chair Jerome Powell indicated the decision was part of a shift in monetary policy. The rate now targets a range of 3.5% to 3.75%.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Fed Chair Powell Announces Rate Cut at December 2025 FOMC Meeting, Signaling Shift in Monetary Policy | Roic News"
+    },
+    "readingTime": 4
   },
   {
     "id": "fed-holds-interest-rates-steady-after-cliffhanger-meeting-but-three",
@@ -567,6 +798,48 @@
     "readingTime": 4
   },
   {
+    "id": "investment-strategy-2026-portfolio-moves-for-a-changing-market",
+    "type": "news",
+    "title": "Investment Strategy 2026 Portfolio Moves for a Changing Market",
+    "slug": "investment-strategy-2026-portfolio-moves-for-a-changing-market",
+    "date": "2026-08-02",
+    "displayDate": "August 2, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "For 2026, focus on generating income and diversifying portfolios, especially with AI-driven assets, while maintaining resilience against market volatility. Prio",
+    "excerpt": "For 2026, focus on generating income and diversifying portfolios, especially with AI-driven assets, while maintaining resilience against market volatility. Prioritize cash-flow-generative assets and idiosyncratic opportunities. Stay invested for long-term goals.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Investment Strategy 2026 Portfolio Moves for a Changing Market"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "marketwatch-stock-market-news-financial-news-marketwatch",
+    "type": "news",
+    "title": "MarketWatch: Stock Market News - Financial News - MarketWatch",
+    "slug": "marketwatch-stock-market-news-financial-news-marketwatch",
+    "date": "2026-08-02",
+    "displayDate": "August 2, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The S&P 500 is adding a little-known industrial stock, and Big Oil profited from a historic supply crunch. Micron's stock dropped after Tim Cook expressed a des",
+    "excerpt": "The S&P 500 is adding a little-known industrial stock, and Big Oil profited from a historic supply crunch. Micron's stock dropped after Tim Cook expressed a desire for more memory suppliers. Corporate insiders are warning about the stock market.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "MarketWatch: Stock Market News - Financial News - MarketWatch"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "outlook-at-risk-real-gdp-growth-unemployment-and",
     "type": "news",
     "title": "Outlook-at-Risk: Real GDP Growth, Unemployment, and ...",
@@ -672,6 +945,27 @@
     "readingTime": 3
   },
   {
+    "id": "six-portfolio-strategy-ideas-for-2026",
+    "type": "news",
+    "title": "Six portfolio strategy ideas for 2026",
+    "slug": "six-portfolio-strategy-ideas-for-2026",
+    "date": "2026-08-02",
+    "displayDate": "August 2, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "For 2026, consider increasing exposure to small caps and emerging markets, diversifying equities globally, and using fixed income for stability. Also, deploy ex",
+    "excerpt": "For 2026, consider increasing exposure to small caps and emerging markets, diversifying equities globally, and using fixed income for stability. Also, deploy excess cash and explore alternatives for qualified investors.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Six portfolio strategy ideas for 2026"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "tech-news-today-s-latest-technology-news",
     "type": "news",
     "title": "Tech News | Today's Latest Technology News",
@@ -710,6 +1004,27 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "Technology News"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "the-fed-and-monetary-policy-in-2025-hastie-financial-group",
+    "type": "news",
+    "title": "The Fed and Monetary Policy in 2025 | Hastie Financial Group",
+    "slug": "the-fed-and-monetary-policy-in-2025-hastie-financial-group",
+    "date": "2026-08-02",
+    "displayDate": "August 2, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "In 2025, the Federal Reserve anticipated rate cuts due to declining inflation and stable unemployment. The Fed's monetary policy aimed to balance inflation cont",
+    "excerpt": "In 2025, the Federal Reserve anticipated rate cuts due to declining inflation and stable unemployment. The Fed's monetary policy aimed to balance inflation control and maximum employment. Financial market forecasts predicted a federal funds rate decline to 3.9% by year-end 2025.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "The Fed and Monetary Policy in 2025 | Hastie Financial Group"
     },
     "readingTime": 4
   },
@@ -775,6 +1090,27 @@
       "alt": "United States Consumer Price Index (CPI) YoY"
     },
     "readingTime": 3
+  },
+  {
+    "id": "united-states-economic-indicators-moody-s-analytics",
+    "type": "news",
+    "title": "United States | Economic Indicators | Moody's Analytics",
+    "slug": "united-states-economic-indicators-moody-s-analytics",
+    "date": "2026-08-02",
+    "displayDate": "August 2, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Moody's Analytics reports the U.S. Treasury Bills at 3.77% and the lending rate at 3.63% for July 2026. The stock market index is projected at 52,747 for the sa",
+    "excerpt": "Moody's Analytics reports the U.S. Treasury Bills at 3.77% and the lending rate at 3.63% for July 2026. The stock market index is projected at 52,747 for the same month. The government budget balance is -$120,305 for June 2026.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "United States | Economic Indicators | Moody's Analytics"
+    },
+    "readingTime": 5
   },
   {
     "id": "united-states-federal-reserve-interest-rate-decision",
@@ -880,6 +1216,27 @@
       "alt": "Warsh says Fed won't hesitate to stop inflation, but bond market has doubts"
     },
     "readingTime": 4
+  },
+  {
+    "id": "weekly-trader-s-stock-market-outlook",
+    "type": "news",
+    "title": "Weekly Trader's Stock Market Outlook",
+    "slug": "weekly-trader-s-stock-market-outlook",
+    "date": "2026-08-02",
+    "displayDate": "August 2, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The stock market outlook for the week was cautious due to rising oil prices and U.S.-Iran tensions, with the Nasdaq Composite being the worst performer. Economi",
+    "excerpt": "The stock market outlook for the week was cautious due to rising oil prices and U.S.-Iran tensions, with the Nasdaq Composite being the worst performer. Economic indicators and inflation concerns are influencing market volatility. The Federal Reserve kept interest rates unchanged.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Weekly Trader's Stock Market Outlook"
+    },
+    "readingTime": 3
   },
   {
     "id": "what-to-look-out-for-in-economic-data-this-week-august-3-7",
@@ -1008,27 +1365,6 @@
     "readingTime": 3
   },
   {
-    "id": "2026-spring-investment-directions",
-    "type": "news",
-    "title": "2026 Spring Investment Directions",
-    "slug": "2026-spring-investment-directions",
-    "date": "2026-08-01",
-    "displayDate": "August 1, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "In Spring 2026, focus on healthcare, large-cap banks, and resilient strategies. Diversification and downside protection are key, with gold and hedge funds recom",
-    "excerpt": "In Spring 2026, focus on healthcare, large-cap banks, and resilient strategies. Diversification and downside protection are key, with gold and hedge funds recommended. Private markets and specific emerging markets like Brazil and Mexico are favored.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "2026 Spring Investment Directions"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "5-strategies-to-navigate-market-volatility-morgan-stanley",
     "type": "news",
     "title": "5 Strategies to Navigate Market Volatility | Morgan Stanley",
@@ -1048,48 +1384,6 @@
       "alt": "5 Strategies to Navigate Market Volatility | Morgan Stanley"
     },
     "readingTime": 3
-  },
-  {
-    "id": "ahead-of-wall-street-daily-stock-market-outlook",
-    "type": "news",
-    "title": "Ahead of Wall Street - Daily Stock Market Outlook",
-    "slug": "ahead-of-wall-street-daily-stock-market-outlook",
-    "date": "2026-08-01",
-    "displayDate": "August 1, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Apple reported strong Q3 earnings, but shares fell post-announcement. Analysts favor the Tech sector for growth. Market cap and earnings for U.S. markets are st",
-    "excerpt": "Apple reported strong Q3 earnings, but shares fell post-announcement. Analysts favor the Tech sector for growth. Market cap and earnings for U.S. markets are stable.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Ahead of Wall Street - Daily Stock Market Outlook"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "amazon-apple-both-report-earnings-the-close-7-30-2026",
-    "type": "news",
-    "title": "Amazon & Apple Both Report Earnings | The Close 7/30/2026",
-    "slug": "amazon-apple-both-report-earnings-the-close-7-30-2026",
-    "date": "2026-08-01",
-    "displayDate": "August 1, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "On July 30, 2026, both Apple and Amazon reported earnings that exceeded expectations, with Apple's revenue and profit significantly surpassing estimates. Amazon",
-    "excerpt": "On July 30, 2026, both Apple and Amazon reported earnings that exceeded expectations, with Apple's revenue and profit significantly surpassing estimates. Amazon's capital expenditures increased substantially, while Apple's stock saw a minor decline post-earnings.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Amazon & Apple Both Report Earnings | The Close 7/30/2026"
-    },
-    "readingTime": 4
   },
   {
     "id": "asia-market-data",
@@ -1153,27 +1447,6 @@
       "alt": "BTCUSD Price: Quote, Forecast, Charts & News"
     },
     "readingTime": 3
-  },
-  {
-    "id": "crypto-news-bitcoin-ethereum-xrp-news-crypto-news",
-    "type": "news",
-    "title": "Crypto News: Bitcoin, Ethereum & XRP News | crypto.news",
-    "slug": "crypto-news-bitcoin-ethereum-xrp-news-crypto-news",
-    "date": "2026-08-01",
-    "displayDate": "August 1, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Bitcoin and Ethereum prices have risen, while XRP and Dogecoin also saw gains. Analysts suggest not to fear Bitcoin dropping to $60,000. Current prices show Bit",
-    "excerpt": "Bitcoin and Ethereum prices have risen, while XRP and Dogecoin also saw gains. Analysts suggest not to fear Bitcoin dropping to $60,000. Current prices show Bitcoin at $65,112.78, Ethereum at $1,929.21, and XRP at $1.08.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Crypto News: Bitcoin, Ethereum & XRP News | crypto.news"
-    },
-    "readingTime": 4
   },
   {
     "id": "divided-fed-leaves-interest-rates-unchanged",
@@ -1256,48 +1529,6 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "Economy Statement for the Treasury Borrowing Advisory Committee"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "ethereum-eth-news-analysis-and-forecast",
-    "type": "news",
-    "title": "Ethereum (ETH) News, Analysis and Forecast",
-    "slug": "ethereum-eth-news-analysis-and-forecast",
-    "date": "2026-08-01",
-    "displayDate": "August 1, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Ethereum transitioned to Proof-of-Stake in 2022; current forecasts predict a potential price increase to $1,911.56 in the next 30 days. Institutional adoption c",
-    "excerpt": "Ethereum transitioned to Proof-of-Stake in 2022; current forecasts predict a potential price increase to $1,911.56 in the next 30 days. Institutional adoption continues, while market sentiment remains mixed.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Ethereum (ETH) News, Analysis and Forecast"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "ethereum-eth-price-usd-today-news-charts-market-cap",
-    "type": "news",
-    "title": "Ethereum (ETH) Price USD Today, News, Charts, Market Cap",
-    "slug": "ethereum-eth-price-usd-today-news-charts-market-cap",
-    "date": "2026-08-01",
-    "displayDate": "August 1, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Ethereum (ETH) price is $1,867.82, market cap is $225.4B, and it's down 2.78% in the last 24 hours.",
-    "excerpt": "Ethereum (ETH) price is $1,867.82, market cap is $225.4B, and it's down 2.78% in the last 24 hours.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Ethereum (ETH) Price USD Today, News, Charts, Market Cap"
     },
     "readingTime": 4
   },
@@ -1491,27 +1722,6 @@
     "readingTime": 4
   },
   {
-    "id": "investment-strategy-2026-portfolio-moves-for-a-changing-market",
-    "type": "news",
-    "title": "Investment Strategy 2026 Portfolio Moves for a Changing Market",
-    "slug": "investment-strategy-2026-portfolio-moves-for-a-changing-market",
-    "date": "2026-08-01",
-    "displayDate": "August 1, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "In 2026, focus on rebalancing, diversifying, and adding real assets to strengthen portfolios. Income generation is challenging due to lower rates, while AI-driv",
-    "excerpt": "In 2026, focus on rebalancing, diversifying, and adding real assets to strengthen portfolios. Income generation is challenging due to lower rates, while AI-driven diversification is crucial. Stay invested for long-term goals to build resilience.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Investment Strategy 2026 Portfolio Moves for a Changing Market"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "latest-technology-news-and-reviews",
     "type": "news",
     "title": "Latest Technology News and Reviews",
@@ -1680,27 +1890,6 @@
     "readingTime": 5
   },
   {
-    "id": "six-portfolio-strategy-ideas-for-2026",
-    "type": "news",
-    "title": "Six portfolio strategy ideas for 2026",
-    "slug": "six-portfolio-strategy-ideas-for-2026",
-    "date": "2026-08-01",
-    "displayDate": "August 1, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "For 2026, consider increasing exposure to small caps and emerging markets, diversifying globally, and using fixed income for stability. Focus on resilient secto",
-    "excerpt": "For 2026, consider increasing exposure to small caps and emerging markets, diversifying globally, and using fixed income for stability. Focus on resilient sectors like Financials and Utilities.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Six portfolio strategy ideas for 2026"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "spdr-s-p-500-etf-spy",
     "type": "news",
     "title": "SPDR S&P 500 ETF (SPY)",
@@ -1804,27 +1993,6 @@
       "alt": "U.S. Economic Calendar"
     },
     "readingTime": 6
-  },
-  {
-    "id": "united-states-economic-indicators-moody-s-analytics",
-    "type": "news",
-    "title": "United States | Economic Indicators | Moody's Analytics",
-    "slug": "united-states-economic-indicators-moody-s-analytics",
-    "date": "2026-08-01",
-    "displayDate": "August 1, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The U.S. economic indicators show a Treasury Bills rate of 3.77% and a Retail Sales Miscellaneous Store Retailers MoM decline of -0.3% in June 2026. Personal In",
-    "excerpt": "The U.S. economic indicators show a Treasury Bills rate of 3.77% and a Retail Sales Miscellaneous Store Retailers MoM decline of -0.3% in June 2026. Personal Income grew by 0.2% in June 2026. Moody's Analytics provides comprehensive economic forecasts for U.S. states and metro areas.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "United States | Economic Indicators | Moody's Analytics"
-    },
-    "readingTime": 5
   },
   {
     "id": "weekly-market-recap",
