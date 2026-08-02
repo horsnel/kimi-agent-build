@@ -1,0 +1,52 @@
+{
+  "id": "outlook-at-risk-real-gdp-growth-unemployment-and",
+  "type": "news",
+  "title": "Outlook-at-Risk: Real GDP Growth, Unemployment, and ...",
+  "slug": "outlook-at-risk-real-gdp-growth-unemployment-and",
+  "date": "2026-08-02",
+  "displayDate": "August 2, 2026",
+  "author": "Sigma Capital",
+  "category": "Economic Data",
+  "tags": [
+    "economic data",
+    "financial news",
+    "market update"
+  ],
+  "metaDescription": "Real GDP growth and unemployment risks are quantified by the Outlook-at-Risk model, which estimates future economic conditions based on financial conditions. Th",
+  "excerpt": "Real GDP growth and unemployment risks are quantified by the Outlook-at-Risk model, which estimates future economic conditions based on financial conditions. The model forecasts real GDP growth and unemployment rates over the next four quarters. As of 2026, forecasts predict real GDP growth at 1.8%,",
+  "content": {
+    "introduction": "Real GDP growth and unemployment risks are quantified by the Outlook-at-Risk model, which estimates future economic conditions based on financial conditions. The model forecasts real GDP growth and unemployment rates over the next four quarters. As of 2026, forecasts predict real GDP growth at 1.8%, unemployment at 4.8%, and inflation at 2%.",
+    "body": [
+      "Outlook-at-Risk provides an objective way of quantifying the risks around future real GDP growth, the unemployment rate, and inflation by capturing how such risks evolve as financial conditions ease or tighten. [...] For real GDP growth and CPI inflation, Outlook-at-Risk considers risks around the average quarterly growth rate over the next four quarters; however, for the unemployment rate it considers risks around the quarterly average in four quarters’ time. Why the difference? The time series of real GDP growth and CPI inflation are subject to considerable quarter-to-quarter transitory variability that can be “smoothed out” by taking averages over multiple quarters. In contrast, the unemployment rate has [...] In the spirit of this work, Outlook-at-Risk follows a similar methodological approach and estimates the conditional distribution of future real gross domestic product (GDP) growth, the unemployment rate, and consumer price index (CPI) inflation based on contemporaneous financial conditions for each month since January 1989.",
+      "The Federal Open Market Committee (FOMC) has increased the target range for the federal funds rate by 4.50 percentage points since March 16, 2022. In tightening the stance of monetary policy, the FOMC balances the risk of inflation remaining persistently high if the economy continues to run “hot” against the risk of unemployment rising as the economy cools. In this post, we review a quantitative approach to measuring the evolution of risks to real GDP growth, the unemployment rate, and [...] rate, and inflation that is inspired by our previous work on “Vulnerable Growth.” We find that, in February, downside risks to real GDP growth and upside risks to unemployment moderated slightly, and upside risks to inflation continued to decline. [...] risk.” The chart below shows the estimated distribution of average real GDP growth over the next four quarters as of November 2008, right before the Federal Reserve first undertook large-scale asset purchases, conditional on the information available at the time. The shaded area represents the probability that average real GDP growth over the next four quarters is below -9.9 percent, which, in November 2008, was assessed to be 10 percent. Thus, -9.9 percent is the 10th percent quantile (or",
+      "The Indiana Business Research Center forecasts real GDP to grow at 1.8% in 2026, with unemployment rising to 4.8% and inflation continuing its trajectory to 2%, albeit slowly. This forecast reflects an economy that has proven more resilient than many gave it credit for, but an economy fragile enough to warrant careful attention to potential inflection points.\n\n## When two wrongs can make a right"
+    ],
+    "keyTakeaways": [
+      "Real GDP growth and unemployment risks are quantified by the Outlook-at-Risk model, which estimates future economic cond",
+      "Outlook-at-Risk provides an objective way of quantifying the risks around future real GDP growth, the unemployment rate,",
+      "The Federal Open Market Committee (FOMC) has increased the target range for the federal funds rate by 4.50 percentage po"
+    ],
+    "source": "newyorkfed.org",
+    "sourceUrl": "https://www.newyorkfed.org/research/policy/outlook-at-risk"
+  },
+  "readingTime": 3,
+  "updatedAt": "2026-08-02T03:18:45.119Z",
+  "images": {
+    "thumbnail": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Outlook-at-Risk: Real GDP Growth, Unemployment, and ..."
+    },
+    "hero": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Outlook-at-Risk: Real GDP Growth, Unemployment, and ..."
+    },
+    "mid": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Outlook-at-Risk: Real GDP Growth, Unemployment, and ..."
+    }
+  },
+  "image": {
+    "src": "/images/article_thumb_6.jpg",
+    "alt": "Outlook-at-Risk: Real GDP Growth, Unemployment, and ..."
+  }
+}
