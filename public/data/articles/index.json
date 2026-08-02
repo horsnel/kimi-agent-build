@@ -1,5 +1,26 @@
 [
   {
+    "id": "12-month-percentage-change-consumer-price-index-selected",
+    "type": "news",
+    "title": "12-month percentage change, Consumer Price Index, selected ...",
+    "slug": "12-month-percentage-change-consumer-price-index-selected",
+    "date": "2026-08-02",
+    "displayDate": "August 2, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The 12-month percentage change in the Consumer Price Index for June 2026 was 3.5%, with energy showing a 15.7% increase. The most significant decreases were in ",
+    "excerpt": "The 12-month percentage change in the Consumer Price Index for June 2026 was 3.5%, with energy showing a 15.7% increase. The most significant decreases were in fruits and vegetables, down 13.8%. The annual inflation rate for June 2026 was 3.5%.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "12-month percentage change, Consumer Price Index, selected ..."
+    },
+    "readingTime": 5
+  },
+  {
     "id": "5-strategies-to-navigate-market-volatility",
     "type": "news",
     "title": "5 Strategies to Navigate Market Volatility",
@@ -17,6 +38,69 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "5 Strategies to Navigate Market Volatility"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "asia-stock-markets",
+    "type": "news",
+    "title": "Asia Stock Markets",
+    "slug": "asia-stock-markets",
+    "date": "2026-08-02",
+    "displayDate": "August 2, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Asia stock markets showed significant gains, with the Nikkei 225 rising 4.03% and the Hang Seng Index up 0.10%. Key tech stocks like SK hynix and Samsung Electr",
+    "excerpt": "Asia stock markets showed significant gains, with the Nikkei 225 rising 4.03% and the Hang Seng Index up 0.10%. Key tech stocks like SK hynix and Samsung Electronics also saw substantial increases. Some sectors experienced declines, such as pharmaceuticals and consumer electronics.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Asia Stock Markets"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "asian-financial-markets",
+    "type": "news",
+    "title": "Asian Financial Markets",
+    "slug": "asian-financial-markets",
+    "date": "2026-08-02",
+    "displayDate": "August 2, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Nikkei 225 and Hang Seng Index are leading Asian financial markets, with the Nikkei up 4.03% and Hang Seng up 0.10% on 2026-08-02. Top gainers include Ibide",
+    "excerpt": "The Nikkei 225 and Hang Seng Index are leading Asian financial markets, with the Nikkei up 4.03% and Hang Seng up 0.10% on 2026-08-02. Top gainers include Ibiden Co Ltd and Panasonic. Top losers include NTT Inc and SoftBank Corp.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Asian Financial Markets"
+    },
+    "readingTime": 5
+  },
+  {
+    "id": "asian-stock-market-capital-markets-news-bond-market-news-commodities-news-etfs-n",
+    "type": "news",
+    "title": "Asian Stock Market: Capital Markets News, Bond Market News, Commodities News, ETFs News",
+    "slug": "asian-stock-market-capital-markets-news-bond-market-news-commodities-news-etfs-n",
+    "date": "2026-08-02",
+    "displayDate": "August 2, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Asian stock market includes news on capital markets, bond markets, commodities, and ETFs. Key indices like Nikkei and Hang Seng are tracked. Recent news inc",
+    "excerpt": "The Asian stock market includes news on capital markets, bond markets, commodities, and ETFs. Key indices like Nikkei and Hang Seng are tracked. Recent news includes fines on AliExpress and discussions on global AI regulation.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Asian Stock Market: Capital Markets News, Bond Market News, Commodities News, ETFs News"
     },
     "readingTime": 3
   },
@@ -40,6 +124,27 @@
       "alt": "Bitcoin (BTC) Price USD Today, News, Charts, Market Cap"
     },
     "readingTime": 3
+  },
+  {
+    "id": "bitcoin-price-analysis-today-btc-holds-74k-as-fomc-meeting-sparks-crypto-market-",
+    "type": "news",
+    "title": "Bitcoin Price Analysis Today: BTC Holds $74K as FOMC Meeting Sparks Crypto Market Volatility — March 18, 2026 - BitRss - Crypto World News",
+    "slug": "bitcoin-price-analysis-today-btc-holds-74k-as-fomc-meeting-sparks-crypto-market-",
+    "date": "2026-08-02",
+    "displayDate": "August 2, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin price held around $74K, with market volatility due to the upcoming FOMC meeting. Bitcoin dropped 5% post-FOMC, while Solana was noted as a potential buy",
+    "excerpt": "Bitcoin price held around $74K, with market volatility due to the upcoming FOMC meeting. Bitcoin dropped 5% post-FOMC, while Solana was noted as a potential buy at $89.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Bitcoin Price Analysis Today: BTC Holds $74K as FOMC Meeting Sparks Crypto Market Volatility — March 18, 2026 - BitRss - Crypto World News"
+    },
+    "readingTime": 5
   },
   {
     "id": "bitcoin-price-today-live-btc-price-chart-market-data",
@@ -168,6 +273,48 @@
     "readingTime": 3
   },
   {
+    "id": "earnings-calendar-and-analysis-for-this-week-august-3-7",
+    "type": "news",
+    "title": "Earnings Calendar and Analysis for This Week (August 3-7)",
+    "slug": "earnings-calendar-and-analysis-for-this-week-august-3-7",
+    "date": "2026-08-02",
+    "displayDate": "August 2, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "This week's earnings include major companies like Alphabet, Tesla, and Microsoft. Alphabet and Tesla reported negative reactions post-earnings. Microsoft, Meta ",
+    "excerpt": "This week's earnings include major companies like Alphabet, Tesla, and Microsoft. Alphabet and Tesla reported negative reactions post-earnings. Microsoft, Meta Platforms, Apple, and Amazon are next to report.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Earnings Calendar and Analysis for This Week (August 3-7)"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "earnings-calendar",
+    "type": "news",
+    "title": "Earnings Calendar",
+    "slug": "earnings-calendar",
+    "date": "2026-08-02",
+    "displayDate": "August 2, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "An earnings calendar tracks upcoming and past earnings reports for publicly traded companies, helping investors compare expected and actual results. It's a key ",
+    "excerpt": "An earnings calendar tracks upcoming and past earnings reports for publicly traded companies, helping investors compare expected and actual results. It's a key tool for financial analysis and planning. Most companies report quarterly.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Earnings Calendar"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "earnings",
     "type": "news",
     "title": "Earnings",
@@ -229,6 +376,69 @@
       "alt": "Fed holds interest rates steady after cliffhanger meeting, but three ..."
     },
     "readingTime": 4
+  },
+  {
+    "id": "federal-open-market-committee",
+    "type": "news",
+    "title": "Federal Open Market Committee",
+    "slug": "federal-open-market-committee",
+    "date": "2026-08-02",
+    "displayDate": "August 2, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Open Market Committee (FOMC) is the Federal Reserve's main monetary policy body, meeting eight times a year. It consists of twelve members, includin",
+    "excerpt": "The Federal Open Market Committee (FOMC) is the Federal Reserve's main monetary policy body, meeting eight times a year. It consists of twelve members, including the Board of Governors and selected Reserve Bank presidents. The FOMC sets U.S. monetary policy.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Federal Open Market Committee"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "federal-reserve-board-monetary-policy",
+    "type": "news",
+    "title": "Federal Reserve Board - Monetary Policy",
+    "slug": "federal-reserve-board-monetary-policy",
+    "date": "2026-08-02",
+    "displayDate": "August 2, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Reserve's monetary policy aims for maximum employment and price stability, primarily using the federal funds rate and tools like quantitative easing",
+    "excerpt": "The Federal Reserve's monetary policy aims for maximum employment and price stability, primarily using the federal funds rate and tools like quantitative easing. The Federal Open Market Committee sets policy, involving the Board of Governors and regional bank presidents. The Fed reviews its strategy",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Federal Reserve Board - Monetary Policy"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "geekwire-breaking-news-in-technology-business",
+    "type": "news",
+    "title": "GeekWire – Breaking News in Technology & Business",
+    "slug": "geekwire-breaking-news-in-technology-business",
+    "date": "2026-08-02",
+    "displayDate": "August 2, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Microsoft launched \"Project Perception\" and a new AI model. General Fusion made a historic Nasdaq debut. Microsoft's carbon emissions increased by 25%.",
+    "excerpt": "Microsoft launched \"Project Perception\" and a new AI model. General Fusion made a historic Nasdaq debut. Microsoft's carbon emissions increased by 25%.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "GeekWire – Breaking News in Technology & Business"
+    },
+    "readingTime": 3
   },
   {
     "id": "global-market-indices-international-markets-markets-insider",
@@ -311,6 +521,27 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "Health Technology Sector: Companies, Performance and Stocks — USA — TradingView"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "inflation-economic-data-series-fred-st-louis-fed",
+    "type": "news",
+    "title": "Inflation - Economic Data Series | FRED | St. Louis Fed",
+    "slug": "inflation-economic-data-series-fred-st-louis-fed",
+    "date": "2026-08-02",
+    "displayDate": "August 2, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Inflation is measured by the Consumer Price Index (CPI) and other indices; recent U.S. annual inflation was 2.9% in 2024. The Federal Reserve tracks these data ",
+    "excerpt": "Inflation is measured by the Consumer Price Index (CPI) and other indices; recent U.S. annual inflation was 2.9% in 2024. The Federal Reserve tracks these data to manage economic policy.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Inflation - Economic Data Series | FRED | St. Louis Fed"
     },
     "readingTime": 4
   },
@@ -441,6 +672,48 @@
     "readingTime": 3
   },
   {
+    "id": "tech-news-today-s-latest-technology-news",
+    "type": "news",
+    "title": "Tech News | Today's Latest Technology News",
+    "slug": "tech-news-today-s-latest-technology-news",
+    "date": "2026-08-02",
+    "displayDate": "August 2, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Today's tech news includes Amazon facing a lawsuit over sustainability claims, FTC approving IonQ's acquisition, and Meta's stock dropping amid AI competition. ",
+    "excerpt": "Today's tech news includes Amazon facing a lawsuit over sustainability claims, FTC approving IonQ's acquisition, and Meta's stock dropping amid AI competition. For more details, visit the respective news outlets.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Tech News | Today's Latest Technology News"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "technology-news",
+    "type": "news",
+    "title": "Technology News",
+    "slug": "technology-news",
+    "date": "2026-08-02",
+    "displayDate": "August 2, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Amazon faces a lawsuit over seafood sustainability claims, while Microsoft's Xbox chief plans to surpass rivals by 2030. Google's Anthropic secures $15B for a d",
+    "excerpt": "Amazon faces a lawsuit over seafood sustainability claims, while Microsoft's Xbox chief plans to surpass rivals by 2030. Google's Anthropic secures $15B for a data center, and Apple's services growth is impacted by gaming slowdown.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Technology News"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "top-investment-strategies-key-approaches-to-maximize-returns",
     "type": "news",
     "title": "Top Investment Strategies: Key Approaches to Maximize Returns",
@@ -483,6 +756,27 @@
     "readingTime": 3
   },
   {
+    "id": "united-states-consumer-price-index-cpi-yoy",
+    "type": "news",
+    "title": "United States Consumer Price Index (CPI) YoY",
+    "slug": "united-states-consumer-price-index-cpi-yoy",
+    "date": "2026-08-02",
+    "displayDate": "August 2, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The United States Consumer Price Index (CPI) YoY was 3.50% in June 2026, down from 4.20% in May and 2.70% in June 2025. It is below the long-term average of 3.5",
+    "excerpt": "The United States Consumer Price Index (CPI) YoY was 3.50% in June 2026, down from 4.20% in May and 2.70% in June 2025. It is below the long-term average of 3.52%. The CPI measures inflation trends.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "United States Consumer Price Index (CPI) YoY"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "united-states-federal-reserve-interest-rate-decision",
     "type": "news",
     "title": "United States Federal Reserve Interest Rate Decision",
@@ -500,6 +794,27 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "United States Federal Reserve Interest Rate Decision"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "united-states-indicators",
+    "type": "news",
+    "title": "United States Indicators",
+    "slug": "united-states-indicators",
+    "date": "2026-08-02",
+    "displayDate": "August 2, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The U.S. economy saw a 0.2% increase in the Coincident Economic Index in June 2026, with notable indicators including payroll employment and industrial producti",
+    "excerpt": "The U.S. economy saw a 0.2% increase in the Coincident Economic Index in June 2026, with notable indicators including payroll employment and industrial production. GDP growth rate was 1.5% in June 2026. The unemployment rate was 4.2% in June 2026.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "United States Indicators"
     },
     "readingTime": 4
   },
@@ -588,6 +903,69 @@
     "readingTime": 5
   },
   {
+    "id": "when-is-the-next-fomc-meeting",
+    "type": "news",
+    "title": "When is the next FOMC meeting?",
+    "slug": "when-is-the-next-fomc-meeting",
+    "date": "2026-08-02",
+    "displayDate": "August 2, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The next FOMC meeting is scheduled for April 28–29, 2026. The FOMC meets eight times a year. The Federal Reserve's decisions impact interest rates and economic ",
+    "excerpt": "The next FOMC meeting is scheduled for April 28–29, 2026. The FOMC meets eight times a year. The Federal Reserve's decisions impact interest rates and economic growth.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "When is the next FOMC meeting?"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "why-are-bitcoin-price-and-crypto-market-down-today-captainaltcoin",
+    "type": "news",
+    "title": "Why Are Bitcoin Price and Crypto Market Down Today? - CaptainAltcoin",
+    "slug": "why-are-bitcoin-price-and-crypto-market-down-today-captainaltcoin",
+    "date": "2026-08-02",
+    "displayDate": "August 2, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin and the crypto market are down due to forced liquidations, leverage reduction, and mixed institutional flows. The Bitcoin price fell below $63,000, impa",
+    "excerpt": "Bitcoin and the crypto market are down due to forced liquidations, leverage reduction, and mixed institutional flows. The Bitcoin price fell below $63,000, impacting altcoins. Market sentiment weakened due to earnings and regulatory uncertainty.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Why Are Bitcoin Price and Crypto Market Down Today? - CaptainAltcoin"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "why-is-bitcoin-down-today-price-market-analysis",
+    "type": "news",
+    "title": "Why Is Bitcoin Down Today? Price & Market Analysis",
+    "slug": "why-is-bitcoin-down-today-price-market-analysis",
+    "date": "2026-08-02",
+    "displayDate": "August 2, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin fell due to market sentiment weakening, influenced by Coinbase earnings and U.S. crypto legislation uncertainty. The crypto market also dipped as money ",
+    "excerpt": "Bitcoin fell due to market sentiment weakening, influenced by Coinbase earnings and U.S. crypto legislation uncertainty. The crypto market also dipped as money rotated back into stocks. Bitcoin's price is currently around $62,788.92.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Why Is Bitcoin Down Today? Price & Market Analysis"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "world-stock-market-indexes-by-country-live-quotes-historical-data-trading-econom",
     "type": "news",
     "title": "World Stock Market Indexes by Country | Live Quotes & Historical Data | Trading Economics",
@@ -607,27 +985,6 @@
       "alt": "World Stock Market Indexes by Country | Live Quotes & Historical Data | Trading Economics"
     },
     "readingTime": 6
-  },
-  {
-    "id": "12-month-percentage-change-consumer-price-index-selected",
-    "type": "news",
-    "title": "12-month percentage change, Consumer Price Index, selected ...",
-    "slug": "12-month-percentage-change-consumer-price-index-selected",
-    "date": "2026-08-01",
-    "displayDate": "August 1, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The 12-month percentage change in the Consumer Price Index for June 2026 was 3.5%, with energy rising 15.7% and fruits and vegetables up 5.3%. The overall index",
-    "excerpt": "The 12-month percentage change in the Consumer Price Index for June 2026 was 3.5%, with energy rising 15.7% and fruits and vegetables up 5.3%. The overall index reflects a modest inflation rate.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "12-month percentage change, Consumer Price Index, selected ..."
-    },
-    "readingTime": 3
   },
   {
     "id": "2026-investment-outlook-themes-for-portfolio-strategies",
@@ -756,48 +1113,6 @@
     "readingTime": 4
   },
   {
-    "id": "asian-financial-markets",
-    "type": "news",
-    "title": "Asian Financial Markets",
-    "slug": "asian-financial-markets",
-    "date": "2026-08-01",
-    "displayDate": "August 1, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Nikkei 225 and Hang Seng Index are leading Asian financial markets, with the Nikkei up 4.03% and Hang Seng up 0.10% on 2026-08-01. Top gainers include Ibide",
-    "excerpt": "The Nikkei 225 and Hang Seng Index are leading Asian financial markets, with the Nikkei up 4.03% and Hang Seng up 0.10% on 2026-08-01. Top gainers include Ibiden Co Ltd and Panasonic. Top losers include NTT Inc and SoftBank Corp.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Asian Financial Markets"
-    },
-    "readingTime": 5
-  },
-  {
-    "id": "asian-stock-market-capital-markets-news-bond-market-news-commodities-news-etfs-n",
-    "type": "news",
-    "title": "Asian Stock Market: Capital Markets News, Bond Market News, Commodities News, ETFs News",
-    "slug": "asian-stock-market-capital-markets-news-bond-market-news-commodities-news-etfs-n",
-    "date": "2026-08-01",
-    "displayDate": "August 1, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Asian stock market features updates on capital markets, bond market trends, commodities, and ETFs. Recent news includes fines on AliExpress and discussions ",
-    "excerpt": "The Asian stock market features updates on capital markets, bond market trends, commodities, and ETFs. Recent news includes fines on AliExpress and discussions on China's economic policies. For detailed insights, refer to Asia Financial and CNBC.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Asian Stock Market: Capital Markets News, Bond Market News, Commodities News, ETFs News"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "bitcoin-btc-news-analysis-and-forecast",
     "type": "news",
     "title": "Bitcoin (BTC) News, Analysis and Forecast",
@@ -882,27 +1197,6 @@
     "readingTime": 3
   },
   {
-    "id": "earnings-calendar-and-analysis-for-this-week-august-3-7",
-    "type": "news",
-    "title": "Earnings Calendar and Analysis for This Week (August 3-7)",
-    "slug": "earnings-calendar-and-analysis-for-this-week-august-3-7",
-    "date": "2026-08-01",
-    "displayDate": "August 1, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "This week, major earnings reports from McDonald’s, Walt Disney, and several tech firms are expected. The S&P 500 companies have shown strong performance, with 8",
-    "excerpt": "This week, major earnings reports from McDonald’s, Walt Disney, and several tech firms are expected. The S&P 500 companies have shown strong performance, with 85% beating expectations. Key economic data releases are also scheduled for August 7.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Earnings Calendar and Analysis for This Week (August 3-7)"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "earnings-calendar-events",
     "type": "news",
     "title": "Earnings Calendar & Events",
@@ -920,27 +1214,6 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "Earnings Calendar & Events"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "earnings-calendar",
-    "type": "news",
-    "title": "Earnings Calendar",
-    "slug": "earnings-calendar",
-    "date": "2026-08-01",
-    "displayDate": "August 1, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "An earnings calendar lists upcoming and past earnings reports for publicly traded companies, showing dates, EPS estimates, and actual results. It helps investor",
-    "excerpt": "An earnings calendar lists upcoming and past earnings reports for publicly traded companies, showing dates, EPS estimates, and actual results. It helps investors track financial performance and surprises. The calendar is crucial for planning investment strategies.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Earnings Calendar"
     },
     "readingTime": 4
   },
@@ -1092,48 +1365,6 @@
     "readingTime": 3
   },
   {
-    "id": "federal-open-market-committee",
-    "type": "news",
-    "title": "Federal Open Market Committee",
-    "slug": "federal-open-market-committee",
-    "date": "2026-08-01",
-    "displayDate": "August 1, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Open Market Committee (FOMC) is a key committee within the Federal Reserve that sets U.S. monetary policy and oversees open market operations. It co",
-    "excerpt": "The Federal Open Market Committee (FOMC) is a key committee within the Federal Reserve that sets U.S. monetary policy and oversees open market operations. It consists of twelve members and meets eight times a year. The FOMC determines interest rates and money supply growth.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Federal Open Market Committee"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "federal-reserve-board-monetary-policy",
-    "type": "news",
-    "title": "Federal Reserve Board - Monetary Policy",
-    "slug": "federal-reserve-board-monetary-policy",
-    "date": "2026-08-01",
-    "displayDate": "August 1, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Reserve implements monetary policy to promote maximum employment, stable prices, and moderate long-term interest rates. It uses the federal funds ra",
-    "excerpt": "The Federal Reserve implements monetary policy to promote maximum employment, stable prices, and moderate long-term interest rates. It uses the federal funds rate and other tools like quantitative easing. The Federal Open Market Committee leads these efforts.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Federal Reserve Board - Monetary Policy"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "fomc-meeting-live-fed-chair-kevin-warsh-annnounces",
     "type": "news",
     "title": "FOMC Meeting LIVE | Fed Chair Kevin Warsh Annnounces ...",
@@ -1237,27 +1468,6 @@
       "alt": "How the FOMC Conducts Monetary Policy | St. Louis Fed"
     },
     "readingTime": 3
-  },
-  {
-    "id": "inflation-economic-data-series-fred-st-louis-fed",
-    "type": "news",
-    "title": "Inflation - Economic Data Series | FRED | St. Louis Fed",
-    "slug": "inflation-economic-data-series-fred-st-louis-fed",
-    "date": "2026-08-01",
-    "displayDate": "August 1, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Inflation data includes the Consumer Price Index, Producer Price Index, and GDP deflator from the St. Louis Fed's FRED database. Key metrics cover monthly and a",
-    "excerpt": "Inflation data includes the Consumer Price Index, Producer Price Index, and GDP deflator from the St. Louis Fed's FRED database. Key metrics cover monthly and annual inflation rates. The most recent data is up to June 2026.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Inflation - Economic Data Series | FRED | St. Louis Fed"
-    },
-    "readingTime": 4
   },
   {
     "id": "investment-strategies-5-types-how-to-choose-the-right-one-in-2026",
@@ -1533,27 +1743,6 @@
     "readingTime": 3
   },
   {
-    "id": "tech-news-today-s-latest-technology-news",
-    "type": "news",
-    "title": "Tech News | Today's Latest Technology News",
-    "slug": "tech-news-today-s-latest-technology-news",
-    "date": "2026-08-01",
-    "displayDate": "August 1, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Amazon faces a lawsuit over seafood sustainability claims, while Google withdrew an AI tool due to misinformation risks. Tech giants like Amazon and Reddit repo",
-    "excerpt": "Amazon faces a lawsuit over seafood sustainability claims, while Google withdrew an AI tool due to misinformation risks. Tech giants like Amazon and Reddit report strong growth and financial performance.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Tech News | Today's Latest Technology News"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "techcrunch-startup-and-technology-news",
     "type": "news",
     "title": "TechCrunch | Startup and Technology News",
@@ -1596,27 +1785,6 @@
     "readingTime": 3
   },
   {
-    "id": "technology-news",
-    "type": "news",
-    "title": "Technology News",
-    "slug": "technology-news",
-    "date": "2026-08-01",
-    "displayDate": "August 1, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Amazon's AWS experienced its fastest growth since 2021, driven by AI and chip demand. Snapchat joined other platforms in combating 'AI slop'. Google withdrew it",
-    "excerpt": "Amazon's AWS experienced its fastest growth since 2021, driven by AI and chip demand. Snapchat joined other platforms in combating 'AI slop'. Google withdrew its new Earth AI tool due to misinformation risks.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Technology News"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "u-s-economic-calendar",
     "type": "news",
     "title": "U.S. Economic Calendar",
@@ -1657,27 +1825,6 @@
       "alt": "United States | Economic Indicators | Moody's Analytics"
     },
     "readingTime": 5
-  },
-  {
-    "id": "united-states-indicators",
-    "type": "news",
-    "title": "United States Indicators",
-    "slug": "united-states-indicators",
-    "date": "2026-08-01",
-    "displayDate": "August 1, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The United States has indicators like Government Budget, Business Confidence, and GDP per capita. Current data shows Business Confidence at 53.3 points in June ",
-    "excerpt": "The United States has indicators like Government Budget, Business Confidence, and GDP per capita. Current data shows Business Confidence at 53.3 points in June 2026. The GDP per capita was $67,946 in December 2025.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "United States Indicators"
-    },
-    "readingTime": 4
   },
   {
     "id": "weekly-market-recap",
@@ -2583,27 +2730,6 @@
     "readingTime": 3
   },
   {
-    "id": "asia-stock-markets",
-    "type": "news",
-    "title": "Asia Stock Markets",
-    "slug": "asia-stock-markets",
-    "date": "2026-07-07",
-    "displayDate": "July 7, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Asia's major stock exchanges include the Tokyo Stock Exchange and Hong Kong Stock Exchange. Nikkei 225 and Hang Seng Index are key indicators. Current trends sh",
-    "excerpt": "Asia's major stock exchanges include the Tokyo Stock Exchange and Hong Kong Stock Exchange. Nikkei 225 and Hang Seng Index are key indicators. Current trends show fluctuations due to global economic factors.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Asia Stock Markets"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "big-tech-latest-news-breaking-stories-and-comment",
     "type": "news",
     "title": "Big Tech - latest news, breaking stories and comment",
@@ -2915,27 +3041,6 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "Federal Reserve holds interest rates steady but leaves door open to ..."
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "geekwire-breaking-news-in-technology-business",
-    "type": "news",
-    "title": "GeekWire – Breaking News in Technology & Business",
-    "slug": "geekwire-breaking-news-in-technology-business",
-    "date": "2026-07-07",
-    "displayDate": "July 7, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "GeekWire is a technology news website covering startups and major tech companies, launched in 2011. It reports on business and tech developments, including job ",
-    "excerpt": "GeekWire is a technology news website covering startups and major tech companies, launched in 2011. It reports on business and tech developments, including job cuts and industry changes. The site is based in Seattle, Washington.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "GeekWire – Breaking News in Technology & Business"
     },
     "readingTime": 3
   },
