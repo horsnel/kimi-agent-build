@@ -21,6 +21,27 @@
     "readingTime": 3
   },
   {
+    "id": "5-key-investment-strategies-to-learn-before-trading",
+    "type": "news",
+    "title": "5 Key Investment Strategies To Learn Before Trading",
+    "slug": "5-key-investment-strategies-to-learn-before-trading",
+    "date": "2026-08-03",
+    "displayDate": "August 3, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Key investment strategies include buy-and-hold, dollar cost averaging, diversification, risk assessment, and maintaining an emergency fund. These strategies hel",
+    "excerpt": "Key investment strategies include buy-and-hold, dollar cost averaging, diversification, risk assessment, and maintaining an emergency fund. These strategies help balance risk and growth potential.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "5 Key Investment Strategies To Learn Before Trading"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "amazon-apple-both-report-earnings-the-close-7-30-2026",
     "type": "news",
     "title": "Amazon & Apple Both Report Earnings | The Close 7/30/2026",
@@ -59,6 +80,48 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "Bitcoin (BTC) Price Today: BTC Live Price, Charts, News"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "bitcoin-btc-price-usd-today-news-charts-market-cap",
+    "type": "news",
+    "title": "Bitcoin (BTC) Price USD Today, News, Charts, Market Cap",
+    "slug": "bitcoin-btc-price-usd-today-news-charts-market-cap",
+    "date": "2026-08-03",
+    "displayDate": "August 3, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin's price today is $63,033.85, with a market cap of $1.26T. It has a circulating supply of 20.06 million BTC. The all-time high is $126,210.50.",
+    "excerpt": "Bitcoin's price today is $63,033.85, with a market cap of $1.26T. It has a circulating supply of 20.06 million BTC. The all-time high is $126,210.50.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Bitcoin (BTC) Price USD Today, News, Charts, Market Cap"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "bitcoin-price-today-btc-price-chart-live-trends",
+    "type": "news",
+    "title": "Bitcoin price today - BTC price chart & live trends",
+    "slug": "bitcoin-price-today-btc-price-chart-live-trends",
+    "date": "2026-08-03",
+    "displayDate": "August 3, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin's current price is around $63,139.34. It has risen 0.51% in the last 24 hours. The market cap is over $1.26 trillion.",
+    "excerpt": "Bitcoin's current price is around $63,139.34. It has risen 0.51% in the last 24 hours. The market cap is over $1.26 trillion.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Bitcoin price today - BTC price chart & live trends"
     },
     "readingTime": 3
   },
@@ -147,6 +210,27 @@
     "readingTime": 3
   },
   {
+    "id": "earnings-calendar-2026-daily-earnings-reports",
+    "type": "news",
+    "title": "Earnings Calendar 2026 | Daily Earnings Reports",
+    "slug": "earnings-calendar-2026-daily-earnings-reports",
+    "date": "2026-08-03",
+    "displayDate": "August 3, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "On August 3, 2026, earnings reports are due from companies like Berkshire Hathaway and EverQuote. Upcoming reports include Palantir Technologies and Snap on Aug",
+    "excerpt": "On August 3, 2026, earnings reports are due from companies like Berkshire Hathaway and EverQuote. Upcoming reports include Palantir Technologies and Snap on August 3. Wall Street Horizon covers broader Q1 2026 earnings discussions.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Earnings Calendar 2026 | Daily Earnings Reports"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "earnings-calendar-and-analysis-for-this-week-august-3-7",
     "type": "news",
     "title": "Earnings Calendar and Analysis for This Week (August 3-7)",
@@ -210,6 +294,69 @@
     "readingTime": 3
   },
   {
+    "id": "economic-calendar",
+    "type": "news",
+    "title": "Economic Calendar",
+    "slug": "economic-calendar",
+    "date": "2026-08-03",
+    "displayDate": "August 3, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "An economic calendar tracks financial events and indicators affecting markets, including GDP, inflation, and interest rates. It helps traders prepare for market",
+    "excerpt": "An economic calendar tracks financial events and indicators affecting markets, including GDP, inflation, and interest rates. It helps traders prepare for market impacts. Key events often have high volatility potential.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Economic Calendar"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "economic-indicators-calendar-new-york-fed",
+    "type": "news",
+    "title": "Economic Indicators Calendar | New York Fed",
+    "slug": "economic-indicators-calendar-new-york-fed",
+    "date": "2026-08-03",
+    "displayDate": "August 3, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The New York Fed's Economic Indicators Calendar lists key economic data releases, including ISM Manufacturing and Initial Claims, for the current month. For Aug",
+    "excerpt": "The New York Fed's Economic Indicators Calendar lists key economic data releases, including ISM Manufacturing and Initial Claims, for the current month. For August 2026, notable releases include Construction and ISM Non-Manufacturing reports.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Economic Indicators Calendar | New York Fed"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "economy-statement-for-the-treasury-borrowing-advisory-committee",
+    "type": "news",
+    "title": "Economy Statement for the Treasury Borrowing Advisory Committee",
+    "slug": "economy-statement-for-the-treasury-borrowing-advisory-committee",
+    "date": "2026-08-03",
+    "displayDate": "August 3, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The U.S. economy showed solid growth in the third quarter of 2025 with stable inflation and low unemployment. Inflation remained low, and unemployment stayed ne",
+    "excerpt": "The U.S. economy showed solid growth in the third quarter of 2025 with stable inflation and low unemployment. Inflation remained low, and unemployment stayed near the non-cyclical rate. Treasury borrowing needs remain manageable.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Economy Statement for the Treasury Borrowing Advisory Committee"
+    },
+    "readingTime": 5
+  },
+  {
     "id": "fed-interest-rate-decision",
     "type": "news",
     "title": "Fed Interest Rate Decision",
@@ -252,6 +399,69 @@
     "readingTime": 3
   },
   {
+    "id": "federal-open-market-committee",
+    "type": "news",
+    "title": "Federal Open Market Committee",
+    "slug": "federal-open-market-committee",
+    "date": "2026-08-03",
+    "displayDate": "August 3, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Open Market Committee (FOMC) is a key committee within the Federal Reserve System that sets U.S. monetary policy and oversees open market operations",
+    "excerpt": "The Federal Open Market Committee (FOMC) is a key committee within the Federal Reserve System that sets U.S. monetary policy and oversees open market operations. It consists of twelve members and holds eight regular meetings annually. The FOMC determines the federal funds rate and manages the nation",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Federal Open Market Committee"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "federal-reserve-board-monetary-policy",
+    "type": "news",
+    "title": "Federal Reserve Board - Monetary Policy",
+    "slug": "federal-reserve-board-monetary-policy",
+    "date": "2026-08-03",
+    "displayDate": "August 3, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Reserve's monetary policy aims for maximum employment and stable prices, primarily using the federal funds rate and occasionally quantitative easing",
+    "excerpt": "The Federal Reserve's monetary policy aims for maximum employment and stable prices, primarily using the federal funds rate and occasionally quantitative easing. The Federal Open Market Committee sets this policy. The Fed Board and regional bank presidents deliberate on it.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Federal Reserve Board - Monetary Policy"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "finance-and-markets-wsj-com",
+    "type": "news",
+    "title": "Finance and Markets - WSJ.com",
+    "slug": "finance-and-markets-wsj-com",
+    "date": "2026-08-03",
+    "displayDate": "August 3, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Global markets experienced significant fluctuations, with some regions seeing gains while others faced declines. The Brazilian real strengthened against the dol",
+    "excerpt": "Global markets experienced significant fluctuations, with some regions seeing gains while others faced declines. The Brazilian real strengthened against the dollar amid expectations for a new finance minister. Investors showed interest in South Korea due to its attractive stock valuations.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Finance and Markets - WSJ.com"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "global-market-indices-international-markets-markets-insider",
     "type": "news",
     "title": "Global Market Indices | International Markets - Markets Insider",
@@ -292,6 +502,48 @@
       "alt": "Global Stock Market News and World Indices Coverage"
     },
     "readingTime": 5
+  },
+  {
+    "id": "gross-domestic-product-gdp-consumer-price-index-cpi-housing-starts-unemployment-",
+    "type": "news",
+    "title": "Gross Domestic Product | GDP | Consumer Price Index CPI Housing Starts Unemployment Rate US",
+    "slug": "gross-domestic-product-gdp-consumer-price-index-cpi-housing-starts-unemployment-",
+    "date": "2026-08-03",
+    "displayDate": "August 3, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "GDP is the total value of goods and services produced in the US. The CPI measures inflation. The unemployment rate was 4.2% in June 2026.",
+    "excerpt": "GDP is the total value of goods and services produced in the US. The CPI measures inflation. The unemployment rate was 4.2% in June 2026.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Gross Domestic Product | GDP | Consumer Price Index CPI Housing Starts Unemployment Rate US"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "healthcare-stock-performance-yahoo-finance",
+    "type": "news",
+    "title": "Healthcare Stock Performance - Yahoo Finance",
+    "slug": "healthcare-stock-performance-yahoo-finance",
+    "date": "2026-08-03",
+    "displayDate": "August 3, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "HCA Healthcare's Q2 results exceeded estimates but faced challenges leading to a guidance reset. The S&P 500 Health Care sector and Nasdaq Health Care index bot",
+    "excerpt": "HCA Healthcare's Q2 results exceeded estimates but faced challenges leading to a guidance reset. The S&P 500 Health Care sector and Nasdaq Health Care index both showed minor gains. As of August 3, 2026, HCA Healthcare's stock performance remains strong despite sectoral fluctuations.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Healthcare Stock Performance - Yahoo Finance"
+    },
+    "readingTime": 3
   },
   {
     "id": "how-should-i-allocate-my-portfolio-in-2026",
@@ -357,6 +609,27 @@
     "readingTime": 3
   },
   {
+    "id": "interactive-world-macromap-ft-com",
+    "type": "news",
+    "title": "Interactive World Macromap - FT.com",
+    "slug": "interactive-world-macromap-ft-com",
+    "date": "2026-08-03",
+    "displayDate": "August 3, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Interactive World Macromap on FT.com provides real-time market data and indices from various global stock exchanges. The S&P 500 and other major indices are",
+    "excerpt": "The Interactive World Macromap on FT.com provides real-time market data and indices from various global stock exchanges. The S&P 500 and other major indices are tracked for trends and performance. Troutwood offers an interactive stock market map for geographic insights.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Interactive World Macromap - FT.com"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "investment-strategy-2026-portfolio-moves-for-a-changing-market",
     "type": "news",
     "title": "Investment Strategy 2026 Portfolio Moves for a Changing Market",
@@ -395,6 +668,27 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "META_TITLE_SECTORS"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "q2-earnings-season-2026-what-traders-need-to-know",
+    "type": "news",
+    "title": "Q2 Earnings Season 2026: What Traders Need to Know",
+    "slug": "q2-earnings-season-2026-what-traders-need-to-know",
+    "date": "2026-08-03",
+    "displayDate": "August 3, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Q2 2026 earnings season starts in mid-July, with major companies reporting; investors focus on earnings growth, AI investment, and market sentiment. Key dates i",
+    "excerpt": "Q2 2026 earnings season starts in mid-July, with major companies reporting; investors focus on earnings growth, AI investment, and market sentiment. Key dates include July for PepsiCo and July/August for Big Tech. Forward guidance and economic factors will shape market trends.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Q2 Earnings Season 2026: What Traders Need to Know"
     },
     "readingTime": 3
   },
@@ -525,6 +819,90 @@
     "readingTime": 3
   },
   {
+    "id": "the-best-investment-strategies-for-the-continuous-market-investing-com",
+    "type": "news",
+    "title": "The Best Investment Strategies For The Continuous Market - Investing.com",
+    "slug": "the-best-investment-strategies-for-the-continuous-market-investing-com",
+    "date": "2026-08-03",
+    "displayDate": "August 3, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Effective investment strategies include value investing, growth investing, and buy and hold. Patience and long-term focus are key to success. Diversification an",
+    "excerpt": "Effective investment strategies include value investing, growth investing, and buy and hold. Patience and long-term focus are key to success. Diversification and risk management are essential.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "The Best Investment Strategies For The Continuous Market - Investing.com"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "the-fed-federal-open-market-committee",
+    "type": "news",
+    "title": "The Fed - Federal Open Market Committee",
+    "slug": "the-fed-federal-open-market-committee",
+    "date": "2026-08-03",
+    "displayDate": "August 3, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Open Market Committee (FOMC) oversees the Federal Reserve's open market operations and sets U.S. monetary policy, including interest rates. It consi",
+    "excerpt": "The Federal Open Market Committee (FOMC) oversees the Federal Reserve's open market operations and sets U.S. monetary policy, including interest rates. It consists of twelve members, including the Board of Governors and rotating Reserve Bank presidents. The FOMC meets eight times a year to review ec",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "The Fed - Federal Open Market Committee"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "top-10-investment-strategies-for-2025-a-comprehensive-guide",
+    "type": "news",
+    "title": "Top 10 Investment Strategies for 2025: A Comprehensive Guide",
+    "slug": "top-10-investment-strategies-for-2025-a-comprehensive-guide",
+    "date": "2026-08-03",
+    "displayDate": "August 3, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Top investment strategies for 2025 include diversification across sectors, investing in ETFs, and focusing on renewable energy and dividend stocks. Lower intere",
+    "excerpt": "Top investment strategies for 2025 include diversification across sectors, investing in ETFs, and focusing on renewable energy and dividend stocks. Lower interest rates favor sectors like healthcare and technology. Regularly rebalance portfolios for optimal returns.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Top 10 Investment Strategies for 2025: A Comprehensive Guide"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "u-s-bureau-of-economic-analysis-bea",
+    "type": "news",
+    "title": "U.S. Bureau of Economic Analysis (BEA)",
+    "slug": "u-s-bureau-of-economic-analysis-bea",
+    "date": "2026-08-03",
+    "displayDate": "August 3, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The U.S. Bureau of Economic Analysis (BEA) provides official economic data, including GDP, personal income, and industry statistics. It is part of the Departmen",
+    "excerpt": "The U.S. Bureau of Economic Analysis (BEA) provides official economic data, including GDP, personal income, and industry statistics. It is part of the Department of Commerce and has its headquarters in Suitland, Maryland. The BEA's website is www.bea.gov.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "U.S. Bureau of Economic Analysis (BEA)"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "united-states-economic-indicators-moody-s-analytics",
     "type": "news",
     "title": "United States | Economic Indicators | Moody's Analytics",
@@ -586,6 +964,48 @@
       "alt": "United States Inflation Rate"
     },
     "readingTime": 4
+  },
+  {
+    "id": "weekly-trader-s-stock-market-outlook",
+    "type": "news",
+    "title": "Weekly Trader's Stock Market Outlook",
+    "slug": "weekly-trader-s-stock-market-outlook",
+    "date": "2026-08-03",
+    "displayDate": "August 3, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The market outlook is moderately bearish with higher volatility expected next week due to ongoing U.S.-Iran tensions and rising oil prices. Rising yields and in",
+    "excerpt": "The market outlook is moderately bearish with higher volatility expected next week due to ongoing U.S.-Iran tensions and rising oil prices. Rising yields and inflation concerns may pressure valuations. The Fed's policy path remains uncertain.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Weekly Trader's Stock Market Outlook"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "yahoo-finance-stock-market-live-quotes-business",
+    "type": "news",
+    "title": "Yahoo Finance - Stock Market Live, Quotes, Business ...",
+    "slug": "yahoo-finance-stock-market-live-quotes-business",
+    "date": "2026-08-03",
+    "displayDate": "August 3, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Yahoo Finance provides live stock market quotes and business news. It is part of Yahoo, an American web portal. Yahoo Finance is owned by Yahoo! Inc.",
+    "excerpt": "Yahoo Finance provides live stock market quotes and business news. It is part of Yahoo, an American web portal. Yahoo Finance is owned by Yahoo! Inc.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Yahoo Finance - Stock Market Live, Quotes, Business ..."
+    },
+    "readingTime": 3
   },
   {
     "id": "2026-investment-outlook-themes-for-portfolio-strategies",
@@ -798,27 +1218,6 @@
     "readingTime": 3
   },
   {
-    "id": "bitcoin-btc-price-usd-today-news-charts-market-cap",
-    "type": "news",
-    "title": "Bitcoin (BTC) Price USD Today, News, Charts, Market Cap",
-    "slug": "bitcoin-btc-price-usd-today-news-charts-market-cap",
-    "date": "2026-08-02",
-    "displayDate": "August 2, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Bitcoin's price today is $62,964.8 USD. Its market cap is $1.3 trillion USD. The all-time high was $126,198.07 USD.",
-    "excerpt": "Bitcoin's price today is $62,964.8 USD. Its market cap is $1.3 trillion USD. The all-time high was $126,198.07 USD.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Bitcoin (BTC) Price USD Today, News, Charts, Market Cap"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "bitcoin-price-analysis-today-btc-holds-74k-as-fomc-meeting-sparks-crypto-market-",
     "type": "news",
     "title": "Bitcoin Price Analysis Today: BTC Holds $74K as FOMC Meeting Sparks Crypto Market Volatility — March 18, 2026 - BitRss - Crypto World News",
@@ -941,48 +1340,6 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "Earnings Breaking News and Press Releases"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "earnings-calendar-2026-daily-earnings-reports",
-    "type": "news",
-    "title": "Earnings Calendar 2026 | Daily Earnings Reports",
-    "slug": "earnings-calendar-2026-daily-earnings-reports",
-    "date": "2026-08-02",
-    "displayDate": "August 2, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Earnings reports for 2026 continue through December, with notable releases in September, October, and November. The BLS releases real earnings data monthly. Lev",
-    "excerpt": "Earnings reports for 2026 continue through December, with notable releases in September, October, and November. The BLS releases real earnings data monthly. LeverageShares lists product delistings for July 2026.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Earnings Calendar 2026 | Daily Earnings Reports"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "economic-indicators-calendar-new-york-fed",
-    "type": "news",
-    "title": "Economic Indicators Calendar | New York Fed",
-    "slug": "economic-indicators-calendar-new-york-fed",
-    "date": "2026-08-02",
-    "displayDate": "August 2, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The New York Fed's Economic Indicators Calendar lists key economic data releases, including ISM Manufacturing and Initial Claims, for the current month. For Aug",
-    "excerpt": "The New York Fed's Economic Indicators Calendar lists key economic data releases, including ISM Manufacturing and Initial Claims, for the current month. For August 2026, notable releases include the ADP National Employment Report and the Consumer Price Index. Check the official New York Fed website ",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Economic Indicators Calendar | New York Fed"
     },
     "readingTime": 3
   },
@@ -1172,48 +1529,6 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "Fed meeting recap: July 2026"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "federal-open-market-committee",
-    "type": "news",
-    "title": "Federal Open Market Committee",
-    "slug": "federal-open-market-committee",
-    "date": "2026-08-02",
-    "displayDate": "August 2, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Open Market Committee (FOMC) is the Federal Reserve's main monetary policy body, meeting eight times a year. It consists of twelve members, includin",
-    "excerpt": "The Federal Open Market Committee (FOMC) is the Federal Reserve's main monetary policy body, meeting eight times a year. It consists of twelve members, including the Board of Governors and selected Reserve Bank presidents. The FOMC sets U.S. monetary policy.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Federal Open Market Committee"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "federal-reserve-board-monetary-policy",
-    "type": "news",
-    "title": "Federal Reserve Board - Monetary Policy",
-    "slug": "federal-reserve-board-monetary-policy",
-    "date": "2026-08-02",
-    "displayDate": "August 2, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Reserve's monetary policy aims for maximum employment and price stability, primarily using the federal funds rate and tools like quantitative easing",
-    "excerpt": "The Federal Reserve's monetary policy aims for maximum employment and price stability, primarily using the federal funds rate and tools like quantitative easing. The Federal Open Market Committee sets policy, involving the Board of Governors and regional bank presidents. The Fed reviews its strategy",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Federal Reserve Board - Monetary Policy"
     },
     "readingTime": 4
   },
@@ -1491,27 +1806,6 @@
     "readingTime": 3
   },
   {
-    "id": "u-s-bureau-of-economic-analysis-bea",
-    "type": "news",
-    "title": "U.S. Bureau of Economic Analysis (BEA)",
-    "slug": "u-s-bureau-of-economic-analysis-bea",
-    "date": "2026-08-02",
-    "displayDate": "August 2, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The U.S. Bureau of Economic Analysis (BEA) reports the nation's current-account deficit widened to $226.8 billion in Q1 2026. Real GDP grew by 2.1% in Q1 2026, ",
-    "excerpt": "The U.S. Bureau of Economic Analysis (BEA) reports the nation's current-account deficit widened to $226.8 billion in Q1 2026. Real GDP grew by 2.1% in Q1 2026, driven by investment, exports, government, and consumer spending.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "U.S. Bureau of Economic Analysis (BEA)"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "united-states-consumer-price-index-cpi-yoy",
     "type": "news",
     "title": "United States Consumer Price Index (CPI) YoY",
@@ -1594,27 +1888,6 @@
       "alt": "Warsh says Fed won't hesitate to stop inflation, but bond market has doubts"
     },
     "readingTime": 4
-  },
-  {
-    "id": "weekly-trader-s-stock-market-outlook",
-    "type": "news",
-    "title": "Weekly Trader's Stock Market Outlook",
-    "slug": "weekly-trader-s-stock-market-outlook",
-    "date": "2026-08-02",
-    "displayDate": "August 2, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The stock market outlook for the week was cautious due to rising oil prices and U.S.-Iran tensions, with the Nasdaq Composite being the worst performer. Economi",
-    "excerpt": "The stock market outlook for the week was cautious due to rising oil prices and U.S.-Iran tensions, with the Nasdaq Composite being the worst performer. Economic indicators and inflation concerns are influencing market volatility. The Federal Reserve kept interest rates unchanged.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Weekly Trader's Stock Market Outlook"
-    },
-    "readingTime": 3
   },
   {
     "id": "what-to-look-out-for-in-economic-data-this-week-august-3-7",
@@ -1848,48 +2121,6 @@
     "readingTime": 4
   },
   {
-    "id": "economic-calendar",
-    "type": "news",
-    "title": "Economic Calendar",
-    "slug": "economic-calendar",
-    "date": "2026-08-01",
-    "displayDate": "August 1, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "An economic calendar lists upcoming financial events that can impact markets, including data releases and policy decisions. It helps traders and investors prepa",
-    "excerpt": "An economic calendar lists upcoming financial events that can impact markets, including data releases and policy decisions. It helps traders and investors prepare for market movements. The most essential data includes release times, economic indicators, and forecasts.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Economic Calendar"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "economy-statement-for-the-treasury-borrowing-advisory-committee",
-    "type": "news",
-    "title": "Economy Statement for the Treasury Borrowing Advisory Committee",
-    "slug": "economy-statement-for-the-treasury-borrowing-advisory-committee",
-    "date": "2026-08-01",
-    "displayDate": "August 1, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The U.S. economy remains resilient with solid growth, strong consumer demand, and business investment. Inflation remains low, and unemployment is at 4.1%. The T",
-    "excerpt": "The U.S. economy remains resilient with solid growth, strong consumer demand, and business investment. Inflation remains low, and unemployment is at 4.1%. The Treasury Borrowing Advisory Committee advises on technical debt management issues.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Economy Statement for the Treasury Borrowing Advisory Committee"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "ethereum-price-eth-usd-live-price-chart-market-cap-news-today",
     "type": "news",
     "title": "Ethereum Price: ETH/USD Live Price Chart, Market Cap & News Today",
@@ -1949,48 +2180,6 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "FOMC Meeting LIVE | Fed Chair Kevin Warsh Annnounces ..."
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "gross-domestic-product-gdp-consumer-price-index-cpi-housing-starts-unemployment-",
-    "type": "news",
-    "title": "Gross Domestic Product | GDP | Consumer Price Index CPI Housing Starts Unemployment Rate US",
-    "slug": "gross-domestic-product-gdp-consumer-price-index-cpi-housing-starts-unemployment-",
-    "date": "2026-08-01",
-    "displayDate": "August 1, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The latest GDP is 31865.7, CPI is 332.6, housing starts are not specified, and the unemployment rate is 4.2% in June 2026.",
-    "excerpt": "The latest GDP is 31865.7, CPI is 332.6, housing starts are not specified, and the unemployment rate is 4.2% in June 2026.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Gross Domestic Product | GDP | Consumer Price Index CPI Housing Starts Unemployment Rate US"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "healthcare-stock-performance-yahoo-finance",
-    "type": "news",
-    "title": "Healthcare Stock Performance - Yahoo Finance",
-    "slug": "healthcare-stock-performance-yahoo-finance",
-    "date": "2026-08-01",
-    "displayDate": "August 1, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "UnitedHealth Group's stock (UNH) is down 1.68% today, with a YTD return of 27.23% and a 1-year return of 70.50%. The NYSE Healthcare Index (^NYP) is up 17.91%. ",
-    "excerpt": "UnitedHealth Group's stock (UNH) is down 1.68% today, with a YTD return of 27.23% and a 1-year return of 70.50%. The NYSE Healthcare Index (^NYP) is up 17.91%. The S&P 500 Health Care sector (^SP500-35) is up 1.00%.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Healthcare Stock Performance - Yahoo Finance"
     },
     "readingTime": 3
   },
@@ -2474,27 +2663,6 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "Bitcoin price today - BTC price chart & live trends - Kraken"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "bitcoin-price-today-btc-price-chart-live-trends",
-    "type": "news",
-    "title": "Bitcoin price today - BTC price chart & live trends",
-    "slug": "bitcoin-price-today-btc-price-chart-live-trends",
-    "date": "2026-07-08",
-    "displayDate": "July 8, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Bitcoin's price today is $63,018.02 according to Google, but it fluctuates; currently, it's $63,664.00 on Kraken and $63,665.09 on Crypto.com. The price has var",
-    "excerpt": "Bitcoin's price today is $63,018.02 according to Google, but it fluctuates; currently, it's $63,664.00 on Kraken and $63,665.09 on Crypto.com. The price has varied slightly over the last 24 hours.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Bitcoin price today - BTC price chart & live trends"
     },
     "readingTime": 3
   },
@@ -4746,27 +4914,6 @@
     "readingTime": 5
   },
   {
-    "id": "5-key-investment-strategies-to-learn-before-trading",
-    "type": "news",
-    "title": "5 Key Investment Strategies To Learn Before Trading",
-    "slug": "5-key-investment-strategies-to-learn-before-trading",
-    "date": "2026-07-05",
-    "displayDate": "July 5, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Key investment strategies include passive index investing, buy and hold, diversification, position sizing, and understanding risk management. Focus on low-risk ",
-    "excerpt": "Key investment strategies include passive index investing, buy and hold, diversification, position sizing, and understanding risk management. Focus on low-risk strategies if goals are short-term. Reassess risk periodically.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "5 Key Investment Strategies To Learn Before Trading"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "a-list-of-stocks-in-the-healthcare-sector",
     "type": "news",
     "title": "A List of Stocks in the Healthcare Sector",
@@ -4973,27 +5120,6 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "Ethereum (ETH) Price Today, News & Live Chart - Forbes"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "finance-and-markets-wsj-com",
-    "type": "news",
-    "title": "Finance and Markets - WSJ.com",
-    "slug": "finance-and-markets-wsj-com",
-    "date": "2026-07-05",
-    "displayDate": "July 5, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Russell 2000 climbed 22% in the first half of the year. U.S. stocks and market indexes are available for real-time quotes. The president's investment accoun",
-    "excerpt": "The Russell 2000 climbed 22% in the first half of the year. U.S. stocks and market indexes are available for real-time quotes. The president's investment accounts made over 20,000 trades last year.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Finance and Markets - WSJ.com"
     },
     "readingTime": 3
   },
