@@ -4,21 +4,588 @@
     "type": "news",
     "title": "12-month percentage change, Consumer Price Index, selected ...",
     "slug": "12-month-percentage-change-consumer-price-index-selected",
-    "date": "2026-08-02",
-    "displayDate": "August 2, 2026",
+    "date": "2026-08-03",
+    "displayDate": "August 3, 2026",
     "category": "Economic Data",
     "tags": [
       "economic data",
       "financial news",
       "market update"
     ],
-    "metaDescription": "The 12-month percentage change in the Consumer Price Index for June 2026 was 3.5%, with energy showing a 15.7% increase. The most significant decreases were in ",
-    "excerpt": "The 12-month percentage change in the Consumer Price Index for June 2026 was 3.5%, with energy showing a 15.7% increase. The most significant decreases were in fruits and vegetables, down 13.8%. The annual inflation rate for June 2026 was 3.5%.",
+    "metaDescription": "The 12-month percentage change in the Consumer Price Index for June 2026 is 3.5%, with energy at 15.7% and fruits and vegetables at 5.3%. The data is from the U",
+    "excerpt": "The 12-month percentage change in the Consumer Price Index for June 2026 is 3.5%, with energy at 15.7% and fruits and vegetables at 5.3%. The data is from the U.S. Bureau of Labor Statistics.",
     "image": {
-      "src": "/images/article_thumb_5.jpg",
+      "src": "/images/article_thumb_3.jpg",
       "alt": "12-month percentage change, Consumer Price Index, selected ..."
     },
+    "readingTime": 3
+  },
+  {
+    "id": "amazon-apple-both-report-earnings-the-close-7-30-2026",
+    "type": "news",
+    "title": "Amazon & Apple Both Report Earnings | The Close 7/30/2026",
+    "slug": "amazon-apple-both-report-earnings-the-close-7-30-2026",
+    "date": "2026-08-03",
+    "displayDate": "August 3, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Amazon and Apple reported earnings, with Amazon's revenue exceeding expectations and Apple's sales and profits also surpassing estimates. Both companies highlig",
+    "excerpt": "Amazon and Apple reported earnings, with Amazon's revenue exceeding expectations and Apple's sales and profits also surpassing estimates. Both companies highlighted future growth, particularly in AI and technology sectors.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Amazon & Apple Both Report Earnings | The Close 7/30/2026"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "bitcoin-btc-price-today-btc-live-price-charts-news",
+    "type": "news",
+    "title": "Bitcoin (BTC) Price Today: BTC Live Price, Charts, News",
+    "slug": "bitcoin-btc-price-today-btc-live-price-charts-news",
+    "date": "2026-08-03",
+    "displayDate": "August 3, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin's price today is $63,000. Its market cap is $1.26 trillion. It has a 24-hour trading volume of $20 billion.",
+    "excerpt": "Bitcoin's price today is $63,000. Its market cap is $1.26 trillion. It has a 24-hour trading volume of $20 billion.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Bitcoin (BTC) Price Today: BTC Live Price, Charts, News"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "bitcoin-price-today-btc-to-usd-live-price-marketcap",
+    "type": "news",
+    "title": "Bitcoin price today, BTC to USD live price, marketcap ...",
+    "slug": "bitcoin-price-today-btc-to-usd-live-price-marketcap",
+    "date": "2026-08-03",
+    "displayDate": "August 3, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin's current price is around $63,200, with a market cap of $1.3 trillion. It has risen by about 0.8% in the last 24 hours. The circulating supply is 20 mil",
+    "excerpt": "Bitcoin's current price is around $63,200, with a market cap of $1.3 trillion. It has risen by about 0.8% in the last 24 hours. The circulating supply is 20 million BTC.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Bitcoin price today, BTC to USD live price, marketcap ..."
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "bitcoin-usd-price-quote-market-cap-forecast-news",
+    "type": "news",
+    "title": "Bitcoin USD Price: Quote, Market Cap, Forecast & News ...",
+    "slug": "bitcoin-usd-price-quote-market-cap-forecast-news",
+    "date": "2026-08-03",
+    "displayDate": "August 3, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin's price is $63,079.20, market cap is $1.265 trillion, and it has risen 0.06% in the last 24 hours. The circulating supply is 20,064,771 BTC.",
+    "excerpt": "Bitcoin's price is $63,079.20, market cap is $1.265 trillion, and it has risen 0.06% in the last 24 hours. The circulating supply is 20,064,771 BTC.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Bitcoin USD Price: Quote, Market Cap, Forecast & News ..."
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "cpi-home-u-s-bureau-of-labor-statistics",
+    "type": "news",
+    "title": "CPI Home : U.S. Bureau of Labor Statistics",
+    "slug": "cpi-home-u-s-bureau-of-labor-statistics",
+    "date": "2026-08-03",
+    "displayDate": "August 3, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Consumer Price Index (CPI) measures average price changes for goods and services in the U.S. In June 2026, the CPI decreased 0.4% from May. Over the past ye",
+    "excerpt": "The Consumer Price Index (CPI) measures average price changes for goods and services in the U.S. In June 2026, the CPI decreased 0.4% from May. Over the past year, the CPI increased 3.5%.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "CPI Home : U.S. Bureau of Labor Statistics"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "divided-fed-leaves-interest-rates-unchanged",
+    "type": "news",
+    "title": "Divided Fed Leaves Interest Rates Unchanged",
+    "slug": "divided-fed-leaves-interest-rates-unchanged",
+    "date": "2026-08-03",
+    "displayDate": "August 3, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Reserve left interest rates unchanged in a divided decision, with some officials advocating for a hike. The central bank adopted a hawkish tone, sig",
+    "excerpt": "The Federal Reserve left interest rates unchanged in a divided decision, with some officials advocating for a hike. The central bank adopted a hawkish tone, signaling potential future rate increases. This decision was widely anticipated.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Divided Fed Leaves Interest Rates Unchanged"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "earnings-calendar-and-analysis-for-this-week-august-3-7",
+    "type": "news",
+    "title": "Earnings Calendar and Analysis for This Week (August 3-7)",
+    "slug": "earnings-calendar-and-analysis-for-this-week-august-3-7",
+    "date": "2026-08-03",
+    "displayDate": "August 3, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "This week's earnings include major companies like Berkshire Hathaway, Tesla, and Alphabet. Key reports are expected from ACI Worldwide and Becton Dickinson. Ear",
+    "excerpt": "This week's earnings include major companies like Berkshire Hathaway, Tesla, and Alphabet. Key reports are expected from ACI Worldwide and Becton Dickinson. Earnings data is available on Kiplinger, Investing.com, and Zacks.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Earnings Calendar and Analysis for This Week (August 3-7)"
+    },
     "readingTime": 5
+  },
+  {
+    "id": "earnings-calendar",
+    "type": "news",
+    "title": "Earnings Calendar",
+    "slug": "earnings-calendar",
+    "date": "2026-08-03",
+    "displayDate": "August 3, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "An earnings calendar lists dates when companies report quarterly financial results. It helps investors track upcoming earnings reports and compare forecasts wit",
+    "excerpt": "An earnings calendar lists dates when companies report quarterly financial results. It helps investors track upcoming earnings reports and compare forecasts with actual results. As of August 3, 2026, there are 135 earnings reports scheduled for August 4.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Earnings Calendar"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "earnings",
+    "type": "news",
+    "title": "Earnings",
+    "slug": "earnings",
+    "date": "2026-08-03",
+    "displayDate": "August 3, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Earnings refer to a company's profits, disclosed in quarterly reports, and are crucial for assessing financial health and performance. Earnings reports include ",
+    "excerpt": "Earnings refer to a company's profits, disclosed in quarterly reports, and are crucial for assessing financial health and performance. Earnings reports include key metrics like revenue and earnings per share. Investors use earnings to evaluate a company's profitability and growth potential.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Earnings"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "fed-interest-rate-decision",
+    "type": "news",
+    "title": "Fed Interest Rate Decision",
+    "slug": "fed-interest-rate-decision",
+    "date": "2026-08-03",
+    "displayDate": "August 3, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Reserve's next interest rate decision is scheduled for April 29, 2026. Rates were unchanged at 3.50% to 3.75% in the latest meeting. The decision wi",
+    "excerpt": "The Federal Reserve's next interest rate decision is scheduled for April 29, 2026. Rates were unchanged at 3.50% to 3.75% in the latest meeting. The decision will be announced at 2:00 PM ET.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Fed Interest Rate Decision"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "fed-leaves-interest-rate-unchanged-but-with-3-dissents-as-warsh-praises-good-fam",
+    "type": "news",
+    "title": "Fed leaves interest rate unchanged but with 3 dissents as Warsh praises ‘good family fight’",
+    "slug": "fed-leaves-interest-rate-unchanged-but-with-3-dissents-as-warsh-praises-good-fam",
+    "date": "2026-08-03",
+    "displayDate": "August 3, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Reserve kept its key interest rate unchanged at 3.6%, despite dissent from three officials, with Chair Kevin Warsh describing the debate as a \"good ",
+    "excerpt": "The Federal Reserve kept its key interest rate unchanged at 3.6%, despite dissent from three officials, with Chair Kevin Warsh describing the debate as a \"good family fight.\" The decision was made amid high inflation and energy price spikes due to the Iran war.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Fed leaves interest rate unchanged but with 3 dissents as Warsh praises ‘good family fight’"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "global-market-indices-international-markets-markets-insider",
+    "type": "news",
+    "title": "Global Market Indices | International Markets - Markets Insider",
+    "slug": "global-market-indices-international-markets-markets-insider",
+    "date": "2026-08-03",
+    "displayDate": "August 3, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "As of August 3, 2026, the S&P 500 is at 7,489.72, up 0.7%. The Nikkei 225 is at 64,362.02, up 4.03%. The Dow Jones is at 52,485.03, up 0.53%.",
+    "excerpt": "As of August 3, 2026, the S&P 500 is at 7,489.72, up 0.7%. The Nikkei 225 is at 64,362.02, up 4.03%. The Dow Jones is at 52,485.03, up 0.53%.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Global Market Indices | International Markets - Markets Insider"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "global-stock-market-news-and-world-indices-coverage",
+    "type": "news",
+    "title": "Global Stock Market News and World Indices Coverage",
+    "slug": "global-stock-market-news-and-world-indices-coverage",
+    "date": "2026-08-03",
+    "displayDate": "August 3, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Global stock markets showed mixed trends, with European indices rising and Asian markets climbing. The S&P 500 closed higher, while South Korean stocks fell sig",
+    "excerpt": "Global stock markets showed mixed trends, with European indices rising and Asian markets climbing. The S&P 500 closed higher, while South Korean stocks fell significantly. European stocks advanced as inflation and bond yields remained in focus.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Global Stock Market News and World Indices Coverage"
+    },
+    "readingTime": 5
+  },
+  {
+    "id": "how-should-i-allocate-my-portfolio-in-2026",
+    "type": "news",
+    "title": "How Should I Allocate My Portfolio in 2026?",
+    "slug": "how-should-i-allocate-my-portfolio-in-2026",
+    "date": "2026-08-03",
+    "displayDate": "August 3, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Allocate more to stocks for long-term growth, consider bonds for stability, and diversify globally. Review annually or after major changes.",
+    "excerpt": "Allocate more to stocks for long-term growth, consider bonds for stability, and diversify globally. Review annually or after major changes.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "How Should I Allocate My Portfolio in 2026?"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "inflation-economic-data-series-fred-st-louis-fed",
+    "type": "news",
+    "title": "Inflation - Economic Data Series | FRED | St. Louis Fed",
+    "slug": "inflation-economic-data-series-fred-st-louis-fed",
+    "date": "2026-08-03",
+    "displayDate": "August 3, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Inflation data is available from the St. Louis Fed's FRED database, including the Consumer Price Index and various price indices. The data covers historical per",
+    "excerpt": "Inflation data is available from the St. Louis Fed's FRED database, including the Consumer Price Index and various price indices. The data covers historical periods and includes seasonally adjusted and non-adjusted series.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Inflation - Economic Data Series | FRED | St. Louis Fed"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "interactive-world-macromap-ft-com-markets-data",
+    "type": "news",
+    "title": "Interactive World Macromap - FT.com - Markets data",
+    "slug": "interactive-world-macromap-ft-com-markets-data",
+    "date": "2026-08-03",
+    "displayDate": "August 3, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Interactive World Macromap on FT.com provides real-time global market data, including stock indices and performance metrics. The S&P 500 and Dow Jones Indus",
+    "excerpt": "The Interactive World Macromap on FT.com provides real-time global market data, including stock indices and performance metrics. The S&P 500 and Dow Jones Industrial Average are up, while European indices show mixed results. For detailed data, visit FT.com.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Interactive World Macromap - FT.com - Markets data"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "investment-strategy-2026-portfolio-moves-for-a-changing-market",
+    "type": "news",
+    "title": "Investment Strategy 2026 Portfolio Moves for a Changing Market",
+    "slug": "investment-strategy-2026-portfolio-moves-for-a-changing-market",
+    "date": "2026-08-03",
+    "displayDate": "August 3, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "For 2026, focus on income generation and diversification, especially in AI-driven sectors, while maintaining portfolio resilience against market volatility. Pri",
+    "excerpt": "For 2026, focus on income generation and diversification, especially in AI-driven sectors, while maintaining portfolio resilience against market volatility. Prioritize cash-flow-generative assets and idiosyncratic opportunities.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Investment Strategy 2026 Portfolio Moves for a Changing Market"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "meta-title-sectors",
+    "type": "news",
+    "title": "META_TITLE_SECTORS",
+    "slug": "meta-title-sectors",
+    "date": "2026-08-03",
+    "displayDate": "August 3, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The technology sector has the highest YTD return of 17.44%, while energy leads with a 30.82% YTD return. The real estate sector has a YTD return of 12.54%.",
+    "excerpt": "The technology sector has the highest YTD return of 17.44%, while energy leads with a 30.82% YTD return. The real estate sector has a YTD return of 12.54%.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "META_TITLE_SECTORS"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "s-p-500-index-overview-spx",
+    "type": "news",
+    "title": "S&P 500 Index Overview - SPX",
+    "slug": "s-p-500-index-overview-spx",
+    "date": "2026-08-03",
+    "displayDate": "August 3, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The S&P 500 Index tracks 500 leading U.S. companies, with a current value of 7,489.72 as of August 3, 2026. It has a year-to-date change of 9.41% and a 12-month",
+    "excerpt": "The S&P 500 Index tracks 500 leading U.S. companies, with a current value of 7,489.72 as of August 3, 2026. It has a year-to-date change of 9.41% and a 12-month change of 20.07%.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "S&P 500 Index Overview - SPX"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "s-p-500-index-sp500-analysis-news-and-chart-today",
+    "type": "news",
+    "title": "S&P 500 Index (SP500) Analysis, News, And Chart Today",
+    "slug": "s-p-500-index-sp500-analysis-news-and-chart-today",
+    "date": "2026-08-03",
+    "displayDate": "August 3, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The S&P 500 index closed at 7,489.72, up 0.70% on August 1, 2026. Key gainers included Amazon and Monolithic Power. The index's 52-week high was 7,620.90.",
+    "excerpt": "The S&P 500 index closed at 7,489.72, up 0.70% on August 1, 2026. Key gainers included Amazon and Monolithic Power. The index's 52-week high was 7,620.90.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "S&P 500 Index (SP500) Analysis, News, And Chart Today"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "s-p-500-sp500-technical-analysis-medium-term-us-500-investtech",
+    "type": "news",
+    "title": "S&P 500 (SP500) - Technical Analysis - Medium term - US 500 - Investtech",
+    "slug": "s-p-500-sp500-technical-analysis-medium-term-us-500-investtech",
+    "date": "2026-08-03",
+    "displayDate": "August 3, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The S&P 500 is in a rising trend channel, indicating positive market development. It is approaching resistance at 7600 points, with a weak positive recommendati",
+    "excerpt": "The S&P 500 is in a rising trend channel, indicating positive market development. It is approaching resistance at 7600 points, with a weak positive recommendation for the next six months. The index shows strong liquidity and moderate volatility.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "S&P 500 (SP500) - Technical Analysis - Medium term - US 500 - Investtech"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "sector-research-news-and-performance-sector-industries",
+    "type": "news",
+    "title": "Sector Research, News and Performance | Sector Industries",
+    "slug": "sector-research-news-and-performance-sector-industries",
+    "date": "2026-08-03",
+    "displayDate": "August 3, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The S&P 500 sectors include Energy, Financials, Consumer Staples, Information Technology, and Industrials, each with distinct performance metrics. The Energy se",
+    "excerpt": "The S&P 500 sectors include Energy, Financials, Consumer Staples, Information Technology, and Industrials, each with distinct performance metrics. The Energy sector often leads in growth, while Financials can be volatile. The S&P 500 index provides a broader market performance benchmark.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Sector Research, News and Performance | Sector Industries"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "sector-views-monthly-stock-sector-outlook",
+    "type": "news",
+    "title": "Sector Views: Monthly Stock Sector Outlook",
+    "slug": "sector-views-monthly-stock-sector-outlook",
+    "date": "2026-08-03",
+    "displayDate": "August 3, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Health Care is most favored, Industrials is more favored, and Consumer Discretionary is least favored in the monthly stock sector outlook.",
+    "excerpt": "Health Care is most favored, Industrials is more favored, and Consumer Discretionary is least favored in the monthly stock sector outlook.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Sector Views: Monthly Stock Sector Outlook"
+    },
+    "readingTime": 6
+  },
+  {
+    "id": "six-portfolio-strategy-ideas-for-2026",
+    "type": "news",
+    "title": "Six portfolio strategy ideas for 2026",
+    "slug": "six-portfolio-strategy-ideas-for-2026",
+    "date": "2026-08-03",
+    "displayDate": "August 3, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "For 2026, consider increasing exposure to small caps and emerging markets, diversifying equities globally, and using fixed income for stability.",
+    "excerpt": "For 2026, consider increasing exposure to small caps and emerging markets, diversifying equities globally, and using fixed income for stability.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Six portfolio strategy ideas for 2026"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "united-states-economic-indicators-moody-s-analytics",
+    "type": "news",
+    "title": "United States | Economic Indicators | Moody's Analytics",
+    "slug": "united-states-economic-indicators-moody-s-analytics",
+    "date": "2026-08-03",
+    "displayDate": "August 3, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Moody's Analytics reports U.S. economic indicators including Treasury Bills at 3.77% and Retail Sales growth at 1.9% in June 2026. The inflation rate is 3.5% in",
+    "excerpt": "Moody's Analytics reports U.S. economic indicators including Treasury Bills at 3.77% and Retail Sales growth at 1.9% in June 2026. The inflation rate is 3.5% in June 2026. The interest rate is 3.75% as of July 2026.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "United States | Economic Indicators | Moody's Analytics"
+    },
+    "readingTime": 5
+  },
+  {
+    "id": "united-states-indicators",
+    "type": "news",
+    "title": "United States Indicators",
+    "slug": "united-states-indicators",
+    "date": "2026-08-03",
+    "displayDate": "August 3, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The United States' latest GDP growth was 2.1% in 2025, and the latest Consumer Confidence Index was 55.2 in July 2026. The latest Composite PMI was 53.6 in July",
+    "excerpt": "The United States' latest GDP growth was 2.1% in 2025, and the latest Consumer Confidence Index was 55.2 in July 2026. The latest Composite PMI was 53.6 in July 2026. The latest Balance of Trade deficit was $77.6 billion in June 2026.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "United States Indicators"
+    },
+    "readingTime": 5
+  },
+  {
+    "id": "united-states-inflation-rate",
+    "type": "news",
+    "title": "United States Inflation Rate",
+    "slug": "united-states-inflation-rate",
+    "date": "2026-08-03",
+    "displayDate": "August 3, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The U.S. inflation rate was 3.5% in June 2026, down from 4.2% in May. This decline marks the first drop in five months. Analysts expect inflation to continue de",
+    "excerpt": "The U.S. inflation rate was 3.5% in June 2026, down from 4.2% in May. This decline marks the first drop in five months. Analysts expect inflation to continue decreasing.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "United States Inflation Rate"
+    },
+    "readingTime": 4
   },
   {
     "id": "2026-investment-outlook-themes-for-portfolio-strategies",
@@ -103,27 +670,6 @@
       "alt": "Ahead of Wall Street - Daily Stock Market Outlook"
     },
     "readingTime": 4
-  },
-  {
-    "id": "amazon-apple-both-report-earnings-the-close-7-30-2026",
-    "type": "news",
-    "title": "Amazon & Apple Both Report Earnings | The Close 7/30/2026",
-    "slug": "amazon-apple-both-report-earnings-the-close-7-30-2026",
-    "date": "2026-08-02",
-    "displayDate": "August 2, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "On July 30, 2026, Apple and Amazon reported earnings, with both companies exceeding revenue expectations. Apple's revenue grew 16% to $109.4 billion, while Amaz",
-    "excerpt": "On July 30, 2026, Apple and Amazon reported earnings, with both companies exceeding revenue expectations. Apple's revenue grew 16% to $109.4 billion, while Amazon's revenue surged 20% to $200.6 billion. Amazon's earnings grew 245% due to AI investments.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Amazon & Apple Both Report Earnings | The Close 7/30/2026"
-    },
-    "readingTime": 3
   },
   {
     "id": "asia-market-data-marketwatch",
@@ -227,27 +773,6 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "Asian Stock Market: Capital Markets News, Bond Market News, Commodities News, ETFs News"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "bitcoin-btc-price-today-btc-live-price-charts-news",
-    "type": "news",
-    "title": "Bitcoin (BTC) Price Today: BTC Live Price, Charts, News",
-    "slug": "bitcoin-btc-price-today-btc-live-price-charts-news",
-    "date": "2026-08-02",
-    "displayDate": "August 2, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Bitcoin's price today is $63,163.64, up 0.79% in the last 24 hours. It has a circulating supply of 20.06 million BTC.",
-    "excerpt": "Bitcoin's price today is $63,163.64, up 0.79% in the last 24 hours. It has a circulating supply of 20.06 million BTC.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Bitcoin (BTC) Price Today: BTC Live Price, Charts, News"
     },
     "readingTime": 3
   },
@@ -378,27 +903,6 @@
     "readingTime": 3
   },
   {
-    "id": "cpi-home-u-s-bureau-of-labor-statistics",
-    "type": "news",
-    "title": "CPI Home : U.S. Bureau of Labor Statistics",
-    "slug": "cpi-home-u-s-bureau-of-labor-statistics",
-    "date": "2026-08-02",
-    "displayDate": "August 2, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Consumer Price Index (CPI) decreased 0.4% in June 2026 after a 0.5% rise in May. Over the past year, the CPI increased 3.5%. Energy prices rose significantl",
-    "excerpt": "The Consumer Price Index (CPI) decreased 0.4% in June 2026 after a 0.5% rise in May. Over the past year, the CPI increased 3.5%. Energy prices rose significantly.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "CPI Home : U.S. Bureau of Labor Statistics"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "crypto-news-bitcoin-ethereum-xrp-news-crypto-news",
     "type": "news",
     "title": "Crypto News: Bitcoin, Ethereum & XRP News | crypto.news",
@@ -458,69 +962,6 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "Earnings Calendar 2026 | Daily Earnings Reports"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "earnings-calendar-and-analysis-for-this-week-august-3-7",
-    "type": "news",
-    "title": "Earnings Calendar and Analysis for This Week (August 3-7)",
-    "slug": "earnings-calendar-and-analysis-for-this-week-august-3-7",
-    "date": "2026-08-02",
-    "displayDate": "August 2, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "This week's earnings include major companies like Alphabet, Tesla, and Microsoft. Alphabet and Tesla reported negative reactions post-earnings. Microsoft, Meta ",
-    "excerpt": "This week's earnings include major companies like Alphabet, Tesla, and Microsoft. Alphabet and Tesla reported negative reactions post-earnings. Microsoft, Meta Platforms, Apple, and Amazon are next to report.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Earnings Calendar and Analysis for This Week (August 3-7)"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "earnings-calendar",
-    "type": "news",
-    "title": "Earnings Calendar",
-    "slug": "earnings-calendar",
-    "date": "2026-08-02",
-    "displayDate": "August 2, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "An earnings calendar tracks upcoming and past earnings reports for publicly traded companies, helping investors compare expected and actual results. It's a key ",
-    "excerpt": "An earnings calendar tracks upcoming and past earnings reports for publicly traded companies, helping investors compare expected and actual results. It's a key tool for financial analysis and planning. Most companies report quarterly.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Earnings Calendar"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "earnings",
-    "type": "news",
-    "title": "Earnings",
-    "slug": "earnings",
-    "date": "2026-08-02",
-    "displayDate": "August 2, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Earnings are the net income a corporation earns from its operations. They are also the basis for corporate tax. Earnings can be analyzed using terms like EBIT a",
-    "excerpt": "Earnings are the net income a corporation earns from its operations. They are also the basis for corporate tax. Earnings can be analyzed using terms like EBIT and EBITDA.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Earnings"
     },
     "readingTime": 3
   },
@@ -798,48 +1239,6 @@
     "readingTime": 3
   },
   {
-    "id": "global-market-indices-international-markets-markets-insider",
-    "type": "news",
-    "title": "Global Market Indices | International Markets | Markets Insider",
-    "slug": "global-market-indices-international-markets-markets-insider",
-    "date": "2026-08-02",
-    "displayDate": "August 2, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "As of August 2, 2026, the S&P 500 is up 0.70%, the Dow Jones is up 0.53%, and the NASDAQ 100 is up 0.60%. The Nikkei 225 is up 4.03%.",
-    "excerpt": "As of August 2, 2026, the S&P 500 is up 0.70%, the Dow Jones is up 0.53%, and the NASDAQ 100 is up 0.60%. The Nikkei 225 is up 4.03%.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Global Market Indices | International Markets | Markets Insider"
-    },
-    "readingTime": 5
-  },
-  {
-    "id": "global-stock-market-news-and-world-indices-coverage",
-    "type": "news",
-    "title": "Global Stock Market News and World Indices Coverage",
-    "slug": "global-stock-market-news-and-world-indices-coverage",
-    "date": "2026-08-02",
-    "displayDate": "August 2, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Global stock markets showed mixed trends in May 2026, with European markets advancing and Asian markets fluctuating due to geopolitical tensions. Major indices ",
-    "excerpt": "Global stock markets showed mixed trends in May 2026, with European markets advancing and Asian markets fluctuating due to geopolitical tensions. Major indices like Nikkei 225 and DAX saw gains, while FTSE 100 declined slightly.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Global Stock Market News and World Indices Coverage"
-    },
-    "readingTime": 5
-  },
-  {
     "id": "health-care-sector-industry-performance-bloomberg",
     "type": "news",
     "title": "Health Care Sector & Industry Performance - Bloomberg",
@@ -882,27 +1281,6 @@
     "readingTime": 4
   },
   {
-    "id": "inflation-economic-data-series-fred-st-louis-fed",
-    "type": "news",
-    "title": "Inflation - Economic Data Series | FRED | St. Louis Fed",
-    "slug": "inflation-economic-data-series-fred-st-louis-fed",
-    "date": "2026-08-02",
-    "displayDate": "August 2, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Inflation is measured by the Consumer Price Index (CPI) and other indices; recent U.S. annual inflation was 2.9% in 2024. The Federal Reserve tracks these data ",
-    "excerpt": "Inflation is measured by the Consumer Price Index (CPI) and other indices; recent U.S. annual inflation was 2.9% in 2024. The Federal Reserve tracks these data to manage economic policy.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Inflation - Economic Data Series | FRED | St. Louis Fed"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "investment-strategies-for-today-and-long-term-blackrock",
     "type": "news",
     "title": "Investment strategies for today and long-term | BlackRock",
@@ -922,27 +1300,6 @@
       "alt": "Investment strategies for today and long-term | BlackRock"
     },
     "readingTime": 4
-  },
-  {
-    "id": "investment-strategy-2026-portfolio-moves-for-a-changing-market",
-    "type": "news",
-    "title": "Investment Strategy 2026 Portfolio Moves for a Changing Market",
-    "slug": "investment-strategy-2026-portfolio-moves-for-a-changing-market",
-    "date": "2026-08-02",
-    "displayDate": "August 2, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "For 2026, focus on generating income and diversifying portfolios, especially with AI-driven assets, while maintaining resilience against market volatility. Prio",
-    "excerpt": "For 2026, focus on generating income and diversifying portfolios, especially with AI-driven assets, while maintaining resilience against market volatility. Prioritize cash-flow-generative assets and idiosyncratic opportunities. Stay invested for long-term goals.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Investment Strategy 2026 Portfolio Moves for a Changing Market"
-    },
-    "readingTime": 3
   },
   {
     "id": "marketwatch-stock-market-news-financial-news-marketwatch",
@@ -966,27 +1323,6 @@
     "readingTime": 4
   },
   {
-    "id": "meta-title-sectors",
-    "type": "news",
-    "title": "META_TITLE_SECTORS",
-    "slug": "meta-title-sectors",
-    "date": "2026-08-02",
-    "displayDate": "August 2, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The technology sector has the highest market weight and YTD return, while consumer electronics has a significant market cap and industry weight. Consumer electr",
-    "excerpt": "The technology sector has the highest market weight and YTD return, while consumer electronics has a significant market cap and industry weight. Consumer electronics focuses on mobile communication and audio/video equipment.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "META_TITLE_SECTORS"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "outlook-at-risk-real-gdp-growth-unemployment-and",
     "type": "news",
     "title": "Outlook-at-Risk: Real GDP Growth, Unemployment, and ...",
@@ -1006,27 +1342,6 @@
       "alt": "Outlook-at-Risk: Real GDP Growth, Unemployment, and ..."
     },
     "readingTime": 3
-  },
-  {
-    "id": "s-p-500-index-sp500-analysis-news-and-chart-today",
-    "type": "news",
-    "title": "S&P 500 Index (SP500) Analysis, News, And Chart Today",
-    "slug": "s-p-500-index-sp500-analysis-news-and-chart-today",
-    "date": "2026-08-02",
-    "displayDate": "August 2, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The S&P 500 closed at 7,489.72, up 0.70% on July 31, 2026. Amazon led gains, while American Water Works saw the largest loss. RBC Capital Markets maintained its",
-    "excerpt": "The S&P 500 closed at 7,489.72, up 0.70% on July 31, 2026. Amazon led gains, while American Water Works saw the largest loss. RBC Capital Markets maintained its target at 8,150.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "S&P 500 Index (SP500) Analysis, News, And Chart Today"
-    },
-    "readingTime": 4
   },
   {
     "id": "s-p-500-index-technical-analysis",
@@ -1069,48 +1384,6 @@
       "alt": "S&P 500 (SP500) - Technical Analysis - Medium term"
     },
     "readingTime": 4
-  },
-  {
-    "id": "sector-views-monthly-stock-sector-outlook",
-    "type": "news",
-    "title": "Sector Views: Monthly Stock Sector Outlook",
-    "slug": "sector-views-monthly-stock-sector-outlook",
-    "date": "2026-08-02",
-    "displayDate": "August 2, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Information Technology sector is more favored, while Real Estate is least favored in the monthly stock sector outlook. The S&P 500 Information Technology Se",
-    "excerpt": "The Information Technology sector is more favored, while Real Estate is least favored in the monthly stock sector outlook. The S&P 500 Information Technology Sector has shown significant growth over various time frames. The S&P 500 Information Technology Sector outperformed other sectors in the past",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Sector Views: Monthly Stock Sector Outlook"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "six-portfolio-strategy-ideas-for-2026",
-    "type": "news",
-    "title": "Six portfolio strategy ideas for 2026",
-    "slug": "six-portfolio-strategy-ideas-for-2026",
-    "date": "2026-08-02",
-    "displayDate": "August 2, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "For 2026, consider increasing exposure to small caps and emerging markets, diversifying equities globally, and using fixed income for stability. Also, deploy ex",
-    "excerpt": "For 2026, consider increasing exposure to small caps and emerging markets, diversifying equities globally, and using fixed income for stability. Also, deploy excess cash and explore alternatives for qualified investors.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Six portfolio strategy ideas for 2026"
-    },
-    "readingTime": 3
   },
   {
     "id": "tech-news-today-s-latest-technology-news",
@@ -1260,27 +1533,6 @@
     "readingTime": 3
   },
   {
-    "id": "united-states-economic-indicators-moody-s-analytics",
-    "type": "news",
-    "title": "United States | Economic Indicators | Moody's Analytics",
-    "slug": "united-states-economic-indicators-moody-s-analytics",
-    "date": "2026-08-02",
-    "displayDate": "August 2, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Moody's Analytics reports the U.S. Treasury Bills at 3.77% and the lending rate at 3.63% for July 2026. The stock market index is projected at 52,747 for the sa",
-    "excerpt": "Moody's Analytics reports the U.S. Treasury Bills at 3.77% and the lending rate at 3.63% for July 2026. The stock market index is projected at 52,747 for the same month. The government budget balance is -$120,305 for June 2026.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "United States | Economic Indicators | Moody's Analytics"
-    },
-    "readingTime": 5
-  },
-  {
     "id": "united-states-federal-reserve-interest-rate-decision",
     "type": "news",
     "title": "United States Federal Reserve Interest Rate Decision",
@@ -1298,48 +1550,6 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "United States Federal Reserve Interest Rate Decision"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "united-states-indicators",
-    "type": "news",
-    "title": "United States Indicators",
-    "slug": "united-states-indicators",
-    "date": "2026-08-02",
-    "displayDate": "August 2, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The U.S. economy saw a 0.2% increase in the Coincident Economic Index in June 2026, with notable indicators including payroll employment and industrial producti",
-    "excerpt": "The U.S. economy saw a 0.2% increase in the Coincident Economic Index in June 2026, with notable indicators including payroll employment and industrial production. GDP growth rate was 1.5% in June 2026. The unemployment rate was 4.2% in June 2026.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "United States Indicators"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "united-states-inflation-rate",
-    "type": "news",
-    "title": "United States Inflation Rate",
-    "slug": "united-states-inflation-rate",
-    "date": "2026-08-02",
-    "displayDate": "August 2, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The U.S. inflation rate was 3.5% in June 2026, down from 4.2% in May. This decline follows five months of increases. The annual rate is expected to continue dec",
-    "excerpt": "The U.S. inflation rate was 3.5% in June 2026, down from 4.2% in May. This decline follows five months of increases. The annual rate is expected to continue decreasing.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "United States Inflation Rate"
     },
     "readingTime": 4
   },
@@ -1617,27 +1827,6 @@
     "readingTime": 3
   },
   {
-    "id": "divided-fed-leaves-interest-rates-unchanged",
-    "type": "news",
-    "title": "Divided Fed Leaves Interest Rates Unchanged",
-    "slug": "divided-fed-leaves-interest-rates-unchanged",
-    "date": "2026-08-01",
-    "displayDate": "August 1, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Reserve left interest rates unchanged, with a range of 3.5% to 3.75%, despite internal dissent and a hawkish policy statement. Three members voted f",
-    "excerpt": "The Federal Reserve left interest rates unchanged, with a range of 3.5% to 3.75%, despite internal dissent and a hawkish policy statement. Three members voted for a hike. The decision followed Kevin Warsh's first meeting as chair.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Divided Fed Leaves Interest Rates Unchanged"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "earnings-calendar-events",
     "type": "news",
     "title": "Earnings Calendar & Events",
@@ -1806,27 +1995,6 @@
     "readingTime": 3
   },
   {
-    "id": "how-should-i-allocate-my-portfolio-in-2026",
-    "type": "news",
-    "title": "How Should I Allocate My Portfolio in 2026?",
-    "slug": "how-should-i-allocate-my-portfolio-in-2026",
-    "date": "2026-08-01",
-    "displayDate": "August 1, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Allocate your portfolio based on your time horizon, risk tolerance, and income stability. Stocks drive growth, while bonds reduce volatility. Review your alloca",
-    "excerpt": "Allocate your portfolio based on your time horizon, risk tolerance, and income stability. Stocks drive growth, while bonds reduce volatility. Review your allocation annually or after major life changes.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "How Should I Allocate My Portfolio in 2026?"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "how-the-fomc-conducts-monetary-policy-st-louis-fed",
     "type": "news",
     "title": "How the FOMC Conducts Monetary Policy | St. Louis Fed",
@@ -1909,27 +2077,6 @@
       "alt": "Live Bitcoin Price, Charts & News - BTC Today"
     },
     "readingTime": 3
-  },
-  {
-    "id": "s-p-500-index-overview-spx",
-    "type": "news",
-    "title": "S&P 500 Index Overview - SPX",
-    "slug": "s-p-500-index-overview-spx",
-    "date": "2026-08-01",
-    "displayDate": "August 1, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The S&P 500 is a stock market index tracking 500 large U.S. companies. It represents about 80% of U.S. market capitalization and has a current value of 7,428.78",
-    "excerpt": "The S&P 500 is a stock market index tracking 500 large U.S. companies. It represents about 80% of U.S. market capitalization and has a current value of 7,428.78 as of August 1, 2026.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "S&P 500 Index Overview - SPX"
-    },
-    "readingTime": 4
   },
   {
     "id": "s-p-500-index-what-it-s-for-and-why-it-s-important-in",
@@ -6464,27 +6611,6 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "S&P 500 Index Overview - SPX - MarketWatch"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "sector-research-news-and-performance-sector-industries",
-    "type": "news",
-    "title": "Sector Research, News and Performance | Sector Industries",
-    "slug": "sector-research-news-and-performance-sector-industries",
-    "date": "2026-07-01",
-    "displayDate": "July 1, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Sector research, news, and performance data are available from Fidelity, State Street Global Advisors, and Yahoo Finance. Fidelity offers sector performance dur",
-    "excerpt": "Sector research, news, and performance data are available from Fidelity, State Street Global Advisors, and Yahoo Finance. Fidelity offers sector performance during business cycles. State Street provides sector ETF performance summaries. Yahoo Finance features sector performance dashboards and recent",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Sector Research, News and Performance | Sector Industries"
     },
     "readingTime": 3
   },
