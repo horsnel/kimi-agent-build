@@ -3,8 +3,8 @@
   "type": "news",
   "title": "Global Stock Market News and World Indices Coverage",
   "slug": "global-stock-market-news-and-world-indices-coverage",
-  "date": "2026-08-03",
-  "displayDate": "August 3, 2026",
+  "date": "2026-08-04",
+  "displayDate": "August 4, 2026",
   "author": "Sigma Capital",
   "category": "Global Markets",
   "tags": [
@@ -12,32 +12,32 @@
     "financial news",
     "market update"
   ],
-  "metaDescription": "Global stock markets showed mixed trends, with European indices rising and Asian markets climbing. The S&P 500 closed higher, while South Korean stocks fell sig",
-  "excerpt": "Global stock markets showed mixed trends, with European indices rising and Asian markets climbing. The S&P 500 closed higher, while South Korean stocks fell significantly. European stocks advanced as inflation and bond yields remained in focus.",
+  "metaDescription": "Global stock markets showed mixed performance; European indices like DAX and CAC 40 rose, while Asian markets like Nikkei 225 declined. The S&P 500 closed highe",
+  "excerpt": "Global stock markets showed mixed performance; European indices like DAX and CAC 40 rose, while Asian markets like Nikkei 225 declined. The S&P 500 closed higher, and European markets rebounded as oil prices fell. The Bovespa index in Brazil remained stable.",
   "content": {
-    "introduction": "Global stock markets showed mixed trends, with European indices rising and Asian markets climbing. The S&P 500 closed higher, while South Korean stocks fell significantly. European stocks advanced as inflation and bond yields remained in focus.",
+    "introduction": "Global stock markets showed mixed performance; European indices like DAX and CAC 40 rose, while Asian markets like Nikkei 225 declined. The S&P 500 closed higher, and European markets rebounded as oil prices fell. The Bovespa index in Brazil remained stable.",
     "body": [
       "Sean ConlonTue, Jun 9th 2026\n\nS&P 500 closes higher as chips stage a comeback, Iran stops strikes on Israel\n\nSean ConlonMon, Jun 8th 2026\n\nSouth Korea stocks fall over 5% as tech heavyweights follow plunge in Wall Street's AI-linked names\n\nLee Ying ShanFri, Jun 5th 2026\n\nEuropean stocks slide, but defense sector rallies after Ukraine ratifies $105 billion EU loan deal\n\nHugh LeaskThu, May 28th 2026\n\nDulux maker soars after rejecting rival’s $14.5 billion bid; oil below $100 [...] Hugh LeaskWed, May 27th 2026\n\nEurope Markets\n\nEuropean stocks volatile on Thursday as Iran Supreme Leader demands uranium to stay\n\nThu, May 21st 2026\n\nAsia Markets\n\nAsia-Pacific markets trade higher as investors assess U.S.-Iran peace deal diplomacy\n\nFri, May 22nd 2026\n\nEurope Markets\n\nEuropean stocks advance: UK inflation and elevated bond yields in focus\n\nWed, May 20th 2026\n\nMarkets\n\nEuropean markets: UK unemployment rises; Germany kicks off Uniper privatization\n\nTue, May 19th 2026 [...] Europe Markets\n\nEuropean stocks close higher as Iran war concerns weigh on sentiment\n\nTue, May 5th 2026\n\nMetals\n\nGold heads for weekly loss as high oil prices feed inflation worries\n\nFri, May 1st 2026\n\nCurrencies\n\nYen jumps as Japan threatens more intervention\n\nFri, May 1st 2026\n\nAsia Markets\n\nAustralia and Japan markets climb, looking past Iran war escalation fears\n\nFri, May 1st 2026\n\nEurope Markets\n\nEuropean markets rebound as oil prices fall; BOE and ECB hold rates\n\nThu, Apr 30th 2026",
-      "| ^RUT | Russell 2000 Index |  | 2,931.34  -14.76 (-0.50%) | -14.76 | -0.50% | 0 | 2,902.47 2,955.83 | 2,177.10 3,046.59 |\n| ^VIX | CBOE Volatility Index |  | 15.99  -1.10 (-6.44%) | -1.10 | -6.44% | 0 | 15.82 18.70 | 13.38 35.30 |\n| ^FTSE | FTSE 100 |  | 10,868.05  -29.22 (-0.27%) | -29.22 | -0.27% | 0 | 10,829.34 10,989.45 | 9,068.10 10,989.50 |\n| ^GDAXI | DAX P |  | 25,629.24  +17.21 (+0.07%) | +17.21 | +0.07% | 0 | 25,549.53 25,891.51 | 21,863.81 25,900.10 | [...] | ^FCHI | CAC 40 |  | 8,509.64  +24.00 (+0.28%) | +24.00 | +0.28% | 0 | 8,483.21 8,576.55 | 7,505.27 8,642.23 |\n| ^STOXX50E | EURO STOXX 50 I |  | 6,358.01  +13.61 (+0.21%) | +13.61 | +0.21% | 0 | 6,332.58 6,421.74 | 5,170.48 6,431.42 |\n| ^N100 | Euronext 100 Index |  | 1,925.79  +4.15 (+0.22%) | +4.15 | +0.22% | 0 | 1,919.32 1,944.24 | 1,542.55 1,944.47 |\n| ^BFX | BEL 20 |  | 5,685.82  +30.82 (+0.55%) | +30.82 | +0.55% | 0 | 5,654.85 5,735.73 | 4,561.18 5,817.71 | [...] | ^AXJO | S&P/ASX 200 |  | 8,976.80  +9.10 (+0.10%) | +9.10 | +0.10% | 0 | 8,967.70 9,059.80 | 8,262.40 9,202.90 |\n| ^AORD | ALL ORDINARIES |  | 9,137.00  +14.30 (+0.16%) | +14.30 | +0.16% | 0 | 9,122.70 9,215.80 | 8,454.90 9,436.20 |\n| ^BSESN | S&P BSE SENSEX |  | 78,094.64  +166.49 (+0.21%) | +166.49 | +0.21% | 0 | 77,809.93 78,272.25 | 71,545.81 86,159.02 |\n| ^JKSE | IDX COMPOSITE |  | 6,236.13  +49.76 (+0.80%) | +49.76 | +0.80% | 0 | 6,201.89 6,236.62 | 5,317.91 9,174.47 |",
-      "| Bovespa | 177,999 | 178,719 | 177,014 | +840 | +0.47% |  |\n| S&P/BMV IPC | 66,936.99 | 67,613.02 | 66,832.91 | -353.41 | -0.53% |  |\n| MSCI World | 4,847.88 | 4,860.88 | 4,800.95 | +26.10 | +0.54% |  |\n| DAX\")derived | 25,629.24 | 25,891.51 | 25,549.53 | +17.21 | +0.07% |  |\n| FTSE 100\")derived | 10,868.05 | 10,989.45 | 10,829.34 | -29.22 | -0.27% |  |\n| CAC 40 | 8,509.64 | 8,576.55 | 8,483.21 | +24.00 | +0.28% |  | [...] | ATX | 6,457.92 | 6,576.27 | 6,435.10 | +3.13 | +0.05% |  |\n| OMXS30 | 3,246.92 | 3,289.46 | 3,241.64 | +13.48 | +0.42% |  |\n| OMXC25 | 1,841.22 | 1,881.31 | 1,832.82 | -25.80 | -1.38% |  |\n| MOEX Russia Index | 2,226.36 | 2,232.61 | 2,189.30 | +16.52 | +0.75% |  |\n| RTSI | 882.61 | 884.97 | 863.64 | +10.87 | +1.25% |  |\n| WIG20 | 3,920.26 | 3,928.98 | 3,891.59 | +12.98 | +0.33% |  |\n| Budapest SE | 146,688.56 | 147,357.80 | 146,023.66 | +235.20 | +0.16% |  | [...] | BIST 100 | 13,458.10 | 13,458.10 | 13,216.16 | +165.17 | +1.24% |  |\n| TA 35 | 4,149.50 | 4,153.57 | 4,120.44 | +54.11 | +1.32% |  |\n| Tadawul All Share | 10,705.87 | 10,731.55 | 10,574.40 | +116.15 | +1.10% |  |\n| Nikkei 225\")derived | 64,362.02 | 65,364.73 | 61,948.23 | +2,494.59 | +4.03% |  |\n| S&P/ASX 200 | 8,976.80 | 9,059.80 | 8,967.70 | +9.10 | +0.10% |  |\n| DJ New Zealand | 319.60 | 325.18 | 319.46 | -2.78 | -0.86% |  |"
+      "| ^BFX | BEL 20 |  | 5,667.28  -18.54 (-0.33%) | -18.54 | -0.33% | 0 | 5,658.05 5,707.65 | 4,561.18 5,817.71 |\n| MOEX.ME | Public Joint-Stock Company Moscow Exchange MICEX-RTS |  | 85.20  -0.11 (-0.13%) | -0.11 | -0.13% | 1.576M | 85.07 85.75 | 85.07 90.14 |\n| ^HSI | HANG SENG INDEX |  | 26,009.40  +124.97 (+0.48%) | +124.97 | +0.48% | 0 | 25,811.74 26,133.88 | 22,518.00 28,056.10 |\n| ^STI | STI Index |  | 5,612.28  -16.22 (-0.29%) | -16.22 | -0.29% | 0 | 5,590.93 5,630.49 | 4,144.89 5,713.19 | [...] | ^GDAXI | DAX P |  | 26,001.31  +372.07 (+1.45%) | +372.07 | +1.45% | 0 | 25,855.12 26,096.93 | 21,863.81 26,096.93 |\n| ^FCHI | CAC 40 |  | 8,613.82  +104.18 (+1.22%) | +104.18 | +1.22% | 0 | 8,559.58 8,642.32 | 7,505.27 8,642.32 |\n| ^STOXX50E | EURO STOXX 50 I |  | 6,426.50  +68.49 (+1.08%) | +68.49 | +1.08%  0.00 0.00 | 0.00 6,431.42 |\n| ^N100 | Euronext 100 Index |  | 1,939.23  +13.44 (+0.70%) | +13.44 | +0.70% | 0 | 1,925.52 1,942.60 | 1,542.55 1,944.47 | [...] | 000001.SS | SSE Composite Index |  | 3,809.66  -22.60 (-0.59%) | -22.60 | -0.59% | 912.088M | 3,797.64 3,827.64 | 3,547.16 4,258.86 |\n|  | Nikkei 225 |  | 63,754.90  -607.12 (-0.94%) | -607.12 | -0.94% | 0 | 62,703.47 63,905.12 | 39,850.52 72,831.73 |\n|  | Japanese Yen Currency Index |  | 63.61  +0.18 (+0.29%) | +0.18 | +0.29% | 0 | 63.60 63.99 | 60.98 68.74 |\n|  | Australian Dollar Currency Index |  | 70.00  -0.32 (-0.46%) | -0.32 | -0.46% | 0 | 69.83 70.10 | 64.14 72.73 |",
+      "| Budapest SE | 147,365.13 | 147,404.59 | 146,471.06 | +676.55 | +0.46% |  |\n| BIST 100 | 13,410.54 | 13,588.52 | 13,376.01 | -47.56 | -0.35% |  |\n| TA 35 | 4,111.69 | 4,162.77 | 4,094.58 | -37.81 | -0.91% |  |\n| Tadawul All Share | 10,823.62 | 10,823.62 | 10,671.59 | +117.75 | +1.10% |  |\n| Nikkei 225\")derived | 63,754.90 | 63,905.12 | 62,703.47 | -607.12 | -0.94% |  |\n| S&P/ASX 200 | 9,019.30 | 9,019.30 | 8,940.40 | +42.50 | +0.47% |  | [...] | Taiwan Weighted | 43,386.41 | 43,784.19 | 42,780.42 | +266.66 | +0.62% |  |\n| SET | 1,621.90 | 1,628.49 | 1,610.63 | -1.74 | -0.11% |  |\n| KOSPI | 6,257.45 | 6,393.00 | 6,223.29 | -338.00 | -5.12% |  |\n| IDX Composite | 6,234.50 | 6,273.33 | 6,212.55 | -1.63 | -0.03% |  |\n| Nifty 50 | 24,774.30 | 24,774.30 | 24,515.15 | +390.70 | +1.60% |  |\n| BSE Sensex | 78,639.03 | 78,895.10 | 78,497.34 | +544.39 | +0.70% |  |\n| PSEi Composite | 6,334.72 | 6,345.13 | 6,267.27 | +98.28 | +1.58% |  | [...] | Bovespa | 178,000 | 178,557 | 176,783 | +1 | 0.00% |  |\n| S&P/BMV IPC | 66,697.22 | 67,087.56 | 66,429.74 | -239.77 | -0.36% |  |\n| MSCI World | 4,903.48 | 4,908.50 | 4,846.01 | +55.60 | +1.15% |  |\n| DAX\")derived | 26,001.31 | 26,096.93 | 25,855.12 | +372.07 | +1.45% |  |\n| FTSE 100\")derived | 10,857.70 | 10,917.41 | 10,832.50 | -10.35 | -0.10% |  |\n| CAC 40 | 8,613.82 | 8,642.32 | 8,559.58 | +104.18 | +1.22% |  |"
     ],
     "keyTakeaways": [
-      "Global stock markets showed mixed trends, with European indices rising and Asian markets climbing. The S&P 500 closed hi",
+      "Global stock markets showed mixed performance; European indices like DAX and CAC 40 rose, while Asian markets like Nikke",
       "Sean ConlonTue, Jun 9th 2026\n\nS&P 500 closes higher as chips stage a comeback, Iran stops strikes on Israel\n\nSean Conlon",
-      "| ^RUT | Russell 2000 Index |  | 2,931.34  -14"
+      "| ^BFX | BEL 20 |  | 5,667.28  -18"
     ],
     "source": "cnbc.com",
     "sourceUrl": "https://www.cnbc.com/world-markets"
   },
   "readingTime": 5,
-  "updatedAt": "2026-08-03T03:20:36.500Z",
+  "updatedAt": "2026-08-04T08:29:04.809Z",
   "images": {
     "thumbnail": {
-      "src": "/images/article_thumb_3.jpg",
+      "src": "/images/article_thumb_4.jpg",
       "alt": "Global Stock Market News and World Indices Coverage"
     },
     "hero": {
-      "src": "/images/article_thumb_6.jpg",
+      "src": "/images/article_thumb_2.jpg",
       "alt": "Global Stock Market News and World Indices Coverage"
     },
     "mid": {
@@ -46,7 +46,7 @@
     }
   },
   "image": {
-    "src": "/images/article_thumb_5.jpg",
+    "src": "/images/article_thumb_4.jpg",
     "alt": "Global Stock Market News and World Indices Coverage"
   }
 }

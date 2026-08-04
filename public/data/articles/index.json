@@ -1,5 +1,26 @@
 [
   {
+    "id": "12-month-percentage-change-consumer-price-index-selected",
+    "type": "news",
+    "title": "12-month percentage change, Consumer Price Index, selected ...",
+    "slug": "12-month-percentage-change-consumer-price-index-selected",
+    "date": "2026-08-04",
+    "displayDate": "August 4, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The 12-month percentage change in the Consumer Price Index for June 2026 was 3.5% overall. Energy prices saw a significant increase of 15.7%. Fruits and vegetab",
+    "excerpt": "The 12-month percentage change in the Consumer Price Index for June 2026 was 3.5% overall. Energy prices saw a significant increase of 15.7%. Fruits and vegetables had the highest increase at 5.3%.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "12-month percentage change, Consumer Price Index, selected ..."
+    },
+    "readingTime": 4
+  },
+  {
     "id": "3-ways-to-simplify-your-investment-portfolio-in-2026-morningstar",
     "type": "news",
     "title": "3 Ways to Simplify Your Investment Portfolio in 2026 | Morningstar",
@@ -17,6 +38,27 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "3 Ways to Simplify Your Investment Portfolio in 2026 | Morningstar"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "5-strategies-to-navigate-market-volatility",
+    "type": "news",
+    "title": "5 Strategies to Navigate Market Volatility",
+    "slug": "5-strategies-to-navigate-market-volatility",
+    "date": "2026-08-04",
+    "displayDate": "August 4, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "To navigate market volatility, diversify your portfolio, rebalance regularly, and consider defensive assets like bonds.",
+    "excerpt": "To navigate market volatility, diversify your portfolio, rebalance regularly, and consider defensive assets like bonds.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "5 Strategies to Navigate Market Volatility"
     },
     "readingTime": 3
   },
@@ -84,6 +126,27 @@
     "readingTime": 3
   },
   {
+    "id": "bitcoin-btc-price-today-btc-live-price-charts-news",
+    "type": "news",
+    "title": "Bitcoin (BTC) Price Today: BTC Live Price, Charts, News",
+    "slug": "bitcoin-btc-price-today-btc-live-price-charts-news",
+    "date": "2026-08-04",
+    "displayDate": "August 4, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin's price today is $62,814.63, with a 24-hour trading volume of $18.2B. It has a market cap of $1.26T.",
+    "excerpt": "Bitcoin's price today is $62,814.63, with a 24-hour trading volume of $18.2B. It has a market cap of $1.26T.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Bitcoin (BTC) Price Today: BTC Live Price, Charts, News"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "bitcoin-btc-price-usd-today-news-charts-market-cap",
     "type": "news",
     "title": "Bitcoin (BTC) Price USD Today, News, Charts, Market Cap",
@@ -147,6 +210,27 @@
     "readingTime": 4
   },
   {
+    "id": "earnings-calendar-and-analysis-for-this-week-august-3-7",
+    "type": "news",
+    "title": "Earnings Calendar and Analysis for This Week (August 3-7)",
+    "slug": "earnings-calendar-and-analysis-for-this-week-august-3-7",
+    "date": "2026-08-04",
+    "displayDate": "August 4, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "This week, major earnings reports include McDonald's, Walt Disney, and several tech firms like Palantir Technologies and Advanced Micro Devices. Key economic ev",
+    "excerpt": "This week, major earnings reports include McDonald's, Walt Disney, and several tech firms like Palantir Technologies and Advanced Micro Devices. Key economic events are also scheduled. The earnings season continues to be a major focus for investors.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Earnings Calendar and Analysis for This Week (August 3-7)"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "earnings-calendar",
     "type": "news",
     "title": "Earnings Calendar",
@@ -187,6 +271,27 @@
       "alt": "Earnings"
     },
     "readingTime": 3
+  },
+  {
+    "id": "economic-calendar",
+    "type": "news",
+    "title": "Economic Calendar",
+    "slug": "economic-calendar",
+    "date": "2026-08-04",
+    "displayDate": "August 4, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "An economic calendar lists upcoming financial events and data releases that can impact markets, with high-impact events often marked with stars. It includes ind",
+    "excerpt": "An economic calendar lists upcoming financial events and data releases that can impact markets, with high-impact events often marked with stars. It includes indicators like GDP and interest rates, and can be filtered by importance.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Economic Calendar"
+    },
+    "readingTime": 4
   },
   {
     "id": "economic-indicators-calendar-new-york-fed",
@@ -252,6 +357,48 @@
     "readingTime": 3
   },
   {
+    "id": "global-market-indices-international-markets-markets-insider",
+    "type": "news",
+    "title": "Global Market Indices | International Markets - Markets Insider",
+    "slug": "global-market-indices-international-markets-markets-insider",
+    "date": "2026-08-04",
+    "displayDate": "August 4, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The FTSE 100 is down 0.1% today, the Nikkei 225 is down 0.94%, and the S&P 500 is up 1.47%.",
+    "excerpt": "The FTSE 100 is down 0.1% today, the Nikkei 225 is down 0.94%, and the S&P 500 is up 1.47%.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Global Market Indices | International Markets - Markets Insider"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "global-stock-market-news-and-world-indices-coverage",
+    "type": "news",
+    "title": "Global Stock Market News and World Indices Coverage",
+    "slug": "global-stock-market-news-and-world-indices-coverage",
+    "date": "2026-08-04",
+    "displayDate": "August 4, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Global stock markets showed mixed performance; European indices like DAX and CAC 40 rose, while Asian markets like Nikkei 225 declined. The S&P 500 closed highe",
+    "excerpt": "Global stock markets showed mixed performance; European indices like DAX and CAC 40 rose, while Asian markets like Nikkei 225 declined. The S&P 500 closed higher, and European markets rebounded as oil prices fell. The Bovespa index in Brazil remained stable.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Global Stock Market News and World Indices Coverage"
+    },
+    "readingTime": 5
+  },
+  {
     "id": "health-technology-sector-companies-performance-and-stocks-usa-tradingview",
     "type": "news",
     "title": "Health Technology Sector: Companies, Performance and Stocks — USA — TradingView",
@@ -294,6 +441,48 @@
     "readingTime": 4
   },
   {
+    "id": "interactive-world-macromap-ft-com-markets-data",
+    "type": "news",
+    "title": "Interactive World Macromap - FT.com - Markets data",
+    "slug": "interactive-world-macromap-ft-com-markets-data",
+    "date": "2026-08-04",
+    "displayDate": "August 4, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Interactive World Macromap on FT.com provides real-time market data for global indices and currencies. Key indices include the S&P 500 and Dow Jones Industr",
+    "excerpt": "The Interactive World Macromap on FT.com provides real-time market data for global indices and currencies. Key indices include the S&P 500 and Dow Jones Industrial Average. Use it to track global market performance.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Interactive World Macromap - FT.com - Markets data"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "investment-strategies-for-today-and-long-term-blackrock",
+    "type": "news",
+    "title": "Investment strategies for today and long-term | BlackRock",
+    "slug": "investment-strategies-for-today-and-long-term-blackrock",
+    "date": "2026-08-04",
+    "displayDate": "August 4, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "BlackRock recommends income-focused portfolios and mega-force strategies like digital disruption and AI for long-term growth. Focus on tax-efficient investing a",
+    "excerpt": "BlackRock recommends income-focused portfolios and mega-force strategies like digital disruption and AI for long-term growth. Focus on tax-efficient investing and high-net-worth client strategies for today's market.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Investment strategies for today and long-term | BlackRock"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "investment-strategy-2026-portfolio-moves-for-a-changing-market",
     "type": "news",
     "title": "Investment Strategy 2026 Portfolio Moves for a Changing Market",
@@ -313,6 +502,48 @@
       "alt": "Investment Strategy 2026 Portfolio Moves for a Changing Market"
     },
     "readingTime": 3
+  },
+  {
+    "id": "latest-technology-news-and-reviews",
+    "type": "news",
+    "title": "Latest Technology News and Reviews",
+    "slug": "latest-technology-news-and-reviews",
+    "date": "2026-08-04",
+    "displayDate": "August 4, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Gemini Spark now has Chrome web-browsing capabilities. LinkedIn won't expand its data centers this year. Apple received a $2.2 billion tariff refund.",
+    "excerpt": "Gemini Spark now has Chrome web-browsing capabilities. LinkedIn won't expand its data centers this year. Apple received a $2.2 billion tariff refund.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Latest Technology News and Reviews"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "markets-indexes-bonds-forex-key-commodities-etfs",
+    "type": "news",
+    "title": "Markets: Indexes, Bonds, Forex, Key Commodities, ETFs",
+    "slug": "markets-indexes-bonds-forex-key-commodities-etfs",
+    "date": "2026-08-04",
+    "displayDate": "August 4, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The S&P 500 closed higher, bonds fluctuated, and oil prices dipped below $100. European stocks declined, but the defense sector rallied. Key commodities and ETF",
+    "excerpt": "The S&P 500 closed higher, bonds fluctuated, and oil prices dipped below $100. European stocks declined, but the defense sector rallied. Key commodities and ETFs showed mixed trends.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Markets: Indexes, Bonds, Forex, Key Commodities, ETFs"
+    },
+    "readingTime": 4
   },
   {
     "id": "s-p-500-index-overview-spx",
@@ -441,6 +672,111 @@
     "readingTime": 4
   },
   {
+    "id": "stock-market-outlook-midyear-2026",
+    "type": "news",
+    "title": "Stock market outlook midyear 2026",
+    "slug": "stock-market-outlook-midyear-2026",
+    "date": "2026-08-04",
+    "displayDate": "August 4, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Midyear 2026, the economy shows slow growth but strong earnings, with consensus estimates predicting 24% growth for the S&P 500. Earnings remain robust despite ",
+    "excerpt": "Midyear 2026, the economy shows slow growth but strong earnings, with consensus estimates predicting 24% growth for the S&P 500. Earnings remain robust despite economic challenges, and geopolitical pressures and inflation risks loom ahead.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Stock market outlook midyear 2026"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "stocks-helped-early-by-weak-oil-but-chips-down",
+    "type": "news",
+    "title": "Stocks Helped Early by Weak Oil, But Chips Down",
+    "slug": "stocks-helped-early-by-weak-oil-but-chips-down",
+    "date": "2026-08-04",
+    "displayDate": "August 4, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Stocks initially rose due to lower oil prices, but semiconductor stocks fell amid earnings concerns and competition worries. The Dow and S&P 500 closed slightly",
+    "excerpt": "Stocks initially rose due to lower oil prices, but semiconductor stocks fell amid earnings concerns and competition worries. The Dow and S&P 500 closed slightly up, while the Nasdaq dipped. Energy stocks dropped as oil prices declined.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Stocks Helped Early by Weak Oil, But Chips Down"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "technology-news",
+    "type": "news",
+    "title": "Technology News",
+    "slug": "technology-news",
+    "date": "2026-08-04",
+    "displayDate": "August 4, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "AI demand is driving up memory chip prices, affecting consumer device availability. Amazon received $600 million in tariff refunds from Trump era, with some cus",
+    "excerpt": "AI demand is driving up memory chip prices, affecting consumer device availability. Amazon received $600 million in tariff refunds from Trump era, with some customers set to receive payouts. Microsoft's Xbox plans to surpass rivals by 2030, and Amazon's AWS is experiencing rapid growth due to AI and",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Technology News"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "technology",
+    "type": "news",
+    "title": "Technology",
+    "slug": "technology",
+    "date": "2026-08-04",
+    "displayDate": "August 4, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Technology is the application of scientific knowledge to practical goals. It includes tools, machines, and software. Its rapid development has transformed every",
+    "excerpt": "Technology is the application of scientific knowledge to practical goals. It includes tools, machines, and software. Its rapid development has transformed everyday life and industries.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Technology"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "top-investment-strategies-key-approaches-to-maximize-returns",
+    "type": "news",
+    "title": "Top Investment Strategies: Key Approaches to Maximize Returns",
+    "slug": "top-investment-strategies-key-approaches-to-maximize-returns",
+    "date": "2026-08-04",
+    "displayDate": "August 4, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Top investment strategies include diversification, long-term investing, and dollar-cost averaging. Setting clear goals and staying invested generally yield bett",
+    "excerpt": "Top investment strategies include diversification, long-term investing, and dollar-cost averaging. Setting clear goals and staying invested generally yield better returns than market timing. Simple and complex strategies exist, from conservative to aggressive.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Top Investment Strategies: Key Approaches to Maximize Returns"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "u-s-bureau-of-economic-analysis-bea",
     "type": "news",
     "title": "U.S. Bureau of Economic Analysis (BEA)",
@@ -481,6 +817,27 @@
       "alt": "U.S. Economic Calendar"
     },
     "readingTime": 6
+  },
+  {
+    "id": "united-states-consumer-price-index-cpi-yoy",
+    "type": "news",
+    "title": "United States Consumer Price Index (CPI) YoY",
+    "slug": "united-states-consumer-price-index-cpi-yoy",
+    "date": "2026-08-04",
+    "displayDate": "August 4, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The United States Consumer Price Index (CPI) YoY for June 2026 is 3.50%. This is lower than the previous month's 4.20% and the long-term average of 3.52%.",
+    "excerpt": "The United States Consumer Price Index (CPI) YoY for June 2026 is 3.50%. This is lower than the previous month's 4.20% and the long-term average of 3.52%.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "United States Consumer Price Index (CPI) YoY"
+    },
+    "readingTime": 4
   },
   {
     "id": "united-states-inflation-rate",
@@ -565,27 +922,6 @@
       "alt": "When is the next Fed interest rate decision?"
     },
     "readingTime": 4
-  },
-  {
-    "id": "12-month-percentage-change-consumer-price-index-selected",
-    "type": "news",
-    "title": "12-month percentage change, Consumer Price Index, selected ...",
-    "slug": "12-month-percentage-change-consumer-price-index-selected",
-    "date": "2026-08-03",
-    "displayDate": "August 3, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The 12-month percentage change in the Consumer Price Index for June 2026 is 3.5%, with energy at 15.7% and fruits and vegetables at 5.3%. The data is from the U",
-    "excerpt": "The 12-month percentage change in the Consumer Price Index for June 2026 is 3.5%, with energy at 15.7% and fruits and vegetables at 5.3%. The data is from the U.S. Bureau of Labor Statistics.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "12-month percentage change, Consumer Price Index, selected ..."
-    },
-    "readingTime": 3
   },
   {
     "id": "5-key-investment-strategies-to-learn-before-trading",
@@ -689,27 +1025,6 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "Asian Market Commentary - RTTNews"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "bitcoin-btc-price-today-btc-live-price-charts-news",
-    "type": "news",
-    "title": "Bitcoin (BTC) Price Today: BTC Live Price, Charts, News",
-    "slug": "bitcoin-btc-price-today-btc-live-price-charts-news",
-    "date": "2026-08-03",
-    "displayDate": "August 3, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Bitcoin's price today is $63,000. Its market cap is $1.26 trillion. It has a 24-hour trading volume of $20 billion.",
-    "excerpt": "Bitcoin's price today is $63,000. Its market cap is $1.26 trillion. It has a 24-hour trading volume of $20 billion.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Bitcoin (BTC) Price Today: BTC Live Price, Charts, News"
     },
     "readingTime": 3
   },
@@ -880,48 +1195,6 @@
       "alt": "Earnings Calendar 2026 | Daily Earnings Reports"
     },
     "readingTime": 4
-  },
-  {
-    "id": "earnings-calendar-and-analysis-for-this-week-august-3-7",
-    "type": "news",
-    "title": "Earnings Calendar and Analysis for This Week (August 3-7)",
-    "slug": "earnings-calendar-and-analysis-for-this-week-august-3-7",
-    "date": "2026-08-03",
-    "displayDate": "August 3, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "This week's earnings include major companies like Berkshire Hathaway, Tesla, and Alphabet. Key reports are expected from ACI Worldwide and Becton Dickinson. Ear",
-    "excerpt": "This week's earnings include major companies like Berkshire Hathaway, Tesla, and Alphabet. Key reports are expected from ACI Worldwide and Becton Dickinson. Earnings data is available on Kiplinger, Investing.com, and Zacks.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Earnings Calendar and Analysis for This Week (August 3-7)"
-    },
-    "readingTime": 5
-  },
-  {
-    "id": "economic-calendar",
-    "type": "news",
-    "title": "Economic Calendar",
-    "slug": "economic-calendar",
-    "date": "2026-08-03",
-    "displayDate": "August 3, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "An economic calendar tracks financial events and indicators affecting markets, including GDP, inflation, and interest rates. It helps traders prepare for market",
-    "excerpt": "An economic calendar tracks financial events and indicators affecting markets, including GDP, inflation, and interest rates. It helps traders prepare for market impacts. Key events often have high volatility potential.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Economic Calendar"
-    },
-    "readingTime": 3
   },
   {
     "id": "economy-statement-for-the-treasury-borrowing-advisory-committee",
@@ -1113,48 +1386,6 @@
     "readingTime": 4
   },
   {
-    "id": "global-market-indices-international-markets-markets-insider",
-    "type": "news",
-    "title": "Global Market Indices | International Markets - Markets Insider",
-    "slug": "global-market-indices-international-markets-markets-insider",
-    "date": "2026-08-03",
-    "displayDate": "August 3, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "As of August 3, 2026, the S&P 500 is at 7,489.72, up 0.7%. The Nikkei 225 is at 64,362.02, up 4.03%. The Dow Jones is at 52,485.03, up 0.53%.",
-    "excerpt": "As of August 3, 2026, the S&P 500 is at 7,489.72, up 0.7%. The Nikkei 225 is at 64,362.02, up 4.03%. The Dow Jones is at 52,485.03, up 0.53%.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Global Market Indices | International Markets - Markets Insider"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "global-stock-market-news-and-world-indices-coverage",
-    "type": "news",
-    "title": "Global Stock Market News and World Indices Coverage",
-    "slug": "global-stock-market-news-and-world-indices-coverage",
-    "date": "2026-08-03",
-    "displayDate": "August 3, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Global stock markets showed mixed trends, with European indices rising and Asian markets climbing. The S&P 500 closed higher, while South Korean stocks fell sig",
-    "excerpt": "Global stock markets showed mixed trends, with European indices rising and Asian markets climbing. The S&P 500 closed higher, while South Korean stocks fell significantly. European stocks advanced as inflation and bond yields remained in focus.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Global Stock Market News and World Indices Coverage"
-    },
-    "readingTime": 5
-  },
-  {
     "id": "gross-domestic-product-gdp-consumer-price-index-cpi-housing-starts-unemployment-",
     "type": "news",
     "title": "Gross Domestic Product | GDP | Consumer Price Index CPI Housing Starts Unemployment Rate US",
@@ -1239,27 +1470,6 @@
     "readingTime": 3
   },
   {
-    "id": "interactive-world-macromap-ft-com-markets-data",
-    "type": "news",
-    "title": "Interactive World Macromap - FT.com - Markets data",
-    "slug": "interactive-world-macromap-ft-com-markets-data",
-    "date": "2026-08-03",
-    "displayDate": "August 3, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Interactive World Macromap on FT.com provides real-time global market data, including stock indices and performance metrics. The S&P 500 and Dow Jones Indus",
-    "excerpt": "The Interactive World Macromap on FT.com provides real-time global market data, including stock indices and performance metrics. The S&P 500 and Dow Jones Industrial Average are up, while European indices show mixed results. For detailed data, visit FT.com.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Interactive World Macromap - FT.com - Markets data"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "interactive-world-macromap-ft-com",
     "type": "news",
     "title": "Interactive World Macromap - FT.com",
@@ -1300,27 +1510,6 @@
       "alt": "International Stocks: How and Why to Invest | Charles Schwab"
     },
     "readingTime": 4
-  },
-  {
-    "id": "investment-strategies-for-today-and-long-term-blackrock",
-    "type": "news",
-    "title": "Investment strategies for today and long-term | BlackRock",
-    "slug": "investment-strategies-for-today-and-long-term-blackrock",
-    "date": "2026-08-03",
-    "displayDate": "August 3, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Today's investment strategies focus on diversified portfolios, while long-term strategies emphasize stable income and growth through mutual funds and ETFs. Blac",
-    "excerpt": "Today's investment strategies focus on diversified portfolios, while long-term strategies emphasize stable income and growth through mutual funds and ETFs. BlackRock recommends a mix of fixed income and equities for sustainable retirement income.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Investment strategies for today and long-term | BlackRock"
-    },
-    "readingTime": 3
   },
   {
     "id": "latest-stock-market-news",
@@ -1554,48 +1743,6 @@
     "readingTime": 4
   },
   {
-    "id": "technology-news",
-    "type": "news",
-    "title": "Technology News",
-    "slug": "technology-news",
-    "date": "2026-08-03",
-    "displayDate": "August 3, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Amazon received $600 million in Trump tariff refunds, with some customers set to receive payouts. Microsoft's Xbox chief aims to surpass rivals by 2030. Amazon'",
-    "excerpt": "Amazon received $600 million in Trump tariff refunds, with some customers set to receive payouts. Microsoft's Xbox chief aims to surpass rivals by 2030. Amazon's AWS shows fastest growth since 2021, driven by AI and chip demand.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Technology News"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "technology",
-    "type": "news",
-    "title": "Technology",
-    "slug": "technology",
-    "date": "2026-08-03",
-    "displayDate": "August 3, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Technology is the application of scientific knowledge to practical goals. It includes tools, machines, and software. Its development is driven by engineering an",
-    "excerpt": "Technology is the application of scientific knowledge to practical goals. It includes tools, machines, and software. Its development is driven by engineering and problem-solving.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Technology"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "the-best-investment-strategies-for-the-continuous-market-investing-com",
     "type": "news",
     "title": "The Best Investment Strategies For The Continuous Market - Investing.com",
@@ -1676,27 +1823,6 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "Top 10 Investment Strategies for 2025: A Comprehensive Guide"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "top-investment-strategies-key-approaches-to-maximize-returns",
-    "type": "news",
-    "title": "Top Investment Strategies: Key Approaches to Maximize Returns",
-    "slug": "top-investment-strategies-key-approaches-to-maximize-returns",
-    "date": "2026-08-03",
-    "displayDate": "August 3, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Investment strategies range from conservative to aggressive, balancing risk and return. Conservative strategies focus on low-risk assets for stable returns. Agg",
-    "excerpt": "Investment strategies range from conservative to aggressive, balancing risk and return. Conservative strategies focus on low-risk assets for stable returns. Aggressive strategies involve high-risk investments for potential higher returns.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Top Investment Strategies: Key Approaches to Maximize Returns"
     },
     "readingTime": 3
   },
@@ -1844,27 +1970,6 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "2026 Spring Investment Directions"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "5-strategies-to-navigate-market-volatility",
-    "type": "news",
-    "title": "5 Strategies to Navigate Market Volatility",
-    "slug": "5-strategies-to-navigate-market-volatility",
-    "date": "2026-08-02",
-    "displayDate": "August 2, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "To navigate market volatility, focus on long-term goals, diversify investments, and rebalance portfolios regularly. Staying invested over time often leads to re",
-    "excerpt": "To navigate market volatility, focus on long-term goals, diversify investments, and rebalance portfolios regularly. Staying invested over time often leads to rewards.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "5 Strategies to Navigate Market Volatility"
     },
     "readingTime": 3
   },
@@ -2352,27 +2457,6 @@
     "readingTime": 4
   },
   {
-    "id": "united-states-consumer-price-index-cpi-yoy",
-    "type": "news",
-    "title": "United States Consumer Price Index (CPI) YoY",
-    "slug": "united-states-consumer-price-index-cpi-yoy",
-    "date": "2026-08-02",
-    "displayDate": "August 2, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The United States Consumer Price Index (CPI) YoY was 3.50% in June 2026, down from 4.20% in May and 2.70% in June 2025. It is below the long-term average of 3.5",
-    "excerpt": "The United States Consumer Price Index (CPI) YoY was 3.50% in June 2026, down from 4.20% in May and 2.70% in June 2025. It is below the long-term average of 3.52%. The CPI measures inflation trends.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "United States Consumer Price Index (CPI) YoY"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "wall-street-horizon-earnings-calendar-event-data",
     "type": "news",
     "title": "Wall Street Horizon: Earnings Calendar & Event Data",
@@ -2642,27 +2726,6 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "Investment Strategies: 5 Types & How to Choose the Right One in 2026"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "latest-technology-news-and-reviews",
-    "type": "news",
-    "title": "Latest Technology News and Reviews",
-    "slug": "latest-technology-news-and-reviews",
-    "date": "2026-08-01",
-    "displayDate": "August 1, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The latest technology news includes reviews of JBL Flip 6 and Samsung Galaxy Z Fold 8, and updates on Amazon's sustainability lawsuit and FTC's approval of IonQ",
-    "excerpt": "The latest technology news includes reviews of JBL Flip 6 and Samsung Galaxy Z Fold 8, and updates on Amazon's sustainability lawsuit and FTC's approval of IonQ acquisition.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Latest Technology News and Reviews"
     },
     "readingTime": 4
   },
@@ -3337,27 +3400,6 @@
       "alt": "Sector Research, News and Performance - Fidelity Investments"
     },
     "readingTime": 3
-  },
-  {
-    "id": "stock-market-outlook-midyear-2026",
-    "type": "news",
-    "title": "Stock market outlook midyear 2026",
-    "slug": "stock-market-outlook-midyear-2026",
-    "date": "2026-07-08",
-    "displayDate": "July 8, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Midyear 2026 outlook suggests U.S. stocks may continue to grow due to strong business investment, but consumer spending could struggle if inflation and geopolit",
-    "excerpt": "Midyear 2026 outlook suggests U.S. stocks may continue to grow due to strong business investment, but consumer spending could struggle if inflation and geopolitical tensions persist. Fidelity and Schwab highlight resilience in the bull market and shifts in sector performance. T Rowe Price notes a ne",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Stock market outlook midyear 2026"
-    },
-    "readingTime": 5
   },
   {
     "id": "tech-cnn-business",

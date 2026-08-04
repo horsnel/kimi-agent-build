@@ -5,29 +5,29 @@
     "epsHistory": [
       {
         "quarter": "Q1 2025",
-        "estimate": 2.71,
-        "actual": 1.41
+        "estimate": 1.95,
+        "actual": 2.26
       },
       {
         "quarter": "Q2 2025",
-        "estimate": 1.04,
-        "actual": 1.63
+        "estimate": 1.9,
+        "actual": 1.44
       },
       {
         "quarter": "Q3 2025",
-        "estimate": 1.73,
-        "actual": 1.56
+        "estimate": 2.47,
+        "actual": 2.8
       },
       {
         "quarter": "Q4 2025",
-        "estimate": 2.4,
-        "actual": 2.64
+        "estimate": 1.72,
+        "actual": 2.51
       }
     ],
-    "whisperNumber": 3.84,
-    "consensusEPS": 2.15,
+    "whisperNumber": 4.39,
+    "consensusEPS": 3.09,
     "sentiment": "Bullish",
-    "beatRate": 88
+    "beatRate": 61
   },
   {
     "ticker": "MSFT",
@@ -35,29 +35,29 @@
     "epsHistory": [
       {
         "quarter": "Q1 2025",
-        "estimate": 2.94,
-        "actual": 2.33
+        "estimate": 2.04,
+        "actual": 2.26
       },
       {
         "quarter": "Q2 2025",
-        "estimate": 2.33,
-        "actual": 2.74
+        "estimate": 1.02,
+        "actual": 1.89
       },
       {
         "quarter": "Q3 2025",
-        "estimate": 2.83,
-        "actual": 2.02
+        "estimate": 1.8,
+        "actual": 2.13
       },
       {
         "quarter": "Q4 2025",
-        "estimate": 2.64,
-        "actual": 1.44
+        "estimate": 2.01,
+        "actual": 1.78
       }
     ],
-    "whisperNumber": 3.19,
-    "consensusEPS": 2.2,
-    "sentiment": "Bullish",
-    "beatRate": 78
+    "whisperNumber": 2.17,
+    "consensusEPS": 4.31,
+    "sentiment": "Neutral",
+    "beatRate": 74
   },
   {
     "ticker": "GOOGL",
@@ -65,29 +65,29 @@
     "epsHistory": [
       {
         "quarter": "Q1 2025",
-        "estimate": 2.08,
-        "actual": 2.85
+        "estimate": 2.82,
+        "actual": 2.93
       },
       {
         "quarter": "Q2 2025",
-        "estimate": 2.17,
-        "actual": 2.19
+        "estimate": 1.79,
+        "actual": 2.77
       },
       {
         "quarter": "Q3 2025",
-        "estimate": 1.51,
-        "actual": 1.17
+        "estimate": 1.78,
+        "actual": 1.19
       },
       {
         "quarter": "Q4 2025",
-        "estimate": 2.83,
-        "actual": 2.86
+        "estimate": 1.8,
+        "actual": 3.01
       }
     ],
-    "whisperNumber": 3.65,
-    "consensusEPS": 1.57,
-    "sentiment": "Bullish",
-    "beatRate": 74
+    "whisperNumber": 2.89,
+    "consensusEPS": 2.27,
+    "sentiment": "Neutral",
+    "beatRate": 89
   },
   {
     "ticker": "AMZN",
@@ -95,29 +95,29 @@
     "epsHistory": [
       {
         "quarter": "Q1 2025",
-        "estimate": 2.67,
-        "actual": 1.11
+        "estimate": 2.21,
+        "actual": 2.15
       },
       {
         "quarter": "Q2 2025",
-        "estimate": 2.84,
-        "actual": 1.4
+        "estimate": 2.08,
+        "actual": 1.35
       },
       {
         "quarter": "Q3 2025",
-        "estimate": 1.63,
-        "actual": 1.2
+        "estimate": 2.18,
+        "actual": 1.98
       },
       {
         "quarter": "Q4 2025",
-        "estimate": 2.75,
-        "actual": 2.79
+        "estimate": 2.14,
+        "actual": 2.33
       }
     ],
-    "whisperNumber": 2.28,
-    "consensusEPS": 3.12,
-    "sentiment": "Neutral",
-    "beatRate": 69
+    "whisperNumber": 1.58,
+    "consensusEPS": 1.66,
+    "sentiment": "Bullish",
+    "beatRate": 68
   },
   {
     "ticker": "META",
@@ -125,29 +125,29 @@
     "epsHistory": [
       {
         "quarter": "Q1 2025",
-        "estimate": 1.89,
-        "actual": 1.61
+        "estimate": 2.32,
+        "actual": 3.02
       },
       {
         "quarter": "Q2 2025",
-        "estimate": 2.07,
-        "actual": 1.48
+        "estimate": 2.95,
+        "actual": 2.35
       },
       {
         "quarter": "Q3 2025",
-        "estimate": 2.27,
-        "actual": 1.57
+        "estimate": 2.67,
+        "actual": 2.42
       },
       {
         "quarter": "Q4 2025",
-        "estimate": 1.99,
-        "actual": 2.18
+        "estimate": 1.11,
+        "actual": 1.31
       }
     ],
-    "whisperNumber": 2.41,
-    "consensusEPS": 4.03,
+    "whisperNumber": 2.92,
+    "consensusEPS": 1.75,
     "sentiment": "Bullish",
-    "beatRate": 83
+    "beatRate": 92
   },
   {
     "ticker": "TSLA",
@@ -155,29 +155,29 @@
     "epsHistory": [
       {
         "quarter": "Q1 2025",
-        "estimate": 1.1,
-        "actual": 2.24
+        "estimate": 2.22,
+        "actual": 2.72
       },
       {
         "quarter": "Q2 2025",
-        "estimate": 2.61,
-        "actual": 2.67
+        "estimate": 1.27,
+        "actual": 2.04
       },
       {
         "quarter": "Q3 2025",
-        "estimate": 2.15,
-        "actual": 2.16
+        "estimate": 1.46,
+        "actual": 1.83
       },
       {
         "quarter": "Q4 2025",
-        "estimate": 2.02,
-        "actual": 1.99
+        "estimate": 1.94,
+        "actual": 1.55
       }
     ],
-    "whisperNumber": 4.47,
-    "consensusEPS": 3.12,
+    "whisperNumber": 2.81,
+    "consensusEPS": 3.31,
     "sentiment": "Bullish",
-    "beatRate": 74
+    "beatRate": 89
   },
   {
     "ticker": "NVDA",
@@ -185,29 +185,29 @@
     "epsHistory": [
       {
         "quarter": "Q1 2025",
-        "estimate": 2.36,
-        "actual": 2.74
-      },
-      {
-        "quarter": "Q2 2025",
-        "estimate": 1.67,
+        "estimate": 2.43,
         "actual": 2.93
       },
       {
+        "quarter": "Q2 2025",
+        "estimate": 1.55,
+        "actual": 1.57
+      },
+      {
         "quarter": "Q3 2025",
-        "estimate": 1.51,
-        "actual": 1.87
+        "estimate": 2.09,
+        "actual": 1.68
       },
       {
         "quarter": "Q4 2025",
-        "estimate": 2.07,
-        "actual": 1.99
+        "estimate": 1.84,
+        "actual": 2.05
       }
     ],
-    "whisperNumber": 3.11,
-    "consensusEPS": 3.03,
+    "whisperNumber": 1.64,
+    "consensusEPS": 3.64,
     "sentiment": "Bullish",
-    "beatRate": 92
+    "beatRate": 91
   },
   {
     "ticker": "NFLX",
@@ -215,28 +215,28 @@
     "epsHistory": [
       {
         "quarter": "Q1 2025",
-        "estimate": 1.55,
-        "actual": 2.08
+        "estimate": 1.51,
+        "actual": 1.37
       },
       {
         "quarter": "Q2 2025",
-        "estimate": 2.63,
-        "actual": 3.05
+        "estimate": 1.01,
+        "actual": 1.45
       },
       {
         "quarter": "Q3 2025",
-        "estimate": 2.53,
-        "actual": 1.31
+        "estimate": 2.63,
+        "actual": 2.66
       },
       {
         "quarter": "Q4 2025",
-        "estimate": 2.66,
-        "actual": 1.41
+        "estimate": 1.31,
+        "actual": 2.6
       }
     ],
-    "whisperNumber": 3.04,
-    "consensusEPS": 1.46,
+    "whisperNumber": 1.57,
+    "consensusEPS": 3.37,
     "sentiment": "Bullish",
-    "beatRate": 70
+    "beatRate": 69
   }
 ]
