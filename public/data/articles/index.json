@@ -63,6 +63,27 @@
     "readingTime": 3
   },
   {
+    "id": "ahead-of-wall-street-daily-stock-market-outlook",
+    "type": "news",
+    "title": "Ahead of Wall Street - Daily Stock Market Outlook",
+    "slug": "ahead-of-wall-street-daily-stock-market-outlook",
+    "date": "2026-08-04",
+    "displayDate": "August 4, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Dow, S&P 500, and Nasdaq are trading slightly higher. Key economic reports and Fed meetings are influencing market trends. Earnings reports from major oil c",
+    "excerpt": "The Dow, S&P 500, and Nasdaq are trading slightly higher. Key economic reports and Fed meetings are influencing market trends. Earnings reports from major oil companies and updates on geopolitical tensions are also impacting the market.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Ahead of Wall Street - Daily Stock Market Outlook"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "asian-financial-markets",
     "type": "news",
     "title": "Asian Financial Markets",
@@ -103,6 +124,27 @@
       "alt": "Asian Stock Market: Capital Markets News, Bond Market News, Commodities News, ETFs News"
     },
     "readingTime": 4
+  },
+  {
+    "id": "big-tech-s-ai-divide-widens-open-interest-7-31-2026",
+    "type": "news",
+    "title": "Big Tech's AI Divide Widens | Open Interest 7/31/2026",
+    "slug": "big-tech-s-ai-divide-widens-open-interest-7-31-2026",
+    "date": "2026-08-04",
+    "displayDate": "August 4, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The AI investments by Big Tech are showing results, with Amazon's AI efforts succeeding while Apple faces supply chain issues. The divide between successful and",
+    "excerpt": "The AI investments by Big Tech are showing results, with Amazon's AI efforts succeeding while Apple faces supply chain issues. The divide between successful and struggling tech companies is growing. Market analysts highlight Amazon's cloud potential and Apple's demand resilience.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Big Tech's AI Divide Widens | Open Interest 7/31/2026"
+    },
+    "readingTime": 3
   },
   {
     "id": "bitcoin-btc-news-analysis-and-forecast",
@@ -208,6 +250,48 @@
       "alt": "Company Earnings Calendar - Yahoo Finance"
     },
     "readingTime": 4
+  },
+  {
+    "id": "cpi-home-u-s-bureau-of-labor-statistics",
+    "type": "news",
+    "title": "CPI Home : U.S. Bureau of Labor Statistics",
+    "slug": "cpi-home-u-s-bureau-of-labor-statistics",
+    "date": "2026-08-04",
+    "displayDate": "August 4, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Consumer Price Index (CPI) measures average price changes for goods and services. In June 2026, the CPI decreased 0.4% after a 0.5% rise in May. The index i",
+    "excerpt": "The Consumer Price Index (CPI) measures average price changes for goods and services. In June 2026, the CPI decreased 0.4% after a 0.5% rise in May. The index increased 3.5% over the past year.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "CPI Home : U.S. Bureau of Labor Statistics"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "crypto-news-bitcoin-ethereum-xrp-news-crypto-news",
+    "type": "news",
+    "title": "Crypto News: Bitcoin, Ethereum & XRP News | crypto.news",
+    "slug": "crypto-news-bitcoin-ethereum-xrp-news-crypto-news",
+    "date": "2026-08-04",
+    "displayDate": "August 4, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin is currently priced at $64,004.00, Ethereum at $1,872.65, and XRP at $1.08. These prices reflect recent market trends.",
+    "excerpt": "Bitcoin is currently priced at $64,004.00, Ethereum at $1,872.65, and XRP at $1.08. These prices reflect recent market trends.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Crypto News: Bitcoin, Ethereum & XRP News | crypto.news"
+    },
+    "readingTime": 3
   },
   {
     "id": "earnings-calendar-and-analysis-for-this-week-august-3-7",
@@ -334,6 +418,69 @@
       "alt": "Economic Sector Performance Dashboards"
     },
     "readingTime": 4
+  },
+  {
+    "id": "economics-defined-with-types-indicators-and-systems",
+    "type": "news",
+    "title": "Economics Defined With Types, Indicators, and Systems",
+    "slug": "economics-defined-with-types-indicators-and-systems",
+    "date": "2026-08-04",
+    "displayDate": "August 4, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Economics studies how societies allocate limited resources to meet unlimited wants, focusing on microeconomics for individual choices and macroeconomics for ove",
+    "excerpt": "Economics studies how societies allocate limited resources to meet unlimited wants, focusing on microeconomics for individual choices and macroeconomics for overall economic trends. Key indicators include GDP and CPI. Economists shape policies on trade, employment, and corporate strategies.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Economics Defined With Types, Indicators, and Systems"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "ethereum-eth-news-analysis-and-forecast",
+    "type": "news",
+    "title": "Ethereum (ETH) News, Analysis and Forecast",
+    "slug": "ethereum-eth-news-analysis-and-forecast",
+    "date": "2026-08-04",
+    "displayDate": "August 4, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Ethereum transitioned to Proof-of-Stake in 2022. Predictions suggest it could reach $2,108.46 in 2027 and $21,942 by 2031. Current price is around $1,877.96.",
+    "excerpt": "Ethereum transitioned to Proof-of-Stake in 2022. Predictions suggest it could reach $2,108.46 in 2027 and $21,942 by 2031. Current price is around $1,877.96.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Ethereum (ETH) News, Analysis and Forecast"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "ethereum-eth-price-usd-today-news-charts-market-cap",
+    "type": "news",
+    "title": "Ethereum (ETH) Price USD Today, News, Charts, Market Cap",
+    "slug": "ethereum-eth-price-usd-today-news-charts-market-cap",
+    "date": "2026-08-04",
+    "displayDate": "August 4, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Ethereum (ETH) price is $1,867.53 today; market cap is $225.4 billion. Circulating supply is 120.68 million ETH.",
+    "excerpt": "Ethereum (ETH) price is $1,867.53 today; market cap is $225.4 billion. Circulating supply is 120.68 million ETH.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Ethereum (ETH) Price USD Today, News, Charts, Market Cap"
+    },
+    "readingTime": 3
   },
   {
     "id": "federal-reserve-holds-rates-at-3-50-3-75-in-july-2026",
@@ -756,6 +903,69 @@
     "readingTime": 3
   },
   {
+    "id": "the-best-investment-strategies-for-the-continuous-market-investing-com",
+    "type": "news",
+    "title": "The Best Investment Strategies For The Continuous Market - Investing.com",
+    "slug": "the-best-investment-strategies-for-the-continuous-market-investing-com",
+    "date": "2026-08-04",
+    "displayDate": "August 4, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Value investing, growth investing, and index investing are top strategies for continuous markets. Diversification and long-term holding are key principles.",
+    "excerpt": "Value investing, growth investing, and index investing are top strategies for continuous markets. Diversification and long-term holding are key principles.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "The Best Investment Strategies For The Continuous Market - Investing.com"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "the-economist-go-beyond-breaking-news",
+    "type": "news",
+    "title": "The Economist | Go beyond breaking news",
+    "slug": "the-economist-go-beyond-breaking-news",
+    "date": "2026-08-04",
+    "displayDate": "August 4, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Economist reports on West Africa's emergence as a major cocaine-trading hub and highlights the changing dynamics in the restaurant business. It also covers ",
+    "excerpt": "The Economist reports on West Africa's emergence as a major cocaine-trading hub and highlights the changing dynamics in the restaurant business. It also covers global news, including drug enforcement in Liberia and wildfires in Europe.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "The Economist | Go beyond breaking news"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "top-10-investment-strategies-for-2025-a-comprehensive-guide",
+    "type": "news",
+    "title": "Top 10 Investment Strategies for 2025: A Comprehensive Guide",
+    "slug": "top-10-investment-strategies-for-2025-a-comprehensive-guide",
+    "date": "2026-08-04",
+    "displayDate": "August 4, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "In 2025, focus on diversification, consider ETFs, and watch out for scams. Prioritize low-cost funds and dollar-cost averaging for beginners.",
+    "excerpt": "In 2025, focus on diversification, consider ETFs, and watch out for scams. Prioritize low-cost funds and dollar-cost averaging for beginners.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Top 10 Investment Strategies for 2025: A Comprehensive Guide"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "top-investment-strategies-key-approaches-to-maximize-returns",
     "type": "news",
     "title": "Top Investment Strategies: Key Approaches to Maximize Returns",
@@ -798,6 +1008,27 @@
     "readingTime": 3
   },
   {
+    "id": "u-s-census-bureau-economic-indicators",
+    "type": "news",
+    "title": "U.S. Census Bureau Economic Indicators",
+    "slug": "u-s-census-bureau-economic-indicators",
+    "date": "2026-08-04",
+    "displayDate": "August 4, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The U.S. Census Bureau provides monthly and quarterly economic data on construction, trade, and manufacturing. The Index of Economic Activity (IDEA) aggregates ",
+    "excerpt": "The U.S. Census Bureau provides monthly and quarterly economic data on construction, trade, and manufacturing. The Index of Economic Activity (IDEA) aggregates 15 key economic data series into a single monthly index. The latest economic census offers comprehensive statistics every five years.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "U.S. Census Bureau Economic Indicators"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "u-s-economic-calendar",
     "type": "news",
     "title": "U.S. Economic Calendar",
@@ -819,6 +1050,27 @@
     "readingTime": 6
   },
   {
+    "id": "u-s-market-analysis-valuation-dow-jones-nasdaq-s-p-500-summary",
+    "type": "news",
+    "title": "U.S. Market Analysis & Valuation - Dow Jones, Nasdaq, S&P 500 Summary",
+    "slug": "u-s-market-analysis-valuation-dow-jones-nasdaq-s-p-500-summary",
+    "date": "2026-08-04",
+    "displayDate": "August 4, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The U.S. market valuation is $57.3 trillion, with the Consumer Discretionary sector leading at 7.0% growth. The Nasdaq surged 2.13%, and the Dow Jones and S&P 5",
+    "excerpt": "The U.S. market valuation is $57.3 trillion, with the Consumer Discretionary sector leading at 7.0% growth. The Nasdaq surged 2.13%, and the Dow Jones and S&P 500 rose 1.32% and 1.48%, respectively. Tech stocks drove gains, with Amazon surpassing $3 trillion in market cap.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "U.S. Market Analysis & Valuation - Dow Jones, Nasdaq, S&P 500 Summary"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "united-states-consumer-price-index-cpi-yoy",
     "type": "news",
     "title": "United States Consumer Price Index (CPI) YoY",
@@ -836,6 +1088,48 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "United States Consumer Price Index (CPI) YoY"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "united-states-federal-reserve-interest-rate-decision",
+    "type": "news",
+    "title": "United States Federal Reserve Interest Rate Decision",
+    "slug": "united-states-federal-reserve-interest-rate-decision",
+    "date": "2026-08-04",
+    "displayDate": "August 4, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Reserve kept interest rates unchanged at 3.5% to 3.75% in its latest meeting on March 18, 2026. The next decision is scheduled for April 29, 2026. T",
+    "excerpt": "The Federal Reserve kept interest rates unchanged at 3.5% to 3.75% in its latest meeting on March 18, 2026. The next decision is scheduled for April 29, 2026. The Fed's rate decisions impact borrowing costs for mortgages and other loans.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "United States Federal Reserve Interest Rate Decision"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "united-states-indicators",
+    "type": "news",
+    "title": "United States Indicators",
+    "slug": "united-states-indicators",
+    "date": "2026-08-04",
+    "displayDate": "August 4, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The United States has indicators showing a composite PMI of 53.6 in July 2026, and GDP growth of 2.1% for the full year of 2025.",
+    "excerpt": "The United States has indicators showing a composite PMI of 53.6 in July 2026, and GDP growth of 2.1% for the full year of 2025.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "United States Indicators"
     },
     "readingTime": 4
   },
@@ -880,6 +1174,27 @@
       "alt": "Warsh says Fed won't hesitate to stop inflation, but bond market has doubts"
     },
     "readingTime": 3
+  },
+  {
+    "id": "weekly-trader-s-stock-market-outlook",
+    "type": "news",
+    "title": "Weekly Trader's Stock Market Outlook",
+    "slug": "weekly-trader-s-stock-market-outlook",
+    "date": "2026-08-04",
+    "displayDate": "August 4, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The stock market outlook for the week was cautiously negative, with the Nasdaq Composite declining the most, and energy stocks rising due to oil price increases",
+    "excerpt": "The stock market outlook for the week was cautiously negative, with the Nasdaq Composite declining the most, and energy stocks rising due to oil price increases. S&P 500 earnings are strong, but tech sectors faced volatility. Energy and industrial sectors performed well, while consumer discretionary",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Weekly Trader's Stock Market Outlook"
+    },
+    "readingTime": 4
   },
   {
     "id": "what-is-the-current-inflation-rate-in-the-us",
@@ -1113,48 +1428,6 @@
     "readingTime": 3
   },
   {
-    "id": "cpi-home-u-s-bureau-of-labor-statistics",
-    "type": "news",
-    "title": "CPI Home : U.S. Bureau of Labor Statistics",
-    "slug": "cpi-home-u-s-bureau-of-labor-statistics",
-    "date": "2026-08-03",
-    "displayDate": "August 3, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Consumer Price Index (CPI) measures average price changes for goods and services in the U.S. In June 2026, the CPI decreased 0.4% from May. Over the past ye",
-    "excerpt": "The Consumer Price Index (CPI) measures average price changes for goods and services in the U.S. In June 2026, the CPI decreased 0.4% from May. Over the past year, the CPI increased 3.5%.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "CPI Home : U.S. Bureau of Labor Statistics"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "crypto-news-bitcoin-ethereum-xrp-news-crypto-news",
-    "type": "news",
-    "title": "Crypto News: Bitcoin, Ethereum & XRP News | crypto.news",
-    "slug": "crypto-news-bitcoin-ethereum-xrp-news-crypto-news",
-    "date": "2026-08-03",
-    "displayDate": "August 3, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Bitcoin, Ethereum, and XRP prices fluctuated recently; BlackRock Bitcoin ETF faced a selloff, and Ethereum's SharpLink joined Russel indexes. Ripple's AMM amend",
-    "excerpt": "Bitcoin, Ethereum, and XRP prices fluctuated recently; BlackRock Bitcoin ETF faced a selloff, and Ethereum's SharpLink joined Russel indexes. Ripple's AMM amendment could close its biggest DeFi gap. Follow CoinDesk for the latest updates.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Crypto News: Bitcoin, Ethereum & XRP News | crypto.news"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "divided-fed-leaves-interest-rates-unchanged",
     "type": "news",
     "title": "Divided Fed Leaves Interest Rates Unchanged",
@@ -1216,27 +1489,6 @@
       "alt": "Economy Statement for the Treasury Borrowing Advisory Committee"
     },
     "readingTime": 5
-  },
-  {
-    "id": "ethereum-eth-price-usd-today-news-charts-market-cap",
-    "type": "news",
-    "title": "Ethereum (ETH) Price USD Today, News, Charts, Market Cap",
-    "slug": "ethereum-eth-price-usd-today-news-charts-market-cap",
-    "date": "2026-08-03",
-    "displayDate": "August 3, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Ethereum (ETH) price is $1,867.82, market cap is $225.4B, and it has dropped 2.78% in the last 24 hours.",
-    "excerpt": "Ethereum (ETH) price is $1,867.82, market cap is $225.4B, and it has dropped 2.78% in the last 24 hours.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Ethereum (ETH) Price USD Today, News, Charts, Market Cap"
-    },
-    "readingTime": 4
   },
   {
     "id": "ethereum-news-today-latest-eth-news",
@@ -1743,27 +1995,6 @@
     "readingTime": 4
   },
   {
-    "id": "the-best-investment-strategies-for-the-continuous-market-investing-com",
-    "type": "news",
-    "title": "The Best Investment Strategies For The Continuous Market - Investing.com",
-    "slug": "the-best-investment-strategies-for-the-continuous-market-investing-com",
-    "date": "2026-08-03",
-    "displayDate": "August 3, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Effective investment strategies include value investing, growth investing, and buy and hold. Patience and long-term focus are key to success. Diversification an",
-    "excerpt": "Effective investment strategies include value investing, growth investing, and buy and hold. Patience and long-term focus are key to success. Diversification and risk management are essential.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "The Best Investment Strategies For The Continuous Market - Investing.com"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "the-fed-federal-open-market-committee",
     "type": "news",
     "title": "The Fed - Federal Open Market Committee",
@@ -1806,27 +2037,6 @@
     "readingTime": 4
   },
   {
-    "id": "top-10-investment-strategies-for-2025-a-comprehensive-guide",
-    "type": "news",
-    "title": "Top 10 Investment Strategies for 2025: A Comprehensive Guide",
-    "slug": "top-10-investment-strategies-for-2025-a-comprehensive-guide",
-    "date": "2026-08-03",
-    "displayDate": "August 3, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Top investment strategies for 2025 include diversification across sectors, investing in ETFs, and focusing on renewable energy and dividend stocks. Lower intere",
-    "excerpt": "Top investment strategies for 2025 include diversification across sectors, investing in ETFs, and focusing on renewable energy and dividend stocks. Lower interest rates favor sectors like healthcare and technology. Regularly rebalance portfolios for optimal returns.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Top 10 Investment Strategies for 2025: A Comprehensive Guide"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "united-states-economic-indicators-moody-s-analytics",
     "type": "news",
     "title": "United States | Economic Indicators | Moody's Analytics",
@@ -1846,69 +2056,6 @@
       "alt": "United States | Economic Indicators | Moody's Analytics"
     },
     "readingTime": 5
-  },
-  {
-    "id": "united-states-federal-reserve-interest-rate-decision",
-    "type": "news",
-    "title": "United States Federal Reserve Interest Rate Decision",
-    "slug": "united-states-federal-reserve-interest-rate-decision",
-    "date": "2026-08-03",
-    "displayDate": "August 3, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Reserve decided to keep interest rates unchanged at 3.5%–3.75% in July 2026. Markets expect no change, but there's a slight chance of a hike. Treasu",
-    "excerpt": "The Federal Reserve decided to keep interest rates unchanged at 3.5%–3.75% in July 2026. Markets expect no change, but there's a slight chance of a hike. Treasury yields rose following the announcement.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "United States Federal Reserve Interest Rate Decision"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "united-states-indicators",
-    "type": "news",
-    "title": "United States Indicators",
-    "slug": "united-states-indicators",
-    "date": "2026-08-03",
-    "displayDate": "August 3, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The United States' latest GDP growth was 2.1% in 2025, and the latest Consumer Confidence Index was 55.2 in July 2026. The latest Composite PMI was 53.6 in July",
-    "excerpt": "The United States' latest GDP growth was 2.1% in 2025, and the latest Consumer Confidence Index was 55.2 in July 2026. The latest Composite PMI was 53.6 in July 2026. The latest Balance of Trade deficit was $77.6 billion in June 2026.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "United States Indicators"
-    },
-    "readingTime": 5
-  },
-  {
-    "id": "weekly-trader-s-stock-market-outlook",
-    "type": "news",
-    "title": "Weekly Trader's Stock Market Outlook",
-    "slug": "weekly-trader-s-stock-market-outlook",
-    "date": "2026-08-03",
-    "displayDate": "August 3, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The market outlook is moderately bearish with higher volatility expected next week due to ongoing U.S.-Iran tensions and rising oil prices. Rising yields and in",
-    "excerpt": "The market outlook is moderately bearish with higher volatility expected next week due to ongoing U.S.-Iran tensions and rising oil prices. Rising yields and inflation concerns may pressure valuations. The Fed's policy path remains uncertain.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Weekly Trader's Stock Market Outlook"
-    },
-    "readingTime": 3
   },
   {
     "id": "yahoo-finance-stock-market-live-quotes-business",
@@ -1972,27 +2119,6 @@
       "alt": "2026 Spring Investment Directions"
     },
     "readingTime": 3
-  },
-  {
-    "id": "ahead-of-wall-street-daily-stock-market-outlook",
-    "type": "news",
-    "title": "Ahead of Wall Street - Daily Stock Market Outlook",
-    "slug": "ahead-of-wall-street-daily-stock-market-outlook",
-    "date": "2026-08-02",
-    "displayDate": "August 2, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Dow, S&P 500, and Nasdaq showed minor gains. Tech sector earnings growth is expected at 22% annually over the next five years. Big Tech stocks face investor",
-    "excerpt": "The Dow, S&P 500, and Nasdaq showed minor gains. Tech sector earnings growth is expected at 22% annually over the next five years. Big Tech stocks face investor impatience over spending.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Ahead of Wall Street - Daily Stock Market Outlook"
-    },
-    "readingTime": 4
   },
   {
     "id": "asia-market-data-marketwatch",
@@ -2117,27 +2243,6 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "Earnings Breaking News and Press Releases"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "ethereum-eth-news-analysis-and-forecast",
-    "type": "news",
-    "title": "Ethereum (ETH) News, Analysis and Forecast",
-    "slug": "ethereum-eth-news-analysis-and-forecast",
-    "date": "2026-08-02",
-    "displayDate": "August 2, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Ethereum transitioned to Proof-of-Stake in 2022. Current forecasts predict ETH to reach $1,879.72 by August 9, 2026. Long-term predictions suggest ETH could rea",
-    "excerpt": "Ethereum transitioned to Proof-of-Stake in 2022. Current forecasts predict ETH to reach $1,879.72 by August 9, 2026. Long-term predictions suggest ETH could reach $2,108.46 in 2027.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Ethereum (ETH) News, Analysis and Forecast"
     },
     "readingTime": 3
   },
@@ -7052,27 +7157,6 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "The Most Important Earnings Day of 2026 — Live Reaction for ..."
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "u-s-census-bureau-economic-indicators",
-    "type": "news",
-    "title": "U.S. Census Bureau Economic Indicators",
-    "slug": "u-s-census-bureau-economic-indicators",
-    "date": "2026-07-01",
-    "displayDate": "July 1, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The U.S. Census Bureau provides economic indicators, including advance statistics on international trade, retail, and wholesale inventories. The Economic Census",
-    "excerpt": "The U.S. Census Bureau provides economic indicators, including advance statistics on international trade, retail, and wholesale inventories. The Economic Census offers comprehensive business statistics every five years. Monthly retail inventory estimates will be revised in August 2026.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "U.S. Census Bureau Economic Indicators"
     },
     "readingTime": 3
   },
