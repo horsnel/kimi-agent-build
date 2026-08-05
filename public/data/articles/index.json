@@ -231,6 +231,27 @@
     "readingTime": 3
   },
   {
+    "id": "crypto-news-bitcoin-ethereum-xrp-news-crypto-news",
+    "type": "news",
+    "title": "Crypto News: Bitcoin, Ethereum & XRP News | crypto.news",
+    "slug": "crypto-news-bitcoin-ethereum-xrp-news-crypto-news",
+    "date": "2026-08-05",
+    "displayDate": "August 5, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin, Ethereum, and XRP are major cryptocurrencies; XRP may surge due to U.S.-Iran tensions. Crypto crime trends and AI trading bots are discussed. Crypto.ne",
+    "excerpt": "Bitcoin, Ethereum, and XRP are major cryptocurrencies; XRP may surge due to U.S.-Iran tensions. Crypto crime trends and AI trading bots are discussed. Crypto.news covers Bitcoin, Ethereum, and Ripple developments.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Crypto News: Bitcoin, Ethereum & XRP News | crypto.news"
+    },
+    "readingTime": 6
+  },
+  {
     "id": "cryptocurrency",
     "type": "news",
     "title": "Cryptocurrency",
@@ -441,6 +462,111 @@
     "readingTime": 4
   },
   {
+    "id": "ethereum-eth-news-analysis-and-forecast",
+    "type": "news",
+    "title": "Ethereum (ETH) News, Analysis and Forecast",
+    "slug": "ethereum-eth-news-analysis-and-forecast",
+    "date": "2026-08-05",
+    "displayDate": "August 5, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Ethereum transitioned to Proof-of-Stake in 2022. Forecasts predict ETH could reach $2,108.46 by 2027 and $21,942 by 2031. Current price is around $1,877.96.",
+    "excerpt": "Ethereum transitioned to Proof-of-Stake in 2022. Forecasts predict ETH could reach $2,108.46 by 2027 and $21,942 by 2031. Current price is around $1,877.96.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Ethereum (ETH) News, Analysis and Forecast"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "ethereum-eth-price-usd-today-news-charts-market-cap",
+    "type": "news",
+    "title": "Ethereum (ETH) Price USD Today, News, Charts, Market Cap",
+    "slug": "ethereum-eth-price-usd-today-news-charts-market-cap",
+    "date": "2026-08-05",
+    "displayDate": "August 5, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Ethereum (ETH) price is $1,867.82, market cap is $225.4B, and it has a circulating supply of 120.7M.",
+    "excerpt": "Ethereum (ETH) price is $1,867.82, market cap is $225.4B, and it has a circulating supply of 120.7M.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Ethereum (ETH) Price USD Today, News, Charts, Market Cap"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "europe-latest-news-updates-bbc-news",
+    "type": "news",
+    "title": "Europe | Latest News & Updates | BBC News",
+    "slug": "europe-latest-news-updates-bbc-news",
+    "date": "2026-08-05",
+    "displayDate": "August 5, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "A missile attack in Kyiv has caused significant damage and casualties, while Europe faces a migrant crisis in Ceuta, Spain, following mass crossings from Morocc",
+    "excerpt": "A missile attack in Kyiv has caused significant damage and casualties, while Europe faces a migrant crisis in Ceuta, Spain, following mass crossings from Morocco. The EU is offering more support to Morocco for border control. The situation highlights ongoing geopolitical tensions and migration chall",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Europe | Latest News & Updates | BBC News"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "europe",
+    "type": "news",
+    "title": "Europe",
+    "slug": "europe",
+    "date": "2026-08-05",
+    "displayDate": "August 5, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Europe is the second-smallest continent, bordered by the Arctic, Atlantic, Mediterranean, Black, and Caspian Seas, and home to diverse cultures and the European",
+    "excerpt": "Europe is the second-smallest continent, bordered by the Arctic, Atlantic, Mediterranean, Black, and Caspian Seas, and home to diverse cultures and the European Union. Its population is slowly decreasing, but it has high population density.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Europe"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "european-union",
+    "type": "news",
+    "title": "European Union",
+    "slug": "european-union",
+    "date": "2026-08-05",
+    "displayDate": "August 5, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The European Union is an international organization of 27 European countries with shared economic, social, and security policies. It has key institutions includ",
+    "excerpt": "The European Union is an international organization of 27 European countries with shared economic, social, and security policies. It has key institutions including the European Parliament, the European Commission, and the Council of the European Union. The EU promotes free movement of people, goods,",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "European Union"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "fed-meeting-recap-july-2026",
     "type": "news",
     "title": "Fed meeting recap: July 2026",
@@ -462,6 +588,27 @@
     "readingTime": 3
   },
   {
+    "id": "federal-open-market-committee",
+    "type": "news",
+    "title": "Federal Open Market Committee",
+    "slug": "federal-open-market-committee",
+    "date": "2026-08-05",
+    "displayDate": "August 5, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Open Market Committee (FOMC) is a committee within the Federal Reserve that sets U.S. monetary policy. It consists of twelve members and holds eight",
+    "excerpt": "The Federal Open Market Committee (FOMC) is a committee within the Federal Reserve that sets U.S. monetary policy. It consists of twelve members and holds eight meetings annually. The FOMC influences interest rates and the money supply.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Federal Open Market Committee"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "federal-reserve-board-monetary-policy",
     "type": "news",
     "title": "Federal Reserve Board - Monetary Policy",
@@ -481,6 +628,27 @@
       "alt": "Federal Reserve Board - Monetary Policy"
     },
     "readingTime": 4
+  },
+  {
+    "id": "geekwire-breaking-news-in-technology-business",
+    "type": "news",
+    "title": "GeekWire – Breaking News in Technology & Business",
+    "slug": "geekwire-breaking-news-in-technology-business",
+    "date": "2026-08-05",
+    "displayDate": "August 5, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Microsoft Azure surpassed $100 billion in annual revenue, and General Fusion became the first publicly traded fusion stock on a major exchange. Seattle continue",
+    "excerpt": "Microsoft Azure surpassed $100 billion in annual revenue, and General Fusion became the first publicly traded fusion stock on a major exchange. Seattle continues to attract significant tech investments, including a $1 billion startup in industrial AI. Sila raised $300 million for its next-gen batter",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "GeekWire – Breaking News in Technology & Business"
+    },
+    "readingTime": 3
   },
   {
     "id": "global-market-headlines-breaking-stock-market-news",
@@ -586,6 +754,27 @@
       "alt": "Health Technology Sector: Companies, Performance and Stocks — USA — TradingView"
     },
     "readingTime": 3
+  },
+  {
+    "id": "inflation-consumer-prices-for-the-united-states-fpcpitotlzgusa",
+    "type": "news",
+    "title": "Inflation, consumer prices for the United States (FPCPITOTLZGUSA)",
+    "slug": "inflation-consumer-prices-for-the-united-states-fpcpitotlzgusa",
+    "date": "2026-08-05",
+    "displayDate": "August 5, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Inflation for the United States in 2024 was 2.9%, and in 2023 it was 4.1%. The most recent annual inflation figure is from April 2025.",
+    "excerpt": "Inflation for the United States in 2024 was 2.9%, and in 2023 it was 4.1%. The most recent annual inflation figure is from April 2025.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Inflation, consumer prices for the United States (FPCPITOTLZGUSA)"
+    },
+    "readingTime": 4
   },
   {
     "id": "inflation-economic-data-series-fred-st-louis-fed",
@@ -752,6 +941,27 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "Market Data Center"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "marketwatch-stock-market-news-financial-news",
+    "type": "news",
+    "title": "MarketWatch: Stock Market News - Financial News ...",
+    "slug": "marketwatch-stock-market-news-financial-news",
+    "date": "2026-08-05",
+    "displayDate": "August 5, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "MarketWatch offers financial news, stock market data, and business analysis. It is owned by Dow Jones & Company and launched in 1997. The site provides real-tim",
+    "excerpt": "MarketWatch offers financial news, stock market data, and business analysis. It is owned by Dow Jones & Company and launched in 1997. The site provides real-time updates on stock prices and market trends.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "MarketWatch: Stock Market News - Financial News ..."
     },
     "readingTime": 3
   },
@@ -966,6 +1176,27 @@
     "readingTime": 3
   },
   {
+    "id": "tech-news-today-s-latest-technology-news-reuters",
+    "type": "news",
+    "title": "Tech News | Today's Latest Technology News - Reuters",
+    "slug": "tech-news-today-s-latest-technology-news-reuters",
+    "date": "2026-08-05",
+    "displayDate": "August 5, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Apple shares dropped due to supply constraints affecting growth, while Amazon faces a lawsuit over seafood sustainability claims. The FTC approved IonQ's acquis",
+    "excerpt": "Apple shares dropped due to supply constraints affecting growth, while Amazon faces a lawsuit over seafood sustainability claims. The FTC approved IonQ's acquisition of SkyWater semiconductor foundry.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Tech News | Today's Latest Technology News - Reuters"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "tech-news-today-s-latest-technology-news",
     "type": "news",
     "title": "Tech News | Today's Latest Technology News",
@@ -1134,6 +1365,27 @@
     "readingTime": 6
   },
   {
+    "id": "u-s-market-analysis-valuation-dow-jones-nasdaq-s-p-500-summary",
+    "type": "news",
+    "title": "U.S. Market Analysis & Valuation - Dow Jones, Nasdaq, S&P 500 Summary",
+    "slug": "u-s-market-analysis-valuation-dow-jones-nasdaq-s-p-500-summary",
+    "date": "2026-08-05",
+    "displayDate": "August 5, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Dow Jones, Nasdaq, and S&P 500 are key indices representing the U.S. market, with the Nasdaq leading in tech innovation and the S&P 500 encompassing 500 maj",
+    "excerpt": "The Dow Jones, Nasdaq, and S&P 500 are key indices representing the U.S. market, with the Nasdaq leading in tech innovation and the S&P 500 encompassing 500 major companies. The U.S. remains a global leader in finance and technology. The New York Stock Exchange and Nasdaq are the world's largest sto",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "U.S. Market Analysis & Valuation - Dow Jones, Nasdaq, S&P 500 Summary"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "u-s-stock-markets-today",
     "type": "news",
     "title": "U.S. Stock Markets Today",
@@ -1239,6 +1491,27 @@
     "readingTime": 4
   },
   {
+    "id": "weekly-trader-s-stock-market-outlook",
+    "type": "news",
+    "title": "Weekly Trader's Stock Market Outlook",
+    "slug": "weekly-trader-s-stock-market-outlook",
+    "date": "2026-08-05",
+    "displayDate": "August 5, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Stocks rebounded with tech gains, but the S&P 500 and Dow ended the week fractionally lower, while the NASDAQ dropped over 2%. Earnings growth forecasts for S&P",
+    "excerpt": "Stocks rebounded with tech gains, but the S&P 500 and Dow ended the week fractionally lower, while the NASDAQ dropped over 2%. Earnings growth forecasts for S&P 500 companies surged to 37.9% in Q2. Economic activity remains strong, supported by a stable labor market and resilient consumer spending.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Weekly Trader's Stock Market Outlook"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "what-is-the-current-inflation-rate-in-the-us",
     "type": "news",
     "title": "What is the current inflation rate in the US?",
@@ -1256,6 +1529,27 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "What is the current inflation rate in the US?"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "what-to-look-out-for-in-economic-data-this-week-august-3-7",
+    "type": "news",
+    "title": "What to Look Out for in Economic Data This Week (August 3-7)",
+    "slug": "what-to-look-out-for-in-economic-data-this-week-august-3-7",
+    "date": "2026-08-05",
+    "displayDate": "August 5, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "This week's key economic data focuses on labor market reports, especially Friday's July jobs report. Bond yields are rising, potentially impacting stock investm",
+    "excerpt": "This week's key economic data focuses on labor market reports, especially Friday's July jobs report. Bond yields are rising, potentially impacting stock investments. Earnings reports from major companies are also significant.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "What to Look Out for in Economic Data This Week (August 3-7)"
     },
     "readingTime": 4
   },
@@ -1491,27 +1785,6 @@
     "readingTime": 3
   },
   {
-    "id": "crypto-news-bitcoin-ethereum-xrp-news-crypto-news",
-    "type": "news",
-    "title": "Crypto News: Bitcoin, Ethereum & XRP News | crypto.news",
-    "slug": "crypto-news-bitcoin-ethereum-xrp-news-crypto-news",
-    "date": "2026-08-04",
-    "displayDate": "August 4, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Bitcoin is currently priced at $64,004.00, Ethereum at $1,872.65, and XRP at $1.08. These prices reflect recent market trends.",
-    "excerpt": "Bitcoin is currently priced at $64,004.00, Ethereum at $1,872.65, and XRP at $1.08. These prices reflect recent market trends.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Crypto News: Bitcoin, Ethereum & XRP News | crypto.news"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "economics-defined-with-types-indicators-and-systems",
     "type": "news",
     "title": "Economics Defined With Types, Indicators, and Systems",
@@ -1529,48 +1802,6 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "Economics Defined With Types, Indicators, and Systems"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "ethereum-eth-news-analysis-and-forecast",
-    "type": "news",
-    "title": "Ethereum (ETH) News, Analysis and Forecast",
-    "slug": "ethereum-eth-news-analysis-and-forecast",
-    "date": "2026-08-04",
-    "displayDate": "August 4, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Ethereum transitioned to Proof-of-Stake in 2022. Predictions suggest it could reach $2,108.46 in 2027 and $21,942 by 2031. Current price is around $1,877.96.",
-    "excerpt": "Ethereum transitioned to Proof-of-Stake in 2022. Predictions suggest it could reach $2,108.46 in 2027 and $21,942 by 2031. Current price is around $1,877.96.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Ethereum (ETH) News, Analysis and Forecast"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "ethereum-eth-price-usd-today-news-charts-market-cap",
-    "type": "news",
-    "title": "Ethereum (ETH) Price USD Today, News, Charts, Market Cap",
-    "slug": "ethereum-eth-price-usd-today-news-charts-market-cap",
-    "date": "2026-08-04",
-    "displayDate": "August 4, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Ethereum (ETH) price is $1,867.53 today; market cap is $225.4 billion. Circulating supply is 120.68 million ETH.",
-    "excerpt": "Ethereum (ETH) price is $1,867.53 today; market cap is $225.4 billion. Circulating supply is 120.68 million ETH.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Ethereum (ETH) Price USD Today, News, Charts, Market Cap"
     },
     "readingTime": 3
   },
@@ -1678,27 +1909,6 @@
       "alt": "HUGE BITCOIN, ETHEREUM, & XRP NEWS! CRYPTO RALLY STALLS!"
     },
     "readingTime": 3
-  },
-  {
-    "id": "inflation-consumer-prices-for-the-united-states-fpcpitotlzgusa",
-    "type": "news",
-    "title": "Inflation, consumer prices for the United States (FPCPITOTLZGUSA)",
-    "slug": "inflation-consumer-prices-for-the-united-states-fpcpitotlzgusa",
-    "date": "2026-08-04",
-    "displayDate": "August 4, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The U.S. inflation rate for consumer prices was 2.9% in 2024 and is expected to remain around 3% in 2025. Inflation measures the annual percentage change in the",
-    "excerpt": "The U.S. inflation rate for consumer prices was 2.9% in 2024 and is expected to remain around 3% in 2025. Inflation measures the annual percentage change in the cost of a fixed basket of goods and services. A low, steady inflation rate is generally seen as positive for the economy.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Inflation, consumer prices for the United States (FPCPITOTLZGUSA)"
-    },
-    "readingTime": 4
   },
   {
     "id": "interactive-world-macromap-ft-com-markets-data",
@@ -2037,27 +2247,6 @@
     "readingTime": 4
   },
   {
-    "id": "u-s-market-analysis-valuation-dow-jones-nasdaq-s-p-500-summary",
-    "type": "news",
-    "title": "U.S. Market Analysis & Valuation - Dow Jones, Nasdaq, S&P 500 Summary",
-    "slug": "u-s-market-analysis-valuation-dow-jones-nasdaq-s-p-500-summary",
-    "date": "2026-08-04",
-    "displayDate": "August 4, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The U.S. market valuation is $57.3 trillion, with the Consumer Discretionary sector leading at 7.0% growth. The Nasdaq surged 2.13%, and the Dow Jones and S&P 5",
-    "excerpt": "The U.S. market valuation is $57.3 trillion, with the Consumer Discretionary sector leading at 7.0% growth. The Nasdaq surged 2.13%, and the Dow Jones and S&P 500 rose 1.32% and 1.48%, respectively. Tech stocks drove gains, with Amazon surpassing $3 trillion in market cap.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "U.S. Market Analysis & Valuation - Dow Jones, Nasdaq, S&P 500 Summary"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "united-states-consumer-price-index-cpi-yoy",
     "type": "news",
     "title": "United States Consumer Price Index (CPI) YoY",
@@ -2098,27 +2287,6 @@
       "alt": "Warsh says Fed won't hesitate to stop inflation, but bond market has doubts"
     },
     "readingTime": 3
-  },
-  {
-    "id": "weekly-trader-s-stock-market-outlook",
-    "type": "news",
-    "title": "Weekly Trader's Stock Market Outlook",
-    "slug": "weekly-trader-s-stock-market-outlook",
-    "date": "2026-08-04",
-    "displayDate": "August 4, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The stock market outlook for the week was cautiously negative, with the Nasdaq Composite declining the most, and energy stocks rising due to oil price increases",
-    "excerpt": "The stock market outlook for the week was cautiously negative, with the Nasdaq Composite declining the most, and energy stocks rising due to oil price increases. S&P 500 earnings are strong, but tech sectors faced volatility. Energy and industrial sectors performed well, while consumer discretionary",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Weekly Trader's Stock Market Outlook"
-    },
-    "readingTime": 4
   },
   {
     "id": "5-key-investment-strategies-to-learn-before-trading",
@@ -2432,27 +2600,6 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "Federal Open Market Committee - Wikipedia"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "federal-open-market-committee",
-    "type": "news",
-    "title": "Federal Open Market Committee",
-    "slug": "federal-open-market-committee",
-    "date": "2026-08-03",
-    "displayDate": "August 3, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Open Market Committee (FOMC) is a key committee within the Federal Reserve System that sets U.S. monetary policy and oversees open market operations",
-    "excerpt": "The Federal Open Market Committee (FOMC) is a key committee within the Federal Reserve System that sets U.S. monetary policy and oversees open market operations. It consists of twelve members and holds eight regular meetings annually. The FOMC determines the federal funds rate and manages the nation",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Federal Open Market Committee"
     },
     "readingTime": 3
   },
@@ -2856,48 +3003,6 @@
     "readingTime": 3
   },
   {
-    "id": "europe",
-    "type": "news",
-    "title": "Europe",
-    "slug": "europe",
-    "date": "2026-08-02",
-    "displayDate": "August 2, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Europe is the second-smallest continent, comprising 47 countries, with a population density second only to Asia. It covers about 2% of Earth's surface and is pa",
-    "excerpt": "Europe is the second-smallest continent, comprising 47 countries, with a population density second only to Asia. It covers about 2% of Earth's surface and is part of the Eurasian landmass. Its boundaries are defined by the Arctic, Atlantic, Mediterranean, Black, and Caspian Seas.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Europe"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "european-union",
-    "type": "news",
-    "title": "European Union",
-    "slug": "european-union",
-    "date": "2026-08-02",
-    "displayDate": "August 2, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The European Union is an international organization of 27 European countries with shared economic, social, and security policies. It has seven main institutions",
-    "excerpt": "The European Union is an international organization of 27 European countries with shared economic, social, and security policies. It has seven main institutions: the European Parliament, the Council of the European Union, and the European Commission. The EU was founded in 1992 with the Maastricht Tr",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "European Union"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "fed-announces-monetary-policy-meeting-scheduled-for-2025-2026",
     "type": "news",
     "title": "Fed announces monetary policy meeting scheduled for 2025, 2026",
@@ -2959,27 +3064,6 @@
       "alt": "Fed holds interest rates steady after cliffhanger meeting, but three ..."
     },
     "readingTime": 4
-  },
-  {
-    "id": "geekwire-breaking-news-in-technology-business",
-    "type": "news",
-    "title": "GeekWire – Breaking News in Technology & Business",
-    "slug": "geekwire-breaking-news-in-technology-business",
-    "date": "2026-08-02",
-    "displayDate": "August 2, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Microsoft launched \"Project Perception\" and a new AI model. General Fusion made a historic Nasdaq debut. Microsoft's carbon emissions increased by 25%.",
-    "excerpt": "Microsoft launched \"Project Perception\" and a new AI model. General Fusion made a historic Nasdaq debut. Microsoft's carbon emissions increased by 25%.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "GeekWire – Breaking News in Technology & Business"
-    },
-    "readingTime": 3
   },
   {
     "id": "health-care-sector-industry-performance-bloomberg",
@@ -3127,27 +3211,6 @@
       "alt": "Wall Street Horizon: Earnings Calendar & Event Data"
     },
     "readingTime": 3
-  },
-  {
-    "id": "what-to-look-out-for-in-economic-data-this-week-august-3-7",
-    "type": "news",
-    "title": "What to Look Out for in Economic Data This Week (August 3-7)",
-    "slug": "what-to-look-out-for-in-economic-data-this-week-august-3-7",
-    "date": "2026-08-02",
-    "displayDate": "August 2, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "This week's key economic data focuses on labor market indicators, with the July jobs report on Friday being the most critical. Tuesday's Job Openings and Labor ",
-    "excerpt": "This week's key economic data focuses on labor market indicators, with the July jobs report on Friday being the most critical. Tuesday's Job Openings and Labor Turnover Survey (JOLTS) and Thursday's initial jobless claims are also important.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "What to Look Out for in Economic Data This Week (August 3-7)"
-    },
-    "readingTime": 5
   },
   {
     "id": "when-is-the-next-fomc-meeting",
@@ -5477,27 +5540,6 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "Live updates: Interest rates steady, Federal Reserve ..."
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "marketwatch-stock-market-news-financial-news",
-    "type": "news",
-    "title": "MarketWatch: Stock Market News - Financial News ...",
-    "slug": "marketwatch-stock-market-news-financial-news",
-    "date": "2026-07-06",
-    "displayDate": "July 6, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "MarketWatch offers financial news, stock market data, and business analysis. It is part of Dow Jones & Company. The site provides essential updates on market tr",
-    "excerpt": "MarketWatch offers financial news, stock market data, and business analysis. It is part of Dow Jones & Company. The site provides essential updates on market trends and economic policies.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "MarketWatch: Stock Market News - Financial News ..."
     },
     "readingTime": 3
   },
@@ -7850,27 +7892,6 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "Stock Market Outlook Today & Tomorrow - Seeking Alpha"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "tech-news-today-s-latest-technology-news-reuters",
-    "type": "news",
-    "title": "Tech News | Today's Latest Technology News | Reuters",
-    "slug": "tech-news-today-s-latest-technology-news-reuters",
-    "date": "2026-06-10",
-    "displayDate": "June 10, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "SpaceX IPO demand is four times oversubscribed. Musk's xAI and SpaceX face a class action lawsuit. Meta continues to dominate tech news.",
-    "excerpt": "SpaceX IPO demand is four times oversubscribed. Musk's xAI and SpaceX face a class action lawsuit. Meta continues to dominate tech news.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Tech News | Today's Latest Technology News | Reuters"
     },
     "readingTime": 3
   },
