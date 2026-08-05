@@ -126,6 +126,27 @@
     "readingTime": 3
   },
   {
+    "id": "btc-usd-bitcoin-price-and-chart",
+    "type": "news",
+    "title": "BTC USD — Bitcoin Price and Chart",
+    "slug": "btc-usd-bitcoin-price-and-chart",
+    "date": "2026-08-05",
+    "displayDate": "August 5, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin's current price is around $63,757.49, and its market cap is $1.279 trillion. Bitcoin reached an all-time high of $126,272 in 2025 and a low of $2 in 201",
+    "excerpt": "Bitcoin's current price is around $63,757.49, and its market cap is $1.279 trillion. Bitcoin reached an all-time high of $126,272 in 2025 and a low of $2 in 2011.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "BTC USD — Bitcoin Price and Chart"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "cnbc-stock-markets-business-news-financials-earnings",
     "type": "news",
     "title": "CNBC: Stock Markets, Business News, Financials, Earnings",
@@ -252,6 +273,27 @@
     "readingTime": 3
   },
   {
+    "id": "earnings-blitz-peace-hopes-provide-early-boost",
+    "type": "news",
+    "title": "Earnings Blitz, Peace Hopes Provide Early Boost",
+    "slug": "earnings-blitz-peace-hopes-provide-early-boost",
+    "date": "2026-08-05",
+    "displayDate": "August 5, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Stocks climbed early due to strong earnings from companies like Caterpillar and hopes for a U.S.-Iran peace deal. Caterpillar's shares rose significantly, drive",
+    "excerpt": "Stocks climbed early due to strong earnings from companies like Caterpillar and hopes for a U.S.-Iran peace deal. Caterpillar's shares rose significantly, driven by strong AI demand and better-than-expected earnings. Market optimism was further boosted by indications of a potential diplomatic resolu",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Earnings Blitz, Peace Hopes Provide Early Boost"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "earnings-calendar-and-analysis-for-this-week-august-3-7",
     "type": "news",
     "title": "Earnings Calendar and Analysis for This Week (August 3-7)",
@@ -315,6 +357,48 @@
     "readingTime": 3
   },
   {
+    "id": "economic-calendar",
+    "type": "news",
+    "title": "Economic Calendar",
+    "slug": "economic-calendar",
+    "date": "2026-08-05",
+    "displayDate": "August 5, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "An economic calendar lists real-time financial events and data releases affecting markets, with high-impact events marked for significant market volatility. It ",
+    "excerpt": "An economic calendar lists real-time financial events and data releases affecting markets, with high-impact events marked for significant market volatility. It includes indicators like GDP and interest rates. Use it to prepare for trades.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Economic Calendar"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "economic-indicators-calendar-new-york-fed",
+    "type": "news",
+    "title": "Economic Indicators Calendar | New York Fed",
+    "slug": "economic-indicators-calendar-new-york-fed",
+    "date": "2026-08-05",
+    "displayDate": "August 5, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The New York Fed's Economic Indicators Calendar lists key economic data release dates and times in Eastern Time. Today's notable releases include the ADP Nation",
+    "excerpt": "The New York Fed's Economic Indicators Calendar lists key economic data release dates and times in Eastern Time. Today's notable releases include the ADP National Employment Report and ISM Non-Manufacturing. Check the calendar for the most current schedule.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Economic Indicators Calendar | New York Fed"
+    },
+    "readingTime": 5
+  },
+  {
     "id": "economic-sector-performance-dashboards",
     "type": "news",
     "title": "Economic Sector Performance Dashboards",
@@ -332,6 +416,27 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "Economic Sector Performance Dashboards"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "economy-statement-for-the-treasury-borrowing-advisory-committee",
+    "type": "news",
+    "title": "Economy Statement for the Treasury Borrowing Advisory Committee",
+    "slug": "economy-statement-for-the-treasury-borrowing-advisory-committee",
+    "date": "2026-08-05",
+    "displayDate": "August 5, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "U.S. economic growth solidified in the third quarter of 2025 with steady business investment and consumer demand. Inflation remained above 2 percent, and unempl",
+    "excerpt": "U.S. economic growth solidified in the third quarter of 2025 with steady business investment and consumer demand. Inflation remained above 2 percent, and unemployment was at 4.1 percent as of June 2025. Household finances were strong, driven by corporate equity holdings.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Economy Statement for the Treasury Borrowing Advisory Committee"
     },
     "readingTime": 4
   },
@@ -355,6 +460,27 @@
       "alt": "Fed meeting recap: July 2026"
     },
     "readingTime": 3
+  },
+  {
+    "id": "federal-reserve-board-monetary-policy",
+    "type": "news",
+    "title": "Federal Reserve Board - Monetary Policy",
+    "slug": "federal-reserve-board-monetary-policy",
+    "date": "2026-08-05",
+    "displayDate": "August 5, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Reserve's monetary policy aims to promote maximum employment and stable prices. It uses tools like the federal funds rate and quantitative easing. T",
+    "excerpt": "The Federal Reserve's monetary policy aims to promote maximum employment and stable prices. It uses tools like the federal funds rate and quantitative easing. The Federal Open Market Committee sets policy.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Federal Reserve Board - Monetary Policy"
+    },
+    "readingTime": 4
   },
   {
     "id": "global-market-headlines-breaking-stock-market-news",
@@ -483,6 +609,48 @@
     "readingTime": 4
   },
   {
+    "id": "international-stocks-how-and-why-to-invest-charles-schwab",
+    "type": "news",
+    "title": "International Stocks: How and Why to Invest | Charles Schwab",
+    "slug": "international-stocks-how-and-why-to-invest-charles-schwab",
+    "date": "2026-08-05",
+    "displayDate": "August 5, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Investing in international stocks diversifies your portfolio and can improve returns; Charles Schwab offers accounts and services to facilitate this. Dividends ",
+    "excerpt": "Investing in international stocks diversifies your portfolio and can improve returns; Charles Schwab offers accounts and services to facilitate this. Dividends from foreign stocks may incur foreign tax withholding, but U.S. investors can claim foreign tax credits. Schwab provides tools for trading i",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "International Stocks: How and Why to Invest | Charles Schwab"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "investment-outlook-and-portfolio-strategies-for-2026",
+    "type": "news",
+    "title": "Investment Outlook and Portfolio Strategies for 2026",
+    "slug": "investment-outlook-and-portfolio-strategies-for-2026",
+    "date": "2026-08-05",
+    "displayDate": "August 5, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "For 2026, focus on increasing exposure to small caps and emerging markets, diversify globally, and consider alternative investments for qualified investors. Pri",
+    "excerpt": "For 2026, focus on increasing exposure to small caps and emerging markets, diversify globally, and consider alternative investments for qualified investors. Prioritize income generation and targeted diversification, especially in an AI-driven market. Adjust portfolio strategies to navigate expected ",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Investment Outlook and Portfolio Strategies for 2026"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "investment-strategies-for-today-and-long-term-blackrock",
     "type": "news",
     "title": "Investment strategies for today and long-term | BlackRock",
@@ -500,6 +668,27 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "Investment strategies for today and long-term | BlackRock"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "investment-strategy-2026-portfolio-moves-for-a-changing-market",
+    "type": "news",
+    "title": "Investment Strategy 2026 Portfolio Moves for a Changing Market",
+    "slug": "investment-strategy-2026-portfolio-moves-for-a-changing-market",
+    "date": "2026-08-05",
+    "displayDate": "August 5, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "For 2026, focus on small caps, emerging markets, and cash-flow-generative assets; diversify globally and consider alternative investments for qualified investor",
+    "excerpt": "For 2026, focus on small caps, emerging markets, and cash-flow-generative assets; diversify globally and consider alternative investments for qualified investors. Income generation and differentiated diversification are key strategies.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Investment Strategy 2026 Portfolio Moves for a Changing Market"
     },
     "readingTime": 3
   },
@@ -735,6 +924,48 @@
     "readingTime": 3
   },
   {
+    "id": "six-portfolio-strategy-ideas-for-2026",
+    "type": "news",
+    "title": "Six portfolio strategy ideas for 2026",
+    "slug": "six-portfolio-strategy-ideas-for-2026",
+    "date": "2026-08-05",
+    "displayDate": "August 5, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "For 2026, consider increasing exposure to small caps and emerging markets, diversifying equities globally, and using fixed income for stability.",
+    "excerpt": "For 2026, consider increasing exposure to small caps and emerging markets, diversifying equities globally, and using fixed income for stability.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Six portfolio strategy ideas for 2026"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "stock-market-outlook-forecast",
+    "type": "news",
+    "title": "stock market outlook & forecast",
+    "slug": "stock-market-outlook-forecast",
+    "date": "2026-08-05",
+    "displayDate": "August 5, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Stocks are expected to see modest gains, with strong company earnings and a historic bull market run, though higher oil prices may pose risks.",
+    "excerpt": "Stocks are expected to see modest gains, with strong company earnings and a historic bull market run, though higher oil prices may pose risks.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "stock market outlook & forecast"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "tech-news-today-s-latest-technology-news",
     "type": "news",
     "title": "Tech News | Today's Latest Technology News",
@@ -752,6 +983,27 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "Tech News | Today's Latest Technology News"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "technology-industry-news-latest-tech-news-for-leaders-the-information",
+    "type": "news",
+    "title": "Technology Industry News: Latest Tech News for Leaders — The Information",
+    "slug": "technology-industry-news-latest-tech-news-for-leaders-the-information",
+    "date": "2026-08-05",
+    "displayDate": "August 5, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Trump administration invited major tech companies to review an AI oversight framework. The framework aims to create a voluntary procedure for AI labs to sub",
+    "excerpt": "The Trump administration invited major tech companies to review an AI oversight framework. The framework aims to create a voluntary procedure for AI labs to submit models to the government before public release. This initiative seeks to enhance AI regulation and oversight.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Technology Industry News: Latest Tech News for Leaders — The Information"
     },
     "readingTime": 4
   },
@@ -798,6 +1050,48 @@
     "readingTime": 3
   },
   {
+    "id": "the-fed-federal-open-market-committee",
+    "type": "news",
+    "title": "The Fed - Federal Open Market Committee",
+    "slug": "the-fed-federal-open-market-committee",
+    "date": "2026-08-05",
+    "displayDate": "August 5, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Open Market Committee (FOMC) oversees the Federal Reserve's open market operations, sets monetary policy, and determines interest rates. It consists",
+    "excerpt": "The Federal Open Market Committee (FOMC) oversees the Federal Reserve's open market operations, sets monetary policy, and determines interest rates. It consists of twelve members, including the Board of Governors and rotating Reserve Bank presidents. The FOMC meets eight times a year to assess econo",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "The Fed - Federal Open Market Committee"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "the-fomc-conducts-monetary-policy-in-plain-english",
+    "type": "news",
+    "title": "The FOMC Conducts Monetary Policy: In Plain English",
+    "slug": "the-fomc-conducts-monetary-policy-in-plain-english",
+    "date": "2026-08-05",
+    "displayDate": "August 5, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Open Market Committee (FOMC) sets the target range for the federal funds rate to conduct monetary policy. The Fed uses tools to keep market interest",
+    "excerpt": "The Federal Open Market Committee (FOMC) sets the target range for the federal funds rate to conduct monetary policy. The Fed uses tools to keep market interest rates within this target range. The FOMC's decisions influence economic activity and inflation.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "The FOMC Conducts Monetary Policy: In Plain English"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "top-investment-strategies-key-approaches-to-maximize-returns",
     "type": "news",
     "title": "Top Investment Strategies: Key Approaches to Maximize Returns",
@@ -817,6 +1111,48 @@
       "alt": "Top Investment Strategies: Key Approaches to Maximize Returns"
     },
     "readingTime": 3
+  },
+  {
+    "id": "u-s-economic-calendar",
+    "type": "news",
+    "title": "U.S. Economic Calendar",
+    "slug": "u-s-economic-calendar",
+    "date": "2026-08-05",
+    "displayDate": "August 5, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Today's key U.S. economic reports include the RCM/TIPP Economic Optimism Index and 52-Week Bill Auction. Tomorrow, watch for FOMC interest-rate decision and Fed",
+    "excerpt": "Today's key U.S. economic reports include the RCM/TIPP Economic Optimism Index and 52-Week Bill Auction. Tomorrow, watch for FOMC interest-rate decision and Fed Chair press conference. On August 13, initial jobless claims and GDP are due.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "U.S. Economic Calendar"
+    },
+    "readingTime": 6
+  },
+  {
+    "id": "u-s-stock-markets-today",
+    "type": "news",
+    "title": "U.S. Stock Markets Today",
+    "slug": "u-s-stock-markets-today",
+    "date": "2026-08-05",
+    "displayDate": "August 5, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The S&P 500 is up nearly 2% and above 7,700. Tech stocks are leading gains. Oil prices are around $80 per barrel.",
+    "excerpt": "The S&P 500 is up nearly 2% and above 7,700. Tech stocks are leading gains. Oil prices are around $80 per barrel.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "U.S. Stock Markets Today"
+    },
+    "readingTime": 5
   },
   {
     "id": "united-states-economic-indicators-moody-s-analytics",
@@ -1176,48 +1512,6 @@
     "readingTime": 3
   },
   {
-    "id": "economic-calendar",
-    "type": "news",
-    "title": "Economic Calendar",
-    "slug": "economic-calendar",
-    "date": "2026-08-04",
-    "displayDate": "August 4, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "An economic calendar lists upcoming financial events and data releases that can impact markets, with high-impact events often marked with stars. It includes ind",
-    "excerpt": "An economic calendar lists upcoming financial events and data releases that can impact markets, with high-impact events often marked with stars. It includes indicators like GDP and interest rates, and can be filtered by importance.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Economic Calendar"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "economic-indicators-calendar-new-york-fed",
-    "type": "news",
-    "title": "Economic Indicators Calendar | New York Fed",
-    "slug": "economic-indicators-calendar-new-york-fed",
-    "date": "2026-08-04",
-    "displayDate": "August 4, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The New York Fed's Economic Indicators Calendar lists key economic data release dates and times in Eastern Time. Today's notable releases include ISM Manufactur",
-    "excerpt": "The New York Fed's Economic Indicators Calendar lists key economic data release dates and times in Eastern Time. Today's notable releases include ISM Manufacturing and JOLTS Job Openings. For full details, visit the official New York Fed website.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Economic Indicators Calendar | New York Fed"
-    },
-    "readingTime": 5
-  },
-  {
     "id": "economics-defined-with-types-indicators-and-systems",
     "type": "news",
     "title": "Economics Defined With Types, Indicators, and Systems",
@@ -1428,27 +1722,6 @@
     "readingTime": 4
   },
   {
-    "id": "investment-strategy-2026-portfolio-moves-for-a-changing-market",
-    "type": "news",
-    "title": "Investment Strategy 2026 Portfolio Moves for a Changing Market",
-    "slug": "investment-strategy-2026-portfolio-moves-for-a-changing-market",
-    "date": "2026-08-04",
-    "displayDate": "August 4, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "For 2026, focus on income generation and diversification, especially in AI-driven sectors, while maintaining portfolio resilience against inflation and market v",
-    "excerpt": "For 2026, focus on income generation and diversification, especially in AI-driven sectors, while maintaining portfolio resilience against inflation and market volatility. Prioritize cash-flow-generative assets for stability.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Investment Strategy 2026 Portfolio Moves for a Changing Market"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "latest-technology-news-and-reviews-yahoo-finance",
     "type": "news",
     "title": "Latest Technology News and Reviews - Yahoo Finance",
@@ -1552,27 +1825,6 @@
       "alt": "S&P 500 Technical Analysis and Moving Averages"
     },
     "readingTime": 5
-  },
-  {
-    "id": "six-portfolio-strategy-ideas-for-2026",
-    "type": "news",
-    "title": "Six portfolio strategy ideas for 2026",
-    "slug": "six-portfolio-strategy-ideas-for-2026",
-    "date": "2026-08-04",
-    "displayDate": "August 4, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "In 2026, consider diversified portfolios with tech growth, sustainable energy, healthcare innovation, and emerging markets. Focus on high-yield bonds and global",
-    "excerpt": "In 2026, consider diversified portfolios with tech growth, sustainable energy, healthcare innovation, and emerging markets. Focus on high-yield bonds and global ETFs for balanced exposure. Hedge with precious metals and stable currencies.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Six portfolio strategy ideas for 2026"
-    },
-    "readingTime": 3
   },
   {
     "id": "stock-market-news-bond-market-currencies-markets",
@@ -1783,27 +2035,6 @@
       "alt": "U.S. Census Bureau Economic Indicators"
     },
     "readingTime": 4
-  },
-  {
-    "id": "u-s-economic-calendar",
-    "type": "news",
-    "title": "U.S. Economic Calendar",
-    "slug": "u-s-economic-calendar",
-    "date": "2026-08-04",
-    "displayDate": "August 4, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "On August 4, 2026, key U.S. economic reports include factory orders and jobless claims. The U.S. federal budget for July is also due. The FOMC interest-rate dec",
-    "excerpt": "On August 4, 2026, key U.S. economic reports include factory orders and jobless claims. The U.S. federal budget for July is also due. The FOMC interest-rate decision is scheduled for July 29.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "U.S. Economic Calendar"
-    },
-    "readingTime": 6
   },
   {
     "id": "u-s-market-analysis-valuation-dow-jones-nasdaq-s-p-500-summary",
@@ -2121,27 +2352,6 @@
     "readingTime": 4
   },
   {
-    "id": "economy-statement-for-the-treasury-borrowing-advisory-committee",
-    "type": "news",
-    "title": "Economy Statement for the Treasury Borrowing Advisory Committee",
-    "slug": "economy-statement-for-the-treasury-borrowing-advisory-committee",
-    "date": "2026-08-03",
-    "displayDate": "August 3, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The U.S. economy showed solid growth in the third quarter of 2025 with stable inflation and low unemployment. Inflation remained low, and unemployment stayed ne",
-    "excerpt": "The U.S. economy showed solid growth in the third quarter of 2025 with stable inflation and low unemployment. Inflation remained low, and unemployment stayed near the non-cyclical rate. Treasury borrowing needs remain manageable.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Economy Statement for the Treasury Borrowing Advisory Committee"
-    },
-    "readingTime": 5
-  },
-  {
     "id": "ethereum-news-today-latest-eth-news",
     "type": "news",
     "title": "Ethereum News Today | Latest ETH News",
@@ -2247,27 +2457,6 @@
     "readingTime": 3
   },
   {
-    "id": "federal-reserve-board-monetary-policy",
-    "type": "news",
-    "title": "Federal Reserve Board - Monetary Policy",
-    "slug": "federal-reserve-board-monetary-policy",
-    "date": "2026-08-03",
-    "displayDate": "August 3, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Reserve's monetary policy aims for maximum employment and stable prices, primarily using the federal funds rate and occasionally quantitative easing",
-    "excerpt": "The Federal Reserve's monetary policy aims for maximum employment and stable prices, primarily using the federal funds rate and occasionally quantitative easing. The Federal Open Market Committee sets this policy. The Fed Board and regional bank presidents deliberate on it.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Federal Reserve Board - Monetary Policy"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "finance-and-markets-wsj-com",
     "type": "news",
     "title": "Finance and Markets - WSJ.com",
@@ -2348,27 +2537,6 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "Interactive World Macromap - FT.com"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "international-stocks-how-and-why-to-invest-charles-schwab",
-    "type": "news",
-    "title": "International Stocks: How and Why to Invest | Charles Schwab",
-    "slug": "international-stocks-how-and-why-to-invest-charles-schwab",
-    "date": "2026-08-03",
-    "displayDate": "August 3, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Investing in international stocks diversifies your portfolio and can improve returns by accessing fast-growing global markets. Schwab offers accounts for tradin",
-    "excerpt": "Investing in international stocks diversifies your portfolio and can improve returns by accessing fast-growing global markets. Schwab offers accounts for trading in international markets and provides tools for global investing. Be aware of currency risks and foreign taxes.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "International Stocks: How and Why to Invest | Charles Schwab"
     },
     "readingTime": 4
   },
@@ -2476,27 +2644,6 @@
       "alt": "Sectors — Stock Market — USA — TradingView"
     },
     "readingTime": 5
-  },
-  {
-    "id": "the-fed-federal-open-market-committee",
-    "type": "news",
-    "title": "The Fed - Federal Open Market Committee",
-    "slug": "the-fed-federal-open-market-committee",
-    "date": "2026-08-03",
-    "displayDate": "August 3, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Open Market Committee (FOMC) oversees the Federal Reserve's open market operations and sets U.S. monetary policy, including interest rates. It consi",
-    "excerpt": "The Federal Open Market Committee (FOMC) oversees the Federal Reserve's open market operations and sets U.S. monetary policy, including interest rates. It consists of twelve members, including the Board of Governors and rotating Reserve Bank presidents. The FOMC meets eight times a year to review ec",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "The Fed - Federal Open Market Committee"
-    },
-    "readingTime": 3
   },
   {
     "id": "the-fed-meeting-calendars-and-information",
@@ -3965,27 +4112,6 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "U.S. Stock Market Headlines | Breaking Stock Market News"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "u-s-stock-markets-today",
-    "type": "news",
-    "title": "U.S. Stock Markets Today",
-    "slug": "u-s-stock-markets-today",
-    "date": "2026-07-08",
-    "displayDate": "July 8, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "U.S. stock markets closed lower on Tuesday with the S&P 500 down 0.4%, Nasdaq 100 down 1.8%, and Dow Jones losing 131 points. Trading was impacted by a selloff ",
-    "excerpt": "U.S. stock markets closed lower on Tuesday with the S&P 500 down 0.4%, Nasdaq 100 down 1.8%, and Dow Jones losing 131 points. Trading was impacted by a selloff in chipmakers.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "U.S. Stock Markets Today"
     },
     "readingTime": 3
   },
@@ -6884,27 +7010,6 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "S&P 500 Ideas — SPCFD:SPX"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "stock-market-outlook-forecast",
-    "type": "news",
-    "title": "stock market outlook & forecast",
-    "slug": "stock-market-outlook-forecast",
-    "date": "2026-07-02",
-    "displayDate": "July 2, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The stock market outlook suggests moderate volatility, with tech sector pressure and potential for higher interest rates due to oil prices. Analysts recommend d",
-    "excerpt": "The stock market outlook suggests moderate volatility, with tech sector pressure and potential for higher interest rates due to oil prices. Analysts recommend diversification into uncorrelated assets like commodities. Current trends indicate a moderately bullish forecast with potential for increased",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "stock market outlook & forecast"
     },
     "readingTime": 3
   },
