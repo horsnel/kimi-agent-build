@@ -3,8 +3,8 @@
   "type": "news",
   "title": "Market Data Center",
   "slug": "market-data-center",
-  "date": "2026-08-04",
-  "displayDate": "August 4, 2026",
+  "date": "2026-08-05",
+  "displayDate": "August 5, 2026",
   "author": "Sigma Capital",
   "category": "Market Analysis",
   "tags": [
@@ -12,28 +12,36 @@
     "financial news",
     "market update"
   ],
-  "metaDescription": "## Currencies\n\n| Name | Last | Chg | Chg % |\n ---  --- |\n| Euro | $1.1525 | 0.0015 | 0.13% |\n| Toggle Chart Options Advanced Charting 1D 5D 1M 3M 6M YTD 1Y 3Y A",
-  "excerpt": "## Currencies\n\n| Name | Last | Chg | Chg % |\n ---  --- |\n| Euro | $1.1525 | 0.0015 | 0.13% |\n| Toggle Chart Options Advanced Charting 1D 5D 1M 3M 6M YTD 1Y 3Y All Range Dropdown  $ % Vol | | | |\n| Japanese Yen | ¥157.68 | 0.51 | 0.32% |\n| British Pou",
+  "metaDescription": "The global data center market is growing rapidly, projected to reach USD 699.13 billion by 2034 with a CAGR of 11.10%. North America leads due to hyperscale exp",
+  "excerpt": "The global data center market is growing rapidly, projected to reach USD 699.13 billion by 2034 with a CAGR of 11.10%. North America leads due to hyperscale expansion and cloud adoption. Key players include Schneider Electric and IBM.",
   "content": {
-    "introduction": "## Currencies\n\n| Name | Last | Chg | Chg % |\n ---  --- |\n| Euro | $1.1525 | 0.0015 | 0.13% |\n| Toggle Chart Options Advanced Charting 1D 5D 1M 3M 6M YTD 1Y 3Y All Range Dropdown  $ % Vol | | | |\n| Japanese Yen | ¥157.68 | 0.51 | 0.32% |\n| British Pou",
-    "body": [],
-    "keyTakeaways": [],
+    "introduction": "The global data center market is growing rapidly, projected to reach USD 699.13 billion by 2034 with a CAGR of 11.10%. North America leads due to hyperscale expansion and cloud adoption. Key players include Schneider Electric and IBM.",
+    "body": [
+      "The Data Center market is a critical segment of the technology industry focusing on supplying and managing physical infrastructure necessary for hosting and operating IT systems, primarily servers, storage, and network equipment. This market spans from traditional in-house data centers to sophisticated facilities offered by specialized providers, covering services like hosting, shared data center facilities, and managed data center solutions. It targets a diverse client base, ranging from small [...] The Data Center market is a critical segment of the technology industry focusing on supplying and managing physical infrastructure necessary for hosting and operating IT systems, primarily servers, storage, and network equipment. This market spans from traditional in-house data centers to sophisticated facilities offered by specialized providers, covering services like hosting, shared data center facilities, and managed data center solutions. It targets a diverse client base, ranging from small [...] The Data Center market includes revenue, revenue change, average spend per employee, and key player market shares as key performance indicators. Market values represent revenues paid to primary vendors at the manufacturer price level either directly or through distribution channels (excluding VAT). Revenues are generated through both online and offline sales channels and include spending by consumers (B2C), enterprises (B2B) as well as governments (B2G). Detailed definitions of each market can",
+      "The global data center market size was valued at USD 269.79 billion in 2025 and is projected to grow from USD 300.64 billion in 2026 to USD 699.13 billion by 2034, exhibiting a CAGR of 11.10% during the forecast period. North America dominated the global data center market, accounting for 38.50% market share in 2025. Industry growth is driven by hyperscale expansion, AI infrastructure demand, accelerated cloud adoption, and enterprise digital transformation investments across emerging and [...] The market is projected to grow at a CAGR of 11.10% during the forecast period.\n\nBy data center type, the colocation segment is expected to lead the market.\n\nIncreased digitalization and cloud adoption among industries drive market growth.\n\nSchneider Electric, ABB Ltd., IBM Corporation, Cisco System, Inc., Huawei Technologies Co., Ltd., and Hitachi Ltd are the top players in the market.\n\nNorth America held the highest market share in 2024. [...] North America leads the global data center market due to hyperscale concentration, mature cloud adoption, and deep capital availability. Strong fiber connectivity, renewable procurement frameworks, and enterprise outsourcing support sustained capacity expansion. Power constraints in key metropolitan hubs influence site selection toward secondary markets. The region maintains a dominant market share, supported by long-term hyperscale lease commitments.\n\nUnited States Data Center Market:",
+      "### Account Settings\n\n### \n\n# Market Data Center\n\n## U.S.\n\n## Europe\n\n| Name | Last | Chg | Chg % |\n ---  --- |\n| FTSE 100 | 10,879.38 | 21.68 | 0.20% |\n| Toggle Chart Options Advanced Charting 1D 5D 1M 3M 6M YTD 1Y 3Y All Range Dropdown  $ % Vol | | | |\n| DAX | 26,202.35 | 201.04 | 0.77% |\n| CAC 40 | 8,666.63 | 52.81 | 0.61% |\n| FTSE MIB | 53,540.50 | 668.78 | 1.26% |\n| IBEX 35 | 20,023.60 | 41.00 | 0.21% |\n| SXXP | 656.86 | 4.77 | 0.73% |\n\n## Asia"
+    ],
+    "keyTakeaways": [
+      "The global data center market is growing rapidly, projected to reach USD 699.13 billion by 2034 with a CAGR of 11",
+      "The Data Center market is a critical segment of the technology industry focusing on supplying and managing physical infr",
+      "The global data center market size was valued at USD 269.79 billion in 2025 and is projected to grow from USD 300"
+    ],
     "source": "marketwatch.com",
     "sourceUrl": "https://www.marketwatch.com/market-data"
   },
   "readingTime": 3,
-  "updatedAt": "2026-08-04T19:40:11.395Z",
+  "updatedAt": "2026-08-05T08:28:01.722Z",
   "images": {
     "thumbnail": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Market Data Center"
-    },
-    "hero": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "Market Data Center"
     },
-    "mid": {
+    "hero": {
       "src": "/images/article_thumb_4.jpg",
+      "alt": "Market Data Center"
+    },
+    "mid": {
+      "src": "/images/article_thumb_5.jpg",
       "alt": "Market Data Center"
     }
   },

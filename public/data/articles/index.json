@@ -63,6 +63,90 @@
     "readingTime": 3
   },
   {
+    "id": "bitcoin-btc-price-today-btc-live-price-charts-news",
+    "type": "news",
+    "title": "Bitcoin (BTC) Price Today: BTC Live Price, Charts, News",
+    "slug": "bitcoin-btc-price-today-btc-live-price-charts-news",
+    "date": "2026-08-05",
+    "displayDate": "August 5, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin's price today is $63,899.90, with a market cap of $1.28T and a 24-hour trading volume of $25.78B. It reached an all-time high of $126,279.62.",
+    "excerpt": "Bitcoin's price today is $63,899.90, with a market cap of $1.28T and a 24-hour trading volume of $25.78B. It reached an all-time high of $126,279.62.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Bitcoin (BTC) Price Today: BTC Live Price, Charts, News"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "bitcoin-btc-price-usd-today-news-charts-market-cap",
+    "type": "news",
+    "title": "Bitcoin (BTC) Price USD Today, News, Charts, Market Cap",
+    "slug": "bitcoin-btc-price-usd-today-news-charts-market-cap",
+    "date": "2026-08-05",
+    "displayDate": "August 5, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin's price today is $64,178.26, with a market cap of $1.29T. It has risen 0.91% in the last 24 hours.",
+    "excerpt": "Bitcoin's price today is $64,178.26, with a market cap of $1.29T. It has risen 0.91% in the last 24 hours.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Bitcoin (BTC) Price USD Today, News, Charts, Market Cap"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "bitcoin-price-today-live-btc-price-chart-market-data",
+    "type": "news",
+    "title": "Bitcoin Price Today | Live BTC Price, Chart & Market Data",
+    "slug": "bitcoin-price-today-live-btc-price-chart-market-data",
+    "date": "2026-08-05",
+    "displayDate": "August 5, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin's price today is $62,593.60, with a 24-hour trading volume of $12.50B. It has a market cap of $1.25T and a circulating supply of 20.06M BTC.",
+    "excerpt": "Bitcoin's price today is $62,593.60, with a 24-hour trading volume of $12.50B. It has a market cap of $1.25T and a circulating supply of 20.06M BTC.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Bitcoin Price Today | Live BTC Price, Chart & Market Data"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "cnbc-stock-markets-business-news-financials-earnings",
+    "type": "news",
+    "title": "CNBC: Stock Markets, Business News, Financials, Earnings",
+    "slug": "cnbc-stock-markets-business-news-financials-earnings",
+    "date": "2026-08-05",
+    "displayDate": "August 5, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "CNBC covers stock markets, business news, financials, and earnings. Saudi Aramco profits rose 33% in Q2. HSBC and McDonald's earnings beat estimates.",
+    "excerpt": "CNBC covers stock markets, business news, financials, and earnings. Saudi Aramco profits rose 33% in Q2. HSBC and McDonald's earnings beat estimates.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "CNBC: Stock Markets, Business News, Financials, Earnings"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "coinmarketcap-cryptocurrency-prices-charts-and-market",
     "type": "news",
     "title": "CoinMarketCap: Cryptocurrency Prices, Charts And Market ...",
@@ -357,6 +441,132 @@
     "readingTime": 3
   },
   {
+    "id": "health-technology-sector-companies-performance-and-stocks-usa-tradingview",
+    "type": "news",
+    "title": "Health Technology Sector: Companies, Performance and Stocks — USA — TradingView",
+    "slug": "health-technology-sector-companies-performance-and-stocks-usa-tradingview",
+    "date": "2026-08-05",
+    "displayDate": "August 5, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The health technology sector in the USA includes major companies like Medtronic and UnitedHealth Group, with stocks tracked on TradingView. Performance varies, ",
+    "excerpt": "The health technology sector in the USA includes major companies like Medtronic and UnitedHealth Group, with stocks tracked on TradingView. Performance varies, but innovation drives growth. Key trends focus on wellness technologies and telehealth services.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Health Technology Sector: Companies, Performance and Stocks — USA — TradingView"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "inflation-economic-data-series-fred-st-louis-fed",
+    "type": "news",
+    "title": "Inflation - Economic Data Series | FRED | St. Louis Fed",
+    "slug": "inflation-economic-data-series-fred-st-louis-fed",
+    "date": "2026-08-05",
+    "displayDate": "August 5, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Inflation is measured by the Consumer Price Index, showing annual percentage change in cost of goods and services. Latest annual inflation rate for 2024 is 2.95",
+    "excerpt": "Inflation is measured by the Consumer Price Index, showing annual percentage change in cost of goods and services. Latest annual inflation rate for 2024 is 2.95%. Data is sourced from the World Bank.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Inflation - Economic Data Series | FRED | St. Louis Fed"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "investment-strategies-for-today-and-long-term-blackrock",
+    "type": "news",
+    "title": "Investment strategies for today and long-term | BlackRock",
+    "slug": "investment-strategies-for-today-and-long-term-blackrock",
+    "date": "2026-08-05",
+    "displayDate": "August 5, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "For today, focus on income-focused portfolios; for long-term, invest in high-growth assets like stocks. Diversify with fixed income and private credit. Prioriti",
+    "excerpt": "For today, focus on income-focused portfolios; for long-term, invest in high-growth assets like stocks. Diversify with fixed income and private credit. Prioritize tax-efficient strategies.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Investment strategies for today and long-term | BlackRock"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "latest-stock-market-news",
+    "type": "news",
+    "title": "Latest Stock Market News",
+    "slug": "latest-stock-market-news",
+    "date": "2026-08-05",
+    "displayDate": "August 5, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The S&P 500 and Dow closed at record highs, driven by strong earnings from AI companies. Oil prices and Treasury yields dropped. Investors are optimistic about ",
+    "excerpt": "The S&P 500 and Dow closed at record highs, driven by strong earnings from AI companies. Oil prices and Treasury yields dropped. Investors are optimistic about a potential deal in the Iran war.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Latest Stock Market News"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "latest-technology-news-and-reviews",
+    "type": "news",
+    "title": "Latest Technology News and Reviews",
+    "slug": "latest-technology-news-and-reviews",
+    "date": "2026-08-05",
+    "displayDate": "August 5, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The latest technology news includes the Trump administration finalizing an AI framework and a U.S. probe into potential cyberattacks on water systems. For revie",
+    "excerpt": "The latest technology news includes the Trump administration finalizing an AI framework and a U.S. probe into potential cyberattacks on water systems. For reviews, CNN Underscored tested hair dryers, highlighting the best options. For the most current information, check reputable tech news sources.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Latest Technology News and Reviews"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "market-data-center",
+    "type": "news",
+    "title": "Market Data Center",
+    "slug": "market-data-center",
+    "date": "2026-08-05",
+    "displayDate": "August 5, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The global data center market is growing rapidly, projected to reach USD 699.13 billion by 2034 with a CAGR of 11.10%. North America leads due to hyperscale exp",
+    "excerpt": "The global data center market is growing rapidly, projected to reach USD 699.13 billion by 2034 with a CAGR of 11.10%. North America leads due to hyperscale expansion and cloud adoption. Key players include Schneider Electric and IBM.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Market Data Center"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "outlook-at-risk-real-gdp-growth-unemployment-and-inflation-federal-reserve-bank-",
     "type": "news",
     "title": "Outlook-at-Risk: Real GDP Growth, Unemployment, and Inflation - FEDERAL RESERVE BANK of NEW YORK",
@@ -504,6 +714,111 @@
     "readingTime": 4
   },
   {
+    "id": "sector-views-monthly-stock-sector-outlook",
+    "type": "news",
+    "title": "Sector Views: Monthly Stock Sector Outlook",
+    "slug": "sector-views-monthly-stock-sector-outlook",
+    "date": "2026-08-05",
+    "displayDate": "August 5, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Information Technology is favored, while Consumer Discretionary is least favored in the latest sector outlook. Health Care and Industrials are also favored. Rea",
+    "excerpt": "Information Technology is favored, while Consumer Discretionary is least favored in the latest sector outlook. Health Care and Industrials are also favored. Real Estate is least favored.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Sector Views: Monthly Stock Sector Outlook"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "tech-news-today-s-latest-technology-news",
+    "type": "news",
+    "title": "Tech News | Today's Latest Technology News",
+    "slug": "tech-news-today-s-latest-technology-news",
+    "date": "2026-08-05",
+    "displayDate": "August 5, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Amazon faces a lawsuit over seafood sustainability claims; FTC approves IonQ's acquisition of SkyWater semiconductor foundry; Alibaba's AI model is described as",
+    "excerpt": "Amazon faces a lawsuit over seafood sustainability claims; FTC approves IonQ's acquisition of SkyWater semiconductor foundry; Alibaba's AI model is described as the most powerful.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Tech News | Today's Latest Technology News"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "technology-news",
+    "type": "news",
+    "title": "Technology News",
+    "slug": "technology-news",
+    "date": "2026-08-05",
+    "displayDate": "August 5, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "AI demand is tightening memory chip supplies, prioritizing AI hardware. SpaceX's earnings show higher revenues. Amazon faces a lawsuit over seafood sustainabili",
+    "excerpt": "AI demand is tightening memory chip supplies, prioritizing AI hardware. SpaceX's earnings show higher revenues. Amazon faces a lawsuit over seafood sustainability claims.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Technology News"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "ten-things-to-consider-before-you-make-investing-decisions",
+    "type": "news",
+    "title": "Ten Things to Consider Before You Make Investing Decisions",
+    "slug": "ten-things-to-consider-before-you-make-investing-decisions",
+    "date": "2026-08-05",
+    "displayDate": "August 5, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Before making investing decisions, consider risk tolerance, market trends, diversification, and financial goals. Always conduct thorough research. Consult a fin",
+    "excerpt": "Before making investing decisions, consider risk tolerance, market trends, diversification, and financial goals. Always conduct thorough research. Consult a financial advisor if needed.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Ten Things to Consider Before You Make Investing Decisions"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "top-investment-strategies-key-approaches-to-maximize-returns",
+    "type": "news",
+    "title": "Top Investment Strategies: Key Approaches to Maximize Returns",
+    "slug": "top-investment-strategies-key-approaches-to-maximize-returns",
+    "date": "2026-08-05",
+    "displayDate": "August 5, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Investment strategies range from conservative, low-risk plans to aggressive, high-risk approaches. Conservative strategies focus on stable returns, while aggres",
+    "excerpt": "Investment strategies range from conservative, low-risk plans to aggressive, high-risk approaches. Conservative strategies focus on stable returns, while aggressive strategies aim for higher returns through riskier investments. Diversification and regular reviews are key to maximizing returns.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Top Investment Strategies: Key Approaches to Maximize Returns"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "united-states-economic-indicators-moody-s-analytics",
     "type": "news",
     "title": "United States | Economic Indicators | Moody's Analytics",
@@ -563,6 +878,69 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "United States Indicators"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "united-states-inflation-rate",
+    "type": "news",
+    "title": "United States Inflation Rate",
+    "slug": "united-states-inflation-rate",
+    "date": "2026-08-05",
+    "displayDate": "August 5, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The U.S. inflation rate was 3.5% in June 2026, down from 4.2% in May. This decline was driven by lower energy and food prices. The annual inflation rate fell fo",
+    "excerpt": "The U.S. inflation rate was 3.5% in June 2026, down from 4.2% in May. This decline was driven by lower energy and food prices. The annual inflation rate fell for the first time in five months.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "United States Inflation Rate"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "what-is-the-current-inflation-rate-in-the-us",
+    "type": "news",
+    "title": "What is the current inflation rate in the US?",
+    "slug": "what-is-the-current-inflation-rate-in-the-us",
+    "date": "2026-08-05",
+    "displayDate": "August 5, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The current inflation rate in the US is 3.5% as of June 2026. This rate measures the average price increase of goods and services over time. The core inflation ",
+    "excerpt": "The current inflation rate in the US is 3.5% as of June 2026. This rate measures the average price increase of goods and services over time. The core inflation rate, excluding food and energy, is 2.6%.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "What is the current inflation rate in the US?"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "when-is-the-next-fed-interest-rate-decision",
+    "type": "news",
+    "title": "When is the next Fed interest rate decision?",
+    "slug": "when-is-the-next-fed-interest-rate-decision",
+    "date": "2026-08-05",
+    "displayDate": "August 5, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The next Fed interest rate decision is scheduled for April 29, 2026. The announcement will occur at 2:00 PM Eastern Time. Fed Chair Jerome Powell will hold a pr",
+    "excerpt": "The next Fed interest rate decision is scheduled for April 29, 2026. The announcement will occur at 2:00 PM Eastern Time. Fed Chair Jerome Powell will hold a press conference afterward.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "When is the next Fed interest rate decision?"
     },
     "readingTime": 4
   },
@@ -777,69 +1155,6 @@
     "readingTime": 3
   },
   {
-    "id": "bitcoin-btc-price-today-btc-live-price-charts-news",
-    "type": "news",
-    "title": "Bitcoin (BTC) Price Today: BTC Live Price, Charts, News",
-    "slug": "bitcoin-btc-price-today-btc-live-price-charts-news",
-    "date": "2026-08-04",
-    "displayDate": "August 4, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Bitcoin's price today is $62,814.63, with a 24-hour trading volume of $18.2B. It has a market cap of $1.26T.",
-    "excerpt": "Bitcoin's price today is $62,814.63, with a 24-hour trading volume of $18.2B. It has a market cap of $1.26T.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Bitcoin (BTC) Price Today: BTC Live Price, Charts, News"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "bitcoin-btc-price-usd-today-news-charts-market-cap",
-    "type": "news",
-    "title": "Bitcoin (BTC) Price USD Today, News, Charts, Market Cap",
-    "slug": "bitcoin-btc-price-usd-today-news-charts-market-cap",
-    "date": "2026-08-04",
-    "displayDate": "August 4, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Bitcoin's price today is $63,173.66, with a market cap of $1.267 trillion. It has a circulating supply of 20 million BTC. The all-time high is $126,210.50.",
-    "excerpt": "Bitcoin's price today is $63,173.66, with a market cap of $1.267 trillion. It has a circulating supply of 20 million BTC. The all-time high is $126,210.50.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Bitcoin (BTC) Price USD Today, News, Charts, Market Cap"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "bitcoin-price-today-live-btc-price-chart-market-data",
-    "type": "news",
-    "title": "Bitcoin Price Today | Live BTC Price, Chart & Market Data",
-    "slug": "bitcoin-price-today-live-btc-price-chart-market-data",
-    "date": "2026-08-04",
-    "displayDate": "August 4, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Bitcoin's price today is $62,590, down 1.43% in the past 24 hours. Its market cap is $1.26 trillion. The circulating supply is 20.06 million BTC.",
-    "excerpt": "Bitcoin's price today is $62,590, down 1.43% in the past 24 hours. Its market cap is $1.26 trillion. The circulating supply is 20.06 million BTC.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Bitcoin Price Today | Live BTC Price, Chart & Market Data"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "crypto-news-bitcoin-ethereum-xrp-news-crypto-news",
     "type": "news",
     "title": "Crypto News: Bitcoin, Ethereum & XRP News | crypto.news",
@@ -1050,27 +1365,6 @@
     "readingTime": 3
   },
   {
-    "id": "health-technology-sector-companies-performance-and-stocks-usa-tradingview",
-    "type": "news",
-    "title": "Health Technology Sector: Companies, Performance and Stocks — USA — TradingView",
-    "slug": "health-technology-sector-companies-performance-and-stocks-usa-tradingview",
-    "date": "2026-08-04",
-    "displayDate": "August 4, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Health Technology sector has a market cap of $7.54 trillion, with notable companies like DexCom and Illumina. DexCom is performing well with a +11.95% increase.",
-    "excerpt": "Health Technology sector has a market cap of $7.54 trillion, with notable companies like DexCom and Illumina. DexCom is performing well with a +11.95% increase. Illumina has a neutral rating despite market fluctuations.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Health Technology Sector: Companies, Performance and Stocks — USA — TradingView"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "huge-bitcoin-ethereum-xrp-news-crypto-rally-stalls",
     "type": "news",
     "title": "HUGE BITCOIN, ETHEREUM, & XRP NEWS! CRYPTO RALLY STALLS!",
@@ -1134,27 +1428,6 @@
     "readingTime": 4
   },
   {
-    "id": "investment-strategies-for-today-and-long-term-blackrock",
-    "type": "news",
-    "title": "Investment strategies for today and long-term | BlackRock",
-    "slug": "investment-strategies-for-today-and-long-term-blackrock",
-    "date": "2026-08-04",
-    "displayDate": "August 4, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "BlackRock recommends income-focused portfolios and mega-force strategies like digital disruption and AI for long-term growth. Focus on tax-efficient investing a",
-    "excerpt": "BlackRock recommends income-focused portfolios and mega-force strategies like digital disruption and AI for long-term growth. Focus on tax-efficient investing and high-net-worth client strategies for today's market.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Investment strategies for today and long-term | BlackRock"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "investment-strategy-2026-portfolio-moves-for-a-changing-market",
     "type": "news",
     "title": "Investment Strategy 2026 Portfolio Moves for a Changing Market",
@@ -1195,48 +1468,6 @@
       "alt": "Latest Technology News and Reviews - Yahoo Finance"
     },
     "readingTime": 4
-  },
-  {
-    "id": "latest-technology-news-and-reviews",
-    "type": "news",
-    "title": "Latest Technology News and Reviews",
-    "slug": "latest-technology-news-and-reviews",
-    "date": "2026-08-04",
-    "displayDate": "August 4, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Gemini Spark now has Chrome web-browsing capabilities. LinkedIn won't expand its data centers this year. Apple received a $2.2 billion tariff refund.",
-    "excerpt": "Gemini Spark now has Chrome web-browsing capabilities. LinkedIn won't expand its data centers this year. Apple received a $2.2 billion tariff refund.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Latest Technology News and Reviews"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "market-data-center",
-    "type": "news",
-    "title": "Market Data Center",
-    "slug": "market-data-center",
-    "date": "2026-08-04",
-    "displayDate": "August 4, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "## Currencies\n\n| Name | Last | Chg | Chg % |\n ---  --- |\n| Euro | $1.1525 | 0.0015 | 0.13% |\n| Toggle Chart Options Advanced Charting 1D 5D 1M 3M 6M YTD 1Y 3Y A",
-    "excerpt": "## Currencies\n\n| Name | Last | Chg | Chg % |\n ---  --- |\n| Euro | $1.1525 | 0.0015 | 0.13% |\n| Toggle Chart Options Advanced Charting 1D 5D 1M 3M 6M YTD 1Y 3Y All Range Dropdown  $ % Vol | | | |\n| Japanese Yen | ¥157.68 | 0.51 | 0.32% |\n| British Pou",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Market Data Center"
-    },
-    "readingTime": 3
   },
   {
     "id": "markets-indexes-bonds-forex-key-commodities-etfs",
@@ -1323,27 +1554,6 @@
     "readingTime": 5
   },
   {
-    "id": "sector-views-monthly-stock-sector-outlook",
-    "type": "news",
-    "title": "Sector Views: Monthly Stock Sector Outlook",
-    "slug": "sector-views-monthly-stock-sector-outlook",
-    "date": "2026-08-04",
-    "displayDate": "August 4, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Information Technology is favored, while Real Estate is least favored in the monthly stock sector outlook. The S&P 500 index had a 9.7% performance over the pas",
-    "excerpt": "Information Technology is favored, while Real Estate is least favored in the monthly stock sector outlook. The S&P 500 index had a 9.7% performance over the past six months.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Sector Views: Monthly Stock Sector Outlook"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "six-portfolio-strategy-ideas-for-2026",
     "type": "news",
     "title": "Six portfolio strategy ideas for 2026",
@@ -1426,48 +1636,6 @@
       "alt": "Stocks Helped Early by Weak Oil, But Chips Down"
     },
     "readingTime": 3
-  },
-  {
-    "id": "tech-news-today-s-latest-technology-news",
-    "type": "news",
-    "title": "Tech News | Today's Latest Technology News",
-    "slug": "tech-news-today-s-latest-technology-news",
-    "date": "2026-08-04",
-    "displayDate": "August 4, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Amazon is being sued by consumers over false seafood sustainability claims.  \nThe FTC has approved IonQ’s acquisition of SkyWater semiconductor foundry.  \nNvidi",
-    "excerpt": "Amazon is being sued by consumers over false seafood sustainability claims.  \nThe FTC has approved IonQ’s acquisition of SkyWater semiconductor foundry.  \nNvidia has built a chip cluster for Alibaba, and a German court ruled that AI music firm Suno violated copyright.  \nAmazon’s AWS reports its fast",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Tech News | Today's Latest Technology News"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "technology-news",
-    "type": "news",
-    "title": "Technology News",
-    "slug": "technology-news",
-    "date": "2026-08-04",
-    "displayDate": "August 4, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "AI demand is driving up memory chip prices, affecting consumer device availability. Amazon received $600 million in tariff refunds from Trump era, with some cus",
-    "excerpt": "AI demand is driving up memory chip prices, affecting consumer device availability. Amazon received $600 million in tariff refunds from Trump era, with some customers set to receive payouts. Microsoft's Xbox plans to surpass rivals by 2030, and Amazon's AWS is experiencing rapid growth due to AI and",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Technology News"
-    },
-    "readingTime": 4
   },
   {
     "id": "technology",
@@ -1575,27 +1743,6 @@
     "readingTime": 4
   },
   {
-    "id": "top-investment-strategies-key-approaches-to-maximize-returns",
-    "type": "news",
-    "title": "Top Investment Strategies: Key Approaches to Maximize Returns",
-    "slug": "top-investment-strategies-key-approaches-to-maximize-returns",
-    "date": "2026-08-04",
-    "displayDate": "August 4, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Top investment strategies include diversification, long-term investing, and dollar-cost averaging. Setting clear goals and staying invested generally yield bett",
-    "excerpt": "Top investment strategies include diversification, long-term investing, and dollar-cost averaging. Setting clear goals and staying invested generally yield better returns than market timing. Simple and complex strategies exist, from conservative to aggressive.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Top Investment Strategies: Key Approaches to Maximize Returns"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "u-s-bureau-of-economic-analysis-bea",
     "type": "news",
     "title": "U.S. Bureau of Economic Analysis (BEA)",
@@ -1701,27 +1848,6 @@
     "readingTime": 4
   },
   {
-    "id": "united-states-inflation-rate",
-    "type": "news",
-    "title": "United States Inflation Rate",
-    "slug": "united-states-inflation-rate",
-    "date": "2026-08-04",
-    "displayDate": "August 4, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The inflation rate in the United States was 3.5% in June 2026. This marked a decrease from the previous month's rate of 4.2%. The latest update is scheduled for",
-    "excerpt": "The inflation rate in the United States was 3.5% in June 2026. This marked a decrease from the previous month's rate of 4.2%. The latest update is scheduled for August 2026.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "United States Inflation Rate"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "warsh-says-fed-won-t-hesitate-to-stop-inflation-but-bond-market-has-doubts",
     "type": "news",
     "title": "Warsh says Fed won't hesitate to stop inflation, but bond market has doubts",
@@ -1760,48 +1886,6 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "Weekly Trader's Stock Market Outlook"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "what-is-the-current-inflation-rate-in-the-us",
-    "type": "news",
-    "title": "What is the current inflation rate in the US?",
-    "slug": "what-is-the-current-inflation-rate-in-the-us",
-    "date": "2026-08-04",
-    "displayDate": "August 4, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The current inflation rate in the US is 3.5% as of June 2026. This figure reflects the annual change in the cost of a basket of goods and services. The core inf",
-    "excerpt": "The current inflation rate in the US is 3.5% as of June 2026. This figure reflects the annual change in the cost of a basket of goods and services. The core inflation rate, excluding food and energy, is 2.6%.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "What is the current inflation rate in the US?"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "when-is-the-next-fed-interest-rate-decision",
-    "type": "news",
-    "title": "When is the next Fed interest rate decision?",
-    "slug": "when-is-the-next-fed-interest-rate-decision",
-    "date": "2026-08-04",
-    "displayDate": "August 4, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The next Fed interest rate decision is scheduled for April 29, 2026. The decision will be announced at 2:00 PM Eastern Time. Fed Chair Jerome Powell will hold a",
-    "excerpt": "The next Fed interest rate decision is scheduled for April 29, 2026. The decision will be announced at 2:00 PM Eastern Time. Fed Chair Jerome Powell will hold a press conference afterward.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "When is the next Fed interest rate decision?"
     },
     "readingTime": 4
   },
@@ -2247,27 +2331,6 @@
     "readingTime": 3
   },
   {
-    "id": "inflation-economic-data-series-fred-st-louis-fed",
-    "type": "news",
-    "title": "Inflation - Economic Data Series | FRED | St. Louis Fed",
-    "slug": "inflation-economic-data-series-fred-st-louis-fed",
-    "date": "2026-08-03",
-    "displayDate": "August 3, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Inflation data is available from the St. Louis Fed's FRED database, including the Consumer Price Index and various price indices. The data covers historical per",
-    "excerpt": "Inflation data is available from the St. Louis Fed's FRED database, including the Consumer Price Index and various price indices. The data covers historical periods and includes seasonally adjusted and non-adjusted series.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Inflation - Economic Data Series | FRED | St. Louis Fed"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "interactive-world-macromap-ft-com",
     "type": "news",
     "title": "Interactive World Macromap - FT.com",
@@ -2308,27 +2371,6 @@
       "alt": "International Stocks: How and Why to Invest | Charles Schwab"
     },
     "readingTime": 4
-  },
-  {
-    "id": "latest-stock-market-news",
-    "type": "news",
-    "title": "Latest Stock Market News",
-    "slug": "latest-stock-market-news",
-    "date": "2026-08-03",
-    "displayDate": "August 3, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Apple reached $5 trillion market cap; Nasdaq fell due to chip stock sell-off; U.S. Treasury yields dropped amid oil price decline.",
-    "excerpt": "Apple reached $5 trillion market cap; Nasdaq fell due to chip stock sell-off; U.S. Treasury yields dropped amid oil price decline.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Latest Stock Market News"
-    },
-    "readingTime": 3
   },
   {
     "id": "meta-title-sectors",
@@ -3860,27 +3902,6 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "Technology Stock Performance - Yahoo Finance"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "ten-things-to-consider-before-you-make-investing-decisions",
-    "type": "news",
-    "title": "Ten Things to Consider Before You Make Investing Decisions",
-    "slug": "ten-things-to-consider-before-you-make-investing-decisions",
-    "date": "2026-07-08",
-    "displayDate": "July 8, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Before investing, consider your financial goals, risk tolerance, and potential for fraud. Always research and understand the investment. Consult financial advis",
-    "excerpt": "Before investing, consider your financial goals, risk tolerance, and potential for fraud. Always research and understand the investment. Consult financial advisors if needed.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Ten Things to Consider Before You Make Investing Decisions"
     },
     "readingTime": 3
   },
