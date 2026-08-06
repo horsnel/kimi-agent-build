@@ -126,6 +126,27 @@
     "readingTime": 3
   },
   {
+    "id": "crypto-news-bitcoin-ethereum-xrp-news-crypto-news",
+    "type": "news",
+    "title": "Crypto News: Bitcoin, Ethereum & XRP News | crypto.news",
+    "slug": "crypto-news-bitcoin-ethereum-xrp-news-crypto-news",
+    "date": "2026-08-06",
+    "displayDate": "August 6, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin is priced at $64,070. Ethereum is at $1,866.74. XRP is at $1.06.",
+    "excerpt": "Bitcoin is priced at $64,070. Ethereum is at $1,866.74. XRP is at $1.06.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Crypto News: Bitcoin, Ethereum & XRP News | crypto.news"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "earnings-calendar-and-analysis-for-this-week-august-3-7",
     "type": "news",
     "title": "Earnings Calendar and Analysis for This Week (August 3-7)",
@@ -168,6 +189,90 @@
     "readingTime": 3
   },
   {
+    "id": "earnings-calendar",
+    "type": "news",
+    "title": "Earnings Calendar",
+    "slug": "earnings-calendar",
+    "date": "2026-08-06",
+    "displayDate": "August 6, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "An earnings calendar lists when companies report their financial results. It helps investors plan trades and compare expectations to actual results. Today, Augu",
+    "excerpt": "An earnings calendar lists when companies report their financial results. It helps investors plan trades and compare expectations to actual results. Today, August 6, 2026, Berkshire Hathaway A reports earnings.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Earnings Calendar"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "earnings",
+    "type": "news",
+    "title": "Earnings",
+    "slug": "earnings",
+    "date": "2026-08-06",
+    "displayDate": "August 6, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Earnings are the net profits of a corporation after all expenses. They are crucial for financial analysis and tax purposes. Earnings reports are tracked on plat",
+    "excerpt": "Earnings are the net profits of a corporation after all expenses. They are crucial for financial analysis and tax purposes. Earnings reports are tracked on platforms like TradingView for market insights.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Earnings"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "economic-calendar",
+    "type": "news",
+    "title": "Economic Calendar",
+    "slug": "economic-calendar",
+    "date": "2026-08-06",
+    "displayDate": "August 6, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "An economic calendar lists upcoming financial events and data releases that can impact markets. High-impact events often have three stars. Customize and filter ",
+    "excerpt": "An economic calendar lists upcoming financial events and data releases that can impact markets. High-impact events often have three stars. Customize and filter by importance.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Economic Calendar"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "economic-indicators-calendar-new-york-fed",
+    "type": "news",
+    "title": "Economic Indicators Calendar | New York Fed",
+    "slug": "economic-indicators-calendar-new-york-fed",
+    "date": "2026-08-06",
+    "displayDate": "August 6, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The New York Fed's Economic Indicators Calendar lists key economic data release dates and times (Eastern Time). It includes major reports like employment data a",
+    "excerpt": "The New York Fed's Economic Indicators Calendar lists key economic data release dates and times (Eastern Time). It includes major reports like employment data and inflation indices. The calendar is updated regularly.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Economic Indicators Calendar | New York Fed"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "economic-indicators-dashboard-latest-gdp-cpi-unemployment-data-tipranks-com",
     "type": "news",
     "title": "Economic Indicators Dashboard: Latest GDP, CPI, Unemployment Data - TipRanks.com",
@@ -208,6 +313,48 @@
       "alt": "Economic Indicators: Understanding GDP, Inflation, and Unemployment with Methodology and Insights | UPSC Geeks Blog"
     },
     "readingTime": 3
+  },
+  {
+    "id": "ethereum-eth-price-usd-today-news-charts-market-cap",
+    "type": "news",
+    "title": "Ethereum (ETH) Price USD Today, News, Charts, Market Cap",
+    "slug": "ethereum-eth-price-usd-today-news-charts-market-cap",
+    "date": "2026-08-06",
+    "displayDate": "August 6, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Ethereum (ETH) price is $1,869.99 USD today, with a market cap of $225.7 billion. It has a circulating supply of 120.7 million ETH. Ethereum is up 0.35% in the ",
+    "excerpt": "Ethereum (ETH) price is $1,869.99 USD today, with a market cap of $225.7 billion. It has a circulating supply of 120.7 million ETH. Ethereum is up 0.35% in the last 24 hours.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Ethereum (ETH) Price USD Today, News, Charts, Market Cap"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "fed-meeting-recap-july-2026",
+    "type": "news",
+    "title": "Fed meeting recap: July 2026",
+    "slug": "fed-meeting-recap-july-2026",
+    "date": "2026-08-06",
+    "displayDate": "August 6, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Reserve left interest rates unchanged in July 2026, maintaining the federal funds rate at 3.50-3.75%, while signaling ongoing vigilance on inflation",
+    "excerpt": "The Federal Reserve left interest rates unchanged in July 2026, maintaining the federal funds rate at 3.50-3.75%, while signaling ongoing vigilance on inflation. Three officials dissented, advocating for a rate hike. The Fed emphasized a solid economic expansion but acknowledged inflation remains ab",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Fed meeting recap: July 2026"
+    },
+    "readingTime": 4
   },
   {
     "id": "federal-open-market-committee-wikipedia",
@@ -378,6 +525,27 @@
     "readingTime": 4
   },
   {
+    "id": "huge-bitcoin-ethereum-xrp-news-crypto-rally-stalls",
+    "type": "news",
+    "title": "HUGE BITCOIN, ETHEREUM, & XRP NEWS! CRYPTO RALLY STALLS!",
+    "slug": "huge-bitcoin-ethereum-xrp-news-crypto-rally-stalls",
+    "date": "2026-08-06",
+    "displayDate": "August 6, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "XRP leads altcoin gains while Bitcoin and Ethereum stall ahead of earnings week. BlackRock Bitcoin ETF faces selloff. Strive acquires more Bitcoin.",
+    "excerpt": "XRP leads altcoin gains while Bitcoin and Ethereum stall ahead of earnings week. BlackRock Bitcoin ETF faces selloff. Strive acquires more Bitcoin.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "HUGE BITCOIN, ETHEREUM, & XRP NEWS! CRYPTO RALLY STALLS!"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "interactive-world-macromap-ft-com-markets-data",
     "type": "news",
     "title": "Interactive World Macromap - FT.com - Markets data",
@@ -397,6 +565,27 @@
       "alt": "Interactive World Macromap - FT.com - Markets data"
     },
     "readingTime": 4
+  },
+  {
+    "id": "investment-outlook-and-portfolio-strategies-for-2026",
+    "type": "news",
+    "title": "Investment Outlook and Portfolio Strategies for 2026",
+    "slug": "investment-outlook-and-portfolio-strategies-for-2026",
+    "date": "2026-08-06",
+    "displayDate": "August 6, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "For 2026, focus on increasing exposure to small caps and emerging markets, diversify globally, and consider alternative investments for qualified investors. Exp",
+    "excerpt": "For 2026, focus on increasing exposure to small caps and emerging markets, diversify globally, and consider alternative investments for qualified investors. Expect moderate stock returns driven by earnings growth.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Investment Outlook and Portfolio Strategies for 2026"
+    },
+    "readingTime": 3
   },
   {
     "id": "investment-strategies-for-today-and-long-term-blackrock",
@@ -420,6 +609,27 @@
     "readingTime": 3
   },
   {
+    "id": "investment-strategy-2026-portfolio-moves-for-a-changing-market",
+    "type": "news",
+    "title": "Investment Strategy 2026 Portfolio Moves for a Changing Market",
+    "slug": "investment-strategy-2026-portfolio-moves-for-a-changing-market",
+    "date": "2026-08-06",
+    "displayDate": "August 6, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "For 2026, focus on income-generating assets and diversify to manage rising default risks and dispersion. Prioritize cash-flow-generative investments and avoid o",
+    "excerpt": "For 2026, focus on income-generating assets and diversify to manage rising default risks and dispersion. Prioritize cash-flow-generative investments and avoid overly broad exposure to low-quality segments. Stay diversified and avoid market timing.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Investment Strategy 2026 Portfolio Moves for a Changing Market"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "latest-technology-news-and-reviews-yahoo-finance",
     "type": "news",
     "title": "Latest Technology News and Reviews - Yahoo Finance",
@@ -437,6 +647,48 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "Latest Technology News and Reviews - Yahoo Finance"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "latest-technology-news-and-reviews",
+    "type": "news",
+    "title": "Latest Technology News and Reviews",
+    "slug": "latest-technology-news-and-reviews",
+    "date": "2026-08-06",
+    "displayDate": "August 6, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "DOJ fined OpenAI $3.2 million for hiring discrimination. Peloton Cross Training Bike+ offers enhanced connectivity. LG SIGNATURE WM9900HSA washer and dryer rece",
+    "excerpt": "DOJ fined OpenAI $3.2 million for hiring discrimination. Peloton Cross Training Bike+ offers enhanced connectivity. LG SIGNATURE WM9900HSA washer and dryer received positive reviews for design and functionality.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Latest Technology News and Reviews"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "outlook-at-risk-real-gdp-growth-unemployment-and-inflation-federal-reserve-bank-",
+    "type": "news",
+    "title": "Outlook-at-Risk: Real GDP Growth, Unemployment, and Inflation - FEDERAL RESERVE BANK of NEW YORK",
+    "slug": "outlook-at-risk-real-gdp-growth-unemployment-and-inflation-federal-reserve-bank-",
+    "date": "2026-08-06",
+    "displayDate": "August 6, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Real GDP growth, unemployment, and inflation projections for 2025-2028 show moderate growth, stable unemployment, and gradual inflation reduction. The Federal R",
+    "excerpt": "Real GDP growth, unemployment, and inflation projections for 2025-2028 show moderate growth, stable unemployment, and gradual inflation reduction. The Federal Reserve anticipates balanced labor and product markets. Economic growth remains solid with low unemployment.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Outlook-at-Risk: Real GDP Growth, Unemployment, and Inflation - FEDERAL RESERVE BANK of NEW YORK"
     },
     "readingTime": 4
   },
@@ -462,6 +714,48 @@
     "readingTime": 3
   },
   {
+    "id": "six-portfolio-strategy-ideas-for-2026",
+    "type": "news",
+    "title": "Six portfolio strategy ideas for 2026",
+    "slug": "six-portfolio-strategy-ideas-for-2026",
+    "date": "2026-08-06",
+    "displayDate": "August 6, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "For 2026, consider increasing exposure to small caps and emerging markets, staying overweight in equities while diversifying globally, and using fixed income fo",
+    "excerpt": "For 2026, consider increasing exposure to small caps and emerging markets, staying overweight in equities while diversifying globally, and using fixed income for stability.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Six portfolio strategy ideas for 2026"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "stock-market-outlook-midyear-2026",
+    "type": "news",
+    "title": "Stock market outlook midyear 2026",
+    "slug": "stock-market-outlook-midyear-2026",
+    "date": "2026-08-06",
+    "displayDate": "August 6, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The 2026 midyear stock market outlook suggests strong earnings growth and a resilient economy, but mixed signals from stock indices. Investors should expect con",
+    "excerpt": "The 2026 midyear stock market outlook suggests strong earnings growth and a resilient economy, but mixed signals from stock indices. Investors should expect continued corporate performance and geopolitical improvements.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Stock market outlook midyear 2026"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "tech-news-today-s-latest-technology-news",
     "type": "news",
     "title": "Tech News | Today's Latest Technology News",
@@ -479,6 +773,27 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "Tech News | Today's Latest Technology News"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "technology-news",
+    "type": "news",
+    "title": "Technology News",
+    "slug": "technology-news",
+    "date": "2026-08-06",
+    "displayDate": "August 6, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "SpaceX reported higher revenues and significant spending in its first-ever earnings. Amazon faces a lawsuit over seafood sustainability claims. FTC approved Ion",
+    "excerpt": "SpaceX reported higher revenues and significant spending in its first-ever earnings. Amazon faces a lawsuit over seafood sustainability claims. FTC approved IonQ's acquisition of SkyWater semiconductor foundry.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Technology News"
     },
     "readingTime": 4
   },
@@ -525,6 +840,27 @@
     "readingTime": 3
   },
   {
+    "id": "u-s-economic-calendar",
+    "type": "news",
+    "title": "U.S. Economic Calendar",
+    "slug": "u-s-economic-calendar",
+    "date": "2026-08-06",
+    "displayDate": "August 6, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "On August 6, 2026, the U.S. economic calendar includes the S&P Global Composite PMI Flash for August and the S&P Global Manufacturing PMI Flash for August. Upco",
+    "excerpt": "On August 6, 2026, the U.S. economic calendar includes the S&P Global Composite PMI Flash for August and the S&P Global Manufacturing PMI Flash for August. Upcoming events include the Treasury Refunding Announcement and the ISM Services PMI for July.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "U.S. Economic Calendar"
+    },
+    "readingTime": 6
+  },
+  {
     "id": "u-s-market-analysis-valuation-dow-jones-nasdaq-s-p-500-summary",
     "type": "news",
     "title": "U.S. Market Analysis & Valuation - Dow Jones, Nasdaq, S&P 500 Summary",
@@ -567,6 +903,27 @@
     "readingTime": 3
   },
   {
+    "id": "united-states-federal-reserve-interest-rate-decision",
+    "type": "news",
+    "title": "United States Federal Reserve Interest Rate Decision",
+    "slug": "united-states-federal-reserve-interest-rate-decision",
+    "date": "2026-08-06",
+    "displayDate": "August 6, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Reserve kept interest rates unchanged at 3.50%-3.75% in July 2026. The next decision is scheduled for April 29, 2026. The effective federal funds ra",
+    "excerpt": "The Federal Reserve kept interest rates unchanged at 3.50%-3.75% in July 2026. The next decision is scheduled for April 29, 2026. The effective federal funds rate is around 3.64%.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "United States Federal Reserve Interest Rate Decision"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "united-states-indicators",
     "type": "news",
     "title": "United States Indicators",
@@ -586,6 +943,48 @@
       "alt": "United States Indicators"
     },
     "readingTime": 4
+  },
+  {
+    "id": "united-states-inflation-rate",
+    "type": "news",
+    "title": "United States Inflation Rate",
+    "slug": "united-states-inflation-rate",
+    "date": "2026-08-06",
+    "displayDate": "August 6, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The U.S. inflation rate was 3.5% in June 2026, down from 4.2% in May. This marks the first decline in five months. The Federal Reserve's target is 2% annual inf",
+    "excerpt": "The U.S. inflation rate was 3.5% in June 2026, down from 4.2% in May. This marks the first decline in five months. The Federal Reserve's target is 2% annual inflation.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "United States Inflation Rate"
+    },
+    "readingTime": 5
+  },
+  {
+    "id": "united-states-stock-market-index-quote-chart-historical-data-news",
+    "type": "news",
+    "title": "United States Stock Market Index - Quote - Chart - Historical Data - News",
+    "slug": "united-states-stock-market-index-quote-chart-historical-data-news",
+    "date": "2026-08-06",
+    "displayDate": "August 6, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The United States Stock Market Index (US500) was at 7,740.97 on August 5, 2026, up 22% over the past year. The index is expected to reach 7,383.87 by the end of",
+    "excerpt": "The United States Stock Market Index (US500) was at 7,740.97 on August 5, 2026, up 22% over the past year. The index is expected to reach 7,383.87 by the end of the quarter. Current trading data includes key commodities and major stocks.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "United States Stock Market Index - Quote - Chart - Historical Data - News"
+    },
+    "readingTime": 5
   },
   {
     "id": "wall-street",
@@ -628,6 +1027,27 @@
       "alt": "Weekly Trader's Stock Market Outlook"
     },
     "readingTime": 4
+  },
+  {
+    "id": "when-is-the-next-fed-interest-rate-decision",
+    "type": "news",
+    "title": "When is the next Fed interest rate decision?",
+    "slug": "when-is-the-next-fed-interest-rate-decision",
+    "date": "2026-08-06",
+    "displayDate": "August 6, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The next Fed interest rate decision is scheduled for April 29, 2026. The announcement will be at 2:00 PM Eastern Time. Fed Chair Jerome Powell will hold a press",
+    "excerpt": "The next Fed interest rate decision is scheduled for April 29, 2026. The announcement will be at 2:00 PM Eastern Time. Fed Chair Jerome Powell will hold a press conference afterward.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "When is the next Fed interest rate decision?"
+    },
+    "readingTime": 3
   },
   {
     "id": "best-definition-in-the-cambridge-english-dictionary",
@@ -756,27 +1176,6 @@
     "readingTime": 5
   },
   {
-    "id": "crypto-news-bitcoin-ethereum-xrp-news-crypto-news",
-    "type": "news",
-    "title": "Crypto News: Bitcoin, Ethereum & XRP News | crypto.news",
-    "slug": "crypto-news-bitcoin-ethereum-xrp-news-crypto-news",
-    "date": "2026-08-05",
-    "displayDate": "August 5, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Bitcoin, Ethereum, and XRP are major cryptocurrencies; XRP may surge due to U.S.-Iran tensions. Crypto crime trends and AI trading bots are discussed. Crypto.ne",
-    "excerpt": "Bitcoin, Ethereum, and XRP are major cryptocurrencies; XRP may surge due to U.S.-Iran tensions. Crypto crime trends and AI trading bots are discussed. Crypto.news covers Bitcoin, Ethereum, and Ripple developments.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Crypto News: Bitcoin, Ethereum & XRP News | crypto.news"
-    },
-    "readingTime": 6
-  },
-  {
     "id": "cryptocurrency",
     "type": "news",
     "title": "Cryptocurrency",
@@ -838,90 +1237,6 @@
       "alt": "Earnings Blitz, Peace Hopes Provide Early Boost"
     },
     "readingTime": 3
-  },
-  {
-    "id": "earnings-calendar",
-    "type": "news",
-    "title": "Earnings Calendar",
-    "slug": "earnings-calendar",
-    "date": "2026-08-05",
-    "displayDate": "August 5, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "An earnings calendar lists upcoming and past earnings reports for companies, helping investors track financial performance. It shows expected and actual earning",
-    "excerpt": "An earnings calendar lists upcoming and past earnings reports for companies, helping investors track financial performance. It shows expected and actual earnings, highlighting surprises. Use it to plan investment strategies around company reporting dates.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Earnings Calendar"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "earnings",
-    "type": "news",
-    "title": "Earnings",
-    "slug": "earnings",
-    "date": "2026-08-05",
-    "displayDate": "August 5, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Earnings refer to the profits a company makes, reported in financial statements, and disclosed in earnings reports. Earnings season is when companies release qu",
-    "excerpt": "Earnings refer to the profits a company makes, reported in financial statements, and disclosed in earnings reports. Earnings season is when companies release quarterly results. Earnings reports include key metrics like revenue and earnings per share.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Earnings"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "economic-calendar",
-    "type": "news",
-    "title": "Economic Calendar",
-    "slug": "economic-calendar",
-    "date": "2026-08-05",
-    "displayDate": "August 5, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "An economic calendar lists real-time financial events and data releases affecting markets, with high-impact events marked for significant market volatility. It ",
-    "excerpt": "An economic calendar lists real-time financial events and data releases affecting markets, with high-impact events marked for significant market volatility. It includes indicators like GDP and interest rates. Use it to prepare for trades.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Economic Calendar"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "economic-indicators-calendar-new-york-fed",
-    "type": "news",
-    "title": "Economic Indicators Calendar | New York Fed",
-    "slug": "economic-indicators-calendar-new-york-fed",
-    "date": "2026-08-05",
-    "displayDate": "August 5, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The New York Fed's Economic Indicators Calendar lists key economic data release dates and times in Eastern Time. Today's notable releases include the ADP Nation",
-    "excerpt": "The New York Fed's Economic Indicators Calendar lists key economic data release dates and times in Eastern Time. Today's notable releases include the ADP National Employment Report and ISM Non-Manufacturing. Check the calendar for the most current schedule.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Economic Indicators Calendar | New York Fed"
-    },
-    "readingTime": 5
   },
   {
     "id": "economic-sector-performance-dashboards",
@@ -987,27 +1302,6 @@
     "readingTime": 3
   },
   {
-    "id": "ethereum-eth-price-usd-today-news-charts-market-cap",
-    "type": "news",
-    "title": "Ethereum (ETH) Price USD Today, News, Charts, Market Cap",
-    "slug": "ethereum-eth-price-usd-today-news-charts-market-cap",
-    "date": "2026-08-05",
-    "displayDate": "August 5, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Ethereum (ETH) price is $1,867.82, market cap is $225.4B, and it has a circulating supply of 120.7M.",
-    "excerpt": "Ethereum (ETH) price is $1,867.82, market cap is $225.4B, and it has a circulating supply of 120.7M.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Ethereum (ETH) Price USD Today, News, Charts, Market Cap"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "europe-latest-news-updates-bbc-news",
     "type": "news",
     "title": "Europe | Latest News & Updates | BBC News",
@@ -1067,27 +1361,6 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "European Union"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "fed-meeting-recap-july-2026",
-    "type": "news",
-    "title": "Fed meeting recap: July 2026",
-    "slug": "fed-meeting-recap-july-2026",
-    "date": "2026-08-05",
-    "displayDate": "August 5, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "In July 2026, the Federal Reserve kept interest rates steady at 3.5% to 3.75%, but three FOMC members dissented for a hike. The decision followed constructive i",
-    "excerpt": "In July 2026, the Federal Reserve kept interest rates steady at 3.5% to 3.75%, but three FOMC members dissented for a hike. The decision followed constructive inflation readings but rising oil due to U.S.-Iran conflict. Fed Chair Kevin Warsh emphasized maintaining price stability.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Fed meeting recap: July 2026"
     },
     "readingTime": 3
   },
@@ -1218,48 +1491,6 @@
     "readingTime": 4
   },
   {
-    "id": "investment-outlook-and-portfolio-strategies-for-2026",
-    "type": "news",
-    "title": "Investment Outlook and Portfolio Strategies for 2026",
-    "slug": "investment-outlook-and-portfolio-strategies-for-2026",
-    "date": "2026-08-05",
-    "displayDate": "August 5, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "For 2026, focus on increasing exposure to small caps and emerging markets, diversify globally, and consider alternative investments for qualified investors. Pri",
-    "excerpt": "For 2026, focus on increasing exposure to small caps and emerging markets, diversify globally, and consider alternative investments for qualified investors. Prioritize income generation and targeted diversification, especially in an AI-driven market. Adjust portfolio strategies to navigate expected ",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Investment Outlook and Portfolio Strategies for 2026"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "investment-strategy-2026-portfolio-moves-for-a-changing-market",
-    "type": "news",
-    "title": "Investment Strategy 2026 Portfolio Moves for a Changing Market",
-    "slug": "investment-strategy-2026-portfolio-moves-for-a-changing-market",
-    "date": "2026-08-05",
-    "displayDate": "August 5, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "For 2026, focus on small caps, emerging markets, and cash-flow-generative assets; diversify globally and consider alternative investments for qualified investor",
-    "excerpt": "For 2026, focus on small caps, emerging markets, and cash-flow-generative assets; diversify globally and consider alternative investments for qualified investors. Income generation and differentiated diversification are key strategies.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Investment Strategy 2026 Portfolio Moves for a Changing Market"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "latest-stock-market-news",
     "type": "news",
     "title": "Latest Stock Market News",
@@ -1279,27 +1510,6 @@
       "alt": "Latest Stock Market News"
     },
     "readingTime": 4
-  },
-  {
-    "id": "latest-technology-news-and-reviews",
-    "type": "news",
-    "title": "Latest Technology News and Reviews",
-    "slug": "latest-technology-news-and-reviews",
-    "date": "2026-08-05",
-    "displayDate": "August 5, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The latest technology news includes the Trump administration finalizing an AI framework and a U.S. probe into potential cyberattacks on water systems. For revie",
-    "excerpt": "The latest technology news includes the Trump administration finalizing an AI framework and a U.S. probe into potential cyberattacks on water systems. For reviews, CNN Underscored tested hair dryers, highlighting the best options. For the most current information, check reputable tech news sources.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Latest Technology News and Reviews"
-    },
-    "readingTime": 3
   },
   {
     "id": "market-data-center",
@@ -1342,27 +1552,6 @@
       "alt": "MarketWatch: Stock Market News - Financial News ..."
     },
     "readingTime": 3
-  },
-  {
-    "id": "outlook-at-risk-real-gdp-growth-unemployment-and-inflation-federal-reserve-bank-",
-    "type": "news",
-    "title": "Outlook-at-Risk: Real GDP Growth, Unemployment, and Inflation - FEDERAL RESERVE BANK of NEW YORK",
-    "slug": "outlook-at-risk-real-gdp-growth-unemployment-and-inflation-federal-reserve-bank-",
-    "date": "2026-08-05",
-    "displayDate": "August 5, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Outlook-at-Risk assesses risks to real GDP growth, unemployment, and inflation. It provides conditional distribution estimates based on financial conditions. Th",
-    "excerpt": "Outlook-at-Risk assesses risks to real GDP growth, unemployment, and inflation. It provides conditional distribution estimates based on financial conditions. The Federal Reserve Bank of New York updates these estimates monthly.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Outlook-at-Risk: Real GDP Growth, Unemployment, and Inflation - FEDERAL RESERVE BANK of NEW YORK"
-    },
-    "readingTime": 4
   },
   {
     "id": "s-p-500-analysis-and-opinion-investing-com",
@@ -1491,27 +1680,6 @@
     "readingTime": 4
   },
   {
-    "id": "six-portfolio-strategy-ideas-for-2026",
-    "type": "news",
-    "title": "Six portfolio strategy ideas for 2026",
-    "slug": "six-portfolio-strategy-ideas-for-2026",
-    "date": "2026-08-05",
-    "displayDate": "August 5, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "For 2026, consider increasing exposure to small caps and emerging markets, diversifying equities globally, and using fixed income for stability.",
-    "excerpt": "For 2026, consider increasing exposure to small caps and emerging markets, diversifying equities globally, and using fixed income for stability.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Six portfolio strategy ideas for 2026"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "stock-market-outlook-forecast",
     "type": "news",
     "title": "stock market outlook & forecast",
@@ -1575,27 +1743,6 @@
     "readingTime": 4
   },
   {
-    "id": "technology-news",
-    "type": "news",
-    "title": "Technology News",
-    "slug": "technology-news",
-    "date": "2026-08-05",
-    "displayDate": "August 5, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "AI demand is tightening memory chip supplies, prioritizing AI hardware. SpaceX's earnings show higher revenues. Amazon faces a lawsuit over seafood sustainabili",
-    "excerpt": "AI demand is tightening memory chip supplies, prioritizing AI hardware. SpaceX's earnings show higher revenues. Amazon faces a lawsuit over seafood sustainability claims.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Technology News"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "the-fed-federal-open-market-committee",
     "type": "news",
     "title": "The Fed - Federal Open Market Committee",
@@ -1636,27 +1783,6 @@
       "alt": "Top Investment Strategies: Key Approaches to Maximize Returns"
     },
     "readingTime": 3
-  },
-  {
-    "id": "u-s-economic-calendar",
-    "type": "news",
-    "title": "U.S. Economic Calendar",
-    "slug": "u-s-economic-calendar",
-    "date": "2026-08-05",
-    "displayDate": "August 5, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Today's key U.S. economic reports include the RCM/TIPP Economic Optimism Index and 52-Week Bill Auction. Tomorrow, watch for FOMC interest-rate decision and Fed",
-    "excerpt": "Today's key U.S. economic reports include the RCM/TIPP Economic Optimism Index and 52-Week Bill Auction. Tomorrow, watch for FOMC interest-rate decision and Fed Chair press conference. On August 13, initial jobless claims and GDP are due.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "U.S. Economic Calendar"
-    },
-    "readingTime": 6
   },
   {
     "id": "u-s-stock-markets-today",
@@ -1701,48 +1827,6 @@
     "readingTime": 5
   },
   {
-    "id": "united-states-federal-reserve-interest-rate-decision",
-    "type": "news",
-    "title": "United States Federal Reserve Interest Rate Decision",
-    "slug": "united-states-federal-reserve-interest-rate-decision",
-    "date": "2026-08-05",
-    "displayDate": "August 5, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Reserve's next interest rate decision is scheduled for April 29, 2026. The current federal funds rate target range is 3.50%–3.75%. The Fed kept rate",
-    "excerpt": "The Federal Reserve's next interest rate decision is scheduled for April 29, 2026. The current federal funds rate target range is 3.50%–3.75%. The Fed kept rates unchanged at this range in its latest meeting on March 18, 2026.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "United States Federal Reserve Interest Rate Decision"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "united-states-inflation-rate",
-    "type": "news",
-    "title": "United States Inflation Rate",
-    "slug": "united-states-inflation-rate",
-    "date": "2026-08-05",
-    "displayDate": "August 5, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The U.S. inflation rate was 3.5% in June 2026, down from 4.2% in May. This decline was driven by lower energy and food prices. The annual inflation rate fell fo",
-    "excerpt": "The U.S. inflation rate was 3.5% in June 2026, down from 4.2% in May. This decline was driven by lower energy and food prices. The annual inflation rate fell for the first time in five months.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "United States Inflation Rate"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "what-is-the-current-inflation-rate-in-the-us",
     "type": "news",
     "title": "What is the current inflation rate in the US?",
@@ -1781,27 +1865,6 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "What to Look Out for in Economic Data This Week (August 3-7)"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "when-is-the-next-fed-interest-rate-decision",
-    "type": "news",
-    "title": "When is the next Fed interest rate decision?",
-    "slug": "when-is-the-next-fed-interest-rate-decision",
-    "date": "2026-08-05",
-    "displayDate": "August 5, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The next Fed interest rate decision is scheduled for April 29, 2026. The announcement will occur at 2:00 PM Eastern Time. Fed Chair Jerome Powell will hold a pr",
-    "excerpt": "The next Fed interest rate decision is scheduled for April 29, 2026. The announcement will occur at 2:00 PM Eastern Time. Fed Chair Jerome Powell will hold a press conference afterward.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "When is the next Fed interest rate decision?"
     },
     "readingTime": 4
   },
@@ -2121,27 +2184,6 @@
     "readingTime": 3
   },
   {
-    "id": "huge-bitcoin-ethereum-xrp-news-crypto-rally-stalls",
-    "type": "news",
-    "title": "HUGE BITCOIN, ETHEREUM, & XRP NEWS! CRYPTO RALLY STALLS!",
-    "slug": "huge-bitcoin-ethereum-xrp-news-crypto-rally-stalls",
-    "date": "2026-08-04",
-    "displayDate": "August 4, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Bitcoin, Ethereum, and XRP experienced a rally that recently stalled. Market analysts are closely monitoring the situation for further developments. Current pri",
-    "excerpt": "Bitcoin, Ethereum, and XRP experienced a rally that recently stalled. Market analysts are closely monitoring the situation for further developments. Current prices remain volatile.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "HUGE BITCOIN, ETHEREUM, & XRP NEWS! CRYPTO RALLY STALLS!"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "markets-indexes-bonds-forex-key-commodities-etfs",
     "type": "news",
     "title": "Markets: Indexes, Bonds, Forex, Key Commodities, ETFs",
@@ -2245,27 +2287,6 @@
       "alt": "Stock Market News - Bond Market - Currencies Markets"
     },
     "readingTime": 4
-  },
-  {
-    "id": "stock-market-outlook-midyear-2026",
-    "type": "news",
-    "title": "Stock market outlook midyear 2026",
-    "slug": "stock-market-outlook-midyear-2026",
-    "date": "2026-08-04",
-    "displayDate": "August 4, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Midyear 2026, the economy shows slow growth but strong earnings, with consensus estimates predicting 24% growth for the S&P 500. Earnings remain robust despite ",
-    "excerpt": "Midyear 2026, the economy shows slow growth but strong earnings, with consensus estimates predicting 24% growth for the S&P 500. Earnings remain robust despite economic challenges, and geopolitical pressures and inflation risks loom ahead.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Stock market outlook midyear 2026"
-    },
-    "readingTime": 3
   },
   {
     "id": "stocks-helped-early-by-weak-oil-but-chips-down",
