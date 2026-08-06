@@ -1,5 +1,26 @@
 [
   {
+    "id": "12-month-percentage-change-consumer-price-index-selected-categories",
+    "type": "news",
+    "title": "12-month percentage change, Consumer Price Index, selected categories",
+    "slug": "12-month-percentage-change-consumer-price-index-selected-categories",
+    "date": "2026-08-06",
+    "displayDate": "August 6, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The 12-month percentage change in the Consumer Price Index for June 2026 is 3.5% overall, with food at 3.0% and energy at 2.7%. The most significant changes are",
+    "excerpt": "The 12-month percentage change in the Consumer Price Index for June 2026 is 3.5% overall, with food at 3.0% and energy at 2.7%. The most significant changes are in cereals and bakery products at 2.4%.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "12-month percentage change, Consumer Price Index, selected categories"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "5-strategies-to-navigate-market-volatility-morgan-stanley",
     "type": "news",
     "title": "5 Strategies to Navigate Market Volatility | Morgan Stanley",
@@ -17,6 +38,69 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "5 Strategies to Navigate Market Volatility | Morgan Stanley"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "asia-market-data-marketwatch",
+    "type": "news",
+    "title": "Asia Market Data - MarketWatch",
+    "slug": "asia-market-data-marketwatch",
+    "date": "2026-08-06",
+    "displayDate": "August 6, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "As of August 6, 2026, the Nikkei 225 Index is up 3.66%, the Hang Seng Index up 0.24%, and the Shanghai Composite Index up 1.47%. Toyota Motor Corp. remains the ",
+    "excerpt": "As of August 6, 2026, the Nikkei 225 Index is up 3.66%, the Hang Seng Index up 0.24%, and the Shanghai Composite Index up 1.47%. Toyota Motor Corp. remains the world's top automaker for seven consecutive years.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Asia Market Data - MarketWatch"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "asian-financial-markets-investing-com",
+    "type": "news",
+    "title": "Asian Financial Markets - Investing.com",
+    "slug": "asian-financial-markets-investing-com",
+    "date": "2026-08-06",
+    "displayDate": "August 6, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Asian financial markets include stock indices, commodities, and futures. Key indices include Nikkei 225 and Hang Seng. Current date is 2026-08-06.",
+    "excerpt": "Asian financial markets include stock indices, commodities, and futures. Key indices include Nikkei 225 and Hang Seng. Current date is 2026-08-06.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Asian Financial Markets - Investing.com"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "asian-stock-market-capital-markets-news-bond-market-news-commodities-news-etfs-n",
+    "type": "news",
+    "title": "Asian Stock Market: Capital Markets News, Bond Market News, Commodities News, ETFs News",
+    "slug": "asian-stock-market-capital-markets-news-bond-market-news-commodities-news-etfs-n",
+    "date": "2026-08-06",
+    "displayDate": "August 6, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Asian stock markets, bond markets, commodities markets, and ETFs news are covered by Asia Financial, Investing.com, and CNBC. Recent highlights include fines on",
+    "excerpt": "Asian stock markets, bond markets, commodities markets, and ETFs news are covered by Asia Financial, Investing.com, and CNBC. Recent highlights include fines on AliExpress and discussions on global AI regulation.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Asian Stock Market: Capital Markets News, Bond Market News, Commodities News, ETFs News"
     },
     "readingTime": 3
   },
@@ -525,6 +609,27 @@
     "readingTime": 4
   },
   {
+    "id": "how-the-fomc-conducts-monetary-policy-st-louis-fed",
+    "type": "news",
+    "title": "How the FOMC Conducts Monetary Policy | St. Louis Fed",
+    "slug": "how-the-fomc-conducts-monetary-policy-st-louis-fed",
+    "date": "2026-08-06",
+    "displayDate": "August 6, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Open Market Committee (FOMC) conducts monetary policy by adjusting the federal funds rate and uses tools like open market operations to influence in",
+    "excerpt": "The Federal Open Market Committee (FOMC) conducts monetary policy by adjusting the federal funds rate and uses tools like open market operations to influence interest rates. The FOMC aims to promote maximum employment and stable prices. It communicates policy decisions through statements and press c",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "How the FOMC Conducts Monetary Policy | St. Louis Fed"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "huge-bitcoin-ethereum-xrp-news-crypto-rally-stalls",
     "type": "news",
     "title": "HUGE BITCOIN, ETHEREUM, & XRP NEWS! CRYPTO RALLY STALLS!",
@@ -542,6 +647,27 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "HUGE BITCOIN, ETHEREUM, & XRP NEWS! CRYPTO RALLY STALLS!"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "inflation-consumer-prices-for-the-united-states-fpcpitotlzgusa-fred-st-louis-fed",
+    "type": "news",
+    "title": "Inflation, consumer prices for the United States (FPCPITOTLZGUSA) | FRED | St. Louis Fed",
+    "slug": "inflation-consumer-prices-for-the-united-states-fpcpitotlzgusa-fred-st-louis-fed",
+    "date": "2026-08-06",
+    "displayDate": "August 6, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Inflation, consumer prices for the United States (FPCPITOTLZGUSA) on FRED was 2.94953% in 2024, not seasonally adjusted annually. The latest update was on April",
+    "excerpt": "Inflation, consumer prices for the United States (FPCPITOTLZGUSA) on FRED was 2.94953% in 2024, not seasonally adjusted annually. The latest update was on April 16, 2025. No next release date is available.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Inflation, consumer prices for the United States (FPCPITOTLZGUSA) | FRED | St. Louis Fed"
     },
     "readingTime": 3
   },
@@ -672,6 +798,48 @@
     "readingTime": 4
   },
   {
+    "id": "marketwatch-stock-market-news-financial-news-marketwatch",
+    "type": "news",
+    "title": "MarketWatch: Stock Market News - Financial News - MarketWatch",
+    "slug": "marketwatch-stock-market-news-financial-news-marketwatch",
+    "date": "2026-08-06",
+    "displayDate": "August 6, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Block cut 40% of its workforce for AI, showing positive earnings. Figma's stock drops due to high AI investment costs. Dow hits third consecutive record close.",
+    "excerpt": "Block cut 40% of its workforce for AI, showing positive earnings. Figma's stock drops due to high AI investment costs. Dow hits third consecutive record close.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "MarketWatch: Stock Market News - Financial News - MarketWatch"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "new-highs-hit-early-despite-spacex-amd-weakness",
+    "type": "news",
+    "title": "New Highs Hit Early Despite SpaceX, AMD Weakness",
+    "slug": "new-highs-hit-early-despite-spacex-amd-weakness",
+    "date": "2026-08-06",
+    "displayDate": "August 6, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Despite strong earnings, SpaceX and AMD shares fell, but overall market hit new highs driven by positive peace hopes and strong performances from Eli Lilly and ",
+    "excerpt": "Despite strong earnings, SpaceX and AMD shares fell, but overall market hit new highs driven by positive peace hopes and strong performances from Eli Lilly and Disney.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "New Highs Hit Early Despite SpaceX, AMD Weakness"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "outlook-at-risk-real-gdp-growth-unemployment-and-inflation-federal-reserve-bank-",
     "type": "news",
     "title": "Outlook-at-Risk: Real GDP Growth, Unemployment, and Inflation - FEDERAL RESERVE BANK of NEW YORK",
@@ -689,6 +857,48 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "Outlook-at-Risk: Real GDP Growth, Unemployment, and Inflation - FEDERAL RESERVE BANK of NEW YORK"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "sector-industry-performance",
+    "type": "news",
+    "title": "Sector & Industry Performance",
+    "slug": "sector-industry-performance",
+    "date": "2026-08-06",
+    "displayDate": "August 6, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The S&P 500 Consumer Staples and Information Technology sectors showed positive performance, while Energy and Utilities sectors declined. The S&P 500 itself had",
+    "excerpt": "The S&P 500 Consumer Staples and Information Technology sectors showed positive performance, while Energy and Utilities sectors declined. The S&P 500 itself had a slight decline.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Sector & Industry Performance"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "sector-research-news-and-performance-sector-industries",
+    "type": "news",
+    "title": "Sector Research, News and Performance | Sector Industries",
+    "slug": "sector-research-news-and-performance-sector-industries",
+    "date": "2026-08-06",
+    "displayDate": "August 6, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The S&P 500 Information Technology sector has a market cap of $32.08 trillion and a market weight of 36.60%. The Energy sector has a market cap of $3.56 trillio",
+    "excerpt": "The S&P 500 Information Technology sector has a market cap of $32.08 trillion and a market weight of 36.60%. The Energy sector has a market cap of $3.56 trillion and a market weight of 1.77%. The latest sector performance shows Utilities down 1.01%.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Sector Research, News and Performance | Sector Industries"
     },
     "readingTime": 4
   },
@@ -819,6 +1029,48 @@
     "readingTime": 3
   },
   {
+    "id": "the-block-bitcoin-ethereum-crypto-news-live-prices",
+    "type": "news",
+    "title": "The Block: Bitcoin, Ethereum & Crypto News | Live Prices ...",
+    "slug": "the-block-bitcoin-ethereum-crypto-news-live-prices",
+    "date": "2026-08-06",
+    "displayDate": "August 6, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Putin signed a crypto law in Russia, Coinbase launched 24/7 US stock trading for UK users, and Kalshi and Polymarket reached a $50 billion combined volume in Ju",
+    "excerpt": "Putin signed a crypto law in Russia, Coinbase launched 24/7 US stock trading for UK users, and Kalshi and Polymarket reached a $50 billion combined volume in July.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "The Block: Bitcoin, Ethereum & Crypto News | Live Prices ..."
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "the-fed-federal-open-market-committee",
+    "type": "news",
+    "title": "The Fed - Federal Open Market Committee",
+    "slug": "the-fed-federal-open-market-committee",
+    "date": "2026-08-06",
+    "displayDate": "August 6, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Open Market Committee (FOMC) is the Federal Reserve's main body for monetary policy, consisting of 12 members who meet eight times a year to set int",
+    "excerpt": "The Federal Open Market Committee (FOMC) is the Federal Reserve's main body for monetary policy, consisting of 12 members who meet eight times a year to set interest rates.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "The Fed - Federal Open Market Committee"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "the-fomc-conducts-monetary-policy-in-plain-english",
     "type": "news",
     "title": "The FOMC Conducts Monetary Policy: In Plain English",
@@ -836,6 +1088,48 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "The FOMC Conducts Monetary Policy: In Plain English"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "top-10-investment-strategies-for-2025-a-comprehensive-guide",
+    "type": "news",
+    "title": "Top 10 Investment Strategies for 2025: A Comprehensive Guide",
+    "slug": "top-10-investment-strategies-for-2025-a-comprehensive-guide",
+    "date": "2026-08-06",
+    "displayDate": "August 6, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "In 2025, focus on diversification, consider ETFs, and watch out for scams. Prioritize low-cost funds and understand investment expenses.",
+    "excerpt": "In 2025, focus on diversification, consider ETFs, and watch out for scams. Prioritize low-cost funds and understand investment expenses.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Top 10 Investment Strategies for 2025: A Comprehensive Guide"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "top-investment-strategies-key-approaches-to-maximize-returns",
+    "type": "news",
+    "title": "Top Investment Strategies: Key Approaches to Maximize Returns",
+    "slug": "top-investment-strategies-key-approaches-to-maximize-returns",
+    "date": "2026-08-06",
+    "displayDate": "August 6, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Top investment strategies include diversification, long-term investing, and dollar-cost averaging. Setting clear goals and staying invested help maximize return",
+    "excerpt": "Top investment strategies include diversification, long-term investing, and dollar-cost averaging. Setting clear goals and staying invested help maximize returns. Simple and complex strategies exist, from mutual funds to alternative assets.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Top Investment Strategies: Key Approaches to Maximize Returns"
     },
     "readingTime": 3
   },
@@ -1638,48 +1932,6 @@
     "readingTime": 4
   },
   {
-    "id": "sector-industry-performance",
-    "type": "news",
-    "title": "Sector & Industry Performance",
-    "slug": "sector-industry-performance",
-    "date": "2026-08-05",
-    "displayDate": "August 5, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The S&P 500 Consumer Discretionary Sector has seen a 6.07% increase today, while the Industrials Sector has risen by 0.79%. The Technology sector has the highes",
-    "excerpt": "The S&P 500 Consumer Discretionary Sector has seen a 6.07% increase today, while the Industrials Sector has risen by 0.79%. The Technology sector has the highest YTD return at 19.41%.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Sector & Industry Performance"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "sector-research-news-and-performance-sector-industries",
-    "type": "news",
-    "title": "Sector Research, News and Performance | Sector Industries",
-    "slug": "sector-research-news-and-performance-sector-industries",
-    "date": "2026-08-05",
-    "displayDate": "August 5, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The S&P 500 sectors show mixed performance, with Information Technology leading at +752.56% over 1 year, while Energy lags at -1.18%. The latest sector performa",
-    "excerpt": "The S&P 500 sectors show mixed performance, with Information Technology leading at +752.56% over 1 year, while Energy lags at -1.18%. The latest sector performance indicates a +1.78% increase overall.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Sector Research, News and Performance | Sector Industries"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "stock-market-outlook-forecast",
     "type": "news",
     "title": "stock market outlook & forecast",
@@ -1741,48 +1993,6 @@
       "alt": "Technology Industry News: Latest Tech News for Leaders — The Information"
     },
     "readingTime": 4
-  },
-  {
-    "id": "the-fed-federal-open-market-committee",
-    "type": "news",
-    "title": "The Fed - Federal Open Market Committee",
-    "slug": "the-fed-federal-open-market-committee",
-    "date": "2026-08-05",
-    "displayDate": "August 5, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Open Market Committee (FOMC) oversees the Federal Reserve's open market operations, sets monetary policy, and determines interest rates. It consists",
-    "excerpt": "The Federal Open Market Committee (FOMC) oversees the Federal Reserve's open market operations, sets monetary policy, and determines interest rates. It consists of twelve members, including the Board of Governors and rotating Reserve Bank presidents. The FOMC meets eight times a year to assess econo",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "The Fed - Federal Open Market Committee"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "top-investment-strategies-key-approaches-to-maximize-returns",
-    "type": "news",
-    "title": "Top Investment Strategies: Key Approaches to Maximize Returns",
-    "slug": "top-investment-strategies-key-approaches-to-maximize-returns",
-    "date": "2026-08-05",
-    "displayDate": "August 5, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Investment strategies range from conservative, low-risk plans to aggressive, high-risk approaches. Conservative strategies focus on stable returns, while aggres",
-    "excerpt": "Investment strategies range from conservative, low-risk plans to aggressive, high-risk approaches. Conservative strategies focus on stable returns, while aggressive strategies aim for higher returns through riskier investments. Diversification and regular reviews are key to maximizing returns.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Top Investment Strategies: Key Approaches to Maximize Returns"
-    },
-    "readingTime": 3
   },
   {
     "id": "u-s-stock-markets-today",
@@ -2012,27 +2222,6 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "Asian Financial Markets"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "asian-stock-market-capital-markets-news-bond-market-news-commodities-news-etfs-n",
-    "type": "news",
-    "title": "Asian Stock Market: Capital Markets News, Bond Market News, Commodities News, ETFs News",
-    "slug": "asian-stock-market-capital-markets-news-bond-market-news-commodities-news-etfs-n",
-    "date": "2026-08-04",
-    "displayDate": "August 4, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Asian stock markets experienced volatility, with South Korea stocks falling over 5% due to tech sector declines. Oil prices dropped significantly amid easing Mi",
-    "excerpt": "Asian stock markets experienced volatility, with South Korea stocks falling over 5% due to tech sector declines. Oil prices dropped significantly amid easing Middle East tensions. ETFs and commodities also saw fluctuations.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Asian Stock Market: Capital Markets News, Bond Market News, Commodities News, ETFs News"
     },
     "readingTime": 4
   },
@@ -2394,27 +2583,6 @@
     "readingTime": 3
   },
   {
-    "id": "top-10-investment-strategies-for-2025-a-comprehensive-guide",
-    "type": "news",
-    "title": "Top 10 Investment Strategies for 2025: A Comprehensive Guide",
-    "slug": "top-10-investment-strategies-for-2025-a-comprehensive-guide",
-    "date": "2026-08-04",
-    "displayDate": "August 4, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "In 2025, focus on diversification, consider ETFs, and watch out for scams. Prioritize low-cost funds and dollar-cost averaging for beginners.",
-    "excerpt": "In 2025, focus on diversification, consider ETFs, and watch out for scams. Prioritize low-cost funds and dollar-cost averaging for beginners.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Top 10 Investment Strategies for 2025: A Comprehensive Guide"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "u-s-bureau-of-economic-analysis-bea",
     "type": "news",
     "title": "U.S. Bureau of Economic Analysis (BEA)",
@@ -2516,27 +2684,6 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "Amazon & Apple Both Report Earnings | The Close 7/30/2026"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "asian-financial-markets-investing-com",
-    "type": "news",
-    "title": "Asian Financial Markets - Investing.com",
-    "slug": "asian-financial-markets-investing-com",
-    "date": "2026-08-03",
-    "displayDate": "August 3, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Asian financial markets include major indices like Nikkei 225, Hang Seng, and S&P/ASX 200. South Korea's market led declines, while others showed modest gains. ",
-    "excerpt": "Asian financial markets include major indices like Nikkei 225, Hang Seng, and S&P/ASX 200. South Korea's market led declines, while others showed modest gains. Oil prices dropped due to easing Middle East tensions.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Asian Financial Markets - Investing.com"
     },
     "readingTime": 3
   },
@@ -2982,27 +3129,6 @@
     "readingTime": 3
   },
   {
-    "id": "asia-market-data-marketwatch",
-    "type": "news",
-    "title": "Asia Market Data - MarketWatch",
-    "slug": "asia-market-data-marketwatch",
-    "date": "2026-08-02",
-    "displayDate": "August 2, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Nikkei 225 Index closed at 64,362.02, up 4.03%, and the Hang Seng Index closed at 25,884.43, up 0.10%. The Shanghai Composite Index closed at 3,832.26, up 0",
-    "excerpt": "The Nikkei 225 Index closed at 64,362.02, up 4.03%, and the Hang Seng Index closed at 25,884.43, up 0.10%. The Shanghai Composite Index closed at 3,832.26, up 0.72%.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Asia Market Data - MarketWatch"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "asia-stock-markets",
     "type": "news",
     "title": "Asia Stock Markets",
@@ -3211,27 +3337,6 @@
       "alt": "Health Care Sector & Industry Performance - Bloomberg"
     },
     "readingTime": 3
-  },
-  {
-    "id": "marketwatch-stock-market-news-financial-news-marketwatch",
-    "type": "news",
-    "title": "MarketWatch: Stock Market News - Financial News - MarketWatch",
-    "slug": "marketwatch-stock-market-news-financial-news-marketwatch",
-    "date": "2026-08-02",
-    "displayDate": "August 2, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The S&P 500 is adding a little-known industrial stock, and Big Oil profited from a historic supply crunch. Micron's stock dropped after Tim Cook expressed a des",
-    "excerpt": "The S&P 500 is adding a little-known industrial stock, and Big Oil profited from a historic supply crunch. Micron's stock dropped after Tim Cook expressed a desire for more memory suppliers. Corporate insiders are warning about the stock market.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "MarketWatch: Stock Market News - Financial News - MarketWatch"
-    },
-    "readingTime": 4
   },
   {
     "id": "outlook-at-risk-real-gdp-growth-unemployment-and",
@@ -3524,27 +3629,6 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "FOMC Meeting LIVE | Fed Chair Kevin Warsh Annnounces ..."
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "how-the-fomc-conducts-monetary-policy-st-louis-fed",
-    "type": "news",
-    "title": "How the FOMC Conducts Monetary Policy | St. Louis Fed",
-    "slug": "how-the-fomc-conducts-monetary-policy-st-louis-fed",
-    "date": "2026-08-01",
-    "displayDate": "August 1, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The FOMC conducts monetary policy by adjusting the federal funds rate, aiming to influence economic conditions for maximum employment and price stability. It de",
-    "excerpt": "The FOMC conducts monetary policy by adjusting the federal funds rate, aiming to influence economic conditions for maximum employment and price stability. It decides to raise, lower, or keep the rate steady after each meeting. Expansionary policy may involve lowering the rate to stimulate the econom",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "How the FOMC Conducts Monetary Policy | St. Louis Fed"
     },
     "readingTime": 3
   },
@@ -5141,27 +5225,6 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "The Best Investment Strategies For The Continuous Market"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "the-block-bitcoin-ethereum-crypto-news-live-prices",
-    "type": "news",
-    "title": "The Block: Bitcoin, Ethereum & Crypto News | Live Prices ...",
-    "slug": "the-block-bitcoin-ethereum-crypto-news-live-prices",
-    "date": "2026-07-07",
-    "displayDate": "July 7, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Bitcoin price is $64,181.94, up 0.88%. Ethereum price is $1,808.30, up 0.59%. Block's price is $0.00001838, unchanged in the last 24 hours.",
-    "excerpt": "Bitcoin price is $64,181.94, up 0.88%. Ethereum price is $1,808.30, up 0.59%. Block's price is $0.00001838, unchanged in the last 24 hours.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "The Block: Bitcoin, Ethereum & Crypto News | Live Prices ..."
     },
     "readingTime": 3
   },

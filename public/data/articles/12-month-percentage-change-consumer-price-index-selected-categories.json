@@ -1,0 +1,52 @@
+{
+  "id": "12-month-percentage-change-consumer-price-index-selected-categories",
+  "type": "news",
+  "title": "12-month percentage change, Consumer Price Index, selected categories",
+  "slug": "12-month-percentage-change-consumer-price-index-selected-categories",
+  "date": "2026-08-06",
+  "displayDate": "August 6, 2026",
+  "author": "Sigma Capital",
+  "category": "Economic Data",
+  "tags": [
+    "economic data",
+    "financial news",
+    "market update"
+  ],
+  "metaDescription": "The 12-month percentage change in the Consumer Price Index for June 2026 is 3.5% overall, with food at 3.0% and energy at 2.7%. The most significant changes are",
+  "excerpt": "The 12-month percentage change in the Consumer Price Index for June 2026 is 3.5% overall, with food at 3.0% and energy at 2.7%. The most significant changes are in cereals and bakery products at 2.4%.",
+  "content": {
+    "introduction": "The 12-month percentage change in the Consumer Price Index for June 2026 is 3.5% overall, with food at 3.0% and energy at 2.7%. The most significant changes are in cereals and bakery products at 2.4%.",
+    "body": [
+      "Major categories All items Food Energy All items less food and energy Food 3.0% Food at home 2.7% Cereals and bakery products 2.4% Meats, poultry, fish, and",
+      "12-month percent change, Jun 2026 All items 3.5% Food 3.0% Food at home 2.7% Cereals and bakery products 2.4% Meats, poultry, fish, and eggs 2.6% Dairy and",
+      "This particular index includes roughly 88 percent of the total population, accounting for wage earners, clerical workers, technical workers, self-employed,"
+    ],
+    "keyTakeaways": [
+      "The 12-month percentage change in the Consumer Price Index for June 2026 is 3.5% overall, with food at 3",
+      "Major categories All items Food Energy All items less food and energy Food 3.0% Food at home 2",
+      "12-month percent change, Jun 2026 All items 3.5% Food 3"
+    ],
+    "source": "bls.gov",
+    "sourceUrl": "https://www.bls.gov/charts/consumer-price-index/consumer-price-index-by-category-line-chart.htm"
+  },
+  "readingTime": 3,
+  "updatedAt": "2026-08-06T14:19:30.987Z",
+  "images": {
+    "thumbnail": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "12-month percentage change, Consumer Price Index, selected categories"
+    },
+    "hero": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "12-month percentage change, Consumer Price Index, selected categories"
+    },
+    "mid": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "12-month percentage change, Consumer Price Index, selected categories"
+    }
+  },
+  "image": {
+    "src": "/images/article_thumb_3.jpg",
+    "alt": "12-month percentage change, Consumer Price Index, selected categories"
+  }
+}
