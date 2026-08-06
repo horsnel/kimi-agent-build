@@ -1,0 +1,52 @@
+{
+  "id": "fred-api-access-800-000-economic-datasets-for-free-inflation-gdp-unemployment-de",
+  "type": "news",
+  "title": "FRED API: Access 800,000+ Economic Datasets for Free (Inflation, GDP, Unemployment) - DEV Community",
+  "slug": "fred-api-access-800-000-economic-datasets-for-free-inflation-gdp-unemployment-de",
+  "date": "2026-08-06",
+  "displayDate": "August 6, 2026",
+  "author": "Sigma Capital",
+  "category": "Economic Data",
+  "tags": [
+    "economic data",
+    "financial news",
+    "market update"
+  ],
+  "metaDescription": "The FRED API provides access to over 800,000 economic datasets, including GDP, inflation, and unemployment data, for free. No API key is required for some servi",
+  "excerpt": "The FRED API provides access to over 800,000 economic datasets, including GDP, inflation, and unemployment data, for free. No API key is required for some services, while others may require registration. The data is sourced from the Federal Reserve Bank of St. Louis.",
+  "content": {
+    "introduction": "The FRED API provides access to over 800,000 economic datasets, including GDP, inflation, and unemployment data, for free. No API key is required for some services, while others may require registration. The data is sourced from the Federal Reserve Bank of St. Louis.",
+    "body": [
+      "Scrape Federal Reserve Economic Data (FRED). Get GDP, unemployment, CPI, interest rates, and 800K+ economic time series. No API key required. CSV data with date ranges.\n\nUser avatar\n\nlulz bot\n\n1\n\n### FRED Federal Reserve Economic Data Scraper\n\ncloud9\\_ai/fred-scraper\n\nExtract US economic data from FRED. Access 800,000+ time series - GDP, unemployment, CPI, interest rates. Search series, get historical observations, or retrieve series metadata. Free API key from fred.stlouisfed.org required. [...] User avatar\n\ncloud9\n\n2\n\nFRED API - Federal Reserve Economic Data avatar\n\n### FRED API - Federal Reserve Economic Data\n\nalizarin\\_refrigerator-owner/fred-api---federal-reserve-economic-data\n\nAccess 800,000+ economic time series from the Federal Reserve Bank of St. Louis. Get GDP, inflation, unemployment, interest rates, housing data, and more. Essential for economic analysis, forecasting, and market research.\n\nUser avatar\n\nThe Howlers\n\n6\n\n### FRED Economic Intelligence [...] FRED Economic Data Search is an Apify actor that connects to the Federal Reserve Economic Data (FRED) API to search, retrieve, and download US economic time series data. With access to over 840,000 data series maintained by the Federal Reserve Bank of St.\n\nPricing\n\nfrom $2.00 / 1,000 data fetcheds\n\nRating\n\n0.0\n\n(0)\n\nDeveloper\n\nRyan Clinton\n\nRyan Clinton\n\nActor stats\n\n1\n\nBookmarked\n\n8\n\nTotal users\n\n2\n\nMonthly active users\n\n4 months ago\n\nLast modified\n\nCategories\n\nAI\n\nDeveloper tools\n\nShare",
+      "Overview\n\nPull authoritative macroeconomic data from the Federal Reserve Bank of St. Louis into Databar with the FRED Economic Data API. Access over 800,000 U.S. and international time series - including CPI, GDP, unemployment, interest rates, housing, and trade - to enrich records, dashboards, reports, forecasts, and segmentation.\n\nKey benefits [...] Key benefits\n\n Large catalog - over 800,000 economic series covering inflation, GDP, rates, employment, and more.\n Always current - fetch the latest observations or schedule automated updates to keep datasets fresh.\n Trusted source - data comes directly from the St. Louis Fed for reliable, official economic measures.\n Historical depth - long-run series for backtesting and model training.\n Flexible formats - time series available in JSON or CSV for easy integration with reports and analytics. [...] Get started free\n\nFRED Economic Data\n\n# FRED Economic Data\n\nGet economic time series from the St. Louis Fed's FRED and ALFRED datasets - access inflation, GDP, unemployment, interest rates, exchange rates, and vintage (historical) revisions for analysis and research.\n\nProductivity\n\nNo auth required\n\nOverview",
+      "in the mid-1990s. It has since grown into arguably the single most important free data platform for macroeconomic research, now hosting over 800,000 time series covering GDP, employment, inflation, interest rates, trade, financial markets, and more."
+    ],
+    "keyTakeaways": [
+      "The FRED API provides access to over 800,000 economic datasets, including GDP, inflation, and unemployment data, for fre",
+      "Scrape Federal Reserve Economic Data (FRED). Get GDP, unemployment, CPI, interest rates, and 800K+ economic time series",
+      "Overview\n\nPull authoritative macroeconomic data from the Federal Reserve Bank of St. Louis into Databar with the FRED Ec"
+    ],
+    "source": "dev.to",
+    "sourceUrl": "https://dev.to/0012303/fred-api-access-800000-economic-datasets-for-free-inflation-gdp-unemployment-4p50"
+  },
+  "readingTime": 3,
+  "updatedAt": "2026-08-06T02:49:59.332Z",
+  "images": {
+    "thumbnail": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "FRED API: Access 800,000+ Economic Datasets for Free (Inflation, GDP, Unemployment) - DEV Community"
+    },
+    "hero": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "FRED API: Access 800,000+ Economic Datasets for Free (Inflation, GDP, Unemployment) - DEV Community"
+    },
+    "mid": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "FRED API: Access 800,000+ Economic Datasets for Free (Inflation, GDP, Unemployment) - DEV Community"
+    }
+  },
+  "image": {
+    "src": "/images/article_thumb_2.jpg",
+    "alt": "FRED API: Access 800,000+ Economic Datasets for Free (Inflation, GDP, Unemployment) - DEV Community"
+  }
+}
