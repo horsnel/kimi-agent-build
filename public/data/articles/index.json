@@ -21,6 +21,69 @@
     "readingTime": 5
   },
   {
+    "id": "5-strategies-to-navigate-market-volatility-morgan-stanley",
+    "type": "news",
+    "title": "5 Strategies to Navigate Market Volatility | Morgan Stanley",
+    "slug": "5-strategies-to-navigate-market-volatility-morgan-stanley",
+    "date": "2026-08-07",
+    "displayDate": "August 7, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "To navigate market volatility, maintain long-term goals, seek advice from a financial advisor, and avoid making impulsive decisions.",
+    "excerpt": "To navigate market volatility, maintain long-term goals, seek advice from a financial advisor, and avoid making impulsive decisions.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "5 Strategies to Navigate Market Volatility | Morgan Stanley"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "asia-market-data-marketwatch",
+    "type": "news",
+    "title": "Asia Market Data - MarketWatch",
+    "slug": "asia-market-data-marketwatch",
+    "date": "2026-08-07",
+    "displayDate": "August 7, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "As of August 7, 2026, the Nikkei 225 Index is at 65,683.26, down 617.18 points (-0.93%). The Hang Seng Index is at 25,530.28, down 385.54 points (-1.49%). The S",
+    "excerpt": "As of August 7, 2026, the Nikkei 225 Index is at 65,683.26, down 617.18 points (-0.93%). The Hang Seng Index is at 25,530.28, down 385.54 points (-1.49%). The Shanghai Composite Index is at 3,900.35, up 21.92 points (+0.57%).",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Asia Market Data - MarketWatch"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "asian-stock-market-capital-markets-news-bond-market-news-commodities-news-etfs-n",
+    "type": "news",
+    "title": "Asian Stock Market: Capital Markets News, Bond Market News, Commodities News, ETFs News",
+    "slug": "asian-stock-market-capital-markets-news-bond-market-news-commodities-news-etfs-n",
+    "date": "2026-08-07",
+    "displayDate": "August 7, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Asian stock market includes news on capital markets, bond markets, commodities, and ETFs. Recent highlights include EU fines on AliExpress and China's call ",
+    "excerpt": "The Asian stock market includes news on capital markets, bond markets, commodities, and ETFs. Recent highlights include EU fines on AliExpress and China's call for global AI regulation. Current trends show mixed performances in major indices.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Asian Stock Market: Capital Markets News, Bond Market News, Commodities News, ETFs News"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "bitcoin-btc-price-usd-today-news-charts-market-cap",
     "type": "news",
     "title": "Bitcoin (BTC) Price USD Today, News, Charts, Market Cap",
@@ -80,6 +143,27 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "Bitcoin USD Price: Quote, Market Cap, Forecast & News (BTCUSD)"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "coindesk-bitcoin-ethereum-xrp-crypto-news-and-price-data",
+    "type": "news",
+    "title": "CoinDesk: Bitcoin, Ethereum, XRP, Crypto News and Price Data",
+    "slug": "coindesk-bitcoin-ethereum-xrp-crypto-news-and-price-data",
+    "date": "2026-08-07",
+    "displayDate": "August 7, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "CoinDesk provides news, price data, and analysis for Bitcoin, Ethereum, XRP, and other cryptocurrencies. As of 2026-08-07, Bitcoin is up 1.24% and Ethereum up 1",
+    "excerpt": "CoinDesk provides news, price data, and analysis for Bitcoin, Ethereum, XRP, and other cryptocurrencies. As of 2026-08-07, Bitcoin is up 1.24% and Ethereum up 1.74%. XRP is down 0.75%.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "CoinDesk: Bitcoin, Ethereum, XRP, Crypto News and Price Data"
     },
     "readingTime": 3
   },
@@ -168,6 +252,27 @@
     "readingTime": 3
   },
   {
+    "id": "earnings-calendar-zacks-investment-research",
+    "type": "news",
+    "title": "Earnings Calendar - Zacks Investment Research",
+    "slug": "earnings-calendar-zacks-investment-research",
+    "date": "2026-08-07",
+    "displayDate": "August 7, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "An earnings calendar lists when companies report their quarterly financial results. Zacks Investment Research provides this schedule, including details like mar",
+    "excerpt": "An earnings calendar lists when companies report their quarterly financial results. Zacks Investment Research provides this schedule, including details like market cap and dividend information. Today, August 7, 2026, Wells Fargo & Company and Eaton are scheduled to report.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Earnings Calendar - Zacks Investment Research"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "earnings-calendar",
     "type": "news",
     "title": "Earnings Calendar",
@@ -252,6 +357,27 @@
     "readingTime": 4
   },
   {
+    "id": "economic-indicators-u-s-department-of-commerce",
+    "type": "news",
+    "title": "Economic indicators - U.S. Department of Commerce",
+    "slug": "economic-indicators-u-s-department-of-commerce",
+    "date": "2026-08-07",
+    "displayDate": "August 7, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The U.S. Department of Commerce provides economic indicators, including GDP data, and the Bureau of Economic Analysis leads this effort. The U.S. Census Bureau ",
+    "excerpt": "The U.S. Department of Commerce provides economic indicators, including GDP data, and the Bureau of Economic Analysis leads this effort. The U.S. Census Bureau also offers economic indicators covering various sectors. The latest GDP data is available from these sources.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Economic indicators - U.S. Department of Commerce"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "economic-sector-performance-dashboards",
     "type": "news",
     "title": "Economic Sector Performance Dashboards",
@@ -311,6 +437,48 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "Fed meeting recap: July 2026"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "federal-open-market-committee",
+    "type": "news",
+    "title": "Federal Open Market Committee",
+    "slug": "federal-open-market-committee",
+    "date": "2026-08-07",
+    "displayDate": "August 7, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Open Market Committee (FOMC) is the Federal Reserve's main monetary policy body, holding eight regular meetings annually. Members include Board of G",
+    "excerpt": "The Federal Open Market Committee (FOMC) is the Federal Reserve's main monetary policy body, holding eight regular meetings annually. Members include Board of Governors and regional bank presidents. Decisions impact national economic policy.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Federal Open Market Committee"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "federal-reserve-board-monetary-policy",
+    "type": "news",
+    "title": "Federal Reserve Board - Monetary Policy",
+    "slug": "federal-reserve-board-monetary-policy",
+    "date": "2026-08-07",
+    "displayDate": "August 7, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Reserve implements monetary policy to promote maximum employment and stable prices, primarily through adjustments to the federal funds rate and othe",
+    "excerpt": "The Federal Reserve implements monetary policy to promote maximum employment and stable prices, primarily through adjustments to the federal funds rate and other tools. The Federal Open Market Committee, including the Board of Governors and regional bank presidents, deliberates on policy. The Fed's ",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Federal Reserve Board - Monetary Policy"
     },
     "readingTime": 4
   },
@@ -420,6 +588,27 @@
     "readingTime": 4
   },
   {
+    "id": "health-technology-sector-companies-performance-and-stocks-usa-tradingview",
+    "type": "news",
+    "title": "Health Technology Sector: Companies, Performance and Stocks — USA — TradingView",
+    "slug": "health-technology-sector-companies-performance-and-stocks-usa-tradingview",
+    "date": "2026-08-07",
+    "displayDate": "August 7, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Health Technology sector includes major pharmaceutical companies and biotech firms, with notable stocks like Thermo Fisher Scientific and Biogen Inc. The se",
+    "excerpt": "The Health Technology sector includes major pharmaceutical companies and biotech firms, with notable stocks like Thermo Fisher Scientific and Biogen Inc. The sector's performance has seen mixed results, with some companies experiencing growth while others decline. As of 2026-08-07, key stocks show v",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Health Technology Sector: Companies, Performance and Stocks — USA — TradingView"
+    },
+    "readingTime": 5
+  },
+  {
     "id": "how-should-i-allocate-my-portfolio-in-2026",
     "type": "news",
     "title": "How Should I Allocate My Portfolio in 2026?",
@@ -437,6 +626,27 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "How Should I Allocate My Portfolio in 2026?"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "inflation-consumer-prices-for-the-united-states-fpcpitotlzgusa",
+    "type": "news",
+    "title": "Inflation, consumer prices for the United States (FPCPITOTLZGUSA)",
+    "slug": "inflation-consumer-prices-for-the-united-states-fpcpitotlzgusa",
+    "date": "2026-08-07",
+    "displayDate": "August 7, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Inflation for the United States in 2024 was 2.95%, and in 2023 it was 4.12%. The most recent update was on April 16, 2025.",
+    "excerpt": "Inflation for the United States in 2024 was 2.95%, and in 2023 it was 4.12%. The most recent update was on April 16, 2025.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Inflation, consumer prices for the United States (FPCPITOTLZGUSA)"
     },
     "readingTime": 4
   },
@@ -588,6 +798,27 @@
     "readingTime": 4
   },
   {
+    "id": "monetary-policy-implementation",
+    "type": "news",
+    "title": "Monetary Policy Implementation",
+    "slug": "monetary-policy-implementation",
+    "date": "2026-08-07",
+    "displayDate": "August 7, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Central banks implement monetary policy primarily through interest rate control and liquidity provision, using tools like quantitative easing and floor systems ",
+    "excerpt": "Central banks implement monetary policy primarily through interest rate control and liquidity provision, using tools like quantitative easing and floor systems for better rate management. The \"new normal\" favors floor systems over corridor systems for more flexibility and control.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Monetary Policy Implementation"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "outlook-at-risk-real-gdp-growth-unemployment-and-inflation",
     "type": "news",
     "title": "Outlook-at-Risk: Real GDP Growth, Unemployment, and Inflation",
@@ -712,6 +943,69 @@
       "alt": "Sector Research, News and Performance | Sector Industries"
     },
     "readingTime": 3
+  },
+  {
+    "id": "sector-views-monthly-stock-sector-outlook",
+    "type": "news",
+    "title": "Sector Views: Monthly Stock Sector Outlook",
+    "slug": "sector-views-monthly-stock-sector-outlook",
+    "date": "2026-08-07",
+    "displayDate": "August 7, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Information Technology is favored, while Real Estate is least favored in the monthly stock sector outlook. The S&P 500 Materials Sector has the highest 10-year ",
+    "excerpt": "Information Technology is favored, while Real Estate is least favored in the monthly stock sector outlook. The S&P 500 Materials Sector has the highest 10-year performance.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Sector Views: Monthly Stock Sector Outlook"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "stock-market-outlook-midyear-2026",
+    "type": "news",
+    "title": "Stock market outlook midyear 2026",
+    "slug": "stock-market-outlook-midyear-2026",
+    "date": "2026-08-07",
+    "displayDate": "August 7, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Midyear 2026, stock market outlook suggests strong earnings growth and resilience despite geopolitical pressures and inflation risks. Robust corporate earnings ",
+    "excerpt": "Midyear 2026, stock market outlook suggests strong earnings growth and resilience despite geopolitical pressures and inflation risks. Robust corporate earnings and economic activity are expected to drive gains. Market diversification trends continue.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Stock market outlook midyear 2026"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "stock-market-outlook-today-tomorrow-market-outlook-forecast-seeking-alpha",
+    "type": "news",
+    "title": "Stock Market Outlook Today & Tomorrow | Market Outlook & Forecast | Seeking Alpha",
+    "slug": "stock-market-outlook-today-tomorrow-market-outlook-forecast-seeking-alpha",
+    "date": "2026-08-07",
+    "displayDate": "August 7, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Dow and S&P futures are up, Nasdaq down; tech stocks rebound, AI momentum continues. Gold rallies, oil prices stable. Market outlook positive for tech, cautious",
+    "excerpt": "Dow and S&P futures are up, Nasdaq down; tech stocks rebound, AI momentum continues. Gold rallies, oil prices stable. Market outlook positive for tech, cautious on retail.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Stock Market Outlook Today & Tomorrow | Market Outlook & Forecast | Seeking Alpha"
+    },
+    "readingTime": 4
   },
   {
     "id": "svmh-stock-shows-strong-performance-in-healthcare-sector-cryptsy",
@@ -903,6 +1197,48 @@
     "readingTime": 6
   },
   {
+    "id": "united-states-economic-indicators-moody-s-analytics",
+    "type": "news",
+    "title": "United States | Economic Indicators | Moody's Analytics",
+    "slug": "united-states-economic-indicators-moody-s-analytics",
+    "date": "2026-08-07",
+    "displayDate": "August 7, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "As of August 2026, the U.S. government budget balance shows a deficit, and the inflation rate is at 3.5%. The lending rate stands at 3.63%.",
+    "excerpt": "As of August 2026, the U.S. government budget balance shows a deficit, and the inflation rate is at 3.5%. The lending rate stands at 3.63%.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "United States | Economic Indicators | Moody's Analytics"
+    },
+    "readingTime": 5
+  },
+  {
+    "id": "united-states-indicators",
+    "type": "news",
+    "title": "United States Indicators",
+    "slug": "united-states-indicators",
+    "date": "2026-08-07",
+    "displayDate": "August 7, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The U.S. economy saw a 0.2% increase in the Coincident Economic Index in June 2026, with notable indicators including payroll employment and industrial producti",
+    "excerpt": "The U.S. economy saw a 0.2% increase in the Coincident Economic Index in June 2026, with notable indicators including payroll employment and industrial production. GDP growth rate was 1.5% in June 2026. The unemployment rate was 4.2% in June 2026.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "United States Indicators"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "united-states-inflation-rate",
     "type": "news",
     "title": "United States Inflation Rate",
@@ -943,6 +1279,48 @@
       "alt": "Warsh says Fed won't hesitate to stop inflation, but bond market has doubts"
     },
     "readingTime": 3
+  },
+  {
+    "id": "weekly-trader-s-stock-market-outlook",
+    "type": "news",
+    "title": "Weekly Trader's Stock Market Outlook",
+    "slug": "weekly-trader-s-stock-market-outlook",
+    "date": "2026-08-07",
+    "displayDate": "August 7, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Stocks are mostly higher, driven by tech rebounds, despite initial bearish outlook. S&P 500 earnings growth remains strong, supported by a robust economy. Inves",
+    "excerpt": "Stocks are mostly higher, driven by tech rebounds, despite initial bearish outlook. S&P 500 earnings growth remains strong, supported by a robust economy. Investors are monitoring oil supply disruptions for potential market impact.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Weekly Trader's Stock Market Outlook"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "what-is-the-current-inflation-rate-in-the-us",
+    "type": "news",
+    "title": "What is the current inflation rate in the US?",
+    "slug": "what-is-the-current-inflation-rate-in-the-us",
+    "date": "2026-08-07",
+    "displayDate": "August 7, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The current inflation rate in the US is 3.5% as of June 2026. This rate measures the average price increase of goods and services. The core inflation rate, excl",
+    "excerpt": "The current inflation rate in the US is 3.5% as of June 2026. This rate measures the average price increase of goods and services. The core inflation rate, excluding food and energy, is 2.6%.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "What is the current inflation rate in the US?"
+    },
+    "readingTime": 4
   },
   {
     "id": "when-is-the-next-fed-interest-rate-decision",
@@ -987,48 +1365,6 @@
     "readingTime": 3
   },
   {
-    "id": "5-strategies-to-navigate-market-volatility-morgan-stanley",
-    "type": "news",
-    "title": "5 Strategies to Navigate Market Volatility | Morgan Stanley",
-    "slug": "5-strategies-to-navigate-market-volatility-morgan-stanley",
-    "date": "2026-08-06",
-    "displayDate": "August 6, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Five strategies to navigate market volatility include staying disciplined, working with a financial advisor, maintaining a long-term perspective, diversifying i",
-    "excerpt": "Five strategies to navigate market volatility include staying disciplined, working with a financial advisor, maintaining a long-term perspective, diversifying investments, and planning ahead for retirement.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "5 Strategies to Navigate Market Volatility | Morgan Stanley"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "asia-market-data-marketwatch",
-    "type": "news",
-    "title": "Asia Market Data - MarketWatch",
-    "slug": "asia-market-data-marketwatch",
-    "date": "2026-08-06",
-    "displayDate": "August 6, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "As of August 6, 2026, the Nikkei 225 Index is up 3.66%, the Hang Seng Index up 0.24%, and the Shanghai Composite Index up 1.47%. Toyota Motor Corp. remains the ",
-    "excerpt": "As of August 6, 2026, the Nikkei 225 Index is up 3.66%, the Hang Seng Index up 0.24%, and the Shanghai Composite Index up 1.47%. Toyota Motor Corp. remains the world's top automaker for seven consecutive years.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Asia Market Data - MarketWatch"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "asian-financial-markets-investing-com",
     "type": "news",
     "title": "Asian Financial Markets - Investing.com",
@@ -1050,27 +1386,6 @@
     "readingTime": 3
   },
   {
-    "id": "asian-stock-market-capital-markets-news-bond-market-news-commodities-news-etfs-n",
-    "type": "news",
-    "title": "Asian Stock Market: Capital Markets News, Bond Market News, Commodities News, ETFs News",
-    "slug": "asian-stock-market-capital-markets-news-bond-market-news-commodities-news-etfs-n",
-    "date": "2026-08-06",
-    "displayDate": "August 6, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Asian stock markets, bond markets, commodities markets, and ETFs news are covered by Asia Financial, Investing.com, and CNBC. Recent highlights include fines on",
-    "excerpt": "Asian stock markets, bond markets, commodities markets, and ETFs news are covered by Asia Financial, Investing.com, and CNBC. Recent highlights include fines on AliExpress and discussions on global AI regulation.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Asian Stock Market: Capital Markets News, Bond Market News, Commodities News, ETFs News"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "btc-usd-bitcoin-price-and-chart",
     "type": "news",
     "title": "BTC USD — Bitcoin Price and Chart",
@@ -1088,27 +1403,6 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "BTC USD — Bitcoin Price and Chart"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "earnings-calendar-zacks-investment-research",
-    "type": "news",
-    "title": "Earnings Calendar - Zacks Investment Research",
-    "slug": "earnings-calendar-zacks-investment-research",
-    "date": "2026-08-06",
-    "displayDate": "August 6, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "An earnings calendar lists when companies report their quarterly financial results. Zacks Investment Research provides this information to help investors track ",
-    "excerpt": "An earnings calendar lists when companies report their quarterly financial results. Zacks Investment Research provides this information to help investors track multiple companies. As of August 6, 2026, upcoming reports include Banco Bradesco and EQT.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Earnings Calendar - Zacks Investment Research"
     },
     "readingTime": 3
   },
@@ -1176,27 +1470,6 @@
     "readingTime": 3
   },
   {
-    "id": "federal-reserve-board-monetary-policy",
-    "type": "news",
-    "title": "Federal Reserve Board - Monetary Policy",
-    "slug": "federal-reserve-board-monetary-policy",
-    "date": "2026-08-06",
-    "displayDate": "August 6, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Reserve implements monetary policy to promote maximum employment and stable prices, primarily through the federal funds rate and other tools like as",
-    "excerpt": "The Federal Reserve implements monetary policy to promote maximum employment and stable prices, primarily through the federal funds rate and other tools like asset purchases. The Federal Open Market Committee leads this effort. The Fed's goals are set by Congress.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Federal Reserve Board - Monetary Policy"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "fred-api-access-800-000-economic-datasets-for-free-inflation-gdp-unemployment-de",
     "type": "news",
     "title": "FRED API: Access 800,000+ Economic Datasets for Free (Inflation, GDP, Unemployment) - DEV Community",
@@ -1237,27 +1510,6 @@
       "alt": "GeekWire – Breaking News in Technology & Business"
     },
     "readingTime": 3
-  },
-  {
-    "id": "health-technology-sector-companies-performance-and-stocks-usa-tradingview",
-    "type": "news",
-    "title": "Health Technology Sector: Companies, Performance and Stocks — USA — TradingView",
-    "slug": "health-technology-sector-companies-performance-and-stocks-usa-tradingview",
-    "date": "2026-08-06",
-    "displayDate": "August 6, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Health Technology sector includes major pharmaceutical companies, biotech firms, and medical specialties, with notable stocks like Biogen Inc. and Zoetis In",
-    "excerpt": "The Health Technology sector includes major pharmaceutical companies, biotech firms, and medical specialties, with notable stocks like Biogen Inc. and Zoetis Inc. showing positive performance trends. Key players include UnitedHealth Group and Medtronic, with mixed recent performance. Market capitali",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Health Technology Sector: Companies, Performance and Stocks — USA — TradingView"
-    },
-    "readingTime": 5
   },
   {
     "id": "healthcare-stock-performance-yahoo-finance",
@@ -1449,27 +1701,6 @@
     "readingTime": 4
   },
   {
-    "id": "sector-views-monthly-stock-sector-outlook",
-    "type": "news",
-    "title": "Sector Views: Monthly Stock Sector Outlook",
-    "slug": "sector-views-monthly-stock-sector-outlook",
-    "date": "2026-08-06",
-    "displayDate": "August 6, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Information Technology sector is highly favored, while Real Estate is least favored in the latest monthly stock sector outlook. The S&P 500 Information Tech",
-    "excerpt": "The Information Technology sector is highly favored, while Real Estate is least favored in the latest monthly stock sector outlook. The S&P 500 Information Technology Sector has the highest market weight.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Sector Views: Monthly Stock Sector Outlook"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "six-portfolio-strategy-ideas-for-2026",
     "type": "news",
     "title": "Six portfolio strategy ideas for 2026",
@@ -1489,27 +1720,6 @@
       "alt": "Six portfolio strategy ideas for 2026"
     },
     "readingTime": 3
-  },
-  {
-    "id": "stock-market-outlook-midyear-2026",
-    "type": "news",
-    "title": "Stock market outlook midyear 2026",
-    "slug": "stock-market-outlook-midyear-2026",
-    "date": "2026-08-06",
-    "displayDate": "August 6, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The 2026 midyear stock market outlook suggests strong earnings growth and a resilient economy, but mixed signals from stock indices. Investors should expect con",
-    "excerpt": "The 2026 midyear stock market outlook suggests strong earnings growth and a resilient economy, but mixed signals from stock indices. Investors should expect continued corporate performance and geopolitical improvements.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Stock market outlook midyear 2026"
-    },
-    "readingTime": 4
   },
   {
     "id": "ten-things-to-consider-before-you-make-investing-decisions",
@@ -1638,27 +1848,6 @@
     "readingTime": 3
   },
   {
-    "id": "united-states-indicators",
-    "type": "news",
-    "title": "United States Indicators",
-    "slug": "united-states-indicators",
-    "date": "2026-08-06",
-    "displayDate": "August 6, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The United States has indicators showing a composite PMI of 54.5 in July 2026, and GDP growth contribution from consumer spending at 2.12 percentage points.",
-    "excerpt": "The United States has indicators showing a composite PMI of 54.5 in July 2026, and GDP growth contribution from consumer spending at 2.12 percentage points.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "United States Indicators"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "united-states-stock-market-index-quote-chart-historical-data-news",
     "type": "news",
     "title": "United States Stock Market Index - Quote - Chart - Historical Data - News",
@@ -1697,27 +1886,6 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "Wall Street"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "weekly-trader-s-stock-market-outlook",
-    "type": "news",
-    "title": "Weekly Trader's Stock Market Outlook",
-    "slug": "weekly-trader-s-stock-market-outlook",
-    "date": "2026-08-06",
-    "displayDate": "August 6, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Stocks are on track for modest weekly gains despite volatility, driven by strong earnings from tech giants. Inflation and rising Treasury yields pose challenges",
-    "excerpt": "Stocks are on track for modest weekly gains despite volatility, driven by strong earnings from tech giants. Inflation and rising Treasury yields pose challenges. Market outlook remains cautiously optimistic.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Weekly Trader's Stock Market Outlook"
     },
     "readingTime": 4
   },
@@ -2016,27 +2184,6 @@
     "readingTime": 3
   },
   {
-    "id": "federal-open-market-committee",
-    "type": "news",
-    "title": "Federal Open Market Committee",
-    "slug": "federal-open-market-committee",
-    "date": "2026-08-05",
-    "displayDate": "August 5, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Open Market Committee (FOMC) is a committee within the Federal Reserve that sets U.S. monetary policy. It consists of twelve members and holds eight",
-    "excerpt": "The Federal Open Market Committee (FOMC) is a committee within the Federal Reserve that sets U.S. monetary policy. It consists of twelve members and holds eight meetings annually. The FOMC influences interest rates and the money supply.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Federal Open Market Committee"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "global-market-headlines-breaking-stock-market-news",
     "type": "news",
     "title": "Global Market Headlines | Breaking Stock Market News",
@@ -2054,27 +2201,6 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "Global Market Headlines | Breaking Stock Market News"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "inflation-consumer-prices-for-the-united-states-fpcpitotlzgusa",
-    "type": "news",
-    "title": "Inflation, consumer prices for the United States (FPCPITOTLZGUSA)",
-    "slug": "inflation-consumer-prices-for-the-united-states-fpcpitotlzgusa",
-    "date": "2026-08-05",
-    "displayDate": "August 5, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Inflation for the United States in 2024 was 2.9%, and in 2023 it was 4.1%. The most recent annual inflation figure is from April 2025.",
-    "excerpt": "Inflation for the United States in 2024 was 2.9%, and in 2023 it was 4.1%. The most recent annual inflation figure is from April 2025.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Inflation, consumer prices for the United States (FPCPITOTLZGUSA)"
     },
     "readingTime": 4
   },
@@ -2329,48 +2455,6 @@
       "alt": "U.S. Stock Markets Today"
     },
     "readingTime": 5
-  },
-  {
-    "id": "united-states-economic-indicators-moody-s-analytics",
-    "type": "news",
-    "title": "United States | Economic Indicators | Moody's Analytics",
-    "slug": "united-states-economic-indicators-moody-s-analytics",
-    "date": "2026-08-05",
-    "displayDate": "August 5, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The U.S. government budget deficit for June 2026 is $120,305 million, and the lending rate is 3.63% as of July 2026. The inflation rate for June 2026 is 3.5%. T",
-    "excerpt": "The U.S. government budget deficit for June 2026 is $120,305 million, and the lending rate is 3.63% as of July 2026. The inflation rate for June 2026 is 3.5%. The U.S. government debt to GDP ratio is 123% as of December 2025.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "United States | Economic Indicators | Moody's Analytics"
-    },
-    "readingTime": 5
-  },
-  {
-    "id": "what-is-the-current-inflation-rate-in-the-us",
-    "type": "news",
-    "title": "What is the current inflation rate in the US?",
-    "slug": "what-is-the-current-inflation-rate-in-the-us",
-    "date": "2026-08-05",
-    "displayDate": "August 5, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The current inflation rate in the US is 3.5% as of June 2026. This rate measures the average price increase of goods and services over time. The core inflation ",
-    "excerpt": "The current inflation rate in the US is 3.5% as of June 2026. This rate measures the average price increase of goods and services over time. The core inflation rate, excluding food and energy, is 2.6%.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "What is the current inflation rate in the US?"
-    },
-    "readingTime": 4
   },
   {
     "id": "what-to-look-out-for-in-economic-data-this-week-august-3-7",
@@ -4679,27 +4763,6 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "Bureau of Labor Statistics"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "coindesk-bitcoin-ethereum-xrp-crypto-news-and-price-data",
-    "type": "news",
-    "title": "CoinDesk: Bitcoin, Ethereum, XRP, Crypto News and Price Data",
-    "slug": "coindesk-bitcoin-ethereum-xrp-crypto-news-and-price-data",
-    "date": "2026-07-07",
-    "displayDate": "July 7, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "CoinDesk is a leading source for cryptocurrency news, including updates on Bitcoin, Ethereum, and XRP, along with analysis and price data. Vanguard is exploring",
-    "excerpt": "CoinDesk is a leading source for cryptocurrency news, including updates on Bitcoin, Ethereum, and XRP, along with analysis and price data. Vanguard is exploring digital assets leadership roles, and Tether's former investment chief is looking to sell part of his stake.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "CoinDesk: Bitcoin, Ethereum, XRP, Crypto News and Price Data"
     },
     "readingTime": 3
   },

@@ -1,0 +1,52 @@
+{
+  "id": "monetary-policy-implementation",
+  "type": "news",
+  "title": "Monetary Policy Implementation",
+  "slug": "monetary-policy-implementation",
+  "date": "2026-08-07",
+  "displayDate": "August 7, 2026",
+  "author": "Sigma Capital",
+  "category": "Fed Policy",
+  "tags": [
+    "fed policy",
+    "financial news",
+    "market update"
+  ],
+  "metaDescription": "Central banks implement monetary policy primarily through interest rate control and liquidity provision, using tools like quantitative easing and floor systems ",
+  "excerpt": "Central banks implement monetary policy primarily through interest rate control and liquidity provision, using tools like quantitative easing and floor systems for better rate management. The \"new normal\" favors floor systems over corridor systems for more flexibility and control.",
+  "content": {
+    "introduction": "Central banks implement monetary policy primarily through interest rate control and liquidity provision, using tools like quantitative easing and floor systems for better rate management. The \"new normal\" favors floor systems over corridor systems for more flexibility and control.",
+    "body": [
+      "The Federal Reserve (Fed) implements monetary policy through an ample reserves framework, where a sufficient supply of reserves allows the federal funds rate and other short-term interest rates to be primarily controlled through administered rates set by policymakers. In this article, we provide insight into some of the tools the Fed uses to implement monetary policy, with a focus on recent changes to standing repo operations.\n\n  Continue reading »",
+      "So, today I will talk about monetary policy implementation. How central banks operationalize their policies to support the economy, provide liquidity, and promote financial stability.\n\nThe key message is that no tool or tactic is perfect. Each involves tradeoffs. And all must evolve as the economy changes. That is what decades of monetary theory have taught us, and modern central banking demands.\n\nIt is also what the public expects.\n\n## Principles define actions [...] Central banks across the globe set monetary policy in accordance with their mandates. They implement these policies based on a set of principles: interest rate control, liquidity provision, and supporting financial stability.",
+      "This article provides a simple model of monetary policy implementation, analyzing both the interest rate steering (IRS) and the quantitative easing (QE) policies. The model shows that the “floor system”, introduced with QE policies, is preferable to the traditional “corridor system”, for two reasons. First, it endows central banks with one more degree of freedom, since the interest rate and the balance sheet policies become two independent instruments. Second, it enhances the ability of central [...] ability of central banks to keep the money market rates in line with their target level. This second prediction is confirmed by an empirical analysis of the money market in the euro area. Therefore, in the “new normal” monetary policy should be implemented by steering the level of interest rates within a floor system, instead of relying on the corridor system used in the old IRS framework.1"
+    ],
+    "keyTakeaways": [
+      "Central banks implement monetary policy primarily through interest rate control and liquidity provision, using tools lik",
+      "The Federal Reserve (Fed) implements monetary policy through an ample reserves framework, where a sufficient supply of r",
+      "So, today I will talk about monetary policy implementation. How central banks operationalize their policies to support t"
+    ],
+    "source": "newyorkfed.org",
+    "sourceUrl": "https://www.newyorkfed.org/markets/domestic-market-operations/monetary-policy-implementation"
+  },
+  "readingTime": 3,
+  "updatedAt": "2026-08-07T13:10:28.922Z",
+  "images": {
+    "thumbnail": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Monetary Policy Implementation"
+    },
+    "hero": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Monetary Policy Implementation"
+    },
+    "mid": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Monetary Policy Implementation"
+    }
+  },
+  "image": {
+    "src": "/images/article_thumb_1.jpg",
+    "alt": "Monetary Policy Implementation"
+  }
+}
