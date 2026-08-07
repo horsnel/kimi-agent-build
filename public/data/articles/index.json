@@ -21,6 +21,69 @@
     "readingTime": 5
   },
   {
+    "id": "bitcoin-btc-price-usd-today-news-charts-market-cap",
+    "type": "news",
+    "title": "Bitcoin (BTC) Price USD Today, News, Charts, Market Cap",
+    "slug": "bitcoin-btc-price-usd-today-news-charts-market-cap",
+    "date": "2026-08-07",
+    "displayDate": "August 7, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin's price today is $64,588.26, with a market cap of $1.297T. It has a circulating supply of 20.07 million BTC. Bitcoin's all-time high was $126,210.50.",
+    "excerpt": "Bitcoin's price today is $64,588.26, with a market cap of $1.297T. It has a circulating supply of 20.07 million BTC. Bitcoin's all-time high was $126,210.50.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Bitcoin (BTC) Price USD Today, News, Charts, Market Cap"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "bitcoin-price-today-live-btc-price-chart-market-data",
+    "type": "news",
+    "title": "Bitcoin Price Today | Live BTC Price, Chart & Market Data",
+    "slug": "bitcoin-price-today-live-btc-price-chart-market-data",
+    "date": "2026-08-07",
+    "displayDate": "August 7, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin's price today is $64,178.26, with a 24-hour trading volume of $23.78 billion. It has a market cap of $1.29 trillion and a circulating supply of 20.07 mi",
+    "excerpt": "Bitcoin's price today is $64,178.26, with a 24-hour trading volume of $23.78 billion. It has a market cap of $1.29 trillion and a circulating supply of 20.07 million BTC.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Bitcoin Price Today | Live BTC Price, Chart & Market Data"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "bitcoin-usd-price-quote-market-cap-forecast-news-btcusd",
+    "type": "news",
+    "title": "Bitcoin USD Price: Quote, Market Cap, Forecast & News (BTCUSD)",
+    "slug": "bitcoin-usd-price-quote-market-cap-forecast-news-btcusd",
+    "date": "2026-08-07",
+    "displayDate": "August 7, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin's price is $64,900.25, market cap is $1.30 trillion, and it has a 0.50% increase today.",
+    "excerpt": "Bitcoin's price is $64,900.25, market cap is $1.30 trillion, and it has a 0.50% increase today.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Bitcoin USD Price: Quote, Market Cap, Forecast & News (BTCUSD)"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "company-earnings-calendar-yahoo-finance",
     "type": "news",
     "title": "Company Earnings Calendar - Yahoo Finance",
@@ -40,6 +103,27 @@
       "alt": "Company Earnings Calendar - Yahoo Finance"
     },
     "readingTime": 3
+  },
+  {
+    "id": "cpi-home-u-s-bureau-of-labor-statistics",
+    "type": "news",
+    "title": "CPI Home : U.S. Bureau of Labor Statistics",
+    "slug": "cpi-home-u-s-bureau-of-labor-statistics",
+    "date": "2026-08-07",
+    "displayDate": "August 7, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Consumer Price Index (CPI) decreased 0.4% in June 2026. Over the past year, it increased 3.5%. Energy prices rose significantly, while medical care and used",
+    "excerpt": "The Consumer Price Index (CPI) decreased 0.4% in June 2026. Over the past year, it increased 3.5%. Energy prices rose significantly, while medical care and used cars fell.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "CPI Home : U.S. Bureau of Labor Statistics"
+    },
+    "readingTime": 4
   },
   {
     "id": "crypto-news-bitcoin-ethereum-xrp-news-crypto-news",
@@ -105,6 +189,27 @@
     "readingTime": 3
   },
   {
+    "id": "earnings",
+    "type": "news",
+    "title": "Earnings",
+    "slug": "earnings",
+    "date": "2026-08-07",
+    "displayDate": "August 7, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Earnings are the net income a corporation earns from its operations. They are subject to corporate tax and can be analyzed using terms like EBIT and EBITDA. Ear",
+    "excerpt": "Earnings are the net income a corporation earns from its operations. They are subject to corporate tax and can be analyzed using terms like EBIT and EBITDA. Earnings can also refer to individual income from work.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Earnings"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "economic-calendar",
     "type": "news",
     "title": "Economic Calendar",
@@ -145,6 +250,27 @@
       "alt": "Economic Indicators Calendar | New York Fed"
     },
     "readingTime": 4
+  },
+  {
+    "id": "economic-sector-performance-dashboards",
+    "type": "news",
+    "title": "Economic Sector Performance Dashboards",
+    "slug": "economic-sector-performance-dashboards",
+    "date": "2026-08-07",
+    "displayDate": "August 7, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Economic sector performance dashboards show market weights and year-to-date returns for various sectors, with Industrials leading in recent returns. Technology ",
+    "excerpt": "Economic sector performance dashboards show market weights and year-to-date returns for various sectors, with Industrials leading in recent returns. Technology and Energy sectors also have notable performance. Data reflects current market conditions.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Economic Sector Performance Dashboards"
+    },
+    "readingTime": 3
   },
   {
     "id": "ethereum-eth-price-usd-today-news-charts-market-cap",
@@ -210,6 +336,27 @@
     "readingTime": 4
   },
   {
+    "id": "federal-reserve-votes-to-keep-interest-rates-unchanged",
+    "type": "news",
+    "title": "Federal Reserve votes to keep interest rates unchanged",
+    "slug": "federal-reserve-votes-to-keep-interest-rates-unchanged",
+    "date": "2026-08-07",
+    "displayDate": "August 7, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Reserve decided to keep interest rates unchanged in July 2026, maintaining the range at 3.50%-3.75%, despite high inflation and energy price hikes. ",
+    "excerpt": "The Federal Reserve decided to keep interest rates unchanged in July 2026, maintaining the range at 3.50%-3.75%, despite high inflation and energy price hikes. Three members of the committee voted for a rate hike. The decision impacts mortgage, credit card, and auto loan rates.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Federal Reserve votes to keep interest rates unchanged"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "global-market-indices-international-markets-markets-insider",
     "type": "news",
     "title": "Global Market Indices | International Markets - Markets Insider",
@@ -250,6 +397,27 @@
       "alt": "Global Stock Market News and World Indices Coverage"
     },
     "readingTime": 5
+  },
+  {
+    "id": "gross-domestic-product-gdp-consumer-price-index-cpi-housing-starts-unemployment-",
+    "type": "news",
+    "title": "Gross Domestic Product | GDP | Consumer Price Index CPI Housing Starts Unemployment Rate US",
+    "slug": "gross-domestic-product-gdp-consumer-price-index-cpi-housing-starts-unemployment-",
+    "date": "2026-08-07",
+    "displayDate": "August 7, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The GDP for 2026 is 31865.7, the CPI is 332.6, and the unemployment rate is 4.2%.",
+    "excerpt": "The GDP for 2026 is 31865.7, the CPI is 332.6, and the unemployment rate is 4.2%.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Gross Domestic Product | GDP | Consumer Price Index CPI Housing Starts Unemployment Rate US"
+    },
+    "readingTime": 4
   },
   {
     "id": "how-should-i-allocate-my-portfolio-in-2026",
@@ -294,6 +462,27 @@
     "readingTime": 4
   },
   {
+    "id": "interactive-world-macromap-ft-com",
+    "type": "news",
+    "title": "Interactive World Macromap - FT.com",
+    "slug": "interactive-world-macromap-ft-com",
+    "date": "2026-08-07",
+    "displayDate": "August 7, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Interactive World Macromap on FT.com provides real-time market data for global indices, including the FTSE All-World and S&P 500. Troutwood offers an intera",
+    "excerpt": "The Interactive World Macromap on FT.com provides real-time market data for global indices, including the FTSE All-World and S&P 500. Troutwood offers an interactive stock market map for visualizing S&P 500 and global indices geographically. Tradingeconomics' geomap shows the performance of major st",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Interactive World Macromap - FT.com"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "international-stocks-how-and-why-to-invest-charles-schwab",
     "type": "news",
     "title": "International Stocks: How and Why to Invest | Charles Schwab",
@@ -332,6 +521,27 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "Investment Outlook and Portfolio Strategies for 2026"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "investment-strategies-for-today-and-long-term-blackrock",
+    "type": "news",
+    "title": "Investment strategies for today and long-term | BlackRock",
+    "slug": "investment-strategies-for-today-and-long-term-blackrock",
+    "date": "2026-08-07",
+    "displayDate": "August 7, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "BlackRock offers income-focused portfolios and equities for both short-term and long-term investment strategies, including systematic investing and retirement f",
+    "excerpt": "BlackRock offers income-focused portfolios and equities for both short-term and long-term investment strategies, including systematic investing and retirement funds. Target date ETFs and global diversification are also available.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Investment strategies for today and long-term | BlackRock"
     },
     "readingTime": 3
   },
@@ -376,6 +586,27 @@
       "alt": "Latest Technology News and Reviews"
     },
     "readingTime": 4
+  },
+  {
+    "id": "outlook-at-risk-real-gdp-growth-unemployment-and-inflation",
+    "type": "news",
+    "title": "Outlook-at-Risk: Real GDP Growth, Unemployment, and Inflation",
+    "slug": "outlook-at-risk-real-gdp-growth-unemployment-and-inflation",
+    "date": "2026-08-07",
+    "displayDate": "August 7, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Outlook-at-Risk quantifies risks to real GDP growth, unemployment, and inflation based on financial conditions. It estimates future economic conditions' distrib",
+    "excerpt": "Outlook-at-Risk quantifies risks to real GDP growth, unemployment, and inflation based on financial conditions. It estimates future economic conditions' distributions since 1989. The Indiana Business Research Center forecasts 1.8% GDP growth, 4.8% unemployment, and 2% inflation for 2026.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Outlook-at-Risk: Real GDP Growth, Unemployment, and Inflation"
+    },
+    "readingTime": 3
   },
   {
     "id": "s-p-500-index-sp500-analysis-news-and-chart-today",
@@ -439,6 +670,48 @@
       "alt": "S&P 500 (SP500) - Technical Analysis - Medium term"
     },
     "readingTime": 4
+  },
+  {
+    "id": "sector-industry-performance",
+    "type": "news",
+    "title": "Sector & Industry Performance",
+    "slug": "sector-industry-performance",
+    "date": "2026-08-07",
+    "displayDate": "August 7, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The S&P 500 sectors show mixed performance, with Technology leading and Energy lagging. The latest data indicates a slight overall decline of -0.17% for all sec",
+    "excerpt": "The S&P 500 sectors show mixed performance, with Technology leading and Energy lagging. The latest data indicates a slight overall decline of -0.17% for all sectors.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Sector & Industry Performance"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "sector-research-news-and-performance-sector-industries",
+    "type": "news",
+    "title": "Sector Research, News and Performance | Sector Industries",
+    "slug": "sector-research-news-and-performance-sector-industries",
+    "date": "2026-08-07",
+    "displayDate": "August 7, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The S&P 500 Information Technology Sector has a market cap of $32.08T and a market weight of 36.60%. The Energy sector has the worst performance with a -2.03% c",
+    "excerpt": "The S&P 500 Information Technology Sector has a market cap of $32.08T and a market weight of 36.60%. The Energy sector has the worst performance with a -2.03% change. The Industrials sector leads with a 41.41% YTD return.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Sector Research, News and Performance | Sector Industries"
+    },
+    "readingTime": 3
   },
   {
     "id": "svmh-stock-shows-strong-performance-in-healthcare-sector-cryptsy",
@@ -567,6 +840,48 @@
     "readingTime": 4
   },
   {
+    "id": "top-10-investment-strategies-for-2025-a-comprehensive-guide",
+    "type": "news",
+    "title": "Top 10 Investment Strategies for 2025: A Comprehensive Guide",
+    "slug": "top-10-investment-strategies-for-2025-a-comprehensive-guide",
+    "date": "2026-08-07",
+    "displayDate": "August 7, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Top investment strategies for 2025 include diversification across sectors, investing in ETFs, and exploring alternative assets like renewable energy and dividen",
+    "excerpt": "Top investment strategies for 2025 include diversification across sectors, investing in ETFs, and exploring alternative assets like renewable energy and dividend stocks. Focus on low-cost index funds and dollar-cost averaging for steady growth.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Top 10 Investment Strategies for 2025: A Comprehensive Guide"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "top-investment-strategies-key-approaches-to-maximize-returns",
+    "type": "news",
+    "title": "Top Investment Strategies: Key Approaches to Maximize Returns",
+    "slug": "top-investment-strategies-key-approaches-to-maximize-returns",
+    "date": "2026-08-07",
+    "displayDate": "August 7, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Top investment strategies include diversification, dollar-cost averaging, and long-term growth investing. These approaches aim to maximize returns while managin",
+    "excerpt": "Top investment strategies include diversification, dollar-cost averaging, and long-term growth investing. These approaches aim to maximize returns while managing risk. Focus on asset allocation and regular investment to achieve financial goals.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Top Investment Strategies: Key Approaches to Maximize Returns"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "u-s-economic-calendar",
     "type": "news",
     "title": "U.S. Economic Calendar",
@@ -607,6 +922,27 @@
       "alt": "United States Inflation Rate"
     },
     "readingTime": 5
+  },
+  {
+    "id": "warsh-says-fed-won-t-hesitate-to-stop-inflation-but-bond-market-has-doubts",
+    "type": "news",
+    "title": "Warsh says Fed won't hesitate to stop inflation, but bond market has doubts",
+    "slug": "warsh-says-fed-won-t-hesitate-to-stop-inflation-but-bond-market-has-doubts",
+    "date": "2026-08-07",
+    "displayDate": "August 7, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Federal Reserve Chairman Kevin Warsh vowed to tackle inflation, but the bond market reacted skeptically, causing a selloff. Warsh did not specify actions to ach",
+    "excerpt": "Federal Reserve Chairman Kevin Warsh vowed to tackle inflation, but the bond market reacted skeptically, causing a selloff. Warsh did not specify actions to achieve this, leading to doubts about his commitment. The market's reaction reflects uncertainty about the Fed's strategy.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Warsh says Fed won't hesitate to stop inflation, but bond market has doubts"
+    },
+    "readingTime": 3
   },
   {
     "id": "when-is-the-next-fed-interest-rate-decision",
@@ -735,48 +1071,6 @@
     "readingTime": 3
   },
   {
-    "id": "bitcoin-btc-price-usd-today-news-charts-market-cap",
-    "type": "news",
-    "title": "Bitcoin (BTC) Price USD Today, News, Charts, Market Cap",
-    "slug": "bitcoin-btc-price-usd-today-news-charts-market-cap",
-    "date": "2026-08-06",
-    "displayDate": "August 6, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Bitcoin's price today is $64,588.26, with a market cap of $1.296 trillion. It has risen 0.98% in the last 24 hours. The all-time high is $126,210.50.",
-    "excerpt": "Bitcoin's price today is $64,588.26, with a market cap of $1.296 trillion. It has risen 0.98% in the last 24 hours. The all-time high is $126,210.50.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Bitcoin (BTC) Price USD Today, News, Charts, Market Cap"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "bitcoin-price-today-live-btc-price-chart-market-data",
-    "type": "news",
-    "title": "Bitcoin Price Today | Live BTC Price, Chart & Market Data",
-    "slug": "bitcoin-price-today-live-btc-price-chart-market-data",
-    "date": "2026-08-06",
-    "displayDate": "August 6, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Bitcoin's price today is $64,788.60 USD, with a 0.75% increase in the last 24 hours. The market cap is $1,298,728,695,476 USD. The circulating supply is 20.07 m",
-    "excerpt": "Bitcoin's price today is $64,788.60 USD, with a 0.75% increase in the last 24 hours. The market cap is $1,298,728,695,476 USD. The circulating supply is 20.07 million BTC.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Bitcoin Price Today | Live BTC Price, Chart & Market Data"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "btc-usd-bitcoin-price-and-chart",
     "type": "news",
     "title": "BTC USD — Bitcoin Price and Chart",
@@ -798,27 +1092,6 @@
     "readingTime": 3
   },
   {
-    "id": "cpi-home-u-s-bureau-of-labor-statistics",
-    "type": "news",
-    "title": "CPI Home : U.S. Bureau of Labor Statistics",
-    "slug": "cpi-home-u-s-bureau-of-labor-statistics",
-    "date": "2026-08-06",
-    "displayDate": "August 6, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Consumer Price Index (CPI) decreased 0.4% in June 2026 after a 0.5% rise in May. Energy prices increased significantly, while used cars and trucks saw a dec",
-    "excerpt": "The Consumer Price Index (CPI) decreased 0.4% in June 2026 after a 0.5% rise in May. Energy prices increased significantly, while used cars and trucks saw a decline. The overall CPI rose 3.5% over the past year.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "CPI Home : U.S. Bureau of Labor Statistics"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "earnings-calendar-zacks-investment-research",
     "type": "news",
     "title": "Earnings Calendar - Zacks Investment Research",
@@ -836,27 +1109,6 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "Earnings Calendar - Zacks Investment Research"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "earnings",
-    "type": "news",
-    "title": "Earnings",
-    "slug": "earnings",
-    "date": "2026-08-06",
-    "displayDate": "August 6, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Earnings are the net profits of a corporation after all expenses. They are crucial for financial analysis and tax purposes. Earnings reports are tracked on plat",
-    "excerpt": "Earnings are the net profits of a corporation after all expenses. They are crucial for financial analysis and tax purposes. Earnings reports are tracked on platforms like TradingView for market insights.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Earnings"
     },
     "readingTime": 3
   },
@@ -1113,27 +1365,6 @@
     "readingTime": 4
   },
   {
-    "id": "investment-strategies-for-today-and-long-term-blackrock",
-    "type": "news",
-    "title": "Investment strategies for today and long-term | BlackRock",
-    "slug": "investment-strategies-for-today-and-long-term-blackrock",
-    "date": "2026-08-06",
-    "displayDate": "August 6, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "BlackRock offers income-focused portfolios and systematic investing strategies for both short-term and long-term investment goals. Focus on diversified, tax-eff",
-    "excerpt": "BlackRock offers income-focused portfolios and systematic investing strategies for both short-term and long-term investment goals. Focus on diversified, tax-efficient, and low-carbon transition investments.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Investment strategies for today and long-term | BlackRock"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "latest-technology-news-and-reviews-yahoo-finance",
     "type": "news",
     "title": "Latest Technology News and Reviews - Yahoo Finance",
@@ -1214,48 +1445,6 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "Outlook-at-Risk: Real GDP Growth, Unemployment, and Inflation - FEDERAL RESERVE BANK of NEW YORK"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "sector-industry-performance",
-    "type": "news",
-    "title": "Sector & Industry Performance",
-    "slug": "sector-industry-performance",
-    "date": "2026-08-06",
-    "displayDate": "August 6, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The S&P 500 Consumer Staples and Information Technology sectors showed positive performance, while Energy and Utilities sectors declined. The S&P 500 itself had",
-    "excerpt": "The S&P 500 Consumer Staples and Information Technology sectors showed positive performance, while Energy and Utilities sectors declined. The S&P 500 itself had a slight decline.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Sector & Industry Performance"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "sector-research-news-and-performance-sector-industries",
-    "type": "news",
-    "title": "Sector Research, News and Performance | Sector Industries",
-    "slug": "sector-research-news-and-performance-sector-industries",
-    "date": "2026-08-06",
-    "displayDate": "August 6, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The S&P 500 Information Technology sector has a market cap of $32.08 trillion and a market weight of 36.60%. The Energy sector has a market cap of $3.56 trillio",
-    "excerpt": "The S&P 500 Information Technology sector has a market cap of $32.08 trillion and a market weight of 36.60%. The Energy sector has a market cap of $3.56 trillion and a market weight of 1.77%. The latest sector performance shows Utilities down 1.01%.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Sector Research, News and Performance | Sector Industries"
     },
     "readingTime": 4
   },
@@ -1382,48 +1571,6 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "The FOMC Conducts Monetary Policy: In Plain English"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "top-10-investment-strategies-for-2025-a-comprehensive-guide",
-    "type": "news",
-    "title": "Top 10 Investment Strategies for 2025: A Comprehensive Guide",
-    "slug": "top-10-investment-strategies-for-2025-a-comprehensive-guide",
-    "date": "2026-08-06",
-    "displayDate": "August 6, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "In 2025, focus on diversification, consider ETFs, and watch out for scams. Prioritize low-cost funds and understand investment expenses.",
-    "excerpt": "In 2025, focus on diversification, consider ETFs, and watch out for scams. Prioritize low-cost funds and understand investment expenses.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Top 10 Investment Strategies for 2025: A Comprehensive Guide"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "top-investment-strategies-key-approaches-to-maximize-returns",
-    "type": "news",
-    "title": "Top Investment Strategies: Key Approaches to Maximize Returns",
-    "slug": "top-investment-strategies-key-approaches-to-maximize-returns",
-    "date": "2026-08-06",
-    "displayDate": "August 6, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Top investment strategies include diversification, long-term investing, and dollar-cost averaging. Setting clear goals and staying invested help maximize return",
-    "excerpt": "Top investment strategies include diversification, long-term investing, and dollar-cost averaging. Setting clear goals and staying invested help maximize returns. Simple and complex strategies exist, from mutual funds to alternative assets.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Top Investment Strategies: Key Approaches to Maximize Returns"
     },
     "readingTime": 3
   },
@@ -1764,27 +1911,6 @@
     "readingTime": 3
   },
   {
-    "id": "economic-sector-performance-dashboards",
-    "type": "news",
-    "title": "Economic Sector Performance Dashboards",
-    "slug": "economic-sector-performance-dashboards",
-    "date": "2026-08-05",
-    "displayDate": "August 5, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Economic sectors show varied performance; technology leads with high returns, while utilities lag. Industrials and energy sectors have strong YTD returns. Secto",
-    "excerpt": "Economic sectors show varied performance; technology leads with high returns, while utilities lag. Industrials and energy sectors have strong YTD returns. Sector performance varies significantly by region and market conditions.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Economic Sector Performance Dashboards"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "economy-statement-for-the-treasury-borrowing-advisory-committee",
     "type": "news",
     "title": "Economy Statement for the Treasury Borrowing Advisory Committee",
@@ -1930,27 +2056,6 @@
       "alt": "Global Market Headlines | Breaking Stock Market News"
     },
     "readingTime": 4
-  },
-  {
-    "id": "gross-domestic-product-gdp-consumer-price-index-cpi-housing-starts-unemployment-",
-    "type": "news",
-    "title": "Gross Domestic Product | GDP | Consumer Price Index CPI Housing Starts Unemployment Rate US",
-    "slug": "gross-domestic-product-gdp-consumer-price-index-cpi-housing-starts-unemployment-",
-    "date": "2026-08-05",
-    "displayDate": "August 5, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "GDP is $31865.7, CPI is 332.6, unemployment rate is 4.2%. Housing starts and other rates are not provided.",
-    "excerpt": "GDP is $31865.7, CPI is 332.6, unemployment rate is 4.2%. Housing starts and other rates are not provided.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Gross Domestic Product | GDP | Consumer Price Index CPI Housing Starts Unemployment Rate US"
-    },
-    "readingTime": 3
   },
   {
     "id": "inflation-consumer-prices-for-the-united-states-fpcpitotlzgusa",
@@ -2793,27 +2898,6 @@
     "readingTime": 4
   },
   {
-    "id": "warsh-says-fed-won-t-hesitate-to-stop-inflation-but-bond-market-has-doubts",
-    "type": "news",
-    "title": "Warsh says Fed won't hesitate to stop inflation, but bond market has doubts",
-    "slug": "warsh-says-fed-won-t-hesitate-to-stop-inflation-but-bond-market-has-doubts",
-    "date": "2026-08-04",
-    "displayDate": "August 4, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Federal Reserve Chairman Kevin Warsh stated the Fed is committed to stopping inflation, but the bond market reacted skeptically, causing longer-term interest ra",
-    "excerpt": "Federal Reserve Chairman Kevin Warsh stated the Fed is committed to stopping inflation, but the bond market reacted skeptically, causing longer-term interest rates to rise. The market doubts the Fed's willingness to raise short-term rates.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Warsh says Fed won't hesitate to stop inflation, but bond market has doubts"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "5-key-investment-strategies-to-learn-before-trading",
     "type": "news",
     "title": "5 Key Investment Strategies To Learn Before Trading",
@@ -3087,27 +3171,6 @@
     "readingTime": 4
   },
   {
-    "id": "interactive-world-macromap-ft-com",
-    "type": "news",
-    "title": "Interactive World Macromap - FT.com",
-    "slug": "interactive-world-macromap-ft-com",
-    "date": "2026-08-03",
-    "displayDate": "August 3, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Interactive World Macromap on FT.com provides real-time market data and indices from various global stock exchanges. The S&P 500 and other major indices are",
-    "excerpt": "The Interactive World Macromap on FT.com provides real-time market data and indices from various global stock exchanges. The S&P 500 and other major indices are tracked for trends and performance. Troutwood offers an interactive stock market map for geographic insights.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Interactive World Macromap - FT.com"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "meta-title-sectors",
     "type": "news",
     "title": "META_TITLE_SECTORS",
@@ -3316,27 +3379,6 @@
       "alt": "Bitcoin Price Analysis Today: BTC Holds $74K as FOMC Meeting Sparks Crypto Market Volatility — March 18, 2026 - BitRss - Crypto World News"
     },
     "readingTime": 5
-  },
-  {
-    "id": "bitcoin-usd-price-quote-market-cap-forecast-news-btcusd",
-    "type": "news",
-    "title": "Bitcoin USD Price: Quote, Market Cap, Forecast & News (BTCUSD)",
-    "slug": "bitcoin-usd-price-quote-market-cap-forecast-news-btcusd",
-    "date": "2026-08-02",
-    "displayDate": "August 2, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Bitcoin's price is $64,282.04, market cap is $1.29 trillion, and it's up 0.52% today.",
-    "excerpt": "Bitcoin's price is $64,282.04, market cap is $1.29 trillion, and it's up 0.52% today.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Bitcoin USD Price: Quote, Market Cap, Forecast & News (BTCUSD)"
-    },
-    "readingTime": 3
   },
   {
     "id": "earnings-breaking-news-and-press-releases",
@@ -7682,27 +7724,6 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "Inflation (CPI)"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "outlook-at-risk-real-gdp-growth-unemployment-and-inflation",
-    "type": "news",
-    "title": "Outlook-at-Risk: Real GDP Growth, Unemployment, and Inflation",
-    "slug": "outlook-at-risk-real-gdp-growth-unemployment-and-inflation",
-    "date": "2026-07-01",
-    "displayDate": "July 1, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Outlook-at-Risk assesses risks to real GDP growth, unemployment, and inflation. The Federal Reserve Bank of New York's tool uses quantitative methods. The Phila",
-    "excerpt": "Outlook-at-Risk assesses risks to real GDP growth, unemployment, and inflation. The Federal Reserve Bank of New York's tool uses quantitative methods. The Philadelphia Fed's 2026 survey forecasts GDP growth, unemployment, and inflation rates.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Outlook-at-Risk: Real GDP Growth, Unemployment, and Inflation"
     },
     "readingTime": 3
   },
