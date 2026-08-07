@@ -3,8 +3,8 @@
   "type": "news",
   "title": "Inflation, consumer prices for the United States - FRED",
   "slug": "inflation-consumer-prices-for-the-united-states-fred",
-  "date": "2026-07-07",
-  "displayDate": "July 7, 2026",
+  "date": "2026-08-07",
+  "displayDate": "August 7, 2026",
   "author": "Sigma Capital",
   "category": "Economic Data",
   "tags": [
@@ -12,36 +12,36 @@
     "financial news",
     "market update"
   ],
-  "metaDescription": "Inflation, consumer prices for the United States is measured by the Consumer Price Index (CPI). The CPIAUCSL series tracks changes in the cost of a basket of go",
-  "excerpt": "Inflation, consumer prices for the United States is measured by the Consumer Price Index (CPI). The CPIAUCSL series tracks changes in the cost of a basket of goods and services for urban consumers. The latest data is available from the Federal Reserve Bank of St. Louis.",
+  "metaDescription": "U.S. inflation for consumer prices was 2.9% in 2024, and the latest CPIAUCSL index for June 2026 is 332.568. The most recent data is subject to revision.",
+  "excerpt": "U.S. inflation for consumer prices was 2.9% in 2024, and the latest CPIAUCSL index for June 2026 is 332.568. The most recent data is subject to revision.",
   "content": {
-    "introduction": "Inflation, consumer prices for the United States is measured by the Consumer Price Index (CPI). The CPIAUCSL series tracks changes in the cost of a basket of goods and services for urban consumers. The latest data is available from the Federal Reserve Bank of St. Louis.",
+    "introduction": "U.S. inflation for consumer prices was 2.9% in 2024, and the latest CPIAUCSL index for June 2026 is 332.568. The most recent data is subject to revision.",
     "body": [
-      "Home > Categories > International Data > Countries > United States. # Inflation, consumer prices for the United States (FPCPITOTLZGUSA). (a) Inflation, consumer prices for the United States, Percent, Not Seasonally Adjusted (FPCPITOTLZGUSA). You can begin by adding a series to combine with your existing series. Now create a custom formula to combine or transform the series. For example, invert an exchange rate by using formula 1/a, where “a” refers to the first FRED data series added to this line. Use the assigned data series variables (a, b, c, etc.) together with operators (+, -, \\*, /, ^, etc.), parentheses and constants (1, 1.5, 2, etc.) to create your own formula (e.g., 1/a, a-b, (a+b)/2, (a/(a+b+c))\\*100). Inflation as measured by the consumer price index reflects the annual percentage change in the cost to the average consumer of acquiring a basket of goods and services that may be fixed or changed at specified intervals, such as yearly. Inflation, consumer prices for the United States.",
-      "U.S. Bureau of Labor Statistics, Consumer Price Index for All Urban Consumers: All Items in U.S. City Average [CPIAUCSL], retrieved from FRED, Federal Reserve Bank of St. Louis; https://fred.stlouisfed.org/series/CPIAUCSL, July 6, 2026. [![Image 14](https://fred.stlouisfed.org/images/loading.svg)](https://fred.stlouisfed.org/series/FPCPITOTLZGUSA \"Inflation, consumer prices for the United States\"). [![Image 15](https://fred.stlouisfed.org/images/loading.svg)](https://fred.stlouisfed.org/series/CPILFESL \"Consumer Price Index for All Urban Consumers: All Items Less Food and Energy in U.S. City Average\"). [![Image 18](https://fred.stlouisfed.org/images/loading.svg)](https://fred.stlouisfed.org/series/CPALTT01USM657N \"Consumer Price Index: All Items: Total for United States\"). [![Image 19](https://fred.stlouisfed.org/images/loading.svg)](https://fred.stlouisfed.org/series/CORESTICKM159SFRBATL \"Sticky Price Consumer Price Index less Food and Energy\"). [![Image 21](https://fred.stlouisfed.org/images/loading.svg)](https://fredblog.stlouisfed.org/2025/11/long-term-price-trends/?utm_source=series_page&utm_medium=related_content&utm_term=related_resources&utm_campaign=fredblog \"Long-term price trends\"). [![Image 22](https://fred.stlouisfed.org/images/loading.svg)](https://fredblog.stlouisfed.org/2025/11/the-harmonized-consumer-price-index/?utm_source=series_page&utm_medium=related_content&utm_term=related_resources&utm_campaign=fredblog \"The harmonized consumer price index\"). [![Image 23](https://fred.stlouisfed.org/images/loading.svg)](https://fredblog.stlouisfed.org/2025/10/demystifying-the-producer-price-index/?utm_source=series_page&utm_medium=related_content&utm_term=related_resources&utm_campaign=fredblog \"Demystifying the producer price index\"). [![Image 24](https://fred.stlouisfed.org/images/loading.svg)](https://alfred.stlouisfed.org/series?seid=CPIAUCSL&utm_source=series_page&utm_medium=related_content&utm_term=related_resources&utm_campaign=alfred \"Consumer Price Index for All Urban Consumers: All Items in U.S. City Average\"). [**Consumer Price Index for All Urban Consumers: All Items in U.S. City Average**](https://alfred.stlouisfed.org/series?seid=CPIAUCSL&utm_source=series_page&utm_medium=related_content&utm_term=related_resources&utm_campaign=alfred \"Consumer Price Index for All Urban Consumers: All Items in U.S. City Average\"). [More Series from Consumer Price Index](https://fred.stlouisfed.org/release?rid=10).",
-      "# 16,008 Series. ## Filter 1. + Producer Price Index **(10,682)**. + Consumer Price Index **(4,901)**. + Metropolitan Statistical Area **(2,066)**. + Core-Based Statistical Area **(1,106)**. + United States of America **(15,367)**. + Bureau of Labor Statistics **(15,115)**. + Org. for Economic Co-operation and Development **(291)**. + Bureau of Economic Analysis **(92)**. + Federal Open Market Committee **(21)**. + National Income and Product Accounts **(92)**. + Harmonized Index of Consumer Prices **(89)**. + H.4.1 Factors Affecting Reserve Balances **(4)**. + U.S. Import & Export Price Indexes **(1)**. + Not Seasonally Adjusted **(14,410)**. + Public Domain: Citation Requested **(15,517)**. + Copyrighted: Pre-Approval Required **(23)**. ### Subscribe to the FRED newsletter. ### Follow us. Saint Louis Fed linkedin page. Saint Louis Fed facebook page. Saint Louis Fed X page. Saint Louis Fed YouTube page. ### Need Help?"
+      "### FRASER\n\nU.S. financial, economic, and banking history\n\n### ALFRED\n\nVintages of economic data from specific dates in history\n\n### CASSIDI\n\nView banking market concentrations and perform HHI analysis\n\n# Inflation, consumer prices for the United States (FPCPITOTLZGUSA)\n\nObservations\n\n2024: 2.94953 |\nPercent, Not Seasonally Adjusted |\nAnnual\n\nUpdated:\nApr 16, 2025\n1:53 PM CDT\n\nNext Release Date:\nNot Available\n\nObservations [...] Observations\n\n|  |  |  |\n --- \n| 2024: | 2.94953 |  |\n| 2023: | 4.11634 |  |\n| 2022: | 8.00280 |  |\n| 2021: | 4.69786 |  |\n| 2020: | 1.23358 |  |\n| View All | |\n\nUnits:\n\nFrequency:\n\nData in this graph are copyrighted. Please review the copyright information in the series notes before sharing.\n\n## Notes\n\nSource:\nWorld Bank\n\nRelease:\nWorld Development Indicators\n\nUnits: \nPercent, Not Seasonally Adjusted\n\nFrequency: \n\nAnnual\n\n#### Notes: [...] World Bank,\nInflation, consumer prices for the United States [FPCPITOTLZGUSA],\nretrieved from FRED,\nFederal Reserve Bank of St. Louis;\n\n.\n\n## Release Tables\n\n## Related Data and Content\n\n### Data Suggestions Based On Your Search\n\n### Content Suggestions\n\n### Related Categories\n\n### Releases\n\n### Tags\n\n##### Permalink/Embed\n\nmodal open, choose link customization options\n\nSelect automatic updates to the data or a static time frame. All data are subject to revision.",
+      "Observations\n\n|  |  |  |\n --- \n| Jun 2026: | 332.568 |  |\n| May 2026: | 333.979 |  |\n| Apr 2026: | 332.407 |  |\n| Mar 2026: | 330.293 |  |\n| Feb 2026: | 327.460 |  |\n| View All | |\n\nUnits:\n\nFrequency:\n\nData in this graph are copyrighted. Please review the copyright information in the series notes before sharing.\n\n## Notes\n\nSource:\nU.S. Bureau of Labor Statistics\n\nRelease:\nConsumer Price Index\n\nUnits: \nIndex 1982-1984=100, Seasonally Adjusted\n\nFrequency: \n\nMonthly\n\n#### Notes: [...] The Consumer Price Index for All Urban Consumers: All Items (CPIAUCSL) is a price index of a basket of goods and services paid by urban consumers. Percent changes in the price index measure the inflation rate between any two time periods. The most common inflation metric is the percent change from one year ago. It can also represent the buying habits of urban consumers. This particular index includes roughly 88 percent of the total population, accounting for wage earners, clerical workers, [...] The Consumer Price Index for All Urban Consumers: All Items (CPIAUCSL) is a price index of a basket of goods and services paid by urban consumers. Percent changes in the price index measure the inflation rate between any two time periods. The most common inflation metric is the percent change from one year ago. It can also represent the buying habits of urban consumers. This particular index includes roughly 88 percent of the total population, accounting for wage earners, clerical workers,",
+      "Observations\n\n|  |  |  |\n --- \n| Jun 2026: | 2.80686 |  |\n| May 2026: | 3.09126 |  |\n| Apr 2026: | 3.03893 |  |\n| Mar 2026: | 2.92932 |  |\n| Feb 2026: | 2.90391 |  |\n| View All | |\n\nUnits:\n\nFrequency:\n\nData in this graph are copyrighted. Please review the copyright information in the series notes before sharing.\n\n## Notes\n\nSource:\nFederal Reserve Bank of Atlanta\n\nRelease:\nSticky Price CPI\n\nUnits: \nPercent Change from Year Ago, Seasonally Adjusted\n\nFrequency: \n\nMonthly\n\n#### Notes: [...] The Sticky Price Consumer Price Index (CPI) is calculated from a subset of goods and services included in the CPI that change price relatively infrequently. Because these goods and services change price relatively infrequently, they are thought to incorporate expectations about future inflation to a greater degree than prices that change on a more frequent basis. One possible explanation for sticky prices could be the costs firms incur when changing price. [...] The Sticky Price Consumer Price Index (CPI) is calculated from a subset of goods and services included in the CPI that change price relatively infrequently. Because these goods and services change price relatively infrequently, they are thought to incorporate expectations about future inflation to a greater degree than prices that change on a more frequent basis. One possible explanation for sticky prices could be the costs firms incur when changing price."
     ],
     "keyTakeaways": [
-      "Inflation, consumer prices for the United States is measured by the Consumer Price Index (CPI). The CPIAUCSL series trac",
-      "Home > Categories > International Data > Countries > United States. # Inflation, consumer prices for the United States (",
-      "U.S"
+      "U.S",
+      "### FRASER\n\nU.S",
+      "Observations\n\n|  |  |  |\n --- \n| Jun 2026: | 332.568 |  |\n| May 2026: | 333"
     ],
     "source": "fred.stlouisfed.org",
     "sourceUrl": "https://fred.stlouisfed.org/series/FPCPITOTLZGUSA"
   },
-  "readingTime": 3,
-  "updatedAt": "2026-07-07T19:58:21.797Z",
+  "readingTime": 4,
+  "updatedAt": "2026-08-07T00:03:57.218Z",
   "images": {
     "thumbnail": {
-      "src": "/images/article_thumb_6.jpg",
+      "src": "/images/article_thumb_5.jpg",
       "alt": "Inflation, consumer prices for the United States - FRED"
     },
     "hero": {
-      "src": "/images/article_thumb_6.jpg",
+      "src": "/images/article_thumb_1.jpg",
       "alt": "Inflation, consumer prices for the United States - FRED"
     },
     "mid": {
-      "src": "/images/article_thumb_2.jpg",
+      "src": "/images/article_thumb_4.jpg",
       "alt": "Inflation, consumer prices for the United States - FRED"
     }
   },

@@ -3,8 +3,8 @@
   "type": "news",
   "title": "Economic Indicators Calendar | New York Fed",
   "slug": "economic-indicators-calendar-new-york-fed",
-  "date": "2026-08-06",
-  "displayDate": "August 6, 2026",
+  "date": "2026-08-07",
+  "displayDate": "August 7, 2026",
   "author": "Sigma Capital",
   "category": "Economic Indicators",
   "tags": [
@@ -30,23 +30,23 @@
     "sourceUrl": "https://www.newyorkfed.org/research/calendars/nationalecon_cal"
   },
   "readingTime": 4,
-  "updatedAt": "2026-08-06T08:26:47.704Z",
+  "updatedAt": "2026-08-07T00:03:57.218Z",
   "images": {
     "thumbnail": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "Economic Indicators Calendar | New York Fed"
     },
     "hero": {
-      "src": "/images/article_thumb_1.jpg",
+      "src": "/images/article_thumb_2.jpg",
       "alt": "Economic Indicators Calendar | New York Fed"
     },
     "mid": {
-      "src": "/images/article_thumb_6.jpg",
+      "src": "/images/article_thumb_4.jpg",
       "alt": "Economic Indicators Calendar | New York Fed"
     }
   },
   "image": {
-    "src": "/images/article_thumb_1.jpg",
+    "src": "/images/article_thumb_4.jpg",
     "alt": "Economic Indicators Calendar | New York Fed"
   }
 }

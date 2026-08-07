@@ -1,5 +1,635 @@
 [
   {
+    "id": "12-month-percentage-change-consumer-price-index-selected",
+    "type": "news",
+    "title": "12-month percentage change, Consumer Price Index, selected ...",
+    "slug": "12-month-percentage-change-consumer-price-index-selected",
+    "date": "2026-08-07",
+    "displayDate": "August 7, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The 12-month percentage change in the Consumer Price Index for June 2026 was 3.5%. Energy had the highest change at 15.7%. The lowest change was in fruits and v",
+    "excerpt": "The 12-month percentage change in the Consumer Price Index for June 2026 was 3.5%. Energy had the highest change at 15.7%. The lowest change was in fruits and vegetables at 5.3%.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "12-month percentage change, Consumer Price Index, selected ..."
+    },
+    "readingTime": 5
+  },
+  {
+    "id": "company-earnings-calendar-yahoo-finance",
+    "type": "news",
+    "title": "Company Earnings Calendar - Yahoo Finance",
+    "slug": "company-earnings-calendar-yahoo-finance",
+    "date": "2026-08-07",
+    "displayDate": "August 7, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "On August 6, 2026, 323 earnings announcements are scheduled. The earnings calendar lists upcoming financial reports for various companies. Use Yahoo Finance for",
+    "excerpt": "On August 6, 2026, 323 earnings announcements are scheduled. The earnings calendar lists upcoming financial reports for various companies. Use Yahoo Finance for detailed earnings data.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Company Earnings Calendar - Yahoo Finance"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "crypto-news-bitcoin-ethereum-xrp-news-crypto-news",
+    "type": "news",
+    "title": "Crypto News: Bitcoin, Ethereum & XRP News | crypto.news",
+    "slug": "crypto-news-bitcoin-ethereum-xrp-news-crypto-news",
+    "date": "2026-08-07",
+    "displayDate": "August 7, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin is priced at $64,758.41, Ethereum at $1,909.60, and XRP at $1.05. Recent news includes BlackRock's Bitcoin ETF selloff and Ripple's equity stakes in Zil",
+    "excerpt": "Bitcoin is priced at $64,758.41, Ethereum at $1,909.60, and XRP at $1.05. Recent news includes BlackRock's Bitcoin ETF selloff and Ripple's equity stakes in Zilo and Licuido.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Crypto News: Bitcoin, Ethereum & XRP News | crypto.news"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "earnings-calendar-and-analysis-for-this-week-august-3-7",
+    "type": "news",
+    "title": "Earnings Calendar and Analysis for This Week (August 3-7)",
+    "slug": "earnings-calendar-and-analysis-for-this-week-august-3-7",
+    "date": "2026-08-07",
+    "displayDate": "August 7, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "This week's earnings calendar features major companies reporting from August 3 to 7, including Berkshire Hathaway, Disney, and Uber. On August 6, 323 companies ",
+    "excerpt": "This week's earnings calendar features major companies reporting from August 3 to 7, including Berkshire Hathaway, Disney, and Uber. On August 6, 323 companies are scheduled to report earnings. The most significant reports are from technology, healthcare, and consumer sectors.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Earnings Calendar and Analysis for This Week (August 3-7)"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "earnings-calendar",
+    "type": "news",
+    "title": "Earnings Calendar",
+    "slug": "earnings-calendar",
+    "date": "2026-08-07",
+    "displayDate": "August 7, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "An earnings calendar lists when companies report their financial results. It helps investors track upcoming earnings reports and compare expectations with actua",
+    "excerpt": "An earnings calendar lists when companies report their financial results. It helps investors track upcoming earnings reports and compare expectations with actual results. It's a key tool for planning trades and identifying market trends.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Earnings Calendar"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "economic-calendar",
+    "type": "news",
+    "title": "Economic Calendar",
+    "slug": "economic-calendar",
+    "date": "2026-08-07",
+    "displayDate": "August 7, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "An economic calendar lists real-time economic events and data releases that impact financial markets. High-impact events often have three stars. It includes ind",
+    "excerpt": "An economic calendar lists real-time economic events and data releases that impact financial markets. High-impact events often have three stars. It includes indicators like GDP and interest rates.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Economic Calendar"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "economic-indicators-calendar-new-york-fed",
+    "type": "news",
+    "title": "Economic Indicators Calendar | New York Fed",
+    "slug": "economic-indicators-calendar-new-york-fed",
+    "date": "2026-08-07",
+    "displayDate": "August 7, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The New York Fed's Economic Indicators Calendar lists key economic data release dates and times (Eastern Time). It includes major reports like employment data a",
+    "excerpt": "The New York Fed's Economic Indicators Calendar lists key economic data release dates and times (Eastern Time). It includes major reports like employment data and inflation indices. The calendar is updated regularly.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Economic Indicators Calendar | New York Fed"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "ethereum-eth-price-usd-today-news-charts-market-cap",
+    "type": "news",
+    "title": "Ethereum (ETH) Price USD Today, News, Charts, Market Cap",
+    "slug": "ethereum-eth-price-usd-today-news-charts-market-cap",
+    "date": "2026-08-07",
+    "displayDate": "August 7, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Ethereum (ETH) price is $1,867.82 USD today, with a market cap of $225.4 billion USD. It has a circulating supply of 120.7 million ETH.",
+    "excerpt": "Ethereum (ETH) price is $1,867.82 USD today, with a market cap of $225.4 billion USD. It has a circulating supply of 120.7 million ETH.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Ethereum (ETH) Price USD Today, News, Charts, Market Cap"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "fed-meeting-recap-july-2026",
+    "type": "news",
+    "title": "Fed meeting recap: July 2026",
+    "slug": "fed-meeting-recap-july-2026",
+    "date": "2026-08-07",
+    "displayDate": "August 7, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Reserve held rates steady in July 2026, maintaining the policy rate at 3.50-3.75%. Three FOMC members wanted a rate hike. Chairman Kevin Warsh empha",
+    "excerpt": "The Federal Reserve held rates steady in July 2026, maintaining the policy rate at 3.50-3.75%. Three FOMC members wanted a rate hike. Chairman Kevin Warsh emphasized the Fed's commitment to price stability.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Fed meeting recap: July 2026"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "federal-reserve-holds-rates-at-3-50-3-75-in-july-2026",
+    "type": "news",
+    "title": "Federal Reserve Holds Rates at 3.50%-3.75% in July 2026",
+    "slug": "federal-reserve-holds-rates-at-3-50-3-75-in-july-2026",
+    "date": "2026-08-07",
+    "displayDate": "August 7, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Reserve held its interest rate at 3.50%-3.75% in July 2026, with three members dissenting for a hike. Investors expected the hold, but anticipate on",
+    "excerpt": "The Federal Reserve held its interest rate at 3.50%-3.75% in July 2026, with three members dissenting for a hike. Investors expected the hold, but anticipate one to two hikes by year-end. The decision maintained economic expansion amid inflation concerns.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Federal Reserve Holds Rates at 3.50%-3.75% in July 2026"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "global-market-indices-international-markets-markets-insider",
+    "type": "news",
+    "title": "Global Market Indices | International Markets - Markets Insider",
+    "slug": "global-market-indices-international-markets-markets-insider",
+    "date": "2026-08-07",
+    "displayDate": "August 7, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The FTSE 100 is up 0.08%, the NIKKEI 225 is down 1.06%, and the NASDAQ 100 is down 0.83%.",
+    "excerpt": "The FTSE 100 is up 0.08%, the NIKKEI 225 is down 1.06%, and the NASDAQ 100 is down 0.83%.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Global Market Indices | International Markets - Markets Insider"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "global-stock-market-news-and-world-indices-coverage",
+    "type": "news",
+    "title": "Global Stock Market News and World Indices Coverage",
+    "slug": "global-stock-market-news-and-world-indices-coverage",
+    "date": "2026-08-07",
+    "displayDate": "August 7, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "European markets closed higher on August 6, 2026, as traders hoped for resumed peace talks. The DAX index rose by 0.05%. The FTSE 100 and CAC 40 also saw gains.",
+    "excerpt": "European markets closed higher on August 6, 2026, as traders hoped for resumed peace talks. The DAX index rose by 0.05%. The FTSE 100 and CAC 40 also saw gains.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Global Stock Market News and World Indices Coverage"
+    },
+    "readingTime": 5
+  },
+  {
+    "id": "how-should-i-allocate-my-portfolio-in-2026",
+    "type": "news",
+    "title": "How Should I Allocate My Portfolio in 2026?",
+    "slug": "how-should-i-allocate-my-portfolio-in-2026",
+    "date": "2026-08-07",
+    "displayDate": "August 7, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "In 2026, prioritize bonds for stability, moderate stocks for growth, and diversify globally. Annual reviews and adjustments based on life changes are essential.",
+    "excerpt": "In 2026, prioritize bonds for stability, moderate stocks for growth, and diversify globally. Annual reviews and adjustments based on life changes are essential. Focus on risk management over market prediction.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "How Should I Allocate My Portfolio in 2026?"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "inflation-consumer-prices-for-the-united-states-fred",
+    "type": "news",
+    "title": "Inflation, consumer prices for the United States - FRED",
+    "slug": "inflation-consumer-prices-for-the-united-states-fred",
+    "date": "2026-08-07",
+    "displayDate": "August 7, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "U.S. inflation for consumer prices was 2.9% in 2024, and the latest CPIAUCSL index for June 2026 is 332.568. The most recent data is subject to revision.",
+    "excerpt": "U.S. inflation for consumer prices was 2.9% in 2024, and the latest CPIAUCSL index for June 2026 is 332.568. The most recent data is subject to revision.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Inflation, consumer prices for the United States - FRED"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "international-stocks-how-and-why-to-invest-charles-schwab",
+    "type": "news",
+    "title": "International Stocks: How and Why to Invest | Charles Schwab",
+    "slug": "international-stocks-how-and-why-to-invest-charles-schwab",
+    "date": "2026-08-07",
+    "displayDate": "August 7, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Investing in international stocks diversifies your portfolio and can improve returns; Schwab offers accounts for trading in multiple global markets.",
+    "excerpt": "Investing in international stocks diversifies your portfolio and can improve returns; Schwab offers accounts for trading in multiple global markets.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "International Stocks: How and Why to Invest | Charles Schwab"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "investment-outlook-and-portfolio-strategies-for-2026",
+    "type": "news",
+    "title": "Investment Outlook and Portfolio Strategies for 2026",
+    "slug": "investment-outlook-and-portfolio-strategies-for-2026",
+    "date": "2026-08-07",
+    "displayDate": "August 7, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "For 2026, focus on small caps, emerging markets, and AI-driven sectors; consider fixed income for stability and diversify globally.",
+    "excerpt": "For 2026, focus on small caps, emerging markets, and AI-driven sectors; consider fixed income for stability and diversify globally.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Investment Outlook and Portfolio Strategies for 2026"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "investment-strategy-2026-portfolio-moves-for-a-changing-market",
+    "type": "news",
+    "title": "Investment Strategy 2026 Portfolio Moves for a Changing Market",
+    "slug": "investment-strategy-2026-portfolio-moves-for-a-changing-market",
+    "date": "2026-08-07",
+    "displayDate": "August 7, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "In 2026, focus on rebalancing portfolios, increasing exposure to small caps, and diversifying with alternative investments. Fixed income remains crucial for sta",
+    "excerpt": "In 2026, focus on rebalancing portfolios, increasing exposure to small caps, and diversifying with alternative investments. Fixed income remains crucial for stability. Income generation is key due to lower interest rates.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Investment Strategy 2026 Portfolio Moves for a Changing Market"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "latest-technology-news-and-reviews",
+    "type": "news",
+    "title": "Latest Technology News and Reviews",
+    "slug": "latest-technology-news-and-reviews",
+    "date": "2026-08-07",
+    "displayDate": "August 7, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bose updated its QuietComfort headphones with USB-C and better noise cancellation. Adobe introduced a new plugin for ChatGPT. Google Maps now allows ordering fo",
+    "excerpt": "Bose updated its QuietComfort headphones with USB-C and better noise cancellation. Adobe introduced a new plugin for ChatGPT. Google Maps now allows ordering food and reserving hotels.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Latest Technology News and Reviews"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "s-p-500-index-sp500-analysis-news-and-chart-today",
+    "type": "news",
+    "title": "S&P 500 Index (SP500) Analysis, News, And Chart Today",
+    "slug": "s-p-500-index-sp500-analysis-news-and-chart-today",
+    "date": "2026-08-07",
+    "displayDate": "August 7, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The S&P 500 Index (SP500) is currently at 3,900.35, up 0.57% today. The index includes 500 of the largest companies listed on U.S. stock exchanges. For the late",
+    "excerpt": "The S&P 500 Index (SP500) is currently at 3,900.35, up 0.57% today. The index includes 500 of the largest companies listed on U.S. stock exchanges. For the latest detailed analysis, visit financial news websites.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "S&P 500 Index (SP500) Analysis, News, And Chart Today"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "s-p-500-index-today-inx-live-ticker-markets-insider",
+    "type": "news",
+    "title": "S&P 500 INDEX TODAY | INX LIVE TICKER - Markets Insider",
+    "slug": "s-p-500-index-today-inx-live-ticker-markets-insider",
+    "date": "2026-08-07",
+    "displayDate": "August 7, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The S&P 500 index is currently up 0.15% at 7,761.50 as of today's trading. The latest change reflects a minor increase from the previous close. This data is bas",
+    "excerpt": "The S&P 500 index is currently up 0.15% at 7,761.50 as of today's trading. The latest change reflects a minor increase from the previous close. This data is based on the latest available market information.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "S&P 500 INDEX TODAY | INX LIVE TICKER - Markets Insider"
+    },
+    "readingTime": 5
+  },
+  {
+    "id": "s-p-500-sp500-technical-analysis-medium-term",
+    "type": "news",
+    "title": "S&P 500 (SP500) - Technical Analysis - Medium term",
+    "slug": "s-p-500-sp500-technical-analysis-medium-term",
+    "date": "2026-08-07",
+    "displayDate": "August 7, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The S&P 500 shows a strong upward trend and is technically positive for the medium term. The index has broken resistance levels and is expected to rise further.",
+    "excerpt": "The S&P 500 shows a strong upward trend and is technically positive for the medium term. The index has broken resistance levels and is expected to rise further. The recommendation for one to six months is positive.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "S&P 500 (SP500) - Technical Analysis - Medium term"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "svmh-stock-shows-strong-performance-in-healthcare-sector-cryptsy",
+    "type": "news",
+    "title": "SVMH Stock Shows Strong Performance In Healthcare Sector | Cryptsy",
+    "slug": "svmh-stock-shows-strong-performance-in-healthcare-sector-cryptsy",
+    "date": "2026-08-07",
+    "displayDate": "August 7, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "SVMH stock, associated with SRIVARU Holding Limited, shows strong performance with a market cap of $1.65M and an average daily trading volume of 24.2K shares. I",
+    "excerpt": "SVMH stock, associated with SRIVARU Holding Limited, shows strong performance with a market cap of $1.65M and an average daily trading volume of 24.2K shares. It has seen significant price fluctuations, ranging from $0.00 to $0.09 over the past year.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "SVMH Stock Shows Strong Performance In Healthcare Sector | Cryptsy"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "tech-news-today-s-latest-technology-news",
+    "type": "news",
+    "title": "Tech News | Today's Latest Technology News",
+    "slug": "tech-news-today-s-latest-technology-news",
+    "date": "2026-08-07",
+    "displayDate": "August 7, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Demis Hassabis moves to Alphabet's chief scientist role, Amazon faces a lawsuit over sustainability claims, and SpaceX's revenue surged but shares dropped.",
+    "excerpt": "Demis Hassabis moves to Alphabet's chief scientist role, Amazon faces a lawsuit over sustainability claims, and SpaceX's revenue surged but shares dropped.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Tech News | Today's Latest Technology News"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "technology-news",
+    "type": "news",
+    "title": "Technology News",
+    "slug": "technology-news",
+    "date": "2026-08-07",
+    "displayDate": "August 7, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Amazon faces a lawsuit over seafood sustainability claims, while Google's AI team sees leadership changes. Additionally, Tesla and SpaceX plan a $16.8B chip fac",
+    "excerpt": "Amazon faces a lawsuit over seafood sustainability claims, while Google's AI team sees leadership changes. Additionally, Tesla and SpaceX plan a $16.8B chip factory in Texas.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Technology News"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "technology-sector-advances-while-healthcare-stalls-investinglive",
+    "type": "news",
+    "title": "Technology sector advances while healthcare stalls | investingLive",
+    "slug": "technology-sector-advances-while-healthcare-stalls-investinglive",
+    "date": "2026-08-07",
+    "displayDate": "August 7, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The technology sector is advancing, with notable gains in stocks like Microsoft and Nvidia, while the healthcare sector is experiencing stagnation. Investors ar",
+    "excerpt": "The technology sector is advancing, with notable gains in stocks like Microsoft and Nvidia, while the healthcare sector is experiencing stagnation. Investors are advised to consider tech stocks for growth and remain cautious in healthcare due to regulatory challenges.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Technology sector advances while healthcare stalls | investingLive"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "technology-sector-experiences-mixed-stock-performance-following-policy-announcem",
+    "type": "news",
+    "title": "Technology Sector Experiences Mixed Stock Performance Following Policy Announcements – GoInvest",
+    "slug": "technology-sector-experiences-mixed-stock-performance-following-policy-announcem",
+    "date": "2026-08-07",
+    "displayDate": "August 7, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Technology sector stocks showed mixed performance following mixed earnings reports from major tech firms and investor concerns over AI valuation. Apple's lowere",
+    "excerpt": "Technology sector stocks showed mixed performance following mixed earnings reports from major tech firms and investor concerns over AI valuation. Apple's lowered forecast and memory expense issues impacted its stock. Market rotation and anticipation of Fed policy influenced broader market trends.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Technology Sector Experiences Mixed Stock Performance Following Policy Announcements – GoInvest"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "the-block-bitcoin-ethereum-crypto-news-live-prices",
+    "type": "news",
+    "title": "The Block: Bitcoin, Ethereum & Crypto News | Live Prices ...",
+    "slug": "the-block-bitcoin-ethereum-crypto-news-live-prices",
+    "date": "2026-08-07",
+    "displayDate": "August 7, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Putin signed a crypto law in Russia, and Coinbase launched 24/5 US stock trading for UK users. Bitcoin's price is $64,753.71.",
+    "excerpt": "Putin signed a crypto law in Russia, and Coinbase launched 24/5 US stock trading for UK users. Bitcoin's price is $64,753.71.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "The Block: Bitcoin, Ethereum & Crypto News | Live Prices ..."
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "u-s-economic-calendar",
+    "type": "news",
+    "title": "U.S. Economic Calendar",
+    "slug": "u-s-economic-calendar",
+    "date": "2026-08-07",
+    "displayDate": "August 7, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "On August 7, 2026, the U.S. economic calendar includes the release of the S&P Global Composite PMI Flash for August. Upcoming events include the S&P Global Manu",
+    "excerpt": "On August 7, 2026, the U.S. economic calendar includes the release of the S&P Global Composite PMI Flash for August. Upcoming events include the S&P Global Manufacturing PMI Flash and Treasury Refunding Announcement. The S&P Global Composite PMI Final for July is also scheduled.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "U.S. Economic Calendar"
+    },
+    "readingTime": 6
+  },
+  {
+    "id": "united-states-inflation-rate",
+    "type": "news",
+    "title": "United States Inflation Rate",
+    "slug": "united-states-inflation-rate",
+    "date": "2026-08-07",
+    "displayDate": "August 7, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The U.S. inflation rate was 3.5% in June 2026, down from 4.2% in May. This marks the first decline in five months. The Federal Reserve targets 2% annual inflati",
+    "excerpt": "The U.S. inflation rate was 3.5% in June 2026, down from 4.2% in May. This marks the first decline in five months. The Federal Reserve targets 2% annual inflation.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "United States Inflation Rate"
+    },
+    "readingTime": 5
+  },
+  {
+    "id": "when-is-the-next-fed-interest-rate-decision",
+    "type": "news",
+    "title": "When is the next Fed interest rate decision?",
+    "slug": "when-is-the-next-fed-interest-rate-decision",
+    "date": "2026-08-07",
+    "displayDate": "August 7, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The next Fed interest rate decision is scheduled for April 29, 2026. The announcement will occur at 2:00 PM Eastern Time. Fed Chair Jerome Powell will discuss t",
+    "excerpt": "The next Fed interest rate decision is scheduled for April 29, 2026. The announcement will occur at 2:00 PM Eastern Time. Fed Chair Jerome Powell will discuss the decision in a press conference at 6:30 PM GMT.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "When is the next Fed interest rate decision?"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "12-month-percentage-change-consumer-price-index-selected-categories",
     "type": "news",
     "title": "12-month percentage change, Consumer Price Index, selected categories",
@@ -168,27 +798,6 @@
     "readingTime": 3
   },
   {
-    "id": "company-earnings-calendar-yahoo-finance",
-    "type": "news",
-    "title": "Company Earnings Calendar - Yahoo Finance",
-    "slug": "company-earnings-calendar-yahoo-finance",
-    "date": "2026-08-06",
-    "displayDate": "August 6, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "On August 6, 2026, no earnings announcements are scheduled. Earnings reports are crucial for assessing a company's financial health. Use financial calendars to ",
-    "excerpt": "On August 6, 2026, no earnings announcements are scheduled. Earnings reports are crucial for assessing a company's financial health. Use financial calendars to track upcoming earnings.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Company Earnings Calendar - Yahoo Finance"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "cpi-home-u-s-bureau-of-labor-statistics",
     "type": "news",
     "title": "CPI Home : U.S. Bureau of Labor Statistics",
@@ -206,48 +815,6 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "CPI Home : U.S. Bureau of Labor Statistics"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "crypto-news-bitcoin-ethereum-xrp-news-crypto-news",
-    "type": "news",
-    "title": "Crypto News: Bitcoin, Ethereum & XRP News | crypto.news",
-    "slug": "crypto-news-bitcoin-ethereum-xrp-news-crypto-news",
-    "date": "2026-08-06",
-    "displayDate": "August 6, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Bitcoin is priced at $64,070. Ethereum is at $1,866.74. XRP is at $1.06.",
-    "excerpt": "Bitcoin is priced at $64,070. Ethereum is at $1,866.74. XRP is at $1.06.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Crypto News: Bitcoin, Ethereum & XRP News | crypto.news"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "earnings-calendar-and-analysis-for-this-week-august-3-7",
-    "type": "news",
-    "title": "Earnings Calendar and Analysis for This Week (August 3-7)",
-    "slug": "earnings-calendar-and-analysis-for-this-week-august-3-7",
-    "date": "2026-08-06",
-    "displayDate": "August 6, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "This week's earnings calendar features major companies reporting from August 3-7, including Berkshire Hathaway, Disney, and Airbnb. Key dates include August 4 w",
-    "excerpt": "This week's earnings calendar features major companies reporting from August 3-7, including Berkshire Hathaway, Disney, and Airbnb. Key dates include August 4 with Pfizer and AMD, and August 5 with Disney and Uber. August 6 sees significant reports from Airbnb and Warner Bros. Discovery.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Earnings Calendar and Analysis for This Week (August 3-7)"
     },
     "readingTime": 3
   },
@@ -273,27 +840,6 @@
     "readingTime": 3
   },
   {
-    "id": "earnings-calendar",
-    "type": "news",
-    "title": "Earnings Calendar",
-    "slug": "earnings-calendar",
-    "date": "2026-08-06",
-    "displayDate": "August 6, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "An earnings calendar lists when companies report their financial results. It helps investors plan trades and compare expectations to actual results. Today, Augu",
-    "excerpt": "An earnings calendar lists when companies report their financial results. It helps investors plan trades and compare expectations to actual results. Today, August 6, 2026, Berkshire Hathaway A reports earnings.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Earnings Calendar"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "earnings",
     "type": "news",
     "title": "Earnings",
@@ -313,48 +859,6 @@
       "alt": "Earnings"
     },
     "readingTime": 3
-  },
-  {
-    "id": "economic-calendar",
-    "type": "news",
-    "title": "Economic Calendar",
-    "slug": "economic-calendar",
-    "date": "2026-08-06",
-    "displayDate": "August 6, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "An economic calendar lists upcoming financial events and data releases that can impact markets. High-impact events often have three stars. Customize and filter ",
-    "excerpt": "An economic calendar lists upcoming financial events and data releases that can impact markets. High-impact events often have three stars. Customize and filter by importance.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Economic Calendar"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "economic-indicators-calendar-new-york-fed",
-    "type": "news",
-    "title": "Economic Indicators Calendar | New York Fed",
-    "slug": "economic-indicators-calendar-new-york-fed",
-    "date": "2026-08-06",
-    "displayDate": "August 6, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The New York Fed's Economic Indicators Calendar lists key economic data release dates and times (Eastern Time). It includes major reports like employment data a",
-    "excerpt": "The New York Fed's Economic Indicators Calendar lists key economic data release dates and times (Eastern Time). It includes major reports like employment data and inflation indices. The calendar is updated regularly.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Economic Indicators Calendar | New York Fed"
-    },
-    "readingTime": 4
   },
   {
     "id": "economic-indicators-dashboard-latest-gdp-cpi-unemployment-data-tipranks-com",
@@ -397,48 +901,6 @@
       "alt": "Economic Indicators: Understanding GDP, Inflation, and Unemployment with Methodology and Insights | UPSC Geeks Blog"
     },
     "readingTime": 3
-  },
-  {
-    "id": "ethereum-eth-price-usd-today-news-charts-market-cap",
-    "type": "news",
-    "title": "Ethereum (ETH) Price USD Today, News, Charts, Market Cap",
-    "slug": "ethereum-eth-price-usd-today-news-charts-market-cap",
-    "date": "2026-08-06",
-    "displayDate": "August 6, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Ethereum (ETH) price is $1,869.99 USD today, with a market cap of $225.7 billion. It has a circulating supply of 120.7 million ETH. Ethereum is up 0.35% in the ",
-    "excerpt": "Ethereum (ETH) price is $1,869.99 USD today, with a market cap of $225.7 billion. It has a circulating supply of 120.7 million ETH. Ethereum is up 0.35% in the last 24 hours.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Ethereum (ETH) Price USD Today, News, Charts, Market Cap"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "fed-meeting-recap-july-2026",
-    "type": "news",
-    "title": "Fed meeting recap: July 2026",
-    "slug": "fed-meeting-recap-july-2026",
-    "date": "2026-08-06",
-    "displayDate": "August 6, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Reserve left interest rates unchanged in July 2026, maintaining the federal funds rate at 3.50-3.75%, while signaling ongoing vigilance on inflation",
-    "excerpt": "The Federal Reserve left interest rates unchanged in July 2026, maintaining the federal funds rate at 3.50-3.75%, while signaling ongoing vigilance on inflation. Three officials dissented, advocating for a rate hike. The Fed emphasized a solid economic expansion but acknowledged inflation remains ab",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Fed meeting recap: July 2026"
-    },
-    "readingTime": 4
   },
   {
     "id": "federal-open-market-committee-wikipedia",
@@ -523,48 +985,6 @@
       "alt": "GeekWire – Breaking News in Technology & Business"
     },
     "readingTime": 3
-  },
-  {
-    "id": "global-market-indices-international-markets-markets-insider",
-    "type": "news",
-    "title": "Global Market Indices | International Markets - Markets Insider",
-    "slug": "global-market-indices-international-markets-markets-insider",
-    "date": "2026-08-06",
-    "displayDate": "August 6, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The NIKKEI 225 closed at 66,300.44, up 2,342.91 points (3.66%) on August 5, 2026. The CAC 40 closed at 8,669.30, up 2.67 points (0.03%) on August 5, 2026. The K",
-    "excerpt": "The NIKKEI 225 closed at 66,300.44, up 2,342.91 points (3.66%) on August 5, 2026. The CAC 40 closed at 8,669.30, up 2.67 points (0.03%) on August 5, 2026. The KOSPI closed at 6,598.26, up 239.31 points (3.76%) on August 5, 2026.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Global Market Indices | International Markets - Markets Insider"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "global-stock-market-news-and-world-indices-coverage",
-    "type": "news",
-    "title": "Global Stock Market News and World Indices Coverage",
-    "slug": "global-stock-market-news-and-world-indices-coverage",
-    "date": "2026-08-06",
-    "displayDate": "August 6, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Global stock markets are mixed; European indices show slight gains, while Asian markets fluctuate based on geopolitical tensions. Major indices like Nikkei 225 ",
-    "excerpt": "Global stock markets are mixed; European indices show slight gains, while Asian markets fluctuate based on geopolitical tensions. Major indices like Nikkei 225 and KOSPI are up, whereas European markets like DAX and CAC 40 show minor declines.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Global Stock Market News and World Indices Coverage"
-    },
-    "readingTime": 4
   },
   {
     "id": "health-technology-sector-companies-performance-and-stocks-usa-tradingview",
@@ -693,27 +1113,6 @@
     "readingTime": 4
   },
   {
-    "id": "investment-outlook-and-portfolio-strategies-for-2026",
-    "type": "news",
-    "title": "Investment Outlook and Portfolio Strategies for 2026",
-    "slug": "investment-outlook-and-portfolio-strategies-for-2026",
-    "date": "2026-08-06",
-    "displayDate": "August 6, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "For 2026, focus on increasing exposure to small caps and emerging markets, diversify globally, and consider alternative investments for qualified investors. Exp",
-    "excerpt": "For 2026, focus on increasing exposure to small caps and emerging markets, diversify globally, and consider alternative investments for qualified investors. Expect moderate stock returns driven by earnings growth.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Investment Outlook and Portfolio Strategies for 2026"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "investment-strategies-for-today-and-long-term-blackrock",
     "type": "news",
     "title": "Investment strategies for today and long-term | BlackRock",
@@ -735,27 +1134,6 @@
     "readingTime": 3
   },
   {
-    "id": "investment-strategy-2026-portfolio-moves-for-a-changing-market",
-    "type": "news",
-    "title": "Investment Strategy 2026 Portfolio Moves for a Changing Market",
-    "slug": "investment-strategy-2026-portfolio-moves-for-a-changing-market",
-    "date": "2026-08-06",
-    "displayDate": "August 6, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "For 2026, focus on income-generating assets and diversify to manage rising default risks and dispersion. Prioritize cash-flow-generative investments and avoid o",
-    "excerpt": "For 2026, focus on income-generating assets and diversify to manage rising default risks and dispersion. Prioritize cash-flow-generative investments and avoid overly broad exposure to low-quality segments. Stay diversified and avoid market timing.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Investment Strategy 2026 Portfolio Moves for a Changing Market"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "latest-technology-news-and-reviews-yahoo-finance",
     "type": "news",
     "title": "Latest Technology News and Reviews - Yahoo Finance",
@@ -773,27 +1151,6 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "Latest Technology News and Reviews - Yahoo Finance"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "latest-technology-news-and-reviews",
-    "type": "news",
-    "title": "Latest Technology News and Reviews",
-    "slug": "latest-technology-news-and-reviews",
-    "date": "2026-08-06",
-    "displayDate": "August 6, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "DOJ fined OpenAI $3.2 million for hiring discrimination. Peloton Cross Training Bike+ offers enhanced connectivity. LG SIGNATURE WM9900HSA washer and dryer rece",
-    "excerpt": "DOJ fined OpenAI $3.2 million for hiring discrimination. Peloton Cross Training Bike+ offers enhanced connectivity. LG SIGNATURE WM9900HSA washer and dryer received positive reviews for design and functionality.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Latest Technology News and Reviews"
     },
     "readingTime": 4
   },
@@ -966,48 +1323,6 @@
     "readingTime": 4
   },
   {
-    "id": "tech-news-today-s-latest-technology-news",
-    "type": "news",
-    "title": "Tech News | Today's Latest Technology News",
-    "slug": "tech-news-today-s-latest-technology-news",
-    "date": "2026-08-06",
-    "displayDate": "August 6, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Demis Hassabis moves to Alphabet's chief scientist role, SpaceX reports higher revenues, and Amazon faces a lawsuit over seafood claims.",
-    "excerpt": "Demis Hassabis moves to Alphabet's chief scientist role, SpaceX reports higher revenues, and Amazon faces a lawsuit over seafood claims.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Tech News | Today's Latest Technology News"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "technology-news",
-    "type": "news",
-    "title": "Technology News",
-    "slug": "technology-news",
-    "date": "2026-08-06",
-    "displayDate": "August 6, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "SpaceX reported higher revenues and significant spending in its first-ever earnings. Amazon faces a lawsuit over seafood sustainability claims. FTC approved Ion",
-    "excerpt": "SpaceX reported higher revenues and significant spending in its first-ever earnings. Amazon faces a lawsuit over seafood sustainability claims. FTC approved IonQ's acquisition of SkyWater semiconductor foundry.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Technology News"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "ten-things-to-consider-before-you-make-investing-decisions",
     "type": "news",
     "title": "Ten Things to Consider Before You Make Investing Decisions",
@@ -1025,27 +1340,6 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "Ten Things to Consider Before You Make Investing Decisions"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "the-block-bitcoin-ethereum-crypto-news-live-prices",
-    "type": "news",
-    "title": "The Block: Bitcoin, Ethereum & Crypto News | Live Prices ...",
-    "slug": "the-block-bitcoin-ethereum-crypto-news-live-prices",
-    "date": "2026-08-06",
-    "displayDate": "August 6, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Putin signed a crypto law in Russia, Coinbase launched 24/7 US stock trading for UK users, and Kalshi and Polymarket reached a $50 billion combined volume in Ju",
-    "excerpt": "Putin signed a crypto law in Russia, Coinbase launched 24/7 US stock trading for UK users, and Kalshi and Polymarket reached a $50 billion combined volume in July.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "The Block: Bitcoin, Ethereum & Crypto News | Live Prices ..."
     },
     "readingTime": 3
   },
@@ -1134,27 +1428,6 @@
     "readingTime": 3
   },
   {
-    "id": "u-s-economic-calendar",
-    "type": "news",
-    "title": "U.S. Economic Calendar",
-    "slug": "u-s-economic-calendar",
-    "date": "2026-08-06",
-    "displayDate": "August 6, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "On August 6, 2026, the U.S. economic calendar includes the S&P Global Composite PMI Flash for August and the S&P Global Manufacturing PMI Flash for August. Upco",
-    "excerpt": "On August 6, 2026, the U.S. economic calendar includes the S&P Global Composite PMI Flash for August and the S&P Global Manufacturing PMI Flash for August. Upcoming events include the Treasury Refunding Announcement and the ISM Services PMI for July.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "U.S. Economic Calendar"
-    },
-    "readingTime": 6
-  },
-  {
     "id": "u-s-market-analysis-valuation-dow-jones-nasdaq-s-p-500-summary",
     "type": "news",
     "title": "U.S. Market Analysis & Valuation - Dow Jones, Nasdaq, S&P 500 Summary",
@@ -1239,27 +1512,6 @@
     "readingTime": 4
   },
   {
-    "id": "united-states-inflation-rate",
-    "type": "news",
-    "title": "United States Inflation Rate",
-    "slug": "united-states-inflation-rate",
-    "date": "2026-08-06",
-    "displayDate": "August 6, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The U.S. inflation rate was 3.5% in June 2026, down from 4.2% in May. This marks the first decline in five months. The Federal Reserve's target is 2% annual inf",
-    "excerpt": "The U.S. inflation rate was 3.5% in June 2026, down from 4.2% in May. This marks the first decline in five months. The Federal Reserve's target is 2% annual inflation.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "United States Inflation Rate"
-    },
-    "readingTime": 5
-  },
-  {
     "id": "united-states-stock-market-index-quote-chart-historical-data-news",
     "type": "news",
     "title": "United States Stock Market Index - Quote - Chart - Historical Data - News",
@@ -1321,27 +1573,6 @@
       "alt": "Weekly Trader's Stock Market Outlook"
     },
     "readingTime": 4
-  },
-  {
-    "id": "when-is-the-next-fed-interest-rate-decision",
-    "type": "news",
-    "title": "When is the next Fed interest rate decision?",
-    "slug": "when-is-the-next-fed-interest-rate-decision",
-    "date": "2026-08-06",
-    "displayDate": "August 6, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The next Fed interest rate decision is scheduled for April 29, 2026. The announcement will be at 2:00 PM Eastern Time. Fed Chair Jerome Powell will hold a press",
-    "excerpt": "The next Fed interest rate decision is scheduled for April 29, 2026. The announcement will be at 2:00 PM Eastern Time. Fed Chair Jerome Powell will hold a press conference afterward.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "When is the next Fed interest rate decision?"
-    },
-    "readingTime": 3
   },
   {
     "id": "best-definition-in-the-cambridge-english-dictionary",
@@ -1764,27 +1995,6 @@
     "readingTime": 4
   },
   {
-    "id": "international-stocks-how-and-why-to-invest-charles-schwab",
-    "type": "news",
-    "title": "International Stocks: How and Why to Invest | Charles Schwab",
-    "slug": "international-stocks-how-and-why-to-invest-charles-schwab",
-    "date": "2026-08-05",
-    "displayDate": "August 5, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Investing in international stocks diversifies your portfolio and can improve returns; Charles Schwab offers accounts and services to facilitate this. Dividends ",
-    "excerpt": "Investing in international stocks diversifies your portfolio and can improve returns; Charles Schwab offers accounts and services to facilitate this. Dividends from foreign stocks may incur foreign tax withholding, but U.S. investors can claim foreign tax credits. Schwab provides tools for trading i",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "International Stocks: How and Why to Invest | Charles Schwab"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "latest-stock-market-news",
     "type": "news",
     "title": "Latest Stock Market News",
@@ -2100,27 +2310,6 @@
     "readingTime": 4
   },
   {
-    "id": "12-month-percentage-change-consumer-price-index-selected",
-    "type": "news",
-    "title": "12-month percentage change, Consumer Price Index, selected ...",
-    "slug": "12-month-percentage-change-consumer-price-index-selected",
-    "date": "2026-08-04",
-    "displayDate": "August 4, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The 12-month percentage change in the Consumer Price Index for June 2026 was 3.5% overall. Energy prices saw a significant increase of 15.7%. Fruits and vegetab",
-    "excerpt": "The 12-month percentage change in the Consumer Price Index for June 2026 was 3.5% overall. Energy prices saw a significant increase of 15.7%. Fruits and vegetables had the highest increase at 5.3%.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "12-month percentage change, Consumer Price Index, selected ..."
-    },
-    "readingTime": 4
-  },
-  {
     "id": "2026-spring-investment-directions",
     "type": "news",
     "title": "2026 Spring Investment Directions",
@@ -2329,27 +2518,6 @@
       "alt": "Federal Reserve announces latest interest rate decision | Wealth Professional"
     },
     "readingTime": 4
-  },
-  {
-    "id": "federal-reserve-holds-rates-at-3-50-3-75-in-july-2026",
-    "type": "news",
-    "title": "Federal Reserve Holds Rates at 3.50%-3.75% in July 2026",
-    "slug": "federal-reserve-holds-rates-at-3-50-3-75-in-july-2026",
-    "date": "2026-08-04",
-    "displayDate": "August 4, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Reserve held rates at 3.50%-3.75% in July 2026, with three members favoring a hike. This decision was in line with expectations, despite a one-in-th",
-    "excerpt": "The Federal Reserve held rates at 3.50%-3.75% in July 2026, with three members favoring a hike. This decision was in line with expectations, despite a one-in-three chance of a rate increase. The Fed noted solid economic activity amid elevated uncertainty.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Federal Reserve Holds Rates at 3.50%-3.75% in July 2026"
-    },
-    "readingTime": 3
   },
   {
     "id": "federal-reserve-interest-rate-decision-august-2025-latest-news-videos-photos-abo",
@@ -2919,27 +3087,6 @@
     "readingTime": 4
   },
   {
-    "id": "how-should-i-allocate-my-portfolio-in-2026",
-    "type": "news",
-    "title": "How Should I Allocate My Portfolio in 2026?",
-    "slug": "how-should-i-allocate-my-portfolio-in-2026",
-    "date": "2026-08-03",
-    "displayDate": "August 3, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Allocate more to stocks for long-term growth, consider bonds for stability, and diversify globally. Review annually or after major changes.",
-    "excerpt": "Allocate more to stocks for long-term growth, consider bonds for stability, and diversify globally. Review annually or after major changes.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "How Should I Allocate My Portfolio in 2026?"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "interactive-world-macromap-ft-com",
     "type": "news",
     "title": "Interactive World Macromap - FT.com",
@@ -3001,27 +3148,6 @@
       "alt": "Q2 Earnings Season 2026: What Traders Need to Know"
     },
     "readingTime": 3
-  },
-  {
-    "id": "s-p-500-index-sp500-analysis-news-and-chart-today",
-    "type": "news",
-    "title": "S&P 500 Index (SP500) Analysis, News, And Chart Today",
-    "slug": "s-p-500-index-sp500-analysis-news-and-chart-today",
-    "date": "2026-08-03",
-    "displayDate": "August 3, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The S&P 500 index closed at 7,489.72, up 0.70% on August 1, 2026. Key gainers included Amazon and Monolithic Power. The index's 52-week high was 7,620.90.",
-    "excerpt": "The S&P 500 index closed at 7,489.72, up 0.70% on August 1, 2026. Key gainers included Amazon and Monolithic Power. The index's 52-week high was 7,620.90.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "S&P 500 Index (SP500) Analysis, News, And Chart Today"
-    },
-    "readingTime": 4
   },
   {
     "id": "s-p-500-index-what-it-s-for-and-why-it-s-important-in",
@@ -3358,27 +3484,6 @@
       "alt": "Outlook-at-Risk: Real GDP Growth, Unemployment, and ..."
     },
     "readingTime": 3
-  },
-  {
-    "id": "s-p-500-sp500-technical-analysis-medium-term",
-    "type": "news",
-    "title": "S&P 500 (SP500) - Technical Analysis - Medium term",
-    "slug": "s-p-500-sp500-technical-analysis-medium-term",
-    "date": "2026-08-02",
-    "displayDate": "August 2, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The S&P 500 shows a medium-term weak positive trend, testing resistance at 7560. The long-term outlook is positive with a rising trend. The index is in a rectan",
-    "excerpt": "The S&P 500 shows a medium-term weak positive trend, testing resistance at 7560. The long-term outlook is positive with a rising trend. The index is in a rectangle formation.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "S&P 500 (SP500) - Technical Analysis - Medium term"
-    },
-    "readingTime": 4
   },
   {
     "id": "technology-bloomberg",
@@ -4851,27 +4956,6 @@
     "readingTime": 3
   },
   {
-    "id": "inflation-consumer-prices-for-the-united-states-fred",
-    "type": "news",
-    "title": "Inflation, consumer prices for the United States - FRED",
-    "slug": "inflation-consumer-prices-for-the-united-states-fred",
-    "date": "2026-07-07",
-    "displayDate": "July 7, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Inflation, consumer prices for the United States is measured by the Consumer Price Index (CPI). The CPIAUCSL series tracks changes in the cost of a basket of go",
-    "excerpt": "Inflation, consumer prices for the United States is measured by the Consumer Price Index (CPI). The CPIAUCSL series tracks changes in the cost of a basket of goods and services for urban consumers. The latest data is available from the Federal Reserve Bank of St. Louis.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Inflation, consumer prices for the United States - FRED"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "inflation-update-u-s-congress-joint-economic-committee",
     "type": "news",
     "title": "Inflation Update - U.S. Congress Joint Economic Committee",
@@ -4994,27 +5078,6 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "META_TITLE_SECTORS - Yahoo Finance"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "s-p-500-index-today-inx-live-ticker-markets-insider",
-    "type": "news",
-    "title": "S&P 500 INDEX TODAY | INX LIVE TICKER - Markets Insider",
-    "slug": "s-p-500-index-today-inx-live-ticker-markets-insider",
-    "date": "2026-07-07",
-    "displayDate": "July 7, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The S&P 500 index today is at 7,537.48. The previous close was 7,483.23, and it has risen by 20.17% over the past year. This index tracks the performance of 500",
-    "excerpt": "The S&P 500 index today is at 7,537.48. The previous close was 7,483.23, and it has risen by 20.17% over the past year. This index tracks the performance of 500 leading companies in the U.S.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "S&P 500 INDEX TODAY | INX LIVE TICKER - Markets Insider"
     },
     "readingTime": 3
   },
