@@ -21,6 +21,48 @@
     "readingTime": 3
   },
   {
+    "id": "ahead-of-wall-street-daily-stock-market-outlook",
+    "type": "news",
+    "title": "Ahead of Wall Street - Daily Stock Market Outlook",
+    "slug": "ahead-of-wall-street-daily-stock-market-outlook",
+    "date": "2026-08-08",
+    "displayDate": "August 8, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The U.S. stock market outlook shows strong performance in tech and consumer discretionary sectors, while energy and utilities sectors are underperforming. Analy",
+    "excerpt": "The U.S. stock market outlook shows strong performance in tech and consumer discretionary sectors, while energy and utilities sectors are underperforming. Analysts expect tech sector to grow 22% annually over the next five years. The unemployment rate for July 2026 was 4.1%.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Ahead of Wall Street - Daily Stock Market Outlook"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "coindesk-bitcoin-ethereum-xrp-crypto-news-and-price-data",
+    "type": "news",
+    "title": "CoinDesk: Bitcoin, Ethereum, XRP, Crypto News and Price Data",
+    "slug": "coindesk-bitcoin-ethereum-xrp-crypto-news-and-price-data",
+    "date": "2026-08-08",
+    "displayDate": "August 8, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "CoinDesk is a leading source for news and data on cryptocurrencies like Bitcoin, Ethereum, and XRP. It offers real-time price updates and comprehensive market i",
+    "excerpt": "CoinDesk is a leading source for news and data on cryptocurrencies like Bitcoin, Ethereum, and XRP. It offers real-time price updates and comprehensive market insights. Founded in 2013, it has become a trusted authority in the crypto industry.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "CoinDesk: Bitcoin, Ethereum, XRP, Crypto News and Price Data"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "coinmarketcap-cryptocurrency-prices-charts-and-market",
     "type": "news",
     "title": "CoinMarketCap: Cryptocurrency Prices, Charts And Market ...",
@@ -40,6 +82,27 @@
       "alt": "CoinMarketCap: Cryptocurrency Prices, Charts And Market ..."
     },
     "readingTime": 5
+  },
+  {
+    "id": "company-earnings-calendar-yahoo-finance",
+    "type": "news",
+    "title": "Company Earnings Calendar - Yahoo Finance",
+    "slug": "company-earnings-calendar-yahoo-finance",
+    "date": "2026-08-08",
+    "displayDate": "August 8, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "On August 7, 2026, 61 earnings reports are scheduled. The earnings calendar includes various financial events like IPOs and economic events. The most recent ear",
+    "excerpt": "On August 7, 2026, 61 earnings reports are scheduled. The earnings calendar includes various financial events like IPOs and economic events. The most recent earnings report was on August 6.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Company Earnings Calendar - Yahoo Finance"
+    },
+    "readingTime": 4
   },
   {
     "id": "countdown-to-earnings-the-quarterly-results-this-week-the-dales-report",
@@ -82,6 +145,27 @@
       "alt": "CPI Home : U.S. Bureau of Labor Statistics"
     },
     "readingTime": 3
+  },
+  {
+    "id": "crypto-news-bitcoin-ethereum-xrp-news-crypto-news",
+    "type": "news",
+    "title": "Crypto News: Bitcoin, Ethereum & XRP News | crypto.news",
+    "slug": "crypto-news-bitcoin-ethereum-xrp-news-crypto-news",
+    "date": "2026-08-08",
+    "displayDate": "August 8, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin and Ethereum prices rose slightly, while XRP fell 5.5% due to the Clarity Act delay. BlackRock Bitcoin ETF experienced a selloff. Strive acquired more B",
+    "excerpt": "Bitcoin and Ethereum prices rose slightly, while XRP fell 5.5% due to the Clarity Act delay. BlackRock Bitcoin ETF experienced a selloff. Strive acquired more Bitcoin, raising its total to 16,500 coins.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Crypto News: Bitcoin, Ethereum & XRP News | crypto.news"
+    },
+    "readingTime": 4
   },
   {
     "id": "cryptocurrency-pricing-market-regulation-news",
@@ -147,6 +231,27 @@
     "readingTime": 4
   },
   {
+    "id": "earnings-calendar-and-analysis-for-this-week-august-3-7",
+    "type": "news",
+    "title": "Earnings Calendar and Analysis for This Week (August 3-7)",
+    "slug": "earnings-calendar-and-analysis-for-this-week-august-3-7",
+    "date": "2026-08-08",
+    "displayDate": "August 8, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "This week, major earnings reports include AMAT on Thursday and Cisco on Wednesday. Over 1,000 companies are scheduled to report earnings from August 3-7. Yahoo ",
+    "excerpt": "This week, major earnings reports include AMAT on Thursday and Cisco on Wednesday. Over 1,000 companies are scheduled to report earnings from August 3-7. Yahoo Finance lists 477 earnings on Thursday, August 6.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Earnings Calendar and Analysis for This Week (August 3-7)"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "earnings-calendar",
     "type": "news",
     "title": "Earnings Calendar",
@@ -164,6 +269,27 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "Earnings Calendar"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "earnings-cnbc",
+    "type": "news",
+    "title": "Earnings - CNBC",
+    "slug": "earnings-cnbc",
+    "date": "2026-08-08",
+    "displayDate": "August 8, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "CNBC reports earnings for companies like Lucid, Paramount, and SpaceX, highlighting financial performance and market impacts. Key highlights include earnings be",
+    "excerpt": "CNBC reports earnings for companies like Lucid, Paramount, and SpaceX, highlighting financial performance and market impacts. Key highlights include earnings beats and misses, stock movements, and sector-specific trends. The data is primarily for future dates in 2026.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Earnings - CNBC"
     },
     "readingTime": 3
   },
@@ -210,6 +336,48 @@
     "readingTime": 3
   },
   {
+    "id": "economic-indicators-calendar-federal-reserve-bank-of-new-york",
+    "type": "news",
+    "title": "Economic Indicators Calendar - FEDERAL RESERVE BANK of NEW YORK",
+    "slug": "economic-indicators-calendar-federal-reserve-bank-of-new-york",
+    "date": "2026-08-08",
+    "displayDate": "August 8, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Reserve Bank of New York's Economic Indicators Calendar includes reports like Initial Claims, Employment Situation, and Consumer Price Index. Market",
+    "excerpt": "The Federal Reserve Bank of New York's Economic Indicators Calendar includes reports like Initial Claims, Employment Situation, and Consumer Price Index. MarketWatch's U.S. Economic Calendar features reports such as Initial Jobless Claims and Industrial Production. Trading Economics' United States C",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Economic Indicators Calendar - FEDERAL RESERVE BANK of NEW YORK"
+    },
+    "readingTime": 5
+  },
+  {
+    "id": "economic-sector-performance-dashboards-yahoo-finance",
+    "type": "news",
+    "title": "Economic Sector Performance Dashboards - Yahoo Finance",
+    "slug": "economic-sector-performance-dashboards-yahoo-finance",
+    "date": "2026-08-08",
+    "displayDate": "August 8, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The technology sector leads in year-to-date returns, while energy has the highest day return. Industrials and consumer cyclical sectors show strong performance.",
+    "excerpt": "The technology sector leads in year-to-date returns, while energy has the highest day return. Industrials and consumer cyclical sectors show strong performance. Utilities have the largest day loss.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Economic Sector Performance Dashboards - Yahoo Finance"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "economic-sector-performance-dashboards",
     "type": "news",
     "title": "Economic Sector Performance Dashboards",
@@ -229,6 +397,48 @@
       "alt": "Economic Sector Performance Dashboards"
     },
     "readingTime": 4
+  },
+  {
+    "id": "ethereum-eth-price-usd-today-news-charts-market-cap",
+    "type": "news",
+    "title": "Ethereum (ETH) Price USD Today, News, Charts, Market Cap",
+    "slug": "ethereum-eth-price-usd-today-news-charts-market-cap",
+    "date": "2026-08-08",
+    "displayDate": "August 8, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Ethereum (ETH) price today is $1,900.41, with a 24-hour trading volume of $7,005,055,395, and a market cap of $229,357,415,664.",
+    "excerpt": "Ethereum (ETH) price today is $1,900.41, with a 24-hour trading volume of $7,005,055,395, and a market cap of $229,357,415,664.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Ethereum (ETH) Price USD Today, News, Charts, Market Cap"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "fed-meeting-recap-july-2026",
+    "type": "news",
+    "title": "Fed meeting recap: July 2026",
+    "slug": "fed-meeting-recap-july-2026",
+    "date": "2026-08-08",
+    "displayDate": "August 8, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Reserve decided to keep interest rates unchanged in July 2026, maintaining the federal funds rate at 3.50%-3.75%. Despite the solid economic expansi",
+    "excerpt": "The Federal Reserve decided to keep interest rates unchanged in July 2026, maintaining the federal funds rate at 3.50%-3.75%. Despite the solid economic expansion, the Fed acknowledged ongoing inflation above their 2% target. Three officials dissented, advocating for a quarter-point rate hike.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Fed meeting recap: July 2026"
+    },
+    "readingTime": 3
   },
   {
     "id": "federal-open-market-committee-wikipedia",
@@ -290,6 +500,27 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "Global Market Indices | International Markets - Markets Insider"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "global-stock-market-news-and-world-indices-coverage-cnbc",
+    "type": "news",
+    "title": "Global Stock Market News and World Indices Coverage - CNBC",
+    "slug": "global-stock-market-news-and-world-indices-coverage-cnbc",
+    "date": "2026-08-08",
+    "displayDate": "August 8, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Global stock market news and world indices are covered by CNBC, with updates on Asia, Europe, and U.S. markets, along with analysis on international business an",
+    "excerpt": "Global stock market news and world indices are covered by CNBC, with updates on Asia, Europe, and U.S. markets, along with analysis on international business and global financial trends. CNBC also provides insights on political and economic policies affecting global markets.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Global Stock Market News and World Indices Coverage - CNBC"
     },
     "readingTime": 4
   },
@@ -399,6 +630,27 @@
     "readingTime": 3
   },
   {
+    "id": "investment-strategies-for-today-and-long-term-blackrock",
+    "type": "news",
+    "title": "Investment strategies for today and long-term | BlackRock",
+    "slug": "investment-strategies-for-today-and-long-term-blackrock",
+    "date": "2026-08-08",
+    "displayDate": "August 8, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "BlackRock offers income-focused portfolios and systematic investing for today, and equities and multi-asset strategies for long-term growth. Target date funds a",
+    "excerpt": "BlackRock offers income-focused portfolios and systematic investing for today, and equities and multi-asset strategies for long-term growth. Target date funds and retirement solutions are also available.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Investment strategies for today and long-term | BlackRock"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "investment-strategy-2026-portfolio-moves-for-a-changing-market",
     "type": "news",
     "title": "Investment Strategy 2026 Portfolio Moves for a Changing Market",
@@ -439,6 +691,27 @@
       "alt": "Outlook-at-Risk: Real GDP Growth, Unemployment, and Inflation - FEDERAL RESERVE BANK of NEW YORK"
     },
     "readingTime": 3
+  },
+  {
+    "id": "pdf-factset-earnings-insight",
+    "type": "news",
+    "title": "[PDF] FactSet Earnings Insight",
+    "slug": "pdf-factset-earnings-insight",
+    "date": "2026-08-08",
+    "displayDate": "August 8, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "For Q1 2026, 85% of S&P 500 companies reported positive earnings surprises, and the blended earnings growth rate was 28.6%. The Energy sector led with a 40.9% i",
+    "excerpt": "For Q1 2026, 85% of S&P 500 companies reported positive earnings surprises, and the blended earnings growth rate was 28.6%. The Energy sector led with a 40.9% increase in bottom-up EPS estimates. The net profit margin for Q1 2026 was 14.7%.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "[PDF] FactSet Earnings Insight"
+    },
+    "readingTime": 4
   },
   {
     "id": "q4-results-next-week-from-coal-india-to-maruti-suzuki-here-are-the-major-compani",
@@ -483,6 +756,27 @@
     "readingTime": 4
   },
   {
+    "id": "sector-research-news-and-performance-sector-industries-fidelity",
+    "type": "news",
+    "title": "Sector Research, News and Performance | Sector Industries | Fidelity",
+    "slug": "sector-research-news-and-performance-sector-industries-fidelity",
+    "date": "2026-08-08",
+    "displayDate": "August 8, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Fidelity's sector research covers U.S. sectors via S&P 500 indices, highlighting market cap and performance. Key sectors include Information Technology, Materia",
+    "excerpt": "Fidelity's sector research covers U.S. sectors via S&P 500 indices, highlighting market cap and performance. Key sectors include Information Technology, Materials, and Consumer Discretionary. Sector strategies focus on long-term growth trends.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Sector Research, News and Performance | Sector Industries | Fidelity"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "sector-research-news-and-performance-sector-industries",
     "type": "news",
     "title": "Sector Research, News and Performance | Sector Industries",
@@ -525,6 +819,48 @@
     "readingTime": 3
   },
   {
+    "id": "the-best-investment-strategies-for-the-continuous-market-investing-com",
+    "type": "news",
+    "title": "The Best Investment Strategies For The Continuous Market - Investing.com",
+    "slug": "the-best-investment-strategies-for-the-continuous-market-investing-com",
+    "date": "2026-08-08",
+    "displayDate": "August 8, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Buy and hold investing remains a viable long-term strategy for wealth growth. Diversification and asset allocation are also essential for continuous market succ",
+    "excerpt": "Buy and hold investing remains a viable long-term strategy for wealth growth. Diversification and asset allocation are also essential for continuous market success. Consider using AI analysis for strategic insights.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "The Best Investment Strategies For The Continuous Market - Investing.com"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "top-investment-strategies-key-approaches-to-maximize-returns",
+    "type": "news",
+    "title": "Top Investment Strategies: Key Approaches to Maximize Returns",
+    "slug": "top-investment-strategies-key-approaches-to-maximize-returns",
+    "date": "2026-08-08",
+    "displayDate": "August 8, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Top investment strategies include conservative plans for low risk and aggressive plans for high returns, with diversification and regular reviews essential for ",
+    "excerpt": "Top investment strategies include conservative plans for low risk and aggressive plans for high returns, with diversification and regular reviews essential for success. Dollar-cost averaging and index funds are popular conservative methods, while stocks and cryptocurrencies are common in aggressive ",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Top Investment Strategies: Key Approaches to Maximize Returns"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "u-s-economic-calendar",
     "type": "news",
     "title": "U.S. Economic Calendar",
@@ -546,6 +882,48 @@
     "readingTime": 6
   },
   {
+    "id": "united-states-federal-reserve-interest-rate-decision",
+    "type": "news",
+    "title": "United States Federal Reserve Interest Rate Decision",
+    "slug": "united-states-federal-reserve-interest-rate-decision",
+    "date": "2026-08-08",
+    "displayDate": "August 8, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Reserve's latest interest rate decision was announced on August 8, 2026, maintaining steady rates. This decision impacts various financial markets a",
+    "excerpt": "The Federal Reserve's latest interest rate decision was announced on August 8, 2026, maintaining steady rates. This decision impacts various financial markets and sectors.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "United States Federal Reserve Interest Rate Decision"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "united-states-inflation-rate-trading-economics",
+    "type": "news",
+    "title": "United States Inflation Rate - Trading Economics",
+    "slug": "united-states-inflation-rate-trading-economics",
+    "date": "2026-08-08",
+    "displayDate": "August 8, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The U.S. inflation rate was 3.5% in June 2026, down from 4.2% in May. Core inflation was 2.6% in June 2026, down from 2.9% in May. Analysts expect inflation to ",
+    "excerpt": "The U.S. inflation rate was 3.5% in June 2026, down from 4.2% in May. Core inflation was 2.6% in June 2026, down from 2.9% in May. Analysts expect inflation to trend around 2.6% in 2027.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "United States Inflation Rate - Trading Economics"
+    },
+    "readingTime": 5
+  },
+  {
     "id": "united-states-inflation-rate",
     "type": "news",
     "title": "United States Inflation Rate",
@@ -565,6 +943,27 @@
       "alt": "United States Inflation Rate"
     },
     "readingTime": 5
+  },
+  {
+    "id": "weekly-stock-market-update-edward-jones",
+    "type": "news",
+    "title": "Weekly Stock Market Update | Edward Jones",
+    "slug": "weekly-stock-market-update-edward-jones",
+    "date": "2026-08-08",
+    "displayDate": "August 8, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The stock market showed mixed results with some gains and losses, driven by earnings reports from major tech companies. The AI sector saw renewed interest, whil",
+    "excerpt": "The stock market showed mixed results with some gains and losses, driven by earnings reports from major tech companies. The AI sector saw renewed interest, while economic data releases were mixed. Overall, market sentiment remains cautiously optimistic.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Weekly Stock Market Update | Edward Jones"
+    },
+    "readingTime": 4
   },
   {
     "id": "weekly-stock-market-update",
@@ -626,6 +1025,27 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "What to Look Out for in Economic Data This Week (August ..."
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "when-is-the-next-fed-interest-rate-decision",
+    "type": "news",
+    "title": "When is the next Fed interest rate decision?",
+    "slug": "when-is-the-next-fed-interest-rate-decision",
+    "date": "2026-08-08",
+    "displayDate": "August 8, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The next Federal Reserve interest rate decision is scheduled for April 29, 2026. The announcement will be made at 2:00 PM Eastern Time. Fed Chair Jerome Powell ",
+    "excerpt": "The next Federal Reserve interest rate decision is scheduled for April 29, 2026. The announcement will be made at 2:00 PM Eastern Time. Fed Chair Jerome Powell will discuss the decision in a press conference shortly after.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "When is the next Fed interest rate decision?"
     },
     "readingTime": 4
   },
@@ -777,90 +1197,6 @@
     "readingTime": 3
   },
   {
-    "id": "coindesk-bitcoin-ethereum-xrp-crypto-news-and-price-data",
-    "type": "news",
-    "title": "CoinDesk: Bitcoin, Ethereum, XRP, Crypto News and Price Data",
-    "slug": "coindesk-bitcoin-ethereum-xrp-crypto-news-and-price-data",
-    "date": "2026-08-07",
-    "displayDate": "August 7, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "CoinDesk provides news, price data, and analysis for Bitcoin, Ethereum, XRP, and other cryptocurrencies. As of 2026-08-07, Bitcoin is up 1.24% and Ethereum up 1",
-    "excerpt": "CoinDesk provides news, price data, and analysis for Bitcoin, Ethereum, XRP, and other cryptocurrencies. As of 2026-08-07, Bitcoin is up 1.24% and Ethereum up 1.74%. XRP is down 0.75%.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "CoinDesk: Bitcoin, Ethereum, XRP, Crypto News and Price Data"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "company-earnings-calendar-yahoo-finance",
-    "type": "news",
-    "title": "Company Earnings Calendar - Yahoo Finance",
-    "slug": "company-earnings-calendar-yahoo-finance",
-    "date": "2026-08-07",
-    "displayDate": "August 7, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "On August 6, 2026, 323 earnings announcements are scheduled. The earnings calendar lists upcoming financial reports for various companies. Use Yahoo Finance for",
-    "excerpt": "On August 6, 2026, 323 earnings announcements are scheduled. The earnings calendar lists upcoming financial reports for various companies. Use Yahoo Finance for detailed earnings data.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Company Earnings Calendar - Yahoo Finance"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "crypto-news-bitcoin-ethereum-xrp-news-crypto-news",
-    "type": "news",
-    "title": "Crypto News: Bitcoin, Ethereum & XRP News | crypto.news",
-    "slug": "crypto-news-bitcoin-ethereum-xrp-news-crypto-news",
-    "date": "2026-08-07",
-    "displayDate": "August 7, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Bitcoin is priced at $64,758.41, Ethereum at $1,909.60, and XRP at $1.05. Recent news includes BlackRock's Bitcoin ETF selloff and Ripple's equity stakes in Zil",
-    "excerpt": "Bitcoin is priced at $64,758.41, Ethereum at $1,909.60, and XRP at $1.05. Recent news includes BlackRock's Bitcoin ETF selloff and Ripple's equity stakes in Zilo and Licuido.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Crypto News: Bitcoin, Ethereum & XRP News | crypto.news"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "earnings-calendar-and-analysis-for-this-week-august-3-7",
-    "type": "news",
-    "title": "Earnings Calendar and Analysis for This Week (August 3-7)",
-    "slug": "earnings-calendar-and-analysis-for-this-week-august-3-7",
-    "date": "2026-08-07",
-    "displayDate": "August 7, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "This week's earnings calendar features major companies reporting from August 3 to 7, including Berkshire Hathaway, Disney, and Uber. On August 6, 323 companies ",
-    "excerpt": "This week's earnings calendar features major companies reporting from August 3 to 7, including Berkshire Hathaway, Disney, and Uber. On August 6, 323 companies are scheduled to report earnings. The most significant reports are from technology, healthcare, and consumer sectors.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Earnings Calendar and Analysis for This Week (August 3-7)"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "earnings-calendar-zacks-investment-research",
     "type": "news",
     "title": "Earnings Calendar - Zacks Investment Research",
@@ -922,48 +1258,6 @@
       "alt": "Economic indicators - U.S. Department of Commerce"
     },
     "readingTime": 3
-  },
-  {
-    "id": "ethereum-eth-price-usd-today-news-charts-market-cap",
-    "type": "news",
-    "title": "Ethereum (ETH) Price USD Today, News, Charts, Market Cap",
-    "slug": "ethereum-eth-price-usd-today-news-charts-market-cap",
-    "date": "2026-08-07",
-    "displayDate": "August 7, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Ethereum (ETH) price is $1,867.82 USD today, with a market cap of $225.4 billion USD. It has a circulating supply of 120.7 million ETH.",
-    "excerpt": "Ethereum (ETH) price is $1,867.82 USD today, with a market cap of $225.4 billion USD. It has a circulating supply of 120.7 million ETH.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Ethereum (ETH) Price USD Today, News, Charts, Market Cap"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "fed-meeting-recap-july-2026",
-    "type": "news",
-    "title": "Fed meeting recap: July 2026",
-    "slug": "fed-meeting-recap-july-2026",
-    "date": "2026-08-07",
-    "displayDate": "August 7, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Reserve held rates steady in July 2026, maintaining the policy rate at 3.50-3.75%. Three FOMC members wanted a rate hike. Chairman Kevin Warsh empha",
-    "excerpt": "The Federal Reserve held rates steady in July 2026, maintaining the policy rate at 3.50-3.75%. Three FOMC members wanted a rate hike. Chairman Kevin Warsh emphasized the Fed's commitment to price stability.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Fed meeting recap: July 2026"
-    },
-    "readingTime": 4
   },
   {
     "id": "federal-open-market-committee",
@@ -1132,27 +1426,6 @@
       "alt": "International Stocks: How and Why to Invest | Charles Schwab"
     },
     "readingTime": 4
-  },
-  {
-    "id": "investment-strategies-for-today-and-long-term-blackrock",
-    "type": "news",
-    "title": "Investment strategies for today and long-term | BlackRock",
-    "slug": "investment-strategies-for-today-and-long-term-blackrock",
-    "date": "2026-08-07",
-    "displayDate": "August 7, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "BlackRock offers income-focused portfolios and equities for both short-term and long-term investment strategies, including systematic investing and retirement f",
-    "excerpt": "BlackRock offers income-focused portfolios and equities for both short-term and long-term investment strategies, including systematic investing and retirement funds. Target date ETFs and global diversification are also available.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Investment strategies for today and long-term | BlackRock"
-    },
-    "readingTime": 3
   },
   {
     "id": "latest-technology-news-and-reviews",
@@ -1512,27 +1785,6 @@
     "readingTime": 3
   },
   {
-    "id": "top-investment-strategies-key-approaches-to-maximize-returns",
-    "type": "news",
-    "title": "Top Investment Strategies: Key Approaches to Maximize Returns",
-    "slug": "top-investment-strategies-key-approaches-to-maximize-returns",
-    "date": "2026-08-07",
-    "displayDate": "August 7, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Top investment strategies include diversification, dollar-cost averaging, and long-term growth investing. These approaches aim to maximize returns while managin",
-    "excerpt": "Top investment strategies include diversification, dollar-cost averaging, and long-term growth investing. These approaches aim to maximize returns while managing risk. Focus on asset allocation and regular investment to achieve financial goals.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Top Investment Strategies: Key Approaches to Maximize Returns"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "united-states-economic-indicators-moody-s-analytics",
     "type": "news",
     "title": "United States | Economic Indicators | Moody's Analytics",
@@ -1615,27 +1867,6 @@
       "alt": "What is the current inflation rate in the US?"
     },
     "readingTime": 4
-  },
-  {
-    "id": "when-is-the-next-fed-interest-rate-decision",
-    "type": "news",
-    "title": "When is the next Fed interest rate decision?",
-    "slug": "when-is-the-next-fed-interest-rate-decision",
-    "date": "2026-08-07",
-    "displayDate": "August 7, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The next Fed interest rate decision is scheduled for April 29, 2026. The announcement will occur at 2:00 PM Eastern Time. Fed Chair Jerome Powell will discuss t",
-    "excerpt": "The next Fed interest rate decision is scheduled for April 29, 2026. The announcement will occur at 2:00 PM Eastern Time. Fed Chair Jerome Powell will discuss the decision in a press conference at 6:30 PM GMT.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "When is the next Fed interest rate decision?"
-    },
-    "readingTime": 3
   },
   {
     "id": "12-month-percentage-change-consumer-price-index-selected-categories",
@@ -2054,27 +2285,6 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "United States Consumer Price Index (CPI) YoY"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "united-states-federal-reserve-interest-rate-decision",
-    "type": "news",
-    "title": "United States Federal Reserve Interest Rate Decision",
-    "slug": "united-states-federal-reserve-interest-rate-decision",
-    "date": "2026-08-06",
-    "displayDate": "August 6, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Reserve kept interest rates unchanged at 3.50%-3.75% in July 2026. The next decision is scheduled for April 29, 2026. The effective federal funds ra",
-    "excerpt": "The Federal Reserve kept interest rates unchanged at 3.50%-3.75% in July 2026. The next decision is scheduled for April 29, 2026. The effective federal funds rate is around 3.64%.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "United States Federal Reserve Interest Rate Decision"
     },
     "readingTime": 3
   },
@@ -2751,27 +2961,6 @@
     "readingTime": 3
   },
   {
-    "id": "ahead-of-wall-street-daily-stock-market-outlook",
-    "type": "news",
-    "title": "Ahead of Wall Street - Daily Stock Market Outlook",
-    "slug": "ahead-of-wall-street-daily-stock-market-outlook",
-    "date": "2026-08-04",
-    "displayDate": "August 4, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Dow, S&P 500, and Nasdaq are trading slightly higher. Key economic reports and Fed meetings are influencing market trends. Earnings reports from major oil c",
-    "excerpt": "The Dow, S&P 500, and Nasdaq are trading slightly higher. Key economic reports and Fed meetings are influencing market trends. Earnings reports from major oil companies and updates on geopolitical tensions are also impacting the market.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Ahead of Wall Street - Daily Stock Market Outlook"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "asian-financial-markets",
     "type": "news",
     "title": "Asian Financial Markets",
@@ -3085,27 +3274,6 @@
       "alt": "The allocator's checklist for 2026 and beyond"
     },
     "readingTime": 4
-  },
-  {
-    "id": "the-best-investment-strategies-for-the-continuous-market-investing-com",
-    "type": "news",
-    "title": "The Best Investment Strategies For The Continuous Market - Investing.com",
-    "slug": "the-best-investment-strategies-for-the-continuous-market-investing-com",
-    "date": "2026-08-04",
-    "displayDate": "August 4, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Value investing, growth investing, and index investing are top strategies for continuous markets. Diversification and long-term holding are key principles.",
-    "excerpt": "Value investing, growth investing, and index investing are top strategies for continuous markets. Diversification and long-term holding are key principles.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "The Best Investment Strategies For The Continuous Market - Investing.com"
-    },
-    "readingTime": 3
   },
   {
     "id": "the-economist-go-beyond-breaking-news",
@@ -4095,27 +4263,6 @@
     "readingTime": 5
   },
   {
-    "id": "sector-research-news-and-performance-sector-industries-fidelity",
-    "type": "news",
-    "title": "Sector Research, News and Performance | Sector Industries | Fidelity",
-    "slug": "sector-research-news-and-performance-sector-industries-fidelity",
-    "date": "2026-08-01",
-    "displayDate": "August 1, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Fidelity offers sector research, news, and performance analysis for various industries, including energy, healthcare, and technology. Sector investing strategie",
-    "excerpt": "Fidelity offers sector research, news, and performance analysis for various industries, including energy, healthcare, and technology. Sector investing strategies and performance comparisons are available. Fidelity does not endorse third-party content.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Sector Research, News and Performance | Sector Industries | Fidelity"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "spdr-s-p-500-etf-spy",
     "type": "news",
     "title": "SPDR S&P 500 ETF (SPY)",
@@ -5019,27 +5166,6 @@
     "readingTime": 3
   },
   {
-    "id": "economic-sector-performance-dashboards-yahoo-finance",
-    "type": "news",
-    "title": "Economic Sector Performance Dashboards - Yahoo Finance",
-    "slug": "economic-sector-performance-dashboards-yahoo-finance",
-    "date": "2026-07-07",
-    "displayDate": "July 7, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The S&P 500 is stable, the Russell 2000 is down slightly, and the US Dollar Index remains unchanged as of July 7, 2026.",
-    "excerpt": "The S&P 500 is stable, the Russell 2000 is down slightly, and the US Dollar Index remains unchanged as of July 7, 2026.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Economic Sector Performance Dashboards - Yahoo Finance"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "fed-holds-rates-steady-as-new-chair-kevin-warsh-commits-to-price",
     "type": "news",
     "title": "Fed holds rates steady as new Chair Kevin Warsh commits to price ...",
@@ -5141,27 +5267,6 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "Global Market Headlines | Breaking Stock Market News | Reuters"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "global-stock-market-news-and-world-indices-coverage-cnbc",
-    "type": "news",
-    "title": "Global Stock Market News and World Indices Coverage - CNBC",
-    "slug": "global-stock-market-news-and-world-indices-coverage-cnbc",
-    "date": "2026-07-07",
-    "displayDate": "July 7, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "European markets closed lower as Iran reportedly made peace proposal; Asia markets traded lower as oil surged after U.S. blockaded Iran ports; U.S. markets saw ",
-    "excerpt": "European markets closed lower as Iran reportedly made peace proposal; Asia markets traded lower as oil surged after U.S. blockaded Iran ports; U.S. markets saw mixed results with S&P 500 closing higher.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Global Stock Market News and World Indices Coverage - CNBC"
     },
     "readingTime": 3
   },
@@ -6489,27 +6594,6 @@
     "readingTime": 3
   },
   {
-    "id": "earnings-cnbc",
-    "type": "news",
-    "title": "Earnings - CNBC",
-    "slug": "earnings-cnbc",
-    "date": "2026-07-05",
-    "displayDate": "July 5, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Nike's earnings report was underwhelming, while Micron's stock surged due to AI-driven revenue growth. Dell's stock hit a record high on strong AI server sales.",
-    "excerpt": "Nike's earnings report was underwhelming, while Micron's stock surged due to AI-driven revenue growth. Dell's stock hit a record high on strong AI server sales. Oracle's earnings beat expectations, but stock fell on a $20 billion raise plan.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Earnings - CNBC"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "earnings-hub-earnings-this-week-earnings-calendar",
     "type": "news",
     "title": "Earnings Hub: Earnings This Week, Earnings Calendar",
@@ -6863,27 +6947,6 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "Consumer Price Index Data from 1913 to 2026"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "economic-indicators-calendar-federal-reserve-bank-of-new-york",
-    "type": "news",
-    "title": "Economic Indicators Calendar - FEDERAL RESERVE BANK of NEW YORK",
-    "slug": "economic-indicators-calendar-federal-reserve-bank-of-new-york",
-    "date": "2026-07-04",
-    "displayDate": "July 4, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Reserve Bank of New York's Economic Indicators Calendar lists key economic data releases, including the Global Supply Chain Pressure Index and ISM N",
-    "excerpt": "The Federal Reserve Bank of New York's Economic Indicators Calendar lists key economic data releases, including the Global Supply Chain Pressure Index and ISM Non-Manufacturing. Today's releases include Advance International Trade in Goods and Trade Balance. For more details, visit the official cale",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Economic Indicators Calendar - FEDERAL RESERVE BANK of NEW YORK"
     },
     "readingTime": 3
   },
@@ -8060,27 +8123,6 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "United States Federal Reserve Interest Rate Decision - Investing.com"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "united-states-inflation-rate-trading-economics",
-    "type": "news",
-    "title": "United States Inflation Rate - Trading Economics",
-    "slug": "united-states-inflation-rate-trading-economics",
-    "date": "2026-07-01",
-    "displayDate": "July 1, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The U.S. inflation rate for May 2026 was 4.20% YoY and 0.50% MoM. Core inflation rate was 2.90% YoY. The CPI for May 2026 was 335.12 points.",
-    "excerpt": "The U.S. inflation rate for May 2026 was 4.20% YoY and 0.50% MoM. Core inflation rate was 2.90% YoY. The CPI for May 2026 was 335.12 points.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "United States Inflation Rate - Trading Economics"
     },
     "readingTime": 3
   },
