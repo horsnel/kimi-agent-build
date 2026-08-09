@@ -21,6 +21,69 @@
     "readingTime": 4
   },
   {
+    "id": "asia-market-data-marketwatch",
+    "type": "news",
+    "title": "Asia Market Data - MarketWatch",
+    "slug": "asia-market-data-marketwatch",
+    "date": "2026-08-09",
+    "displayDate": "August 9, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "| Name | Last | Chg | Chg % |\n ---  --- |\n| NIKKEI 225 Index | 65,606.71 | -76.55 | -0.12% |\n| - [x] Toggle Chart Options Advanced Charting Range Dropdown $%Vol",
+    "excerpt": "| Name | Last | Chg | Chg % |\n ---  --- |\n| NIKKEI 225 Index | 65,606.71 | -76.55 | -0.12% |\n| - [x] Toggle Chart Options Advanced Charting Range Dropdown $%Vol |\n| Hang Seng Index | 25,668.03 | 137.75 | 0.54% |\n| Shanghai Composite Index | 3,940.04 ",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Asia Market Data - MarketWatch"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "asian-pacific-stocks-bloomberg-bloomberg-markets",
+    "type": "news",
+    "title": "Asian Pacific Stocks - Bloomberg - Bloomberg Markets",
+    "slug": "asian-pacific-stocks-bloomberg-bloomberg-markets",
+    "date": "2026-08-09",
+    "displayDate": "August 9, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "## Malaysia\n\n|  |  |  |  |  |  |  |\n ---  ---  --- \n| FBMKLCI:IND  FTSE Bursa Malaysia KLCI | 1,735.75 | 1.40 | 0.08% | 2.62 | 11.48% | 08/07/2026 |\n| FBMEMAS:I",
+    "excerpt": "## Malaysia\n\n|  |  |  |  |  |  |  |\n ---  ---  --- \n| FBMKLCI:IND  FTSE Bursa Malaysia KLCI | 1,735.75 | 1.40 | 0.08% | 2.62 | 11.48% | 08/07/2026 |\n| FBMEMAS:IND  FTSE BURSA MALAYSIA EMAS | 12,834.25 | 21.77 | 0.17% | 2.48 | 10.62% | 08/07/2026 |\n\n#",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Asian Pacific Stocks - Bloomberg - Bloomberg Markets"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "asian-stock-market-capital-markets-news-bond-market-news-commodities-news-etfs-n",
+    "type": "news",
+    "title": "Asian Stock Market: Capital Markets News, Bond Market News, Commodities News, ETFs News",
+    "slug": "asian-stock-market-capital-markets-news-bond-market-news-commodities-news-etfs-n",
+    "date": "2026-08-09",
+    "displayDate": "August 9, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "NEWS;)\n ANALYSIS;)\n INDEXES;)\n\n# Latest: Asia Stock Market News\n\nEU Tech Crackdown: AliExpress Fined $603m For Illegal Goods\n\n20 Jul 2026\n\n EU Tech Crackdown: A",
+    "excerpt": "NEWS;)\n ANALYSIS;)\n INDEXES;)\n\n# Latest: Asia Stock Market News\n\nEU Tech Crackdown: AliExpress Fined $603m For Illegal Goods\n\n20 Jul 2026\n\n EU Tech Crackdown: AliExpress Fined $603m For Illegal Goods \n\nEuropean officials said the penalty was for allo",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Asian Stock Market: Capital Markets News, Bond Market News, Commodities News, ETFs News"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "coindesk-bitcoin-ethereum-xrp-crypto-news-and-price-data",
     "type": "news",
     "title": "CoinDesk: Bitcoin, Ethereum, XRP, Crypto News and Price Data",
@@ -483,6 +546,27 @@
     "readingTime": 3
   },
   {
+    "id": "health-technology-sector-companies-performance-and-stocks-usa-tradingview",
+    "type": "news",
+    "title": "Health Technology Sector: Companies, Performance and Stocks — USA — TradingView",
+    "slug": "health-technology-sector-companies-performance-and-stocks-usa-tradingview",
+    "date": "2026-08-09",
+    "displayDate": "August 9, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "| GEHCGE HealthCare Technologies Inc. | 32.42 B USD | 71.77 USD | +2.08% | 2.94 M | 0.44 | 16.49 | 4.35 USD | −10.91% | 0.20% | Buy |\n| DXCMDexCom, Inc. | 31.98",
+    "excerpt": "| GEHCGE HealthCare Technologies Inc. | 32.42 B USD | 71.77 USD | +2.08% | 2.94 M | 0.44 | 16.49 | 4.35 USD | −10.91% | 0.20% | Buy |\n| DXCMDexCom, Inc. | 31.98 B USD | 84.75 USD | +2.08% | 4.63 M | 0.76 | 33.45 | 2.53 USD | +77.36% | 0.00% | Strong ",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Health Technology Sector: Companies, Performance and Stocks — USA — TradingView"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "how-should-i-allocate-my-portfolio-in-2026",
     "type": "news",
     "title": "How Should I Allocate My Portfolio in 2026?",
@@ -672,6 +756,27 @@
     "readingTime": 3
   },
   {
+    "id": "meta-title-sectors-yahoo-finance",
+    "type": "news",
+    "title": "META_TITLE_SECTORS - Yahoo Finance",
+    "slug": "meta-title-sectors-yahoo-finance",
+    "date": "2026-08-09",
+    "displayDate": "August 9, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "| Sector | Market Weight | YTD Return |\n --- \n| All Sectors | 100.00% | 13.21% |\n| Technology | 31.44% | 17.53% |\n| Financial Services | 13.99% | 4.84% |\n| Indu",
+    "excerpt": "| Sector | Market Weight | YTD Return |\n --- \n| All Sectors | 100.00% | 13.21% |\n| Technology | 31.44% | 17.53% |\n| Financial Services | 13.99% | 4.84% |\n| Industrials | 10.48% | 41.41% |\n| Consumer Cyclical | 9.84% | 4.11% |\n| Communication Services",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "META_TITLE_SECTORS - Yahoo Finance"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "outlook-at-risk-real-gdp-growth-unemployment-and-inflation-federal-reserve-bank-",
     "type": "news",
     "title": "Outlook-at-Risk: Real GDP Growth, Unemployment, and Inflation - FEDERAL RESERVE BANK of NEW YORK",
@@ -691,6 +796,69 @@
       "alt": "Outlook-at-Risk: Real GDP Growth, Unemployment, and Inflation - FEDERAL RESERVE BANK of NEW YORK"
     },
     "readingTime": 4
+  },
+  {
+    "id": "s-p-500-index-sp500-analysis-news-and-chart-today",
+    "type": "news",
+    "title": "S&P 500 Index (SP500) Analysis, News, And Chart Today",
+    "slug": "s-p-500-index-sp500-analysis-news-and-chart-today",
+    "date": "2026-08-09",
+    "displayDate": "August 9, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "## S&P 500 News\n\n### Earnings Scorecard: 95% of healthcare firms deliver EPS wins this week\n\n### Michael Burry says it’s 'Trump's market' where price doesn't ma",
+    "excerpt": "## S&P 500 News\n\n### Earnings Scorecard: 95% of healthcare firms deliver EPS wins this week\n\n### Michael Burry says it’s 'Trump's market' where price doesn't matter\n\n### SA Analyst: Potential Nasdaq breakout ahead as tech rally broadens\n\n### 3 things",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "S&P 500 Index (SP500) Analysis, News, And Chart Today"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "s-p-500-sp500-technical-analysis-medium-term-us-500-investtech",
+    "type": "news",
+    "title": "S&P 500 (SP500) - Technical Analysis - Medium term - US 500 - Investtech",
+    "slug": "s-p-500-sp500-technical-analysis-medium-term-us-500-investtech",
+    "date": "2026-08-09",
+    "displayDate": "August 9, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Investors have paid higher prices over time to buy S&P 500 and the index is in a rising trend channel in the medium long term. This signals increasing optimism ",
+    "excerpt": "Investors have paid higher prices over time to buy S&P 500 and the index is in a rising trend channel in the medium long term. This signals increasing optimism among investors and indicates continued rise. It also gave positive signal from the rectan",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "S&P 500 (SP500) - Technical Analysis - Medium term - US 500 - Investtech"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "s-p-500-technical-analysis-and-moving-averages-investing-com",
+    "type": "news",
+    "title": "S&P 500 Technical Analysis and Moving Averages - Investing.com",
+    "slug": "s-p-500-technical-analysis-and-moving-averages-investing-com",
+    "date": "2026-08-09",
+    "displayDate": "August 9, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Explore the S&P 500 technical analysis, featuring essential tools like S&P 500 moving averages, RSI, and pivot points to guide your trading decisions. This page",
+    "excerpt": "Explore the S&P 500 technical analysis, featuring essential tools like S&P 500 moving averages, RSI, and pivot points to guide your trading decisions. This page helps you identify key support and resistance levels, track market trends, and spot buy o",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "S&P 500 Technical Analysis and Moving Averages - Investing.com"
+    },
+    "readingTime": 3
   },
   {
     "id": "sector-views-monthly-stock-sector-outlook-charles-schwab",
@@ -798,6 +966,69 @@
     "readingTime": 3
   },
   {
+    "id": "tech-news-today-s-latest-technology-news",
+    "type": "news",
+    "title": "Tech News | Today's Latest Technology News",
+    "slug": "tech-news-today-s-latest-technology-news",
+    "date": "2026-08-09",
+    "displayDate": "August 9, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "### Up next\n\n   Trump’s tech ties come under bipartisan fire after AI agents go rogue Image 9: Video thumbnail: Trump’s tech ties come under bipartisan fire aft",
+    "excerpt": "### Up next\n\n   Trump’s tech ties come under bipartisan fire after AI agents go rogue Image 9: Video thumbnail: Trump’s tech ties come under bipartisan fire after AI agents go rogue\n   AI Weekly: SpaceX's huge AI spend, Anthropic's hack scare  of inv",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Tech News | Today's Latest Technology News"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "techcrunch-startup-and-technology-news",
+    "type": "news",
+    "title": "TechCrunch | Startup and Technology News",
+    "slug": "techcrunch-startup-and-technology-news",
+    "date": "2026-08-09",
+    "displayDate": "August 9, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "In Brief \n### Defense tech Hadrian raises $1.37B at $8B valuation\n\n       Julie Bort\n\n 24 hours ago\n\n   \nImage 71: The Snowflake Inc logo, which represents the ",
+    "excerpt": "In Brief \n### Defense tech Hadrian raises $1.37B at $8B valuation\n\n       Julie Bort\n\n 24 hours ago\n\n   \nImage 71: The Snowflake Inc logo, which represents the American cloud computing-based data company that offers cloud-based storage and analytics ",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "TechCrunch | Startup and Technology News"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "technology-news",
+    "type": "news",
+    "title": "Technology News",
+    "slug": "technology-news",
+    "date": "2026-08-09",
+    "displayDate": "August 9, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Tech\n\nSoftBank gets $8.2 billion boost from Intel as OpenAI takes a backseat\n\nThu, Aug 6th 2026\n\nAI Age\n\nGoogle is expanding its AI empire — and losing the peop",
+    "excerpt": "Tech\n\nSoftBank gets $8.2 billion boost from Intel as OpenAI takes a backseat\n\nThu, Aug 6th 2026\n\nAI Age\n\nGoogle is expanding its AI empire — and losing the people who built it\n\nThu, Aug 6th 2026\n\nTech\n\nAsian tech stocks drop with SK Hynix plunging 10",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Technology News"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "the-fed-federal-open-market-committee",
     "type": "news",
     "title": "The Fed - Federal Open Market Committee",
@@ -857,6 +1088,27 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "The Most Anticipated Earnings Releases for the Week of August 3, 2026"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "u-s-economic-calendar",
+    "type": "news",
+    "title": "U.S. Economic Calendar",
+    "slug": "u-s-economic-calendar",
+    "date": "2026-08-09",
+    "displayDate": "August 9, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "| Time (ET) | Report | Period | Actual | Median Forecast | Previous |\n ---  ---  --- |\n| MONDAY, AUG. 10 |  |  |  |  |  |\n|  | None scheduled |  |  |  |  |\n| TU",
+    "excerpt": "| Time (ET) | Report | Period | Actual | Median Forecast | Previous |\n ---  ---  --- |\n| MONDAY, AUG. 10 |  |  |  |  |  |\n|  | None scheduled |  |  |  |  |\n| TUESDAY, AUG. 11 |  |  |  |  |  |\n| 6:00 am | NFIB optimism index | July |  | 97.2 | 97.4 |\n",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "U.S. Economic Calendar"
     },
     "readingTime": 3
   },
@@ -941,6 +1193,27 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "Weekly Trader's Stock Market Outlook | Charles Schwab"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "what-to-look-out-for-in-economic-data-this-week-august-10-14-kiplinger",
+    "type": "news",
+    "title": "What to Look Out for in Economic Data This Week (August 10-14) | Kiplinger",
+    "slug": "what-to-look-out-for-in-economic-data-this-week-august-10-14-kiplinger",
+    "date": "2026-08-09",
+    "displayDate": "August 9, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Jump to category:\n\n Monday (8/10)\n Tuesday (8/11)\n Wednesday (8/12)\n Thursday (8/13)\n Friday (8/14)\n\n# What to Look Out for in Economic Data This Week (August 1",
+    "excerpt": "Jump to category:\n\n Monday (8/10)\n Tuesday (8/11)\n Wednesday (8/12)\n Thursday (8/13)\n Friday (8/14)\n\n# What to Look Out for in Economic Data This Week (August 10-14)\n\nThe major theme for this week's economic calendar is inflation, with data on consum",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "What to Look Out for in Economic Data This Week (August 10-14) | Kiplinger"
     },
     "readingTime": 3
   },
@@ -1344,27 +1617,6 @@
     "readingTime": 4
   },
   {
-    "id": "health-technology-sector-companies-performance-and-stocks-usa-tradingview",
-    "type": "news",
-    "title": "Health Technology Sector: Companies, Performance and Stocks — USA — TradingView",
-    "slug": "health-technology-sector-companies-performance-and-stocks-usa-tradingview",
-    "date": "2026-08-08",
-    "displayDate": "August 8, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Health Technology sector in the USA includes major pharmaceutical companies with a market cap of $4.72 trillion, and biotech firms with a market cap of $1.0",
-    "excerpt": "The Health Technology sector in the USA includes major pharmaceutical companies with a market cap of $4.72 trillion, and biotech firms with a market cap of $1.03 trillion. Key companies include Incyte Corporation and Organon & Co. with strong buy ratings.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Health Technology Sector: Companies, Performance and Stocks — USA — TradingView"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "interactive-world-macromap-ft-com",
     "type": "news",
     "title": "Interactive World Macromap - FT.com",
@@ -1554,48 +1806,6 @@
     "readingTime": 4
   },
   {
-    "id": "s-p-500-sp500-technical-analysis-medium-term-us-500-investtech",
-    "type": "news",
-    "title": "S&P 500 (SP500) - Technical Analysis - Medium term - US 500 - Investtech",
-    "slug": "s-p-500-sp500-technical-analysis-medium-term-us-500-investtech",
-    "date": "2026-08-08",
-    "displayDate": "August 8, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The S&P 500 is in a rising trend channel, showing strong development and potential for further rise. It is currently testing resistance at 7560, with support at",
-    "excerpt": "The S&P 500 is in a rising trend channel, showing strong development and potential for further rise. It is currently testing resistance at 7560, with support at 7313. A decisive break through these levels could indicate new market direction.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "S&P 500 (SP500) - Technical Analysis - Medium term - US 500 - Investtech"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "s-p-500-technical-analysis-and-moving-averages-investing-com",
-    "type": "news",
-    "title": "S&P 500 Technical Analysis and Moving Averages - Investing.com",
-    "slug": "s-p-500-technical-analysis-and-moving-averages-investing-com",
-    "date": "2026-08-08",
-    "displayDate": "August 8, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The S&P 500's 5-day moving average is 7746.73 (Sell), and its 50-day moving average is 7615.10 (Buy). The current RSI is 61.588 (Buy).",
-    "excerpt": "The S&P 500's 5-day moving average is 7746.73 (Sell), and its 50-day moving average is 7615.10 (Buy). The current RSI is 61.588 (Buy).",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "S&P 500 Technical Analysis and Moving Averages - Investing.com"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "sector-research-news-and-performance-sector-industries-fidelity",
     "type": "news",
     "title": "Sector Research, News and Performance | Sector Industries | Fidelity",
@@ -1678,27 +1888,6 @@
       "alt": "Top Investment Strategies: Key Approaches to Maximize Returns"
     },
     "readingTime": 3
-  },
-  {
-    "id": "u-s-economic-calendar",
-    "type": "news",
-    "title": "U.S. Economic Calendar",
-    "slug": "u-s-economic-calendar",
-    "date": "2026-08-08",
-    "displayDate": "August 8, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Today's key U.S. economic reports include non-farm payrolls and unemployment rate for July. The unemployment rate remains at 4.1%. Initial jobless claims for Au",
-    "excerpt": "Today's key U.S. economic reports include non-farm payrolls and unemployment rate for July. The unemployment rate remains at 4.1%. Initial jobless claims for August 1 are also due.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "U.S. Economic Calendar"
-    },
-    "readingTime": 6
   },
   {
     "id": "united-states-federal-reserve-interest-rate-decision",
@@ -1974,48 +2163,6 @@
     "readingTime": 3
   },
   {
-    "id": "asia-market-data-marketwatch",
-    "type": "news",
-    "title": "Asia Market Data - MarketWatch",
-    "slug": "asia-market-data-marketwatch",
-    "date": "2026-08-07",
-    "displayDate": "August 7, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "As of August 7, 2026, the Nikkei 225 Index is at 65,683.26, down 617.18 points (-0.93%). The Hang Seng Index is at 25,530.28, down 385.54 points (-1.49%). The S",
-    "excerpt": "As of August 7, 2026, the Nikkei 225 Index is at 65,683.26, down 617.18 points (-0.93%). The Hang Seng Index is at 25,530.28, down 385.54 points (-1.49%). The Shanghai Composite Index is at 3,900.35, up 21.92 points (+0.57%).",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Asia Market Data - MarketWatch"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "asian-stock-market-capital-markets-news-bond-market-news-commodities-news-etfs-n",
-    "type": "news",
-    "title": "Asian Stock Market: Capital Markets News, Bond Market News, Commodities News, ETFs News",
-    "slug": "asian-stock-market-capital-markets-news-bond-market-news-commodities-news-etfs-n",
-    "date": "2026-08-07",
-    "displayDate": "August 7, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Asian stock market includes news on capital markets, bond markets, commodities, and ETFs. Recent highlights include EU fines on AliExpress and China's call ",
-    "excerpt": "The Asian stock market includes news on capital markets, bond markets, commodities, and ETFs. Recent highlights include EU fines on AliExpress and China's call for global AI regulation. Current trends show mixed performances in major indices.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Asian Stock Market: Capital Markets News, Bond Market News, Commodities News, ETFs News"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "bitcoin-btc-price-usd-today-news-charts-market-cap",
     "type": "news",
     "title": "Bitcoin (BTC) Price USD Today, News, Charts, Market Cap",
@@ -2268,27 +2415,6 @@
     "readingTime": 3
   },
   {
-    "id": "s-p-500-index-sp500-analysis-news-and-chart-today",
-    "type": "news",
-    "title": "S&P 500 Index (SP500) Analysis, News, And Chart Today",
-    "slug": "s-p-500-index-sp500-analysis-news-and-chart-today",
-    "date": "2026-08-07",
-    "displayDate": "August 7, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The S&P 500 Index (SP500) is currently at 3,900.35, up 0.57% today. The index includes 500 of the largest companies listed on U.S. stock exchanges. For the late",
-    "excerpt": "The S&P 500 Index (SP500) is currently at 3,900.35, up 0.57% today. The index includes 500 of the largest companies listed on U.S. stock exchanges. For the latest detailed analysis, visit financial news websites.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "S&P 500 Index (SP500) Analysis, News, And Chart Today"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "s-p-500-index-today-inx-live-ticker-markets-insider",
     "type": "news",
     "title": "S&P 500 INDEX TODAY | INX LIVE TICKER - Markets Insider",
@@ -2413,48 +2539,6 @@
       "alt": "SVMH Stock Shows Strong Performance In Healthcare Sector | Cryptsy"
     },
     "readingTime": 3
-  },
-  {
-    "id": "tech-news-today-s-latest-technology-news",
-    "type": "news",
-    "title": "Tech News | Today's Latest Technology News",
-    "slug": "tech-news-today-s-latest-technology-news",
-    "date": "2026-08-07",
-    "displayDate": "August 7, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Demis Hassabis moves to Alphabet's chief scientist role, Amazon faces a lawsuit over sustainability claims, and SpaceX's revenue surged but shares dropped.",
-    "excerpt": "Demis Hassabis moves to Alphabet's chief scientist role, Amazon faces a lawsuit over sustainability claims, and SpaceX's revenue surged but shares dropped.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Tech News | Today's Latest Technology News"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "technology-news",
-    "type": "news",
-    "title": "Technology News",
-    "slug": "technology-news",
-    "date": "2026-08-07",
-    "displayDate": "August 7, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Amazon faces a lawsuit over seafood sustainability claims, while Google's AI team sees leadership changes. Additionally, Tesla and SpaceX plan a $16.8B chip fac",
-    "excerpt": "Amazon faces a lawsuit over seafood sustainability claims, while Google's AI team sees leadership changes. Additionally, Tesla and SpaceX plan a $16.8B chip factory in Texas.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Technology News"
-    },
-    "readingTime": 4
   },
   {
     "id": "technology-sector-advances-while-healthcare-stalls-investinglive",
@@ -4809,27 +4893,6 @@
     "readingTime": 3
   },
   {
-    "id": "techcrunch-startup-and-technology-news",
-    "type": "news",
-    "title": "TechCrunch | Startup and Technology News",
-    "slug": "techcrunch-startup-and-technology-news",
-    "date": "2026-08-01",
-    "displayDate": "August 1, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "TechCrunch is a technology news site focusing on startups and high-tech, founded in 2005 and acquired by AOL in 2010. It hosts TechCrunch Disrupt conferences an",
-    "excerpt": "TechCrunch is a technology news site focusing on startups and high-tech, founded in 2005 and acquired by AOL in 2010. It hosts TechCrunch Disrupt conferences and covers various tech sectors. The site also features Startup Battlefield events.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "TechCrunch | Startup and Technology News"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "techmeme",
     "type": "news",
     "title": "Techmeme",
@@ -5897,27 +5960,6 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "Live updates: Interest rates steady, Federal Reserve forecasts 1 rate ..."
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "meta-title-sectors-yahoo-finance",
-    "type": "news",
-    "title": "META_TITLE_SECTORS - Yahoo Finance",
-    "slug": "meta-title-sectors-yahoo-finance",
-    "date": "2026-07-07",
-    "displayDate": "July 7, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The technology sector on Yahoo Finance includes subsectors like semiconductors, software, and computer hardware. AI is a major theme, influencing stock performa",
-    "excerpt": "The technology sector on Yahoo Finance includes subsectors like semiconductors, software, and computer hardware. AI is a major theme, influencing stock performance and market trends. Recent news highlights AI's impact on earnings and market dynamics.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "META_TITLE_SECTORS - Yahoo Finance"
     },
     "readingTime": 3
   },
