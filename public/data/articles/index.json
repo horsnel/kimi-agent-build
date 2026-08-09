@@ -126,6 +126,27 @@
     "readingTime": 4
   },
   {
+    "id": "earnings-calendar",
+    "type": "news",
+    "title": "Earnings Calendar",
+    "slug": "earnings-calendar",
+    "date": "2026-08-09",
+    "displayDate": "August 9, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "An earnings calendar lists upcoming and past earnings reports for publicly traded companies, showing expected and actual earnings per share. It helps investors ",
+    "excerpt": "An earnings calendar lists upcoming and past earnings reports for publicly traded companies, showing expected and actual earnings per share. It helps investors track financial performance. The busiest reporting periods are typically in January, April, July, and October.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Earnings Calendar"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "earnings-cnbc",
     "type": "news",
     "title": "Earnings - CNBC",
@@ -143,6 +164,27 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "Earnings - CNBC"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "earnings",
+    "type": "news",
+    "title": "Earnings",
+    "slug": "earnings",
+    "date": "2026-08-09",
+    "displayDate": "August 9, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Earnings are a corporation's net income after expenses and taxes. They are a key measure of profitability. For Q2 2026, the blended earnings growth rate was 50.",
+    "excerpt": "Earnings are a corporation's net income after expenses and taxes. They are a key measure of profitability. For Q2 2026, the blended earnings growth rate was 50.4%.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Earnings"
     },
     "readingTime": 4
   },
@@ -189,6 +231,27 @@
     "readingTime": 4
   },
   {
+    "id": "economic-indicators",
+    "type": "news",
+    "title": "Economic indicators",
+    "slug": "economic-indicators",
+    "date": "2026-08-09",
+    "displayDate": "August 9, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Economic indicators are key metrics like GDP and unemployment that reveal the health and direction of an economy. They guide policy and investment decisions. Th",
+    "excerpt": "Economic indicators are key metrics like GDP and unemployment that reveal the health and direction of an economy. They guide policy and investment decisions. The most essential indicators include GDP, inflation, and unemployment rates.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Economic indicators"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "ethereum-eth-price-today-news-live-chart-forbes-crypto-market-data",
     "type": "news",
     "title": "Ethereum (ETH) Price Today, News & Live Chart | Forbes Crypto Market Data",
@@ -208,6 +271,48 @@
       "alt": "Ethereum (ETH) Price Today, News & Live Chart | Forbes Crypto Market Data"
     },
     "readingTime": 4
+  },
+  {
+    "id": "ethereum-eth-price-today-news-live-chart",
+    "type": "news",
+    "title": "Ethereum (ETH) Price Today, News & Live Chart",
+    "slug": "ethereum-eth-price-today-news-live-chart",
+    "date": "2026-08-09",
+    "displayDate": "August 9, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Ethereum's price today is $1,923.95, up 0.75% in 24 hours. Market cap is $232.19 billion. Circulating supply is 120.68 million ETH.",
+    "excerpt": "Ethereum's price today is $1,923.95, up 0.75% in 24 hours. Market cap is $232.19 billion. Circulating supply is 120.68 million ETH.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Ethereum (ETH) Price Today, News & Live Chart"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "federal-open-market-committee",
+    "type": "news",
+    "title": "Federal Open Market Committee",
+    "slug": "federal-open-market-committee",
+    "date": "2026-08-09",
+    "displayDate": "August 9, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Open Market Committee (FOMC) is a 12-member committee within the Federal Reserve System that sets U.S. monetary policy and oversees open market oper",
+    "excerpt": "The Federal Open Market Committee (FOMC) is a 12-member committee within the Federal Reserve System that sets U.S. monetary policy and oversees open market operations. The FOMC influences interest rates and the money supply. The Chairman of the Federal Reserve leads the FOMC.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Federal Open Market Committee"
+    },
+    "readingTime": 3
   },
   {
     "id": "federal-reserve-board-monetary-policy",
@@ -248,6 +353,69 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "GLOBAL Definition & Meaning"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "global-market-indices-international-markets-markets-insider",
+    "type": "news",
+    "title": "Global Market Indices | International Markets - Markets Insider",
+    "slug": "global-market-indices-international-markets-markets-insider",
+    "date": "2026-08-09",
+    "displayDate": "August 9, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The FTSE 100 is up 0.31%, the NASDAQ 100 is up 1.19%, and the DAX is up 1.69%.",
+    "excerpt": "The FTSE 100 is up 0.31%, the NASDAQ 100 is up 1.19%, and the DAX is up 1.69%.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Global Market Indices | International Markets - Markets Insider"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "global-market-indices-world-stock-markets-moneycontrol-com",
+    "type": "news",
+    "title": "Global Market Indices | World Stock Markets - Moneycontrol.com",
+    "slug": "global-market-indices-world-stock-markets-moneycontrol-com",
+    "date": "2026-08-09",
+    "displayDate": "August 9, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Global market indices show mixed performance; S&P 500 and Nikkei up, while FTSE 100 and IBEX 35 slightly down. Current trends reflect recent economic shifts and",
+    "excerpt": "Global market indices show mixed performance; S&P 500 and Nikkei up, while FTSE 100 and IBEX 35 slightly down. Current trends reflect recent economic shifts and investor sentiment. Data as of August 9, 2026.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Global Market Indices | World Stock Markets - Moneycontrol.com"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "global-stock-market-news-and-world-indices-coverage",
+    "type": "news",
+    "title": "Global Stock Market News and World Indices Coverage",
+    "slug": "global-stock-market-news-and-world-indices-coverage",
+    "date": "2026-08-09",
+    "displayDate": "August 9, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Global stock markets showed mixed trends, with European markets advancing and Asian markets trading higher. Major indices like Dow Jones, S&P 500, and Nasdaq ar",
+    "excerpt": "Global stock markets showed mixed trends, with European markets advancing and Asian markets trading higher. Major indices like Dow Jones, S&P 500, and Nasdaq are tracked live. Reuters reports on global market headlines and breaking stock news.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Global Stock Market News and World Indices Coverage"
     },
     "readingTime": 4
   },
@@ -336,6 +504,27 @@
     "readingTime": 3
   },
   {
+    "id": "how-the-fomc-conducts-monetary-policy-st-louis-fed",
+    "type": "news",
+    "title": "How the FOMC Conducts Monetary Policy | St. Louis Fed",
+    "slug": "how-the-fomc-conducts-monetary-policy-st-louis-fed",
+    "date": "2026-08-09",
+    "displayDate": "August 9, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Open Market Committee (FOMC) conducts monetary policy by adjusting the federal funds rate target. The Fed implements this policy using tools like in",
+    "excerpt": "The Federal Open Market Committee (FOMC) conducts monetary policy by adjusting the federal funds rate target. The Fed implements this policy using tools like interest on reserve balances. FOMC decisions influence interest rates and economic activity.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "How the FOMC Conducts Monetary Policy | St. Louis Fed"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "investment-outlook-and-portfolio-strategies-for-2026",
     "type": "news",
     "title": "Investment Outlook and Portfolio Strategies for 2026",
@@ -378,6 +567,69 @@
     "readingTime": 3
   },
   {
+    "id": "jobs-shock-sends-stocks-higher-open-interest-8-7-2026",
+    "type": "news",
+    "title": "Jobs Shock Sends Stocks Higher | Open Interest 8/7/2026",
+    "slug": "jobs-shock-sends-stocks-higher-open-interest-8-7-2026",
+    "date": "2026-08-09",
+    "displayDate": "August 9, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "On August 7, 2026, U.S. stocks rose after a surprising drop in job numbers, leading to hopes that interest rates might not increase. The S&P 500 and NASDAQ both",
+    "excerpt": "On August 7, 2026, U.S. stocks rose after a surprising drop in job numbers, leading to hopes that interest rates might not increase. The S&P 500 and NASDAQ both saw gains. This shift followed the release of July's employment report.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Jobs Shock Sends Stocks Higher | Open Interest 8/7/2026"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "latest-stock-market-news",
+    "type": "news",
+    "title": "Latest Stock Market News",
+    "slug": "latest-stock-market-news",
+    "date": "2026-08-09",
+    "displayDate": "August 9, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Stock market news shows tech stocks under pressure despite positive earnings, oil prices stabilizing, and Brent crude climbing due to geopolitical uncertainty. ",
+    "excerpt": "Stock market news shows tech stocks under pressure despite positive earnings, oil prices stabilizing, and Brent crude climbing due to geopolitical uncertainty. Gold reached a seven-week high following weak US jobs data.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Latest Stock Market News"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "list-of-stock-market-sectors-performance-today-sectors-of-the-stock-market-walls",
+    "type": "news",
+    "title": "List of Stock Market Sectors - Performance Today - Sectors of the Stock Market | WallStreetZen",
+    "slug": "list-of-stock-market-sectors-performance-today-sectors-of-the-stock-market-walls",
+    "date": "2026-08-09",
+    "displayDate": "August 9, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Today's top-performing sectors are Technology (+1.57%) and Healthcare (+1.46%), while Financial Services and Energy are down (-0.38% and -1.03% respectively).",
+    "excerpt": "Today's top-performing sectors are Technology (+1.57%) and Healthcare (+1.46%), while Financial Services and Energy are down (-0.38% and -1.03% respectively).",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "List of Stock Market Sectors - Performance Today - Sectors of the Stock Market | WallStreetZen"
+    },
+    "readingTime": 5
+  },
+  {
     "id": "market-outlook",
     "type": "news",
     "title": "Market Outlook",
@@ -397,6 +649,27 @@
       "alt": "Market Outlook"
     },
     "readingTime": 4
+  },
+  {
+    "id": "markets-indexes-bonds-forex-key-commodities-etfs-cnbc",
+    "type": "news",
+    "title": "Markets: Indexes, Bonds, Forex, Key Commodities, ETFs - CNBC",
+    "slug": "markets-indexes-bonds-forex-key-commodities-etfs-cnbc",
+    "date": "2026-08-09",
+    "displayDate": "August 9, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "S&P 500 and Nasdaq close lower; European markets close higher; Asia markets mostly higher.",
+    "excerpt": "S&P 500 and Nasdaq close lower; European markets close higher; Asia markets mostly higher.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Markets: Indexes, Bonds, Forex, Key Commodities, ETFs - CNBC"
+    },
+    "readingTime": 3
   },
   {
     "id": "outlook-at-risk-real-gdp-growth-unemployment-and-inflation-federal-reserve-bank-",
@@ -462,6 +735,90 @@
     "readingTime": 5
   },
   {
+    "id": "stock-market-outlook-today-tomorrow-market-outlook-forecast-seeking-alpha",
+    "type": "news",
+    "title": "Stock Market Outlook Today & Tomorrow | Market Outlook & Forecast | Seeking Alpha",
+    "slug": "stock-market-outlook-today-tomorrow-market-outlook-forecast-seeking-alpha",
+    "date": "2026-08-09",
+    "displayDate": "August 9, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The stock market outlook suggests a mixed trend with some sectors performing well while others face challenges. Key indicators show mixed earnings reports and f",
+    "excerpt": "The stock market outlook suggests a mixed trend with some sectors performing well while others face challenges. Key indicators show mixed earnings reports and fluctuating interest rates. For precise details, consult the latest Seeking Alpha analysis.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Stock Market Outlook Today & Tomorrow | Market Outlook & Forecast | Seeking Alpha"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "stock-market-sector-performance-barchart-com",
+    "type": "news",
+    "title": "Stock Market & Sector Performance - Barchart.com",
+    "slug": "stock-market-sector-performance-barchart-com",
+    "date": "2026-08-09",
+    "displayDate": "August 9, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The S&P 500 Consumer Discretionary sector shows performance metrics like percent change and price change. Sectors include major markets, industry rankings, and ",
+    "excerpt": "The S&P 500 Consumer Discretionary sector shows performance metrics like percent change and price change. Sectors include major markets, industry rankings, and thematic lists. Current date is 2026-08-09.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Stock Market & Sector Performance - Barchart.com"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "stock-markets-business-news-financials-earnings-cnbc",
+    "type": "news",
+    "title": "Stock Markets, Business News, Financials, Earnings - CNBC",
+    "slug": "stock-markets-business-news-financials-earnings-cnbc",
+    "date": "2026-08-09",
+    "displayDate": "August 9, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "CNBC covers stock markets, business news, financials, and earnings, with a focus on market analysis and investment insights. The platform provides updates on gl",
+    "excerpt": "CNBC covers stock markets, business news, financials, and earnings, with a focus on market analysis and investment insights. The platform provides updates on global markets and economic trends. Essential financial reports and expert opinions are featured regularly.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Stock Markets, Business News, Financials, Earnings - CNBC"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "the-fed-federal-open-market-committee",
+    "type": "news",
+    "title": "The Fed - Federal Open Market Committee",
+    "slug": "the-fed-federal-open-market-committee",
+    "date": "2026-08-09",
+    "displayDate": "August 9, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Open Market Committee (FOMC) oversees the nation's open market operations and sets U.S. monetary policy. It consists of twelve members and meets eig",
+    "excerpt": "The Federal Open Market Committee (FOMC) oversees the nation's open market operations and sets U.S. monetary policy. It consists of twelve members and meets eight times a year to determine interest rates and money supply. The FOMC is responsible for open market operations.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "The Fed - Federal Open Market Committee"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "the-fed-meeting-calendars-and-information",
     "type": "news",
     "title": "The Fed - Meeting calendars and information",
@@ -502,6 +859,48 @@
       "alt": "The Most Anticipated Earnings Releases for the Week of August 3, 2026"
     },
     "readingTime": 3
+  },
+  {
+    "id": "united-states-core-inflation-rate",
+    "type": "news",
+    "title": "United States Core Inflation Rate",
+    "slug": "united-states-core-inflation-rate",
+    "date": "2026-08-09",
+    "displayDate": "August 9, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The United States core inflation rate for 2026 is expected to be around 3.5%. This excludes volatile food and energy prices. The latest official data is subject",
+    "excerpt": "The United States core inflation rate for 2026 is expected to be around 3.5%. This excludes volatile food and energy prices. The latest official data is subject to revision.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "United States Core Inflation Rate"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "united-states-economic-indicators-moody-s-analytics",
+    "type": "news",
+    "title": "United States | Economic Indicators | Moody's Analytics",
+    "slug": "united-states-economic-indicators-moody-s-analytics",
+    "date": "2026-08-09",
+    "displayDate": "August 9, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The United States' key economic indicators include the Employment Situation report, Moody’s Analytics House Price Index, and GDP growth. Recent data shows a sta",
+    "excerpt": "The United States' key economic indicators include the Employment Situation report, Moody’s Analytics House Price Index, and GDP growth. Recent data shows a stable labor market and moderate housing price increases.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "United States | Economic Indicators | Moody's Analytics"
+    },
+    "readingTime": 4
   },
   {
     "id": "upcoming-earnings-reports-in-2026-the-motley-fool",
@@ -798,48 +1197,6 @@
     "readingTime": 4
   },
   {
-    "id": "earnings-calendar",
-    "type": "news",
-    "title": "Earnings Calendar",
-    "slug": "earnings-calendar",
-    "date": "2026-08-08",
-    "displayDate": "August 8, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "An earnings calendar lists when companies report their financial results. It helps investors plan trades and compare expectations to actual results. Use it to t",
-    "excerpt": "An earnings calendar lists when companies report their financial results. It helps investors plan trades and compare expectations to actual results. Use it to track company earnings and market trends.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Earnings Calendar"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "earnings",
-    "type": "news",
-    "title": "Earnings",
-    "slug": "earnings",
-    "date": "2026-08-08",
-    "displayDate": "August 8, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Earnings are the net income of a corporation after expenses, taxes, and other deductions. They are crucial for financial analysis and investment decisions. Earn",
-    "excerpt": "Earnings are the net income of a corporation after expenses, taxes, and other deductions. They are crucial for financial analysis and investment decisions. Earnings reports include details like revenue and earnings per share.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Earnings"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "economic-indicators-calendar-federal-reserve-bank-of-new-york",
     "type": "news",
     "title": "Economic Indicators Calendar - FEDERAL RESERVE BANK of NEW YORK",
@@ -859,27 +1216,6 @@
       "alt": "Economic Indicators Calendar - FEDERAL RESERVE BANK of NEW YORK"
     },
     "readingTime": 5
-  },
-  {
-    "id": "economic-indicators",
-    "type": "news",
-    "title": "Economic indicators",
-    "slug": "economic-indicators",
-    "date": "2026-08-08",
-    "displayDate": "August 8, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Economic indicators are statistics that reveal economic activity and predict future performance; they include GDP, unemployment rates, and inflation. They class",
-    "excerpt": "Economic indicators are statistics that reveal economic activity and predict future performance; they include GDP, unemployment rates, and inflation. They classify as leading, lagging, or coincident indicators. They guide policy and investment decisions.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Economic indicators"
-    },
-    "readingTime": 3
   },
   {
     "id": "economic-sector-performance-dashboards-yahoo-finance",
@@ -987,27 +1323,6 @@
     "readingTime": 3
   },
   {
-    "id": "global-market-indices-international-markets-markets-insider",
-    "type": "news",
-    "title": "Global Market Indices | International Markets - Markets Insider",
-    "slug": "global-market-indices-international-markets-markets-insider",
-    "date": "2026-08-08",
-    "displayDate": "August 8, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The FTSE 100 is up 0.31%, the NASDAQ 100 is up 1.19%, and the CAC 40 is up 0.40%.",
-    "excerpt": "The FTSE 100 is up 0.31%, the NASDAQ 100 is up 1.19%, and the CAC 40 is up 0.40%.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Global Market Indices | International Markets - Markets Insider"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "global-stock-market-news-and-world-indices-coverage-cnbc",
     "type": "news",
     "title": "Global Stock Market News and World Indices Coverage - CNBC",
@@ -1029,27 +1344,6 @@
     "readingTime": 4
   },
   {
-    "id": "global-stock-market-news-and-world-indices-coverage",
-    "type": "news",
-    "title": "Global Stock Market News and World Indices Coverage",
-    "slug": "global-stock-market-news-and-world-indices-coverage",
-    "date": "2026-08-08",
-    "displayDate": "August 8, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Global stock markets and world indices show mixed trends with some indices rising and others falling. Key indices like DAX and FTSE 100 are up, while others lik",
-    "excerpt": "Global stock markets and world indices show mixed trends with some indices rising and others falling. Key indices like DAX and FTSE 100 are up, while others like Tadawul All Share and Bovespa are down. Current date is August 8, 2026.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Global Stock Market News and World Indices Coverage"
-    },
-    "readingTime": 5
-  },
-  {
     "id": "health-technology-sector-companies-performance-and-stocks-usa-tradingview",
     "type": "news",
     "title": "Health Technology Sector: Companies, Performance and Stocks — USA — TradingView",
@@ -1069,27 +1363,6 @@
       "alt": "Health Technology Sector: Companies, Performance and Stocks — USA — TradingView"
     },
     "readingTime": 4
-  },
-  {
-    "id": "how-the-fomc-conducts-monetary-policy-st-louis-fed",
-    "type": "news",
-    "title": "How the FOMC Conducts Monetary Policy | St. Louis Fed",
-    "slug": "how-the-fomc-conducts-monetary-policy-st-louis-fed",
-    "date": "2026-08-08",
-    "displayDate": "August 8, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The FOMC conducts monetary policy by adjusting the federal funds rate and uses tools like open market operations to influence interest rates. It aims to achieve",
-    "excerpt": "The FOMC conducts monetary policy by adjusting the federal funds rate and uses tools like open market operations to influence interest rates. It aims to achieve maximum employment and price stability. The FOMC decides whether to raise, lower, or keep the rate steady after each meeting.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "How the FOMC Conducts Monetary Policy | St. Louis Fed"
-    },
-    "readingTime": 3
   },
   {
     "id": "interactive-world-macromap-ft-com",
@@ -1365,27 +1638,6 @@
     "readingTime": 4
   },
   {
-    "id": "stock-market-sector-performance-barchart-com",
-    "type": "news",
-    "title": "Stock Market & Sector Performance - Barchart.com",
-    "slug": "stock-market-sector-performance-barchart-com",
-    "date": "2026-08-08",
-    "displayDate": "August 8, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The TSX Financials Capped Index has a 5-day average of 83%. The TSX Composite Index has a 200-day average of 63%. The TSX Energy Capped Index has a 6-month aver",
-    "excerpt": "The TSX Financials Capped Index has a 5-day average of 83%. The TSX Composite Index has a 200-day average of 63%. The TSX Energy Capped Index has a 6-month average of 56%.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Stock Market & Sector Performance - Barchart.com"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "the-best-investment-strategies-for-the-continuous-market-investing-com",
     "type": "news",
     "title": "The Best Investment Strategies For The Continuous Market - Investing.com",
@@ -1405,27 +1657,6 @@
       "alt": "The Best Investment Strategies For The Continuous Market - Investing.com"
     },
     "readingTime": 3
-  },
-  {
-    "id": "the-fed-federal-open-market-committee",
-    "type": "news",
-    "title": "The Fed - Federal Open Market Committee",
-    "slug": "the-fed-federal-open-market-committee",
-    "date": "2026-08-08",
-    "displayDate": "August 8, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Open Market Committee (FOMC) is the Federal Reserve's main policymaking body that sets U.S. monetary policy and oversees open market operations. It ",
-    "excerpt": "The Federal Open Market Committee (FOMC) is the Federal Reserve's main policymaking body that sets U.S. monetary policy and oversees open market operations. It consists of twelve members and meets eight times a year. The FOMC determines interest rates and the money supply.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "The Fed - Federal Open Market Committee"
-    },
-    "readingTime": 4
   },
   {
     "id": "top-investment-strategies-key-approaches-to-maximize-returns",
@@ -1468,27 +1699,6 @@
       "alt": "U.S. Economic Calendar"
     },
     "readingTime": 6
-  },
-  {
-    "id": "united-states-economic-indicators-moody-s-analytics",
-    "type": "news",
-    "title": "United States | Economic Indicators | Moody's Analytics",
-    "slug": "united-states-economic-indicators-moody-s-analytics",
-    "date": "2026-08-08",
-    "displayDate": "August 8, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The United States' economic indicators include labor market data, retail sales, and consumer credit figures. The unemployment rate and public debt are key metri",
-    "excerpt": "The United States' economic indicators include labor market data, retail sales, and consumer credit figures. The unemployment rate and public debt are key metrics. Moody's Analytics provides detailed economic forecasts and analysis.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "United States | Economic Indicators | Moody's Analytics"
-    },
-    "readingTime": 4
   },
   {
     "id": "united-states-federal-reserve-interest-rate-decision",
@@ -1890,27 +2100,6 @@
     "readingTime": 3
   },
   {
-    "id": "federal-open-market-committee",
-    "type": "news",
-    "title": "Federal Open Market Committee",
-    "slug": "federal-open-market-committee",
-    "date": "2026-08-07",
-    "displayDate": "August 7, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Open Market Committee (FOMC) is the Federal Reserve's main monetary policy body, holding eight regular meetings annually. Members include Board of G",
-    "excerpt": "The Federal Open Market Committee (FOMC) is the Federal Reserve's main monetary policy body, holding eight regular meetings annually. Members include Board of Governors and regional bank presidents. Decisions impact national economic policy.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Federal Open Market Committee"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "federal-reserve-holds-rates-at-3-50-3-75-in-july-2026",
     "type": "news",
     "title": "Federal Reserve Holds Rates at 3.50%-3.75% in July 2026",
@@ -2203,27 +2392,6 @@
       "alt": "Stock market outlook midyear 2026"
     },
     "readingTime": 3
-  },
-  {
-    "id": "stock-market-outlook-today-tomorrow-market-outlook-forecast-seeking-alpha",
-    "type": "news",
-    "title": "Stock Market Outlook Today & Tomorrow | Market Outlook & Forecast | Seeking Alpha",
-    "slug": "stock-market-outlook-today-tomorrow-market-outlook-forecast-seeking-alpha",
-    "date": "2026-08-07",
-    "displayDate": "August 7, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Dow and S&P futures are up, Nasdaq down; tech stocks rebound, AI momentum continues. Gold rallies, oil prices stable. Market outlook positive for tech, cautious",
-    "excerpt": "Dow and S&P futures are up, Nasdaq down; tech stocks rebound, AI momentum continues. Gold rallies, oil prices stable. Market outlook positive for tech, cautious on retail.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Stock Market Outlook Today & Tomorrow | Market Outlook & Forecast | Seeking Alpha"
-    },
-    "readingTime": 4
   },
   {
     "id": "svmh-stock-shows-strong-performance-in-healthcare-sector-cryptsy",
@@ -3146,27 +3314,6 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "Inflation - Economic Data Series | FRED | St. Louis Fed"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "latest-stock-market-news",
-    "type": "news",
-    "title": "Latest Stock Market News",
-    "slug": "latest-stock-market-news",
-    "date": "2026-08-05",
-    "displayDate": "August 5, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The S&P 500 and Dow closed at record highs, driven by strong earnings from AI companies. Oil prices and Treasury yields dropped. Investors are optimistic about ",
-    "excerpt": "The S&P 500 and Dow closed at record highs, driven by strong earnings from AI companies. Oil prices and Treasury yields dropped. Investors are optimistic about a potential deal in the Iran war.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Latest Stock Market News"
     },
     "readingTime": 4
   },
@@ -7262,27 +7409,6 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "Ethereum (ETH) News, Analysis and Forecast - FXStreet"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "ethereum-eth-price-today-news-live-chart",
-    "type": "news",
-    "title": "Ethereum (ETH) Price Today, News & Live Chart",
-    "slug": "ethereum-eth-price-today-news-live-chart",
-    "date": "2026-07-04",
-    "displayDate": "July 4, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Ethereum (ETH) price today is $1,759.34, with a 24-hour trading volume of $8.4 billion. The market cap is $212.3 billion. This data is current as of July 4, 202",
-    "excerpt": "Ethereum (ETH) price today is $1,759.34, with a 24-hour trading volume of $8.4 billion. The market cap is $212.3 billion. This data is current as of July 4, 2026.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Ethereum (ETH) Price Today, News & Live Chart"
     },
     "readingTime": 3
   },
