@@ -1,5 +1,614 @@
 [
   {
+    "id": "ahead-of-wall-street-daily-stock-market-outlook",
+    "type": "news",
+    "title": "Ahead of Wall Street - Daily Stock Market Outlook",
+    "slug": "ahead-of-wall-street-daily-stock-market-outlook",
+    "date": "2026-08-09",
+    "displayDate": "August 9, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The stock market outlook for August 7th shows mixed signals with some stocks rising and others downgraded. Key factors include a weak jobs report and potential ",
+    "excerpt": "The stock market outlook for August 7th shows mixed signals with some stocks rising and others downgraded. Key factors include a weak jobs report and potential shifts in Fed expectations. Investors should monitor these trends closely.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Ahead of Wall Street - Daily Stock Market Outlook"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "coindesk-bitcoin-ethereum-xrp-crypto-news-and-price-data",
+    "type": "news",
+    "title": "CoinDesk: Bitcoin, Ethereum, XRP, Crypto News and Price Data",
+    "slug": "coindesk-bitcoin-ethereum-xrp-crypto-news-and-price-data",
+    "date": "2026-08-09",
+    "displayDate": "August 9, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "As of August 9, 2026, Bitcoin (BTC) is at $65,159.06, up 1.24%, Ethereum (ETH) is at $1,929.99, up 1.74%, and XRP is at $1.04, down 0.75%. For the latest crypto",
+    "excerpt": "As of August 9, 2026, Bitcoin (BTC) is at $65,159.06, up 1.24%, Ethereum (ETH) is at $1,929.99, up 1.74%, and XRP is at $1.04, down 0.75%. For the latest crypto news, visit CoinDesk.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "CoinDesk: Bitcoin, Ethereum, XRP, Crypto News and Price Data"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "company-earnings-calendar-yahoo-finance",
+    "type": "news",
+    "title": "Company Earnings Calendar - Yahoo Finance",
+    "slug": "company-earnings-calendar-yahoo-finance",
+    "date": "2026-08-09",
+    "displayDate": "August 9, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Yahoo Finance's earnings calendar lists upcoming company earnings reports. Key earnings include Berkshire Hathaway and Live Nation. Check for the latest updates",
+    "excerpt": "Yahoo Finance's earnings calendar lists upcoming company earnings reports. Key earnings include Berkshire Hathaway and Live Nation. Check for the latest updates.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Company Earnings Calendar - Yahoo Finance"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "cpi-home-u-s-bureau-of-labor-statistics",
+    "type": "news",
+    "title": "CPI Home : U.S. Bureau of Labor Statistics",
+    "slug": "cpi-home-u-s-bureau-of-labor-statistics",
+    "date": "2026-08-09",
+    "displayDate": "August 9, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Consumer Price Index (CPI) decreased 0.4% in June 2026 after a 0.5% rise in May. Over the past year, the CPI increased 3.5%. Energy prices rose significantl",
+    "excerpt": "The Consumer Price Index (CPI) decreased 0.4% in June 2026 after a 0.5% rise in May. Over the past year, the CPI increased 3.5%. Energy prices rose significantly.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "CPI Home : U.S. Bureau of Labor Statistics"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "crypto-news-bitcoin-ethereum-xrp-news-crypto-news",
+    "type": "news",
+    "title": "Crypto News: Bitcoin, Ethereum & XRP News | crypto.news",
+    "slug": "crypto-news-bitcoin-ethereum-xrp-news-crypto-news",
+    "date": "2026-08-09",
+    "displayDate": "August 9, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin crossed $66,000, Ethereum held steady, and XRP dipped 5.5% as the Senate delayed the Clarity Act vote. Ripple-linked XRP continues to face challenges am",
+    "excerpt": "Bitcoin crossed $66,000, Ethereum held steady, and XRP dipped 5.5% as the Senate delayed the Clarity Act vote. Ripple-linked XRP continues to face challenges amid legislative uncertainty.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Crypto News: Bitcoin, Ethereum & XRP News | crypto.news"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "earnings-calendar-investing-com",
+    "type": "news",
+    "title": "Earnings Calendar - Investing.com",
+    "slug": "earnings-calendar-investing-com",
+    "date": "2026-08-09",
+    "displayDate": "August 9, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Investing.com Earnings Calendar tracks earnings report dates for companies worldwide, showing forecasts and actual results. On August 8, 2026, Bezeq Corp an",
+    "excerpt": "The Investing.com Earnings Calendar tracks earnings report dates for companies worldwide, showing forecasts and actual results. On August 8, 2026, Bezeq Corp and Carlyle Secured Lending are scheduled to report earnings. The calendar helps investors compare analyst expectations with reported outcomes",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Earnings Calendar - Investing.com"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "earnings-cnbc",
+    "type": "news",
+    "title": "Earnings - CNBC",
+    "slug": "earnings-cnbc",
+    "date": "2026-08-09",
+    "displayDate": "August 9, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "CNBC reports earnings for major companies, including Lucid, Paramount, SpaceX, and Disney, with significant updates on tech, media, and retail sectors. Recent e",
+    "excerpt": "CNBC reports earnings for major companies, including Lucid, Paramount, SpaceX, and Disney, with significant updates on tech, media, and retail sectors. Recent earnings show mixed results, with some companies surpassing expectations while others face challenges.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Earnings - CNBC"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "economic-calendar",
+    "type": "news",
+    "title": "Economic Calendar",
+    "slug": "economic-calendar",
+    "date": "2026-08-09",
+    "displayDate": "August 9, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "An economic calendar lists upcoming financial events and indicators that can impact markets. It helps traders prepare for potential market movements. Key events",
+    "excerpt": "An economic calendar lists upcoming financial events and indicators that can impact markets. It helps traders prepare for potential market movements. Key events include interest rate decisions and economic reports.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Economic Calendar"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "economic-indicators-calendar-new-york-fed",
+    "type": "news",
+    "title": "Economic Indicators Calendar | New York Fed",
+    "slug": "economic-indicators-calendar-new-york-fed",
+    "date": "2026-08-09",
+    "displayDate": "August 9, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The New York Fed's Economic Indicators Calendar lists key economic data release dates and times. It provides links to data sources. The calendar is updated regu",
+    "excerpt": "The New York Fed's Economic Indicators Calendar lists key economic data release dates and times. It provides links to data sources. The calendar is updated regularly.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Economic Indicators Calendar | New York Fed"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "ethereum-eth-price-today-news-live-chart-forbes-crypto-market-data",
+    "type": "news",
+    "title": "Ethereum (ETH) Price Today, News & Live Chart | Forbes Crypto Market Data",
+    "slug": "ethereum-eth-price-today-news-live-chart-forbes-crypto-market-data",
+    "date": "2026-08-09",
+    "displayDate": "August 9, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Ethereum's price today is $1,901.52, up 0.2% in the last 24 hours. It has a market cap of $230.7B and ranks #2.",
+    "excerpt": "Ethereum's price today is $1,901.52, up 0.2% in the last 24 hours. It has a market cap of $230.7B and ranks #2.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Ethereum (ETH) Price Today, News & Live Chart | Forbes Crypto Market Data"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "federal-reserve-board-monetary-policy",
+    "type": "news",
+    "title": "Federal Reserve Board - Monetary Policy",
+    "slug": "federal-reserve-board-monetary-policy",
+    "date": "2026-08-09",
+    "displayDate": "August 9, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Reserve's monetary policy aims for maximum employment, stable prices, and moderate interest rates. It's implemented by the Federal Open Market Commi",
+    "excerpt": "The Federal Reserve's monetary policy aims for maximum employment, stable prices, and moderate interest rates. It's implemented by the Federal Open Market Committee and uses tools like the federal funds rate and asset purchases. The Fed reviews its strategy periodically.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Federal Reserve Board - Monetary Policy"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "global-definition-meaning",
+    "type": "news",
+    "title": "GLOBAL Definition & Meaning",
+    "slug": "global-definition-meaning",
+    "date": "2026-08-09",
+    "displayDate": "August 9, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Global means worldwide or affecting the entire planet. It can also refer to something comprehensive or universal. The term is derived from \"globe,\" relating to ",
+    "excerpt": "Global means worldwide or affecting the entire planet. It can also refer to something comprehensive or universal. The term is derived from \"globe,\" relating to Earth or celestial bodies.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "GLOBAL Definition & Meaning"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "global-television-network-wikipedia",
+    "type": "news",
+    "title": "Global Television Network - Wikipedia",
+    "slug": "global-television-network-wikipedia",
+    "date": "2026-08-09",
+    "displayDate": "August 9, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Global Television Network is a major Canadian English-language broadcast network, second only to CTV in viewership, owned by Corus Entertainment. It has fifteen",
+    "excerpt": "Global Television Network is a major Canadian English-language broadcast network, second only to CTV in viewership, owned by Corus Entertainment. It has fifteen owned-and-operated stations across Canada. Global is known for airing popular shows like \"24.\"",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Global Television Network - Wikipedia"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "globe-home-page-globe-gov",
+    "type": "news",
+    "title": "GLOBE Home Page - GLOBE.gov",
+    "slug": "globe-home-page-globe-gov",
+    "date": "2026-08-09",
+    "displayDate": "August 9, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The GLOBE Program is an international science and education initiative that engages students and the public in environmental data collection and scientific rese",
+    "excerpt": "The GLOBE Program is an international science and education initiative that engages students and the public in environmental data collection and scientific research. It was established in 1994 and is supported by NASA, NOAA, and the National Science Foundation. The program has over 130 million measu",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "GLOBE Home Page - GLOBE.gov"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "gross-domestic-product-gdp-consumer-price-index-cpi-housing-starts-unemployment-",
+    "type": "news",
+    "title": "Gross Domestic Product | GDP | Consumer Price Index CPI Housing Starts Unemployment Rate US",
+    "slug": "gross-domestic-product-gdp-consumer-price-index-cpi-housing-starts-unemployment-",
+    "date": "2026-08-09",
+    "displayDate": "August 9, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "GDP is the value of all goods and services produced in the U.S. The Consumer Price Index (CPI) measures inflation. The unemployment rate was 4.1% in July 2026.",
+    "excerpt": "GDP is the value of all goods and services produced in the U.S. The Consumer Price Index (CPI) measures inflation. The unemployment rate was 4.1% in July 2026.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Gross Domestic Product | GDP | Consumer Price Index CPI Housing Starts Unemployment Rate US"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "how-should-i-allocate-my-portfolio-in-2026",
+    "type": "news",
+    "title": "How Should I Allocate My Portfolio in 2026?",
+    "slug": "how-should-i-allocate-my-portfolio-in-2026",
+    "date": "2026-08-09",
+    "displayDate": "August 9, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Allocate your portfolio with a focus on bonds, moderate stocks, and some cash, adjusting based on your risk tolerance and long-term goals. Review annually or af",
+    "excerpt": "Allocate your portfolio with a focus on bonds, moderate stocks, and some cash, adjusting based on your risk tolerance and long-term goals. Review annually or after major life changes. Stocks drive growth, while bonds stabilize.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "How Should I Allocate My Portfolio in 2026?"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "investment-outlook-and-portfolio-strategies-for-2026",
+    "type": "news",
+    "title": "Investment Outlook and Portfolio Strategies for 2026",
+    "slug": "investment-outlook-and-portfolio-strategies-for-2026",
+    "date": "2026-08-09",
+    "displayDate": "August 9, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "For 2026, focus on small caps, emerging markets, and AI-driven diversification; consider income strategies amid lower rates; and use fixed income for stability.",
+    "excerpt": "For 2026, focus on small caps, emerging markets, and AI-driven diversification; consider income strategies amid lower rates; and use fixed income for stability.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Investment Outlook and Portfolio Strategies for 2026"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "investment-strategy-2026-portfolio-moves-for-a-changing-market",
+    "type": "news",
+    "title": "Investment Strategy 2026 Portfolio Moves for a Changing Market",
+    "slug": "investment-strategy-2026-portfolio-moves-for-a-changing-market",
+    "date": "2026-08-09",
+    "displayDate": "August 9, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Focus on income-generating assets, diversify to manage AI's impact, and build portfolio resilience against market volatility.",
+    "excerpt": "Focus on income-generating assets, diversify to manage AI's impact, and build portfolio resilience against market volatility.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Investment Strategy 2026 Portfolio Moves for a Changing Market"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "market-outlook",
+    "type": "news",
+    "title": "Market Outlook",
+    "slug": "market-outlook",
+    "date": "2026-08-09",
+    "displayDate": "August 9, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Markets remain resilient despite regional volatility, with strong U.S. growth and corporate earnings driving performance. Inflation trends are mixed, and global",
+    "excerpt": "Markets remain resilient despite regional volatility, with strong U.S. growth and corporate earnings driving performance. Inflation trends are mixed, and global economic fragmentation continues. As of mid-2026, major stock segments posted positive returns.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Market Outlook"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "outlook-at-risk-real-gdp-growth-unemployment-and-inflation-federal-reserve-bank-",
+    "type": "news",
+    "title": "Outlook-at-Risk: Real GDP Growth, Unemployment, and Inflation - FEDERAL RESERVE BANK of NEW YORK",
+    "slug": "outlook-at-risk-real-gdp-growth-unemployment-and-inflation-federal-reserve-bank-",
+    "date": "2026-08-09",
+    "displayDate": "August 9, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Outlook-at-Risk quantifies risks for real GDP growth, unemployment, and inflation. It is a tool by the Federal Reserve Bank of New York, not an official forecas",
+    "excerpt": "Outlook-at-Risk quantifies risks for real GDP growth, unemployment, and inflation. It is a tool by the Federal Reserve Bank of New York, not an official forecast. FOMC projections for 2025-2028 show ±0.8% to ±2.3% GDP growth, ±0.1% to ±2.0% unemployment rate, and ±0.3% to ±1.8% inflation.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Outlook-at-Risk: Real GDP Growth, Unemployment, and Inflation - FEDERAL RESERVE BANK of NEW YORK"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "sector-views-monthly-stock-sector-outlook-charles-schwab",
+    "type": "news",
+    "title": "Sector Views: Monthly Stock Sector Outlook - Charles Schwab",
+    "slug": "sector-views-monthly-stock-sector-outlook-charles-schwab",
+    "date": "2026-08-09",
+    "displayDate": "August 9, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Schwab Sector Views provides a six- to 12-month outlook for stock sectors, combining factor-based analysis and market assessment. It helps investors make tactic",
+    "excerpt": "Schwab Sector Views provides a six- to 12-month outlook for stock sectors, combining factor-based analysis and market assessment. It helps investors make tactical shifts in portfolios. The Information Technology sector includes tech hardware and software companies.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Sector Views: Monthly Stock Sector Outlook - Charles Schwab"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "sectors-stock-market-usa-tradingview",
+    "type": "news",
+    "title": "Sectors — Stock Market — USA — TradingView",
+    "slug": "sectors-stock-market-usa-tradingview",
+    "date": "2026-08-09",
+    "displayDate": "August 9, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The top sectors in the US stock market include Technology Services, Finance, and Health Technology, with significant market capitalizations and varying dividend",
+    "excerpt": "The top sectors in the US stock market include Technology Services, Finance, and Health Technology, with significant market capitalizations and varying dividend yields and changes. The most active industries are Electronic Components and Oil Refining/Marketing, with notable market values and trading",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Sectors — Stock Market — USA — TradingView"
+    },
+    "readingTime": 5
+  },
+  {
+    "id": "the-fed-meeting-calendars-and-information",
+    "type": "news",
+    "title": "The Fed - Meeting calendars and information",
+    "slug": "the-fed-meeting-calendars-and-information",
+    "date": "2026-08-09",
+    "displayDate": "August 9, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Reserve's FOMC meets eight times a year; the next meeting is September 15-16, 2026. The FOMC releases minutes three weeks after each meeting. The cu",
+    "excerpt": "The Federal Reserve's FOMC meets eight times a year; the next meeting is September 15-16, 2026. The FOMC releases minutes three weeks after each meeting. The current Federal Funds rate is 3.62%.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "The Fed - Meeting calendars and information"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "the-most-anticipated-earnings-releases-for-the-week-of-august-3-2026",
+    "type": "news",
+    "title": "The Most Anticipated Earnings Releases for the Week of August 3, 2026",
+    "slug": "the-most-anticipated-earnings-releases-for-the-week-of-august-3-2026",
+    "date": "2026-08-09",
+    "displayDate": "August 9, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The most anticipated earnings releases for the week of August 3, 2026, include SanDisk, Palantir Technologies, AMD, and Eli Lilly. These companies are expected ",
+    "excerpt": "The most anticipated earnings releases for the week of August 3, 2026, include SanDisk, Palantir Technologies, AMD, and Eli Lilly. These companies are expected to report significant financial results.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "The Most Anticipated Earnings Releases for the Week of August 3, 2026"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "upcoming-earnings-reports-in-2026-the-motley-fool",
+    "type": "news",
+    "title": "Upcoming Earnings Reports in 2026 - The Motley Fool",
+    "slug": "upcoming-earnings-reports-in-2026-the-motley-fool",
+    "date": "2026-08-09",
+    "displayDate": "August 9, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Amazon, Tesla, and Alphabet reported strong first-quarter 2026 earnings. Analysts expect S&P 500 earnings to grow 18.9% for 2026. Second-quarter earnings season",
+    "excerpt": "Amazon, Tesla, and Alphabet reported strong first-quarter 2026 earnings. Analysts expect S&P 500 earnings to grow 18.9% for 2026. Second-quarter earnings season starts with high expectations.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Upcoming Earnings Reports in 2026 - The Motley Fool"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "weekly-trader-s-stock-market-outlook-charles-schwab",
+    "type": "news",
+    "title": "Weekly Trader's Stock Market Outlook | Charles Schwab",
+    "slug": "weekly-trader-s-stock-market-outlook-charles-schwab",
+    "date": "2026-08-09",
+    "displayDate": "August 9, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Stocks rebounded strongly, driven by tech sector recovery and strong earnings from Microsoft and Amazon. Market outlook remains cautiously optimistic with key e",
+    "excerpt": "Stocks rebounded strongly, driven by tech sector recovery and strong earnings from Microsoft and Amazon. Market outlook remains cautiously optimistic with key economic data releases. Current market trends suggest potential for continued gains.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Weekly Trader's Stock Market Outlook | Charles Schwab"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "what-to-look-out-for-in-economic-data-this-week-august-10-14",
+    "type": "news",
+    "title": "What to Look Out for in Economic Data This Week (August 10-14)",
+    "slug": "what-to-look-out-for-in-economic-data-this-week-august-10-14",
+    "date": "2026-08-09",
+    "displayDate": "August 9, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "This week's key economic data focuses on inflation, with reports on consumer and producer prices, and U.S. retail sales on August 14. The Consumer Price Index (",
+    "excerpt": "This week's key economic data focuses on inflation, with reports on consumer and producer prices, and U.S. retail sales on August 14. The Consumer Price Index (CPI) and Producer Price Index (PPI) are particularly significant. Retail sales figures will also be released.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "What to Look Out for in Economic Data This Week (August 10-14)"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "when-is-the-next-fomc-meeting",
+    "type": "news",
+    "title": "When is the next FOMC meeting?",
+    "slug": "when-is-the-next-fomc-meeting",
+    "date": "2026-08-09",
+    "displayDate": "August 9, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The next FOMC meeting is scheduled for April 28–29, 2026. The FOMC meets eight times a year. The Federal Reserve confirms meeting dates prior to each session.",
+    "excerpt": "The next FOMC meeting is scheduled for April 28–29, 2026. The FOMC meets eight times a year. The Federal Reserve confirms meeting dates prior to each session.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "When is the next FOMC meeting?"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "year-to-date-best-performing-stocks-sectors-industries-rankings-csimarket",
+    "type": "news",
+    "title": "Year To Date Best Performing Stocks, Sectors, Industries Rankings - CSIMarket",
+    "slug": "year-to-date-best-performing-stocks-sectors-industries-rankings-csimarket",
+    "date": "2026-08-09",
+    "displayDate": "August 9, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The year-to-date best performing stocks, sectors, and industries rankings are not available here. For the latest data, visit CSIMarket directly.",
+    "excerpt": "The year-to-date best performing stocks, sectors, and industries rankings are not available here. For the latest data, visit CSIMarket directly.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Year To Date Best Performing Stocks, Sectors, Industries Rankings - CSIMarket"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "24-7-wall-st-insightful-analysis-and-commentary-for-u-s-and-global-equity-invest",
     "type": "news",
     "title": "24/7 Wall St. - Insightful Analysis and Commentary for U.S. and Global Equity Investors",
@@ -21,27 +630,6 @@
     "readingTime": 3
   },
   {
-    "id": "ahead-of-wall-street-daily-stock-market-outlook",
-    "type": "news",
-    "title": "Ahead of Wall Street - Daily Stock Market Outlook",
-    "slug": "ahead-of-wall-street-daily-stock-market-outlook",
-    "date": "2026-08-08",
-    "displayDate": "August 8, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The U.S. stock market outlook shows strong performance in tech and consumer discretionary sectors, while energy and utilities sectors are underperforming. Analy",
-    "excerpt": "The U.S. stock market outlook shows strong performance in tech and consumer discretionary sectors, while energy and utilities sectors are underperforming. Analysts expect tech sector to grow 22% annually over the next five years. The unemployment rate for July 2026 was 4.1%.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Ahead of Wall Street - Daily Stock Market Outlook"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "bitcoin-price-analysis-today-btc-holds-74k-as-fomc-meeting-sparks-crypto-market-",
     "type": "news",
     "title": "Bitcoin Price Analysis Today: BTC Holds $74K as FOMC Meeting Sparks Crypto Market Volatility — March 18, 2026 - BitRss - Crypto World News",
@@ -59,27 +647,6 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "Bitcoin Price Analysis Today: BTC Holds $74K as FOMC Meeting Sparks Crypto Market Volatility — March 18, 2026 - BitRss - Crypto World News"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "coindesk-bitcoin-ethereum-xrp-crypto-news-and-price-data",
-    "type": "news",
-    "title": "CoinDesk: Bitcoin, Ethereum, XRP, Crypto News and Price Data",
-    "slug": "coindesk-bitcoin-ethereum-xrp-crypto-news-and-price-data",
-    "date": "2026-08-08",
-    "displayDate": "August 8, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "CoinDesk is a leading source for news and data on cryptocurrencies like Bitcoin, Ethereum, and XRP. It offers real-time price updates and comprehensive market i",
-    "excerpt": "CoinDesk is a leading source for news and data on cryptocurrencies like Bitcoin, Ethereum, and XRP. It offers real-time price updates and comprehensive market insights. Founded in 2013, it has become a trusted authority in the crypto industry.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "CoinDesk: Bitcoin, Ethereum, XRP, Crypto News and Price Data"
     },
     "readingTime": 3
   },
@@ -105,27 +672,6 @@
     "readingTime": 5
   },
   {
-    "id": "company-earnings-calendar-yahoo-finance",
-    "type": "news",
-    "title": "Company Earnings Calendar - Yahoo Finance",
-    "slug": "company-earnings-calendar-yahoo-finance",
-    "date": "2026-08-08",
-    "displayDate": "August 8, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "On August 7, 2026, 61 earnings reports are scheduled. The earnings calendar includes various financial events like IPOs and economic events. The most recent ear",
-    "excerpt": "On August 7, 2026, 61 earnings reports are scheduled. The earnings calendar includes various financial events like IPOs and economic events. The most recent earnings report was on August 6.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Company Earnings Calendar - Yahoo Finance"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "countdown-to-earnings-the-quarterly-results-this-week-the-dales-report",
     "type": "news",
     "title": "Countdown to Earnings: The Quarterly Results This Week - The Dales Report",
@@ -145,48 +691,6 @@
       "alt": "Countdown to Earnings: The Quarterly Results This Week - The Dales Report"
     },
     "readingTime": 3
-  },
-  {
-    "id": "cpi-home-u-s-bureau-of-labor-statistics",
-    "type": "news",
-    "title": "CPI Home : U.S. Bureau of Labor Statistics",
-    "slug": "cpi-home-u-s-bureau-of-labor-statistics",
-    "date": "2026-08-08",
-    "displayDate": "August 8, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Consumer Price Index (CPI) decreased 0.4% in June 2026, with energy prices rising 15.7% and gasoline up 26.7%. Over the past year, CPI increased 3.5%. For m",
-    "excerpt": "The Consumer Price Index (CPI) decreased 0.4% in June 2026, with energy prices rising 15.7% and gasoline up 26.7%. Over the past year, CPI increased 3.5%. For more details, visit the U.S. Bureau of Labor Statistics.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "CPI Home : U.S. Bureau of Labor Statistics"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "crypto-news-bitcoin-ethereum-xrp-news-crypto-news",
-    "type": "news",
-    "title": "Crypto News: Bitcoin, Ethereum & XRP News | crypto.news",
-    "slug": "crypto-news-bitcoin-ethereum-xrp-news-crypto-news",
-    "date": "2026-08-08",
-    "displayDate": "August 8, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Bitcoin and Ethereum prices rose slightly, while XRP fell 5.5% due to the Clarity Act delay. BlackRock Bitcoin ETF experienced a selloff. Strive acquired more B",
-    "excerpt": "Bitcoin and Ethereum prices rose slightly, while XRP fell 5.5% due to the Clarity Act delay. BlackRock Bitcoin ETF experienced a selloff. Strive acquired more Bitcoin, raising its total to 16,500 coins.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Crypto News: Bitcoin, Ethereum & XRP News | crypto.news"
-    },
-    "readingTime": 4
   },
   {
     "id": "cryptocurrency-pricing-market-regulation-news",
@@ -315,27 +819,6 @@
     "readingTime": 3
   },
   {
-    "id": "earnings-cnbc",
-    "type": "news",
-    "title": "Earnings - CNBC",
-    "slug": "earnings-cnbc",
-    "date": "2026-08-08",
-    "displayDate": "August 8, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "CNBC reports earnings for companies like Lucid, Paramount, and SpaceX, highlighting financial performance and market impacts. Key highlights include earnings be",
-    "excerpt": "CNBC reports earnings for companies like Lucid, Paramount, and SpaceX, highlighting financial performance and market impacts. Key highlights include earnings beats and misses, stock movements, and sector-specific trends. The data is primarily for future dates in 2026.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Earnings - CNBC"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "earnings",
     "type": "news",
     "title": "Earnings",
@@ -355,27 +838,6 @@
       "alt": "Earnings"
     },
     "readingTime": 4
-  },
-  {
-    "id": "economic-calendar",
-    "type": "news",
-    "title": "Economic Calendar",
-    "slug": "economic-calendar",
-    "date": "2026-08-08",
-    "displayDate": "August 8, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "An economic calendar lists upcoming financial events and data releases that can impact markets. It helps traders prepare for potential market movements. It incl",
-    "excerpt": "An economic calendar lists upcoming financial events and data releases that can impact markets. It helps traders prepare for potential market movements. It includes events like interest rate decisions and economic reports.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Economic Calendar"
-    },
-    "readingTime": 3
   },
   {
     "id": "economic-indicators-calendar-federal-reserve-bank-of-new-york",
@@ -525,27 +987,6 @@
     "readingTime": 3
   },
   {
-    "id": "federal-reserve-board-monetary-policy",
-    "type": "news",
-    "title": "Federal Reserve Board - Monetary Policy",
-    "slug": "federal-reserve-board-monetary-policy",
-    "date": "2026-08-08",
-    "displayDate": "August 8, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Reserve's monetary policy aims to promote maximum employment and stable prices. It is primarily conducted through the federal funds rate and tools l",
-    "excerpt": "The Federal Reserve's monetary policy aims to promote maximum employment and stable prices. It is primarily conducted through the federal funds rate and tools like asset purchases. The Federal Open Market Committee sets this policy.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Federal Reserve Board - Monetary Policy"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "global-market-indices-international-markets-markets-insider",
     "type": "news",
     "title": "Global Market Indices | International Markets - Markets Insider",
@@ -630,27 +1071,6 @@
     "readingTime": 4
   },
   {
-    "id": "how-should-i-allocate-my-portfolio-in-2026",
-    "type": "news",
-    "title": "How Should I Allocate My Portfolio in 2026?",
-    "slug": "how-should-i-allocate-my-portfolio-in-2026",
-    "date": "2026-08-08",
-    "displayDate": "August 8, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Allocate your portfolio based on your time horizon, risk tolerance, and income stability. Stocks drive growth; bonds reduce volatility. Annual reviews are recom",
-    "excerpt": "Allocate your portfolio based on your time horizon, risk tolerance, and income stability. Stocks drive growth; bonds reduce volatility. Annual reviews are recommended.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "How Should I Allocate My Portfolio in 2026?"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "how-the-fomc-conducts-monetary-policy-st-louis-fed",
     "type": "news",
     "title": "How the FOMC Conducts Monetary Policy | St. Louis Fed",
@@ -693,27 +1113,6 @@
     "readingTime": 3
   },
   {
-    "id": "investment-outlook-and-portfolio-strategies-for-2026",
-    "type": "news",
-    "title": "Investment Outlook and Portfolio Strategies for 2026",
-    "slug": "investment-outlook-and-portfolio-strategies-for-2026",
-    "date": "2026-08-08",
-    "displayDate": "August 8, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "For 2026, focus on small caps and emerging markets, diversify globally, and consider alternative investments. Income generation and targeted diversification are",
-    "excerpt": "For 2026, focus on small caps and emerging markets, diversify globally, and consider alternative investments. Income generation and targeted diversification are key, especially in an AI-driven market.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Investment Outlook and Portfolio Strategies for 2026"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "investment-strategies-for-today-and-long-term-blackrock",
     "type": "news",
     "title": "Investment strategies for today and long-term | BlackRock",
@@ -731,27 +1130,6 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "Investment strategies for today and long-term | BlackRock"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "investment-strategy-2026-portfolio-moves-for-a-changing-market",
-    "type": "news",
-    "title": "Investment Strategy 2026 Portfolio Moves for a Changing Market",
-    "slug": "investment-strategy-2026-portfolio-moves-for-a-changing-market",
-    "date": "2026-08-08",
-    "displayDate": "August 8, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "For 2026, focus on income-generating assets and selective diversification, especially in AI-driven sectors, while preparing for market dispersion and rising def",
-    "excerpt": "For 2026, focus on income-generating assets and selective diversification, especially in AI-driven sectors, while preparing for market dispersion and rising default risks. Prioritize cash-flow-generative investments for long-term resilience.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Investment Strategy 2026 Portfolio Moves for a Changing Market"
     },
     "readingTime": 3
   },
@@ -815,27 +1193,6 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "MAJOR. (@nowthatsmajor) • Instagram photos and videos"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "outlook-at-risk-real-gdp-growth-unemployment-and-inflation-federal-reserve-bank-",
-    "type": "news",
-    "title": "Outlook-at-Risk: Real GDP Growth, Unemployment, and Inflation - FEDERAL RESERVE BANK of NEW YORK",
-    "slug": "outlook-at-risk-real-gdp-growth-unemployment-and-inflation-federal-reserve-bank-",
-    "date": "2026-08-08",
-    "displayDate": "August 8, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Outlook-at-Risk quantifies risks for real GDP growth, unemployment, and inflation. It is a tool by the Federal Reserve Bank of New York, not an official forecas",
-    "excerpt": "Outlook-at-Risk quantifies risks for real GDP growth, unemployment, and inflation. It is a tool by the Federal Reserve Bank of New York, not an official forecast. It considers average quarterly growth and inflation over four quarters.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Outlook-at-Risk: Real GDP Growth, Unemployment, and Inflation - FEDERAL RESERVE BANK of NEW YORK"
     },
     "readingTime": 3
   },
@@ -1008,27 +1365,6 @@
     "readingTime": 4
   },
   {
-    "id": "sector-views-monthly-stock-sector-outlook-charles-schwab",
-    "type": "news",
-    "title": "Sector Views: Monthly Stock Sector Outlook - Charles Schwab",
-    "slug": "sector-views-monthly-stock-sector-outlook-charles-schwab",
-    "date": "2026-08-08",
-    "displayDate": "August 8, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Information Technology is more favored, while Real Estate is least favored in the monthly stock sector outlook. The S&P 500 index had a 9.7% performance over th",
-    "excerpt": "Information Technology is more favored, while Real Estate is least favored in the monthly stock sector outlook. The S&P 500 index had a 9.7% performance over the past six months.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Sector Views: Monthly Stock Sector Outlook - Charles Schwab"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "stock-market-sector-performance-barchart-com",
     "type": "news",
     "title": "Stock Market & Sector Performance - Barchart.com",
@@ -1090,27 +1426,6 @@
       "alt": "The Fed - Federal Open Market Committee"
     },
     "readingTime": 4
-  },
-  {
-    "id": "the-fed-meeting-calendars-and-information",
-    "type": "news",
-    "title": "The Fed - Meeting calendars and information",
-    "slug": "the-fed-meeting-calendars-and-information",
-    "date": "2026-08-08",
-    "displayDate": "August 8, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Reserve holds eight regular meetings annually; the next is scheduled for July 27-28, 2026. Minutes from the most recent meeting are released three w",
-    "excerpt": "The Federal Reserve holds eight regular meetings annually; the next is scheduled for July 27-28, 2026. Minutes from the most recent meeting are released three weeks after the decision date. The FOMC meeting in January 2028 is a two-day event.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "The Fed - Meeting calendars and information"
-    },
-    "readingTime": 3
   },
   {
     "id": "top-investment-strategies-key-approaches-to-maximize-returns",
@@ -1554,27 +1869,6 @@
     "readingTime": 3
   },
   {
-    "id": "economic-indicators-calendar-new-york-fed",
-    "type": "news",
-    "title": "Economic Indicators Calendar | New York Fed",
-    "slug": "economic-indicators-calendar-new-york-fed",
-    "date": "2026-08-07",
-    "displayDate": "August 7, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The New York Fed's Economic Indicators Calendar lists key economic data release dates and times (Eastern Time). It includes major reports like employment data a",
-    "excerpt": "The New York Fed's Economic Indicators Calendar lists key economic data release dates and times (Eastern Time). It includes major reports like employment data and inflation indices. The calendar is updated regularly.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Economic Indicators Calendar | New York Fed"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "economic-indicators-u-s-department-of-commerce",
     "type": "news",
     "title": "Economic indicators - U.S. Department of Commerce",
@@ -1657,27 +1951,6 @@
       "alt": "Federal Reserve votes to keep interest rates unchanged"
     },
     "readingTime": 3
-  },
-  {
-    "id": "gross-domestic-product-gdp-consumer-price-index-cpi-housing-starts-unemployment-",
-    "type": "news",
-    "title": "Gross Domestic Product | GDP | Consumer Price Index CPI Housing Starts Unemployment Rate US",
-    "slug": "gross-domestic-product-gdp-consumer-price-index-cpi-housing-starts-unemployment-",
-    "date": "2026-08-07",
-    "displayDate": "August 7, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The GDP for 2026 is 31865.7, the CPI is 332.6, and the unemployment rate is 4.2%.",
-    "excerpt": "The GDP for 2026 is 31865.7, the CPI is 332.6, and the unemployment rate is 4.2%.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Gross Domestic Product | GDP | Consumer Price Index CPI Housing Starts Unemployment Rate US"
-    },
-    "readingTime": 4
   },
   {
     "id": "inflation-consumer-prices-for-the-united-states-fpcpitotlzgusa",
@@ -3885,27 +4158,6 @@
     "readingTime": 3
   },
   {
-    "id": "sectors-stock-market-usa-tradingview",
-    "type": "news",
-    "title": "Sectors — Stock Market — USA — TradingView",
-    "slug": "sectors-stock-market-usa-tradingview",
-    "date": "2026-08-03",
-    "displayDate": "August 3, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The USA stock market sectors include Electronic Technology, Technology Services, Finance, Health Technology, and Retail Trade. Each sector has a significant mar",
-    "excerpt": "The USA stock market sectors include Electronic Technology, Technology Services, Finance, Health Technology, and Retail Trade. Each sector has a significant market capitalization and varying dividend yields and changes. The most prominent sectors are Electronic Technology and Technology Services.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Sectors — Stock Market — USA — TradingView"
-    },
-    "readingTime": 5
-  },
-  {
     "id": "yahoo-finance-stock-market-live-quotes-business",
     "type": "news",
     "title": "Yahoo Finance - Stock Market Live, Quotes, Business ...",
@@ -4198,27 +4450,6 @@
       "alt": "Wall Street Horizon: Earnings Calendar & Event Data"
     },
     "readingTime": 3
-  },
-  {
-    "id": "when-is-the-next-fomc-meeting",
-    "type": "news",
-    "title": "When is the next FOMC meeting?",
-    "slug": "when-is-the-next-fomc-meeting",
-    "date": "2026-08-02",
-    "displayDate": "August 2, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The next FOMC meeting is scheduled for April 28–29, 2026. The FOMC meets eight times a year. The Federal Reserve's decisions impact interest rates and economic ",
-    "excerpt": "The next FOMC meeting is scheduled for April 28–29, 2026. The FOMC meets eight times a year. The Federal Reserve's decisions impact interest rates and economic growth.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "When is the next FOMC meeting?"
-    },
-    "readingTime": 4
   },
   {
     "id": "world-stock-market-indexes-by-country-live-quotes-historical-data-trading-econom",
@@ -5229,27 +5460,6 @@
     "readingTime": 3
   },
   {
-    "id": "earnings-calendar-investing-com",
-    "type": "news",
-    "title": "Earnings Calendar - Investing.com",
-    "slug": "earnings-calendar-investing-com",
-    "date": "2026-07-07",
-    "displayDate": "July 7, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "An earnings calendar lists upcoming and past company earnings reports, showing expected release dates and actual outcomes. It helps investors track financial he",
-    "excerpt": "An earnings calendar lists upcoming and past company earnings reports, showing expected release dates and actual outcomes. It helps investors track financial health and forecast impacts. As of July 7, 2026, check the calendar for the latest reports.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Earnings Calendar - Investing.com"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "economic-events-calendar-for-yahoo-finance",
     "type": "news",
     "title": "Economic Events Calendar for - Yahoo Finance",
@@ -5855,27 +6065,6 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "US central bank cuts key lending rate by a quarter point - BBC News"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "weekly-trader-s-stock-market-outlook-charles-schwab",
-    "type": "news",
-    "title": "Weekly Trader's Stock Market Outlook | Charles Schwab",
-    "slug": "weekly-trader-s-stock-market-outlook-charles-schwab",
-    "date": "2026-07-07",
-    "displayDate": "July 7, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The tech sector faced selling pressure as investors shifted focus, while broader indices showed bullish trends. The Nasdaq Composite dropped below its 50-day SM",
-    "excerpt": "The tech sector faced selling pressure as investors shifted focus, while broader indices showed bullish trends. The Nasdaq Composite dropped below its 50-day SMA. The PHLX Semiconductor Index fell 12% due to a significant drop in the Korean market.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Weekly Trader's Stock Market Outlook | Charles Schwab"
     },
     "readingTime": 3
   },
