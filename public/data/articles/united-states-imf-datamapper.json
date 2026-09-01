@@ -1,0 +1,52 @@
+{
+  "id": "united-states-imf-datamapper",
+  "type": "news",
+  "title": "United States - IMF DataMapper",
+  "slug": "united-states-imf-datamapper",
+  "date": "2026-09-01",
+  "displayDate": "September 1, 2026",
+  "author": "Sigma Capital",
+  "category": "Economic Data",
+  "tags": [
+    "economic data",
+    "financial news",
+    "market update"
+  ],
+  "metaDescription": "The United States' real GDP growth for 2026 is projected at 2.3%. The U.S. GDP, current prices, is estimated at $32.38 trillion for 2026. The GDP per capita is ",
+  "excerpt": "The United States' real GDP growth for 2026 is projected at 2.3%. The U.S. GDP, current prices, is estimated at $32.38 trillion for 2026. The GDP per capita is projected at $94,430 for 2026.",
+  "content": {
+    "introduction": "The United States' real GDP growth for 2026 is projected at 2.3%. The U.S. GDP, current prices, is estimated at $32.38 trillion for 2026. The GDP per capita is projected at $94,430 for 2026.",
+    "body": [
+      "IMF Live\n\nInternational Monetary Fund\nInternational Monetary Fund\n\nIMFDataMapper\n\n# { indicator.label }\n\n## { indicator.unit }\n\n{ parent.indicator.unit }\n\n{ parent.indicator.unit }\n\n### { related.length }",
+      "Image 1: IMF Live\n\nImage 2: International Monetary FundImage 3: International Monetary Fund\n\nIMF Data Mapper\n\nSelect a country, region or group\n\nUnited States\n\n# United States\n\n## Datasets\n\n### World Economic Outlook (April 2026) 15 indicator s, 1980 - 2031 Collapse all\n\n# Real GDP growth\n\nAnnual percent change\n\n2.3\n\n2026\n\n United States \n\n# GDP, current prices\n\nBillions of U.S. dollars\n\n32.38\n\nthousand\n\n2026\n\n United States \n\n# GDP per capita, current prices\n\nU.S. dollars per capita\n\n94.43 [...] United States \n\n### Global Debt Database 10 indicator s, 1950 - 2024 Show all\n\n# Private debt, loans and debt securities\n\nPercent of GDP\n\n143.12\n\n2024\n\n United States \n\n# Household debt, loans and debt securities\n\nPercent of GDP\n\n69.35\n\n2024\n\n United States \n\n# Nonfinancial corporate debt, loans and debt securities\n\nPercent of GDP\n\n73.77\n\n2024\n\n United States \n\n# Private debt, all instruments\n\nPercent of GDP\n\n216.62\n\n2024\n\n United States [...] 94.43\n\nthousand\n\n2026\n\n United States \n\n# GDP, current prices\n\nPurchasing power parity; billions of international dollars\n\n32.38\n\nthousand\n\n2026\n\n United States \n\n# GDP per capita, current prices\n\nPurchasing power parity; international dollars per capita\n\n94.43\n\nthousand\n\n2026\n\n United States \n\n# GDP based on PPP, share of world\n\nPercent of World\n\n14.54\n\n2026\n\n United States \n\n# Implied PPP conversion rate\n\nNational currency per international dollar\n\n1\n\n2026\n\n United States",
+      "### IMF DataMapper API documentation\n\nThe IMF DataMapper API can be used to retrieve time series as used in the DataMapper. Endpoints are available to get lists of indicators, countries, regions and analytical groups used in these time series.\n\nThe current version of the API is v2.\n\n### Available base endpoints\n\n    - list of available indicators\n    - list of countries;\n    - list of defined geographical regions;\n    - list of defined analytical groups. [...] It is possible to restrict the time series to a more specific period using the `periods` querystring parameter. This should be set to a comma separated list of requested years.\n\n#### Examples\n\n    - retrieve all values for Real GDP Growth;\n    - retrieve Real GDP Growth values for the United States and the People's Republic of China;\n    - retrieve Real GDP Growth values for 2019 and 2020. [...] Each of these will return a JSON object with the label and optionally additional information per item. The keys of the objects are the ID's to be used when retrieving time series.\n\n### Retrieving time series\n\nTime series consist of an indicator ID and zero or more ID's for specific countries, regions and groups. These can be appended in any order to the base URL of the API."
+    ],
+    "keyTakeaways": [
+      "The United States' real GDP growth for 2026 is projected at 2.3%",
+      "IMF Live\n\nInternational Monetary Fund\nInternational Monetary Fund\n\nIMFDataMapper\n\n# { indicator.label }\n\n## { indicator",
+      "Image 1: IMF Live\n\nImage 2: International Monetary FundImage 3: International Monetary Fund\n\nIMF Data Mapper\n\nSelect a c"
+    ],
+    "source": "imf.org",
+    "sourceUrl": "https://www.imf.org/external/datamapper/profile/USA"
+  },
+  "readingTime": 3,
+  "updatedAt": "2026-09-01T20:42:56.626Z",
+  "images": {
+    "thumbnail": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "United States - IMF DataMapper"
+    },
+    "hero": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "United States - IMF DataMapper"
+    },
+    "mid": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "United States - IMF DataMapper"
+    }
+  },
+  "image": {
+    "src": "/images/article_thumb_6.jpg",
+    "alt": "United States - IMF DataMapper"
+  }
+}

@@ -63,6 +63,27 @@
     "readingTime": 4
   },
   {
+    "id": "asian-market-commentary-rttnews",
+    "type": "news",
+    "title": "Asian Market Commentary - RTTNews",
+    "slug": "asian-market-commentary-rttnews",
+    "date": "2026-09-01",
+    "displayDate": "September 1, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Asian markets mostly traded higher, boosted by tech stocks, despite rising oil prices. The Nikkei 225 and Shanghai Composite both saw gains. Inflation concerns ",
+    "excerpt": "Asian markets mostly traded higher, boosted by tech stocks, despite rising oil prices. The Nikkei 225 and Shanghai Composite both saw gains. Inflation concerns persisted due to oil price spikes.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Asian Market Commentary - RTTNews"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "asian-market-headlines-breaking-stock-market-news",
     "type": "news",
     "title": "Asian Market Headlines | Breaking Stock Market News",
@@ -252,6 +273,27 @@
     "readingTime": 4
   },
   {
+    "id": "divided-fed-leaves-interest-rates-unchanged",
+    "type": "news",
+    "title": "Divided Fed Leaves Interest Rates Unchanged",
+    "slug": "divided-fed-leaves-interest-rates-unchanged",
+    "date": "2026-09-01",
+    "displayDate": "September 1, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Reserve decided to leave interest rates unchanged despite pressure from Donald Trump, citing economic uncertainty. The decision was met with dissent",
+    "excerpt": "The Federal Reserve decided to leave interest rates unchanged despite pressure from Donald Trump, citing economic uncertainty. The decision was met with dissent from some Fed officials. The current interest rate range is 4.25% to 4.5%.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Divided Fed Leaves Interest Rates Unchanged"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "earnings-calendar-and-analysis-for-this-week-aug-31-sept-4-kiplinger",
     "type": "news",
     "title": "Earnings Calendar and Analysis for This Week (Aug 31-Sept 4) | Kiplinger",
@@ -353,6 +395,48 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "Earnings"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "economic-calendar",
+    "type": "news",
+    "title": "Economic Calendar",
+    "slug": "economic-calendar",
+    "date": "2026-09-01",
+    "displayDate": "September 1, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The economic calendar lists upcoming and current economic events, including indicators like GDP and inflation, affecting global markets. Key events on September",
+    "excerpt": "The economic calendar lists upcoming and current economic events, including indicators like GDP and inflation, affecting global markets. Key events on September 1, 2026, include South Korea's trade balance and inflation data. Use the calendar to prepare for market impacts.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Economic Calendar"
+    },
+    "readingTime": 5
+  },
+  {
+    "id": "economic-indicators-calendar-new-york-fed",
+    "type": "news",
+    "title": "Economic Indicators Calendar | New York Fed",
+    "slug": "economic-indicators-calendar-new-york-fed",
+    "date": "2026-09-01",
+    "displayDate": "September 1, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The New York Fed's Economic Indicators Calendar lists key economic data releases, including employment reports, manufacturing surveys, and inflation indices. Th",
+    "excerpt": "The New York Fed's Economic Indicators Calendar lists key economic data releases, including employment reports, manufacturing surveys, and inflation indices. The calendar is updated regularly to reflect upcoming releases. For the most current information, visit the New York Fed's official website.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Economic Indicators Calendar | New York Fed"
     },
     "readingTime": 3
   },
@@ -567,6 +651,27 @@
     "readingTime": 5
   },
   {
+    "id": "how-should-i-allocate-my-portfolio-in-2026",
+    "type": "news",
+    "title": "How Should I Allocate My Portfolio in 2026?",
+    "slug": "how-should-i-allocate-my-portfolio-in-2026",
+    "date": "2026-09-01",
+    "displayDate": "September 1, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Allocate your portfolio with higher stocks for long horizons, moderate bonds, and diversify globally. Focus on risk tolerance and liquidity needs. Avoid large-c",
+    "excerpt": "Allocate your portfolio with higher stocks for long horizons, moderate bonds, and diversify globally. Focus on risk tolerance and liquidity needs. Avoid large-cap US equities.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "How Should I Allocate My Portfolio in 2026?"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "how-the-fomc-conducts-monetary-policy-st-louis-fed",
     "type": "news",
     "title": "How the FOMC Conducts Monetary Policy | St. Louis Fed",
@@ -651,6 +756,27 @@
     "readingTime": 4
   },
   {
+    "id": "investment-outlook-and-portfolio-strategies-for-2026",
+    "type": "news",
+    "title": "Investment Outlook and Portfolio Strategies for 2026",
+    "slug": "investment-outlook-and-portfolio-strategies-for-2026",
+    "date": "2026-09-01",
+    "displayDate": "September 1, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "For 2026, focus on increasing exposure to small caps and emerging markets, diversify globally, and consider alternative investments for qualified investors. Use",
+    "excerpt": "For 2026, focus on increasing exposure to small caps and emerging markets, diversify globally, and consider alternative investments for qualified investors. Use fixed income for stability and reassess equity allocations for greater diversification.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Investment Outlook and Portfolio Strategies for 2026"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "investment-strategies-for-today-and-long-term-blackrock",
     "type": "news",
     "title": "Investment strategies for today and long-term | BlackRock",
@@ -689,6 +815,27 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "Investment strategies for today and long-term"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "investment-strategy-2026-portfolio-moves-for-a-changing-market",
+    "type": "news",
+    "title": "Investment Strategy 2026 Portfolio Moves for a Changing Market",
+    "slug": "investment-strategy-2026-portfolio-moves-for-a-changing-market",
+    "date": "2026-09-01",
+    "displayDate": "September 1, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Increase exposure to small caps, emerging markets, and cash-flow-generative assets; consider high-quality bonds and diversified commodities for resilience.",
+    "excerpt": "Increase exposure to small caps, emerging markets, and cash-flow-generative assets; consider high-quality bonds and diversified commodities for resilience.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Investment Strategy 2026 Portfolio Moves for a Changing Market"
     },
     "readingTime": 3
   },
@@ -819,6 +966,48 @@
     "readingTime": 3
   },
   {
+    "id": "s-p-500-analysis-and-opinion-investing-com",
+    "type": "news",
+    "title": "S&P 500 Analysis and Opinion - Investing.com",
+    "slug": "s-p-500-analysis-and-opinion-investing-com",
+    "date": "2026-09-01",
+    "displayDate": "September 1, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The S&P 500 is in a rising trend, showing optimism and potential for further increase. Technical analysis indicates positive signals for the medium and long ter",
+    "excerpt": "The S&P 500 is in a rising trend, showing optimism and potential for further increase. Technical analysis indicates positive signals for the medium and long term. Current technical indicators suggest a continued rise.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "S&P 500 Analysis and Opinion - Investing.com"
+    },
+    "readingTime": 5
+  },
+  {
+    "id": "s-p-500-index-sp500-analysis-news-and-chart-today-seeking-alpha",
+    "type": "news",
+    "title": "S&P 500 Index (SP500) Analysis, News, And Chart Today | Seeking Alpha",
+    "slug": "s-p-500-index-sp500-analysis-news-and-chart-today-seeking-alpha",
+    "date": "2026-09-01",
+    "displayDate": "September 1, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The S&P 500 closed at 7,686.35, down 0.33%. It faces bearish pressures from global factors. Technical analysis suggests a short-term bounce but limited upside.",
+    "excerpt": "The S&P 500 closed at 7,686.35, down 0.33%. It faces bearish pressures from global factors. Technical analysis suggests a short-term bounce but limited upside.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "S&P 500 Index (SP500) Analysis, News, And Chart Today | Seeking Alpha"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "s-p-500-index-sp500-analysis-news-and-chart-today",
     "type": "news",
     "title": "S&P 500 Index (SP500) Analysis, News, And Chart Today",
@@ -859,6 +1048,27 @@
       "alt": "S&P 500 INDEX TODAY | INX LIVE TICKER - Markets Insider"
     },
     "readingTime": 3
+  },
+  {
+    "id": "s-p-500-sp500-technical-analysis-medium-term-us-500-investtech",
+    "type": "news",
+    "title": "S&P 500 (SP500) - Technical Analysis - Medium term - US 500 - Investtech",
+    "slug": "s-p-500-sp500-technical-analysis-medium-term-us-500-investtech",
+    "date": "2026-09-01",
+    "displayDate": "September 1, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The S&P 500 is in a rising trend, showing positive signals for the medium term. The index is expected to rise further, with a recommendation score of 95 for the",
+    "excerpt": "The S&P 500 is in a rising trend, showing positive signals for the medium term. The index is expected to rise further, with a recommendation score of 95 for the next one to six months. Current price is 7,674.37.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "S&P 500 (SP500) - Technical Analysis - Medium term - US 500 - Investtech"
+    },
+    "readingTime": 4
   },
   {
     "id": "s-p-500-sp500-technical-analysis-medium-term",
@@ -1113,6 +1323,27 @@
     "readingTime": 3
   },
   {
+    "id": "u-s-economic-calendar",
+    "type": "news",
+    "title": "U.S. Economic Calendar",
+    "slug": "u-s-economic-calendar",
+    "date": "2026-09-01",
+    "displayDate": "September 1, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "On September 1, 2026, key U.S. economic reports include ISM Manufacturing PMI and Construction Spending. The U.S. Trade Balance and Weekly Jobless Claims are al",
+    "excerpt": "On September 1, 2026, key U.S. economic reports include ISM Manufacturing PMI and Construction Spending. The U.S. Trade Balance and Weekly Jobless Claims are also scheduled for release. The Fed Interest Rate Decision is expected at 6:00 PM ET.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "U.S. Economic Calendar"
+    },
+    "readingTime": 6
+  },
+  {
     "id": "united-states-economic-indicators-moody-s-analytics",
     "type": "news",
     "title": "United States | Economic Indicators | Moody's Analytics",
@@ -1153,6 +1384,27 @@
       "alt": "United States Federal Reserve Interest Rate Decision"
     },
     "readingTime": 4
+  },
+  {
+    "id": "united-states-imf-datamapper",
+    "type": "news",
+    "title": "United States - IMF DataMapper",
+    "slug": "united-states-imf-datamapper",
+    "date": "2026-09-01",
+    "displayDate": "September 1, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The United States' real GDP growth for 2026 is projected at 2.3%. The U.S. GDP, current prices, is estimated at $32.38 trillion for 2026. The GDP per capita is ",
+    "excerpt": "The United States' real GDP growth for 2026 is projected at 2.3%. The U.S. GDP, current prices, is estimated at $32.38 trillion for 2026. The GDP per capita is projected at $94,430 for 2026.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "United States - IMF DataMapper"
+    },
+    "readingTime": 3
   },
   {
     "id": "united-states-indicators",
@@ -1407,48 +1659,6 @@
     "readingTime": 4
   },
   {
-    "id": "economic-calendar",
-    "type": "news",
-    "title": "Economic Calendar",
-    "slug": "economic-calendar",
-    "date": "2026-08-09",
-    "displayDate": "August 9, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "An economic calendar lists upcoming financial events and indicators that can impact markets. It helps traders prepare for potential market movements. Key events",
-    "excerpt": "An economic calendar lists upcoming financial events and indicators that can impact markets. It helps traders prepare for potential market movements. Key events include interest rate decisions and economic reports.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Economic Calendar"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "economic-indicators-calendar-new-york-fed",
-    "type": "news",
-    "title": "Economic Indicators Calendar | New York Fed",
-    "slug": "economic-indicators-calendar-new-york-fed",
-    "date": "2026-08-09",
-    "displayDate": "August 9, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The New York Fed's Economic Indicators Calendar lists key economic data release dates and times. It provides links to data sources. The calendar is updated regu",
-    "excerpt": "The New York Fed's Economic Indicators Calendar lists key economic data release dates and times. It provides links to data sources. The calendar is updated regularly.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Economic Indicators Calendar | New York Fed"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "economic-indicators",
     "type": "news",
     "title": "Economic indicators",
@@ -1659,69 +1869,6 @@
     "readingTime": 3
   },
   {
-    "id": "how-should-i-allocate-my-portfolio-in-2026",
-    "type": "news",
-    "title": "How Should I Allocate My Portfolio in 2026?",
-    "slug": "how-should-i-allocate-my-portfolio-in-2026",
-    "date": "2026-08-09",
-    "displayDate": "August 9, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Allocate your portfolio with a focus on bonds, moderate stocks, and some cash, adjusting based on your risk tolerance and long-term goals. Review annually or af",
-    "excerpt": "Allocate your portfolio with a focus on bonds, moderate stocks, and some cash, adjusting based on your risk tolerance and long-term goals. Review annually or after major life changes. Stocks drive growth, while bonds stabilize.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "How Should I Allocate My Portfolio in 2026?"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "investment-outlook-and-portfolio-strategies-for-2026",
-    "type": "news",
-    "title": "Investment Outlook and Portfolio Strategies for 2026",
-    "slug": "investment-outlook-and-portfolio-strategies-for-2026",
-    "date": "2026-08-09",
-    "displayDate": "August 9, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "For 2026, focus on small caps, emerging markets, and AI-driven diversification; consider income strategies amid lower rates; and use fixed income for stability.",
-    "excerpt": "For 2026, focus on small caps, emerging markets, and AI-driven diversification; consider income strategies amid lower rates; and use fixed income for stability.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Investment Outlook and Portfolio Strategies for 2026"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "investment-strategy-2026-portfolio-moves-for-a-changing-market",
-    "type": "news",
-    "title": "Investment Strategy 2026 Portfolio Moves for a Changing Market",
-    "slug": "investment-strategy-2026-portfolio-moves-for-a-changing-market",
-    "date": "2026-08-09",
-    "displayDate": "August 9, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Focus on income-generating assets, diversify to manage AI's impact, and build portfolio resilience against market volatility.",
-    "excerpt": "Focus on income-generating assets, diversify to manage AI's impact, and build portfolio resilience against market volatility.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Investment Strategy 2026 Portfolio Moves for a Changing Market"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "jobs-shock-sends-stocks-higher-open-interest-8-7-2026",
     "type": "news",
     "title": "Jobs Shock Sends Stocks Higher | Open Interest 8/7/2026",
@@ -1802,27 +1949,6 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "Markets: Indexes, Bonds, Forex, Key Commodities, ETFs - CNBC"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "s-p-500-sp500-technical-analysis-medium-term-us-500-investtech",
-    "type": "news",
-    "title": "S&P 500 (SP500) - Technical Analysis - Medium term - US 500 - Investtech",
-    "slug": "s-p-500-sp500-technical-analysis-medium-term-us-500-investtech",
-    "date": "2026-08-09",
-    "displayDate": "August 9, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Investors have paid higher prices over time to buy S&P 500 and the index is in a rising trend channel in the medium long term. This signals increasing optimism ",
-    "excerpt": "Investors have paid higher prices over time to buy S&P 500 and the index is in a rising trend channel in the medium long term. This signals increasing optimism among investors and indicates continued rise. It also gave positive signal from the rectan",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "S&P 500 (SP500) - Technical Analysis - Medium term - US 500 - Investtech"
     },
     "readingTime": 3
   },
@@ -2012,27 +2138,6 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "The Most Anticipated Earnings Releases for the Week of August 3, 2026"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "u-s-economic-calendar",
-    "type": "news",
-    "title": "U.S. Economic Calendar",
-    "slug": "u-s-economic-calendar",
-    "date": "2026-08-09",
-    "displayDate": "August 9, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "| Time (ET) | Report | Period | Actual | Median Forecast | Previous |\n ---  ---  --- |\n| MONDAY, AUG. 10 |  |  |  |  |  |\n|  | None scheduled |  |  |  |  |\n| TU",
-    "excerpt": "| Time (ET) | Report | Period | Actual | Median Forecast | Previous |\n ---  ---  --- |\n| MONDAY, AUG. 10 |  |  |  |  |  |\n|  | None scheduled |  |  |  |  |\n| TUESDAY, AUG. 11 |  |  |  |  |  |\n| 6:00 am | NFIB optimism index | July |  | 97.2 | 97.4 |\n",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "U.S. Economic Calendar"
     },
     "readingTime": 3
   },
@@ -2600,27 +2705,6 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "Quarterly Results Upcoming Week: 320 NSE, BSE companies to declare Q4 FY24 earnings - FULL LIST - Markets | ET Now"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "s-p-500-index-sp500-analysis-news-and-chart-today-seeking-alpha",
-    "type": "news",
-    "title": "S&P 500 Index (SP500) Analysis, News, And Chart Today | Seeking Alpha",
-    "slug": "s-p-500-index-sp500-analysis-news-and-chart-today-seeking-alpha",
-    "date": "2026-08-08",
-    "displayDate": "August 8, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The S&P 500 closed at 7,757.50 on August 7, 2026, up 0.62%. The index saw weekly gains led by Tech and Materials sectors. The market reacted positively to a wea",
-    "excerpt": "The S&P 500 closed at 7,757.50 on August 7, 2026, up 0.62%. The index saw weekly gains led by Tech and Materials sectors. The market reacted positively to a weaker-than-forecasted payrolls report.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "S&P 500 Index (SP500) Analysis, News, And Chart Today | Seeking Alpha"
     },
     "readingTime": 4
   },
@@ -3927,27 +4011,6 @@
     "readingTime": 3
   },
   {
-    "id": "s-p-500-analysis-and-opinion-investing-com",
-    "type": "news",
-    "title": "S&P 500 Analysis and Opinion - Investing.com",
-    "slug": "s-p-500-analysis-and-opinion-investing-com",
-    "date": "2026-08-05",
-    "displayDate": "August 5, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The S&P 500 closed higher for three consecutive days, erasing July losses, driven by mega-cap technology stocks. The index reached 7,757.77, up 2.07%. The marke",
-    "excerpt": "The S&P 500 closed higher for three consecutive days, erasing July losses, driven by mega-cap technology stocks. The index reached 7,757.77, up 2.07%. The market showed relief after a volatile period.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "S&P 500 Analysis and Opinion - Investing.com"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "s-p-500-index-technical-analysis",
     "type": "news",
     "title": "S&P 500 Index Technical Analysis",
@@ -4557,27 +4620,6 @@
     "readingTime": 3
   },
   {
-    "id": "asian-market-commentary-rttnews",
-    "type": "news",
-    "title": "Asian Market Commentary - RTTNews",
-    "slug": "asian-market-commentary-rttnews",
-    "date": "2026-08-03",
-    "displayDate": "August 3, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Asian stock markets mostly rose, driven by gains in Japan, South Korea, and Taiwan, with technology stocks leading the surge due to renewed AI investment optimi",
-    "excerpt": "Asian stock markets mostly rose, driven by gains in Japan, South Korea, and Taiwan, with technology stocks leading the surge due to renewed AI investment optimism. Crude oil prices rebounded after Iran's military strikes on U.S. assets in Bahrain and Kuwait.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Asian Market Commentary - RTTNews"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "bitcoin-price-today-btc-price-chart-live-trends",
     "type": "news",
     "title": "Bitcoin price today - BTC price chart & live trends",
@@ -4658,27 +4700,6 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "Company Earnings Calendar"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "divided-fed-leaves-interest-rates-unchanged",
-    "type": "news",
-    "title": "Divided Fed Leaves Interest Rates Unchanged",
-    "slug": "divided-fed-leaves-interest-rates-unchanged",
-    "date": "2026-08-03",
-    "displayDate": "August 3, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Reserve left interest rates unchanged in a divided decision, with some officials advocating for a hike. The central bank adopted a hawkish tone, sig",
-    "excerpt": "The Federal Reserve left interest rates unchanged in a divided decision, with some officials advocating for a hike. The central bank adopted a hawkish tone, signaling potential future rate increases. This decision was widely anticipated.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Divided Fed Leaves Interest Rates Unchanged"
     },
     "readingTime": 3
   },
