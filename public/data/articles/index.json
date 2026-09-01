@@ -357,6 +357,27 @@
     "readingTime": 3
   },
   {
+    "id": "economic-indicators-key-statistics-for-the-uk-economy",
+    "type": "news",
+    "title": "Economic indicators: Key statistics for the UK economy",
+    "slug": "economic-indicators-key-statistics-for-the-uk-economy",
+    "date": "2026-09-01",
+    "displayDate": "September 1, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The UK economy grew by 0.6% in Q1 2026, with GDP at $4003 billion. Inflation was 3.0% in Q1 2026, and public sector net debt was 95.9% of GDP.",
+    "excerpt": "The UK economy grew by 0.6% in Q1 2026, with GDP at $4003 billion. Inflation was 3.0% in Q1 2026, and public sector net debt was 95.9% of GDP.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Economic indicators: Key statistics for the UK economy"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "ethereum-eth-price-usd-today-news-charts-market-cap",
     "type": "news",
     "title": "Ethereum (ETH) Price USD Today, News, Charts, Market Cap",
@@ -374,6 +395,27 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "Ethereum (ETH) Price USD Today, News, Charts, Market Cap"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "federal-reserve-board-monetary-policy",
+    "type": "news",
+    "title": "Federal Reserve Board - Monetary Policy",
+    "slug": "federal-reserve-board-monetary-policy",
+    "date": "2026-09-01",
+    "displayDate": "September 1, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Reserve's monetary policy aims to promote maximum employment and stable prices. It primarily uses the federal funds rate and other tools to influenc",
+    "excerpt": "The Federal Reserve's monetary policy aims to promote maximum employment and stable prices. It primarily uses the federal funds rate and other tools to influence economic conditions. The Federal Open Market Committee sets this policy.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Federal Reserve Board - Monetary Policy"
     },
     "readingTime": 3
   },
@@ -420,6 +462,27 @@
     "readingTime": 3
   },
   {
+    "id": "global-indices-tracking-the-world-s-markets",
+    "type": "news",
+    "title": "Global Indices - Tracking the World's Markets",
+    "slug": "global-indices-tracking-the-world-s-markets",
+    "date": "2026-09-01",
+    "displayDate": "September 1, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Global indices track the performance of various asset classes worldwide, including stocks, bonds, commodities, and real estate. Popular indices include the S&P ",
+    "excerpt": "Global indices track the performance of various asset classes worldwide, including stocks, bonds, commodities, and real estate. Popular indices include the S&P 500, Dow Jones, FTSE 100, and MSCI World Index. Investors use these indices to gauge market health and make informed decisions.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Global Indices - Tracking the World's Markets"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "global-market-headlines-breaking-stock-market-news",
     "type": "news",
     "title": "Global Market Headlines | Breaking Stock Market News",
@@ -437,6 +500,48 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "Global Market Headlines | Breaking Stock Market News"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "global-market-indices-international-markets-markets-insider",
+    "type": "news",
+    "title": "Global Market Indices | International Markets - Markets Insider",
+    "slug": "global-market-indices-international-markets-markets-insider",
+    "date": "2026-09-01",
+    "displayDate": "September 1, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The S&P 500 and Dow Jones Industrial Average both experienced minor declines, while the Nikkei 225 saw a slight increase. The US 10-year Treasury yield was arou",
+    "excerpt": "The S&P 500 and Dow Jones Industrial Average both experienced minor declines, while the Nikkei 225 saw a slight increase. The US 10-year Treasury yield was around 4.75%. Gold prices were stable, and Brent Crude Oil prices rose slightly.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Global Market Indices | International Markets - Markets Insider"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "global-stock-market-news-and-world-indices-coverage",
+    "type": "news",
+    "title": "Global Stock Market News and World Indices Coverage",
+    "slug": "global-stock-market-news-and-world-indices-coverage",
+    "date": "2026-09-01",
+    "displayDate": "September 1, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Global stock markets showed mixed trends; S&P 500 and Nasdaq closed lower, while European indices fluctuated. The NIKKEI 225 rose slightly, and the FTSE 100 saw",
+    "excerpt": "Global stock markets showed mixed trends; S&P 500 and Nasdaq closed lower, while European indices fluctuated. The NIKKEI 225 rose slightly, and the FTSE 100 saw minor gains.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Global Stock Market News and World Indices Coverage"
     },
     "readingTime": 4
   },
@@ -460,6 +565,48 @@
       "alt": "Healthcare Stock Performance - Yahoo Finance"
     },
     "readingTime": 5
+  },
+  {
+    "id": "how-the-fomc-conducts-monetary-policy-st-louis-fed",
+    "type": "news",
+    "title": "How the FOMC Conducts Monetary Policy | St. Louis Fed",
+    "slug": "how-the-fomc-conducts-monetary-policy-st-louis-fed",
+    "date": "2026-09-01",
+    "displayDate": "September 1, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Open Market Committee (FOMC) conducts monetary policy by setting the target range for the federal funds rate and uses tools to influence market inte",
+    "excerpt": "The Federal Open Market Committee (FOMC) conducts monetary policy by setting the target range for the federal funds rate and uses tools to influence market interest rates accordingly. The FOMC adjusts this target to steer the economy toward maximum employment and price stability.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "How the FOMC Conducts Monetary Policy | St. Louis Fed"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "how-to-invest-in-today-s-market-u-s-bank",
+    "type": "news",
+    "title": "How to Invest in Today’s Market | U.S. Bank",
+    "slug": "how-to-invest-in-today-s-market-u-s-bank",
+    "date": "2026-09-01",
+    "displayDate": "September 1, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "To invest in today's market, focus on your long-term goals, diversify your portfolio, and consider consulting a financial advisor for tailored advice. Online in",
+    "excerpt": "To invest in today's market, focus on your long-term goals, diversify your portfolio, and consider consulting a financial advisor for tailored advice. Online investing options are available with no minimum starting balance.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "How to Invest in Today’s Market | U.S. Bank"
+    },
+    "readingTime": 4
   },
   {
     "id": "how-to-start-investing-a-beginner-s-guide",
@@ -525,6 +672,27 @@
     "readingTime": 3
   },
   {
+    "id": "investment-strategies-for-today-and-long-term",
+    "type": "news",
+    "title": "Investment strategies for today and long-term",
+    "slug": "investment-strategies-for-today-and-long-term",
+    "date": "2026-09-01",
+    "displayDate": "September 1, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "For today, focus on income-focused portfolios; for long-term, diversify across various asset classes to balance risk and growth.",
+    "excerpt": "For today, focus on income-focused portfolios; for long-term, diversify across various asset classes to balance risk and growth.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Investment strategies for today and long-term"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "investments-charles-schwab",
     "type": "news",
     "title": "Investments | Charles Schwab",
@@ -567,6 +735,27 @@
     "readingTime": 4
   },
   {
+    "id": "latest-stock-market-news",
+    "type": "news",
+    "title": "Latest Stock Market News",
+    "slug": "latest-stock-market-news",
+    "date": "2026-09-01",
+    "displayDate": "September 1, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The stock market experienced mixed results, with some indices declining while others saw slight gains. Inflation concerns and fluctuating commodity prices influ",
+    "excerpt": "The stock market experienced mixed results, with some indices declining while others saw slight gains. Inflation concerns and fluctuating commodity prices influenced market dynamics. Overall, the market showed resilience despite ongoing economic uncertainties.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Latest Stock Market News"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "latest-technology-news-and-reviews-yahoo-finance",
     "type": "news",
     "title": "Latest Technology News and Reviews - Yahoo Finance",
@@ -605,6 +794,27 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "META_TITLE_SECTORS - Yahoo Finance"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "outlook-at-risk-real-gdp-growth-unemployment-and-inflation-federal-reserve-bank-",
+    "type": "news",
+    "title": "Outlook-at-Risk: Real GDP Growth, Unemployment, and Inflation - FEDERAL RESERVE BANK of NEW YORK",
+    "slug": "outlook-at-risk-real-gdp-growth-unemployment-and-inflation-federal-reserve-bank-",
+    "date": "2026-09-01",
+    "displayDate": "September 1, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Outlook-at-Risk model assesses risks to real GDP growth, unemployment, and inflation, using forecasts and historical data. It shows a dimmer economic outloo",
+    "excerpt": "The Outlook-at-Risk model assesses risks to real GDP growth, unemployment, and inflation, using forecasts and historical data. It shows a dimmer economic outlook for 2023 with slower growth and higher unemployment.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Outlook-at-Risk: Real GDP Growth, Unemployment, and Inflation - FEDERAL RESERVE BANK of NEW YORK"
     },
     "readingTime": 3
   },
@@ -756,6 +966,27 @@
     "readingTime": 6
   },
   {
+    "id": "stock-market-sectors-of-usa",
+    "type": "news",
+    "title": "Stock market sectors of USA",
+    "slug": "stock-market-sectors-of-usa",
+    "date": "2026-09-01",
+    "displayDate": "September 1, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The main stock market sectors in the USA are Communication Services, Consumer Discretionary, Consumer Staples, Energy, Financials, Health Care, Industrials, Inf",
+    "excerpt": "The main stock market sectors in the USA are Communication Services, Consumer Discretionary, Consumer Staples, Energy, Financials, Health Care, Industrials, Information Technology, Materials, Real Estate, and Utilities. These sectors represent various industries and business activities.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Stock market sectors of USA"
+    },
+    "readingTime": 5
+  },
+  {
     "id": "technology-news",
     "type": "news",
     "title": "Technology News",
@@ -775,6 +1006,27 @@
       "alt": "Technology News"
     },
     "readingTime": 3
+  },
+  {
+    "id": "the-fed-federal-open-market-committee",
+    "type": "news",
+    "title": "The Fed - Federal Open Market Committee",
+    "slug": "the-fed-federal-open-market-committee",
+    "date": "2026-09-01",
+    "displayDate": "September 1, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Open Market Committee (FOMC) oversees the nation's open market operations and sets U.S. monetary policy. It consists of twelve members and makes key",
+    "excerpt": "The Federal Open Market Committee (FOMC) oversees the nation's open market operations and sets U.S. monetary policy. It consists of twelve members and makes key decisions about interest rates and money supply. The FOMC was established in 1936.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "The Fed - Federal Open Market Committee"
+    },
+    "readingTime": 4
   },
   {
     "id": "this-week-s-best-performing-stocks-sectors-industries-rankings-csimarket",
@@ -943,6 +1195,27 @@
       "alt": "United States Inflation Rate"
     },
     "readingTime": 4
+  },
+  {
+    "id": "us-earnings-season-q2-2026",
+    "type": "news",
+    "title": "US earnings season - Q2 2026",
+    "slug": "us-earnings-season-q2-2026",
+    "date": "2026-09-01",
+    "displayDate": "September 1, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The US Q2 2026 earnings season showed strong growth, with S&P 500 earnings up 52% YoY, marking the highest since Q2 2021. The Energy, Information Technology, an",
+    "excerpt": "The US Q2 2026 earnings season showed strong growth, with S&P 500 earnings up 52% YoY, marking the highest since Q2 2021. The Energy, Information Technology, and Materials sectors led the growth. Conservative long-term guidance caused market volatility.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "US earnings season - Q2 2026"
+    },
+    "readingTime": 3
   },
   {
     "id": "us-markets-company-earnings-stock-market-trends",
@@ -1260,27 +1533,6 @@
     "readingTime": 3
   },
   {
-    "id": "federal-reserve-board-monetary-policy",
-    "type": "news",
-    "title": "Federal Reserve Board - Monetary Policy",
-    "slug": "federal-reserve-board-monetary-policy",
-    "date": "2026-08-09",
-    "displayDate": "August 9, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Reserve's monetary policy aims for maximum employment, stable prices, and moderate interest rates. It's implemented by the Federal Open Market Commi",
-    "excerpt": "The Federal Reserve's monetary policy aims for maximum employment, stable prices, and moderate interest rates. It's implemented by the Federal Open Market Committee and uses tools like the federal funds rate and asset purchases. The Fed reviews its strategy periodically.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Federal Reserve Board - Monetary Policy"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "global-definition-meaning",
     "type": "news",
     "title": "GLOBAL Definition & Meaning",
@@ -1298,27 +1550,6 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "GLOBAL Definition & Meaning"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "global-market-indices-international-markets-markets-insider",
-    "type": "news",
-    "title": "Global Market Indices | International Markets - Markets Insider",
-    "slug": "global-market-indices-international-markets-markets-insider",
-    "date": "2026-08-09",
-    "displayDate": "August 9, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The FTSE 100 is up 0.31%, the NASDAQ 100 is up 1.19%, and the DAX is up 1.69%.",
-    "excerpt": "The FTSE 100 is up 0.31%, the NASDAQ 100 is up 1.19%, and the DAX is up 1.69%.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Global Market Indices | International Markets - Markets Insider"
     },
     "readingTime": 4
   },
@@ -1342,27 +1573,6 @@
       "alt": "Global Market Indices | World Stock Markets - Moneycontrol.com"
     },
     "readingTime": 3
-  },
-  {
-    "id": "global-stock-market-news-and-world-indices-coverage",
-    "type": "news",
-    "title": "Global Stock Market News and World Indices Coverage",
-    "slug": "global-stock-market-news-and-world-indices-coverage",
-    "date": "2026-08-09",
-    "displayDate": "August 9, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Global stock markets showed mixed trends, with European markets advancing and Asian markets trading higher. Major indices like Dow Jones, S&P 500, and Nasdaq ar",
-    "excerpt": "Global stock markets showed mixed trends, with European markets advancing and Asian markets trading higher. Major indices like Dow Jones, S&P 500, and Nasdaq are tracked live. Reuters reports on global market headlines and breaking stock news.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Global Stock Market News and World Indices Coverage"
-    },
-    "readingTime": 4
   },
   {
     "id": "global-television-network-wikipedia",
@@ -1470,27 +1680,6 @@
     "readingTime": 3
   },
   {
-    "id": "how-the-fomc-conducts-monetary-policy-st-louis-fed",
-    "type": "news",
-    "title": "How the FOMC Conducts Monetary Policy | St. Louis Fed",
-    "slug": "how-the-fomc-conducts-monetary-policy-st-louis-fed",
-    "date": "2026-08-09",
-    "displayDate": "August 9, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Open Market Committee (FOMC) conducts monetary policy by adjusting the federal funds rate target. The Fed implements this policy using tools like in",
-    "excerpt": "The Federal Open Market Committee (FOMC) conducts monetary policy by adjusting the federal funds rate target. The Fed implements this policy using tools like interest on reserve balances. FOMC decisions influence interest rates and economic activity.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "How the FOMC Conducts Monetary Policy | St. Louis Fed"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "investment-outlook-and-portfolio-strategies-for-2026",
     "type": "news",
     "title": "Investment Outlook and Portfolio Strategies for 2026",
@@ -1554,27 +1743,6 @@
     "readingTime": 4
   },
   {
-    "id": "latest-stock-market-news",
-    "type": "news",
-    "title": "Latest Stock Market News",
-    "slug": "latest-stock-market-news",
-    "date": "2026-08-09",
-    "displayDate": "August 9, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Stock market news shows tech stocks under pressure despite positive earnings, oil prices stabilizing, and Brent crude climbing due to geopolitical uncertainty. ",
-    "excerpt": "Stock market news shows tech stocks under pressure despite positive earnings, oil prices stabilizing, and Brent crude climbing due to geopolitical uncertainty. Gold reached a seven-week high following weak US jobs data.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Latest Stock Market News"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "list-of-stock-market-sectors-performance-today-sectors-of-the-stock-market-walls",
     "type": "news",
     "title": "List of Stock Market Sectors - Performance Today - Sectors of the Stock Market | WallStreetZen",
@@ -1636,27 +1804,6 @@
       "alt": "Markets: Indexes, Bonds, Forex, Key Commodities, ETFs - CNBC"
     },
     "readingTime": 3
-  },
-  {
-    "id": "outlook-at-risk-real-gdp-growth-unemployment-and-inflation-federal-reserve-bank-",
-    "type": "news",
-    "title": "Outlook-at-Risk: Real GDP Growth, Unemployment, and Inflation - FEDERAL RESERVE BANK of NEW YORK",
-    "slug": "outlook-at-risk-real-gdp-growth-unemployment-and-inflation-federal-reserve-bank-",
-    "date": "2026-08-09",
-    "displayDate": "August 9, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Outlook-at-Risk quantifies risks for real GDP growth, unemployment, and inflation. It is a tool by the Federal Reserve Bank of New York, not an official forecas",
-    "excerpt": "Outlook-at-Risk quantifies risks for real GDP growth, unemployment, and inflation. It is a tool by the Federal Reserve Bank of New York, not an official forecast. FOMC projections for 2025-2028 show ±0.8% to ±2.3% GDP growth, ±0.1% to ±2.0% unemployment rate, and ±0.3% to ±1.8% inflation.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Outlook-at-Risk: Real GDP Growth, Unemployment, and Inflation - FEDERAL RESERVE BANK of NEW YORK"
-    },
-    "readingTime": 4
   },
   {
     "id": "s-p-500-sp500-technical-analysis-medium-term-us-500-investtech",
@@ -1823,27 +1970,6 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "TechCrunch | Startup and Technology News"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "the-fed-federal-open-market-committee",
-    "type": "news",
-    "title": "The Fed - Federal Open Market Committee",
-    "slug": "the-fed-federal-open-market-committee",
-    "date": "2026-08-09",
-    "displayDate": "August 9, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Open Market Committee (FOMC) oversees the nation's open market operations and sets U.S. monetary policy. It consists of twelve members and meets eig",
-    "excerpt": "The Federal Open Market Committee (FOMC) oversees the nation's open market operations and sets U.S. monetary policy. It consists of twelve members and meets eight times a year to determine interest rates and money supply. The FOMC is responsible for open market operations.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "The Fed - Federal Open Market Committee"
     },
     "readingTime": 3
   },
@@ -7791,27 +7917,6 @@
     "readingTime": 3
   },
   {
-    "id": "stock-market-sectors-of-usa",
-    "type": "news",
-    "title": "Stock market sectors of USA",
-    "slug": "stock-market-sectors-of-usa",
-    "date": "2026-07-04",
-    "displayDate": "July 4, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The U.S. stock market includes 11 main sectors: Energy, Technology, Health Care, Consumer Discretionary, Consumer Staples, Industrials, Financials, Materials, R",
-    "excerpt": "The U.S. stock market includes 11 main sectors: Energy, Technology, Health Care, Consumer Discretionary, Consumer Staples, Industrials, Financials, Materials, Real Estate, Utilities, and Communication Services. These sectors categorize companies based on their primary business activities.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Stock market sectors of USA"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "us-central-bank-cuts-key-lending-rate-by-a-quarter-point",
     "type": "news",
     "title": "US central bank cuts key lending rate by a quarter point",
@@ -7997,27 +8102,6 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "U.S. Market Analysis & Valuation - Dow Jones, Nasdaq, ..."
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "us-earnings-season-q2-2026",
-    "type": "news",
-    "title": "US earnings season - Q2 2026",
-    "slug": "us-earnings-season-q2-2026",
-    "date": "2026-07-03",
-    "displayDate": "July 3, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The US Q2 2026 earnings season starts mid-July, with PepsiCo and Delta Air Lines reporting first, followed by major US banks. The S&P 500 is expected to report ",
-    "excerpt": "The US Q2 2026 earnings season starts mid-July, with PepsiCo and Delta Air Lines reporting first, followed by major US banks. The S&P 500 is expected to report 23.3% year-over-year earnings growth. Investors are closely watching earnings reports for market impact.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "US earnings season - Q2 2026"
     },
     "readingTime": 3
   },
@@ -9257,27 +9341,6 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "How to Build An Investment Portfolio in 2026 - XTB.com"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "how-to-invest-in-today-s-market-u-s-bank",
-    "type": "news",
-    "title": "How to Invest in Today's Market | U.S. Bank",
-    "slug": "how-to-invest-in-today-s-market-u-s-bank",
-    "date": "2026-06-09",
-    "displayDate": "June 9, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "To invest in today's market, separate short-term needs from long-term funds. Start with a solid financial foundation, then define your strategy and choose inves",
-    "excerpt": "To invest in today's market, separate short-term needs from long-term funds. Start with a solid financial foundation, then define your strategy and choose investment accounts. Regularly review your plan.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "How to Invest in Today's Market | U.S. Bank"
     },
     "readingTime": 3
   },
@@ -13814,27 +13877,6 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "Dell shares jump 39% after server maker reports fastest sales growth since return to public market in 2018"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "economic-indicators-key-statistics-for-the-uk-economy",
-    "type": "news",
-    "title": "Economic indicators: Key statistics for the UK economy",
-    "slug": "economic-indicators-key-statistics-for-the-uk-economy",
-    "date": "2026-05-31",
-    "displayDate": "May 31, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The first economic effects of the US/Israeli conflict with Iran are showing in real-time data and in forecasts. However, it remains to be...",
-    "excerpt": "The first economic effects of the US/Israeli conflict with Iran are showing in real-time data and in forecasts. However, it remains to be...",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Economic indicators: Key statistics for the UK economy"
     },
     "readingTime": 3
   },
