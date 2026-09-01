@@ -3,8 +3,8 @@
   "type": "news",
   "title": "Technology News",
   "slug": "technology-news",
-  "date": "2026-08-09",
-  "displayDate": "August 9, 2026",
+  "date": "2026-09-01",
+  "displayDate": "September 1, 2026",
   "author": "Sigma Capital",
   "category": "Company News",
   "tags": [
@@ -12,33 +12,41 @@
     "financial news",
     "market update"
   ],
-  "metaDescription": "Tech\n\nSoftBank gets $8.2 billion boost from Intel as OpenAI takes a backseat\n\nThu, Aug 6th 2026\n\nAI Age\n\nGoogle is expanding its AI empire — and losing the peop",
-  "excerpt": "Tech\n\nSoftBank gets $8.2 billion boost from Intel as OpenAI takes a backseat\n\nThu, Aug 6th 2026\n\nAI Age\n\nGoogle is expanding its AI empire — and losing the people who built it\n\nThu, Aug 6th 2026\n\nTech\n\nAsian tech stocks drop with SK Hynix plunging 10",
+  "metaDescription": "Recent technology news includes Apple's new AI-upgraded Mac Mini and Mac Studio models, Tesla's recall of 3 million vehicles in China, and Google's new AI camer",
+  "excerpt": "Recent technology news includes Apple's new AI-upgraded Mac Mini and Mac Studio models, Tesla's recall of 3 million vehicles in China, and Google's new AI camera update.",
   "content": {
-    "introduction": "Tech\n\nSoftBank gets $8.2 billion boost from Intel as OpenAI takes a backseat\n\nThu, Aug 6th 2026\n\nAI Age\n\nGoogle is expanding its AI empire — and losing the people who built it\n\nThu, Aug 6th 2026\n\nTech\n\nAsian tech stocks drop with SK Hynix plunging 10",
-    "body": [],
-    "keyTakeaways": [],
+    "introduction": "Recent technology news includes Apple's new AI-upgraded Mac Mini and Mac Studio models, Tesla's recall of 3 million vehicles in China, and Google's new AI camera update.",
+    "body": [
+      "#### CybersecurityCybersecurity)\n\nBillions of Stolen Browser Cookies Expose Users to Account Hijacking\n\n#### Data ManagementData Management)\n\nAI Costs Continue to Rise Despite Falling Token Prices\n\n#### DevelopersDevelopers)\n\nAI Makes Low-Severity Vulnerabilities More Dangerous\n\n#### Emerging TechEmerging Tech)\n\nMark Zuckerberg Makes the Case for Superintelligence for Everyone\n\n#### GamingGaming)\n\nDell's Strategic Reset and Intentional Return to the XPS Brand\n\n#### HackingHacking) [...] DNS Poisoning Campaign Makes Hospitality Wi-Fi Spots Inhospitable\n\n#### HardwareHardware)\n\nQuntis Light Bar Glow Is an Upgrade I Never Expected\n\n#### HealthHealth)\n\nExperity AI Care Agent Helps Cut Admin Workload in Urgent Care\n\n#### Home TechHome Tech)\n\nSmoke Detection Moves Beyond the Standalone Alarm\n\n#### Internet of ThingsInternet of Things)\n\nMalware Threats Accelerate Across Critical Infrastructure\n\n#### IT LeadershipIT Leadership)\n\nHP Needs More Than a New CEO\n\n#### MalwareMalware) [...] ###### AI-Generated Receipts Hit 71% of Expense Fraud Flags\n\nAugust 20, 2026\n\nAdobe Finds Most Retail Apps Are One and Done\n\n###### Adobe Finds Most Retail Apps Are One and Done\n\nAugust 18, 2026\n\nAI Fraud Is Making One-Time Identity Checks Less Reliable\n\n###### AI Fraud Is Making One-Time Identity Checks Less Reliable\n\nAugust 14, 2026\n\n## LinuxInsider\n\nAlmaLinux 10.2 Breaks From Its RHEL Clone Roots\n\n###### AlmaLinux 10.2 Breaks From Its RHEL Clone Roots\n\nAugust 17, 2026",
+      "1\n\n  Canada unveils retaliatory tariffs on about $20 billion of U.S. goods\n 2\n\n  Apple announces new Mac Mini and Mac Studio models with AI upgrades\n 3\n\n  China needs U.S. dollars but is building a hedge against Washington’s sanctions\n 4\n\n  We're trimming our position in an AI stock to protect our profits\n 5\n\n  Oil drops 3% as U.S. shifts to economic pressure on Iran, easing fears of renewed war\n\n## More In Tech\n\n5 Things to Know [...] Tanaya Macheelan hour ago\n\nApple announces new Mac Mini and Mac Studio models with AI upgrades\n\nKif Leswing3 hours ago\n\nU.S. economic offense, Lego's record revenue and more: Morning Squawk\n\nAlex Harring3 hours ago\n\nNvidia’s dependence on hyperscalers faces big test in earnings report\n\nKif Leswingan hour ago\n\nOpenAI bans Russian ChatGPT accounts used in covert misinformation campaign\n\nKai Nicol-Schwarz4 hours ago\n\nTech\n\nBlackBerry CEO says robotics is one of its fastest-growing businesses [...] Tech\n\nAnthropic IPO filing will show AI backlash as a risk factor, sources say\n\nFri, Aug 21st 2026\n\nTech\n\nTesla recalls 3 million vehicles in China over doorhandle safety, driver monitoring\n\nFri, Aug 21st 2026\n\nAI Age\n\nBroadcom debt deal expected to reach upwards of $70 billion, sources say\n\nFri, Aug 21st 2026\n\nEducation\n\n4 memory stocks are darlings of the AI boom. How they differ and why we own Micron\n\nFri, Aug 21st 2026\n\n5 Things to Know",
+      "Google just dropped a new AI camera update — and you don’t need a new Pixel 9 for it\n\nNon-invasive wearables are transforming how we control smart devices\n\nPeople with low vision can more easily play 'Counter Strike 2' with JBL's free software\n\nDoes 'The Golden Bachelor' have an accessibility problem?\n\nDating app Breeze launches sign language matching feature\n\nLive Under Water    Humans could soon live underwater, in these deep sea habitats"
+    ],
+    "keyTakeaways": [
+      "Recent technology news includes Apple's new AI-upgraded Mac Mini and Mac Studio models, Tesla's recall of 3 million vehi",
+      "#### CybersecurityCybersecurity)\n\nBillions of Stolen Browser Cookies Expose Users to Account Hijacking\n\n#### Data Manage",
+      "1\n\n  Canada unveils retaliatory tariffs on about $20 billion of U.S"
+    ],
     "source": "cnbc.com",
     "sourceUrl": "https://www.cnbc.com/technology"
   },
   "readingTime": 3,
-  "updatedAt": "2026-08-09T12:56:25.476Z",
+  "updatedAt": "2026-09-01T10:58:51.870Z",
   "images": {
     "thumbnail": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Technology News"
-    },
-    "hero": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "Technology News"
     },
-    "mid": {
+    "hero": {
       "src": "/images/article_thumb_2.jpg",
+      "alt": "Technology News"
+    },
+    "mid": {
+      "src": "/images/article_thumb_4.jpg",
       "alt": "Technology News"
     }
   },
   "image": {
-    "src": "/images/article_thumb_1.jpg",
+    "src": "/images/article_thumb_6.jpg",
     "alt": "Technology News"
   }
 }
