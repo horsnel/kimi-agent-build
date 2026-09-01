@@ -3,8 +3,8 @@
   "type": "news",
   "title": "META_TITLE_SECTORS - Yahoo Finance",
   "slug": "meta-title-sectors-yahoo-finance",
-  "date": "2026-08-09",
-  "displayDate": "August 9, 2026",
+  "date": "2026-09-01",
+  "displayDate": "September 1, 2026",
   "author": "Sigma Capital",
   "category": "Sector Performance",
   "tags": [
@@ -12,33 +12,41 @@
     "financial news",
     "market update"
   ],
-  "metaDescription": "| Sector | Market Weight | YTD Return |\n --- \n| All Sectors | 100.00% | 13.21% |\n| Technology | 31.44% | 17.53% |\n| Financial Services | 13.99% | 4.84% |\n| Indu",
-  "excerpt": "| Sector | Market Weight | YTD Return |\n --- \n| All Sectors | 100.00% | 13.21% |\n| Technology | 31.44% | 17.53% |\n| Financial Services | 13.99% | 4.84% |\n| Industrials | 10.48% | 41.41% |\n| Consumer Cyclical | 9.84% | 4.11% |\n| Communication Services",
+  "metaDescription": "Yahoo Finance lists sectors including technology, financial services, consumer cyclical, communication services, healthcare, industrials, consumer defensive, en",
+  "excerpt": "Yahoo Finance lists sectors including technology, financial services, consumer cyclical, communication services, healthcare, industrials, consumer defensive, energy, basic materials, real estate, and utilities. The site also covers bonds, futures, currencies, and indices. The sectors are categorized",
   "content": {
-    "introduction": "| Sector | Market Weight | YTD Return |\n --- \n| All Sectors | 100.00% | 13.21% |\n| Technology | 31.44% | 17.53% |\n| Financial Services | 13.99% | 4.84% |\n| Industrials | 10.48% | 41.41% |\n| Consumer Cyclical | 9.84% | 4.11% |\n| Communication Services",
-    "body": [],
-    "keyTakeaways": [],
+    "introduction": "Yahoo Finance lists sectors including technology, financial services, consumer cyclical, communication services, healthcare, industrials, consumer defensive, energy, basic materials, real estate, and utilities. The site also covers bonds, futures, currencies, and indices. The sectors are categorized for detailed stock performance analysis.",
+    "body": [
+      "5. Sectors \n      1. Technology\n      2. Financial services\n      3. Consumer cyclical\n      4. Communication services\n      5. Healthcare\n      6. Industrials\n      7. Consumer defensive\n      8. Energy\n      9. Basic materials\n      10. Real estate\n      11. Utilities\n   6. Treasury bonds\n   7. Futures\n   8. Currencies\n   9. World indices\n   10. ETFs\n   11. Mutual funds\n4. 1. Earnings\n   2. IPOs\n   3. Stock splits\n   4. Economic events\n5. 1. Screeners \n      1. Stocks\n      2. Most shorted",
+      "7. Large cap\n      8. Most expensive\n      9. Highest beta\n      10. Pink sheet\n      11. Unusual volume\n   2. Crypto \n      1. Most active\n      2. Day gainers\n      3. Day losers\n   3. Private companies \n      1. 52 week gainers\n      2. Recently funded\n      3. Most funded\n   4. Options \n      1. Day gainers\n      2. Day losers\n      3. Highest open interest\n      4. Highest implied volatility\n   5. Sectors \n      1. Technology\n      2. Financial services\n      3. Consumer cyclical [...] 4. Communication services\n      5. Healthcare\n      6. Industrials\n      7. Consumer defensive\n      8. Energy\n      9. Basic materials\n      10. Real estate\n      11. Utilities\n   6. Treasury bonds\n   7. Futures\n   8. Currencies\n   9. World indices\n   10. ETFs\n   11. Mutual funds\n4. 1. Earnings\n   2. IPOs\n   3. Stock splits\n   4. Economic events\n5. 1. Screeners \n      1. Stocks\n      2. Most shorted\n      3. Most active penny stocks\n      4. Analyst strong buy\n   2. Stock comparison [...] 1. My Portfolio\n2. 1. Markets \n      1. Stock market\n      2. Crypto\n      3. Housing\n      4. Magnificent 7\n      5. Private markets\n   2. Originals\n   3. Newsletters\n   4. Economy & Policy \n      1. Earnings\n      2. Oil & gas\n      3. Strait of Hormuz\n      4. Tariffs\n   5. Tech \n      1. Aerospace & defense\n      2. Enterprise cloud\n3. 1. Stocks \n      1. Most active\n      2. Day gainers\n      3. Day losers\n      4. Trending\n      5. Highest dividend\n      6. Small cap\n      7. Large cap",
+      "7. Large cap\n      8. Most expensive\n      9. Highest beta\n      10. Pink sheet\n      11. Unusual volume\n   2. Crypto \n      1. Most active\n      2. Day gainers\n      3. Day losers\n   3. Private companies \n      1. 52 week gainers\n      2. Recently funded\n      3. Most funded\n   4. Options \n      1. Day gainers\n      2. Day losers\n      3. Highest open interest\n      4. Highest implied volatility\n   5. Sectors \n      1. Technology\n      2. Financial services\n      3. Consumer cyclical"
+    ],
+    "keyTakeaways": [
+      "Yahoo Finance lists sectors including technology, financial services, consumer cyclical, communication services, healthc",
+      "5. Sectors \n      1",
+      "7. Large cap\n      8"
+    ],
     "source": "finance.yahoo.com",
     "sourceUrl": "https://finance.yahoo.com/sectors"
   },
   "readingTime": 3,
-  "updatedAt": "2026-08-09T12:56:25.476Z",
+  "updatedAt": "2026-09-01T04:17:41.031Z",
   "images": {
     "thumbnail": {
-      "src": "/images/article_thumb_4.jpg",
+      "src": "/images/article_thumb_2.jpg",
       "alt": "META_TITLE_SECTORS - Yahoo Finance"
     },
     "hero": {
-      "src": "/images/article_thumb_1.jpg",
+      "src": "/images/article_thumb_2.jpg",
       "alt": "META_TITLE_SECTORS - Yahoo Finance"
     },
     "mid": {
-      "src": "/images/article_thumb_6.jpg",
+      "src": "/images/article_thumb_5.jpg",
       "alt": "META_TITLE_SECTORS - Yahoo Finance"
     }
   },
   "image": {
-    "src": "/images/article_thumb_5.jpg",
+    "src": "/images/article_thumb_2.jpg",
     "alt": "META_TITLE_SECTORS - Yahoo Finance"
   }
 }

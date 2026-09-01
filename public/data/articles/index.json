@@ -1,5 +1,572 @@
 [
   {
+    "id": "12-month-percentage-change-consumer-price-index",
+    "type": "news",
+    "title": "12-month percentage change, Consumer Price Index, ...",
+    "slug": "12-month-percentage-change-consumer-price-index",
+    "date": "2026-09-01",
+    "displayDate": "September 1, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The 12-month percentage change in the US Consumer Price Index for July 2026 is 3.4%. Energy prices rose by 14.7% over the same period. Food prices, especially f",
+    "excerpt": "The 12-month percentage change in the US Consumer Price Index for July 2026 is 3.4%. Energy prices rose by 14.7% over the same period. Food prices, especially fruits and vegetables, saw significant increases.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "12-month percentage change, Consumer Price Index, ..."
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "asian-financial-markets",
+    "type": "news",
+    "title": "Asian Financial Markets",
+    "slug": "asian-financial-markets",
+    "date": "2026-09-01",
+    "displayDate": "September 1, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Asian financial markets include major exchanges like Tokyo Stock Exchange and Shanghai Stock Exchange. Key trends include China's resurgence in Bitcoin mining. ",
+    "excerpt": "Asian financial markets include major exchanges like Tokyo Stock Exchange and Shanghai Stock Exchange. Key trends include China's resurgence in Bitcoin mining. Recent stock market data shows Nikkei 225 and Hang Seng fluctuations.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Asian Financial Markets"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "asian-stock-market-capital-markets-news-bond-market-news-commodities-news-etfs-n",
+    "type": "news",
+    "title": "Asian Stock Market: Capital Markets News, Bond Market News, Commodities News, ETFs News",
+    "slug": "asian-stock-market-capital-markets-news-bond-market-news-commodities-news-etfs-n",
+    "date": "2026-09-01",
+    "displayDate": "September 1, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Asian stock market includes news on capital markets, bond markets, commodities, and ETFs. Recent highlights include fines on AliExpress and calls for global",
+    "excerpt": "The Asian stock market includes news on capital markets, bond markets, commodities, and ETFs. Recent highlights include fines on AliExpress and calls for global AI regulation by China's Xi. Current indices show minor fluctuations.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Asian Stock Market: Capital Markets News, Bond Market News, Commodities News, ETFs News"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "coindesk-bitcoin-ethereum-xrp-crypto-news-and-price-data",
+    "type": "news",
+    "title": "CoinDesk: Bitcoin, Ethereum, XRP, Crypto News and Price Data",
+    "slug": "coindesk-bitcoin-ethereum-xrp-crypto-news-and-price-data",
+    "date": "2026-09-01",
+    "displayDate": "September 1, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin, Ethereum, and XRP prices fluctuated with Bitcoin at $76,923.79, Ethereum at $2,411.92, and XRP at $1.45. CoinDesk reports significant market movements ",
+    "excerpt": "Bitcoin, Ethereum, and XRP prices fluctuated with Bitcoin at $76,923.79, Ethereum at $2,411.92, and XRP at $1.45. CoinDesk reports significant market movements and news updates.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "CoinDesk: Bitcoin, Ethereum, XRP, Crypto News and Price Data"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "company-earnings-calendar-yahoo-finance",
+    "type": "news",
+    "title": "Company Earnings Calendar - Yahoo Finance",
+    "slug": "company-earnings-calendar-yahoo-finance",
+    "date": "2026-09-01",
+    "displayDate": "September 1, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Palo Alto Networks and Methode Electronics are scheduled to report earnings on September 1, 2026. Sunbelt Rentals Holdings and Caseys are set for September 8, 2",
+    "excerpt": "Palo Alto Networks and Methode Electronics are scheduled to report earnings on September 1, 2026. Sunbelt Rentals Holdings and Caseys are set for September 8, 2026. Earnings announcements can be viewed on Yahoo Finance's Events Calendar.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Company Earnings Calendar - Yahoo Finance"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "crypto-news-bitcoin-ethereum-xrp-news-crypto-news",
+    "type": "news",
+    "title": "Crypto News: Bitcoin, Ethereum & XRP News | crypto.news",
+    "slug": "crypto-news-bitcoin-ethereum-xrp-news-crypto-news",
+    "date": "2026-09-01",
+    "displayDate": "September 1, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin price is $77,134.00, Ethereum price is $2,385.55, and XRP price is $1.38 as of 2026-09-01.",
+    "excerpt": "Bitcoin price is $77,134.00, Ethereum price is $2,385.55, and XRP price is $1.38 as of 2026-09-01.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Crypto News: Bitcoin, Ethereum & XRP News | crypto.news"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "earnings-calendar",
+    "type": "news",
+    "title": "Earnings Calendar",
+    "slug": "earnings-calendar",
+    "date": "2026-09-01",
+    "displayDate": "September 1, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "An earnings calendar lists upcoming earnings reports from companies, helping traders analyze financial performance. It includes dates, company names, and key me",
+    "excerpt": "An earnings calendar lists upcoming earnings reports from companies, helping traders analyze financial performance. It includes dates, company names, and key metrics like EPS. Use it to plan trading strategies based on financial reports.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Earnings Calendar"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "earnings",
+    "type": "news",
+    "title": "Earnings",
+    "slug": "earnings",
+    "date": "2026-09-01",
+    "displayDate": "September 1, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Earnings refer to a company's profits after expenses, taxes, and costs. They are reported in earnings reports, which companies release quarterly. Earnings are c",
+    "excerpt": "Earnings refer to a company's profits after expenses, taxes, and costs. They are reported in earnings reports, which companies release quarterly. Earnings are crucial for assessing a company's financial health and performance.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Earnings"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "ethereum-eth-price-usd-today-news-charts-market-cap",
+    "type": "news",
+    "title": "Ethereum (ETH) Price USD Today, News, Charts, Market Cap",
+    "slug": "ethereum-eth-price-usd-today-news-charts-market-cap",
+    "date": "2026-09-01",
+    "displayDate": "September 1, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Ethereum's price is $2,511.62, with a market cap of $303 billion. Its 24-hour trading volume is $16.6 billion. Ethereum's all-time high was $4,953.73.",
+    "excerpt": "Ethereum's price is $2,511.62, with a market cap of $303 billion. Its 24-hour trading volume is $16.6 billion. Ethereum's all-time high was $4,953.73.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Ethereum (ETH) Price USD Today, News, Charts, Market Cap"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "federal-reserve-holds-rates-at-3-50-3-75-in-july-2026",
+    "type": "news",
+    "title": "Federal Reserve Holds Rates at 3.50%-3.75% in July 2026",
+    "slug": "federal-reserve-holds-rates-at-3-50-3-75-in-july-2026",
+    "date": "2026-09-01",
+    "displayDate": "September 1, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Reserve held interest rates steady at 3.50%-3.75% in July 2026. Three officials dissented, favoring a rate hike. The decision was close and influenc",
+    "excerpt": "The Federal Reserve held interest rates steady at 3.50%-3.75% in July 2026. Three officials dissented, favoring a rate hike. The decision was close and influenced by inflation and geopolitical factors.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Federal Reserve Holds Rates at 3.50%-3.75% in July 2026"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "global-market-headlines-breaking-stock-market-news",
+    "type": "news",
+    "title": "Global Market Headlines | Breaking Stock Market News",
+    "slug": "global-market-headlines-breaking-stock-market-news",
+    "date": "2026-09-01",
+    "displayDate": "September 1, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "S&P 500 fell Friday due to inflation concerns, but still posted a positive week; commodities like Brent Crude Oil and gold prices saw minor changes; Asian marke",
+    "excerpt": "S&P 500 fell Friday due to inflation concerns, but still posted a positive week; commodities like Brent Crude Oil and gold prices saw minor changes; Asian markets showed mixed performance.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Global Market Headlines | Breaking Stock Market News"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "healthcare-stock-performance-yahoo-finance",
+    "type": "news",
+    "title": "Healthcare Stock Performance - Yahoo Finance",
+    "slug": "healthcare-stock-performance-yahoo-finance",
+    "date": "2026-09-01",
+    "displayDate": "September 1, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Eli Lilly, Johnson & Johnson, and Merck show strong YTD returns, while Abbott Laboratories has negative YTD return. HCA Healthcare has a YTD return of 10.92% co",
+    "excerpt": "Eli Lilly, Johnson & Johnson, and Merck show strong YTD returns, while Abbott Laboratories has negative YTD return. HCA Healthcare has a YTD return of 10.92% compared to S&P 500's 12.28%.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Healthcare Stock Performance - Yahoo Finance"
+    },
+    "readingTime": 5
+  },
+  {
+    "id": "how-to-start-investing-a-beginner-s-guide",
+    "type": "news",
+    "title": "How to Start Investing: A Beginner's Guide",
+    "slug": "how-to-start-investing-a-beginner-s-guide",
+    "date": "2026-09-01",
+    "displayDate": "September 1, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "To start investing, create a budget, save a small amount regularly, and choose diversified investment options like stocks or bonds. Remember, investing involves",
+    "excerpt": "To start investing, create a budget, save a small amount regularly, and choose diversified investment options like stocks or bonds. Remember, investing involves risk, so start small and stay informed.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "How to Start Investing: A Beginner's Guide"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "inflation-economic-data-series-fred-st-louis-fed",
+    "type": "news",
+    "title": "Inflation - Economic Data Series | FRED | St. Louis Fed",
+    "slug": "inflation-economic-data-series-fred-st-louis-fed",
+    "date": "2026-09-01",
+    "displayDate": "September 1, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Inflation data includes the Consumer Price Index (CPI) and measures like the Personal Consumption Expenditures (PCE) price index. The latest inflation rates are",
+    "excerpt": "Inflation data includes the Consumer Price Index (CPI) and measures like the Personal Consumption Expenditures (PCE) price index. The latest inflation rates are updated monthly and annually. The Federal Reserve tracks these metrics to inform economic policy.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Inflation - Economic Data Series | FRED | St. Louis Fed"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "investments-charles-schwab",
+    "type": "news",
+    "title": "Investments | Charles Schwab",
+    "slug": "investments-charles-schwab",
+    "date": "2026-09-01",
+    "displayDate": "September 1, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Charles Schwab offers a wide range of investment products including mutual funds, ETFs, stocks, and more. It provides financial advisory services and has a full",
+    "excerpt": "Charles Schwab offers a wide range of investment products including mutual funds, ETFs, stocks, and more. It provides financial advisory services and has a full suite of banking options. Schwab's investment products aim to help clients build diversified portfolios.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Investments | Charles Schwab"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "investor-gov-home",
+    "type": "news",
+    "title": "Investor.gov: Home",
+    "slug": "investor-gov-home",
+    "date": "2026-09-01",
+    "displayDate": "September 1, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Investor.gov offers tools and resources to help investors make informed decisions and protect against fraud. It provides financial calculators, alerts, and educ",
+    "excerpt": "Investor.gov offers tools and resources to help investors make informed decisions and protect against fraud. It provides financial calculators, alerts, and educational materials. The site is run by the U.S. Securities and Exchange Commission (SEC).",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Investor.gov: Home"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "meta-title-sectors-yahoo-finance",
+    "type": "news",
+    "title": "META_TITLE_SECTORS - Yahoo Finance",
+    "slug": "meta-title-sectors-yahoo-finance",
+    "date": "2026-09-01",
+    "displayDate": "September 1, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Yahoo Finance lists sectors including technology, financial services, consumer cyclical, communication services, healthcare, industrials, consumer defensive, en",
+    "excerpt": "Yahoo Finance lists sectors including technology, financial services, consumer cyclical, communication services, healthcare, industrials, consumer defensive, energy, basic materials, real estate, and utilities. The site also covers bonds, futures, currencies, and indices. The sectors are categorized",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "META_TITLE_SECTORS - Yahoo Finance"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "s-p-500-index-sp500-analysis-news-and-chart-today",
+    "type": "news",
+    "title": "S&P 500 Index (SP500) Analysis, News, And Chart Today",
+    "slug": "s-p-500-index-sp500-analysis-news-and-chart-today",
+    "date": "2026-09-01",
+    "displayDate": "September 1, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The S&P 500 Index closed at 7,686.35, down 0.33% on August 31, 2026. Recent news includes market volatility and sector-specific declines. Key analysis focuses o",
+    "excerpt": "The S&P 500 Index closed at 7,686.35, down 0.33% on August 31, 2026. Recent news includes market volatility and sector-specific declines. Key analysis focuses on stock picking and market predictions.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "S&P 500 Index (SP500) Analysis, News, And Chart Today"
+    },
+    "readingTime": 5
+  },
+  {
+    "id": "s-p-500-index-today-inx-live-ticker-markets-insider",
+    "type": "news",
+    "title": "S&P 500 INDEX TODAY | INX LIVE TICKER - Markets Insider",
+    "slug": "s-p-500-index-today-inx-live-ticker-markets-insider",
+    "date": "2026-09-01",
+    "displayDate": "September 1, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The S&P 500 index is currently at 7,711.76, up from its previous close of 7,711.48, and has ranged from 7,700.91 to 7,771.48 today.",
+    "excerpt": "The S&P 500 index is currently at 7,711.76, up from its previous close of 7,711.48, and has ranged from 7,700.91 to 7,771.48 today.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "S&P 500 INDEX TODAY | INX LIVE TICKER - Markets Insider"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "s-p-500-sp500-technical-analysis-medium-term",
+    "type": "news",
+    "title": "S&P 500 (SP500) - Technical Analysis - Medium term",
+    "slug": "s-p-500-sp500-technical-analysis-medium-term",
+    "date": "2026-09-01",
+    "displayDate": "September 1, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The S&P 500 is in a positive medium-term trend, with a bullish outlook and potential for further gains. The index broke resistance, signaling continued rise. Th",
+    "excerpt": "The S&P 500 is in a positive medium-term trend, with a bullish outlook and potential for further gains. The index broke resistance, signaling continued rise. The current score is 95.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "S&P 500 (SP500) - Technical Analysis - Medium term"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "sector-views-monthly-stock-sector-outlook",
+    "type": "news",
+    "title": "Sector Views: Monthly Stock Sector Outlook",
+    "slug": "sector-views-monthly-stock-sector-outlook",
+    "date": "2026-09-01",
+    "displayDate": "September 1, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Energy sector leads with 3.0% weighting and 41.7% trailing 12-month performance. The Financials sector follows with 11.8% weighting and 7.1% trailing 12-mon",
+    "excerpt": "The Energy sector leads with 3.0% weighting and 41.7% trailing 12-month performance. The Financials sector follows with 11.8% weighting and 7.1% trailing 12-month performance. The Information Technology sector has the highest trailing 12-month performance at 76.5%.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Sector Views: Monthly Stock Sector Outlook"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "u-s-bureau-of-economic-analysis-bea",
+    "type": "news",
+    "title": "U.S. Bureau of Economic Analysis (BEA)",
+    "slug": "u-s-bureau-of-economic-analysis-bea",
+    "date": "2026-09-01",
+    "displayDate": "September 1, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The U.S. Bureau of Economic Analysis (BEA) provides macroeconomic data, including GDP, personal income, and corporate profits. It is part of the Department of C",
+    "excerpt": "The U.S. Bureau of Economic Analysis (BEA) provides macroeconomic data, including GDP, personal income, and corporate profits. It is part of the Department of Commerce and has about 500 employees. The BEA's main address is 4600 Silver Hill Rd., Washington, DC 20233.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "U.S. Bureau of Economic Analysis (BEA)"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "united-states-economic-indicators-moody-s-analytics",
+    "type": "news",
+    "title": "United States | Economic Indicators | Moody's Analytics",
+    "slug": "united-states-economic-indicators-moody-s-analytics",
+    "date": "2026-09-01",
+    "displayDate": "September 1, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The U.S. economy shows mixed retail sales trends and a stable interest rate at 3.75% in July 2026. Inflation remains low at 3.4%. The balance of trade deficit w",
+    "excerpt": "The U.S. economy shows mixed retail sales trends and a stable interest rate at 3.75% in July 2026. Inflation remains low at 3.4%. The balance of trade deficit widened in June 2026.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "United States | Economic Indicators | Moody's Analytics"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "united-states-federal-reserve-interest-rate-decision",
+    "type": "news",
+    "title": "United States Federal Reserve Interest Rate Decision",
+    "slug": "united-states-federal-reserve-interest-rate-decision",
+    "date": "2026-09-01",
+    "displayDate": "September 1, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Reserve's next interest rate decision is scheduled for April 29, 2026. The current federal funds rate is 3.50%–3.75%. The last rate decision kept ra",
+    "excerpt": "The Federal Reserve's next interest rate decision is scheduled for April 29, 2026. The current federal funds rate is 3.50%–3.75%. The last rate decision kept rates unchanged.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "United States Federal Reserve Interest Rate Decision"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "united-states-indicators",
+    "type": "news",
+    "title": "United States Indicators",
+    "slug": "united-states-indicators",
+    "date": "2026-09-01",
+    "displayDate": "September 1, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The U.S. economy saw a 0.2% increase in the Coincident Economic Index in July 2026, with notable indicators including industrial production and unemployment rat",
+    "excerpt": "The U.S. economy saw a 0.2% increase in the Coincident Economic Index in July 2026, with notable indicators including industrial production and unemployment rate at 4.1%. GDP growth rate was 1.5% in June 2026.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "United States Indicators"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "united-states-inflation-rate",
+    "type": "news",
+    "title": "United States Inflation Rate",
+    "slug": "united-states-inflation-rate",
+    "date": "2026-09-01",
+    "displayDate": "September 1, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The United States inflation rate was 3.4% in July 2026, down from 3.5% in June. It has been decreasing from a high of 4.2% in May 2026. Forecasts predict it wil",
+    "excerpt": "The United States inflation rate was 3.4% in July 2026, down from 3.5% in June. It has been decreasing from a high of 4.2% in May 2026. Forecasts predict it will trend around 2.6% in 2027.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "United States Inflation Rate"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "when-is-the-next-fed-interest-rate-decision",
+    "type": "news",
+    "title": "When is the next Fed interest rate decision?",
+    "slug": "when-is-the-next-fed-interest-rate-decision",
+    "date": "2026-09-01",
+    "displayDate": "September 1, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The next Fed interest rate decision is scheduled for April 29, 2026. Fed Chair Jerome Powell will discuss it in a press conference later that day. The current f",
+    "excerpt": "The next Fed interest rate decision is scheduled for April 29, 2026. Fed Chair Jerome Powell will discuss it in a press conference later that day. The current federal funds rate target range is 3.50%–3.75%.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "When is the next Fed interest rate decision?"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "ahead-of-wall-street-daily-stock-market-outlook",
     "type": "news",
     "title": "Ahead of Wall Street - Daily Stock Market Outlook",
@@ -63,69 +630,6 @@
     "readingTime": 3
   },
   {
-    "id": "asian-stock-market-capital-markets-news-bond-market-news-commodities-news-etfs-n",
-    "type": "news",
-    "title": "Asian Stock Market: Capital Markets News, Bond Market News, Commodities News, ETFs News",
-    "slug": "asian-stock-market-capital-markets-news-bond-market-news-commodities-news-etfs-n",
-    "date": "2026-08-09",
-    "displayDate": "August 9, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "NEWS;)\n ANALYSIS;)\n INDEXES;)\n\n# Latest: Asia Stock Market News\n\nEU Tech Crackdown: AliExpress Fined $603m For Illegal Goods\n\n20 Jul 2026\n\n EU Tech Crackdown: A",
-    "excerpt": "NEWS;)\n ANALYSIS;)\n INDEXES;)\n\n# Latest: Asia Stock Market News\n\nEU Tech Crackdown: AliExpress Fined $603m For Illegal Goods\n\n20 Jul 2026\n\n EU Tech Crackdown: AliExpress Fined $603m For Illegal Goods \n\nEuropean officials said the penalty was for allo",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Asian Stock Market: Capital Markets News, Bond Market News, Commodities News, ETFs News"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "coindesk-bitcoin-ethereum-xrp-crypto-news-and-price-data",
-    "type": "news",
-    "title": "CoinDesk: Bitcoin, Ethereum, XRP, Crypto News and Price Data",
-    "slug": "coindesk-bitcoin-ethereum-xrp-crypto-news-and-price-data",
-    "date": "2026-08-09",
-    "displayDate": "August 9, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "As of August 9, 2026, Bitcoin (BTC) is at $65,159.06, up 1.24%, Ethereum (ETH) is at $1,929.99, up 1.74%, and XRP is at $1.04, down 0.75%. For the latest crypto",
-    "excerpt": "As of August 9, 2026, Bitcoin (BTC) is at $65,159.06, up 1.24%, Ethereum (ETH) is at $1,929.99, up 1.74%, and XRP is at $1.04, down 0.75%. For the latest crypto news, visit CoinDesk.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "CoinDesk: Bitcoin, Ethereum, XRP, Crypto News and Price Data"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "company-earnings-calendar-yahoo-finance",
-    "type": "news",
-    "title": "Company Earnings Calendar - Yahoo Finance",
-    "slug": "company-earnings-calendar-yahoo-finance",
-    "date": "2026-08-09",
-    "displayDate": "August 9, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Yahoo Finance's earnings calendar lists upcoming company earnings reports. Key earnings include Berkshire Hathaway and Live Nation. Check for the latest updates",
-    "excerpt": "Yahoo Finance's earnings calendar lists upcoming company earnings reports. Key earnings include Berkshire Hathaway and Live Nation. Check for the latest updates.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Company Earnings Calendar - Yahoo Finance"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "cpi-home-u-s-bureau-of-labor-statistics",
     "type": "news",
     "title": "CPI Home : U.S. Bureau of Labor Statistics",
@@ -145,27 +649,6 @@
       "alt": "CPI Home : U.S. Bureau of Labor Statistics"
     },
     "readingTime": 3
-  },
-  {
-    "id": "crypto-news-bitcoin-ethereum-xrp-news-crypto-news",
-    "type": "news",
-    "title": "Crypto News: Bitcoin, Ethereum & XRP News | crypto.news",
-    "slug": "crypto-news-bitcoin-ethereum-xrp-news-crypto-news",
-    "date": "2026-08-09",
-    "displayDate": "August 9, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Bitcoin crossed $66,000, Ethereum held steady, and XRP dipped 5.5% as the Senate delayed the Clarity Act vote. Ripple-linked XRP continues to face challenges am",
-    "excerpt": "Bitcoin crossed $66,000, Ethereum held steady, and XRP dipped 5.5% as the Senate delayed the Clarity Act vote. Ripple-linked XRP continues to face challenges amid legislative uncertainty.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Crypto News: Bitcoin, Ethereum & XRP News | crypto.news"
-    },
-    "readingTime": 4
   },
   {
     "id": "earnings-calendar-investing-com",
@@ -189,27 +672,6 @@
     "readingTime": 4
   },
   {
-    "id": "earnings-calendar",
-    "type": "news",
-    "title": "Earnings Calendar",
-    "slug": "earnings-calendar",
-    "date": "2026-08-09",
-    "displayDate": "August 9, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "An earnings calendar lists upcoming and past earnings reports for publicly traded companies, showing expected and actual earnings per share. It helps investors ",
-    "excerpt": "An earnings calendar lists upcoming and past earnings reports for publicly traded companies, showing expected and actual earnings per share. It helps investors track financial performance. The busiest reporting periods are typically in January, April, July, and October.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Earnings Calendar"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "earnings-cnbc",
     "type": "news",
     "title": "Earnings - CNBC",
@@ -227,27 +689,6 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "Earnings - CNBC"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "earnings",
-    "type": "news",
-    "title": "Earnings",
-    "slug": "earnings",
-    "date": "2026-08-09",
-    "displayDate": "August 9, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Earnings are a corporation's net income after expenses and taxes. They are a key measure of profitability. For Q2 2026, the blended earnings growth rate was 50.",
-    "excerpt": "Earnings are a corporation's net income after expenses and taxes. They are a key measure of profitability. For Q2 2026, the blended earnings growth rate was 50.4%.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Earnings"
     },
     "readingTime": 4
   },
@@ -756,27 +1197,6 @@
     "readingTime": 3
   },
   {
-    "id": "meta-title-sectors-yahoo-finance",
-    "type": "news",
-    "title": "META_TITLE_SECTORS - Yahoo Finance",
-    "slug": "meta-title-sectors-yahoo-finance",
-    "date": "2026-08-09",
-    "displayDate": "August 9, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "| Sector | Market Weight | YTD Return |\n --- \n| All Sectors | 100.00% | 13.21% |\n| Technology | 31.44% | 17.53% |\n| Financial Services | 13.99% | 4.84% |\n| Indu",
-    "excerpt": "| Sector | Market Weight | YTD Return |\n --- \n| All Sectors | 100.00% | 13.21% |\n| Technology | 31.44% | 17.53% |\n| Financial Services | 13.99% | 4.84% |\n| Industrials | 10.48% | 41.41% |\n| Consumer Cyclical | 9.84% | 4.11% |\n| Communication Services",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "META_TITLE_SECTORS - Yahoo Finance"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "outlook-at-risk-real-gdp-growth-unemployment-and-inflation-federal-reserve-bank-",
     "type": "news",
     "title": "Outlook-at-Risk: Real GDP Growth, Unemployment, and Inflation - FEDERAL RESERVE BANK of NEW YORK",
@@ -796,27 +1216,6 @@
       "alt": "Outlook-at-Risk: Real GDP Growth, Unemployment, and Inflation - FEDERAL RESERVE BANK of NEW YORK"
     },
     "readingTime": 4
-  },
-  {
-    "id": "s-p-500-index-sp500-analysis-news-and-chart-today",
-    "type": "news",
-    "title": "S&P 500 Index (SP500) Analysis, News, And Chart Today",
-    "slug": "s-p-500-index-sp500-analysis-news-and-chart-today",
-    "date": "2026-08-09",
-    "displayDate": "August 9, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "## S&P 500 News\n\n### Earnings Scorecard: 95% of healthcare firms deliver EPS wins this week\n\n### Michael Burry says it’s 'Trump's market' where price doesn't ma",
-    "excerpt": "## S&P 500 News\n\n### Earnings Scorecard: 95% of healthcare firms deliver EPS wins this week\n\n### Michael Burry says it’s 'Trump's market' where price doesn't matter\n\n### SA Analyst: Potential Nasdaq breakout ahead as tech rally broadens\n\n### 3 things",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "S&P 500 Index (SP500) Analysis, News, And Chart Today"
-    },
-    "readingTime": 3
   },
   {
     "id": "s-p-500-sp500-technical-analysis-medium-term-us-500-investtech",
@@ -1132,27 +1531,6 @@
       "alt": "United States Core Inflation Rate"
     },
     "readingTime": 3
-  },
-  {
-    "id": "united-states-economic-indicators-moody-s-analytics",
-    "type": "news",
-    "title": "United States | Economic Indicators | Moody's Analytics",
-    "slug": "united-states-economic-indicators-moody-s-analytics",
-    "date": "2026-08-09",
-    "displayDate": "August 9, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The United States' key economic indicators include the Employment Situation report, Moody’s Analytics House Price Index, and GDP growth. Recent data shows a sta",
-    "excerpt": "The United States' key economic indicators include the Employment Situation report, Moody’s Analytics House Price Index, and GDP growth. Recent data shows a stable labor market and moderate housing price increases.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "United States | Economic Indicators | Moody's Analytics"
-    },
-    "readingTime": 4
   },
   {
     "id": "upcoming-earnings-reports-in-2026-the-motley-fool",
@@ -1533,27 +1911,6 @@
     "readingTime": 4
   },
   {
-    "id": "ethereum-eth-price-usd-today-news-charts-market-cap",
-    "type": "news",
-    "title": "Ethereum (ETH) Price USD Today, News, Charts, Market Cap",
-    "slug": "ethereum-eth-price-usd-today-news-charts-market-cap",
-    "date": "2026-08-08",
-    "displayDate": "August 8, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Ethereum (ETH) price today is $1,900.41, with a 24-hour trading volume of $7,005,055,395, and a market cap of $229,357,415,664.",
-    "excerpt": "Ethereum (ETH) price today is $1,900.41, with a 24-hour trading volume of $7,005,055,395, and a market cap of $229,357,415,664.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Ethereum (ETH) Price USD Today, News, Charts, Market Cap"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "fed-meeting-recap-july-2026",
     "type": "news",
     "title": "Fed meeting recap: July 2026",
@@ -1890,48 +2247,6 @@
     "readingTime": 3
   },
   {
-    "id": "united-states-federal-reserve-interest-rate-decision",
-    "type": "news",
-    "title": "United States Federal Reserve Interest Rate Decision",
-    "slug": "united-states-federal-reserve-interest-rate-decision",
-    "date": "2026-08-08",
-    "displayDate": "August 8, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Reserve's latest interest rate decision was announced on August 8, 2026, maintaining steady rates. This decision impacts various financial markets a",
-    "excerpt": "The Federal Reserve's latest interest rate decision was announced on August 8, 2026, maintaining steady rates. This decision impacts various financial markets and sectors.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "United States Federal Reserve Interest Rate Decision"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "united-states-indicators",
-    "type": "news",
-    "title": "United States Indicators",
-    "slug": "united-states-indicators",
-    "date": "2026-08-08",
-    "displayDate": "August 8, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The U.S. economy shows modest growth, with indicators like GDP and unemployment rate stable, and industrial production slightly up in June 2026. The Conference ",
-    "excerpt": "The U.S. economy shows modest growth, with indicators like GDP and unemployment rate stable, and industrial production slightly up in June 2026. The Conference Board Coincident Economic Index increased by 0.2% in June 2026. The U.S. Census Bureau provides comprehensive economic data for analysis.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "United States Indicators"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "united-states-inflation-rate-trading-economics",
     "type": "news",
     "title": "United States Inflation Rate - Trading Economics",
@@ -1949,27 +2264,6 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "United States Inflation Rate - Trading Economics"
-    },
-    "readingTime": 5
-  },
-  {
-    "id": "united-states-inflation-rate",
-    "type": "news",
-    "title": "United States Inflation Rate",
-    "slug": "united-states-inflation-rate",
-    "date": "2026-08-08",
-    "displayDate": "August 8, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The U.S. inflation rate was 3.5% in June 2026, down from 4.2% in May. It is projected to be 3.7% by the end of this quarter. Long-term projections suggest it wi",
-    "excerpt": "The U.S. inflation rate was 3.5% in June 2026, down from 4.2% in May. It is projected to be 3.7% by the end of this quarter. Long-term projections suggest it will trend around 2.6% in 2027.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "United States Inflation Rate"
     },
     "readingTime": 5
   },
@@ -2054,27 +2348,6 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "What to Look Out for in Economic Data This Week (August ..."
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "when-is-the-next-fed-interest-rate-decision",
-    "type": "news",
-    "title": "When is the next Fed interest rate decision?",
-    "slug": "when-is-the-next-fed-interest-rate-decision",
-    "date": "2026-08-08",
-    "displayDate": "August 8, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The next Federal Reserve interest rate decision is scheduled for April 29, 2026. The announcement will be made at 2:00 PM Eastern Time. Fed Chair Jerome Powell ",
-    "excerpt": "The next Federal Reserve interest rate decision is scheduled for April 29, 2026. The announcement will be made at 2:00 PM Eastern Time. Fed Chair Jerome Powell will discuss the decision in a press conference shortly after.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "When is the next Fed interest rate decision?"
     },
     "readingTime": 4
   },
@@ -2247,27 +2520,6 @@
     "readingTime": 3
   },
   {
-    "id": "federal-reserve-holds-rates-at-3-50-3-75-in-july-2026",
-    "type": "news",
-    "title": "Federal Reserve Holds Rates at 3.50%-3.75% in July 2026",
-    "slug": "federal-reserve-holds-rates-at-3-50-3-75-in-july-2026",
-    "date": "2026-08-07",
-    "displayDate": "August 7, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Reserve held its interest rate at 3.50%-3.75% in July 2026, with three members dissenting for a hike. Investors expected the hold, but anticipate on",
-    "excerpt": "The Federal Reserve held its interest rate at 3.50%-3.75% in July 2026, with three members dissenting for a hike. Investors expected the hold, but anticipate one to two hikes by year-end. The decision maintained economic expansion amid inflation concerns.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Federal Reserve Holds Rates at 3.50%-3.75% in July 2026"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "federal-reserve-votes-to-keep-interest-rates-unchanged",
     "type": "news",
     "title": "Federal Reserve votes to keep interest rates unchanged",
@@ -2415,48 +2667,6 @@
     "readingTime": 3
   },
   {
-    "id": "s-p-500-index-today-inx-live-ticker-markets-insider",
-    "type": "news",
-    "title": "S&P 500 INDEX TODAY | INX LIVE TICKER - Markets Insider",
-    "slug": "s-p-500-index-today-inx-live-ticker-markets-insider",
-    "date": "2026-08-07",
-    "displayDate": "August 7, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The S&P 500 index is currently up 0.15% at 7,761.50 as of today's trading. The latest change reflects a minor increase from the previous close. This data is bas",
-    "excerpt": "The S&P 500 index is currently up 0.15% at 7,761.50 as of today's trading. The latest change reflects a minor increase from the previous close. This data is based on the latest available market information.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "S&P 500 INDEX TODAY | INX LIVE TICKER - Markets Insider"
-    },
-    "readingTime": 5
-  },
-  {
-    "id": "s-p-500-sp500-technical-analysis-medium-term",
-    "type": "news",
-    "title": "S&P 500 (SP500) - Technical Analysis - Medium term",
-    "slug": "s-p-500-sp500-technical-analysis-medium-term",
-    "date": "2026-08-07",
-    "displayDate": "August 7, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The S&P 500 shows a strong upward trend and is technically positive for the medium term. The index has broken resistance levels and is expected to rise further.",
-    "excerpt": "The S&P 500 shows a strong upward trend and is technically positive for the medium term. The index has broken resistance levels and is expected to rise further. The recommendation for one to six months is positive.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "S&P 500 (SP500) - Technical Analysis - Medium term"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "sector-industry-performance",
     "type": "news",
     "title": "Sector & Industry Performance",
@@ -2474,27 +2684,6 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "Sector & Industry Performance"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "sector-views-monthly-stock-sector-outlook",
-    "type": "news",
-    "title": "Sector Views: Monthly Stock Sector Outlook",
-    "slug": "sector-views-monthly-stock-sector-outlook",
-    "date": "2026-08-07",
-    "displayDate": "August 7, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Information Technology is favored, while Real Estate is least favored in the monthly stock sector outlook. The S&P 500 Materials Sector has the highest 10-year ",
-    "excerpt": "Information Technology is favored, while Real Estate is least favored in the monthly stock sector outlook. The S&P 500 Materials Sector has the highest 10-year performance.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Sector Views: Monthly Stock Sector Outlook"
     },
     "readingTime": 3
   },
@@ -2812,27 +3001,6 @@
       "alt": "GeekWire – Breaking News in Technology & Business"
     },
     "readingTime": 3
-  },
-  {
-    "id": "healthcare-stock-performance-yahoo-finance",
-    "type": "news",
-    "title": "Healthcare Stock Performance - Yahoo Finance",
-    "slug": "healthcare-stock-performance-yahoo-finance",
-    "date": "2026-08-06",
-    "displayDate": "August 6, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Healthcare sector stocks show mixed performance; Eli Lilly and Johnson & Johnson have positive YTD returns, while Abbott Laboratories has negative. HCA Healthca",
-    "excerpt": "Healthcare sector stocks show mixed performance; Eli Lilly and Johnson & Johnson have positive YTD returns, while Abbott Laboratories has negative. HCA Healthcare's market cap is 87.16B. S&P 500 Health Care sector is up 0.75%.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Healthcare Stock Performance - Yahoo Finance"
-    },
-    "readingTime": 4
   },
   {
     "id": "huge-bitcoin-ethereum-xrp-news-crypto-rally-stalls",
@@ -3360,48 +3528,6 @@
     "readingTime": 3
   },
   {
-    "id": "global-market-headlines-breaking-stock-market-news",
-    "type": "news",
-    "title": "Global Market Headlines | Breaking Stock Market News",
-    "slug": "global-market-headlines-breaking-stock-market-news",
-    "date": "2026-08-05",
-    "displayDate": "August 5, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The S&P 500 and Dow closed at record highs, driven by strong earnings from AI companies. Oil prices and Treasury yields dropped amid hopes for a U.S.-Iran deal.",
-    "excerpt": "The S&P 500 and Dow closed at record highs, driven by strong earnings from AI companies. Oil prices and Treasury yields dropped amid hopes for a U.S.-Iran deal. Microsoft's stock surged, setting a record for the largest single-day market cap jump.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Global Market Headlines | Breaking Stock Market News"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "inflation-economic-data-series-fred-st-louis-fed",
-    "type": "news",
-    "title": "Inflation - Economic Data Series | FRED | St. Louis Fed",
-    "slug": "inflation-economic-data-series-fred-st-louis-fed",
-    "date": "2026-08-05",
-    "displayDate": "August 5, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Inflation is measured by the Consumer Price Index, showing annual percentage change in cost of goods and services. Latest annual inflation rate for 2024 is 2.95",
-    "excerpt": "Inflation is measured by the Consumer Price Index, showing annual percentage change in cost of goods and services. Latest annual inflation rate for 2024 is 2.95%. Data is sourced from the World Bank.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Inflation - Economic Data Series | FRED | St. Louis Fed"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "market-data-center",
     "type": "news",
     "title": "Market Data Center",
@@ -3694,27 +3820,6 @@
       "alt": "5 Strategies to Navigate Market Volatility"
     },
     "readingTime": 3
-  },
-  {
-    "id": "asian-financial-markets",
-    "type": "news",
-    "title": "Asian Financial Markets",
-    "slug": "asian-financial-markets",
-    "date": "2026-08-04",
-    "displayDate": "August 4, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Asian financial markets include major exchanges like Nikkei 225 in Japan and S&P/ASX 200 in Australia. Key indices fluctuate daily, with the Nikkei 225 currentl",
-    "excerpt": "Asian financial markets include major exchanges like Nikkei 225 in Japan and S&P/ASX 200 in Australia. Key indices fluctuate daily, with the Nikkei 225 currently at 63,754.90. The region's stock exchanges are vital for global investment.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Asian Financial Markets"
-    },
-    "readingTime": 4
   },
   {
     "id": "big-tech-s-ai-divide-widens-open-interest-7-31-2026",
@@ -4028,27 +4133,6 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "The Economist | Go beyond breaking news"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "u-s-bureau-of-economic-analysis-bea",
-    "type": "news",
-    "title": "U.S. Bureau of Economic Analysis (BEA)",
-    "slug": "u-s-bureau-of-economic-analysis-bea",
-    "date": "2026-08-04",
-    "displayDate": "August 4, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The U.S. Bureau of Economic Analysis (BEA) provides official macroeconomic data, including GDP, personal income, and industry statistics. It is part of the Depa",
-    "excerpt": "The U.S. Bureau of Economic Analysis (BEA) provides official macroeconomic data, including GDP, personal income, and industry statistics. It is part of the Department of Commerce and has about 500 employees. The BEA's headquarters is in Suitland, Maryland.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "U.S. Bureau of Economic Analysis (BEA)"
     },
     "readingTime": 3
   },
@@ -5288,27 +5372,6 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "Investing.com - Stock Market Quotes & Financial News"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "investor-gov-home",
-    "type": "news",
-    "title": "Investor.gov: Home",
-    "slug": "investor-gov-home",
-    "date": "2026-07-08",
-    "displayDate": "July 8, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Investor.gov offers free resources to help you invest wisely and avoid fraud. It provides tools, quizzes, and alerts to protect your investments. The site is ru",
-    "excerpt": "Investor.gov offers free resources to help you invest wisely and avoid fraud. It provides tools, quizzes, and alerts to protect your investments. The site is run by the U.S. government.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Investor.gov: Home"
     },
     "readingTime": 3
   },
