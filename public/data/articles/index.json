@@ -210,6 +210,27 @@
     "readingTime": 3
   },
   {
+    "id": "coindesk-bitcoin-ethereum-xrp-crypto-news-and-price-data",
+    "type": "news",
+    "title": "CoinDesk: Bitcoin, Ethereum, XRP, Crypto News and Price Data",
+    "slug": "coindesk-bitcoin-ethereum-xrp-crypto-news-and-price-data",
+    "date": "2026-09-02",
+    "displayDate": "September 2, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "CoinDesk provides news and price data for Bitcoin, Ethereum, and XRP. As of 2026-09-02, Bitcoin is at $76,923.79, Ethereum at $2,411.92, and XRP at $1.45.",
+    "excerpt": "CoinDesk provides news and price data for Bitcoin, Ethereum, and XRP. As of 2026-09-02, Bitcoin is at $76,923.79, Ethereum at $2,411.92, and XRP at $1.45.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "CoinDesk: Bitcoin, Ethereum, XRP, Crypto News and Price Data"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "cpi-home-u-s-bureau-of-labor-statistics",
     "type": "news",
     "title": "CPI Home : U.S. Bureau of Labor Statistics",
@@ -227,6 +248,27 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "CPI Home : U.S. Bureau of Labor Statistics"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "crypto-news-bitcoin-ethereum-xrp-news-crypto-news",
+    "type": "news",
+    "title": "Crypto News: Bitcoin, Ethereum & XRP News | crypto.news",
+    "slug": "crypto-news-bitcoin-ethereum-xrp-news-crypto-news",
+    "date": "2026-09-02",
+    "displayDate": "September 2, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin price is $77,134.00, Ethereum price is $2,385.55, and XRP price is $1.38. Charles Schwab adds Solana, Avalanche, and Chainlink to its crypto platform.",
+    "excerpt": "Bitcoin price is $77,134.00, Ethereum price is $2,385.55, and XRP price is $1.38. Charles Schwab adds Solana, Avalanche, and Chainlink to its crypto platform.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Crypto News: Bitcoin, Ethereum & XRP News | crypto.news"
     },
     "readingTime": 3
   },
@@ -357,6 +399,48 @@
     "readingTime": 4
   },
   {
+    "id": "ethereum-eth-price-usd-today-news-charts-market-cap",
+    "type": "news",
+    "title": "Ethereum (ETH) Price USD Today, News, Charts, Market Cap",
+    "slug": "ethereum-eth-price-usd-today-news-charts-market-cap",
+    "date": "2026-09-02",
+    "displayDate": "September 2, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Ethereum's price is $2,511.62, with a market cap of $303 billion. It has a circulating supply of 120 million ETH. The all-time high is $4,953.73.",
+    "excerpt": "Ethereum's price is $2,511.62, with a market cap of $303 billion. It has a circulating supply of 120 million ETH. The all-time high is $4,953.73.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Ethereum (ETH) Price USD Today, News, Charts, Market Cap"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "federal-reserve-board-monetary-policy",
+    "type": "news",
+    "title": "Federal Reserve Board - Monetary Policy",
+    "slug": "federal-reserve-board-monetary-policy",
+    "date": "2026-09-02",
+    "displayDate": "September 2, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Reserve's monetary policy aims for maximum employment and stable prices. It's conducted by the Federal Open Market Committee and involves setting th",
+    "excerpt": "The Federal Reserve's monetary policy aims for maximum employment and stable prices. It's conducted by the Federal Open Market Committee and involves setting the federal funds rate. The Fed uses tools like interest on reserve balances to implement policy.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Federal Reserve Board - Monetary Policy"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "federal-reserve-holds-rates-at-3-50-3-75-in-july-2026",
     "type": "news",
     "title": "Federal Reserve Holds Rates at 3.50%-3.75% in July 2026",
@@ -376,6 +460,27 @@
       "alt": "Federal Reserve Holds Rates at 3.50%-3.75% in July 2026"
     },
     "readingTime": 3
+  },
+  {
+    "id": "global-indices-tracking-the-world-s-markets",
+    "type": "news",
+    "title": "Global Indices - Tracking the World's Markets",
+    "slug": "global-indices-tracking-the-world-s-markets",
+    "date": "2026-09-02",
+    "displayDate": "September 2, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Global indices track the performance of major stock markets worldwide, including the S&P 500, Nikkei 225, and FTSE 100. They reflect the health of various econo",
+    "excerpt": "Global indices track the performance of major stock markets worldwide, including the S&P 500, Nikkei 225, and FTSE 100. They reflect the health of various economies and asset classes. As of 2026-09-02, the latest data shows fluctuations in these indices.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Global Indices - Tracking the World's Markets"
+    },
+    "readingTime": 4
   },
   {
     "id": "global-market-indices-international-markets-markets-insider",
@@ -420,6 +525,48 @@
     "readingTime": 3
   },
   {
+    "id": "health-technology-sector-companies-performance-and-stocks-usa-tradingview",
+    "type": "news",
+    "title": "Health Technology Sector: Companies, Performance and Stocks — USA — TradingView",
+    "slug": "health-technology-sector-companies-performance-and-stocks-usa-tradingview",
+    "date": "2026-09-02",
+    "displayDate": "September 2, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Health Technology sector in USA has significant market capitalization and includes companies like AbbVie, Merck, and Novartis. Sector's market cap is $7.94 tril",
+    "excerpt": "Health Technology sector in USA has significant market capitalization and includes companies like AbbVie, Merck, and Novartis. Sector's market cap is $7.94 trillion with a 0.53% growth rate. Analysts rate several companies in this sector as \"Buy\".",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Health Technology Sector: Companies, Performance and Stocks — USA — TradingView"
+    },
+    "readingTime": 5
+  },
+  {
+    "id": "healthcare-stock-performance-yahoo-finance",
+    "type": "news",
+    "title": "Healthcare Stock Performance - Yahoo Finance",
+    "slug": "healthcare-stock-performance-yahoo-finance",
+    "date": "2026-09-02",
+    "displayDate": "September 2, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The S&P 500 Health Care sector is up 0.81% today, with a current value of 2,013.56. Key companies like Eli Lilly and Merck show positive YTD returns. The sector",
+    "excerpt": "The S&P 500 Health Care sector is up 0.81% today, with a current value of 2,013.56. Key companies like Eli Lilly and Merck show positive YTD returns. The sector's market weight is 13.56%.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Healthcare Stock Performance - Yahoo Finance"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "healthcare-stock-performance",
     "type": "news",
     "title": "Healthcare Stock Performance",
@@ -439,6 +586,48 @@
       "alt": "Healthcare Stock Performance"
     },
     "readingTime": 5
+  },
+  {
+    "id": "how-should-i-allocate-my-portfolio-in-2026",
+    "type": "news",
+    "title": "How Should I Allocate My Portfolio in 2026?",
+    "slug": "how-should-i-allocate-my-portfolio-in-2026",
+    "date": "2026-09-02",
+    "displayDate": "September 2, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Allocate your portfolio with higher stocks for long-term growth, diversify globally, and use bonds for stability. Regularly review and adjust based on life chan",
+    "excerpt": "Allocate your portfolio with higher stocks for long-term growth, diversify globally, and use bonds for stability. Regularly review and adjust based on life changes.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "How Should I Allocate My Portfolio in 2026?"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "how-the-fomc-conducts-monetary-policy-st-louis-fed",
+    "type": "news",
+    "title": "How the FOMC Conducts Monetary Policy | St. Louis Fed",
+    "slug": "how-the-fomc-conducts-monetary-policy-st-louis-fed",
+    "date": "2026-09-02",
+    "displayDate": "September 2, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Open Market Committee (FOMC) conducts monetary policy by adjusting the federal funds rate and uses tools like interest rate changes and asset purcha",
+    "excerpt": "The Federal Open Market Committee (FOMC) conducts monetary policy by adjusting the federal funds rate and uses tools like interest rate changes and asset purchases. It aims for 2% inflation and maximum employment. The FOMC employs a flexible average inflation targeting strategy.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "How the FOMC Conducts Monetary Policy | St. Louis Fed"
+    },
+    "readingTime": 4
   },
   {
     "id": "interactive-world-macromap-ft-com-markets-data",
@@ -609,6 +798,27 @@
     "readingTime": 4
   },
   {
+    "id": "s-p-500-sp500-technical-analysis-medium-term",
+    "type": "news",
+    "title": "S&P 500 (SP500) - Technical Analysis - Medium term",
+    "slug": "s-p-500-sp500-technical-analysis-medium-term",
+    "date": "2026-09-02",
+    "displayDate": "September 2, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The S&P 500 is in a bullish trend in the medium term, with positive signals and potential for further rise. The index is assessed as technically positive for th",
+    "excerpt": "The S&P 500 is in a bullish trend in the medium term, with positive signals and potential for further rise. The index is assessed as technically positive for the medium long term. The current recommendation is positive for the next six months.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "S&P 500 (SP500) - Technical Analysis - Medium term"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "sector-views-monthly-stock-sector-outlook",
     "type": "news",
     "title": "Sector Views: Monthly Stock Sector Outlook",
@@ -693,6 +903,69 @@
     "readingTime": 3
   },
   {
+    "id": "techcrunch-startup-and-technology-news",
+    "type": "news",
+    "title": "TechCrunch | Startup and Technology News",
+    "slug": "techcrunch-startup-and-technology-news",
+    "date": "2026-09-02",
+    "displayDate": "September 2, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "TechCrunch is a technology news site covering startups, AI, and tech policy. It hosts TechCrunch Disrupt conferences and reports on major tech developments. The",
+    "excerpt": "TechCrunch is a technology news site covering startups, AI, and tech policy. It hosts TechCrunch Disrupt conferences and reports on major tech developments. The site was acquired by AOL in 2010 and later by Verizon.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "TechCrunch | Startup and Technology News"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "technology-news",
+    "type": "news",
+    "title": "Technology News",
+    "slug": "technology-news",
+    "date": "2026-09-02",
+    "displayDate": "September 2, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Musk's gas turbine plans face pollution issues; Bill Gates stresses AI planning; Tesla recalls 3 million vehicles in China.",
+    "excerpt": "Musk's gas turbine plans face pollution issues; Bill Gates stresses AI planning; Tesla recalls 3 million vehicles in China.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Technology News"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "technology-wsj-com",
+    "type": "news",
+    "title": "Technology - WSJ.com",
+    "slug": "technology-wsj-com",
+    "date": "2026-09-02",
+    "displayDate": "September 2, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Recent advancements include new cybersecurity AI models from Nvidia and CrowdStrike, and Apple updating its Maps to reflect a renaming of Lake Ontario. Addition",
+    "excerpt": "Recent advancements include new cybersecurity AI models from Nvidia and CrowdStrike, and Apple updating its Maps to reflect a renaming of Lake Ontario. Additionally, Google's new AI model shows progress in coding ability.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Technology - WSJ.com"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "the-best-investment-strategies-for-the-continuous-market-investing-com",
     "type": "news",
     "title": "The Best Investment Strategies For The Continuous Market - Investing.com",
@@ -712,6 +985,27 @@
       "alt": "The Best Investment Strategies For The Continuous Market - Investing.com"
     },
     "readingTime": 3
+  },
+  {
+    "id": "the-fed-federal-open-market-committee",
+    "type": "news",
+    "title": "The Fed - Federal Open Market Committee",
+    "slug": "the-fed-federal-open-market-committee",
+    "date": "2026-09-02",
+    "displayDate": "September 2, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Open Market Committee (FOMC) is the Federal Reserve's main body for monetary policy, consisting of twelve members who set interest rates and manage ",
+    "excerpt": "The Federal Open Market Committee (FOMC) is the Federal Reserve's main body for monetary policy, consisting of twelve members who set interest rates and manage the money supply. It holds eight meetings annually to review economic conditions and decide on monetary policy. The FOMC controls open marke",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "The Fed - Federal Open Market Committee"
+    },
+    "readingTime": 4
   },
   {
     "id": "the-walt-disney-company-announces-date-for-q1-2026-earnings-call",
@@ -1071,27 +1365,6 @@
     "readingTime": 3
   },
   {
-    "id": "coindesk-bitcoin-ethereum-xrp-crypto-news-and-price-data",
-    "type": "news",
-    "title": "CoinDesk: Bitcoin, Ethereum, XRP, Crypto News and Price Data",
-    "slug": "coindesk-bitcoin-ethereum-xrp-crypto-news-and-price-data",
-    "date": "2026-09-01",
-    "displayDate": "September 1, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Bitcoin, Ethereum, and XRP prices fluctuated with Bitcoin at $76,923.79, Ethereum at $2,411.92, and XRP at $1.45. CoinDesk reports significant market movements ",
-    "excerpt": "Bitcoin, Ethereum, and XRP prices fluctuated with Bitcoin at $76,923.79, Ethereum at $2,411.92, and XRP at $1.45. CoinDesk reports significant market movements and news updates.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "CoinDesk: Bitcoin, Ethereum, XRP, Crypto News and Price Data"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "company-earnings-calendar-yahoo-finance",
     "type": "news",
     "title": "Company Earnings Calendar - Yahoo Finance",
@@ -1109,27 +1382,6 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "Company Earnings Calendar - Yahoo Finance"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "crypto-news-bitcoin-ethereum-xrp-news-crypto-news",
-    "type": "news",
-    "title": "Crypto News: Bitcoin, Ethereum & XRP News | crypto.news",
-    "slug": "crypto-news-bitcoin-ethereum-xrp-news-crypto-news",
-    "date": "2026-09-01",
-    "displayDate": "September 1, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Bitcoin price is $77,134.00, Ethereum price is $2,385.55, and XRP price is $1.38 as of 2026-09-01.",
-    "excerpt": "Bitcoin price is $77,134.00, Ethereum price is $2,385.55, and XRP price is $1.38 as of 2026-09-01.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Crypto News: Bitcoin, Ethereum & XRP News | crypto.news"
     },
     "readingTime": 4
   },
@@ -1281,48 +1533,6 @@
     "readingTime": 4
   },
   {
-    "id": "ethereum-eth-price-usd-today-news-charts-market-cap",
-    "type": "news",
-    "title": "Ethereum (ETH) Price USD Today, News, Charts, Market Cap",
-    "slug": "ethereum-eth-price-usd-today-news-charts-market-cap",
-    "date": "2026-09-01",
-    "displayDate": "September 1, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Ethereum's price is $2,511.62, with a market cap of $303 billion. Its 24-hour trading volume is $16.6 billion. Ethereum's all-time high was $4,953.73.",
-    "excerpt": "Ethereum's price is $2,511.62, with a market cap of $303 billion. Its 24-hour trading volume is $16.6 billion. Ethereum's all-time high was $4,953.73.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Ethereum (ETH) Price USD Today, News, Charts, Market Cap"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "federal-reserve-board-monetary-policy",
-    "type": "news",
-    "title": "Federal Reserve Board - Monetary Policy",
-    "slug": "federal-reserve-board-monetary-policy",
-    "date": "2026-09-01",
-    "displayDate": "September 1, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Reserve's monetary policy aims to promote maximum employment and stable prices. It primarily uses the federal funds rate and other tools to influenc",
-    "excerpt": "The Federal Reserve's monetary policy aims to promote maximum employment and stable prices. It primarily uses the federal funds rate and other tools to influence economic conditions. The Federal Open Market Committee sets this policy.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Federal Reserve Board - Monetary Policy"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "geekwire-breaking-news-in-technology-business",
     "type": "news",
     "title": "GeekWire – Breaking News in Technology & Business",
@@ -1344,27 +1554,6 @@
     "readingTime": 3
   },
   {
-    "id": "global-indices-tracking-the-world-s-markets",
-    "type": "news",
-    "title": "Global Indices - Tracking the World's Markets",
-    "slug": "global-indices-tracking-the-world-s-markets",
-    "date": "2026-09-01",
-    "displayDate": "September 1, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Global indices track the performance of various asset classes worldwide, including stocks, bonds, commodities, and real estate. Popular indices include the S&P ",
-    "excerpt": "Global indices track the performance of various asset classes worldwide, including stocks, bonds, commodities, and real estate. Popular indices include the S&P 500, Dow Jones, FTSE 100, and MSCI World Index. Investors use these indices to gauge market health and make informed decisions.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Global Indices - Tracking the World's Markets"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "global-market-headlines-breaking-stock-market-news",
     "type": "news",
     "title": "Global Market Headlines | Breaking Stock Market News",
@@ -1384,69 +1573,6 @@
       "alt": "Global Market Headlines | Breaking Stock Market News"
     },
     "readingTime": 4
-  },
-  {
-    "id": "healthcare-stock-performance-yahoo-finance",
-    "type": "news",
-    "title": "Healthcare Stock Performance - Yahoo Finance",
-    "slug": "healthcare-stock-performance-yahoo-finance",
-    "date": "2026-09-01",
-    "displayDate": "September 1, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Eli Lilly, Johnson & Johnson, and Merck show strong YTD returns, while Abbott Laboratories has negative YTD return. HCA Healthcare has a YTD return of 10.92% co",
-    "excerpt": "Eli Lilly, Johnson & Johnson, and Merck show strong YTD returns, while Abbott Laboratories has negative YTD return. HCA Healthcare has a YTD return of 10.92% compared to S&P 500's 12.28%.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Healthcare Stock Performance - Yahoo Finance"
-    },
-    "readingTime": 5
-  },
-  {
-    "id": "how-should-i-allocate-my-portfolio-in-2026",
-    "type": "news",
-    "title": "How Should I Allocate My Portfolio in 2026?",
-    "slug": "how-should-i-allocate-my-portfolio-in-2026",
-    "date": "2026-09-01",
-    "displayDate": "September 1, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Allocate your portfolio with higher stocks for long horizons, moderate bonds, and diversify globally. Focus on risk tolerance and liquidity needs. Avoid large-c",
-    "excerpt": "Allocate your portfolio with higher stocks for long horizons, moderate bonds, and diversify globally. Focus on risk tolerance and liquidity needs. Avoid large-cap US equities.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "How Should I Allocate My Portfolio in 2026?"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "how-the-fomc-conducts-monetary-policy-st-louis-fed",
-    "type": "news",
-    "title": "How the FOMC Conducts Monetary Policy | St. Louis Fed",
-    "slug": "how-the-fomc-conducts-monetary-policy-st-louis-fed",
-    "date": "2026-09-01",
-    "displayDate": "September 1, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Open Market Committee (FOMC) conducts monetary policy by setting the target range for the federal funds rate and uses tools to influence market inte",
-    "excerpt": "The Federal Open Market Committee (FOMC) conducts monetary policy by setting the target range for the federal funds rate and uses tools to influence market interest rates accordingly. The FOMC adjusts this target to steer the economy toward maximum employment and price stability.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "How the FOMC Conducts Monetary Policy | St. Louis Fed"
-    },
-    "readingTime": 3
   },
   {
     "id": "how-to-invest-in-today-s-market-u-s-bank",
@@ -1722,27 +1848,6 @@
     "readingTime": 3
   },
   {
-    "id": "s-p-500-sp500-technical-analysis-medium-term",
-    "type": "news",
-    "title": "S&P 500 (SP500) - Technical Analysis - Medium term",
-    "slug": "s-p-500-sp500-technical-analysis-medium-term",
-    "date": "2026-09-01",
-    "displayDate": "September 1, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The S&P 500 is in a positive medium-term trend, with a bullish outlook and potential for further gains. The index broke resistance, signaling continued rise. Th",
-    "excerpt": "The S&P 500 is in a positive medium-term trend, with a bullish outlook and potential for further gains. The index broke resistance, signaling continued rise. The current score is 95.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "S&P 500 (SP500) - Technical Analysis - Medium term"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "sectors-stock-market-usa-tradingview",
     "type": "news",
     "title": "Sectors — Stock Market — USA — TradingView",
@@ -1804,48 +1909,6 @@
       "alt": "Stock market sectors of USA"
     },
     "readingTime": 5
-  },
-  {
-    "id": "technology-news",
-    "type": "news",
-    "title": "Technology News",
-    "slug": "technology-news",
-    "date": "2026-09-01",
-    "displayDate": "September 1, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Recent technology news includes Apple's new AI-upgraded Mac Mini and Mac Studio models, Tesla's recall of 3 million vehicles in China, and Google's new AI camer",
-    "excerpt": "Recent technology news includes Apple's new AI-upgraded Mac Mini and Mac Studio models, Tesla's recall of 3 million vehicles in China, and Google's new AI camera update.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Technology News"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "the-fed-federal-open-market-committee",
-    "type": "news",
-    "title": "The Fed - Federal Open Market Committee",
-    "slug": "the-fed-federal-open-market-committee",
-    "date": "2026-09-01",
-    "displayDate": "September 1, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Open Market Committee (FOMC) oversees the nation's open market operations and sets U.S. monetary policy. It consists of twelve members and makes key",
-    "excerpt": "The Federal Open Market Committee (FOMC) oversees the nation's open market operations and sets U.S. monetary policy. It consists of twelve members and makes key decisions about interest rates and money supply. The FOMC was established in 1936.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "The Fed - Federal Open Market Committee"
-    },
-    "readingTime": 4
   },
   {
     "id": "u-s-economic-calendar",
@@ -2184,27 +2247,6 @@
     "readingTime": 3
   },
   {
-    "id": "health-technology-sector-companies-performance-and-stocks-usa-tradingview",
-    "type": "news",
-    "title": "Health Technology Sector: Companies, Performance and Stocks — USA — TradingView",
-    "slug": "health-technology-sector-companies-performance-and-stocks-usa-tradingview",
-    "date": "2026-08-09",
-    "displayDate": "August 9, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "| GEHCGE HealthCare Technologies Inc. | 32.42 B USD | 71.77 USD | +2.08% | 2.94 M | 0.44 | 16.49 | 4.35 USD | −10.91% | 0.20% | Buy |\n| DXCMDexCom, Inc. | 31.98",
-    "excerpt": "| GEHCGE HealthCare Technologies Inc. | 32.42 B USD | 71.77 USD | +2.08% | 2.94 M | 0.44 | 16.49 | 4.35 USD | −10.91% | 0.20% | Buy |\n| DXCMDexCom, Inc. | 31.98 B USD | 84.75 USD | +2.08% | 4.63 M | 0.76 | 33.45 | 2.53 USD | +77.36% | 0.00% | Strong ",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Health Technology Sector: Companies, Performance and Stocks — USA — TradingView"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "jobs-shock-sends-stocks-higher-open-interest-8-7-2026",
     "type": "news",
     "title": "Jobs Shock Sends Stocks Higher | Open Interest 8/7/2026",
@@ -2411,27 +2453,6 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "Tech News | Today's Latest Technology News"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "techcrunch-startup-and-technology-news",
-    "type": "news",
-    "title": "TechCrunch | Startup and Technology News",
-    "slug": "techcrunch-startup-and-technology-news",
-    "date": "2026-08-09",
-    "displayDate": "August 9, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "In Brief \n### Defense tech Hadrian raises $1.37B at $8B valuation\n\n       Julie Bort\n\n 24 hours ago\n\n   \nImage 71: The Snowflake Inc logo, which represents the ",
-    "excerpt": "In Brief \n### Defense tech Hadrian raises $1.37B at $8B valuation\n\n       Julie Bort\n\n 24 hours ago\n\n   \nImage 71: The Snowflake Inc logo, which represents the American cloud computing-based data company that offers cloud-based storage and analytics ",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "TechCrunch | Startup and Technology News"
     },
     "readingTime": 3
   },
@@ -8585,27 +8606,6 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "Stock Market Today: Stock Market News And Analysis"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "technology-wsj-com",
-    "type": "news",
-    "title": "Technology - WSJ.com",
-    "slug": "technology-wsj-com",
-    "date": "2026-07-02",
-    "displayDate": "July 2, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The WSJ Technology section covers major tech developments, including AI advancements and SpaceX's new AI device prototype. It also highlights global concerns ab",
-    "excerpt": "The WSJ Technology section covers major tech developments, including AI advancements and SpaceX's new AI device prototype. It also highlights global concerns about AI regulation and its economic impacts.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Technology - WSJ.com"
     },
     "readingTime": 3
   },
