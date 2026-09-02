@@ -3,8 +3,8 @@
   "type": "news",
   "title": "CPI Home : U.S. Bureau of Labor Statistics",
   "slug": "cpi-home-u-s-bureau-of-labor-statistics",
-  "date": "2026-09-01",
-  "displayDate": "September 1, 2026",
+  "date": "2026-09-02",
+  "displayDate": "September 2, 2026",
   "author": "Sigma Capital",
   "category": "Economic Data",
   "tags": [
@@ -12,10 +12,10 @@
     "financial news",
     "market update"
   ],
-  "metaDescription": "The Consumer Price Index (CPI) for July 2026 increased by 0.1% from June, with a 12-month change of 3.4%. Energy prices saw a significant 14.7% rise, while frui",
-  "excerpt": "The Consumer Price Index (CPI) for July 2026 increased by 0.1% from June, with a 12-month change of 3.4%. Energy prices saw a significant 14.7% rise, while fruits and vegetables increased by 5.1%.",
+  "metaDescription": "The Consumer Price Index (CPI) for July 2026 increased by 0.1% from June, with a 12-month change of 3.4%. Energy prices saw a significant 14.7% increase, while ",
+  "excerpt": "The Consumer Price Index (CPI) for July 2026 increased by 0.1% from June, with a 12-month change of 3.4%. Energy prices saw a significant 14.7% increase, while dairy products decreased by 0.5%.",
   "content": {
-    "introduction": "The Consumer Price Index (CPI) for July 2026 increased by 0.1% from June, with a 12-month change of 3.4%. Energy prices saw a significant 14.7% rise, while fruits and vegetables increased by 5.1%.",
+    "introduction": "The Consumer Price Index (CPI) for July 2026 increased by 0.1% from June, with a 12-month change of 3.4%. Energy prices saw a significant 14.7% increase, while dairy products decreased by 0.5%.",
     "body": [
       "| Category | 12-month percent change, Jul 2026 |\n --- |\n| All items | 3.4% |\n| Food | 3.0% |\n| Food at home | 2.7% |\n| Cereals and bakery products | 2.7% |\n| Meats, poultry, fish, and eggs | 1.9% |\n| Dairy and related products | -0.5% |\n| Fruits and vegetables | 5.1% |\n| Nonalcoholic beverages and beverage materials | 4.1% |\n| Other food at home | 2.5% |\n| Food away from home | 3.4% |\n| Full service meals and snacks | 3.4% |\n| Limited service meals and snacks | 3.3% |\n| Energy | 14.7% | [...] | Category | 12-month percent change, Jul 2026 |\n --- |\n| All items | 3.4% |\n| Food | 3.0% |\n| Food at home | 2.7% |\n| Cereals and bakery products | 2.7% |\n| Meats, poultry, fish, and eggs | 1.9% |\n| Dairy and related products | -0.5% |\n| Fruits and vegetables | 5.1% |\n| Nonalcoholic beverages and beverage materials | 4.1% |\n| Other food at home | 2.5% |\n| Food away from home | 3.4% |\n| Full service meals and snacks | 3.4% |\n| Limited service meals and snacks | 3.3% |\n| Energy | 14.7% | [...] | Services less energy services | 3.0% |\n| Shelter | 3.2% |\n| Rent of primary residence | 2.9% |\n| Owners' equivalent rent of residences | 3.2% |\n| Medical care services | 2.7% |\n| Physicians' services | 2.4% |\n| Hospital services | 5.2% |\n| Transportation services | 2.9% |\n| Motor vehicle maintenance and repair | 6.6% |\n| Motor vehicle insurance | -4.5% |\n| Airline fare | 25.5% |",
       "## The Consumer Price Index for All Urban Consumers (CPI-U) increased 0.1 percent on a seasonally adjusted basis in July after falling 0.4 percent in June, the U.S. Bureau of Labor Statistics reported today. Over the last 12 months, the all items index increased 3.4 percent before seasonal adjustment. [...] ## Contact Information \n\n## For additional information about the CPI visit  www.bls.gov/cpi  or contact the CPI Information and Analysis Section at 202-691-7000 or cpi_info@bls.gov. \n\n## For additional information on seasonal adjustment in the CPI visit www.bls.gov/cpi/seasonal-adjustment/home.htm [...] ## The Bureau of Labor Statistics uses intervention analysis seasonal adjustment (IASA) for some CPI series. Sometimes extreme values or sharp movements can distort the underlying seasonal pattern of price change. Intervention analysis seasonal adjustment is a process by which the distortions caused by such unusual events are estimated and removed from the data prior to calculation of seasonal factors. The resulting seasonal factors, which more accurately represent the seasonal pattern, are",
@@ -30,23 +30,23 @@
     "sourceUrl": "https://www.bls.gov/cpi"
   },
   "readingTime": 3,
-  "updatedAt": "2026-09-01T10:58:51.870Z",
+  "updatedAt": "2026-09-02T03:40:21.344Z",
   "images": {
     "thumbnail": {
-      "src": "/images/article_thumb_1.jpg",
+      "src": "/images/article_thumb_5.jpg",
       "alt": "CPI Home : U.S. Bureau of Labor Statistics"
     },
     "hero": {
-      "src": "/images/article_thumb_3.jpg",
+      "src": "/images/article_thumb_4.jpg",
       "alt": "CPI Home : U.S. Bureau of Labor Statistics"
     },
     "mid": {
-      "src": "/images/article_thumb_3.jpg",
+      "src": "/images/article_thumb_2.jpg",
       "alt": "CPI Home : U.S. Bureau of Labor Statistics"
     }
   },
   "image": {
-    "src": "/images/article_thumb_3.jpg",
+    "src": "/images/article_thumb_6.jpg",
     "alt": "CPI Home : U.S. Bureau of Labor Statistics"
   }
 }
