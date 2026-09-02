@@ -210,6 +210,27 @@
     "readingTime": 3
   },
   {
+    "id": "bureau-of-labor-statistics",
+    "type": "news",
+    "title": "Bureau of Labor Statistics",
+    "slug": "bureau-of-labor-statistics",
+    "date": "2026-09-02",
+    "displayDate": "September 2, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Bureau of Labor Statistics collects and analyzes economic data on employment, inflation, and productivity to inform government policy and business decisions",
+    "excerpt": "The Bureau of Labor Statistics collects and analyzes economic data on employment, inflation, and productivity to inform government policy and business decisions. It was established in 1884 and is part of the U.S. Department of Labor. Its key reports include the Consumer Price Index and the Employmen",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Bureau of Labor Statistics"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "coindesk-bitcoin-ethereum-xrp-crypto-news-and-price-data",
     "type": "news",
     "title": "CoinDesk: Bitcoin, Ethereum, XRP, Crypto News and Price Data",
@@ -227,6 +248,27 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "CoinDesk: Bitcoin, Ethereum, XRP, Crypto News and Price Data"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "company-earnings-calendar-yahoo-finance",
+    "type": "news",
+    "title": "Company Earnings Calendar - Yahoo Finance",
+    "slug": "company-earnings-calendar-yahoo-finance",
+    "date": "2026-09-02",
+    "displayDate": "September 2, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "On September 2, 2026, no company earnings announcements are scheduled. For upcoming earnings, check Yahoo Finance's calendar.",
+    "excerpt": "On September 2, 2026, no company earnings announcements are scheduled. For upcoming earnings, check Yahoo Finance's calendar.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Company Earnings Calendar - Yahoo Finance"
     },
     "readingTime": 3
   },
@@ -271,6 +313,27 @@
       "alt": "Crypto News: Bitcoin, Ethereum & XRP News | crypto.news"
     },
     "readingTime": 3
+  },
+  {
+    "id": "earnings-calendar-and-analysis-for-this-week-aug-31-sept-4",
+    "type": "news",
+    "title": "Earnings Calendar and Analysis for This Week (Aug 31-Sept 4)",
+    "slug": "earnings-calendar-and-analysis-for-this-week-aug-31-sept-4",
+    "date": "2026-09-02",
+    "displayDate": "September 2, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "This week's earnings include Lululemon Athletica on Thursday and Broadcom on Wednesday. Analysts expect Lululemon to report $1.80 per share. Broadcom is forecas",
+    "excerpt": "This week's earnings include Lululemon Athletica on Thursday and Broadcom on Wednesday. Analysts expect Lululemon to report $1.80 per share. Broadcom is forecasted at $3.21 per share.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Earnings Calendar and Analysis for This Week (Aug 31-Sept 4)"
+    },
+    "readingTime": 5
   },
   {
     "id": "earnings-calendar-investing-com",
@@ -376,6 +439,27 @@
       "alt": "Earnings"
     },
     "readingTime": 3
+  },
+  {
+    "id": "economic-sector-performance-dashboards-yahoo-finance",
+    "type": "news",
+    "title": "Economic Sector Performance Dashboards - Yahoo Finance",
+    "slug": "economic-sector-performance-dashboards-yahoo-finance",
+    "date": "2026-09-02",
+    "displayDate": "September 2, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Energy and Information Technology sectors lead in 2026 performance, while Communication Services lags; overall market is up 14.57% YTD.",
+    "excerpt": "Energy and Information Technology sectors lead in 2026 performance, while Communication Services lags; overall market is up 14.57% YTD.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Economic Sector Performance Dashboards - Yahoo Finance"
+    },
+    "readingTime": 4
   },
   {
     "id": "economic-sector-performance-dashboards",
@@ -500,6 +584,27 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "Global Market Indices | International Markets - Markets Insider"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "global-markets-data-breaking-stock-market-news",
+    "type": "news",
+    "title": "Global Markets Data | Breaking Stock Market News",
+    "slug": "global-markets-data-breaking-stock-market-news",
+    "date": "2026-09-02",
+    "displayDate": "September 2, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Global stock markets showed mixed performance, with European indices advancing while Asian markets traded higher. The S&P 500 declined slightly, and bond yields",
+    "excerpt": "Global stock markets showed mixed performance, with European indices advancing while Asian markets traded higher. The S&P 500 declined slightly, and bond yields increased globally. Commodities like Brent Crude Oil rose, while copper prices fell.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Global Markets Data | Breaking Stock Market News"
     },
     "readingTime": 4
   },
@@ -693,6 +798,48 @@
     "readingTime": 3
   },
   {
+    "id": "latest-stock-market-news",
+    "type": "news",
+    "title": "Latest Stock Market News",
+    "slug": "latest-stock-market-news",
+    "date": "2026-09-02",
+    "displayDate": "September 2, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Microsoft's stock could rally further, oil prices are high, and Dell's earnings beat expectations.",
+    "excerpt": "Microsoft's stock could rally further, oil prices are high, and Dell's earnings beat expectations.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Latest Stock Market News"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "live-index-all-world-indices-global-markets",
+    "type": "news",
+    "title": "Live Index | All World Indices | Global Markets",
+    "slug": "live-index-all-world-indices-global-markets",
+    "date": "2026-09-02",
+    "displayDate": "September 2, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Nikkei 225 is down 2.85% to 64,325.60, the Shanghai Composite is down 0.97% to 3,941.39, and the S&P 500 is not listed.",
+    "excerpt": "The Nikkei 225 is down 2.85% to 64,325.60, the Shanghai Composite is down 0.97% to 3,941.39, and the S&P 500 is not listed.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Live Index | All World Indices | Global Markets"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "m-m-q4-results-2026-live-auto-major-to-post-earnings-today-here-s-what-to-expect",
     "type": "news",
     "title": "M&M Q4 Results 2026 LIVE: Auto major to post earnings today: Here's what to expect? - Worldnews.com",
@@ -861,6 +1008,27 @@
     "readingTime": 4
   },
   {
+    "id": "stock-market-outlook-midyear-2026",
+    "type": "news",
+    "title": "Stock market outlook midyear 2026",
+    "slug": "stock-market-outlook-midyear-2026",
+    "date": "2026-09-02",
+    "displayDate": "September 2, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The 2026 midyear outlook suggests strong corporate earnings and resilient U.S. economy, but warns of geopolitical pressures and inflation risks. Markets remain ",
+    "excerpt": "The 2026 midyear outlook suggests strong corporate earnings and resilient U.S. economy, but warns of geopolitical pressures and inflation risks. Markets remain stable despite global uncertainties. Diversification across sectors and regions is recommended.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Stock market outlook midyear 2026"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "stock-market-sector-performance",
     "type": "news",
     "title": "Stock Market & Sector Performance",
@@ -962,6 +1130,27 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "Technology - WSJ.com"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "the-allocator-s-checklist-for-2026-and-beyond-wellington-management",
+    "type": "news",
+    "title": "The allocator’s checklist for 2026 and beyond | Wellington Management",
+    "slug": "the-allocator-s-checklist-for-2026-and-beyond-wellington-management",
+    "date": "2026-09-02",
+    "displayDate": "September 2, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Wellington Management's 2026 allocator checklist emphasizes reviewing past performance, assessing market outlook, and prioritizing diversification strategies. K",
+    "excerpt": "Wellington Management's 2026 allocator checklist emphasizes reviewing past performance, assessing market outlook, and prioritizing diversification strategies. Key focus areas include liquidity stress-testing and long-term investment strategies.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "The allocator’s checklist for 2026 and beyond | Wellington Management"
     },
     "readingTime": 3
   },
@@ -1239,6 +1428,27 @@
     "readingTime": 4
   },
   {
+    "id": "us-markets-company-earnings-stock-market-trends",
+    "type": "news",
+    "title": "US Markets, Company Earnings, Stock Market Trends ...",
+    "slug": "us-markets-company-earnings-stock-market-trends",
+    "date": "2026-09-02",
+    "displayDate": "September 2, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "US markets show mixed performance; major indexes fluctuate. Key stocks like Apple and Tesla have notable changes. Upcoming earnings reports are anticipated.",
+    "excerpt": "US markets show mixed performance; major indexes fluctuate. Key stocks like Apple and Tesla have notable changes. Upcoming earnings reports are anticipated.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "US Markets, Company Earnings, Stock Market Trends ..."
+    },
+    "readingTime": 5
+  },
+  {
     "id": "weekly-trader-s-stock-market-outlook-charles-schwab",
     "type": "news",
     "title": "Weekly Trader's Stock Market Outlook | Charles Schwab",
@@ -1363,27 +1573,6 @@
       "alt": "Bitcoin Price (BTC)"
     },
     "readingTime": 3
-  },
-  {
-    "id": "company-earnings-calendar-yahoo-finance",
-    "type": "news",
-    "title": "Company Earnings Calendar - Yahoo Finance",
-    "slug": "company-earnings-calendar-yahoo-finance",
-    "date": "2026-09-01",
-    "displayDate": "September 1, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Palo Alto Networks and Methode Electronics are scheduled to report earnings on September 1, 2026. Sunbelt Rentals Holdings and Caseys are set for September 8, 2",
-    "excerpt": "Palo Alto Networks and Methode Electronics are scheduled to report earnings on September 1, 2026. Sunbelt Rentals Holdings and Caseys are set for September 8, 2026. Earnings announcements can be viewed on Yahoo Finance's Events Calendar.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Company Earnings Calendar - Yahoo Finance"
-    },
-    "readingTime": 4
   },
   {
     "id": "divided-fed-leaves-interest-rates-unchanged",
@@ -1722,27 +1911,6 @@
     "readingTime": 4
   },
   {
-    "id": "latest-stock-market-news",
-    "type": "news",
-    "title": "Latest Stock Market News",
-    "slug": "latest-stock-market-news",
-    "date": "2026-09-01",
-    "displayDate": "September 1, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The stock market experienced mixed results, with some indices declining while others saw slight gains. Inflation concerns and fluctuating commodity prices influ",
-    "excerpt": "The stock market experienced mixed results, with some indices declining while others saw slight gains. Inflation concerns and fluctuating commodity prices influenced market dynamics. Overall, the market showed resilience despite ongoing economic uncertainties.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Latest Stock Market News"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "latest-technology-news-and-reviews-yahoo-finance",
     "type": "news",
     "title": "Latest Technology News and Reviews - Yahoo Finance",
@@ -1951,27 +2119,6 @@
       "alt": "United States - IMF DataMapper"
     },
     "readingTime": 3
-  },
-  {
-    "id": "us-markets-company-earnings-stock-market-trends",
-    "type": "news",
-    "title": "US Markets, Company Earnings, Stock Market Trends ...",
-    "slug": "us-markets-company-earnings-stock-market-trends",
-    "date": "2026-09-01",
-    "displayDate": "September 1, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "US markets are experiencing volatility due to rising oil prices and geopolitical tensions; major companies report mixed earnings; interest rates remain a concer",
-    "excerpt": "US markets are experiencing volatility due to rising oil prices and geopolitical tensions; major companies report mixed earnings; interest rates remain a concern.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "US Markets, Company Earnings, Stock Market Trends ..."
-    },
-    "readingTime": 4
   },
   {
     "id": "when-is-the-next-fed-interest-rate-decision-equals-money",
@@ -2814,27 +2961,6 @@
     "readingTime": 5
   },
   {
-    "id": "economic-sector-performance-dashboards-yahoo-finance",
-    "type": "news",
-    "title": "Economic Sector Performance Dashboards - Yahoo Finance",
-    "slug": "economic-sector-performance-dashboards-yahoo-finance",
-    "date": "2026-08-08",
-    "displayDate": "August 8, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The technology sector leads in year-to-date returns, while energy has the highest day return. Industrials and consumer cyclical sectors show strong performance.",
-    "excerpt": "The technology sector leads in year-to-date returns, while energy has the highest day return. Industrials and consumer cyclical sectors show strong performance. Utilities have the largest day loss.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Economic Sector Performance Dashboards - Yahoo Finance"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "fed-meeting-recap-july-2026",
     "type": "news",
     "title": "Fed meeting recap: July 2026",
@@ -3461,27 +3587,6 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "Sector & Industry Performance"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "stock-market-outlook-midyear-2026",
-    "type": "news",
-    "title": "Stock market outlook midyear 2026",
-    "slug": "stock-market-outlook-midyear-2026",
-    "date": "2026-08-07",
-    "displayDate": "August 7, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Midyear 2026, stock market outlook suggests strong earnings growth and resilience despite geopolitical pressures and inflation risks. Robust corporate earnings ",
-    "excerpt": "Midyear 2026, stock market outlook suggests strong earnings growth and resilience despite geopolitical pressures and inflation risks. Robust corporate earnings and economic activity are expected to drive gains. Market diversification trends continue.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Stock market outlook midyear 2026"
     },
     "readingTime": 3
   },
@@ -6237,27 +6342,6 @@
     "readingTime": 3
   },
   {
-    "id": "bureau-of-labor-statistics",
-    "type": "news",
-    "title": "Bureau of Labor Statistics",
-    "slug": "bureau-of-labor-statistics",
-    "date": "2026-07-07",
-    "displayDate": "July 7, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Bureau of Labor Statistics is a U.S. government agency that collects and reports data on employment, labor, and the economy. It is part of the Department of",
-    "excerpt": "The Bureau of Labor Statistics is a U.S. government agency that collects and reports data on employment, labor, and the economy. It is part of the Department of Labor and provides essential economic statistics. Its data supports decision-making in public and private sectors.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Bureau of Labor Statistics"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "consumer-price-index-1913-federal-reserve-bank-of-minneapolis",
     "type": "news",
     "title": "Consumer Price Index, 1913- | Federal Reserve Bank of Minneapolis",
@@ -7369,27 +7453,6 @@
       "alt": "TechCompanyNews"
     },
     "readingTime": 3
-  },
-  {
-    "id": "the-allocator-s-checklist-for-2026-and-beyond-wellington-management",
-    "type": "news",
-    "title": "The allocator’s checklist for 2026 and beyond | Wellington Management",
-    "slug": "the-allocator-s-checklist-for-2026-and-beyond-wellington-management",
-    "date": "2026-07-06",
-    "displayDate": "July 6, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The 2026 allocator checklist emphasizes prioritizing equity returns, considering non-US equities, and managing risk amid a fluctuating US dollar. Key takeaways ",
-    "excerpt": "The 2026 allocator checklist emphasizes prioritizing equity returns, considering non-US equities, and managing risk amid a fluctuating US dollar. Key takeaways focus on strategic asset allocation and market outlook.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "The allocator’s checklist for 2026 and beyond | Wellington Management"
-    },
-    "readingTime": 5
   },
   {
     "id": "the-information",
@@ -8522,27 +8585,6 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "Equity market outlook - BlackRock"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "global-markets-data-breaking-stock-market-news",
-    "type": "news",
-    "title": "Global Markets Data | Breaking Stock Market News",
-    "slug": "global-markets-data-breaking-stock-market-news",
-    "date": "2026-07-02",
-    "displayDate": "July 2, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Global markets are currently experiencing fluctuations, with the Dow Jones and NASDAQ 100 showing minor changes. For the latest stock market news, Reuters and C",
-    "excerpt": "Global markets are currently experiencing fluctuations, with the Dow Jones and NASDAQ 100 showing minor changes. For the latest stock market news, Reuters and CNN offer comprehensive updates.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Global Markets Data | Breaking Stock Market News"
     },
     "readingTime": 3
   },
