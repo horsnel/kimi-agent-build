@@ -1,5 +1,26 @@
 [
   {
+    "id": "2026-strategic-asset-allocation-saa",
+    "type": "news",
+    "title": "2026 Strategic Asset Allocation (SAA)",
+    "slug": "2026-strategic-asset-allocation-saa",
+    "date": "2026-09-02",
+    "displayDate": "September 2, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Strategic Asset Allocation for 2026 favors large cap value and international equities, with a modest underweight to equity risk and a focus on real assets and a",
+    "excerpt": "Strategic Asset Allocation for 2026 favors large cap value and international equities, with a modest underweight to equity risk and a focus on real assets and alternatives. Core fixed income remains central. Commodities and private debt are considered as alternatives to traditional bonds.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "2026 Strategic Asset Allocation (SAA)"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "5-strategies-to-navigate-market-volatility",
     "type": "news",
     "title": "5 Strategies to Navigate Market Volatility",
@@ -17,6 +38,69 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "5 Strategies to Navigate Market Volatility"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "asian-market-commentary-rttnews",
+    "type": "news",
+    "title": "Asian Market Commentary - RTTNews",
+    "slug": "asian-market-commentary-rttnews",
+    "date": "2026-09-02",
+    "displayDate": "September 2, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Asian stock markets mostly traded lower on Wednesday due to Wall Street's negative cues and rising bond yields. On Friday, markets were mostly higher, boosted b",
+    "excerpt": "Asian stock markets mostly traded lower on Wednesday due to Wall Street's negative cues and rising bond yields. On Friday, markets were mostly higher, boosted by tech stocks and improved sentiment. Crude oil prices spiked, renewing inflation concerns.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Asian Market Commentary - RTTNews"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "asian-market-headlines-breaking-stock-market-news",
+    "type": "news",
+    "title": "Asian Market Headlines | Breaking Stock Market News",
+    "slug": "asian-market-headlines-breaking-stock-market-news",
+    "date": "2026-09-02",
+    "displayDate": "September 2, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "China's manufacturing sector expanded in August; global bond yields hit highs; Asian stock markets declined.",
+    "excerpt": "China's manufacturing sector expanded in August; global bond yields hit highs; Asian stock markets declined.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Asian Market Headlines | Breaking Stock Market News"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "asian-stock-market-capital-markets-news-bond-market-news-commodities-news-etfs-n",
+    "type": "news",
+    "title": "Asian Stock Market: Capital Markets News, Bond Market News, Commodities News, ETFs News",
+    "slug": "asian-stock-market-capital-markets-news-bond-market-news-commodities-news-etfs-n",
+    "date": "2026-09-02",
+    "displayDate": "September 2, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Oil prices rose, Asian stock markets fell, and bond yields increased in recent news. SK Hynix's IPO boosted Asian stocks. China's manufacturing sector expanded ",
+    "excerpt": "Oil prices rose, Asian stock markets fell, and bond yields increased in recent news. SK Hynix's IPO boosted Asian stocks. China's manufacturing sector expanded in August.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Asian Stock Market: Capital Markets News, Bond Market News, Commodities News, ETFs News"
     },
     "readingTime": 3
   },
@@ -40,6 +124,48 @@
       "alt": "Bitcoin (BTC) Price USD Today, News, Charts, Market Cap | Coinbase"
     },
     "readingTime": 4
+  },
+  {
+    "id": "bitcoin-btc-price-usd-today-news-charts-market-cap",
+    "type": "news",
+    "title": "Bitcoin (BTC) Price USD Today, News, Charts, Market Cap",
+    "slug": "bitcoin-btc-price-usd-today-news-charts-market-cap",
+    "date": "2026-09-02",
+    "displayDate": "September 2, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin's price today is $78,007.69, with a market cap of $1.57 trillion. It has a circulating supply of 20.08 million BTC. Bitcoin is down 4.10% from its 7-day",
+    "excerpt": "Bitcoin's price today is $78,007.69, with a market cap of $1.57 trillion. It has a circulating supply of 20.08 million BTC. Bitcoin is down 4.10% from its 7-day high.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Bitcoin (BTC) Price USD Today, News, Charts, Market Cap"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "bitcoin-forecast-news-and-analysis-btc-usd",
+    "type": "news",
+    "title": "Bitcoin Forecast, News and Analysis (BTC/USD)",
+    "slug": "bitcoin-forecast-news-and-analysis-btc-usd",
+    "date": "2026-09-02",
+    "displayDate": "September 2, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin price is currently around $63,000, consolidating with potential for a breakout or pullback. Forecasts predict a rise to $69,014.85 by August 19, 2026. M",
+    "excerpt": "Bitcoin price is currently around $63,000, consolidating with potential for a breakout or pullback. Forecasts predict a rise to $69,014.85 by August 19, 2026. Market sentiment is currently bearish.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Bitcoin Forecast, News and Analysis (BTC/USD)"
+    },
+    "readingTime": 3
   },
   {
     "id": "bitcoin-price-today-live-btc-price-chart-market-data",
@@ -147,6 +273,27 @@
     "readingTime": 4
   },
   {
+    "id": "earnings-cnbc",
+    "type": "news",
+    "title": "Earnings - CNBC",
+    "slug": "earnings-cnbc",
+    "date": "2026-09-02",
+    "displayDate": "September 2, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Okta and CrowdStrike saw significant stock gains, while Best Buy beat estimates but its stock fell. Nvidia added over $400 billion in value due to strong earnin",
+    "excerpt": "Okta and CrowdStrike saw significant stock gains, while Best Buy beat estimates but its stock fell. Nvidia added over $400 billion in value due to strong earnings. Marvell shares dropped despite a large Google deal.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Earnings - CNBC"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "earnings-whispers",
     "type": "news",
     "title": "Earnings Whispers",
@@ -187,6 +334,27 @@
       "alt": "Earnings"
     },
     "readingTime": 3
+  },
+  {
+    "id": "economic-sector-performance-dashboards",
+    "type": "news",
+    "title": "Economic Sector Performance Dashboards",
+    "slug": "economic-sector-performance-dashboards",
+    "date": "2026-09-02",
+    "displayDate": "September 2, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Industrials sector has the highest YTD return, while Communication Services has the lowest. Technology leads in market weight. Utilities show positive day retur",
+    "excerpt": "Industrials sector has the highest YTD return, while Communication Services has the lowest. Technology leads in market weight. Utilities show positive day return.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Economic Sector Performance Dashboards"
+    },
+    "readingTime": 4
   },
   {
     "id": "federal-reserve-holds-rates-at-3-50-3-75-in-july-2026",
@@ -252,6 +420,27 @@
     "readingTime": 3
   },
   {
+    "id": "healthcare-stock-performance",
+    "type": "news",
+    "title": "Healthcare Stock Performance",
+    "slug": "healthcare-stock-performance",
+    "date": "2026-09-02",
+    "displayDate": "September 2, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Healthcare stocks like Eli Lilly, Johnson & Johnson, and Merck have strong market weights and positive YTD returns. The best-performing healthcare stock in 2026",
+    "excerpt": "Healthcare stocks like Eli Lilly, Johnson & Johnson, and Merck have strong market weights and positive YTD returns. The best-performing healthcare stock in 2026 is Moderna Inc with a 453.51% increase. Health services sector stocks like Molina Healthcare and Tenet Healthcare have mixed performance.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Healthcare Stock Performance"
+    },
+    "readingTime": 5
+  },
+  {
     "id": "interactive-world-macromap-ft-com-markets-data",
     "type": "news",
     "title": "Interactive World Macromap - FT.com - Markets data",
@@ -269,6 +458,153 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "Interactive World Macromap - FT.com - Markets data"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "investment-outlook-and-portfolio-strategies-for-2026",
+    "type": "news",
+    "title": "Investment Outlook and Portfolio Strategies for 2026",
+    "slug": "investment-outlook-and-portfolio-strategies-for-2026",
+    "date": "2026-09-02",
+    "displayDate": "September 2, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "For 2026, focus on small caps, emerging markets, and global equity diversification. Consider fixed income and alternative investments for balance. Anticipate AI",
+    "excerpt": "For 2026, focus on small caps, emerging markets, and global equity diversification. Consider fixed income and alternative investments for balance. Anticipate AI-driven growth and sector shifts.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Investment Outlook and Portfolio Strategies for 2026"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "investment-strategy-2026-portfolio-moves-for-a-changing-market",
+    "type": "news",
+    "title": "Investment Strategy 2026 Portfolio Moves for a Changing Market",
+    "slug": "investment-strategy-2026-portfolio-moves-for-a-changing-market",
+    "date": "2026-09-02",
+    "displayDate": "September 2, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "For 2026, focus on diversifying with small caps and emerging markets, prioritize income-generating assets, and consider alternative investments for qualified in",
+    "excerpt": "For 2026, focus on diversifying with small caps and emerging markets, prioritize income-generating assets, and consider alternative investments for qualified investors.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Investment Strategy 2026 Portfolio Moves for a Changing Market"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "m-m-q4-results-2026-live-auto-major-to-post-earnings-today-here-s-what-to-expect",
+    "type": "news",
+    "title": "M&M Q4 Results 2026 LIVE: Auto major to post earnings today: Here's what to expect? - Worldnews.com",
+    "slug": "m-m-q4-results-2026-live-auto-major-to-post-earnings-today-here-s-what-to-expect",
+    "date": "2026-09-02",
+    "displayDate": "September 2, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Mahindra & Mahindra reported a 42% increase in consolidated net profit for Q4 FY26, reaching ₹4,667.57 crore. Revenue grew by 29%, and a dividend of Rs. 33.0 pe",
+    "excerpt": "Mahindra & Mahindra reported a 42% increase in consolidated net profit for Q4 FY26, reaching ₹4,667.57 crore. Revenue grew by 29%, and a dividend of Rs. 33.0 per share was declared. The company maintained market leadership in automotive and farm equipment segments.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "M&M Q4 Results 2026 LIVE: Auto major to post earnings today: Here's what to expect? - Worldnews.com"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "record-surge-in-gasoline-prices-fuels-us-consumer-inflation-in-march-the-economi",
+    "type": "news",
+    "title": "Record surge in gasoline prices fuels US consumer inflation in March - The Economic Times",
+    "slug": "record-surge-in-gasoline-prices-fuels-us-consumer-inflation-in-march-the-economi",
+    "date": "2026-09-02",
+    "displayDate": "September 2, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "In March, US consumer inflation surged to 3.3%, driven by a record 21.2% increase in gasoline prices due to the conflict with Iran. This rise marked the highest",
+    "excerpt": "In March, US consumer inflation surged to 3.3%, driven by a record 21.2% increase in gasoline prices due to the conflict with Iran. This rise marked the highest inflation rate in nearly four years. Economists had forecasted a 0.9% monthly increase.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Record surge in gasoline prices fuels US consumer inflation in March - The Economic Times"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "s-p-500-analysis-and-opinion-investing-com",
+    "type": "news",
+    "title": "S&P 500 Analysis and Opinion - Investing.com",
+    "slug": "s-p-500-analysis-and-opinion-investing-com",
+    "date": "2026-09-02",
+    "displayDate": "September 2, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The S&P 500 is in a rising trend, showing positive technical signals and optimism among investors. It closed at 7,711.76, down 0.25%. Analysts predict further g",
+    "excerpt": "The S&P 500 is in a rising trend, showing positive technical signals and optimism among investors. It closed at 7,711.76, down 0.25%. Analysts predict further growth.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "S&P 500 Analysis and Opinion - Investing.com"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "s-p-500-index-sp500-analysis-news-and-chart-today",
+    "type": "news",
+    "title": "S&P 500 Index (SP500) Analysis, News, And Chart Today",
+    "slug": "s-p-500-index-sp500-analysis-news-and-chart-today",
+    "date": "2026-09-02",
+    "displayDate": "September 2, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The S&P 500 Index closed at 7,631.53, down 54.61 points (-0.71%) on September 1, 2026. It has a positive technical analysis for the medium term. Current news hi",
+    "excerpt": "The S&P 500 Index closed at 7,631.53, down 54.61 points (-0.71%) on September 1, 2026. It has a positive technical analysis for the medium term. Current news highlights market volatility and economic impacts.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "S&P 500 Index (SP500) Analysis, News, And Chart Today"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "s-p-500-sp500-technical-analysis-medium-term-us-500-investtech",
+    "type": "news",
+    "title": "S&P 500 (SP500) - Technical Analysis - Medium term - US 500 - Investtech",
+    "slug": "s-p-500-sp500-technical-analysis-medium-term-us-500-investtech",
+    "date": "2026-09-02",
+    "displayDate": "September 2, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The S&P 500 is in a rising trend, with positive technical signals and a recommendation for continued growth over the next six months. The index broke through re",
+    "excerpt": "The S&P 500 is in a rising trend, with positive technical signals and a recommendation for continued growth over the next six months. The index broke through resistance, indicating further potential rise. Current score is 95.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "S&P 500 (SP500) - Technical Analysis - Medium term - US 500 - Investtech"
     },
     "readingTime": 4
   },
@@ -376,6 +712,48 @@
       "alt": "The Best Investment Strategies For The Continuous Market - Investing.com"
     },
     "readingTime": 3
+  },
+  {
+    "id": "the-walt-disney-company-announces-date-for-q1-2026-earnings-call",
+    "type": "news",
+    "title": "The Walt Disney Company Announces Date for Q1 2026 Earnings Call",
+    "slug": "the-walt-disney-company-announces-date-for-q1-2026-earnings-call",
+    "date": "2026-09-02",
+    "displayDate": "September 2, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Walt Disney Company announced the date for its Q1 2026 earnings call as February 2, 2026. The call will be held at 8:30 AM EST. The earnings report will be ",
+    "excerpt": "The Walt Disney Company announced the date for its Q1 2026 earnings call as February 2, 2026. The call will be held at 8:30 AM EST. The earnings report will be available on the company's investor relations website.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "The Walt Disney Company Announces Date for Q1 2026 Earnings Call"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "these-are-the-stocks-reporting-earnings-today-january-27-2026-tipranks-com",
+    "type": "news",
+    "title": "These Are the Stocks Reporting Earnings Today – January 27, 2026 - TipRanks.com",
+    "slug": "these-are-the-stocks-reporting-earnings-today-january-27-2026-tipranks-com",
+    "date": "2026-09-02",
+    "displayDate": "September 2, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Tesla, Microsoft, Meta, and others report earnings on January 28, 2026. TipRanks provides detailed stock research for these companies. Earnings for February 23-",
+    "excerpt": "Tesla, Microsoft, Meta, and others report earnings on January 28, 2026. TipRanks provides detailed stock research for these companies. Earnings for February 23-27, 2026, include Nvidia and Home Depot.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "These Are the Stocks Reporting Earnings Today – January 27, 2026 - TipRanks.com"
+    },
+    "readingTime": 4
   },
   {
     "id": "this-week-s-best-performing-stocks-sectors-industries-rankings-csimarket",
@@ -670,69 +1048,6 @@
       "alt": "Asian Financial Markets"
     },
     "readingTime": 4
-  },
-  {
-    "id": "asian-market-commentary-rttnews",
-    "type": "news",
-    "title": "Asian Market Commentary - RTTNews",
-    "slug": "asian-market-commentary-rttnews",
-    "date": "2026-09-01",
-    "displayDate": "September 1, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Asian markets mostly traded higher, boosted by tech stocks, despite rising oil prices. The Nikkei 225 and Shanghai Composite both saw gains. Inflation concerns ",
-    "excerpt": "Asian markets mostly traded higher, boosted by tech stocks, despite rising oil prices. The Nikkei 225 and Shanghai Composite both saw gains. Inflation concerns persisted due to oil price spikes.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Asian Market Commentary - RTTNews"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "asian-market-headlines-breaking-stock-market-news",
-    "type": "news",
-    "title": "Asian Market Headlines | Breaking Stock Market News",
-    "slug": "asian-market-headlines-breaking-stock-market-news",
-    "date": "2026-09-01",
-    "displayDate": "September 1, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Asian markets mostly declined, with Nikkei, Hang Seng, and S&P BSE SENSEX all trading lower. Shein shares dropped 4% in their first Hong Kong trade. Oil prices ",
-    "excerpt": "Asian markets mostly declined, with Nikkei, Hang Seng, and S&P BSE SENSEX all trading lower. Shein shares dropped 4% in their first Hong Kong trade. Oil prices surged over 4%, impacting market sentiment.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Asian Market Headlines | Breaking Stock Market News"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "asian-stock-market-capital-markets-news-bond-market-news-commodities-news-etfs-n",
-    "type": "news",
-    "title": "Asian Stock Market: Capital Markets News, Bond Market News, Commodities News, ETFs News",
-    "slug": "asian-stock-market-capital-markets-news-bond-market-news-commodities-news-etfs-n",
-    "date": "2026-09-01",
-    "displayDate": "September 1, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Asian stock market includes news on capital markets, bond markets, commodities, and ETFs. Recent highlights include fines on AliExpress and calls for global",
-    "excerpt": "The Asian stock market includes news on capital markets, bond markets, commodities, and ETFs. Recent highlights include fines on AliExpress and calls for global AI regulation by China's Xi. Current indices show minor fluctuations.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Asian Stock Market: Capital Markets News, Bond Market News, Commodities News, ETFs News"
-    },
-    "readingTime": 3
   },
   {
     "id": "bitcoin-price-btc",
@@ -1197,27 +1512,6 @@
     "readingTime": 4
   },
   {
-    "id": "investment-outlook-and-portfolio-strategies-for-2026",
-    "type": "news",
-    "title": "Investment Outlook and Portfolio Strategies for 2026",
-    "slug": "investment-outlook-and-portfolio-strategies-for-2026",
-    "date": "2026-09-01",
-    "displayDate": "September 1, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "For 2026, focus on increasing exposure to small caps and emerging markets, diversify globally, and consider alternative investments for qualified investors. Use",
-    "excerpt": "For 2026, focus on increasing exposure to small caps and emerging markets, diversify globally, and consider alternative investments for qualified investors. Use fixed income for stability and reassess equity allocations for greater diversification.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Investment Outlook and Portfolio Strategies for 2026"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "investment-strategies-for-today-and-long-term-blackrock",
     "type": "news",
     "title": "Investment strategies for today and long-term | BlackRock",
@@ -1256,27 +1550,6 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "Investment strategies for today and long-term"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "investment-strategy-2026-portfolio-moves-for-a-changing-market",
-    "type": "news",
-    "title": "Investment Strategy 2026 Portfolio Moves for a Changing Market",
-    "slug": "investment-strategy-2026-portfolio-moves-for-a-changing-market",
-    "date": "2026-09-01",
-    "displayDate": "September 1, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Increase exposure to small caps, emerging markets, and cash-flow-generative assets; consider high-quality bonds and diversified commodities for resilience.",
-    "excerpt": "Increase exposure to small caps, emerging markets, and cash-flow-generative assets; consider high-quality bonds and diversified commodities for resilience.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Investment Strategy 2026 Portfolio Moves for a Changing Market"
     },
     "readingTime": 3
   },
@@ -1407,27 +1680,6 @@
     "readingTime": 3
   },
   {
-    "id": "s-p-500-analysis-and-opinion-investing-com",
-    "type": "news",
-    "title": "S&P 500 Analysis and Opinion - Investing.com",
-    "slug": "s-p-500-analysis-and-opinion-investing-com",
-    "date": "2026-09-01",
-    "displayDate": "September 1, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The S&P 500 is in a rising trend, showing optimism and potential for further increase. Technical analysis indicates positive signals for the medium and long ter",
-    "excerpt": "The S&P 500 is in a rising trend, showing optimism and potential for further increase. Technical analysis indicates positive signals for the medium and long term. Current technical indicators suggest a continued rise.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "S&P 500 Analysis and Opinion - Investing.com"
-    },
-    "readingTime": 5
-  },
-  {
     "id": "s-p-500-index-sp500-analysis-news-and-chart-today-seeking-alpha",
     "type": "news",
     "title": "S&P 500 Index (SP500) Analysis, News, And Chart Today | Seeking Alpha",
@@ -1449,27 +1701,6 @@
     "readingTime": 3
   },
   {
-    "id": "s-p-500-index-sp500-analysis-news-and-chart-today",
-    "type": "news",
-    "title": "S&P 500 Index (SP500) Analysis, News, And Chart Today",
-    "slug": "s-p-500-index-sp500-analysis-news-and-chart-today",
-    "date": "2026-09-01",
-    "displayDate": "September 1, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The S&P 500 Index closed at 7,686.35, down 0.33% on August 31, 2026. Recent news includes market volatility and sector-specific declines. Key analysis focuses o",
-    "excerpt": "The S&P 500 Index closed at 7,686.35, down 0.33% on August 31, 2026. Recent news includes market volatility and sector-specific declines. Key analysis focuses on stock picking and market predictions.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "S&P 500 Index (SP500) Analysis, News, And Chart Today"
-    },
-    "readingTime": 5
-  },
-  {
     "id": "s-p-500-index-today-inx-live-ticker-markets-insider",
     "type": "news",
     "title": "S&P 500 INDEX TODAY | INX LIVE TICKER - Markets Insider",
@@ -1489,27 +1720,6 @@
       "alt": "S&P 500 INDEX TODAY | INX LIVE TICKER - Markets Insider"
     },
     "readingTime": 3
-  },
-  {
-    "id": "s-p-500-sp500-technical-analysis-medium-term-us-500-investtech",
-    "type": "news",
-    "title": "S&P 500 (SP500) - Technical Analysis - Medium term - US 500 - Investtech",
-    "slug": "s-p-500-sp500-technical-analysis-medium-term-us-500-investtech",
-    "date": "2026-09-01",
-    "displayDate": "September 1, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The S&P 500 is in a rising trend, showing positive signals for the medium term. The index is expected to rise further, with a recommendation score of 95 for the",
-    "excerpt": "The S&P 500 is in a rising trend, showing positive signals for the medium term. The index is expected to rise further, with a recommendation score of 95 for the next one to six months. Current price is 7,674.37.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "S&P 500 (SP500) - Technical Analysis - Medium term - US 500 - Investtech"
-    },
-    "readingTime": 4
   },
   {
     "id": "s-p-500-sp500-technical-analysis-medium-term",
@@ -1783,27 +1993,6 @@
       "alt": "Asian Pacific Stocks - Bloomberg - Bloomberg Markets"
     },
     "readingTime": 3
-  },
-  {
-    "id": "earnings-cnbc",
-    "type": "news",
-    "title": "Earnings - CNBC",
-    "slug": "earnings-cnbc",
-    "date": "2026-08-09",
-    "displayDate": "August 9, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "CNBC reports earnings for major companies, including Lucid, Paramount, SpaceX, and Disney, with significant updates on tech, media, and retail sectors. Recent e",
-    "excerpt": "CNBC reports earnings for major companies, including Lucid, Paramount, SpaceX, and Disney, with significant updates on tech, media, and retail sectors. Recent earnings show mixed results, with some companies surpassing expectations while others face challenges.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Earnings - CNBC"
-    },
-    "readingTime": 4
   },
   {
     "id": "economic-indicators",
@@ -2625,27 +2814,6 @@
     "readingTime": 3
   },
   {
-    "id": "economic-sector-performance-dashboards",
-    "type": "news",
-    "title": "Economic Sector Performance Dashboards",
-    "slug": "economic-sector-performance-dashboards",
-    "date": "2026-08-08",
-    "displayDate": "August 8, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Industrials sector has highest YTD return, while Energy sector has highest day return; Technology sector leads in market weight; Utilities sector has lowest mar",
-    "excerpt": "Industrials sector has highest YTD return, while Energy sector has highest day return; Technology sector leads in market weight; Utilities sector has lowest market weight.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Economic Sector Performance Dashboards"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "fed-meeting-recap-july-2026",
     "type": "news",
     "title": "Fed meeting recap: July 2026",
@@ -3064,27 +3232,6 @@
       "alt": "12-month percentage change, Consumer Price Index, selected ..."
     },
     "readingTime": 5
-  },
-  {
-    "id": "bitcoin-btc-price-usd-today-news-charts-market-cap",
-    "type": "news",
-    "title": "Bitcoin (BTC) Price USD Today, News, Charts, Market Cap",
-    "slug": "bitcoin-btc-price-usd-today-news-charts-market-cap",
-    "date": "2026-08-07",
-    "displayDate": "August 7, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Bitcoin's price today is $64,588.26, with a market cap of $1.297T. It has a circulating supply of 20.07 million BTC. Bitcoin's all-time high was $126,210.50.",
-    "excerpt": "Bitcoin's price today is $64,588.26, with a market cap of $1.297T. It has a circulating supply of 20.07 million BTC. Bitcoin's all-time high was $126,210.50.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Bitcoin (BTC) Price USD Today, News, Charts, Market Cap"
-    },
-    "readingTime": 4
   },
   {
     "id": "bitcoin-usd-price-quote-market-cap-forecast-news-btcusd",
