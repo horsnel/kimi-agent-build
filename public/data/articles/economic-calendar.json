@@ -3,8 +3,8 @@
   "type": "news",
   "title": "Economic Calendar",
   "slug": "economic-calendar",
-  "date": "2026-09-01",
-  "displayDate": "September 1, 2026",
+  "date": "2026-09-03",
+  "displayDate": "September 3, 2026",
   "author": "Sigma Capital",
   "category": "Economic Indicators",
   "tags": [
@@ -12,41 +12,41 @@
     "financial news",
     "market update"
   ],
-  "metaDescription": "The economic calendar lists upcoming and current economic events, including indicators like GDP and inflation, affecting global markets. Key events on September",
-  "excerpt": "The economic calendar lists upcoming and current economic events, including indicators like GDP and inflation, affecting global markets. Key events on September 1, 2026, include South Korea's trade balance and inflation data. Use the calendar to prepare for market impacts.",
+  "metaDescription": "An economic calendar lists significant financial events and data releases that can impact markets, with high-impact events often marked with stars. It includes ",
+  "excerpt": "An economic calendar lists significant financial events and data releases that can impact markets, with high-impact events often marked with stars. It includes indicators like GDP and interest rate decisions. Users can filter by importance to focus on major releases.",
   "content": {
-    "introduction": "The economic calendar lists upcoming and current economic events, including indicators like GDP and inflation, affecting global markets. Key events on September 1, 2026, include South Korea's trade balance and inflation data. Use the calendar to prepare for market impacts.",
+    "introduction": "An economic calendar lists significant financial events and data releases that can impact markets, with high-impact events often marked with stars. It includes indicators like GDP and interest rate decisions. Users can filter by importance to focus on major releases.",
     "body": [
-      "| Time | Cur. | Event | Imp. | Actual | Forecast | Previous |  |\n ---  ---  ---  --- |\n| Tuesday, September 1, 2026 | | | | | | | |\n| KR |  | KR | Imports (YoY) (Aug)  Act: 22.5%  Cons: 24.7%  Prev.: 26.5% |  | 22.5% | 24.7% | 26.5% |  |\n| KR |  | KR | Exports (YoY) (Aug)  Act: 68.7%  Cons: 62.6%  Prev.: 63.0% |  | 68.7% | 62.6% | 63.0% |  |\n| KR |  | KR | Trade Balance  (Aug)  Act: 34.75B  Cons: 30.70B  Prev.: 30.39B |  | 34.75B | 30.70B | 30.39B |  | [...] | Name | Last | Chg. % | Vol. |  |\n ---  --- \n| CRWD | 231.00 | +5.77% | 17.82M |  |\n| TSLA | 367.95 | +5.51% | 61.73M |  |\n| SNDK | 1,566.70 | +5.50% | 23.38M |  |\n| SLB | 60.10 | +4.83% | 35.21M |  |\n| MSTR | 132.94 | +4.42% | 24.23M |  |\n| DE | 654.91 | +3.90% | 1.79M |  |\n| QCOM | 170.48 | +3.83% | 12.74M |  | [...] | Name | Last | Chg. % | Vol. |  |\n ---  --- \n| EIX | 53.98 | -23.07% | 24.76M |  |\n| PCG | 13.27 | -20.06% | 154.04M |  |\n| AON | 321.52 | -9.53% | 2.43M |  |\n| HWM | 244.95 | -7.51% | 9.62M |  |\n| TTWO | 219.70 | -6.67% | 6.85M |  |\n| AXON | 566.56 | -5.69% | 1.10M |  |\n| CLX | 97.68 | -4.73% | 13.46M |  |",
-      "| 01:30 AM | |  |  |  --- | |  | JP | | BoJ Takada Speech |  |  |  |  |  |  |  |\n| 03:35 AM | |  |  |  --- | |  | JP | | BoJ JGB Purchase |  |  |  |  |  |  |  |\n| 06:45 AM | |  |  |  --- | |  | FR | | Budget Balance JUL |  | €-106.8B |  | €-147.0B |  |  |  |\n| 07:00 AM | |  |  |  --- | |  | ES | | Unemployment Change AUG |  | 19.5K | 21.5K | 22.0K |  |  |  |\n| 08:00 AM | |  |  |  --- | |  | BR | | IPC-Fipe Inflation MoM AUG |  | -0.03% |  | -0.4% |  |  |  | [...] | 11:00 PM | |  |  |  --- | |  | KR | | GDP Growth Rate YoY Final Q2 |  | 3.8% |  | 3.7% |  |  |  |\n| 11:01 PM | |  |  |  --- | |  | GB | | BRC Retail Sales Monitor YoY AUG |  | 1% |  |  |  |  |  |\n| 11:30 PM | |  |  |  --- | |  | JP | | Average Cash Earnings YoY JUL |  | 3.4% |  | 3.5% |  |  |  |\n| 11:30 PM | |  |  |  --- | |  | JP | | Overtime Pay YoY JUL |  | 2.8% |  | 3.0% |  |  |  |\n| 11:50 PM | |  |  |  --- | |  | JP | | Current Account JUL |  | -¥923B |  | -¥100.0B |  |  |  | [...] | 09:30 AM | |  |  |  --- | |  | US | | Challenger Job Cuts AUG |  | 33.429K |  | 62.0K |  |  |  |\n| 10:00 AM | |  |  |  --- | |  | DE | | New Car Registrations YoY AUG |  | 1.2% |  | 3.6% |  |  |  |\n| 11:30 AM | |  |  |  --- | |  | TR | | Foreign Exchange Reserves AUG/28 |  | $74.228B |  |  |  |  |  |\n| 12:00 PM | |  |  |  --- | |  | MX | | Consumer Confidence AUG |  | 45 |  | 44.7 |  |  |  |\n| 12:30 PM | |  |  |  --- | |  | CA | | Balance of Trade JUL |  | C$3.86B | C$3.6B | C$3.2B |  |  |  |",
-      "All events are in chronological order and linked with economic indicators like interest rates or GDP. The calendar is customizable: one click will give you a weekly economic calendar, another — narrow it down to US economic calendar only. Plus, you will see short explainers of the events and forecasts from experts. Just set your calendar and prepare for the next trade.\n\nLearn more about the Economic Calendar features in our Help Center.\n\n## Frequently asked questions [...] # Calendar\n\n## How to use Economic Calendar\n\nEconomic Calendar on TradingView shows the latest and upcoming economic events that can affect certain assets, regions, and global markets — for example, stocks, Forex, or bonds."
+      "The Economic Calendar is a real-time, streaming schedule of economic events and data releases that can move financial markets. It tracks indicators such as GDP, inflation, employment figures, interest rate decisions, manufacturing PMI, consumer confidence, and central bank speeches from countries around the world.\n\n### What do the star icons next to each event mean? [...] Get 50% Off\n\nAdvertisement\n\n# Economic Calendar\n\nOur real-time Economic Calendar keeps track of all financial events and economic indicators that drive the markets. The Economic Calendar contains a full descriptions of the events and their relative importance in affecting the market, in addition to previous, forecast and actual figures as they're announced.\n\nReady to Act on Market Events? \n\nCompare Brokers\n\n Economic Calendar\n Holidays\n Earnings\n Dividends\n Splits\n IPO\n Expiration [...] The highest-impact events include central bank interest rate decisions, Non-Farm Payrolls (NFP), GDP releases, the Consumer Price Index (CPI), and unemployment data. These are typically marked with three stars on the calendar because they can cause significant volatility across forex, equities, commodities, and bond markets. Filtering by high importance is a quick way to focus on the releases most likely to move prices.\n\n### How can I filter and customize the Economic Calendar?",
+      "# Calendar\n\n## How to use Economic Calendar\n\nEconomic Calendar on TradingView shows the latest and upcoming economic events that can affect certain assets, regions, and global markets — for example, stocks, Forex, or bonds. [...] All events are in chronological order and linked with economic indicators like interest rates or GDP. The calendar is customizable: one click will give you a weekly economic calendar, another — narrow it down to US economic calendar only. Plus, you will see short explainers of the events and forecasts from experts. Just set your calendar and prepare for the next trade.\n\nLearn more about the Economic Calendar features in our Help Center.\n\n## Frequently asked questions",
+      "## This page displays a table with actual values, consensus figures, forecasts, statistics and historical data charts for - Economic Calendar. This calendar provides events for 196 countries including data releases for 300.000 economic indicators, actual values, consensus figures and proprietary forecasts.\n\nIOs app on Apple\nAndroid app on Google Play [...] +3:30 UTC +4 UTC +4:30 UTC +5 UTC +5:30 UTC +5:45 UTC +6 UTC +7 UTC +8 UTC +9 UTC +9:30 UTC +10 UTC +10:30 UTC +11 UTC +12 UTC +13 UTC +14 |  | [...] | 12:30 PM | |  |  |  --- | |  | US | | Exports JUL |  | $314.7B |  | $308.5B |  |  |  |\n| 12:30 PM | |  |  |  --- | |  | US | | Fed Waller Speech |  |  |  |  |  |  |  |\n| 12:30 PM | |  |  |  --- | |  | US | | Imports JUL |  | $388.0B |  | $399.7B |  |  |  |\n| 12:30 PM | |  |  |  --- | |  | US | | Initial Jobless Claims AUG/29 |  | 203K | 205K | 203.0K |  |  |  |\n| 12:30 PM | |  |  |  --- | |  | US | | Continuing Jobless Claims AUG/22 |  | 1778K |  | 1816.0K |  |  |  |"
     ],
     "keyTakeaways": [
-      "The economic calendar lists upcoming and current economic events, including indicators like GDP and inflation, affecting",
-      "| Time | Cur. | Event | Imp",
-      "| 01:30 AM | |  |  |  --- | |  | JP | | BoJ Takada Speech |  |  |  |  |  |  |  |\n| 03:35 AM | |  |  |  --- | |  | JP | |"
+      "An economic calendar lists significant financial events and data releases that can impact markets, with high-impact even",
+      "The Economic Calendar is a real-time, streaming schedule of economic events and data releases that can move financial ma",
+      "# Calendar\n\n## How to use Economic Calendar\n\nEconomic Calendar on TradingView shows the latest and upcoming economic eve"
     ],
     "source": "tradingeconomics.com",
     "sourceUrl": "https://tradingeconomics.com/calendar"
   },
-  "readingTime": 5,
-  "updatedAt": "2026-09-01T20:42:56.626Z",
+  "readingTime": 3,
+  "updatedAt": "2026-09-03T16:03:18.779Z",
   "images": {
     "thumbnail": {
-      "src": "/images/article_thumb_4.jpg",
+      "src": "/images/article_thumb_6.jpg",
       "alt": "Economic Calendar"
     },
     "hero": {
-      "src": "/images/article_thumb_4.jpg",
+      "src": "/images/article_thumb_5.jpg",
       "alt": "Economic Calendar"
     },
     "mid": {
-      "src": "/images/article_thumb_3.jpg",
+      "src": "/images/article_thumb_2.jpg",
       "alt": "Economic Calendar"
     }
   },
   "image": {
-    "src": "/images/article_thumb_3.jpg",
+    "src": "/images/article_thumb_5.jpg",
     "alt": "Economic Calendar"
   }
 }

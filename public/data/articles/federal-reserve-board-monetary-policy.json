@@ -3,8 +3,8 @@
   "type": "news",
   "title": "Federal Reserve Board - Monetary Policy",
   "slug": "federal-reserve-board-monetary-policy",
-  "date": "2026-09-02",
-  "displayDate": "September 2, 2026",
+  "date": "2026-09-03",
+  "displayDate": "September 3, 2026",
   "author": "Sigma Capital",
   "category": "Fed Policy",
   "tags": [
@@ -30,10 +30,10 @@
     "sourceUrl": "https://www.federalreserve.gov/monetarypolicy.htm"
   },
   "readingTime": 4,
-  "updatedAt": "2026-09-02T16:13:50.595Z",
+  "updatedAt": "2026-09-03T16:03:18.779Z",
   "images": {
     "thumbnail": {
-      "src": "/images/article_thumb_3.jpg",
+      "src": "/images/article_thumb_5.jpg",
       "alt": "Federal Reserve Board - Monetary Policy"
     },
     "hero": {
@@ -41,12 +41,12 @@
       "alt": "Federal Reserve Board - Monetary Policy"
     },
     "mid": {
-      "src": "/images/article_thumb_2.jpg",
+      "src": "/images/article_thumb_1.jpg",
       "alt": "Federal Reserve Board - Monetary Policy"
     }
   },
   "image": {
-    "src": "/images/article_thumb_2.jpg",
+    "src": "/images/article_thumb_6.jpg",
     "alt": "Federal Reserve Board - Monetary Policy"
   }
 }

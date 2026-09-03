@@ -21,6 +21,48 @@
     "readingTime": 4
   },
   {
+    "id": "asian-market-headlines-breaking-stock-market-news-reuters",
+    "type": "news",
+    "title": "Asian Market Headlines | Breaking Stock Market News - Reuters",
+    "slug": "asian-market-headlines-breaking-stock-market-news-reuters",
+    "date": "2026-09-03",
+    "displayDate": "September 3, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "China is easing export controls, allowing refiners to export refined fuel. Asian markets are mixed, with Nikkei 225 and Hang Seng down, while Shanghai SE Compos",
+    "excerpt": "China is easing export controls, allowing refiners to export refined fuel. Asian markets are mixed, with Nikkei 225 and Hang Seng down, while Shanghai SE Composite and S&P ASX All Ord up. Gold prices rose as the U.S. dollar retreated.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Asian Market Headlines | Breaking Stock Market News - Reuters"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "asian-stock-market-capital-markets-news-bond-market-news-commodities-news-etfs-n",
+    "type": "news",
+    "title": "Asian Stock Market: Capital Markets News, Bond Market News, Commodities News, ETFs News",
+    "slug": "asian-stock-market-capital-markets-news-bond-market-news-commodities-news-etfs-n",
+    "date": "2026-09-03",
+    "displayDate": "September 3, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Asian stock markets experienced mixed performance; bond prices slid, and commodities like Brent crude oil and gold fluctuated. China eased export controls, and ",
+    "excerpt": "Asian stock markets experienced mixed performance; bond prices slid, and commodities like Brent crude oil and gold fluctuated. China eased export controls, and Susquehanna expanded in Hong Kong.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Asian Stock Market: Capital Markets News, Bond Market News, Commodities News, ETFs News"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "bitcoin-btc-price-usd-today-news-charts-market-cap",
     "type": "news",
     "title": "Bitcoin (BTC) Price USD Today, News, Charts, Market Cap",
@@ -210,6 +252,48 @@
     "readingTime": 5
   },
   {
+    "id": "earnings-calendar-investing-com",
+    "type": "news",
+    "title": "Earnings Calendar - Investing.com",
+    "slug": "earnings-calendar-investing-com",
+    "date": "2026-09-03",
+    "displayDate": "September 3, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "On September 3, 2026, Ciena Corp and Zscaler are scheduled to report earnings. The earnings calendar also lists upcoming reports from KNOT Offshore Partners LP ",
+    "excerpt": "On September 3, 2026, Ciena Corp and Zscaler are scheduled to report earnings. The earnings calendar also lists upcoming reports from KNOT Offshore Partners LP and Syrah Resources. The data is current as of September 3, 2026.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Earnings Calendar - Investing.com"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "earnings-calendar-marketwatch",
+    "type": "news",
+    "title": "Earnings Calendar - MarketWatch",
+    "slug": "earnings-calendar-marketwatch",
+    "date": "2026-09-03",
+    "displayDate": "September 3, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Publicly traded companies report quarterly financial results; today, Home Depot, Linde PLC, and Qualcomm are scheduled to release earnings. Investors use earnin",
+    "excerpt": "Publicly traded companies report quarterly financial results; today, Home Depot, Linde PLC, and Qualcomm are scheduled to release earnings. Investors use earnings calendars to track these reports.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Earnings Calendar - MarketWatch"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "earnings-calendar-zacks-investment-research",
     "type": "news",
     "title": "Earnings Calendar - Zacks Investment Research",
@@ -229,6 +313,27 @@
       "alt": "Earnings Calendar - Zacks Investment Research"
     },
     "readingTime": 4
+  },
+  {
+    "id": "earnings-calendar",
+    "type": "news",
+    "title": "Earnings Calendar",
+    "slug": "earnings-calendar",
+    "date": "2026-09-03",
+    "displayDate": "September 3, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "An earnings calendar lists when companies report their financial results, helping investors plan trades and monitor market trends. It includes details like repo",
+    "excerpt": "An earnings calendar lists when companies report their financial results, helping investors plan trades and monitor market trends. It includes details like report times and expected earnings per share. Use it to track upcoming reports and prepare for market reactions.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Earnings Calendar"
+    },
+    "readingTime": 3
   },
   {
     "id": "earnings-whispers",
@@ -273,6 +378,48 @@
     "readingTime": 3
   },
   {
+    "id": "economic-calendar",
+    "type": "news",
+    "title": "Economic Calendar",
+    "slug": "economic-calendar",
+    "date": "2026-09-03",
+    "displayDate": "September 3, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "An economic calendar lists significant financial events and data releases that can impact markets, with high-impact events often marked with stars. It includes ",
+    "excerpt": "An economic calendar lists significant financial events and data releases that can impact markets, with high-impact events often marked with stars. It includes indicators like GDP and interest rate decisions. Users can filter by importance to focus on major releases.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Economic Calendar"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "economic-news-releases-u-s-bureau-of-labor-statistics",
+    "type": "news",
+    "title": "Economic News Releases - U.S. Bureau of Labor Statistics",
+    "slug": "economic-news-releases-u-s-bureau-of-labor-statistics",
+    "date": "2026-09-03",
+    "displayDate": "September 3, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The U.S. Bureau of Labor Statistics releases economic news on major indicators like employment, inflation, and productivity. The latest updates include monthly ",
+    "excerpt": "The U.S. Bureau of Labor Statistics releases economic news on major indicators like employment, inflation, and productivity. The latest updates include monthly employment data and inflation trends. For archived releases, visit their official website.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Economic News Releases - U.S. Bureau of Labor Statistics"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "economic-sector-performance-dashboards-yahoo-finance",
     "type": "news",
     "title": "Economic Sector Performance Dashboards - Yahoo Finance",
@@ -313,6 +460,27 @@
       "alt": "Ethereum (ETH) Price USD Today, News, Charts, Market Cap"
     },
     "readingTime": 3
+  },
+  {
+    "id": "federal-reserve-board-monetary-policy",
+    "type": "news",
+    "title": "Federal Reserve Board - Monetary Policy",
+    "slug": "federal-reserve-board-monetary-policy",
+    "date": "2026-09-03",
+    "displayDate": "September 3, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Reserve's monetary policy aims for maximum employment and stable prices. It's conducted by the Federal Open Market Committee and involves setting th",
+    "excerpt": "The Federal Reserve's monetary policy aims for maximum employment and stable prices. It's conducted by the Federal Open Market Committee and involves setting the federal funds rate. The Fed uses tools like interest on reserve balances to implement policy.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Federal Reserve Board - Monetary Policy"
+    },
+    "readingTime": 4
   },
   {
     "id": "federal-reserve-holds-rates-at-3-50-3-75-in-july-2026",
@@ -441,6 +609,48 @@
     "readingTime": 4
   },
   {
+    "id": "how-the-fomc-conducts-monetary-policy-st-louis-fed",
+    "type": "news",
+    "title": "How the FOMC Conducts Monetary Policy | St. Louis Fed",
+    "slug": "how-the-fomc-conducts-monetary-policy-st-louis-fed",
+    "date": "2026-09-03",
+    "displayDate": "September 3, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Open Market Committee (FOMC) conducts monetary policy by setting the target range for the federal funds rate and using tools to keep it within that ",
+    "excerpt": "The Federal Open Market Committee (FOMC) conducts monetary policy by setting the target range for the federal funds rate and using tools to keep it within that range. The FOMC decides whether to adjust the target range at regular meetings. The FOMC's decisions influence interest rates and economic a",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "How the FOMC Conducts Monetary Policy | St. Louis Fed"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "how-to-invest-in-today-s-market-u-s-bank",
+    "type": "news",
+    "title": "How to Invest in Today’s Market | U.S. Bank",
+    "slug": "how-to-invest-in-today-s-market-u-s-bank",
+    "date": "2026-09-03",
+    "displayDate": "September 3, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "To invest in today's market, consider starting with a self-directed account with no minimum balance. Collaborate with an advisor for personalized guidance if ne",
+    "excerpt": "To invest in today's market, consider starting with a self-directed account with no minimum balance. Collaborate with an advisor for personalized guidance if needed. Act now to capitalize on market opportunities.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "How to Invest in Today’s Market | U.S. Bank"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "investment-outlook-and-portfolio-strategies-for-2026",
     "type": "news",
     "title": "Investment Outlook and Portfolio Strategies for 2026",
@@ -458,6 +668,27 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "Investment Outlook and Portfolio Strategies for 2026"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "investment-strategies-for-today-and-long-term-blackrock",
+    "type": "news",
+    "title": "Investment strategies for today and long-term | BlackRock",
+    "slug": "investment-strategies-for-today-and-long-term-blackrock",
+    "date": "2026-09-03",
+    "displayDate": "September 3, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "BlackRock offers income-focused portfolios and multi-asset strategies for both short-term and long-term investment goals. They emphasize sustainable retirement ",
+    "excerpt": "BlackRock offers income-focused portfolios and multi-asset strategies for both short-term and long-term investment goals. They emphasize sustainable retirement income and systematic investing. Current market commentary suggests tactical underweight for long-term bonds.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Investment strategies for today and long-term | BlackRock"
     },
     "readingTime": 3
   },
@@ -504,6 +735,90 @@
     "readingTime": 4
   },
   {
+    "id": "meta-title-sectors",
+    "type": "news",
+    "title": "META_TITLE_SECTORS",
+    "slug": "meta-title-sectors",
+    "date": "2026-09-03",
+    "displayDate": "September 3, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "A meta title is an HTML element defining a webpage's title, crucial for SEO and displayed in search results. It impacts search rankings and click-through rates.",
+    "excerpt": "A meta title is an HTML element defining a webpage's title, crucial for SEO and displayed in search results. It impacts search rankings and click-through rates. Optimizing meta titles is vital for effective SEO.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "META_TITLE_SECTORS"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "s-p-500-index-sp500-analysis-news-and-chart-today",
+    "type": "news",
+    "title": "S&P 500 Index (SP500) Analysis, News, And Chart Today",
+    "slug": "s-p-500-index-sp500-analysis-news-and-chart-today",
+    "date": "2026-09-03",
+    "displayDate": "September 3, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The S&P 500 index closed at 7,666.67 (+0.46%) on September 2, 2026. Technical analysis suggests a weak positive trend. Current market data is available on Yahoo",
+    "excerpt": "The S&P 500 index closed at 7,666.67 (+0.46%) on September 2, 2026. Technical analysis suggests a weak positive trend. Current market data is available on Yahoo Finance.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "S&P 500 Index (SP500) Analysis, News, And Chart Today"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "s-p-500-index-technical-analysis",
+    "type": "news",
+    "title": "S&P 500 Index Technical Analysis",
+    "slug": "s-p-500-index-technical-analysis",
+    "date": "2026-09-03",
+    "displayDate": "September 3, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The S&P 500 Index shows weak positive medium-term technical analysis with a close of 7,631.47 on September 1, 2026. Key indicators include moving averages and R",
+    "excerpt": "The S&P 500 Index shows weak positive medium-term technical analysis with a close of 7,631.47 on September 1, 2026. Key indicators include moving averages and RSI. The trend is positive in the short and long terms.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "S&P 500 Index Technical Analysis"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "s-p-500-sp500-technical-analysis-medium-term",
+    "type": "news",
+    "title": "S&P 500 (SP500) - Technical Analysis - Medium term",
+    "slug": "s-p-500-sp500-technical-analysis-medium-term",
+    "date": "2026-09-03",
+    "displayDate": "September 3, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The S&P 500 shows a weak positive trend in the medium term, with low risk and a bullish outlook in the long term. The index is currently stabilizing below 6166.",
+    "excerpt": "The S&P 500 shows a weak positive trend in the medium term, with low risk and a bullish outlook in the long term. The index is currently stabilizing below 6166.50.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "S&P 500 (SP500) - Technical Analysis - Medium term"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "sector-views-monthly-stock-sector-outlook",
     "type": "news",
     "title": "Sector Views: Monthly Stock Sector Outlook",
@@ -523,6 +838,27 @@
       "alt": "Sector Views: Monthly Stock Sector Outlook"
     },
     "readingTime": 3
+  },
+  {
+    "id": "stock-market-news-bond-market-currencies-markets-marketwatch",
+    "type": "news",
+    "title": "Stock Market News - Bond Market - Currencies Markets - MarketWatch",
+    "slug": "stock-market-news-bond-market-currencies-markets-marketwatch",
+    "date": "2026-09-03",
+    "displayDate": "September 3, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Dow Jones Industrial Average rose 0.56%, U.S. Treasury yields fell slightly, and bond market signals differ from stock market optimism.",
+    "excerpt": "The Dow Jones Industrial Average rose 0.56%, U.S. Treasury yields fell slightly, and bond market signals differ from stock market optimism.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Stock Market News - Bond Market - Currencies Markets - MarketWatch"
+    },
+    "readingTime": 4
   },
   {
     "id": "stock-market-outlook-midyear-2026",
@@ -588,6 +924,69 @@
     "readingTime": 4
   },
   {
+    "id": "the-fed-federal-open-market-committee",
+    "type": "news",
+    "title": "The Fed - Federal Open Market Committee",
+    "slug": "the-fed-federal-open-market-committee",
+    "date": "2026-09-03",
+    "displayDate": "September 3, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Open Market Committee (FOMC) is the Federal Reserve's main body for setting monetary policy. It consists of twelve members and meets eight times a y",
+    "excerpt": "The Federal Open Market Committee (FOMC) is the Federal Reserve's main body for setting monetary policy. It consists of twelve members and meets eight times a year to decide on interest rates and money supply. The FOMC oversees open market operations.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "The Fed - Federal Open Market Committee"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "this-week-s-best-performing-stocks-sectors-industries-rankings-csimarket",
+    "type": "news",
+    "title": "This Week's Best Performing Stocks, Sectors, Industries Rankings - CSIMarket",
+    "slug": "this-week-s-best-performing-stocks-sectors-industries-rankings-csimarket",
+    "date": "2026-09-03",
+    "displayDate": "September 3, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "This week's best performing sector is Conglomerates, up 12.92%. The worst performing sector is Capital Goods, down 6.52%. The top-performing stock is not specif",
+    "excerpt": "This week's best performing sector is Conglomerates, up 12.92%. The worst performing sector is Capital Goods, down 6.52%. The top-performing stock is not specified.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "This Week's Best Performing Stocks, Sectors, Industries Rankings - CSIMarket"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "top-investment-strategies-key-approaches-to-maximize-returns",
+    "type": "news",
+    "title": "Top Investment Strategies: Key Approaches to Maximize Returns",
+    "slug": "top-investment-strategies-key-approaches-to-maximize-returns",
+    "date": "2026-09-03",
+    "displayDate": "September 3, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Top investment strategies include diversification, value investing, and dollar-cost averaging. These aim to maximize returns while managing risk. Active vs. pas",
+    "excerpt": "Top investment strategies include diversification, value investing, and dollar-cost averaging. These aim to maximize returns while managing risk. Active vs. passive investing also plays a key role.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Top Investment Strategies: Key Approaches to Maximize Returns"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "u-s-bureau-of-economic-analysis-bea",
     "type": "news",
     "title": "U.S. Bureau of Economic Analysis (BEA)",
@@ -607,6 +1006,27 @@
       "alt": "U.S. Bureau of Economic Analysis (BEA)"
     },
     "readingTime": 3
+  },
+  {
+    "id": "u-s-economic-calendar",
+    "type": "news",
+    "title": "U.S. Economic Calendar",
+    "slug": "u-s-economic-calendar",
+    "date": "2026-09-03",
+    "displayDate": "September 3, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The U.S. economic calendar for September 3, 2026, includes the release of the Fed Beige Book and balance of trade data for July. The Fed Waller speech and Chall",
+    "excerpt": "The U.S. economic calendar for September 3, 2026, includes the release of the Fed Beige Book and balance of trade data for July. The Fed Waller speech and Challenger job cuts for August are also scheduled. Key economic indicators like jobless claims and trade balance are due.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "U.S. Economic Calendar"
+    },
+    "readingTime": 5
   },
   {
     "id": "united-states-economic-indicators-moody-s-analytics",
@@ -840,27 +1260,6 @@
     "readingTime": 4
   },
   {
-    "id": "asian-stock-market-capital-markets-news-bond-market-news-commodities-news-etfs-n",
-    "type": "news",
-    "title": "Asian Stock Market: Capital Markets News, Bond Market News, Commodities News, ETFs News",
-    "slug": "asian-stock-market-capital-markets-news-bond-market-news-commodities-news-etfs-n",
-    "date": "2026-09-02",
-    "displayDate": "September 2, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Oil prices rose, Asian stock markets fell, and bond yields increased in recent news. SK Hynix's IPO boosted Asian stocks. China's manufacturing sector expanded ",
-    "excerpt": "Oil prices rose, Asian stock markets fell, and bond yields increased in recent news. SK Hynix's IPO boosted Asian stocks. China's manufacturing sector expanded in August.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Asian Stock Market: Capital Markets News, Bond Market News, Commodities News, ETFs News"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "bitcoin-btc-price-usd-today-news-charts-market-cap-coinbase",
     "type": "news",
     "title": "Bitcoin (BTC) Price USD Today, News, Charts, Market Cap | Coinbase",
@@ -924,48 +1323,6 @@
     "readingTime": 3
   },
   {
-    "id": "earnings-calendar-investing-com",
-    "type": "news",
-    "title": "Earnings Calendar - Investing.com",
-    "slug": "earnings-calendar-investing-com",
-    "date": "2026-09-02",
-    "displayDate": "September 2, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Investing.com Earnings Calendar lists upcoming earnings reports, including EPS forecasts and revenue expectations, for companies worldwide. Today, September",
-    "excerpt": "The Investing.com Earnings Calendar lists upcoming earnings reports, including EPS forecasts and revenue expectations, for companies worldwide. Today, September 2, 2026, no earnings are scheduled. Tomorrow, September 3, 2026, Broadcom is set to report.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Earnings Calendar - Investing.com"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "earnings-calendar",
-    "type": "news",
-    "title": "Earnings Calendar",
-    "slug": "earnings-calendar",
-    "date": "2026-09-02",
-    "displayDate": "September 2, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Today, September 2, 2026, Broadcom is scheduled to report earnings. The earnings call is expected to occur. Earnings reports are crucial for investors.",
-    "excerpt": "Today, September 2, 2026, Broadcom is scheduled to report earnings. The earnings call is expected to occur. Earnings reports are crucial for investors.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Earnings Calendar"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "earnings-cnbc",
     "type": "news",
     "title": "Earnings - CNBC",
@@ -1004,27 +1361,6 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "Economic Sector Performance Dashboards"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "federal-reserve-board-monetary-policy",
-    "type": "news",
-    "title": "Federal Reserve Board - Monetary Policy",
-    "slug": "federal-reserve-board-monetary-policy",
-    "date": "2026-09-02",
-    "displayDate": "September 2, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Reserve's monetary policy aims for maximum employment and stable prices. It's conducted by the Federal Open Market Committee and involves setting th",
-    "excerpt": "The Federal Reserve's monetary policy aims for maximum employment and stable prices. It's conducted by the Federal Open Market Committee and involves setting the federal funds rate. The Fed uses tools like interest on reserve balances to implement policy.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Federal Reserve Board - Monetary Policy"
     },
     "readingTime": 4
   },
@@ -1090,27 +1426,6 @@
       "alt": "Healthcare Stock Performance"
     },
     "readingTime": 5
-  },
-  {
-    "id": "how-the-fomc-conducts-monetary-policy-st-louis-fed",
-    "type": "news",
-    "title": "How the FOMC Conducts Monetary Policy | St. Louis Fed",
-    "slug": "how-the-fomc-conducts-monetary-policy-st-louis-fed",
-    "date": "2026-09-02",
-    "displayDate": "September 2, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Open Market Committee (FOMC) conducts monetary policy by adjusting the federal funds rate and uses tools like interest rate changes and asset purcha",
-    "excerpt": "The Federal Open Market Committee (FOMC) conducts monetary policy by adjusting the federal funds rate and uses tools like interest rate changes and asset purchases. It aims for 2% inflation and maximum employment. The FOMC employs a flexible average inflation targeting strategy.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "How the FOMC Conducts Monetary Policy | St. Louis Fed"
-    },
-    "readingTime": 4
   },
   {
     "id": "interactive-world-macromap-ft-com-markets-data",
@@ -1239,27 +1554,6 @@
     "readingTime": 4
   },
   {
-    "id": "s-p-500-index-sp500-analysis-news-and-chart-today",
-    "type": "news",
-    "title": "S&P 500 Index (SP500) Analysis, News, And Chart Today",
-    "slug": "s-p-500-index-sp500-analysis-news-and-chart-today",
-    "date": "2026-09-02",
-    "displayDate": "September 2, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The S&P 500 Index closed at 7,631.53, down 54.61 points (-0.71%) on September 1, 2026. It has a positive technical analysis for the medium term. Current news hi",
-    "excerpt": "The S&P 500 Index closed at 7,631.53, down 54.61 points (-0.71%) on September 1, 2026. It has a positive technical analysis for the medium term. Current news highlights market volatility and economic impacts.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "S&P 500 Index (SP500) Analysis, News, And Chart Today"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "s-p-500-sp500-technical-analysis-medium-term-us-500-investtech",
     "type": "news",
     "title": "S&P 500 (SP500) - Technical Analysis - Medium term - US 500 - Investtech",
@@ -1277,27 +1571,6 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "S&P 500 (SP500) - Technical Analysis - Medium term - US 500 - Investtech"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "s-p-500-sp500-technical-analysis-medium-term",
-    "type": "news",
-    "title": "S&P 500 (SP500) - Technical Analysis - Medium term",
-    "slug": "s-p-500-sp500-technical-analysis-medium-term",
-    "date": "2026-09-02",
-    "displayDate": "September 2, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The S&P 500 is in a bullish trend in the medium term, with positive signals and potential for further rise. The index is assessed as technically positive for th",
-    "excerpt": "The S&P 500 is in a bullish trend in the medium term, with positive signals and potential for further rise. The index is assessed as technically positive for the medium long term. The current recommendation is positive for the next six months.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "S&P 500 (SP500) - Technical Analysis - Medium term"
     },
     "readingTime": 4
   },
@@ -1428,27 +1701,6 @@
     "readingTime": 3
   },
   {
-    "id": "the-fed-federal-open-market-committee",
-    "type": "news",
-    "title": "The Fed - Federal Open Market Committee",
-    "slug": "the-fed-federal-open-market-committee",
-    "date": "2026-09-02",
-    "displayDate": "September 2, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Open Market Committee (FOMC) is the Federal Reserve's main body for monetary policy, consisting of twelve members who set interest rates and manage ",
-    "excerpt": "The Federal Open Market Committee (FOMC) is the Federal Reserve's main body for monetary policy, consisting of twelve members who set interest rates and manage the money supply. It holds eight meetings annually to review economic conditions and decide on monetary policy. The FOMC controls open marke",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "The Fed - Federal Open Market Committee"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "the-walt-disney-company-announces-date-for-q1-2026-earnings-call",
     "type": "news",
     "title": "The Walt Disney Company Announces Date for Q1 2026 Earnings Call",
@@ -1489,48 +1741,6 @@
       "alt": "These Are the Stocks Reporting Earnings Today – January 27, 2026 - TipRanks.com"
     },
     "readingTime": 4
-  },
-  {
-    "id": "this-week-s-best-performing-stocks-sectors-industries-rankings-csimarket",
-    "type": "news",
-    "title": "This Week's Best Performing Stocks, Sectors, Industries Rankings - CSIMarket",
-    "slug": "this-week-s-best-performing-stocks-sectors-industries-rankings-csimarket",
-    "date": "2026-09-02",
-    "displayDate": "September 2, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "This week's best performing sector is Internet, E-commerce, Online Shops with a +3.85% gain. The worst performing sector is Department & Discount Retail with a ",
-    "excerpt": "This week's best performing sector is Internet, E-commerce, Online Shops with a +3.85% gain. The worst performing sector is Department & Discount Retail with a -3.96% loss. The top-ranked industry is Retail.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "This Week's Best Performing Stocks, Sectors, Industries Rankings - CSIMarket"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "top-investment-strategies-key-approaches-to-maximize-returns",
-    "type": "news",
-    "title": "Top Investment Strategies: Key Approaches to Maximize Returns",
-    "slug": "top-investment-strategies-key-approaches-to-maximize-returns",
-    "date": "2026-09-02",
-    "displayDate": "September 2, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Top investment strategies include diversification, rebalancing, and factor-based investing to maximize returns. Conservative plans focus on low-risk investments",
-    "excerpt": "Top investment strategies include diversification, rebalancing, and factor-based investing to maximize returns. Conservative plans focus on low-risk investments, while aggressive strategies involve high-risk assets for higher returns. Dollar-cost averaging and growth investing also enhance returns.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Top Investment Strategies: Key Approaches to Maximize Returns"
-    },
-    "readingTime": 3
   },
   {
     "id": "u-s-bureau-of-labor-statistics",
@@ -1743,27 +1953,6 @@
     "readingTime": 3
   },
   {
-    "id": "economic-calendar",
-    "type": "news",
-    "title": "Economic Calendar",
-    "slug": "economic-calendar",
-    "date": "2026-09-01",
-    "displayDate": "September 1, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The economic calendar lists upcoming and current economic events, including indicators like GDP and inflation, affecting global markets. Key events on September",
-    "excerpt": "The economic calendar lists upcoming and current economic events, including indicators like GDP and inflation, affecting global markets. Key events on September 1, 2026, include South Korea's trade balance and inflation data. Use the calendar to prepare for market impacts.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Economic Calendar"
-    },
-    "readingTime": 5
-  },
-  {
     "id": "economic-indicators-calendar-new-york-fed",
     "type": "news",
     "title": "Economic Indicators Calendar | New York Fed",
@@ -1848,27 +2037,6 @@
     "readingTime": 4
   },
   {
-    "id": "how-to-invest-in-today-s-market-u-s-bank",
-    "type": "news",
-    "title": "How to Invest in Today’s Market | U.S. Bank",
-    "slug": "how-to-invest-in-today-s-market-u-s-bank",
-    "date": "2026-09-01",
-    "displayDate": "September 1, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "To invest in today's market, focus on your long-term goals, diversify your portfolio, and consider consulting a financial advisor for tailored advice. Online in",
-    "excerpt": "To invest in today's market, focus on your long-term goals, diversify your portfolio, and consider consulting a financial advisor for tailored advice. Online investing options are available with no minimum starting balance.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "How to Invest in Today’s Market | U.S. Bank"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "how-to-start-investing-a-beginner-s-guide",
     "type": "news",
     "title": "How to Start Investing: A Beginner's Guide",
@@ -1909,27 +2077,6 @@
       "alt": "Inflation - Economic Data Series | FRED | St. Louis Fed"
     },
     "readingTime": 4
-  },
-  {
-    "id": "investment-strategies-for-today-and-long-term-blackrock",
-    "type": "news",
-    "title": "Investment strategies for today and long-term | BlackRock",
-    "slug": "investment-strategies-for-today-and-long-term-blackrock",
-    "date": "2026-09-01",
-    "displayDate": "September 1, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "BlackRock recommends diversifying with alternatives and focusing on sustainable investments for long-term growth. Immediate strategies include income-focused po",
-    "excerpt": "BlackRock recommends diversifying with alternatives and focusing on sustainable investments for long-term growth. Immediate strategies include income-focused portfolios, while long-term trends emphasize low-carbon transitions and ESG opportunities.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Investment strategies for today and long-term | BlackRock"
-    },
-    "readingTime": 3
   },
   {
     "id": "investment-strategies-for-today-and-long-term",
@@ -2161,27 +2308,6 @@
       "alt": "Stock market sectors of USA"
     },
     "readingTime": 5
-  },
-  {
-    "id": "u-s-economic-calendar",
-    "type": "news",
-    "title": "U.S. Economic Calendar",
-    "slug": "u-s-economic-calendar",
-    "date": "2026-09-01",
-    "displayDate": "September 1, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "On September 1, 2026, key U.S. economic reports include ISM Manufacturing PMI and Construction Spending. The U.S. Trade Balance and Weekly Jobless Claims are al",
-    "excerpt": "On September 1, 2026, key U.S. economic reports include ISM Manufacturing PMI and Construction Spending. The U.S. Trade Balance and Weekly Jobless Claims are also scheduled for release. The Fed Interest Rate Decision is expected at 6:00 PM ET.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "U.S. Economic Calendar"
-    },
-    "readingTime": 6
   },
   {
     "id": "united-states-imf-datamapper",
@@ -4431,27 +4557,6 @@
     "readingTime": 3
   },
   {
-    "id": "s-p-500-index-technical-analysis",
-    "type": "news",
-    "title": "S&P 500 Index Technical Analysis",
-    "slug": "s-p-500-index-technical-analysis",
-    "date": "2026-08-05",
-    "displayDate": "August 5, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The S&P 500 Index technical analysis uses moving averages, RSI, and other indicators to identify trends and signals. Key support and resistance levels are ident",
-    "excerpt": "The S&P 500 Index technical analysis uses moving averages, RSI, and other indicators to identify trends and signals. Key support and resistance levels are identified. Simple and exponential moving averages are commonly used.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "S&P 500 Index Technical Analysis"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "s-p-500-rally-faces-earnings-test-open-interest-8-4-2026",
     "type": "news",
     "title": "S&P 500 Rally Faces Earnings Test | Open Interest 8/4/2026",
@@ -5143,27 +5248,6 @@
       "alt": "Finance and Markets - WSJ.com"
     },
     "readingTime": 4
-  },
-  {
-    "id": "meta-title-sectors",
-    "type": "news",
-    "title": "META_TITLE_SECTORS",
-    "slug": "meta-title-sectors",
-    "date": "2026-08-03",
-    "displayDate": "August 3, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The technology sector has the highest YTD return of 17.44%, while energy leads with a 30.82% YTD return. The real estate sector has a YTD return of 12.54%.",
-    "excerpt": "The technology sector has the highest YTD return of 17.44%, while energy leads with a 30.82% YTD return. The real estate sector has a YTD return of 12.54%.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "META_TITLE_SECTORS"
-    },
-    "readingTime": 3
   },
   {
     "id": "q2-earnings-season-2026-what-traders-need-to-know",
@@ -6426,27 +6510,6 @@
     "readingTime": 3
   },
   {
-    "id": "economic-news-releases-u-s-bureau-of-labor-statistics",
-    "type": "news",
-    "title": "Economic News Releases - U.S. Bureau of Labor Statistics",
-    "slug": "economic-news-releases-u-s-bureau-of-labor-statistics",
-    "date": "2026-07-07",
-    "displayDate": "July 7, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The U.S. Bureau of Labor Statistics releases economic news, including inflation, unemployment, and productivity data. The latest Consumer Price Index rose 4.2% ",
-    "excerpt": "The U.S. Bureau of Labor Statistics releases economic news, including inflation, unemployment, and productivity data. The latest Consumer Price Index rose 4.2% over the past year. Productivity increased 0.3% in the first quarter of 2026.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Economic News Releases - U.S. Bureau of Labor Statistics"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "fed-holds-rates-steady-as-new-chair-kevin-warsh-commits-to-price",
     "type": "news",
     "title": "Fed holds rates steady as new Chair Kevin Warsh commits to price ...",
@@ -7052,27 +7115,6 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "5 investment strategies in 2026: Types and how to choose"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "asian-market-headlines-breaking-stock-market-news-reuters",
-    "type": "news",
-    "title": "Asian Market Headlines | Breaking Stock Market News - Reuters",
-    "slug": "asian-market-headlines-breaking-stock-market-news-reuters",
-    "date": "2026-07-06",
-    "displayDate": "July 6, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Asian markets mostly rose on Monday, with Wall Street futures gaining on positive earnings expectations. Reuters reports latest international market news. Curre",
-    "excerpt": "Asian markets mostly rose on Monday, with Wall Street futures gaining on positive earnings expectations. Reuters reports latest international market news. Current date is July 6, 2026.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Asian Market Headlines | Breaking Stock Market News - Reuters"
     },
     "readingTime": 3
   },
@@ -10307,27 +10349,6 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "Cross-border payments firm dLocal lines up Q2 2026 earnings date"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "earnings-calendar-marketwatch",
-    "type": "news",
-    "title": "Earnings Calendar - MarketWatch",
-    "slug": "earnings-calendar-marketwatch",
-    "date": "2026-06-06",
-    "displayDate": "June 6, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Meituan and Mesoblast are scheduled to report earnings on March 31, 2026. GitLab Inc. is set to report earnings on April 30, 2026. Earnings calendar data is cur",
-    "excerpt": "Meituan and Mesoblast are scheduled to report earnings on March 31, 2026. GitLab Inc. is set to report earnings on April 30, 2026. Earnings calendar data is current as of June 6, 2026.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Earnings Calendar - MarketWatch"
     },
     "readingTime": 3
   },
