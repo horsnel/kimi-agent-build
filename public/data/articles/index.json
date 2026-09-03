@@ -105,6 +105,27 @@
     "readingTime": 3
   },
   {
+    "id": "bitcoin-price-today-btc-to-usd-live-price-marketcap",
+    "type": "news",
+    "title": "Bitcoin price today, BTC to USD live price, marketcap ...",
+    "slug": "bitcoin-price-today-btc-to-usd-live-price-marketcap",
+    "date": "2026-09-03",
+    "displayDate": "September 3, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin's price today is $78,065.09 USD. It has a market cap of $1.636 trillion. Bitcoin's circulating supply is 20,079,115 coins.",
+    "excerpt": "Bitcoin's price today is $78,065.09 USD. It has a market cap of $1.636 trillion. Bitcoin's circulating supply is 20,079,115 coins.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Bitcoin price today, BTC to USD live price, marketcap ..."
+    },
+    "readingTime": 3
+  },
+  {
     "id": "bitcoin-price-today-live-btc-price-chart-market-data",
     "type": "news",
     "title": "Bitcoin Price Today | Live BTC Price, Chart & Market Data",
@@ -229,6 +250,27 @@
       "alt": "Crypto News: Bitcoin, Ethereum & XRP News | crypto.news"
     },
     "readingTime": 3
+  },
+  {
+    "id": "earnings-breaking-news-and-press-releases",
+    "type": "news",
+    "title": "Earnings Breaking News and Press Releases",
+    "slug": "earnings-breaking-news-and-press-releases",
+    "date": "2026-09-03",
+    "displayDate": "September 3, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Ermenegildo Zegna Group reported €987 million in first half 2026 revenues. Hydreight reported record Q2 2026 revenue of $28 million. Brady beat top-line and bot",
+    "excerpt": "Ermenegildo Zegna Group reported €987 million in first half 2026 revenues. Hydreight reported record Q2 2026 revenue of $28 million. Brady beat top-line and bottom-line estimates for FY27.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Earnings Breaking News and Press Releases"
+    },
+    "readingTime": 4
   },
   {
     "id": "earnings-calendar-and-analysis-for-this-week-aug-31-sept-4",
@@ -588,6 +630,27 @@
     "readingTime": 4
   },
   {
+    "id": "healthcare-stocks-in-2026",
+    "type": "news",
+    "title": "Healthcare Stocks in 2026",
+    "slug": "healthcare-stocks-in-2026",
+    "date": "2026-09-03",
+    "displayDate": "September 3, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "In 2026, Moderna Inc (MRNA) leads healthcare stocks with a 453.51% performance. GLP-1 receptor agonists dominate the market, driven by weight loss drugs. United",
+    "excerpt": "In 2026, Moderna Inc (MRNA) leads healthcare stocks with a 453.51% performance. GLP-1 receptor agonists dominate the market, driven by weight loss drugs. UnitedHealth Group Inc (UNH) remains a significant player in healthcare plans.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Healthcare Stocks in 2026"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "how-should-i-allocate-my-portfolio-in-2026",
     "type": "news",
     "title": "How Should I Allocate My Portfolio in 2026?",
@@ -924,6 +987,27 @@
     "readingTime": 4
   },
   {
+    "id": "the-best-investment-strategies-for-the-continuous-market-investing-com",
+    "type": "news",
+    "title": "The Best Investment Strategies For The Continuous Market - Investing.com",
+    "slug": "the-best-investment-strategies-for-the-continuous-market-investing-com",
+    "date": "2026-09-03",
+    "displayDate": "September 3, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Value investing, growth investing, and momentum investing are key strategies; value focuses on undervalued stocks, growth targets expanding companies, and momen",
+    "excerpt": "Value investing, growth investing, and momentum investing are key strategies; value focuses on undervalued stocks, growth targets expanding companies, and momentum follows rising trends.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "The Best Investment Strategies For The Continuous Market - Investing.com"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "the-fed-federal-open-market-committee",
     "type": "news",
     "title": "The Fed - Federal Open Market Committee",
@@ -1048,6 +1132,27 @@
       "alt": "United States | Economic Indicators | Moody's Analytics"
     },
     "readingTime": 4
+  },
+  {
+    "id": "united-states-fed-funds-interest-rate-trading-economics",
+    "type": "news",
+    "title": "United States Fed Funds Interest Rate - Trading Economics",
+    "slug": "united-states-fed-funds-interest-rate-trading-economics",
+    "date": "2026-09-03",
+    "displayDate": "September 3, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The United States Fed Funds Interest Rate was 3.63% in August 2026. It has historically ranged from 0.04% to 22.36%. The rate is set by the Federal Reserve.",
+    "excerpt": "The United States Fed Funds Interest Rate was 3.63% in August 2026. It has historically ranged from 0.04% to 22.36%. The rate is set by the Federal Reserve.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "United States Fed Funds Interest Rate - Trading Economics"
+    },
+    "readingTime": 3
   },
   {
     "id": "united-states-federal-reserve-interest-rate-decision",
@@ -1676,27 +1781,6 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "The allocator’s checklist for 2026 and beyond | Wellington Management"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "the-best-investment-strategies-for-the-continuous-market-investing-com",
-    "type": "news",
-    "title": "The Best Investment Strategies For The Continuous Market - Investing.com",
-    "slug": "the-best-investment-strategies-for-the-continuous-market-investing-com",
-    "date": "2026-09-02",
-    "displayDate": "September 2, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Long-term growth investing focuses on companies with strong growth potential. Index fund investing offers low-cost, diversified exposure. Dollar-cost averaging ",
-    "excerpt": "Long-term growth investing focuses on companies with strong growth potential. Index fund investing offers low-cost, diversified exposure. Dollar-cost averaging spreads investment over time to manage risk.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "The Best Investment Strategies For The Continuous Market - Investing.com"
     },
     "readingTime": 3
   },
@@ -5124,27 +5208,6 @@
     "readingTime": 3
   },
   {
-    "id": "bitcoin-price-today-btc-to-usd-live-price-marketcap",
-    "type": "news",
-    "title": "Bitcoin price today, BTC to USD live price, marketcap ...",
-    "slug": "bitcoin-price-today-btc-to-usd-live-price-marketcap",
-    "date": "2026-08-03",
-    "displayDate": "August 3, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Bitcoin's current price is around $63,200, with a market cap of $1.3 trillion. It has risen by about 0.8% in the last 24 hours. The circulating supply is 20 mil",
-    "excerpt": "Bitcoin's current price is around $63,200, with a market cap of $1.3 trillion. It has risen by about 0.8% in the last 24 hours. The circulating supply is 20 million BTC.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Bitcoin price today, BTC to USD live price, marketcap ..."
-    },
-    "readingTime": 3
-  },
-  {
     "id": "company-earnings-calendar",
     "type": "news",
     "title": "Company Earnings Calendar",
@@ -5353,27 +5416,6 @@
       "alt": "Asia Stock Markets"
     },
     "readingTime": 4
-  },
-  {
-    "id": "earnings-breaking-news-and-press-releases",
-    "type": "news",
-    "title": "Earnings Breaking News and Press Releases",
-    "slug": "earnings-breaking-news-and-press-releases",
-    "date": "2026-08-02",
-    "displayDate": "August 2, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Enbridge reported strong second quarter results, Oppenheimer Holdings posted second quarter earnings, and Ridgetech released fiscal year 2026 financial results.",
-    "excerpt": "Enbridge reported strong second quarter results, Oppenheimer Holdings posted second quarter earnings, and Ridgetech released fiscal year 2026 financial results.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Earnings Breaking News and Press Releases"
-    },
-    "readingTime": 3
   },
   {
     "id": "eu-countries-european-union",
@@ -9362,27 +9404,6 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "Federal Reserve keeps interest rates steady as inflation ..."
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "healthcare-stocks-in-2026",
-    "type": "news",
-    "title": "Healthcare Stocks in 2026",
-    "slug": "healthcare-stocks-in-2026",
-    "date": "2026-06-10",
-    "displayDate": "June 10, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Healthcare stocks are performing well in 2026, driven by sector rotation and favorable Medicare coverage for Eli Lilly's drugs. The State Street Health Care Sel",
-    "excerpt": "Healthcare stocks are performing well in 2026, driven by sector rotation and favorable Medicare coverage for Eli Lilly's drugs. The State Street Health Care Select Sector SPDR ETF is a top choice due to its diversification. Analysts highlight biotech and pharmaceutical stocks for potential growth.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Healthcare Stocks in 2026"
     },
     "readingTime": 3
   },
