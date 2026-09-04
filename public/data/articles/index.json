@@ -21,6 +21,48 @@
     "readingTime": 3
   },
   {
+    "id": "2026-investment-outlook-themes-for-portfolio-strategies",
+    "type": "news",
+    "title": "2026 Investment Outlook: Themes for Portfolio Strategies",
+    "slug": "2026-investment-outlook-themes-for-portfolio-strategies",
+    "date": "2026-09-04",
+    "displayDate": "September 4, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "For 2026, focus on small caps, emerging markets, and global equity diversification. Consider fixed income and alternative investments for balance. Dividend-grow",
+    "excerpt": "For 2026, focus on small caps, emerging markets, and global equity diversification. Consider fixed income and alternative investments for balance. Dividend-growing companies remain attractive.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "2026 Investment Outlook: Themes for Portfolio Strategies"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "2026-strategic-asset-allocation-saa",
+    "type": "news",
+    "title": "2026 Strategic Asset Allocation (SAA)",
+    "slug": "2026-strategic-asset-allocation-saa",
+    "date": "2026-09-04",
+    "displayDate": "September 4, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "For 2026, strategic asset allocation favors modest underweights in equities, increased exposure in international and large value equities, and maintains allocat",
+    "excerpt": "For 2026, strategic asset allocation favors modest underweights in equities, increased exposure in international and large value equities, and maintains allocations in fixed income and real assets. The approach aims for long-term stability and risk-adjusted returns.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "2026 Strategic Asset Allocation (SAA)"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "asian-financial-markets-investing-com",
     "type": "news",
     "title": "Asian Financial Markets - Investing.com",
@@ -40,6 +82,27 @@
       "alt": "Asian Financial Markets - Investing.com"
     },
     "readingTime": 4
+  },
+  {
+    "id": "asian-financial-markets",
+    "type": "news",
+    "title": "Asian Financial Markets",
+    "slug": "asian-financial-markets",
+    "date": "2026-09-04",
+    "displayDate": "September 4, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Asian financial markets include major exchanges like Nikkei 225, Hang Seng, and S&P/ASX 200. The top 10 major stock exchanges in Asia by market capitalization a",
+    "excerpt": "Asian financial markets include major exchanges like Nikkei 225, Hang Seng, and S&P/ASX 200. The top 10 major stock exchanges in Asia by market capitalization are Shanghai, Tokyo, National Stock Exchange, Bombay, Hong Kong, Shenzhen, Saudi, Taiwan, Tehran, and Korea exchanges. The Guide to the Marke",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Asian Financial Markets"
+    },
+    "readingTime": 5
   },
   {
     "id": "asian-market-headlines-breaking-stock-market-news-reuters",
@@ -103,6 +166,27 @@
       "alt": "Bitcoin (BTC) Price USD Today, News, Charts, Market Cap"
     },
     "readingTime": 4
+  },
+  {
+    "id": "bitcoin-forecast-news-and-analysis-btc-usd",
+    "type": "news",
+    "title": "Bitcoin Forecast, News and Analysis (BTC/USD)",
+    "slug": "bitcoin-forecast-news-and-analysis-btc-usd",
+    "date": "2026-09-04",
+    "displayDate": "September 4, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin trades above $64,830, below 100-day and 200-day EMAs. Forecasts predict a rise to $69,014.85 by August 19, 2026. Current market sentiment is bearish.",
+    "excerpt": "Bitcoin trades above $64,830, below 100-day and 200-day EMAs. Forecasts predict a rise to $69,014.85 by August 19, 2026. Current market sentiment is bearish.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Bitcoin Forecast, News and Analysis (BTC/USD)"
+    },
+    "readingTime": 3
   },
   {
     "id": "bitcoin-price-today-btc-to-usd-live-price-marketcap",
@@ -271,6 +355,27 @@
       "alt": "Earnings Announcements - CNBC"
     },
     "readingTime": 3
+  },
+  {
+    "id": "earnings-calendar-and-analysis-for-this-week-aug-31-sept-4-kiplinger",
+    "type": "news",
+    "title": "Earnings Calendar and Analysis for This Week (Aug 31-Sept 4) | Kiplinger",
+    "slug": "earnings-calendar-and-analysis-for-this-week-aug-31-sept-4-kiplinger",
+    "date": "2026-09-04",
+    "displayDate": "September 4, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "This week's earnings reports include Asana, DocuSign, and Lululemon Athletica. Wall Street expects Lululemon to report $1.80 per share on $2.5 billion revenue. ",
+    "excerpt": "This week's earnings reports include Asana, DocuSign, and Lululemon Athletica. Wall Street expects Lululemon to report $1.80 per share on $2.5 billion revenue. Key after-market reports include Dell Technologies and Palo Alto Networks.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Earnings Calendar and Analysis for This Week (Aug 31-Sept 4) | Kiplinger"
+    },
+    "readingTime": 4
   },
   {
     "id": "earnings-calendar-and-analysis-for-this-week-august-31",
@@ -693,6 +798,27 @@
     "readingTime": 3
   },
   {
+    "id": "how-healthy-is-the-us-economy-here-s-what-the-top-economic-indicators-say-mornin",
+    "type": "news",
+    "title": "How Healthy Is the US Economy? Here’s What the Top Economic Indicators Say | Morningstar",
+    "slug": "how-healthy-is-the-us-economy-here-s-what-the-top-economic-indicators-say-mornin",
+    "date": "2026-09-04",
+    "displayDate": "September 4, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The US economy grew 3% in Q2 2025 after a contraction in Q1, but job growth remains weak. The labor market is slowing, and unemployment is rising. The Federal R",
+    "excerpt": "The US economy grew 3% in Q2 2025 after a contraction in Q1, but job growth remains weak. The labor market is slowing, and unemployment is rising. The Federal Reserve may cut rates due to these trends.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "How Healthy Is the US Economy? Here’s What the Top Economic Indicators Say | Morningstar"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "how-the-fomc-conducts-monetary-policy-st-louis-fed",
     "type": "news",
     "title": "How the FOMC Conducts Monetary Policy | St. Louis Fed",
@@ -752,6 +878,27 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "Investment strategies for today and long-term | BlackRock"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "investment-strategy-2026-portfolio-moves-for-a-changing-market",
+    "type": "news",
+    "title": "Investment Strategy 2026 Portfolio Moves for a Changing Market",
+    "slug": "investment-strategy-2026-portfolio-moves-for-a-changing-market",
+    "date": "2026-09-04",
+    "displayDate": "September 4, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "For 2026, focus on income generation and diversification, especially in AI-driven sectors, while prioritizing cash-flow-generative assets. Expect rising dispers",
+    "excerpt": "For 2026, focus on income generation and diversification, especially in AI-driven sectors, while prioritizing cash-flow-generative assets. Expect rising dispersion and default risk. Adapt strategies to navigate changing market dynamics.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Investment Strategy 2026 Portfolio Moves for a Changing Market"
     },
     "readingTime": 3
   },
@@ -941,6 +1088,27 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "Technology News"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "technology",
+    "type": "news",
+    "title": "Technology",
+    "slug": "technology",
+    "date": "2026-09-04",
+    "displayDate": "September 4, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Technology is the application of scientific knowledge to practical goals, including tools, machines, and software. It plays a crucial role in science, engineeri",
+    "excerpt": "Technology is the application of scientific knowledge to practical goals, including tools, machines, and software. It plays a crucial role in science, engineering, and daily life. Recent advances have significantly improved many aspects of human existence.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Technology"
     },
     "readingTime": 3
   },
@@ -1153,6 +1321,48 @@
       "alt": "United States Inflation Rate"
     },
     "readingTime": 5
+  },
+  {
+    "id": "us-earnings-season-q2-2026",
+    "type": "news",
+    "title": "US earnings season - Q2 2026",
+    "slug": "us-earnings-season-q2-2026",
+    "date": "2026-09-04",
+    "displayDate": "September 4, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The US Q2 2026 earnings season saw the S&P 500's earnings growth at 52.0%, marking the highest since Q2 2021. Energy, Information Technology, and Materials sect",
+    "excerpt": "The US Q2 2026 earnings season saw the S&P 500's earnings growth at 52.0%, marking the highest since Q2 2021. Energy, Information Technology, and Materials sectors led growth, while Consumer Staples, Financials, and Health Care lagged. The earnings growth rate surpassed initial estimates.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "US earnings season - Q2 2026"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "us-inflation-rate-monthly-united-states-historical-data-trends",
+    "type": "news",
+    "title": "US Inflation Rate (Monthly) - United States - Historical Data & Trends",
+    "slug": "us-inflation-rate-monthly-united-states-historical-data-trends",
+    "date": "2026-09-04",
+    "displayDate": "September 4, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The US inflation rate in September 2026 is 3.40%, down from 3.50% in August, and higher than the long-term average of 3.28%. The monthly inflation rate is 0.00%",
+    "excerpt": "The US inflation rate in September 2026 is 3.40%, down from 3.50% in August, and higher than the long-term average of 3.28%. The monthly inflation rate is 0.00% as of December 2024.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "US Inflation Rate (Monthly) - United States - Historical Data & Trends"
+    },
+    "readingTime": 3
   },
   {
     "id": "us-markets-company-earnings-stock-market-trends",
@@ -1449,27 +1659,6 @@
     "readingTime": 3
   },
   {
-    "id": "investment-strategy-2026-portfolio-moves-for-a-changing-market",
-    "type": "news",
-    "title": "Investment Strategy 2026 Portfolio Moves for a Changing Market",
-    "slug": "investment-strategy-2026-portfolio-moves-for-a-changing-market",
-    "date": "2026-09-03",
-    "displayDate": "September 3, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "For 2026, focus on income-generating assets and diversify to navigate AI's impact. Prioritize resilient, cash-flow-driven investments. Adjust strategies to mana",
-    "excerpt": "For 2026, focus on income-generating assets and diversify to navigate AI's impact. Prioritize resilient, cash-flow-driven investments. Adjust strategies to manage rising default risks.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Investment Strategy 2026 Portfolio Moves for a Changing Market"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "meta-title-sectors",
     "type": "news",
     "title": "META_TITLE_SECTORS",
@@ -1596,27 +1785,6 @@
     "readingTime": 3
   },
   {
-    "id": "2026-strategic-asset-allocation-saa",
-    "type": "news",
-    "title": "2026 Strategic Asset Allocation (SAA)",
-    "slug": "2026-strategic-asset-allocation-saa",
-    "date": "2026-09-02",
-    "displayDate": "September 2, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Strategic Asset Allocation for 2026 favors large cap value and international equities, with a modest underweight to equity risk and a focus on real assets and a",
-    "excerpt": "Strategic Asset Allocation for 2026 favors large cap value and international equities, with a modest underweight to equity risk and a focus on real assets and alternatives. Core fixed income remains central. Commodities and private debt are considered as alternatives to traditional bonds.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "2026 Strategic Asset Allocation (SAA)"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "5-strategies-to-navigate-market-volatility",
     "type": "news",
     "title": "5 Strategies to Navigate Market Volatility",
@@ -1699,27 +1867,6 @@
       "alt": "Bitcoin (BTC) Price USD Today, News, Charts, Market Cap | Coinbase"
     },
     "readingTime": 4
-  },
-  {
-    "id": "bitcoin-forecast-news-and-analysis-btc-usd",
-    "type": "news",
-    "title": "Bitcoin Forecast, News and Analysis (BTC/USD)",
-    "slug": "bitcoin-forecast-news-and-analysis-btc-usd",
-    "date": "2026-09-02",
-    "displayDate": "September 2, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Bitcoin price is currently around $63,000, consolidating with potential for a breakout or pullback. Forecasts predict a rise to $69,014.85 by August 19, 2026. M",
-    "excerpt": "Bitcoin price is currently around $63,000, consolidating with potential for a breakout or pullback. Forecasts predict a rise to $69,014.85 by August 19, 2026. Market sentiment is currently bearish.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Bitcoin Forecast, News and Analysis (BTC/USD)"
-    },
-    "readingTime": 3
   },
   {
     "id": "bitcoin-usd-price-quote-market-cap-forecast-news",
@@ -2142,27 +2289,6 @@
     "readingTime": 3
   },
   {
-    "id": "us-earnings-season-q2-2026",
-    "type": "news",
-    "title": "US earnings season - Q2 2026",
-    "slug": "us-earnings-season-q2-2026",
-    "date": "2026-09-02",
-    "displayDate": "September 2, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The US earnings season for Q2 2026 shows strong growth, with the S&P 500 projected at 21.9% year-over-year earnings growth. Key sectors leading include Energy, ",
-    "excerpt": "The US earnings season for Q2 2026 shows strong growth, with the S&P 500 projected at 21.9% year-over-year earnings growth. Key sectors leading include Energy, Information Technology, and Materials. The second week of July marked the start of the earnings season.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "US earnings season - Q2 2026"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "weekly-trader-s-stock-market-outlook-charles-schwab",
     "type": "news",
     "title": "Weekly Trader's Stock Market Outlook | Charles Schwab",
@@ -2226,27 +2352,6 @@
     "readingTime": 3
   },
   {
-    "id": "asian-financial-markets",
-    "type": "news",
-    "title": "Asian Financial Markets",
-    "slug": "asian-financial-markets",
-    "date": "2026-09-01",
-    "displayDate": "September 1, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Asian financial markets include major exchanges like Tokyo Stock Exchange and Shanghai Stock Exchange. Key trends include China's resurgence in Bitcoin mining. ",
-    "excerpt": "Asian financial markets include major exchanges like Tokyo Stock Exchange and Shanghai Stock Exchange. Key trends include China's resurgence in Bitcoin mining. Recent stock market data shows Nikkei 225 and Hang Seng fluctuations.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Asian Financial Markets"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "bitcoin-price-btc",
     "type": "news",
     "title": "Bitcoin Price (BTC)",
@@ -2287,27 +2392,6 @@
       "alt": "Divided Fed Leaves Interest Rates Unchanged"
     },
     "readingTime": 3
-  },
-  {
-    "id": "earnings-calendar-and-analysis-for-this-week-aug-31-sept-4-kiplinger",
-    "type": "news",
-    "title": "Earnings Calendar and Analysis for This Week (Aug 31-Sept 4) | Kiplinger",
-    "slug": "earnings-calendar-and-analysis-for-this-week-aug-31-sept-4-kiplinger",
-    "date": "2026-09-01",
-    "displayDate": "September 1, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "This week's earnings include Lululemon Athletica on Thursday, with Wall Street expecting a 41.9% YoY decline in earnings. Broadcom is also scheduled, with analy",
-    "excerpt": "This week's earnings include Lululemon Athletica on Thursday, with Wall Street expecting a 41.9% YoY decline in earnings. Broadcom is also scheduled, with analysts forecasting a 91.7% YoY earnings increase.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Earnings Calendar and Analysis for This Week (Aug 31-Sept 4) | Kiplinger"
-    },
-    "readingTime": 5
   },
   {
     "id": "earnings-this-week-earnings-calendar-earnings-hub",
@@ -5187,27 +5271,6 @@
     "readingTime": 3
   },
   {
-    "id": "technology",
-    "type": "news",
-    "title": "Technology",
-    "slug": "technology",
-    "date": "2026-08-04",
-    "displayDate": "August 4, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Technology is the application of scientific knowledge to practical goals. It includes tools, machines, and software. Its rapid development has transformed every",
-    "excerpt": "Technology is the application of scientific knowledge to practical goals. It includes tools, machines, and software. Its rapid development has transformed everyday life and industries.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Technology"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "the-allocator-s-checklist-for-2026-and-beyond",
     "type": "news",
     "title": "The allocator's checklist for 2026 and beyond",
@@ -5498,27 +5561,6 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "Yahoo Finance - Stock Market Live, Quotes, Business ..."
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "2026-investment-outlook-themes-for-portfolio-strategies",
-    "type": "news",
-    "title": "2026 Investment Outlook: Themes for Portfolio Strategies",
-    "slug": "2026-investment-outlook-themes-for-portfolio-strategies",
-    "date": "2026-08-02",
-    "displayDate": "August 2, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Increase exposure to small caps and emerging markets; diversify globally with a focus on AI; use fixed income for stability.",
-    "excerpt": "Increase exposure to small caps and emerging markets; diversify globally with a focus on AI; use fixed income for stability.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "2026 Investment Outlook: Themes for Portfolio Strategies"
     },
     "readingTime": 3
   },
