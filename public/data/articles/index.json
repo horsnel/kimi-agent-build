@@ -126,6 +126,27 @@
     "readingTime": 4
   },
   {
+    "id": "coindesk-bitcoin-ethereum-xrp-crypto-news-and-price-data",
+    "type": "news",
+    "title": "CoinDesk: Bitcoin, Ethereum, XRP, Crypto News and Price Data",
+    "slug": "coindesk-bitcoin-ethereum-xrp-crypto-news-and-price-data",
+    "date": "2026-09-04",
+    "displayDate": "September 4, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin, Ethereum, and XRP prices fluctuated with Bitcoin at $76,923.79, Ethereum at $2,411.92, and XRP at $1.45. XRP experienced a significant price surge supp",
+    "excerpt": "Bitcoin, Ethereum, and XRP prices fluctuated with Bitcoin at $76,923.79, Ethereum at $2,411.92, and XRP at $1.45. XRP experienced a significant price surge supported by whale accumulation and ETF inflows. CoinDesk reports on cryptocurrency market trends and price data.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "CoinDesk: Bitcoin, Ethereum, XRP, Crypto News and Price Data"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "company-earnings-calendar-yahoo-finance",
     "type": "news",
     "title": "Company Earnings Calendar - Yahoo Finance",
@@ -168,6 +189,69 @@
     "readingTime": 3
   },
   {
+    "id": "crypto-news-bitcoin-ethereum-xrp-news-crypto-news",
+    "type": "news",
+    "title": "Crypto News: Bitcoin, Ethereum & XRP News | crypto.news",
+    "slug": "crypto-news-bitcoin-ethereum-xrp-news-crypto-news",
+    "date": "2026-09-04",
+    "displayDate": "September 4, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin price is $77,134.00, Ethereum price is $2,385.55, and XRP price is $1.38. Current data is from 2026.",
+    "excerpt": "Bitcoin price is $77,134.00, Ethereum price is $2,385.55, and XRP price is $1.38. Current data is from 2026.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Crypto News: Bitcoin, Ethereum & XRP News | crypto.news"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "earnings-calendar-and-analysis-for-this-week-august-31",
+    "type": "news",
+    "title": "Earnings Calendar and Analysis for This Week (August 31- ...",
+    "slug": "earnings-calendar-and-analysis-for-this-week-august-31",
+    "date": "2026-09-04",
+    "displayDate": "September 4, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "This week's earnings reports include Medtronic, Lululemon Athletica, and Palo Alto Networks. Key earnings estimates are available for several companies. Earning",
+    "excerpt": "This week's earnings reports include Medtronic, Lululemon Athletica, and Palo Alto Networks. Key earnings estimates are available for several companies. Earnings data for the week ends on September 4.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Earnings Calendar and Analysis for This Week (August 31- ..."
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "earnings-calendar-investing-com",
+    "type": "news",
+    "title": "Earnings Calendar - Investing.com",
+    "slug": "earnings-calendar-investing-com",
+    "date": "2026-09-04",
+    "displayDate": "September 4, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The earnings calendar lists upcoming quarterly financial reports from publicly traded companies, including revenue and profit details. On September 4, 2026, Can",
+    "excerpt": "The earnings calendar lists upcoming quarterly financial reports from publicly traded companies, including revenue and profit details. On September 4, 2026, Canaan and Mind Technology are scheduled to report earnings. The calendar helps investors gauge company financial health.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Earnings Calendar - Investing.com"
+    },
+    "readingTime": 5
+  },
+  {
     "id": "earnings-calendar-marketwatch",
     "type": "news",
     "title": "Earnings Calendar - MarketWatch",
@@ -187,6 +271,27 @@
       "alt": "Earnings Calendar - MarketWatch"
     },
     "readingTime": 3
+  },
+  {
+    "id": "earnings-calendar-zacks-investment-research",
+    "type": "news",
+    "title": "Earnings Calendar - Zacks Investment Research",
+    "slug": "earnings-calendar-zacks-investment-research",
+    "date": "2026-09-04",
+    "displayDate": "September 4, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Zacks Investment Research's earnings calendar lists upcoming earnings reports for publicly traded companies. Zscaler's (ZS) earnings report is scheduled for Nov",
+    "excerpt": "Zacks Investment Research's earnings calendar lists upcoming earnings reports for publicly traded companies. Zscaler's (ZS) earnings report is scheduled for November 24, 2026.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Earnings Calendar - Zacks Investment Research"
+    },
+    "readingTime": 4
   },
   {
     "id": "earnings-calendar",
@@ -273,6 +378,48 @@
     "readingTime": 4
   },
   {
+    "id": "economic-sector-performance-dashboards-yahoo-finance",
+    "type": "news",
+    "title": "Economic Sector Performance Dashboards - Yahoo Finance",
+    "slug": "economic-sector-performance-dashboards-yahoo-finance",
+    "date": "2026-09-04",
+    "displayDate": "September 4, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Energy leads sectors in 2026 with +43% growth, followed by Information Technology at +27%. Financials and Consumer Discretionary are at +4% and -2% respectively",
+    "excerpt": "Energy leads sectors in 2026 with +43% growth, followed by Information Technology at +27%. Financials and Consumer Discretionary are at +4% and -2% respectively.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Economic Sector Performance Dashboards - Yahoo Finance"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "ethereum-eth-price-usd-today-news-charts-market-cap",
+    "type": "news",
+    "title": "Ethereum (ETH) Price USD Today, News, Charts, Market Cap",
+    "slug": "ethereum-eth-price-usd-today-news-charts-market-cap",
+    "date": "2026-09-04",
+    "displayDate": "September 4, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Ethereum's price today is $2,511.62 USD. Its market cap is $303.64 billion. The all-time high is $4,953.73.",
+    "excerpt": "Ethereum's price today is $2,511.62 USD. Its market cap is $303.64 billion. The all-time high is $4,953.73.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Ethereum (ETH) Price USD Today, News, Charts, Market Cap"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "federal-reserve-board-monetary-policy",
     "type": "news",
     "title": "Federal Reserve Board - Monetary Policy",
@@ -294,6 +441,48 @@
     "readingTime": 4
   },
   {
+    "id": "federal-reserve-holds-rates-at-3-50-3-75-in-july-2026",
+    "type": "news",
+    "title": "Federal Reserve Holds Rates at 3.50%-3.75% in July 2026",
+    "slug": "federal-reserve-holds-rates-at-3-50-3-75-in-july-2026",
+    "date": "2026-09-04",
+    "displayDate": "September 4, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Reserve held rates at 3.50%-3.75% in July 2026, with nine members voting to keep it steady and three dissenting for a hike. Inflation concerns and g",
+    "excerpt": "The Federal Reserve held rates at 3.50%-3.75% in July 2026, with nine members voting to keep it steady and three dissenting for a hike. Inflation concerns and geopolitical tensions influenced the decision. The Fed's next move remains uncertain.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Federal Reserve Holds Rates at 3.50%-3.75% in July 2026"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "global-indices-tracking-the-world-s-markets",
+    "type": "news",
+    "title": "Global Indices - Tracking the World's Markets",
+    "slug": "global-indices-tracking-the-world-s-markets",
+    "date": "2026-09-04",
+    "displayDate": "September 4, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Global indices track major stock market performance worldwide, including the S&P 500, Dow Jones, FTSE 100, DAX, and Nikkei 225. They reflect overall market heal",
+    "excerpt": "Global indices track major stock market performance worldwide, including the S&P 500, Dow Jones, FTSE 100, DAX, and Nikkei 225. They reflect overall market health and investor sentiment. As of 2026-09-04, key indices showed mixed performance.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Global Indices - Tracking the World's Markets"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "global-market-headlines-breaking-stock-market-news",
     "type": "news",
     "title": "Global Market Headlines | Breaking Stock Market News",
@@ -311,6 +500,48 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "Global Market Headlines | Breaking Stock Market News"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "global-market-indices-international-markets-markets-insider",
+    "type": "news",
+    "title": "Global Market Indices | International Markets - Markets Insider",
+    "slug": "global-market-indices-international-markets-markets-insider",
+    "date": "2026-09-04",
+    "displayDate": "September 4, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The NIKKEI 225 and HANG SENG indices are both trading lower, with the NIKKEI down 0.17% and the HANG SENG down 0.07%. The S&P 500 is up 0.43%.",
+    "excerpt": "The NIKKEI 225 and HANG SENG indices are both trading lower, with the NIKKEI down 0.17% and the HANG SENG down 0.07%. The S&P 500 is up 0.43%.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Global Market Indices | International Markets - Markets Insider"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "global-stock-market-news-and-world-indices-coverage-cnbc",
+    "type": "news",
+    "title": "Global Stock Market News and World Indices Coverage - CNBC",
+    "slug": "global-stock-market-news-and-world-indices-coverage-cnbc",
+    "date": "2026-09-04",
+    "displayDate": "September 4, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Global stock markets and world indices show mixed trends, with European markets advancing and Asia-Pacific markets trading higher amid geopolitical tensions. Th",
+    "excerpt": "Global stock markets and world indices show mixed trends, with European markets advancing and Asia-Pacific markets trading higher amid geopolitical tensions. The S&P 500 posts gains as Treasury yields retreat. AI and energy sectors remain focal points.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Global Stock Market News and World Indices Coverage - CNBC"
     },
     "readingTime": 4
   },
@@ -399,6 +630,90 @@
     "readingTime": 3
   },
   {
+    "id": "latest-technology-news-and-reviews",
+    "type": "news",
+    "title": "Latest Technology News and Reviews",
+    "slug": "latest-technology-news-and-reviews",
+    "date": "2026-09-04",
+    "displayDate": "September 4, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Latest tech news includes Google's Pixel 11 review and concerns over AI's impact on social media. Also, new developments in 360 cameras and long-battery life la",
+    "excerpt": "Latest tech news includes Google's Pixel 11 review and concerns over AI's impact on social media. Also, new developments in 360 cameras and long-battery life laptops.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Latest Technology News and Reviews"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "s-p-500-index-sp500-analysis-news-and-chart-today-seeking-alpha",
+    "type": "news",
+    "title": "S&P 500 Index (SP500) Analysis, News, And Chart Today | Seeking Alpha",
+    "slug": "s-p-500-index-sp500-analysis-news-and-chart-today-seeking-alpha",
+    "date": "2026-09-04",
+    "displayDate": "September 4, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The S&P 500 is up 1.06% to 7,747.62 as of 09/03/26. It faces bearish pressures from global events and central bank policies. Technical analysis suggests a short",
+    "excerpt": "The S&P 500 is up 1.06% to 7,747.62 as of 09/03/26. It faces bearish pressures from global events and central bank policies. Technical analysis suggests a short-term bounce but limited upside.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "S&P 500 Index (SP500) Analysis, News, And Chart Today | Seeking Alpha"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "s-p-500-index-today-inx-live-ticker-s-p-500-quote-chart-markets-insider",
+    "type": "news",
+    "title": "S&P 500 INDEX TODAY | INX LIVE TICKER | S&P 500 QUOTE & CHART | Markets Insider",
+    "slug": "s-p-500-index-today-inx-live-ticker-s-p-500-quote-chart-markets-insider",
+    "date": "2026-09-04",
+    "displayDate": "September 4, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The S&P 500 Index closed at 7,754.39, up 87.79 points or 1.15%. The 52-week high is 7,816.70, and the 52-week low is 6,316.91.",
+    "excerpt": "The S&P 500 Index closed at 7,754.39, up 87.79 points or 1.15%. The 52-week high is 7,816.70, and the 52-week low is 6,316.91.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "S&P 500 INDEX TODAY | INX LIVE TICKER | S&P 500 QUOTE & CHART | Markets Insider"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "s-p-500-sp500-technical-analysis-medium-term",
+    "type": "news",
+    "title": "S&P 500 (SP500) - Technical Analysis - Medium term",
+    "slug": "s-p-500-sp500-technical-analysis-medium-term",
+    "date": "2026-09-04",
+    "displayDate": "September 4, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The S&P 500 is currently in a bullish trend for the medium term, approaching resistance at 7800 points, with a weak positive outlook. The index has broken a sho",
+    "excerpt": "The S&P 500 is currently in a bullish trend for the medium term, approaching resistance at 7800 points, with a weak positive outlook. The index has broken a short-term support level, signaling caution. A break above 7800 would confirm bullish momentum.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "S&P 500 (SP500) - Technical Analysis - Medium term"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "sector-views-monthly-stock-sector-outlook",
     "type": "news",
     "title": "Sector Views: Monthly Stock Sector Outlook",
@@ -439,6 +754,48 @@
       "alt": "Stock market outlook midyear 2026"
     },
     "readingTime": 4
+  },
+  {
+    "id": "techmeme",
+    "type": "news",
+    "title": "Techmeme",
+    "slug": "techmeme",
+    "date": "2026-09-04",
+    "displayDate": "September 4, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Techmeme is a technology news aggregator launched in 2005, offering real-time summaries of tech news. It operates without human editors, focusing on technology-",
+    "excerpt": "Techmeme is a technology news aggregator launched in 2005, offering real-time summaries of tech news. It operates without human editors, focusing on technology-related stories. The site is owned by Gabe Rivera.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Techmeme"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "technology-news",
+    "type": "news",
+    "title": "Technology News",
+    "slug": "technology-news",
+    "date": "2026-09-04",
+    "displayDate": "September 4, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "AI faces more lawsuits, Adobe acquires Indian startup, and TikTok enhances interactivity.",
+    "excerpt": "AI faces more lawsuits, Adobe acquires Indian startup, and TikTok enhances interactivity.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Technology News"
+    },
+    "readingTime": 3
   },
   {
     "id": "the-best-investment-strategies-for-the-continuous-market-investing-com",
@@ -483,6 +840,27 @@
     "readingTime": 3
   },
   {
+    "id": "this-week-s-best-performing-stocks-sectors-industries-rankings-csimarket",
+    "type": "news",
+    "title": "This Week's Best Performing Stocks, Sectors, Industries Rankings - CSIMarket",
+    "slug": "this-week-s-best-performing-stocks-sectors-industries-rankings-csimarket",
+    "date": "2026-09-04",
+    "displayDate": "September 4, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "This week's best performing sectors include Consumer Non Cyclical with a 2.96% increase over five days. The Conglomerates Sector also performed well with a 1.18",
+    "excerpt": "This week's best performing sectors include Consumer Non Cyclical with a 2.96% increase over five days. The Conglomerates Sector also performed well with a 1.18% gain. Basic Materials Sector saw a 0.37% increase.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "This Week's Best Performing Stocks, Sectors, Industries Rankings - CSIMarket"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "top-investment-strategies-key-approaches-to-maximize-returns",
     "type": "news",
     "title": "Top Investment Strategies: Key Approaches to Maximize Returns",
@@ -500,6 +878,27 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "Top Investment Strategies: Key Approaches to Maximize Returns"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "u-s-bureau-of-economic-analysis-bea",
+    "type": "news",
+    "title": "U.S. Bureau of Economic Analysis (BEA)",
+    "slug": "u-s-bureau-of-economic-analysis-bea",
+    "date": "2026-09-04",
+    "displayDate": "September 4, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The U.S. Bureau of Economic Analysis provides official economic data, including GDP, personal income, and trade balance, to inform government policy and economi",
+    "excerpt": "The U.S. Bureau of Economic Analysis provides official economic data, including GDP, personal income, and trade balance, to inform government policy and economic analysis. It is part of the U.S. Department of Commerce. The agency aims to offer timely, accurate, and objective economic data.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "U.S. Bureau of Economic Analysis (BEA)"
     },
     "readingTime": 3
   },
@@ -523,6 +922,48 @@
       "alt": "U.S. Economic Calendar"
     },
     "readingTime": 5
+  },
+  {
+    "id": "united-states-federal-reserve-interest-rate-decision",
+    "type": "news",
+    "title": "United States Federal Reserve Interest Rate Decision",
+    "slug": "united-states-federal-reserve-interest-rate-decision",
+    "date": "2026-09-04",
+    "displayDate": "September 4, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Reserve kept interest rates unchanged at 3.50%-3.75% in September 2026. The next decision is scheduled for July 2026. The current federal funds rate",
+    "excerpt": "The Federal Reserve kept interest rates unchanged at 3.50%-3.75% in September 2026. The next decision is scheduled for July 2026. The current federal funds rate target range is 3.50%-3.75%.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "United States Federal Reserve Interest Rate Decision"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "united-states-indicators",
+    "type": "news",
+    "title": "United States Indicators",
+    "slug": "united-states-indicators",
+    "date": "2026-09-04",
+    "displayDate": "September 4, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The U.S. economy saw a 0.2% increase in the Coincident Economic Index in July 2026, with GDP growth at 1.5% in June 2026. The unemployment rate was 4.1% in July",
+    "excerpt": "The U.S. economy saw a 0.2% increase in the Coincident Economic Index in July 2026, with GDP growth at 1.5% in June 2026. The unemployment rate was 4.1% in July 2026. Non-farm payrolls decreased by 23 thousand in July 2026.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "United States Indicators"
+    },
+    "readingTime": 4
   },
   {
     "id": "united-states-inflation-rate",
@@ -588,6 +1029,27 @@
     "readingTime": 4
   },
   {
+    "id": "when-is-the-next-fed-interest-rate-decision-equals-money",
+    "type": "news",
+    "title": "When is the next Fed interest rate decision? - Equals Money",
+    "slug": "when-is-the-next-fed-interest-rate-decision-equals-money",
+    "date": "2026-09-04",
+    "displayDate": "September 4, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The next Fed interest rate decision is scheduled for September 15-16, 2026. The Fed kept rates unchanged at 3.50% to 3.75% in its latest meeting.",
+    "excerpt": "The next Fed interest rate decision is scheduled for September 15-16, 2026. The Fed kept rates unchanged at 3.50% to 3.75% in its latest meeting.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "When is the next Fed interest rate decision? - Equals Money"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "3-ways-to-simplify-your-investment-portfolio-in-2026-morningstar",
     "type": "news",
     "title": "3 Ways to Simplify Your Investment Portfolio in 2026 | Morningstar",
@@ -626,48 +1088,6 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "Bitcoin price today, BTC to USD live price, marketcap and chart"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "coindesk-bitcoin-ethereum-xrp-crypto-news-and-price-data",
-    "type": "news",
-    "title": "CoinDesk: Bitcoin, Ethereum, XRP, Crypto News and Price Data",
-    "slug": "coindesk-bitcoin-ethereum-xrp-crypto-news-and-price-data",
-    "date": "2026-09-03",
-    "displayDate": "September 3, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "CoinDesk provides news and price data for Bitcoin, Ethereum, and XRP. As of 2026-09-03, Bitcoin is at $76,923.79, Ethereum at $2,411.92, and XRP at $1.45.",
-    "excerpt": "CoinDesk provides news and price data for Bitcoin, Ethereum, and XRP. As of 2026-09-03, Bitcoin is at $76,923.79, Ethereum at $2,411.92, and XRP at $1.45.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "CoinDesk: Bitcoin, Ethereum, XRP, Crypto News and Price Data"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "crypto-news-bitcoin-ethereum-xrp-news-crypto-news",
-    "type": "news",
-    "title": "Crypto News: Bitcoin, Ethereum & XRP News | crypto.news",
-    "slug": "crypto-news-bitcoin-ethereum-xrp-news-crypto-news",
-    "date": "2026-09-03",
-    "displayDate": "September 3, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Bitcoin price is $77,134.00, Ethereum price is $2,385.55, and XRP price is $1.38. Charles Schwab plans to add Solana, Avalanche, and Chainlink to its crypto tra",
-    "excerpt": "Bitcoin price is $77,134.00, Ethereum price is $2,385.55, and XRP price is $1.38. Charles Schwab plans to add Solana, Avalanche, and Chainlink to its crypto trading platform.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Crypto News: Bitcoin, Ethereum & XRP News | crypto.news"
     },
     "readingTime": 3
   },
@@ -714,48 +1134,6 @@
     "readingTime": 5
   },
   {
-    "id": "earnings-calendar-investing-com",
-    "type": "news",
-    "title": "Earnings Calendar - Investing.com",
-    "slug": "earnings-calendar-investing-com",
-    "date": "2026-09-03",
-    "displayDate": "September 3, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "On September 3, 2026, Ciena Corp and Zscaler are scheduled to report earnings. The earnings calendar also lists upcoming reports from KNOT Offshore Partners LP ",
-    "excerpt": "On September 3, 2026, Ciena Corp and Zscaler are scheduled to report earnings. The earnings calendar also lists upcoming reports from KNOT Offshore Partners LP and Syrah Resources. The data is current as of September 3, 2026.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Earnings Calendar - Investing.com"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "earnings-calendar-zacks-investment-research",
-    "type": "news",
-    "title": "Earnings Calendar - Zacks Investment Research",
-    "slug": "earnings-calendar-zacks-investment-research",
-    "date": "2026-09-03",
-    "displayDate": "September 3, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The S&P 500 is expected to see a 23% earnings growth in Q3 2026, with 14 of 16 Zacks sectors projected to have positive earnings growth. Today's ex-dividends in",
-    "excerpt": "The S&P 500 is expected to see a 23% earnings growth in Q3 2026, with 14 of 16 Zacks sectors projected to have positive earnings growth. Today's ex-dividends include SLB Limited and Itau Unibanco.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Earnings Calendar - Zacks Investment Research"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "earnings-whispers",
     "type": "news",
     "title": "Earnings Whispers",
@@ -773,111 +1151,6 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "Earnings Whispers"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "economic-sector-performance-dashboards-yahoo-finance",
-    "type": "news",
-    "title": "Economic Sector Performance Dashboards - Yahoo Finance",
-    "slug": "economic-sector-performance-dashboards-yahoo-finance",
-    "date": "2026-09-03",
-    "displayDate": "September 3, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Energy leads sectors with highest YTD return, followed by Industrials and Healthcare. Technology and Communication Services lag. Market weight distribution show",
-    "excerpt": "Energy leads sectors with highest YTD return, followed by Industrials and Healthcare. Technology and Communication Services lag. Market weight distribution shows Technology as the largest sector.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Economic Sector Performance Dashboards - Yahoo Finance"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "ethereum-eth-price-usd-today-news-charts-market-cap",
-    "type": "news",
-    "title": "Ethereum (ETH) Price USD Today, News, Charts, Market Cap",
-    "slug": "ethereum-eth-price-usd-today-news-charts-market-cap",
-    "date": "2026-09-03",
-    "displayDate": "September 3, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Ethereum (ETH) price is $2,511.62, with a market cap of $303 billion. It has a circulating supply of 120 million coins. The 24-hour trading volume is $16.6 bill",
-    "excerpt": "Ethereum (ETH) price is $2,511.62, with a market cap of $303 billion. It has a circulating supply of 120 million coins. The 24-hour trading volume is $16.6 billion.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Ethereum (ETH) Price USD Today, News, Charts, Market Cap"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "federal-reserve-holds-rates-at-3-50-3-75-in-july-2026",
-    "type": "news",
-    "title": "Federal Reserve Holds Rates at 3.50%-3.75% in July 2026",
-    "slug": "federal-reserve-holds-rates-at-3-50-3-75-in-july-2026",
-    "date": "2026-09-03",
-    "displayDate": "September 3, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Reserve held interest rates steady at 3.50%-3.75% in July 2026, citing persistent inflation and economic uncertainty. The decision was made on an 11",
-    "excerpt": "The Federal Reserve held interest rates steady at 3.50%-3.75% in July 2026, citing persistent inflation and economic uncertainty. The decision was made on an 11-1 vote. One dissenting member preferred a rate cut.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Federal Reserve Holds Rates at 3.50%-3.75% in July 2026"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "global-indices-tracking-the-world-s-markets",
-    "type": "news",
-    "title": "Global Indices - Tracking the World's Markets",
-    "slug": "global-indices-tracking-the-world-s-markets",
-    "date": "2026-09-03",
-    "displayDate": "September 3, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Global indices track major stock market performance worldwide, including the S&P 500, Dow Jones, and Nikkei 225. They also measure various asset classes beyond ",
-    "excerpt": "Global indices track major stock market performance worldwide, including the S&P 500, Dow Jones, and Nikkei 225. They also measure various asset classes beyond stocks. As of 2026-09-03, the S&P 500 was at 7,685.47.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Global Indices - Tracking the World's Markets"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "global-market-indices-international-markets-markets-insider",
-    "type": "news",
-    "title": "Global Market Indices | International Markets | Markets Insider",
-    "slug": "global-market-indices-international-markets-markets-insider",
-    "date": "2026-09-03",
-    "displayDate": "September 3, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Hang Seng index in Hong Kong is down 0.07%, the NIKKEI 225 in Japan is down 2.85%, and the US Dollar Index is slightly down over the past month.",
-    "excerpt": "The Hang Seng index in Hong Kong is down 0.07%, the NIKKEI 225 in Japan is down 2.85%, and the US Dollar Index is slightly down over the past month.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Global Market Indices | International Markets | Markets Insider"
     },
     "readingTime": 4
   },
@@ -1008,27 +1281,6 @@
     "readingTime": 3
   },
   {
-    "id": "latest-technology-news-and-reviews",
-    "type": "news",
-    "title": "Latest Technology News and Reviews",
-    "slug": "latest-technology-news-and-reviews",
-    "date": "2026-09-03",
-    "displayDate": "September 3, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Latest technology news includes new smartwatch reviews, updates on Microsoft Office, and new smart home devices. Key highlights are Google's new security featur",
-    "excerpt": "Latest technology news includes new smartwatch reviews, updates on Microsoft Office, and new smart home devices. Key highlights are Google's new security features and upcoming Apple HomePods with AI.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Latest Technology News and Reviews"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "meta-title-sectors",
     "type": "news",
     "title": "META_TITLE_SECTORS",
@@ -1092,27 +1344,6 @@
     "readingTime": 4
   },
   {
-    "id": "s-p-500-sp500-technical-analysis-medium-term",
-    "type": "news",
-    "title": "S&P 500 (SP500) - Technical Analysis - Medium term",
-    "slug": "s-p-500-sp500-technical-analysis-medium-term",
-    "date": "2026-09-03",
-    "displayDate": "September 3, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The S&P 500 shows a weak positive trend in the medium term, with low risk and a bullish outlook in the long term. The index is currently stabilizing below 6166.",
-    "excerpt": "The S&P 500 shows a weak positive trend in the medium term, with low risk and a bullish outlook in the long term. The index is currently stabilizing below 6166.50.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "S&P 500 (SP500) - Technical Analysis - Medium term"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "stock-market-news-bond-market-currencies-markets-marketwatch",
     "type": "news",
     "title": "Stock Market News - Bond Market - Currencies Markets - MarketWatch",
@@ -1151,69 +1382,6 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "TechCrunch | Startup and Technology News"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "technology-news",
-    "type": "news",
-    "title": "Technology News",
-    "slug": "technology-news",
-    "date": "2026-09-03",
-    "displayDate": "September 3, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "AI companies call for action against rogue AI; Tesla recalls 3 million vehicles in China; Apple announces new Mac models with AI upgrades.",
-    "excerpt": "AI companies call for action against rogue AI; Tesla recalls 3 million vehicles in China; Apple announces new Mac models with AI upgrades.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Technology News"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "this-week-s-best-performing-stocks-sectors-industries-rankings-csimarket",
-    "type": "news",
-    "title": "This Week's Best Performing Stocks, Sectors, Industries Rankings - CSIMarket",
-    "slug": "this-week-s-best-performing-stocks-sectors-industries-rankings-csimarket",
-    "date": "2026-09-03",
-    "displayDate": "September 3, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "This week's best performing sector is Conglomerates, up 12.92%. The worst performing sector is Capital Goods, down 6.52%. The top-performing stock is not specif",
-    "excerpt": "This week's best performing sector is Conglomerates, up 12.92%. The worst performing sector is Capital Goods, down 6.52%. The top-performing stock is not specified.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "This Week's Best Performing Stocks, Sectors, Industries Rankings - CSIMarket"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "u-s-bureau-of-economic-analysis-bea",
-    "type": "news",
-    "title": "U.S. Bureau of Economic Analysis (BEA)",
-    "slug": "u-s-bureau-of-economic-analysis-bea",
-    "date": "2026-09-03",
-    "displayDate": "September 3, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The U.S. Bureau of Economic Analysis (BEA) provides official economic data, including GDP, personal income, and trade statistics. It is part of the Department o",
-    "excerpt": "The U.S. Bureau of Economic Analysis (BEA) provides official economic data, including GDP, personal income, and trade statistics. It is part of the Department of Commerce and aims to promote economic understanding through accurate data. The BEA has about 500 employees and an annual budget of $101 mi",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "U.S. Bureau of Economic Analysis (BEA)"
     },
     "readingTime": 3
   },
@@ -1258,48 +1426,6 @@
       "alt": "United States Fed Funds Interest Rate - Trading Economics"
     },
     "readingTime": 3
-  },
-  {
-    "id": "united-states-federal-reserve-interest-rate-decision",
-    "type": "news",
-    "title": "United States Federal Reserve Interest Rate Decision",
-    "slug": "united-states-federal-reserve-interest-rate-decision",
-    "date": "2026-09-03",
-    "displayDate": "September 3, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Reserve's next interest rate decision is scheduled for April 29, 2026. The current federal funds rate target range is 3.50%–3.75%. The Fed left rate",
-    "excerpt": "The Federal Reserve's next interest rate decision is scheduled for April 29, 2026. The current federal funds rate target range is 3.50%–3.75%. The Fed left rates unchanged at its latest meeting on March 18, 2026.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "United States Federal Reserve Interest Rate Decision"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "united-states-indicators",
-    "type": "news",
-    "title": "United States Indicators",
-    "slug": "united-states-indicators",
-    "date": "2026-09-03",
-    "displayDate": "September 3, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The U.S. economy shows slight growth in indicators like Coincident Economic Index and PMIs, with mixed signals in industrial production and government budget de",
-    "excerpt": "The U.S. economy shows slight growth in indicators like Coincident Economic Index and PMIs, with mixed signals in industrial production and government budget deficits. GDP growth remains modest, and consumer confidence has declined.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "United States Indicators"
-    },
-    "readingTime": 4
   },
   {
     "id": "when-is-the-next-fed-interest-rate-decision",
@@ -2289,27 +2415,6 @@
     "readingTime": 3
   },
   {
-    "id": "s-p-500-index-sp500-analysis-news-and-chart-today-seeking-alpha",
-    "type": "news",
-    "title": "S&P 500 Index (SP500) Analysis, News, And Chart Today | Seeking Alpha",
-    "slug": "s-p-500-index-sp500-analysis-news-and-chart-today-seeking-alpha",
-    "date": "2026-09-01",
-    "displayDate": "September 1, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The S&P 500 closed at 7,686.35, down 0.33%. It faces bearish pressures from global factors. Technical analysis suggests a short-term bounce but limited upside.",
-    "excerpt": "The S&P 500 closed at 7,686.35, down 0.33%. It faces bearish pressures from global factors. Technical analysis suggests a short-term bounce but limited upside.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "S&P 500 Index (SP500) Analysis, News, And Chart Today | Seeking Alpha"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "s-p-500-index-today-inx-live-ticker-markets-insider",
     "type": "news",
     "title": "S&P 500 INDEX TODAY | INX LIVE TICKER - Markets Insider",
@@ -2413,27 +2518,6 @@
       "alt": "United States - IMF DataMapper"
     },
     "readingTime": 3
-  },
-  {
-    "id": "when-is-the-next-fed-interest-rate-decision-equals-money",
-    "type": "news",
-    "title": "When is the next Fed interest rate decision? - Equals Money",
-    "slug": "when-is-the-next-fed-interest-rate-decision-equals-money",
-    "date": "2026-09-01",
-    "displayDate": "September 1, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The next Fed interest rate decision is scheduled for April 29, 2026. The announcement will be at 6:00 PM GMT, followed by a press conference at 6:30 PM GMT. No ",
-    "excerpt": "The next Fed interest rate decision is scheduled for April 29, 2026. The announcement will be at 6:00 PM GMT, followed by a press conference at 6:30 PM GMT. No rate change occurred at the latest meeting on March 18, 2026.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "When is the next Fed interest rate decision? - Equals Money"
-    },
-    "readingTime": 4
   },
   {
     "id": "ahead-of-wall-street-daily-stock-market-outlook",
@@ -3295,27 +3379,6 @@
       "alt": "Federal Open Market Committee - Wikipedia"
     },
     "readingTime": 3
-  },
-  {
-    "id": "global-stock-market-news-and-world-indices-coverage-cnbc",
-    "type": "news",
-    "title": "Global Stock Market News and World Indices Coverage - CNBC",
-    "slug": "global-stock-market-news-and-world-indices-coverage-cnbc",
-    "date": "2026-08-08",
-    "displayDate": "August 8, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Global stock market news and world indices are covered by CNBC, with updates on Asia, Europe, and U.S. markets, along with analysis on international business an",
-    "excerpt": "Global stock market news and world indices are covered by CNBC, with updates on Asia, Europe, and U.S. markets, along with analysis on international business and global financial trends. CNBC also provides insights on political and economic policies affecting global markets.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Global Stock Market News and World Indices Coverage - CNBC"
-    },
-    "readingTime": 4
   },
   {
     "id": "interactive-world-macromap-ft-com",
@@ -5813,27 +5876,6 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "Stocks Hit Record Close Ahead of Busy Earnings Week | The Close 4/27/2026"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "techmeme",
-    "type": "news",
-    "title": "Techmeme",
-    "slug": "techmeme",
-    "date": "2026-08-01",
-    "displayDate": "August 1, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Techmeme is a technology news aggregator launched in 2005, owned by Gabe Rivera, providing real-time summaries of tech industry news and commentary. It offers f",
-    "excerpt": "Techmeme is a technology news aggregator launched in 2005, owned by Gabe Rivera, providing real-time summaries of tech industry news and commentary. It offers free, ad-supported news highlighting trending tech reports and custom aggregation services.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Techmeme"
     },
     "readingTime": 3
   },
