@@ -1,5 +1,47 @@
 [
   {
+    "id": "12-month-percentage-change-consumer-price-index-selected",
+    "type": "news",
+    "title": "12-month percentage change, Consumer Price Index, selected ...",
+    "slug": "12-month-percentage-change-consumer-price-index-selected",
+    "date": "2026-09-04",
+    "displayDate": "September 4, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The 12-month percentage change in the Consumer Price Index for July 2026 was 3.4%. Energy prices saw a significant increase of 14.7%. Fruits and vegetables had ",
+    "excerpt": "The 12-month percentage change in the Consumer Price Index for July 2026 was 3.4%. Energy prices saw a significant increase of 14.7%. Fruits and vegetables had the highest rise at 5.1%.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "12-month percentage change, Consumer Price Index, selected ..."
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "asian-financial-markets-investing-com",
+    "type": "news",
+    "title": "Asian Financial Markets - Investing.com",
+    "slug": "asian-financial-markets-investing-com",
+    "date": "2026-09-04",
+    "displayDate": "September 4, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Nikkei 225 and Hang Seng indices are key Asian financial market indicators, with the Nikkei 225 down 0.17% and Hang Seng down 0.39% on 2026-09-04. Top gaine",
+    "excerpt": "The Nikkei 225 and Hang Seng indices are key Asian financial market indicators, with the Nikkei 225 down 0.17% and Hang Seng down 0.39% on 2026-09-04. Top gainers include Nitori Holdings and Sumitomo Heavy Industries, while Mitsubishi Materials Corp. and Mizuho Financial lead the top losers.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Asian Financial Markets - Investing.com"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "asian-market-headlines-breaking-stock-market-news-reuters",
     "type": "news",
     "title": "Asian Market Headlines | Breaking Stock Market News - Reuters",
@@ -210,6 +252,27 @@
     "readingTime": 3
   },
   {
+    "id": "earnings-announcements-cnbc",
+    "type": "news",
+    "title": "Earnings Announcements - CNBC",
+    "slug": "earnings-announcements-cnbc",
+    "date": "2026-09-04",
+    "displayDate": "September 4, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Snowflake and Broadcom had strong earnings reports, while Lululemon's stock dropped due to disappointing results. CNBC highlighted significant stock movements a",
+    "excerpt": "Snowflake and Broadcom had strong earnings reports, while Lululemon's stock dropped due to disappointing results. CNBC highlighted significant stock movements and market updates. Current earnings data is from September 2026.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Earnings Announcements - CNBC"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "earnings-calendar-and-analysis-for-this-week-august-31",
     "type": "news",
     "title": "Earnings Calendar and Analysis for This Week (August 31- ...",
@@ -311,6 +374,27 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "Earnings Calendar"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "earnings-today-major-companies-report-q2-2026-results",
+    "type": "news",
+    "title": "Earnings today: Major companies report Q2 2026 results",
+    "slug": "earnings-today-major-companies-report-q2-2026-results",
+    "date": "2026-09-04",
+    "displayDate": "September 4, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Major companies report Q2 2026 results starting mid-July, with key firms like JPMorgan Chase and Microsoft leading. FactSet forecasts a 50.4% earnings growth fo",
+    "excerpt": "Major companies report Q2 2026 results starting mid-July, with key firms like JPMorgan Chase and Microsoft leading. FactSet forecasts a 50.4% earnings growth for the S&P 500. Investors focus on earnings growth and company outlooks.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Earnings today: Major companies report Q2 2026 results"
     },
     "readingTime": 3
   },
@@ -418,6 +502,27 @@
       "alt": "Ethereum (ETH) Price USD Today, News, Charts, Market Cap"
     },
     "readingTime": 4
+  },
+  {
+    "id": "ethereum-usd-eth-usd-latest-stock-news-headlines",
+    "type": "news",
+    "title": "Ethereum USD (ETH-USD) Latest Stock News & Headlines",
+    "slug": "ethereum-usd-eth-usd-latest-stock-news-headlines",
+    "date": "2026-09-04",
+    "displayDate": "September 4, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Ethereum USD (ETH-USD) price is $2,505.67, up +4.30%. Recent news includes Hargreaves Lansdown ending its crypto holdout. Current date is September 4, 2026.",
+    "excerpt": "Ethereum USD (ETH-USD) price is $2,505.67, up +4.30%. Recent news includes Hargreaves Lansdown ending its crypto holdout. Current date is September 4, 2026.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Ethereum USD (ETH-USD) Latest Stock News & Headlines"
+    },
+    "readingTime": 3
   },
   {
     "id": "federal-reserve-board-monetary-policy",
@@ -609,6 +714,27 @@
     "readingTime": 3
   },
   {
+    "id": "inflation-economic-data-series-fred-st-louis-fed",
+    "type": "news",
+    "title": "Inflation - Economic Data Series | FRED | St. Louis Fed",
+    "slug": "inflation-economic-data-series-fred-st-louis-fed",
+    "date": "2026-09-04",
+    "displayDate": "September 4, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Inflation data includes annual and monthly rates for the U.S. Consumer Price Index, with key metrics like year-over-year changes and annual rates. The data span",
+    "excerpt": "Inflation data includes annual and monthly rates for the U.S. Consumer Price Index, with key metrics like year-over-year changes and annual rates. The data spans from 1960 to 2026, with updates as recent as July 2026. The Federal Reserve Bank of St. Louis provides this comprehensive economic data se",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Inflation - Economic Data Series | FRED | St. Louis Fed"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "investment-strategies-for-today-and-long-term-blackrock",
     "type": "news",
     "title": "Investment strategies for today and long-term | BlackRock",
@@ -752,6 +878,27 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "Stock market outlook midyear 2026"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "stock-market-outlook-today-tomorrow-market-outlook-forecast-seeking-alpha",
+    "type": "news",
+    "title": "Stock Market Outlook Today & Tomorrow | Market Outlook & Forecast | Seeking Alpha",
+    "slug": "stock-market-outlook-today-tomorrow-market-outlook-forecast-seeking-alpha",
+    "date": "2026-09-04",
+    "displayDate": "September 4, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The stock market outlook today suggests a bullish trend despite geopolitical tensions. Key sectors like aerospace and energy remain strong. Analysts predict con",
+    "excerpt": "The stock market outlook today suggests a bullish trend despite geopolitical tensions. Key sectors like aerospace and energy remain strong. Analysts predict continued growth in major indices.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Stock Market Outlook Today & Tomorrow | Market Outlook & Forecast | Seeking Alpha"
     },
     "readingTime": 4
   },
@@ -924,6 +1071,27 @@
     "readingTime": 5
   },
   {
+    "id": "united-states-economic-indicators-moody-s-analytics",
+    "type": "news",
+    "title": "United States | Economic Indicators | Moody's Analytics",
+    "slug": "united-states-economic-indicators-moody-s-analytics",
+    "date": "2026-09-04",
+    "displayDate": "September 4, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The U.S. economy shows mixed retail sales trends and a stable inflation rate at 3.4% in July 2026. The interest rate is 3.75%, and the balance of trade deficit ",
+    "excerpt": "The U.S. economy shows mixed retail sales trends and a stable inflation rate at 3.4% in July 2026. The interest rate is 3.75%, and the balance of trade deficit is $73.26 billion in June 2026. Moody's Analytics provides comprehensive economic forecasts and data.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "United States | Economic Indicators | Moody's Analytics"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "united-states-federal-reserve-interest-rate-decision",
     "type": "news",
     "title": "United States Federal Reserve Interest Rate Decision",
@@ -1046,6 +1214,27 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "When is the next Fed interest rate decision? - Equals Money"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "when-is-the-next-fed-interest-rate-decision",
+    "type": "news",
+    "title": "When is the next Fed interest rate decision?",
+    "slug": "when-is-the-next-fed-interest-rate-decision",
+    "date": "2026-09-04",
+    "displayDate": "September 4, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The next Fed interest rate decision is scheduled for July 29, 2026, at 2:00 PM ET. The current rate target range is 3.50%–3.75%. The decision will be announced ",
+    "excerpt": "The next Fed interest rate decision is scheduled for July 29, 2026, at 2:00 PM ET. The current rate target range is 3.50%–3.75%. The decision will be announced on this date.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "When is the next Fed interest rate decision?"
     },
     "readingTime": 4
   },
@@ -1386,27 +1575,6 @@
     "readingTime": 3
   },
   {
-    "id": "united-states-economic-indicators-moody-s-analytics",
-    "type": "news",
-    "title": "United States | Economic Indicators | Moody's Analytics",
-    "slug": "united-states-economic-indicators-moody-s-analytics",
-    "date": "2026-09-03",
-    "displayDate": "September 3, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The U.S. economy shows mixed retail sales trends and a stable interest rate at 3.75% in July 2026. Inflation remains low at 3.4%. The balance of trade deficit w",
-    "excerpt": "The U.S. economy shows mixed retail sales trends and a stable interest rate at 3.75% in July 2026. Inflation remains low at 3.4%. The balance of trade deficit widened in June 2026.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "United States | Economic Indicators | Moody's Analytics"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "united-states-fed-funds-interest-rate-trading-economics",
     "type": "news",
     "title": "United States Fed Funds Interest Rate - Trading Economics",
@@ -1424,27 +1592,6 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "United States Fed Funds Interest Rate - Trading Economics"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "when-is-the-next-fed-interest-rate-decision",
-    "type": "news",
-    "title": "When is the next Fed interest rate decision?",
-    "slug": "when-is-the-next-fed-interest-rate-decision",
-    "date": "2026-09-03",
-    "displayDate": "September 3, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The next Fed interest rate decision is scheduled for April 29, 2026. The announcement will be made at 2:00 PM Eastern Time. Fed Chair Jerome Powell will hold a ",
-    "excerpt": "The next Fed interest rate decision is scheduled for April 29, 2026. The announcement will be made at 2:00 PM Eastern Time. Fed Chair Jerome Powell will hold a press conference afterward.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "When is the next Fed interest rate decision?"
     },
     "readingTime": 3
   },
@@ -2268,27 +2415,6 @@
     "readingTime": 3
   },
   {
-    "id": "inflation-economic-data-series-fred-st-louis-fed",
-    "type": "news",
-    "title": "Inflation - Economic Data Series | FRED | St. Louis Fed",
-    "slug": "inflation-economic-data-series-fred-st-louis-fed",
-    "date": "2026-09-01",
-    "displayDate": "September 1, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Inflation data includes the Consumer Price Index (CPI) and measures like the Personal Consumption Expenditures (PCE) price index. The latest inflation rates are",
-    "excerpt": "Inflation data includes the Consumer Price Index (CPI) and measures like the Personal Consumption Expenditures (PCE) price index. The latest inflation rates are updated monthly and annually. The Federal Reserve tracks these metrics to inform economic policy.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Inflation - Economic Data Series | FRED | St. Louis Fed"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "investment-strategies-for-today-and-long-term",
     "type": "news",
     "title": "Investment strategies for today and long-term",
@@ -2896,27 +3022,6 @@
       "alt": "Sector Views: Monthly Stock Sector Outlook - Charles Schwab"
     },
     "readingTime": 3
-  },
-  {
-    "id": "stock-market-outlook-today-tomorrow-market-outlook-forecast-seeking-alpha",
-    "type": "news",
-    "title": "Stock Market Outlook Today & Tomorrow | Market Outlook & Forecast | Seeking Alpha",
-    "slug": "stock-market-outlook-today-tomorrow-market-outlook-forecast-seeking-alpha",
-    "date": "2026-08-09",
-    "displayDate": "August 9, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The stock market outlook suggests a mixed trend with some sectors performing well while others face challenges. Key indicators show mixed earnings reports and f",
-    "excerpt": "The stock market outlook suggests a mixed trend with some sectors performing well while others face challenges. Key indicators show mixed earnings reports and fluctuating interest rates. For precise details, consult the latest Seeking Alpha analysis.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Stock Market Outlook Today & Tomorrow | Market Outlook & Forecast | Seeking Alpha"
-    },
-    "readingTime": 4
   },
   {
     "id": "stock-market-sector-performance-barchart-com",
@@ -3696,27 +3801,6 @@
     "readingTime": 4
   },
   {
-    "id": "12-month-percentage-change-consumer-price-index-selected",
-    "type": "news",
-    "title": "12-month percentage change, Consumer Price Index, selected ...",
-    "slug": "12-month-percentage-change-consumer-price-index-selected",
-    "date": "2026-08-07",
-    "displayDate": "August 7, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The 12-month percentage change in the Consumer Price Index for June 2026 was 3.5%. Energy had the highest change at 15.7%. The lowest change was in fruits and v",
-    "excerpt": "The 12-month percentage change in the Consumer Price Index for June 2026 was 3.5%. Energy had the highest change at 15.7%. The lowest change was in fruits and vegetables at 5.3%.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "12-month percentage change, Consumer Price Index, selected ..."
-    },
-    "readingTime": 5
-  },
-  {
     "id": "bitcoin-usd-price-quote-market-cap-forecast-news-btcusd",
     "type": "news",
     "title": "Bitcoin USD Price: Quote, Market Cap, Forecast & News (BTCUSD)",
@@ -4070,27 +4154,6 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "12-month percentage change, Consumer Price Index, selected categories"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "asian-financial-markets-investing-com",
-    "type": "news",
-    "title": "Asian Financial Markets - Investing.com",
-    "slug": "asian-financial-markets-investing-com",
-    "date": "2026-08-06",
-    "displayDate": "August 6, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Asian financial markets include stock indices, commodities, and futures. Key indices include Nikkei 225 and Hang Seng. Current date is 2026-08-06.",
-    "excerpt": "Asian financial markets include stock indices, commodities, and futures. Key indices include Nikkei 225 and Hang Seng. Current date is 2026-08-06.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Asian Financial Markets - Investing.com"
     },
     "readingTime": 3
   },
@@ -9635,27 +9698,6 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "Ethereum Price Chart (ETH) - CoinGecko"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "ethereum-usd-eth-usd-latest-stock-news-headlines",
-    "type": "news",
-    "title": "Ethereum USD (ETH-USD) Latest Stock News & Headlines",
-    "slug": "ethereum-usd-eth-usd-latest-stock-news-headlines",
-    "date": "2026-06-09",
-    "displayDate": "June 9, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Ethereum (ETH-USD) price is $1,674.06, down -0.47% in the last 24 hours. Current trading on 12,067 active markets. News indicates stabilization as investors con",
-    "excerpt": "Ethereum (ETH-USD) price is $1,674.06, down -0.47% in the last 24 hours. Current trading on 12,067 active markets. News indicates stabilization as investors consider alternatives.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Ethereum USD (ETH-USD) Latest Stock News & Headlines"
     },
     "readingTime": 3
   },
