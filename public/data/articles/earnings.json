@@ -3,8 +3,8 @@
   "type": "news",
   "title": "Earnings",
   "slug": "earnings",
-  "date": "2026-09-04",
-  "displayDate": "September 4, 2026",
+  "date": "2026-09-05",
+  "displayDate": "September 5, 2026",
   "author": "Sigma Capital",
   "category": "Company News",
   "tags": [
@@ -12,17 +12,17 @@
     "financial news",
     "market update"
   ],
-  "metaDescription": "Earnings refer to a company's net profit, disclosed in quarterly reports, and are crucial for assessing financial health and profitability. Earnings reports inc",
-  "excerpt": "Earnings refer to a company's net profit, disclosed in quarterly reports, and are crucial for assessing financial health and profitability. Earnings reports include key metrics like revenue and earnings per share. Earnings are vital for investors to evaluate a company's performance.",
+  "metaDescription": "Earnings refer to a company's profits after expenses, taxes, and costs. They are disclosed in quarterly earnings reports. Investors use earnings to assess a com",
+  "excerpt": "Earnings refer to a company's profits after expenses, taxes, and costs. They are disclosed in quarterly earnings reports. Investors use earnings to assess a company's financial health and performance.",
   "content": {
-    "introduction": "Earnings refer to a company's net profit, disclosed in quarterly reports, and are crucial for assessing financial health and profitability. Earnings reports include key metrics like revenue and earnings per share. Earnings are vital for investors to evaluate a company's performance.",
+    "introduction": "Earnings refer to a company's profits after expenses, taxes, and costs. They are disclosed in quarterly earnings reports. Investors use earnings to assess a company's financial health and performance.",
     "body": [
       "Earnings, in the context of the stock market, refer to the profits, or lack thereof, that a publicly traded company generates over a specific period - typically a quarter. These earnings are disclosed in quarterly earnings reports, which companies release four times a year. Earnings reports offer a snapshot of the company’s financial performance, including key metrics such as revenue, net income, and earnings per share (EPS). [...] Earnings and income are often used interchangeably in the financial world, as both relate to a company’s profitability. However, there are subtle but important differences between the two terms that investors and traders should understand. Earnings typically refer to a company’s net profit, the bottom-line figure after all expenses, taxes, and costs have been deducted from revenue. This is the most commonly cited measure of profitability and forms the basis for key metrics such as earnings per [...] Earnings are vital for investors as they provide a clear measure of a company’s financial health, profitability, and growth potential. They help investors evaluate whether a stock’s price aligns with its performance, using metrics like earnings per share (EPS) and net income to assess value and long-term prospects.",
       "In other projects\n\n Wikidata item\n\nAppearance\n\nFrom Wikipedia, the free encyclopedia\n\nPublic disclosure of a company's periodic financial performance\n\nAn earnings report is a public disclosure issued by a company, typically quarterly or annually, that shares its financial performance with investors and stakeholders. Publicly traded companies must provide these disclosures for transparency, as required by bodies like the U.S. Securities and Exchange Commission (SEC). [...] Earnings reports help investors, financial analysts, and management evaluate a company's profitability and efficiency. In the United States, companies file quarterly reports via the Form 10-Q for the first three quarters, with Annual reports filed via the Form 10-K. An earnings call often accompanies these disclosures, where executives discuss results and plans. [...] While financial statements—such as the balance sheet, income statement, and cash flow statement—provide the raw data, an earnings report distills key metrics like revenue and earnings per share (EPS), adding management commentary and forward-looking guidance. In some regulatory contexts, the term may loosely refer to filings like the quarterly Form 10-Q or yearly Form 10-K. Informally, it is sometimes used as a synonym for the income statement alone.",
-      "Thursday, August 13, 2026, 5:40 PM ET\n\nNu Holdings (NU) reported earnings of $0.22 per share on revenue of $5.51 billion for the second quarter ended June 2026. The consensus earnings estimate was $0.20 per share on revenue of $5.45 billion. The Earnings Whisper number was $0.21 per share. The company beat expectations by 4.76% while revenue grew 50.29% on a year-over-year basis.\n\nExpected Positive Earnings\n\nImage 12: Logo for ticker: VSXYVictoria's Secret is Expected to Beat Estimates"
+      "Earnings season is a period when a substantial percentage of publicly traded companies release their quarterly results. It typically begins two weeks after the end of the quarter (in the middle of January, April, July, and October) and lasts approximately six weeks. While not all companies report during earnings season, many do, and investors as well as analysts often spend a lot of time scrutinizing the numbers as the results roll in."
     ],
     "keyTakeaways": [
-      "Earnings refer to a company's net profit, disclosed in quarterly reports, and are crucial for assessing financial health",
+      "Earnings refer to a company's profits after expenses, taxes, and costs. They are disclosed in quarterly earnings reports",
       "Earnings, in the context of the stock market, refer to the profits, or lack thereof, that a publicly traded company gene",
       "In other projects\n\n Wikidata item\n\nAppearance\n\nFrom Wikipedia, the free encyclopedia\n\nPublic disclosure of a company's p"
     ],
@@ -30,10 +30,10 @@
     "sourceUrl": "https://www.cnbc.com/earnings"
   },
   "readingTime": 3,
-  "updatedAt": "2026-09-04T03:44:05.451Z",
+  "updatedAt": "2026-09-05T03:40:19.508Z",
   "images": {
     "thumbnail": {
-      "src": "/images/article_thumb_5.jpg",
+      "src": "/images/article_thumb_6.jpg",
       "alt": "Earnings"
     },
     "hero": {
@@ -41,12 +41,12 @@
       "alt": "Earnings"
     },
     "mid": {
-      "src": "/images/article_thumb_4.jpg",
+      "src": "/images/article_thumb_6.jpg",
       "alt": "Earnings"
     }
   },
   "image": {
-    "src": "/images/article_thumb_1.jpg",
+    "src": "/images/article_thumb_4.jpg",
     "alt": "Earnings"
   }
 }
