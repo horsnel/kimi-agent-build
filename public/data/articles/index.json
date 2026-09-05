@@ -84,6 +84,48 @@
     "readingTime": 4
   },
   {
+    "id": "5-strategies-to-navigate-market-volatility-morgan-stanley",
+    "type": "news",
+    "title": "5 Strategies to Navigate Market Volatility | Morgan Stanley",
+    "slug": "5-strategies-to-navigate-market-volatility-morgan-stanley",
+    "date": "2026-09-05",
+    "displayDate": "September 5, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "To navigate market volatility, focus on long-term plans, diversify investments, and use dollar-cost averaging. These strategies help mitigate risks and maintain",
+    "excerpt": "To navigate market volatility, focus on long-term plans, diversify investments, and use dollar-cost averaging. These strategies help mitigate risks and maintain steady growth.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "5 Strategies to Navigate Market Volatility | Morgan Stanley"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "ahead-of-wall-street-daily-stock-market-outlook",
+    "type": "news",
+    "title": "Ahead of Wall Street - Daily Stock Market Outlook",
+    "slug": "ahead-of-wall-street-daily-stock-market-outlook",
+    "date": "2026-09-05",
+    "displayDate": "September 5, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "On September 3, 2026, the Dow Jones was up +250 points, the S&P 500 +10, and the Nasdaq -14. Bond yields dropped, and oil prices remained high due to U.S.-Iran ",
+    "excerpt": "On September 3, 2026, the Dow Jones was up +250 points, the S&P 500 +10, and the Nasdaq -14. Bond yields dropped, and oil prices remained high due to U.S.-Iran tensions. The U.S. trade deficit was -$88.6 billion in July.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Ahead of Wall Street - Daily Stock Market Outlook"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "asian-financial-markets-investing-com",
     "type": "news",
     "title": "Asian Financial Markets - Investing.com",
@@ -147,6 +189,90 @@
     "readingTime": 3
   },
   {
+    "id": "big-tech-latest-news-and-updates-south-china-morning-post",
+    "type": "news",
+    "title": "Big Tech: Latest News and Updates | South China Morning Post",
+    "slug": "big-tech-latest-news-and-updates-south-china-morning-post",
+    "date": "2026-09-05",
+    "displayDate": "September 5, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Big Tech revenue rose 9.55% in first half, driven by smartphone and AI chip demand. China’s AI chipmakers saw surging sales. Alibaba increased its cloud budget ",
+    "excerpt": "Big Tech revenue rose 9.55% in first half, driven by smartphone and AI chip demand. China’s AI chipmakers saw surging sales. Alibaba increased its cloud budget by 220% for next-gen AI models.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Big Tech: Latest News and Updates | South China Morning Post"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "big-tech-latest-news-breaking-stories-and-comment-the-independent",
+    "type": "news",
+    "title": "Big Tech - latest news, breaking stories and comment - The Independent",
+    "slug": "big-tech-latest-news-breaking-stories-and-comment-the-independent",
+    "date": "2026-09-05",
+    "displayDate": "September 5, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Big Tech companies are investing in self-sufficient data centers and AI advancements, while also facing regulatory scrutiny over their market power and social m",
+    "excerpt": "Big Tech companies are investing in self-sufficient data centers and AI advancements, while also facing regulatory scrutiny over their market power and social media influence. The UAE has banned social media for children under 15, and the UK faces warnings about losing its AI competitive edge.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Big Tech - latest news, breaking stories and comment - The Independent"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "big-tech-news-industry-analysis-section",
+    "type": "news",
+    "title": "Big Tech News & Industry Analysis | Section",
+    "slug": "big-tech-news-industry-analysis-section",
+    "date": "2026-09-05",
+    "displayDate": "September 5, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Google is competing with Broadcom for AI dominance, while Ryanair uses Google's Gemini alongside AWS. Meta faces legal challenges, and Apple introduces new AI-e",
+    "excerpt": "Google is competing with Broadcom for AI dominance, while Ryanair uses Google's Gemini alongside AWS. Meta faces legal challenges, and Apple introduces new AI-enhanced Mac models.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Big Tech News & Industry Analysis | Section"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "bitcoin-btc-price-usd-today-news-charts-market-cap",
+    "type": "news",
+    "title": "Bitcoin (BTC) Price USD Today, News, Charts, Market Cap",
+    "slug": "bitcoin-btc-price-usd-today-news-charts-market-cap",
+    "date": "2026-09-05",
+    "displayDate": "September 5, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin's price today is $80,885.17 USD, with a market cap of $1.62 trillion. It has a circulating supply of 20.08 million BTC and an all-time high of $126,210.",
+    "excerpt": "Bitcoin's price today is $80,885.17 USD, with a market cap of $1.62 trillion. It has a circulating supply of 20.08 million BTC and an all-time high of $126,210.50.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Bitcoin (BTC) Price USD Today, News, Charts, Market Cap"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "bitcoin-forecast-news-and-analysis-btc-usd",
     "type": "news",
     "title": "Bitcoin Forecast, News and Analysis (BTC/USD)",
@@ -185,6 +311,27 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "Bitcoin price today, BTC to USD live price, marketcap and chart"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "bitcoin-price-today-btc-to-usd-live-price-marketcap",
+    "type": "news",
+    "title": "Bitcoin price today, BTC to USD live price, marketcap ...",
+    "slug": "bitcoin-price-today-btc-to-usd-live-price-marketcap",
+    "date": "2026-09-05",
+    "displayDate": "September 5, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin's current price is $80,885.17 USD. Its market cap is $1.624 trillion. Bitcoin is up 3.83% in the last 24 hours.",
+    "excerpt": "Bitcoin's current price is $80,885.17 USD. Its market cap is $1.624 trillion. Bitcoin is up 3.83% in the last 24 hours.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Bitcoin price today, BTC to USD live price, marketcap ..."
     },
     "readingTime": 3
   },
@@ -567,6 +714,27 @@
     "readingTime": 3
   },
   {
+    "id": "economic-sector-performance-dashboards-yahoo-finance",
+    "type": "news",
+    "title": "Economic Sector Performance Dashboards - Yahoo Finance",
+    "slug": "economic-sector-performance-dashboards-yahoo-finance",
+    "date": "2026-09-05",
+    "displayDate": "September 5, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Yahoo Finance's economic sector performance dashboards show technology and financial services sectors as most active, with notable gains in Bitcoin and Meta Pla",
+    "excerpt": "Yahoo Finance's economic sector performance dashboards show technology and financial services sectors as most active, with notable gains in Bitcoin and Meta Platforms. Sectors are ranked by market weight and year-to-date returns. Current bond yields are rising.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Economic Sector Performance Dashboards - Yahoo Finance"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "ethereum-eth-price-usd-today-news-charts-market-cap",
     "type": "news",
     "title": "Ethereum (ETH) Price USD Today, News, Charts, Market Cap",
@@ -861,6 +1029,27 @@
     "readingTime": 3
   },
   {
+    "id": "investment-strategies-for-uncertain-times-victory-capital",
+    "type": "news",
+    "title": "Investment strategies for uncertain times - Victory Capital",
+    "slug": "investment-strategies-for-uncertain-times-victory-capital",
+    "date": "2026-09-05",
+    "displayDate": "September 5, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Stick to your investment plan, work with professionals, and consider an Automatic Investment Plan to avoid emotional decisions during market uncertainty.",
+    "excerpt": "Stick to your investment plan, work with professionals, and consider an Automatic Investment Plan to avoid emotional decisions during market uncertainty.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Investment strategies for uncertain times - Victory Capital"
+    },
+    "readingTime": 5
+  },
+  {
     "id": "investment-strategy-2026-portfolio-moves-for-a-changing-market",
     "type": "news",
     "title": "Investment Strategy 2026 Portfolio Moves for a Changing Market",
@@ -1029,6 +1218,27 @@
     "readingTime": 4
   },
   {
+    "id": "sectors-stock-market-usa-tradingview",
+    "type": "news",
+    "title": "Sectors — Stock Market — USA — TradingView",
+    "slug": "sectors-stock-market-usa-tradingview",
+    "date": "2026-09-05",
+    "displayDate": "September 5, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The USA stock market sectors include Electronic Technology, Finance, Health Technology, Retail Trade, and Consumer Non-Durables. Each sector has a market capita",
+    "excerpt": "The USA stock market sectors include Electronic Technology, Finance, Health Technology, Retail Trade, and Consumer Non-Durables. Each sector has a market capitalization and industry-specific performance metrics. The most significant sectors by market cap are Finance and Technology Services.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Sectors — Stock Market — USA — TradingView"
+    },
+    "readingTime": 5
+  },
+  {
     "id": "stocks-up-early-as-yields-retreat-helped-by-yen",
     "type": "news",
     "title": "Stocks Up Early as Yields Retreat, Helped by Yen",
@@ -1088,6 +1298,27 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "The Fed - Federal Open Market Committee"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "this-week-s-best-performing-stocks-sectors-industries-rankings-csimarket",
+    "type": "news",
+    "title": "This Week's Best Performing Stocks, Sectors, Industries Rankings - CSIMarket",
+    "slug": "this-week-s-best-performing-stocks-sectors-industries-rankings-csimarket",
+    "date": "2026-09-05",
+    "displayDate": "September 5, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "This week's best performing sectors are Consumer Discretionary, Financial, and Technology. Coal Mining and Oil Well Services & Equipment are the worst performin",
+    "excerpt": "This week's best performing sectors are Consumer Discretionary, Financial, and Technology. Coal Mining and Oil Well Services & Equipment are the worst performing. The data reflects the latest market trends.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "This Week's Best Performing Stocks, Sectors, Industries Rankings - CSIMarket"
     },
     "readingTime": 4
   },
@@ -1260,6 +1491,27 @@
     "readingTime": 4
   },
   {
+    "id": "us-inflation-rate-monthly-united-states-historical-data-trends",
+    "type": "news",
+    "title": "US Inflation Rate (Monthly) - United States - Historical Data & Trends",
+    "slug": "us-inflation-rate-monthly-united-states-historical-data-trends",
+    "date": "2026-09-05",
+    "displayDate": "September 5, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The US inflation rate in August 2026 is 3.5%, down from 3.8% in July 2026. It has been gradually decreasing from a peak of 4.2% in May 2023. The long-term avera",
+    "excerpt": "The US inflation rate in August 2026 is 3.5%, down from 3.8% in July 2026. It has been gradually decreasing from a peak of 4.2% in May 2023. The long-term average is around 3.28%.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "US Inflation Rate (Monthly) - United States - Historical Data & Trends"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "us-markets-company-earnings-stock-market-trends",
     "type": "news",
     "title": "US Markets, Company Earnings, Stock Market Trends ...",
@@ -1386,48 +1638,6 @@
     "readingTime": 5
   },
   {
-    "id": "bitcoin-btc-price-usd-today-news-charts-market-cap",
-    "type": "news",
-    "title": "Bitcoin (BTC) Price USD Today, News, Charts, Market Cap",
-    "slug": "bitcoin-btc-price-usd-today-news-charts-market-cap",
-    "date": "2026-09-04",
-    "displayDate": "September 4, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Bitcoin's current price is $77,164.44, with a market cap of $1.55T. Its all-time high was $126,210.50.",
-    "excerpt": "Bitcoin's current price is $77,164.44, with a market cap of $1.55T. Its all-time high was $126,210.50.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Bitcoin (BTC) Price USD Today, News, Charts, Market Cap"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "bitcoin-price-today-btc-to-usd-live-price-marketcap",
-    "type": "news",
-    "title": "Bitcoin price today, BTC to USD live price, marketcap ...",
-    "slug": "bitcoin-price-today-btc-to-usd-live-price-marketcap",
-    "date": "2026-09-04",
-    "displayDate": "September 4, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Bitcoin's current price is $78,065.09 USD, with a 24-hour trading volume of $24,418,305,113 USD. The market cap is $1.554 trillion. Bitcoin has a circulating su",
-    "excerpt": "Bitcoin's current price is $78,065.09 USD, with a 24-hour trading volume of $24,418,305,113 USD. The market cap is $1.554 trillion. Bitcoin has a circulating supply of 20.1 million coins.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Bitcoin price today, BTC to USD live price, marketcap ..."
-    },
-    "readingTime": 3
-  },
-  {
     "id": "company-earnings-calendar-yahoo-finance",
     "type": "news",
     "title": "Company Earnings Calendar - Yahoo Finance",
@@ -1529,27 +1739,6 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "Earnings today: Major companies report Q2 2026 results"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "economic-sector-performance-dashboards-yahoo-finance",
-    "type": "news",
-    "title": "Economic Sector Performance Dashboards - Yahoo Finance",
-    "slug": "economic-sector-performance-dashboards-yahoo-finance",
-    "date": "2026-09-04",
-    "displayDate": "September 4, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Energy leads sectors in 2026 with +43% growth, followed by Information Technology at +27%. Financials and Consumer Discretionary are at +4% and -2% respectively",
-    "excerpt": "Energy leads sectors in 2026 with +43% growth, followed by Information Technology at +27%. Financials and Consumer Discretionary are at +4% and -2% respectively.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Economic Sector Performance Dashboards - Yahoo Finance"
     },
     "readingTime": 3
   },
@@ -1827,27 +2016,6 @@
     "readingTime": 4
   },
   {
-    "id": "this-week-s-best-performing-stocks-sectors-industries-rankings-csimarket",
-    "type": "news",
-    "title": "This Week's Best Performing Stocks, Sectors, Industries Rankings - CSIMarket",
-    "slug": "this-week-s-best-performing-stocks-sectors-industries-rankings-csimarket",
-    "date": "2026-09-04",
-    "displayDate": "September 4, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "This week's best performing sectors include Consumer Non Cyclical with a 2.96% increase over five days. The Conglomerates Sector also performed well with a 1.18",
-    "excerpt": "This week's best performing sectors include Consumer Non Cyclical with a 2.96% increase over five days. The Conglomerates Sector also performed well with a 1.18% gain. Basic Materials Sector saw a 0.37% increase.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "This Week's Best Performing Stocks, Sectors, Industries Rankings - CSIMarket"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "united-states-federal-reserve-interest-rate-decision",
     "type": "news",
     "title": "United States Federal Reserve Interest Rate Decision",
@@ -1886,27 +2054,6 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "US earnings season - Q2 2026"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "us-inflation-rate-monthly-united-states-historical-data-trends",
-    "type": "news",
-    "title": "US Inflation Rate (Monthly) - United States - Historical Data & Trends",
-    "slug": "us-inflation-rate-monthly-united-states-historical-data-trends",
-    "date": "2026-09-04",
-    "displayDate": "September 4, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The US inflation rate in September 2026 is 3.40%, down from 3.50% in August, and higher than the long-term average of 3.28%. The monthly inflation rate is 0.00%",
-    "excerpt": "The US inflation rate in September 2026 is 3.40%, down from 3.50% in August, and higher than the long-term average of 3.28%. The monthly inflation rate is 0.00% as of December 2024.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "US Inflation Rate (Monthly) - United States - Historical Data & Trends"
     },
     "readingTime": 3
   },
@@ -2688,27 +2835,6 @@
     "readingTime": 4
   },
   {
-    "id": "5-strategies-to-navigate-market-volatility-morgan-stanley",
-    "type": "news",
-    "title": "5 Strategies to Navigate Market Volatility | Morgan Stanley",
-    "slug": "5-strategies-to-navigate-market-volatility-morgan-stanley",
-    "date": "2026-09-01",
-    "displayDate": "September 1, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "To navigate market volatility, focus on long-term goals, dollar-cost averaging, and maintaining a diversified portfolio. Take a long-term view and avoid panic s",
-    "excerpt": "To navigate market volatility, focus on long-term goals, dollar-cost averaging, and maintaining a diversified portfolio. Take a long-term view and avoid panic selling.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "5 Strategies to Navigate Market Volatility | Morgan Stanley"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "bitcoin-price-btc",
     "type": "news",
     "title": "Bitcoin Price (BTC)",
@@ -2982,27 +3108,6 @@
     "readingTime": 3
   },
   {
-    "id": "sectors-stock-market-usa-tradingview",
-    "type": "news",
-    "title": "Sectors — Stock Market — USA — TradingView",
-    "slug": "sectors-stock-market-usa-tradingview",
-    "date": "2026-09-01",
-    "displayDate": "September 1, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The US stock market sectors include Electronic Technology, Technology Services, Finance, Health Technology, and Retail Trade. Market capitalization, dividend yi",
-    "excerpt": "The US stock market sectors include Electronic Technology, Technology Services, Finance, Health Technology, and Retail Trade. Market capitalization, dividend yield, and changes vary by sector. Energy Minerals and Consumer Non-Durables are also significant sectors.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Sectors — Stock Market — USA — TradingView"
-    },
-    "readingTime": 5
-  },
-  {
     "id": "stock-market-data-us-markets-world-markets-and-stock-quotes",
     "type": "news",
     "title": "Stock Market Data - US Markets, World Markets, and Stock Quotes",
@@ -3064,27 +3169,6 @@
       "alt": "United States - IMF DataMapper"
     },
     "readingTime": 3
-  },
-  {
-    "id": "ahead-of-wall-street-daily-stock-market-outlook",
-    "type": "news",
-    "title": "Ahead of Wall Street - Daily Stock Market Outlook",
-    "slug": "ahead-of-wall-street-daily-stock-market-outlook",
-    "date": "2026-08-09",
-    "displayDate": "August 9, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The stock market outlook for August 7th shows mixed signals with some stocks rising and others downgraded. Key factors include a weak jobs report and potential ",
-    "excerpt": "The stock market outlook for August 7th shows mixed signals with some stocks rising and others downgraded. Key factors include a weak jobs report and potential shifts in Fed expectations. Investors should monitor these trends closely.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Ahead of Wall Street - Daily Stock Market Outlook"
-    },
-    "readingTime": 4
   },
   {
     "id": "asia-market-data-marketwatch",

@@ -1,6 +1,17 @@
 [
   {
     "id": 0,
+    "headline": "Ahead of Wall Street - Daily Stock Market Outlook",
+    "excerpt": "Thursday, September 3rd, 2026  \n  \nLots of information hits the tape this Thursday morning, as we see shifts based on early-morning commentary, along with key monthly and weekly data. Pre-markets are modestly mixed following an up-trading day Wednesd",
+    "date": "2026-09-05",
+    "category": "Market Analysis",
+    "featured": false,
+    "source": "zacks.com",
+    "articleSlug": "ahead-of-wall-street-daily-stock-market-outlook",
+    "thumbnail": ""
+  },
+  {
+    "id": 1,
     "headline": "US Markets, Company Earnings, Stock Market Trends ...",
     "excerpt": "Morningstar\n\n# Markets\n\n## Markets Performance Overview\n\n### Indexes\n\n### Market Barometers\n\nStyle Box\n\n|  |  |  |  |\n ---  --- |\n| +0.56 | +1.05 | +1.37 | Large |\n| +0.75 | +0.78 | +1.39 | Mid |\n| +0.72 | +0.77 | +1.22 | Small |\n| Value | Core | Gro",
     "date": "2026-09-05",
@@ -11,20 +22,9 @@
     "thumbnail": ""
   },
   {
-    "id": 1,
-    "headline": "Stocks Up Early as Yields Retreat, Helped by Yen",
-    "excerpt": "In corporate news, AI giant Broadcom's (AVGO ) earnings topped estimates late yesterday but failed to impress market participants. Instead, they appeared to focus on guidance, which topped expectations but didn't match the extremely bullish outlook s",
-    "date": "2026-09-05",
-    "category": "Market Analysis",
-    "featured": false,
-    "source": "schwab.com",
-    "articleSlug": "stocks-up-early-as-yields-retreat-helped-by-yen",
-    "thumbnail": ""
-  },
-  {
     "id": 2,
     "headline": "United States Stock Market Index - Quote - Chart",
-    "excerpt": "|  | Actual | Chg | %Chg |\n ---  --- |\n| EURUSD | 1.16144 | 0.0012 | -0.10% |\n| GBPUSD | 1.35195 | 0.0006 | -0.04% |\n| AUDUSD | 0.72070 | 0.0006 | 0.09% |\n| NZDUSD | 0.58839 | 0.0004 | 0.07% |\n| USDJPY | 156.229 | 0.4240 | 0.27% |\n| USDCNY | 6.70796 ",
+    "excerpt": "0.9% and Visa fell 1%. Still, chipmakers rose after underperforming earlier in the week, helping to support the Nasdaq. Nvidia gained 0.8%, Micron rose 6.1%, Intel added 4.5%, and Marvell advanced 7% amid signs of optimism surrounding OpenAI’s new GP",
     "date": "2026-09-05",
     "category": "Market Analysis",
     "featured": false,
@@ -34,35 +34,35 @@
   },
   {
     "id": 3,
-    "headline": "Earnings Calendar - Investing.com",
-    "excerpt": "|  | Tuesday, September 8, 2026 |  |  |  |  |  |  |  |  |\n|  | Caseys  (  CASY  )  Caseys | -  / | 6.68 | -  / | 5.57B | 28.07B |  | 756.09-0.31% | 758.95  +0.38% | aa.aa | -  / \n|  | Sunbelt Rentals Holdings  (  SUNB  )  Sunbelt Rentals Holdings | -",
+    "headline": "Big Tech News & Industry Analysis | Section",
+    "excerpt": "By Emily ForliniSeptember 4, 2026\n\nMark Zuckerberg, chief executive officer of Meta Platforms Inc., during the Meta Connect event in Menlo Park, California.\n\n‘Feeding the beast’: Meta faces allegations of using its ‘perv glasses’ to train AI in new l",
     "date": "2026-09-05",
     "category": "Company News",
     "featured": false,
-    "source": "investing.com",
-    "articleSlug": "earnings-calendar-investing-com",
+    "source": "fortune.com",
+    "articleSlug": "big-tech-news-industry-analysis-section",
     "thumbnail": ""
   },
   {
     "id": 4,
-    "headline": "Earnings Calendar",
-    "excerpt": "| Company Name  Company Name | Symbol | Fiscal Quarter | EPS Forecast | EPS Actual | Surprise |\n ---  ---  --- |\n| Power Metallic Mines Inc.  Power Metallic Mines Inc. | PNPNF | 06/30/2026 | -0.04 | -0.03 | 0.01 (-32.62%) |\n| Char Technologies Ltd.  ",
+    "headline": "Big Tech - latest news, breaking stories and comment - The Independent",
+    "excerpt": "<p>Meta's Stanton Springs Data Center in Georgia. Meta is building off-grid data centers in El Paso and New Albany, Ohio. It’s just one of several big tech companies building supposedly power self-sufficient data center facilities across the country<",
     "date": "2026-09-05",
     "category": "Company News",
     "featured": false,
-    "source": "marketwatch.com",
-    "articleSlug": "earnings-calendar",
+    "source": "the-independent.com",
+    "articleSlug": "big-tech-latest-news-breaking-stories-and-comment-the-independent",
     "thumbnail": ""
   },
   {
     "id": 5,
-    "headline": "Earnings - CNBC",
-    "excerpt": "Laya NeelakandanFri, Sep 4th 2026\n\nZscaler beats earnings expectations, issues upbeat guidance but stock falls\n\nSamantha SubinFri, Sep 4th 2026\n\nBroadcom guides big but investors wanted more. Why we're OK to hold for now\n\nJeff MarksWed, Sep 2nd 2026\n",
+    "headline": "Big Tech: Latest News and Updates | South China Morning Post",
+    "excerpt": "videocam\n\n4\n\nChinese chip equipment giant Advanced Micro-Fabrication Equipment (AMEC) unveils six new tools in a single day as the company accelerates research and development. Photo: Weibo\n\nChinese chip equipment giant Advanced Micro-Fabrication Equ",
     "date": "2026-09-05",
     "category": "Company News",
     "featured": false,
-    "source": "cnbc.com",
-    "articleSlug": "earnings-cnbc",
+    "source": "scmp.com",
+    "articleSlug": "big-tech-latest-news-and-updates-south-china-morning-post",
     "thumbnail": ""
   },
   {
@@ -100,61 +100,50 @@
   },
   {
     "id": 9,
-    "headline": "Health Technology Sector: Companies, Performance and Stocks — USA — TradingView",
-    "excerpt": "| GEHCGE HealthCare Technologies Inc. | 31.18 B USD | 69.04 USD | −0.98% | 786.58 K | 0.31 | 15.87 | 4.35 USD | −10.91% | 0.20% | Buy |\n| INSMInsmed Incorporated | 27.63 B USD | 126.51 USD | −0.13% | 481.72 K | 0.27 | — | −4.11 USD | +28.02% | 0.00% ",
+    "headline": "This Week's Best Performing Stocks, Sectors, Industries Rankings - CSIMarket",
+    "excerpt": "|  |  |  |\n --- \n| Ranking | This Week's Best Performing Sectors | % |\n| 1 | Consumer Non Cyclical | 3.34 % |\n| 2 | Utilities | 1.41 % |\n| 3 | Retail | 1.23 % |\n| 4 | Consumer Discretionary | 0.84 % |\n| 5 | Transportation | 0.56 % |\n| 6 | Energy | 0.",
     "date": "2026-09-05",
     "category": "Sector Performance",
     "featured": false,
-    "source": "tradingview.com",
-    "articleSlug": "health-technology-sector-companies-performance-and-stocks-usa-tradingview",
+    "source": "csimarket.com",
+    "articleSlug": "this-week-s-best-performing-stocks-sectors-industries-rankings-csimarket",
     "thumbnail": ""
   },
   {
     "id": 10,
-    "headline": "Sector Views: Monthly Stock Sector Outlook",
-    "excerpt": "| Health Care | 8.9 | 5.5 | 21.3 | 34.5 | 61.7 |\n| Industrials | 8.9 | 11.3 | 19.5 | 18.6 | 39.5 |\n| Information Technology | 38.0 | 14.7 | 27.2 | 54.7 | 76.5 |\n| Materials | 1.8 | 1.5 | 11.8 | 35.3 | 72.1 |\n| Real Estate | 1.8 | 14.3 | 12.9 | 33.3 |",
-    "date": "2026-09-05",
-    "category": "Sector Performance",
-    "featured": false,
-    "source": "schwab.com",
-    "articleSlug": "sector-views-monthly-stock-sector-outlook",
-    "thumbnail": ""
-  },
-  {
-    "id": 11,
-    "headline": "SECTORS - Healthcare",
-    "excerpt": "Chart Range Bar\n\n1D   5D   1M   6M   YTD   1Y   5Y   All\n\nAdvanced Chart\n\nLoading chart for Healthcare\n\n### Day Return\n\nSector\n\n0.58%\n\nS&P 500\n\n0.32%\n\n### YTD Return\n\nSector\n\n17.49%\n\nS&P 500\n\n11.33%\n\n### 1-Year Return\n\nSector\n\n35.31%\n\nS&P 500\n\n18.72%",
+    "headline": "Economic Sector Performance Dashboards - Yahoo Finance",
+    "excerpt": "18.   News • 3 days ago Apple's CEO handoff and some of the non-spending aspects of the AI transformation are top of mind this week.\n19.   News • 4 days ago Why do we feel 'crummy' in a good economy? Our paychecks aren't keeping up.\n20.   News • 4 da",
     "date": "2026-09-05",
     "category": "Sector Performance",
     "featured": false,
     "source": "finance.yahoo.com",
-    "articleSlug": "sectors-healthcare",
+    "articleSlug": "economic-sector-performance-dashboards-yahoo-finance",
+    "thumbnail": ""
+  },
+  {
+    "id": 11,
+    "headline": "Sectors — Stock Market — USA — TradingView",
+    "excerpt": "| Producer Manufacturing | 3.73 T USD | 0.85% | +1.98% | 2.83 M | 9 | 299 |\n| Energy Minerals | 3.54 T USD | 3.06% | −1.04% | 6.79 M | 4 | 113 |\n| Communications | 2.99 T USD | 1.17% | −1.22% | 35.82 M | 3 | 47 |\n| Consumer Non-Durables | 2.93 T USD ",
+    "date": "2026-09-05",
+    "category": "Sector Performance",
+    "featured": false,
+    "source": "tradingview.com",
+    "articleSlug": "sectors-stock-market-usa-tradingview",
     "thumbnail": ""
   },
   {
     "id": 12,
-    "headline": "Asian Stock Market: Capital Markets News, Bond Market News, Commodities News, ETFs News",
-    "excerpt": "NEWS;)\n ANALYSIS;)\n INDEXES;)\n\n# Latest: Asia Stock Market News\n\nEU Tech Crackdown: AliExpress Fined $603m For Illegal Goods\n\n20 Jul 2026\n\n EU Tech Crackdown: AliExpress Fined $603m For Illegal Goods \n\nEuropean officials said the penalty was for allo",
+    "headline": "Global Market Indices | International Markets | Markets Insider",
+    "excerpt": "---  --- \n| Hang Seng  Hong Kong | 25,650.87  25,213.31 | 437.56  1.74% | 04:08:22 AM09/04/2026 04:08:22 AM UTC-0400  9/4/2026 | -2.61%  0.92% |\n| KOSPI  Republic of Korea | 6,579.48  6,579.48 | 16.76  0.26% | 02:32:50 AM09/03/2026 02:32:50 AM UTC-04",
     "date": "2026-09-05",
     "category": "Global Markets",
     "featured": false,
-    "source": "asiafinancial.com",
-    "articleSlug": "asian-stock-market-capital-markets-news-bond-market-news-commodities-news-etfs-n",
+    "source": "markets.businessinsider.com",
+    "articleSlug": "global-market-indices-international-markets-markets-insider",
     "thumbnail": ""
   },
   {
     "id": 13,
-    "headline": "Asian Market Headlines | Breaking Stock Market News - Reuters",
-    "excerpt": "### Rates & Bonds\n\n| Name | Yield | Change |\n --- \n| US 10Y | 4.764 | +0.002 |\n| DE 10Y | 3.348 | -0.003 |\n| UK 10Y | 5.144 | +0.005 |\n| JP 10Y | 2.92 | +0.014 |\n\n### Stocks\n\n| Index | Last | % Change |\n --- \n| ASX All Ordinaries | 9,196.00 | -0.03%N",
-    "date": "2026-09-05",
-    "category": "Global Markets",
-    "featured": false,
-    "source": "reuters.com",
-    "articleSlug": "asian-market-headlines-breaking-stock-market-news-reuters",
-    "thumbnail": ""
-  },
-  {
-    "id": 14,
     "headline": "Global Market Headlines | Breaking Stock Market News",
     "excerpt": "### Stocks\n\n| Index | Last | % Change |\n --- \n| S&P 500 | 7,718.60 | -0.38%Negative |\n| Euro STOXX 50 | 6,392.93 | +0.16%Positive |\n| FTSE 100 | 10,831.09 | -0.00%Negative |\n| Nikkei 225 | 65,020.94 | +1.26%Positive |\n\nSource: LSEG, opens new tab - d",
     "date": "2026-09-05",
@@ -162,6 +151,17 @@
     "featured": false,
     "source": "reuters.com",
     "articleSlug": "global-market-headlines-breaking-stock-market-news",
+    "thumbnail": ""
+  },
+  {
+    "id": 14,
+    "headline": "Global Indices - Tracking the World's Markets",
+    "excerpt": "| S&P  S&P05 Sep, 01:34 AM | 7,738.81 | -29.90 (0.38%) | 7,771.19 | 7,727.12 | 7,771.19 | 7,768.71 |\n| NIKKEI  NIKKEI 05 Sep, 08:30 AM | 65,020.94 | 806.46 (1.26%) | 65,182.45 | 64,228.47 | 64,498.94 | 64,214.48 |\n| HANG SENG  HANG SENG05 Sep, 08:40 ",
+    "date": "2026-09-05",
+    "category": "Global Markets",
+    "featured": false,
+    "source": "groww.in",
+    "articleSlug": "global-indices-tracking-the-world-s-markets",
     "thumbnail": ""
   },
   {
@@ -177,24 +177,24 @@
   },
   {
     "id": 16,
-    "headline": "Investment strategies for today and long-term | BlackRock",
-    "excerpt": "### PRACTICE RESOURCES\n\n### WHO WE ARE\n\n### Change location\n\nwoman running\n\n# BlackRock’s top investment strategies for today’s market\n\n## Income-focused portfolios can help deliver more consistent outcomes in retirement\n\nBlackRock offers income solu",
+    "headline": "5 Strategies to Navigate Market Volatility | Morgan Stanley",
+    "excerpt": "2.    2   Embrace Consistency with Dollar-Cost Averaging  It’s easy to fall into a trap of inaction by overthinking the “perfect” time to invest or to take inappropriately low risks when markets get choppy. Instead, consider dollar-cost averaging, a ",
     "date": "2026-09-05",
     "category": "Investment Strategies",
     "featured": false,
-    "source": "blackrock.com",
-    "articleSlug": "investment-strategies-for-today-and-long-term-blackrock",
+    "source": "morganstanley.com",
+    "articleSlug": "5-strategies-to-navigate-market-volatility-morgan-stanley",
     "thumbnail": ""
   },
   {
     "id": 17,
-    "headline": "10 Best Investments: Where to Invest in 2026",
-    "excerpt": "Wondering where to invest your money this year? High-yield savings accounts, CDs, bonds, funds and stocks are all considered among the best investments available. Learn more about the risks, potential returns and how to get started.\n\nWritten by\n\n and",
+    "headline": "Investment strategies for uncertain times - Victory Capital",
+    "excerpt": "3. Consider an Automatic Investment Plan: Admittedly, having the discipline to stick to your plan is not easy in times of uncertainty. Fortunately, there are some strategies and investment products that may help eliminate the temptation to make dubio",
     "date": "2026-09-05",
     "category": "Investment Strategies",
     "featured": false,
-    "source": "nerdwallet.com",
-    "articleSlug": "10-best-investments-where-to-invest-in-2026",
+    "source": "investor.vcm.com",
+    "articleSlug": "investment-strategies-for-uncertain-times-victory-capital",
     "thumbnail": ""
   },
   {
@@ -232,6 +232,28 @@
   },
   {
     "id": 21,
+    "headline": "Earnings Calendar",
+    "excerpt": "|  | Company | EPS  / | Forecast | Revenue  / | Forecast | Market Cap | Time | Last | Extended Hours | EPS Revisions | EPS Surprise %  / | Revenue Surprise % |\n ---  ---  ---  ---  ---  --- \n|  | Monday, September 7, 2026 |  |  |  |  |  |  |  |  |\n| ",
+    "date": "2026-09-05",
+    "category": "Earnings",
+    "featured": false,
+    "source": "investing.com",
+    "articleSlug": "earnings-calendar",
+    "thumbnail": ""
+  },
+  {
+    "id": 22,
+    "headline": "Earnings Calendar",
+    "excerpt": "| Company Name  Company Name | Symbol | Fiscal Quarter | EPS Forecast | EPS Actual | Surprise |\n ---  ---  --- |\n| Virco Manufacturing Corp.  Virco Manufacturing Corp. | VIRC | 07/31/2026 | 0.07 | 0.55 | 0.48 (685.71%) |\n\n## Advertisement\n\n## Adverti",
+    "date": "2026-09-05",
+    "category": "Earnings",
+    "featured": false,
+    "source": "marketwatch.com",
+    "articleSlug": "earnings-calendar",
+    "thumbnail": ""
+  },
+  {
+    "id": 23,
     "headline": "Earnings - CNBC",
     "excerpt": "Thu, Aug 27th 2026\n\nRetail\n\nBest Buy beats quarterly estimates and hikes its outlook, but stock falls\n\nThu, Aug 27th 2026\n\nTech\n\nNvidia adds more than $400B in value after blowout earnings boost AI confidence\n\nThu, Aug 27th 2026\n\nMarkets\n\nQantas shar",
     "date": "2026-09-05",
@@ -242,51 +264,7 @@
     "thumbnail": ""
   },
   {
-    "id": 22,
-    "headline": "Earnings Calendar and Analysis for This Week (September ...",
-    "excerpt": "We'll see how Kroger measures up when management reports fiscal second-quarter results before the closing bell on Friday. Wall Street expects EPS of $1.06 (+1.9% YoY) on revenue of $34.61 billion (+2.0% YoY).\n\nNote that Kroger is the only noteworthy ",
-    "date": "2026-09-05",
-    "category": "Earnings",
-    "featured": false,
-    "source": "kiplinger.com",
-    "articleSlug": "earnings-calendar-and-analysis-for-this-week-september",
-    "thumbnail": ""
-  },
-  {
-    "id": 23,
-    "headline": "Earnings Calendar - Investing.com",
-    "excerpt": "|  | Tuesday, September 8, 2026 |  |  |  |  |  |  |  |  |\n|  | Caseys  (  CASY  )  Caseys | -  / | 6.68 | -  / | 5.57B | 28.07B |  | 756.09-0.31% | 758.95  +0.38% | aa.aa | -  / \n|  | Sunbelt Rentals Holdings  (  SUNB  )  Sunbelt Rentals Holdings | -",
-    "date": "2026-09-05",
-    "category": "Earnings",
-    "featured": false,
-    "source": "investing.com",
-    "articleSlug": "earnings-calendar-investing-com",
-    "thumbnail": ""
-  },
-  {
     "id": 24,
-    "headline": "CPI Home : U.S. Bureau of Labor Statistics",
-    "excerpt": "News Release\nHistorical Data\n\nUnemployment Rate:\n4.1% in Aug 2026\nNews Release\nHistorical Data\n\nNews Release\nHistorical Data\n\nPayroll Employment:\n+162,000(p) in Aug 2026\nNews Release\nHistorical Data\n\nNews Release\nHistorical Data\n\nAverage Hourly Earni",
-    "date": "2026-09-05",
-    "category": "Economic Data",
-    "featured": false,
-    "source": "bls.gov",
-    "articleSlug": "cpi-home-u-s-bureau-of-labor-statistics",
-    "thumbnail": ""
-  },
-  {
-    "id": 25,
-    "headline": "Bureau of Labor Statistics",
-    "excerpt": "Employment of childcare workers has declined, while the employment of preschool and kindergarten teachers has risen. read more\n\nprevious; \"Previous\")\n\n12345\n\nnext; \"Next\")\n\n### Latest Numbers\n\nImage 19: RSS\n\nConsumer Price Index (CPI):\n\n+0.1% in Jul ",
-    "date": "2026-09-05",
-    "category": "Economic Data",
-    "featured": false,
-    "source": "bls.gov",
-    "articleSlug": "bureau-of-labor-statistics",
-    "thumbnail": ""
-  },
-  {
-    "id": 26,
     "headline": "United States Inflation Rate",
     "excerpt": "| Related | Last | Previous | Unit | Reference |\n ---  --- \n| CPI | 333.92 | 333.95 | points | Jul 2026 |\n| Core Consumer Prices | 337.13 | 336.07 | points | Jul 2026 |\n| CPI Apparel | 134.18 | 135.92 | points | Jul 2026 |\n| CPI Education | 317.82 | ",
     "date": "2026-09-05",
@@ -297,36 +275,58 @@
     "thumbnail": ""
   },
   {
+    "id": 25,
+    "headline": "US Inflation Rate (Monthly) - United States - Historical Data & Trends",
+    "excerpt": "ReportConsumer Price Index\nCategoryConsumer Prices\n\nRegionUnited States\nSourceBureau of Labor Statistics\n\n### Stats\n\nLast Value 3.40%\nLatest Period Jul 2026\nLast Updated Aug 12 2026, 08:33 EDT\nNext Release Sep 11 2026, 08:30 EDT\nLong Term Average 3.2",
+    "date": "2026-09-05",
+    "category": "Economic Data",
+    "featured": false,
+    "source": "ycharts.com",
+    "articleSlug": "us-inflation-rate-monthly-united-states-historical-data-trends",
+    "thumbnail": ""
+  },
+  {
+    "id": 26,
+    "headline": "12-month percentage change, Consumer Price Index, selected ...",
+    "excerpt": "| Jan 2025 | 3.0% | 2.5% | 1.9% | 3.4% | 1.0% | -0.2% | 1.9% | 4.9% | 3.3% | -0.1% | 0.4% | -0.3% | 2.3% | 4.3% | 4.4% | 2.7% | 0.5% |\n| Feb 2025 | 2.8% | 2.6% | 1.9% | 3.7% | -0.2% | -3.1% | 2.5% | 6.0% | 3.1% | -0.1% | 0.6% | -0.3% | 2.3% | 4.1% | ",
+    "date": "2026-09-05",
+    "category": "Economic Data",
+    "featured": false,
+    "source": "bls.gov",
+    "articleSlug": "12-month-percentage-change-consumer-price-index-selected",
+    "thumbnail": ""
+  },
+  {
     "id": 27,
-    "headline": "Crypto News: Bitcoin, Ethereum & XRP News | crypto.news",
-    "excerpt": "crypto.news is a leading name in the cryptocurrency news space, providing the latest and most relevant updates on Bitcoin, Ethereum, and Ripple ecosystems. Setting the industry standard in journalism, crypto.news covers a wide array of topics ranging",
+    "headline": "Bitcoin Price Today | Live BTC Price, Chart & Market Data",
+    "excerpt": "Image 1: Binance\n\nBuy Crypto\n\nMarkets\n\nTrade\n\nFutures\n\nEarn\n\nSquare\n\nAI\n\nMore\n\nLog InSign Up\n\nImage 2\n\nScan to Download App iOS & Android\n\nMore Download Options\n\nHome\n\nCrypto prices\n\nBitcoin Price (BTC)\n\nImage 3: Bitcoin Price\n\n# Bitcoin Price (BTC)\n",
     "date": "2026-09-05",
     "category": "Crypto",
     "featured": false,
-    "source": "crypto.news",
-    "articleSlug": "crypto-news-bitcoin-ethereum-xrp-news-crypto-news",
+    "source": "binance.com",
+    "articleSlug": "bitcoin-price-today-live-btc-price-chart-market-data",
     "thumbnail": ""
   },
   {
     "id": 28,
-    "headline": "CoinDesk: Bitcoin, Ethereum, XRP, Crypto News and Price Data",
-    "excerpt": "Search\n\n/\n\n with Payward Services\nBy WOO X Jul 15, 2026, 7:30 a.m. ET\n\nCrypto Stocks\n\nCD20 2,179.09 Up 0.34 percent 0.34%BTC$76,923.79 Down 1.97 percent 1.97%ETH$2,411.92 Down 4.00 percent 4.00%XRP$1.45 Up 3.44 percent 3.44%SOL$93.06 Down 0.65 percen",
+    "headline": "Bitcoin price today, BTC to USD live price, marketcap ...",
+    "excerpt": "The live Bitcoin price today is $80,885.17 USD with a 24-hour trading volume of $41,235,176,766 USD.We update our BTC to USD price in real-time.Bitcoin is up 3.83% in the last 24 hours.The current CoinMarketCap ranking is #1, with a live market cap o",
     "date": "2026-09-05",
     "category": "Crypto",
     "featured": false,
-    "source": "coindesk.com",
-    "articleSlug": "coindesk-bitcoin-ethereum-xrp-crypto-news-and-price-data",
+    "source": "coinmarketcap.com",
+    "articleSlug": "bitcoin-price-today-btc-to-usd-live-price-marketcap",
     "thumbnail": ""
   },
   {
     "id": 29,
-    "headline": "Ethereum (ETH) Price USD Today, News, Charts, Market Cap",
-    "excerpt": "Both Bitcoin and Ethereum are decentralized, open-source networks, but they serve different goals. Bitcoin focuses on peer-to-peer value transfer, while Ethereum supports programmable smart contracts and decentralized applications across various doma",
+    "headline": "Bitcoin (BTC) Price USD Today, News, Charts, Market Cap",
+    "excerpt": "Bitcoin ranks as the #1 most popular cryptocurrency on Coinbase. Bitcoin holds a market dominance of 61%, representing its share of the total crypto market cap. Over the past 24 hours, the trading volume was $30.298B. In comparison, the 7-day trading",
     "date": "2026-09-05",
     "category": "Crypto",
     "featured": false,
     "source": "coinbase.com",
-    "articleSlug": "ethereum-eth-price-usd-today-news-charts-market-cap",
+    "articleSlug": "bitcoin-btc-price-usd-today-news-charts-market-cap",
     "thumbnail": ""
   }
 ]
