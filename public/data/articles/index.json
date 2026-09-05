@@ -189,6 +189,69 @@
     "readingTime": 3
   },
   {
+    "id": "cryptocurrency-news-today-bitcoin-consolidates-ethereum-continues-run-newsweek",
+    "type": "news",
+    "title": "Cryptocurrency News Today: Bitcoin Consolidates, Ethereum Continues Run - Newsweek",
+    "slug": "cryptocurrency-news-today-bitcoin-consolidates-ethereum-continues-run-newsweek",
+    "date": "2026-09-05",
+    "displayDate": "September 5, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin is consolidating, while Ethereum continues its upward trend. Ethereum has surpassed $2,300, outperforming Bitcoin. The market sentiment remains bullish.",
+    "excerpt": "Bitcoin is consolidating, while Ethereum continues its upward trend. Ethereum has surpassed $2,300, outperforming Bitcoin. The market sentiment remains bullish.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Cryptocurrency News Today: Bitcoin Consolidates, Ethereum Continues Run - Newsweek"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "cryptocurrency-news-today-bitcoin-ethereum-maintaining-bullish-run-newsweek",
+    "type": "news",
+    "title": "Cryptocurrency News Today: Bitcoin, Ethereum Maintaining Bullish Run - Newsweek",
+    "slug": "cryptocurrency-news-today-bitcoin-ethereum-maintaining-bullish-run-newsweek",
+    "date": "2026-09-05",
+    "displayDate": "September 5, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin and Ethereum are currently maintaining a bullish trend, with Bitcoin trading above $46,885 and Ethereum above $3,300. Both cryptocurrencies are showing ",
+    "excerpt": "Bitcoin and Ethereum are currently maintaining a bullish trend, with Bitcoin trading above $46,885 and Ethereum above $3,300. Both cryptocurrencies are showing strong support levels and potential for further gains.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Cryptocurrency News Today: Bitcoin, Ethereum Maintaining Bullish Run - Newsweek"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "cryptocurrency-news-today-bitcoin-ethereum-outlook-remains-bullish-newsweek",
+    "type": "news",
+    "title": "Cryptocurrency News Today: Bitcoin, Ethereum Outlook Remains Bullish - Newsweek",
+    "slug": "cryptocurrency-news-today-bitcoin-ethereum-outlook-remains-bullish-newsweek",
+    "date": "2026-09-05",
+    "displayDate": "September 5, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin and Ethereum continue to show bullish trends, with Bitcoin trading above key support levels and Ethereum showing potential for further gains. Current pr",
+    "excerpt": "Bitcoin and Ethereum continue to show bullish trends, with Bitcoin trading above key support levels and Ethereum showing potential for further gains. Current prices are above major support levels, indicating continued upward momentum.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Cryptocurrency News Today: Bitcoin, Ethereum Outlook Remains Bullish - Newsweek"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "earnings-calendar-and-analysis-for-this-week-september-7-11",
     "type": "news",
     "title": "Earnings Calendar and Analysis for This Week (September 7-11)",
@@ -294,6 +357,48 @@
     "readingTime": 3
   },
   {
+    "id": "economic-calendar",
+    "type": "news",
+    "title": "Economic Calendar",
+    "slug": "economic-calendar",
+    "date": "2026-09-05",
+    "displayDate": "September 5, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "An economic calendar lists upcoming economic events and data releases that can impact financial markets, including stocks, Forex, and bonds. It helps traders pr",
+    "excerpt": "An economic calendar lists upcoming economic events and data releases that can impact financial markets, including stocks, Forex, and bonds. It helps traders prepare for market-moving events. The most recent data is available on platforms like TradingView and MarketWatch.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Economic Calendar"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "economic-news-releases-u-s-bureau-of-labor-statistics",
+    "type": "news",
+    "title": "Economic News Releases :  U.S. Bureau of Labor Statistics",
+    "slug": "economic-news-releases-u-s-bureau-of-labor-statistics",
+    "date": "2026-09-05",
+    "displayDate": "September 5, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The U.S. Bureau of Labor Statistics releases economic data on inflation, employment, productivity, and earnings. The latest Consumer Price Index increase was 0.",
+    "excerpt": "The U.S. Bureau of Labor Statistics releases economic data on inflation, employment, productivity, and earnings. The latest Consumer Price Index increase was 0.1% in July 2026. Real average hourly earnings decreased 0.1% in July 2026.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Economic News Releases :  U.S. Bureau of Labor Statistics"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "federal-reserve-board-monetary-policy",
     "type": "news",
     "title": "Federal Reserve Board - Monetary Policy",
@@ -311,6 +416,90 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "Federal Reserve Board - Monetary Policy"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "geekwire-breaking-news-in-technology-business",
+    "type": "news",
+    "title": "GeekWire – Breaking News in Technology & Business",
+    "slug": "geekwire-breaking-news-in-technology-business",
+    "date": "2026-09-05",
+    "displayDate": "September 5, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "GeekWire covers technology and business news, focusing on the Pacific Northwest, with notable stories on AI advancements and Amazon layoffs. Founded in 2011, it",
+    "excerpt": "GeekWire covers technology and business news, focusing on the Pacific Northwest, with notable stories on AI advancements and Amazon layoffs. Founded in 2011, it has a strong global audience.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "GeekWire – Breaking News in Technology & Business"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "global-indices-tracking-the-world-s-markets",
+    "type": "news",
+    "title": "Global Indices - Tracking the World's Markets",
+    "slug": "global-indices-tracking-the-world-s-markets",
+    "date": "2026-09-05",
+    "displayDate": "September 5, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The S&P 500 and Dow Jones are major U.S. indices, with the S&P 500 at 4,500 and Dow Jones at 36,000 as of 2026-09-05. The Nikkei 225 in Japan is at 25,000. The ",
+    "excerpt": "The S&P 500 and Dow Jones are major U.S. indices, with the S&P 500 at 4,500 and Dow Jones at 36,000 as of 2026-09-05. The Nikkei 225 in Japan is at 25,000. The Hang Seng in Hong Kong is at 25,000.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Global Indices - Tracking the World's Markets"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "global-market-headlines-breaking-stock-market-news",
+    "type": "news",
+    "title": "Global Market Headlines | Breaking Stock Market News",
+    "slug": "global-market-headlines-breaking-stock-market-news",
+    "date": "2026-09-05",
+    "displayDate": "September 5, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "S&P 500 dipped, Euro STOXX 50 rose, Nikkei 225 increased; Tesla and SpaceX are in spotlight. Adobe's stock dropped post-CEO announcement.",
+    "excerpt": "S&P 500 dipped, Euro STOXX 50 rose, Nikkei 225 increased; Tesla and SpaceX are in spotlight. Adobe's stock dropped post-CEO announcement.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Global Market Headlines | Breaking Stock Market News"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "global-market-indices-international-markets-markets-insider",
+    "type": "news",
+    "title": "Global Market Indices | International Markets - Markets Insider",
+    "slug": "global-market-indices-international-markets-markets-insider",
+    "date": "2026-09-05",
+    "displayDate": "September 5, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The S&P 500 is down 0.38%, while the Nikkei 225 is up 1.26%. The FTSE 100 is unchanged.",
+    "excerpt": "The S&P 500 is down 0.38%, while the Nikkei 225 is up 1.26%. The FTSE 100 is unchanged.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Global Market Indices | International Markets - Markets Insider"
     },
     "readingTime": 3
   },
@@ -357,6 +546,48 @@
     "readingTime": 4
   },
   {
+    "id": "healthcare-stock-performance",
+    "type": "news",
+    "title": "Healthcare Stock Performance",
+    "slug": "healthcare-stock-performance",
+    "date": "2026-09-05",
+    "displayDate": "September 5, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Moderna Inc (MRNA) leads healthcare stocks with a 453.51% one-year performance. Eli Lilly and Company (LLY) and Johnson & Johnson (JNJ) also perform well. Healt",
+    "excerpt": "Moderna Inc (MRNA) leads healthcare stocks with a 453.51% one-year performance. Eli Lilly and Company (LLY) and Johnson & Johnson (JNJ) also perform well. Healthcare sector shows strong growth, especially in biotechnology and drug manufacturing.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Healthcare Stock Performance"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "healthcare-stocks-in-2026-u-s-bank",
+    "type": "news",
+    "title": "Healthcare Stocks in 2026 | U.S. Bank",
+    "slug": "healthcare-stocks-in-2026-u-s-bank",
+    "date": "2026-09-05",
+    "displayDate": "September 5, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "In 2026, healthcare stocks like Moderna and UnitedHealth Group show strong performance. Key sectors include biotechnology, medical devices, and health insurance",
+    "excerpt": "In 2026, healthcare stocks like Moderna and UnitedHealth Group show strong performance. Key sectors include biotechnology, medical devices, and health insurance. Investment appeal focuses on innovation in weight loss, data analytics, and robotics.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Healthcare Stocks in 2026 | U.S. Bank"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "how-the-fomc-conducts-monetary-policy-st-louis-fed",
     "type": "news",
     "title": "How the FOMC Conducts Monetary Policy | St. Louis Fed",
@@ -374,6 +605,48 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "How the FOMC Conducts Monetary Policy | St. Louis Fed"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "how-to-invest-in-today-s-market-u-s-bank",
+    "type": "news",
+    "title": "How to Invest in Today’s Market | U.S. Bank",
+    "slug": "how-to-invest-in-today-s-market-u-s-bank",
+    "date": "2026-09-05",
+    "displayDate": "September 5, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "To invest in today's market, start with stocks or bonds, diversify your portfolio, and regularly review your investments.",
+    "excerpt": "To invest in today's market, start with stocks or bonds, diversify your portfolio, and regularly review your investments.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "How to Invest in Today’s Market | U.S. Bank"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "investment-strategies-for-today-and-long-term-blackrock",
+    "type": "news",
+    "title": "Investment strategies for today and long-term | BlackRock",
+    "slug": "investment-strategies-for-today-and-long-term-blackrock",
+    "date": "2026-09-05",
+    "displayDate": "September 5, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "BlackRock recommends income-focused portfolios for consistent retirement outcomes, using fixed income, equities, private credit, and multi-asset strategies. Foc",
+    "excerpt": "BlackRock recommends income-focused portfolios for consistent retirement outcomes, using fixed income, equities, private credit, and multi-asset strategies. Focus on sustainable retirement income. Past performance does not guarantee future results.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Investment strategies for today and long-term | BlackRock"
     },
     "readingTime": 3
   },
@@ -397,6 +670,48 @@
       "alt": "Investment Strategy 2026 Portfolio Moves for a Changing Market"
     },
     "readingTime": 3
+  },
+  {
+    "id": "latest-technology-news-and-reviews",
+    "type": "news",
+    "title": "Latest Technology News and Reviews",
+    "slug": "latest-technology-news-and-reviews",
+    "date": "2026-09-05",
+    "displayDate": "September 5, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Latest technology news includes updates on new smart devices and reviews of tech products. Recent highlights include new smart video doorbells and air quality m",
+    "excerpt": "Latest technology news includes updates on new smart devices and reviews of tech products. Recent highlights include new smart video doorbells and air quality monitors. Essential tech reviews and news are available.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Latest Technology News and Reviews"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "marketwatch-stock-market-news-financial-news-marketwatch",
+    "type": "news",
+    "title": "MarketWatch: Stock Market News - Financial News - MarketWatch",
+    "slug": "marketwatch-stock-market-news-financial-news-marketwatch",
+    "date": "2026-09-05",
+    "displayDate": "September 5, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "MarketWatch provides stock market news, financial updates, and business insights. The site features real-time market data and analysis. It also offers personal ",
+    "excerpt": "MarketWatch provides stock market news, financial updates, and business insights. The site features real-time market data and analysis. It also offers personal finance and investing tips.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "MarketWatch: Stock Market News - Financial News - MarketWatch"
+    },
+    "readingTime": 4
   },
   {
     "id": "s-p-500-analysis-and-opinion-investing-com",
@@ -483,6 +798,27 @@
     "readingTime": 3
   },
   {
+    "id": "technology-news",
+    "type": "news",
+    "title": "Technology News",
+    "slug": "technology-news",
+    "date": "2026-09-05",
+    "displayDate": "September 5, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Meta debuted its first augmented reality glasses, and Adobe acquired an Indian market intelligence startup. Reuters offers financial news and market data.",
+    "excerpt": "Meta debuted its first augmented reality glasses, and Adobe acquired an Indian market intelligence startup. Reuters offers financial news and market data.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Technology News"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "the-fed-federal-open-market-committee",
     "type": "news",
     "title": "The Fed - Federal Open Market Committee",
@@ -502,6 +838,27 @@
       "alt": "The Fed - Federal Open Market Committee"
     },
     "readingTime": 4
+  },
+  {
+    "id": "top-investment-strategies-key-approaches-to-maximize-returns",
+    "type": "news",
+    "title": "Top Investment Strategies: Key Approaches to Maximize Returns",
+    "slug": "top-investment-strategies-key-approaches-to-maximize-returns",
+    "date": "2026-09-05",
+    "displayDate": "September 5, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Top investment strategies include diversification, dollar-cost averaging, and value investing. These aim to maximize returns while managing risk. Active vs. pas",
+    "excerpt": "Top investment strategies include diversification, dollar-cost averaging, and value investing. These aim to maximize returns while managing risk. Active vs. passive investing also plays a key role.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Top Investment Strategies: Key Approaches to Maximize Returns"
+    },
+    "readingTime": 3
   },
   {
     "id": "u-s-bureau-of-economic-analysis-bea",
@@ -588,6 +945,48 @@
     "readingTime": 5
   },
   {
+    "id": "us-markets-company-earnings-stock-market-trends",
+    "type": "news",
+    "title": "US Markets, Company Earnings, Stock Market Trends ...",
+    "slug": "us-markets-company-earnings-stock-market-trends",
+    "date": "2026-09-05",
+    "displayDate": "September 5, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "US markets show value ETFs investing in tech, Nvidia's earnings boost AI confidence, and upcoming earnings reports are available on Market Chameleon.",
+    "excerpt": "US markets show value ETFs investing in tech, Nvidia's earnings boost AI confidence, and upcoming earnings reports are available on Market Chameleon.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "US Markets, Company Earnings, Stock Market Trends ..."
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "weekly-trader-s-stock-market-outlook",
+    "type": "news",
+    "title": "Weekly Trader's Stock Market Outlook",
+    "slug": "weekly-trader-s-stock-market-outlook",
+    "date": "2026-09-05",
+    "displayDate": "September 5, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The S&P 500 and Russell 2000 reached new highs, driven by strong earnings and low volatility. Inflation rates are stable, and economic growth remains robust. Mi",
+    "excerpt": "The S&P 500 and Russell 2000 reached new highs, driven by strong earnings and low volatility. Inflation rates are stable, and economic growth remains robust. Midterm elections are unlikely to impact the stock market significantly.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Weekly Trader's Stock Market Outlook"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "what-is-the-current-inflation-rate-in-the-us",
     "type": "news",
     "title": "What is the current inflation rate in the US?",
@@ -607,6 +1006,27 @@
       "alt": "What is the current inflation rate in the US?"
     },
     "readingTime": 3
+  },
+  {
+    "id": "what-to-look-out-for-in-economic-data-this-week-september-7-11",
+    "type": "news",
+    "title": "What to Look Out for in Economic Data This Week (September 7-11)",
+    "slug": "what-to-look-out-for-in-economic-data-this-week-september-7-11",
+    "date": "2026-09-05",
+    "displayDate": "September 5, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Key economic data for September 7-11 includes August inflation numbers, Producer Price Index (PPI), and Consumer Price Index (CPI) on September 11. Federal Rese",
+    "excerpt": "Key economic data for September 7-11 includes August inflation numbers, Producer Price Index (PPI), and Consumer Price Index (CPI) on September 11. Federal Reserve balance sheet data and ECB Lane speech are also notable. Labor Day holiday shortens the week's calendar.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "What to Look Out for in Economic Data This Week (September 7-11)"
+    },
+    "readingTime": 5
   },
   {
     "id": "asian-financial-markets",
@@ -882,48 +1302,6 @@
     "readingTime": 3
   },
   {
-    "id": "economic-calendar",
-    "type": "news",
-    "title": "Economic Calendar",
-    "slug": "economic-calendar",
-    "date": "2026-09-04",
-    "displayDate": "September 4, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "An economic calendar lists upcoming and current economic events affecting markets, including data releases and policy announcements. It helps traders prepare fo",
-    "excerpt": "An economic calendar lists upcoming and current economic events affecting markets, including data releases and policy announcements. It helps traders prepare for market impacts. MarketWatch's U.S. Economic Calendar shows specific U.S. economic reports and their forecasts.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Economic Calendar"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "economic-news-releases-u-s-bureau-of-labor-statistics",
-    "type": "news",
-    "title": "Economic News Releases :  U.S. Bureau of Labor Statistics",
-    "slug": "economic-news-releases-u-s-bureau-of-labor-statistics",
-    "date": "2026-09-04",
-    "displayDate": "September 4, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The U.S. Bureau of Labor Statistics releases economic news on major indicators like CPI, employment, and productivity. Current data is available on their offici",
-    "excerpt": "The U.S. Bureau of Labor Statistics releases economic news on major indicators like CPI, employment, and productivity. Current data is available on their official website. Archived releases can be accessed for historical context.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Economic News Releases :  U.S. Bureau of Labor Statistics"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "economic-sector-performance-dashboards-yahoo-finance",
     "type": "news",
     "title": "Economic Sector Performance Dashboards - Yahoo Finance",
@@ -1004,69 +1382,6 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "Federal Reserve Holds Rates at 3.50%-3.75% in July 2026"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "global-indices-tracking-the-world-s-markets",
-    "type": "news",
-    "title": "Global Indices - Tracking the World's Markets",
-    "slug": "global-indices-tracking-the-world-s-markets",
-    "date": "2026-09-04",
-    "displayDate": "September 4, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Global indices track major stock market performance worldwide, including the S&P 500, Dow Jones, FTSE 100, DAX, and Nikkei 225. They reflect overall market heal",
-    "excerpt": "Global indices track major stock market performance worldwide, including the S&P 500, Dow Jones, FTSE 100, DAX, and Nikkei 225. They reflect overall market health and investor sentiment. As of 2026-09-04, key indices showed mixed performance.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Global Indices - Tracking the World's Markets"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "global-market-headlines-breaking-stock-market-news",
-    "type": "news",
-    "title": "Global Market Headlines | Breaking Stock Market News",
-    "slug": "global-market-headlines-breaking-stock-market-news",
-    "date": "2026-09-04",
-    "displayDate": "September 4, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The U.S. stock market fell sharply, oil prices surged, and global bond yields hit multi-decade highs amid Middle East tensions. Big Tech stocks have underperfor",
-    "excerpt": "The U.S. stock market fell sharply, oil prices surged, and global bond yields hit multi-decade highs amid Middle East tensions. Big Tech stocks have underperformed the broader market this year. Record corporate profits drove a strong second-quarter earnings season.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Global Market Headlines | Breaking Stock Market News"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "global-market-indices-international-markets-markets-insider",
-    "type": "news",
-    "title": "Global Market Indices | International Markets - Markets Insider",
-    "slug": "global-market-indices-international-markets-markets-insider",
-    "date": "2026-09-04",
-    "displayDate": "September 4, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The NIKKEI 225 and HANG SENG indices are both trading lower, with the NIKKEI down 0.17% and the HANG SENG down 0.07%. The S&P 500 is up 0.43%.",
-    "excerpt": "The NIKKEI 225 and HANG SENG indices are both trading lower, with the NIKKEI down 0.17% and the HANG SENG down 0.07%. The S&P 500 is up 0.43%.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Global Market Indices | International Markets - Markets Insider"
     },
     "readingTime": 3
   },
@@ -1153,48 +1468,6 @@
       "alt": "Inflation - Economic Data Series | FRED | St. Louis Fed"
     },
     "readingTime": 4
-  },
-  {
-    "id": "investment-strategies-for-today-and-long-term-blackrock",
-    "type": "news",
-    "title": "Investment strategies for today and long-term | BlackRock",
-    "slug": "investment-strategies-for-today-and-long-term-blackrock",
-    "date": "2026-09-04",
-    "displayDate": "September 4, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "BlackRock offers income-focused portfolios and multi-asset strategies for both short-term and long-term investment goals. They emphasize sustainable retirement ",
-    "excerpt": "BlackRock offers income-focused portfolios and multi-asset strategies for both short-term and long-term investment goals. They emphasize sustainable retirement income and systematic investing. Current market commentary suggests tactical underweight for long-term bonds and overweight for short-term I",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Investment strategies for today and long-term | BlackRock"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "latest-technology-news-and-reviews",
-    "type": "news",
-    "title": "Latest Technology News and Reviews",
-    "slug": "latest-technology-news-and-reviews",
-    "date": "2026-09-04",
-    "displayDate": "September 4, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Latest tech news includes Google's Pixel 11 review and concerns over AI's impact on social media. Also, new developments in 360 cameras and long-battery life la",
-    "excerpt": "Latest tech news includes Google's Pixel 11 review and concerns over AI's impact on social media. Also, new developments in 360 cameras and long-battery life laptops.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Latest Technology News and Reviews"
-    },
-    "readingTime": 3
   },
   {
     "id": "s-p-500-index-sp500-analysis-news-and-chart-today-seeking-alpha",
@@ -1323,27 +1596,6 @@
     "readingTime": 3
   },
   {
-    "id": "technology-news",
-    "type": "news",
-    "title": "Technology News",
-    "slug": "technology-news",
-    "date": "2026-09-04",
-    "displayDate": "September 4, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "AI faces more lawsuits, Adobe acquires Indian startup, and TikTok enhances interactivity.",
-    "excerpt": "AI faces more lawsuits, Adobe acquires Indian startup, and TikTok enhances interactivity.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Technology News"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "technology",
     "type": "news",
     "title": "Technology",
@@ -1403,27 +1655,6 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "This Week's Best Performing Stocks, Sectors, Industries Rankings - CSIMarket"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "top-investment-strategies-key-approaches-to-maximize-returns",
-    "type": "news",
-    "title": "Top Investment Strategies: Key Approaches to Maximize Returns",
-    "slug": "top-investment-strategies-key-approaches-to-maximize-returns",
-    "date": "2026-09-04",
-    "displayDate": "September 4, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Top investment strategies include diversification, dollar-cost averaging, and active vs. passive investing. These approaches aim to maximize returns while manag",
-    "excerpt": "Top investment strategies include diversification, dollar-cost averaging, and active vs. passive investing. These approaches aim to maximize returns while managing risk. Consult financial professionals for tailored advice.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Top Investment Strategies: Key Approaches to Maximize Returns"
     },
     "readingTime": 3
   },
@@ -1510,48 +1741,6 @@
       "alt": "US Inflation Rate (Monthly) - United States - Historical Data & Trends"
     },
     "readingTime": 3
-  },
-  {
-    "id": "us-markets-company-earnings-stock-market-trends",
-    "type": "news",
-    "title": "US Markets, Company Earnings, Stock Market Trends ...",
-    "slug": "us-markets-company-earnings-stock-market-trends",
-    "date": "2026-09-04",
-    "displayDate": "September 4, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "US markets show mixed performance; tech stocks like Tesla and Microsoft rise; earnings reports highlight strong AI sector growth.",
-    "excerpt": "US markets show mixed performance; tech stocks like Tesla and Microsoft rise; earnings reports highlight strong AI sector growth.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "US Markets, Company Earnings, Stock Market Trends ..."
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "weekly-trader-s-stock-market-outlook",
-    "type": "news",
-    "title": "Weekly Trader's Stock Market Outlook",
-    "slug": "weekly-trader-s-stock-market-outlook",
-    "date": "2026-09-04",
-    "displayDate": "September 4, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The S&P 500 and Russell 2000 reached new highs, driven by strong earnings and low volatility. Inflation remained stable, with CPI at 3.4% annually. Market volat",
-    "excerpt": "The S&P 500 and Russell 2000 reached new highs, driven by strong earnings and low volatility. Inflation remained stable, with CPI at 3.4% annually. Market volatility is low, and economic growth is expected to remain solid.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Weekly Trader's Stock Market Outlook"
-    },
-    "readingTime": 4
   },
   {
     "id": "when-is-the-next-fed-interest-rate-decision-equals-money",
@@ -1720,27 +1909,6 @@
       "alt": "How Should I Allocate My Portfolio in 2026?"
     },
     "readingTime": 4
-  },
-  {
-    "id": "how-to-invest-in-today-s-market-u-s-bank",
-    "type": "news",
-    "title": "How to Invest in Today’s Market | U.S. Bank",
-    "slug": "how-to-invest-in-today-s-market-u-s-bank",
-    "date": "2026-09-03",
-    "displayDate": "September 3, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "To invest in today's market, consider starting with a self-directed account with no minimum balance. Collaborate with an advisor for personalized guidance if ne",
-    "excerpt": "To invest in today's market, consider starting with a self-directed account with no minimum balance. Collaborate with an advisor for personalized guidance if needed. Act now to capitalize on market opportunities.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "How to Invest in Today’s Market | U.S. Bank"
-    },
-    "readingTime": 3
   },
   {
     "id": "investment-outlook-and-portfolio-strategies-for-2026",
@@ -2056,27 +2224,6 @@
       "alt": "Global Markets Data | Breaking Stock Market News"
     },
     "readingTime": 4
-  },
-  {
-    "id": "healthcare-stock-performance",
-    "type": "news",
-    "title": "Healthcare Stock Performance",
-    "slug": "healthcare-stock-performance",
-    "date": "2026-09-02",
-    "displayDate": "September 2, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Healthcare stocks like Eli Lilly, Johnson & Johnson, and Merck have strong market weights and positive YTD returns. The best-performing healthcare stock in 2026",
-    "excerpt": "Healthcare stocks like Eli Lilly, Johnson & Johnson, and Merck have strong market weights and positive YTD returns. The best-performing healthcare stock in 2026 is Moderna Inc with a 453.51% increase. Health services sector stocks like Molina Healthcare and Tenet Healthcare have mixed performance.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Healthcare Stock Performance"
-    },
-    "readingTime": 5
   },
   {
     "id": "interactive-world-macromap-ft-com-markets-data",
@@ -2539,27 +2686,6 @@
       "alt": "Economic indicators: Key statistics for the UK economy"
     },
     "readingTime": 4
-  },
-  {
-    "id": "geekwire-breaking-news-in-technology-business",
-    "type": "news",
-    "title": "GeekWire – Breaking News in Technology & Business",
-    "slug": "geekwire-breaking-news-in-technology-business",
-    "date": "2026-09-01",
-    "displayDate": "September 1, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "GeekWire covers technology and business news, focusing on Amazon, Microsoft, and Pacific Northwest startups. It provides breaking news and analysis. The site al",
-    "excerpt": "GeekWire covers technology and business news, focusing on Amazon, Microsoft, and Pacific Northwest startups. It provides breaking news and analysis. The site also features startup spotlights and industry trends.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "GeekWire – Breaking News in Technology & Business"
-    },
-    "readingTime": 3
   },
   {
     "id": "how-to-start-investing-a-beginner-s-guide",
@@ -4427,27 +4553,6 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "Inflation, consumer prices for the United States (FPCPITOTLZGUSA) | FRED | St. Louis Fed"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "marketwatch-stock-market-news-financial-news-marketwatch",
-    "type": "news",
-    "title": "MarketWatch: Stock Market News - Financial News - MarketWatch",
-    "slug": "marketwatch-stock-market-news-financial-news-marketwatch",
-    "date": "2026-08-06",
-    "displayDate": "August 6, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Block cut 40% of its workforce for AI, showing positive earnings. Figma's stock drops due to high AI investment costs. Dow hits third consecutive record close.",
-    "excerpt": "Block cut 40% of its workforce for AI, showing positive earnings. Figma's stock drops due to high AI investment costs. Dow hits third consecutive record close.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "MarketWatch: Stock Market News - Financial News - MarketWatch"
     },
     "readingTime": 3
   },
