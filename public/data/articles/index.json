@@ -1,5 +1,26 @@
 [
   {
+    "id": "2026-investment-outlook-themes-for-portfolio-strategies",
+    "type": "news",
+    "title": "2026 Investment Outlook: Themes for Portfolio Strategies",
+    "slug": "2026-investment-outlook-themes-for-portfolio-strategies",
+    "date": "2026-09-06",
+    "displayDate": "September 6, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "For 2026, focus on small caps, emerging markets, and AI-driven diversification; consider dividend-growing stocks and biotech for potential growth.",
+    "excerpt": "For 2026, focus on small caps, emerging markets, and AI-driven diversification; consider dividend-growing stocks and biotech for potential growth.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "2026 Investment Outlook: Themes for Portfolio Strategies"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "american-stock-market-today-s-p-500-trends-and-signals-2024",
     "type": "news",
     "title": "American stock market today: S&P 500 trends and signals 2024",
@@ -231,6 +252,48 @@
     "readingTime": 3
   },
   {
+    "id": "cryptocurrency-news-today-bitcoin-consolidates-ethereum-continues-run-newsweek",
+    "type": "news",
+    "title": "Cryptocurrency News Today: Bitcoin Consolidates, Ethereum Continues Run - Newsweek",
+    "slug": "cryptocurrency-news-today-bitcoin-consolidates-ethereum-continues-run-newsweek",
+    "date": "2026-09-06",
+    "displayDate": "September 6, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin is consolidating, while Ethereum continues its upward trend. Bitcoin's price remains bullish. Ethereum's support levels are crucial for its future direc",
+    "excerpt": "Bitcoin is consolidating, while Ethereum continues its upward trend. Bitcoin's price remains bullish. Ethereum's support levels are crucial for its future direction.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Cryptocurrency News Today: Bitcoin Consolidates, Ethereum Continues Run - Newsweek"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "cryptocurrency-price-prediction-today-23-january-xrp-bitcoin-ethereum-weex-crypt",
+    "type": "news",
+    "title": "Cryptocurrency Price Prediction Today 23 January – XRP, Bitcoin, Ethereum | WEEX Crypto News",
+    "slug": "cryptocurrency-price-prediction-today-23-january-xrp-bitcoin-ethereum-weex-crypt",
+    "date": "2026-09-06",
+    "displayDate": "September 6, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin, Ethereum, and XRP prices fluctuate; XRP near $1.45, Bitcoin around $77,000, Ethereum variable. Current trends show XRP bullish, Bitcoin volatile.",
+    "excerpt": "Bitcoin, Ethereum, and XRP prices fluctuate; XRP near $1.45, Bitcoin around $77,000, Ethereum variable. Current trends show XRP bullish, Bitcoin volatile.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Cryptocurrency Price Prediction Today 23 January – XRP, Bitcoin, Ethereum | WEEX Crypto News"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "earnings-calendar-and-analysis-for-this-week-september-7-11",
     "type": "news",
     "title": "Earnings Calendar and Analysis for This Week (September 7-11)",
@@ -273,6 +336,27 @@
     "readingTime": 4
   },
   {
+    "id": "earnings-calendar",
+    "type": "news",
+    "title": "Earnings Calendar",
+    "slug": "earnings-calendar",
+    "date": "2026-09-06",
+    "displayDate": "September 6, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "An earnings calendar lists when companies report their financial results. It helps investors plan trades and monitor market trends. It includes dates, company n",
+    "excerpt": "An earnings calendar lists when companies report their financial results. It helps investors plan trades and monitor market trends. It includes dates, company names, and financial metrics.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Earnings Calendar"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "earnings-cnbc",
     "type": "news",
     "title": "Earnings - CNBC",
@@ -290,6 +374,69 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "Earnings - CNBC"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "economic-calendar",
+    "type": "news",
+    "title": "Economic Calendar",
+    "slug": "economic-calendar",
+    "date": "2026-09-06",
+    "displayDate": "September 6, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "An economic calendar lists upcoming financial events that can impact markets, including interest rates and GDP releases. It helps traders prepare for market-mov",
+    "excerpt": "An economic calendar lists upcoming financial events that can impact markets, including interest rates and GDP releases. It helps traders prepare for market-moving events. As of today, key events include inflation rates and GDP figures.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Economic Calendar"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "economic-news-releases",
+    "type": "news",
+    "title": "Economic News Releases",
+    "slug": "economic-news-releases",
+    "date": "2026-09-06",
+    "displayDate": "September 6, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The latest economic news releases include Consumer Price Index, Employment Cost Index, and GDP data. Upcoming releases include Personal Income and Outlays on Se",
+    "excerpt": "The latest economic news releases include Consumer Price Index, Employment Cost Index, and GDP data. Upcoming releases include Personal Income and Outlays on September 29, 2026. Check official government websites for the most current information.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Economic News Releases"
+    },
+    "readingTime": 5
+  },
+  {
+    "id": "economic-sector-performance-dashboards-yahoo-finance",
+    "type": "news",
+    "title": "Economic Sector Performance Dashboards - Yahoo Finance",
+    "slug": "economic-sector-performance-dashboards-yahoo-finance",
+    "date": "2026-09-06",
+    "displayDate": "September 6, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Yahoo Finance's economic sector performance dashboards show technology and financial services sectors as most active, with notable gains in Bitcoin and Meta Pla",
+    "excerpt": "Yahoo Finance's economic sector performance dashboards show technology and financial services sectors as most active, with notable gains in Bitcoin and Meta Platforms. Sectors are ranked by market weight and year-to-date returns. Current bond yields are rising.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Economic Sector Performance Dashboards - Yahoo Finance"
     },
     "readingTime": 3
   },
@@ -315,6 +462,48 @@
     "readingTime": 4
   },
   {
+    "id": "ethereum-news-today-cryptocurrency-market-sees-mixed-performance-bitcoin-drops-0",
+    "type": "news",
+    "title": "Ethereum News Today: Cryptocurrency Market Sees Mixed Performance Bitcoin Drops 0.21% Ethereum Gains 1.58%",
+    "slug": "ethereum-news-today-cryptocurrency-market-sees-mixed-performance-bitcoin-drops-0",
+    "date": "2026-09-06",
+    "displayDate": "September 6, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Ethereum gained 1.57% today, while Bitcoin dropped 0.21%. Ethereum's price is $2,496.51 as of September 6, 2026.",
+    "excerpt": "Ethereum gained 1.57% today, while Bitcoin dropped 0.21%. Ethereum's price is $2,496.51 as of September 6, 2026.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Ethereum News Today: Cryptocurrency Market Sees Mixed Performance Bitcoin Drops 0.21% Ethereum Gains 1.58%"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "federal-reserve-board-monetary-policy",
+    "type": "news",
+    "title": "Federal Reserve Board - Monetary Policy",
+    "slug": "federal-reserve-board-monetary-policy",
+    "date": "2026-09-06",
+    "displayDate": "September 6, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Reserve's monetary policy aims for maximum employment and stable prices, primarily using the federal funds rate and tools like interest on reserves.",
+    "excerpt": "The Federal Reserve's monetary policy aims for maximum employment and stable prices, primarily using the federal funds rate and tools like interest on reserves. The Federal Open Market Committee sets this policy. The Fed reviews its strategy periodically.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Federal Reserve Board - Monetary Policy"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "federal-reserve-holds-rates-at-3-50-3-75-in-july-2026",
     "type": "news",
     "title": "Federal Reserve Holds Rates at 3.50%-3.75% in July 2026",
@@ -332,6 +521,69 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "Federal Reserve Holds Rates at 3.50%-3.75% in July 2026"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "global-indices-tracking-the-world-s-markets-groww",
+    "type": "news",
+    "title": "Global Indices - Tracking the World's Markets - Groww",
+    "slug": "global-indices-tracking-the-world-s-markets-groww",
+    "date": "2026-09-06",
+    "displayDate": "September 6, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Global indices track the performance of major stock markets worldwide, including the S&P 500, Nikkei, and DAX. They also monitor bonds, commodities, and currenc",
+    "excerpt": "Global indices track the performance of major stock markets worldwide, including the S&P 500, Nikkei, and DAX. They also monitor bonds, commodities, and currencies. These indices help investors gauge global economic trends.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Global Indices - Tracking the World's Markets - Groww"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "global-market-indices-international-markets-markets-insider",
+    "type": "news",
+    "title": "Global Market Indices | International Markets - Markets Insider",
+    "slug": "global-market-indices-international-markets-markets-insider",
+    "date": "2026-09-06",
+    "displayDate": "September 6, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The NIKKEI 225 index closed at 65,020.94, up 1.26%, and the S&P 500 closed at 7,738.81, down 0.38%.",
+    "excerpt": "The NIKKEI 225 index closed at 65,020.94, up 1.26%, and the S&P 500 closed at 7,738.81, down 0.38%.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Global Market Indices | International Markets - Markets Insider"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "global-stock-market-news-and-world-indices-coverage-cnbc",
+    "type": "news",
+    "title": "Global Stock Market News and World Indices Coverage - CNBC",
+    "slug": "global-stock-market-news-and-world-indices-coverage-cnbc",
+    "date": "2026-09-06",
+    "displayDate": "September 6, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Global stock markets and indices show mixed trends; European markets advanced while Asia markets fluctuated due to geopolitical tensions. U.S. markets experienc",
+    "excerpt": "Global stock markets and indices show mixed trends; European markets advanced while Asia markets fluctuated due to geopolitical tensions. U.S. markets experienced volatility with tech stocks rebounding. Current data reflects ongoing economic shifts and international relations impacts.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Global Stock Market News and World Indices Coverage - CNBC"
     },
     "readingTime": 4
   },
@@ -355,6 +607,69 @@
       "alt": "Health Technology Sector: Companies, Performance and Stocks — USA — TradingView"
     },
     "readingTime": 4
+  },
+  {
+    "id": "how-should-i-allocate-my-portfolio-in-2026",
+    "type": "news",
+    "title": "How Should I Allocate My Portfolio in 2026?",
+    "slug": "how-should-i-allocate-my-portfolio-in-2026",
+    "date": "2026-09-06",
+    "displayDate": "September 6, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Allocate your portfolio based on your risk tolerance, time horizon, and income stability. Focus on stocks for growth, bonds for stability, and cash for liquidit",
+    "excerpt": "Allocate your portfolio based on your risk tolerance, time horizon, and income stability. Focus on stocks for growth, bonds for stability, and cash for liquidity. Review your allocation annually or after major life changes.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "How Should I Allocate My Portfolio in 2026?"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "how-the-fomc-conducts-monetary-policy-st-louis-fed",
+    "type": "news",
+    "title": "How the FOMC Conducts Monetary Policy | St. Louis Fed",
+    "slug": "how-the-fomc-conducts-monetary-policy-st-louis-fed",
+    "date": "2026-09-06",
+    "displayDate": "September 6, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The FOMC conducts monetary policy by adjusting the federal funds rate, and the Fed implements it using tools to influence market interest rates.",
+    "excerpt": "The FOMC conducts monetary policy by adjusting the federal funds rate, and the Fed implements it using tools to influence market interest rates.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "How the FOMC Conducts Monetary Policy | St. Louis Fed"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "investment-strategy-2026-portfolio-moves-for-a-changing-market",
+    "type": "news",
+    "title": "Investment Strategy 2026 Portfolio Moves for a Changing Market",
+    "slug": "investment-strategy-2026-portfolio-moves-for-a-changing-market",
+    "date": "2026-09-06",
+    "displayDate": "September 6, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "For 2026, focus on diversifying globally, increasing exposure to small caps, and considering alternative investments. Prioritize income generation and adapt to ",
+    "excerpt": "For 2026, focus on diversifying globally, increasing exposure to small caps, and considering alternative investments. Prioritize income generation and adapt to an AI-driven market. Stay flexible to shifting sector leadership.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Investment Strategy 2026 Portfolio Moves for a Changing Market"
+    },
+    "readingTime": 3
   },
   {
     "id": "latest-technology-news-and-reviews",
@@ -462,6 +777,48 @@
     "readingTime": 3
   },
   {
+    "id": "sectors-stock-market-usa-tradingview",
+    "type": "news",
+    "title": "Sectors — Stock Market — USA — TradingView",
+    "slug": "sectors-stock-market-usa-tradingview",
+    "date": "2026-09-06",
+    "displayDate": "September 6, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The US stock market sectors include Electronic Technology, Finance, Health Technology, Retail Trade, and Consumer Non-Durables. Each sector has a market capital",
+    "excerpt": "The US stock market sectors include Electronic Technology, Finance, Health Technology, Retail Trade, and Consumer Non-Durables. Each sector has a market capitalization and percentage change. The most recent data is from September 2026.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Sectors — Stock Market — USA — TradingView"
+    },
+    "readingTime": 5
+  },
+  {
+    "id": "stock-market-outlook-midyear-2026",
+    "type": "news",
+    "title": "Stock market outlook midyear 2026",
+    "slug": "stock-market-outlook-midyear-2026",
+    "date": "2026-09-06",
+    "displayDate": "September 6, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The 2026 midyear stock market outlook suggests strong earnings growth and resilient economies, with potential shifts in market leadership and increased sector d",
+    "excerpt": "The 2026 midyear stock market outlook suggests strong earnings growth and resilient economies, with potential shifts in market leadership and increased sector dispersion. The U.S. is expected to outperform, while geopolitical improvements may boost equity markets. Active investing and selective stoc",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Stock market outlook midyear 2026"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "techcrunch-startup-and-technology-news",
     "type": "news",
     "title": "TechCrunch | Startup and Technology News",
@@ -504,6 +861,48 @@
     "readingTime": 3
   },
   {
+    "id": "the-fed-federal-open-market-committee",
+    "type": "news",
+    "title": "The Fed - Federal Open Market Committee",
+    "slug": "the-fed-federal-open-market-committee",
+    "date": "2026-09-06",
+    "displayDate": "September 6, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Open Market Committee (FOMC) is the main body of the Federal Reserve System for setting U.S. monetary policy. It consists of twelve members and meet",
+    "excerpt": "The Federal Open Market Committee (FOMC) is the main body of the Federal Reserve System for setting U.S. monetary policy. It consists of twelve members and meets eight times a year to decide on interest rates and money supply. The FOMC oversees open market operations.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "The Fed - Federal Open Market Committee"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "this-week-s-best-performing-stocks-sectors-industries-rankings-csimarket",
+    "type": "news",
+    "title": "This Week's Best Performing Stocks, Sectors, Industries Rankings - CSIMarket",
+    "slug": "this-week-s-best-performing-stocks-sectors-industries-rankings-csimarket",
+    "date": "2026-09-06",
+    "displayDate": "September 6, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "This week's best performing sectors are Capital Goods and Transportation, with Technology and Utilities also performing well. The worst performing sectors inclu",
+    "excerpt": "This week's best performing sectors are Capital Goods and Transportation, with Technology and Utilities also performing well. The worst performing sectors include IT Infrastructure and Oil Well Services & Equipment.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "This Week's Best Performing Stocks, Sectors, Industries Rankings - CSIMarket"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "u-s-bureau-of-economic-analysis-bea",
     "type": "news",
     "title": "U.S. Bureau of Economic Analysis (BEA)",
@@ -523,6 +922,27 @@
       "alt": "U.S. Bureau of Economic Analysis (BEA)"
     },
     "readingTime": 3
+  },
+  {
+    "id": "u-s-economic-calendar-marketwatch",
+    "type": "news",
+    "title": "U.S. Economic Calendar - MarketWatch",
+    "slug": "u-s-economic-calendar-marketwatch",
+    "date": "2026-09-06",
+    "displayDate": "September 6, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "On September 3, 2026, the U.S. Trade Balance and Weekly Jobless Claims are scheduled for release. Federal Reserve Governor Christopher Waller will speak on Sept",
+    "excerpt": "On September 3, 2026, the U.S. Trade Balance and Weekly Jobless Claims are scheduled for release. Federal Reserve Governor Christopher Waller will speak on September 3. No events are scheduled for September 7.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "U.S. Economic Calendar - MarketWatch"
+    },
+    "readingTime": 5
   },
   {
     "id": "united-states-economic-indicators-moody-s-analytics",
@@ -609,6 +1029,48 @@
     "readingTime": 5
   },
   {
+    "id": "us-markets-company-earnings-stock-market-trends",
+    "type": "news",
+    "title": "US Markets, Company Earnings, Stock Market Trends ...",
+    "slug": "us-markets-company-earnings-stock-market-trends",
+    "date": "2026-09-06",
+    "displayDate": "September 6, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "US markets show value ETFs investing in tech, Nvidia's earnings boosted its value, and tech and small value sectors are leading this year. Key stocks like Apple",
+    "excerpt": "US markets show value ETFs investing in tech, Nvidia's earnings boosted its value, and tech and small value sectors are leading this year. Key stocks like Apple, Tesla, and Microsoft have mixed performance changes. Earnings reports highlight strong performances from companies like Nvidia and Palo Al",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "US Markets, Company Earnings, Stock Market Trends ..."
+    },
+    "readingTime": 5
+  },
+  {
+    "id": "weekly-trader-s-stock-market-outlook",
+    "type": "news",
+    "title": "Weekly Trader's Stock Market Outlook",
+    "slug": "weekly-trader-s-stock-market-outlook",
+    "date": "2026-09-06",
+    "displayDate": "September 6, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Stocks are little changed for the week, with market breadth contracting, and rising oil prices and higher bond yields affecting market sentiment. The outlook re",
+    "excerpt": "Stocks are little changed for the week, with market breadth contracting, and rising oil prices and higher bond yields affecting market sentiment. The outlook remains cautious due to Middle East uncertainty and upcoming economic reports.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Weekly Trader's Stock Market Outlook"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "when-is-the-next-fed-interest-rate-decision",
     "type": "news",
     "title": "When is the next Fed interest rate decision?",
@@ -668,27 +1130,6 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "12-month percentage change, Consumer Price Index, selected ..."
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "2026-investment-outlook-themes-for-portfolio-strategies",
-    "type": "news",
-    "title": "2026 Investment Outlook: Themes for Portfolio Strategies",
-    "slug": "2026-investment-outlook-themes-for-portfolio-strategies",
-    "date": "2026-09-05",
-    "displayDate": "September 5, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "For 2026, focus on small caps, emerging markets, and global equity diversification. Consider fixed income and alternative investments for stability. Prioritize ",
-    "excerpt": "For 2026, focus on small caps, emerging markets, and global equity diversification. Consider fixed income and alternative investments for stability. Prioritize dividend-growing companies for reliable income.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "2026 Investment Outlook: Themes for Portfolio Strategies"
     },
     "readingTime": 3
   },
@@ -924,27 +1365,6 @@
     "readingTime": 3
   },
   {
-    "id": "cryptocurrency-news-today-bitcoin-consolidates-ethereum-continues-run-newsweek",
-    "type": "news",
-    "title": "Cryptocurrency News Today: Bitcoin Consolidates, Ethereum Continues Run - Newsweek",
-    "slug": "cryptocurrency-news-today-bitcoin-consolidates-ethereum-continues-run-newsweek",
-    "date": "2026-09-05",
-    "displayDate": "September 5, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Bitcoin is consolidating, while Ethereum continues its upward trend. Ethereum has surpassed $2,300, outperforming Bitcoin. The market sentiment remains bullish.",
-    "excerpt": "Bitcoin is consolidating, while Ethereum continues its upward trend. Ethereum has surpassed $2,300, outperforming Bitcoin. The market sentiment remains bullish.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Cryptocurrency News Today: Bitcoin Consolidates, Ethereum Continues Run - Newsweek"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "cryptocurrency-news-today-bitcoin-ethereum-maintaining-bullish-run-newsweek",
     "type": "news",
     "title": "Cryptocurrency News Today: Bitcoin, Ethereum Maintaining Bullish Run - Newsweek",
@@ -1050,27 +1470,6 @@
     "readingTime": 3
   },
   {
-    "id": "earnings-calendar",
-    "type": "news",
-    "title": "Earnings Calendar",
-    "slug": "earnings-calendar",
-    "date": "2026-09-05",
-    "displayDate": "September 5, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "An earnings calendar lists upcoming earnings reports from companies, helping traders analyze financial performance. It includes dates, company names, and financ",
-    "excerpt": "An earnings calendar lists upcoming earnings reports from companies, helping traders analyze financial performance. It includes dates, company names, and financial metrics. Use it to plan investment strategies based on earnings data.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Earnings Calendar"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "earnings",
     "type": "news",
     "title": "Earnings",
@@ -1092,27 +1491,6 @@
     "readingTime": 3
   },
   {
-    "id": "economic-calendar",
-    "type": "news",
-    "title": "Economic Calendar",
-    "slug": "economic-calendar",
-    "date": "2026-09-05",
-    "displayDate": "September 5, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "An economic calendar lists upcoming economic events and data releases that can impact financial markets, including stocks, Forex, and bonds. It helps traders pr",
-    "excerpt": "An economic calendar lists upcoming economic events and data releases that can impact financial markets, including stocks, Forex, and bonds. It helps traders prepare for market-moving events. The most recent data is available on platforms like TradingView and MarketWatch.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Economic Calendar"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "economic-news-releases-u-s-bureau-of-labor-statistics",
     "type": "news",
     "title": "Economic News Releases :  U.S. Bureau of Labor Statistics",
@@ -1130,48 +1508,6 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "Economic News Releases :  U.S. Bureau of Labor Statistics"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "economic-sector-performance-dashboards-yahoo-finance",
-    "type": "news",
-    "title": "Economic Sector Performance Dashboards - Yahoo Finance",
-    "slug": "economic-sector-performance-dashboards-yahoo-finance",
-    "date": "2026-09-05",
-    "displayDate": "September 5, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Yahoo Finance's economic sector performance dashboards show technology and financial services sectors as most active, with notable gains in Bitcoin and Meta Pla",
-    "excerpt": "Yahoo Finance's economic sector performance dashboards show technology and financial services sectors as most active, with notable gains in Bitcoin and Meta Platforms. Sectors are ranked by market weight and year-to-date returns. Current bond yields are rising.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Economic Sector Performance Dashboards - Yahoo Finance"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "federal-reserve-board-monetary-policy",
-    "type": "news",
-    "title": "Federal Reserve Board - Monetary Policy",
-    "slug": "federal-reserve-board-monetary-policy",
-    "date": "2026-09-05",
-    "displayDate": "September 5, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Reserve conducts monetary policy to promote maximum employment, stable prices, and moderate long-term interest rates. Decisions are made by the Fede",
-    "excerpt": "The Federal Reserve conducts monetary policy to promote maximum employment, stable prices, and moderate long-term interest rates. Decisions are made by the Federal Open Market Committee. The Fed's dual mandate is enshrined in the Federal Reserve Act.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Federal Reserve Board - Monetary Policy"
     },
     "readingTime": 3
   },
@@ -1239,27 +1575,6 @@
     "readingTime": 4
   },
   {
-    "id": "global-market-indices-international-markets-markets-insider",
-    "type": "news",
-    "title": "Global Market Indices | International Markets - Markets Insider",
-    "slug": "global-market-indices-international-markets-markets-insider",
-    "date": "2026-09-05",
-    "displayDate": "September 5, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The S&P 500 is down 0.38%, while the Nikkei 225 is up 1.26%. The FTSE 100 is unchanged.",
-    "excerpt": "The S&P 500 is down 0.38%, while the Nikkei 225 is up 1.26%. The FTSE 100 is unchanged.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Global Market Indices | International Markets - Markets Insider"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "healthcare-stock-performance-yahoo-finance",
     "type": "news",
     "title": "Healthcare Stock Performance - Yahoo Finance",
@@ -1319,27 +1634,6 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "Healthcare Stocks in 2026 | U.S. Bank"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "how-the-fomc-conducts-monetary-policy-st-louis-fed",
-    "type": "news",
-    "title": "How the FOMC Conducts Monetary Policy | St. Louis Fed",
-    "slug": "how-the-fomc-conducts-monetary-policy-st-louis-fed",
-    "date": "2026-09-05",
-    "displayDate": "September 5, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Open Market Committee (FOMC) adjusts the federal funds rate to conduct monetary policy. The Fed implements this policy using tools to influence mark",
-    "excerpt": "The Federal Open Market Committee (FOMC) adjusts the federal funds rate to conduct monetary policy. The Fed implements this policy using tools to influence market interest rates. This helps steer the economy toward the Fed's goals.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "How the FOMC Conducts Monetary Policy | St. Louis Fed"
     },
     "readingTime": 3
   },
@@ -1405,27 +1699,6 @@
       "alt": "Investment strategies for uncertain times - Victory Capital"
     },
     "readingTime": 5
-  },
-  {
-    "id": "investment-strategy-2026-portfolio-moves-for-a-changing-market",
-    "type": "news",
-    "title": "Investment Strategy 2026 Portfolio Moves for a Changing Market",
-    "slug": "investment-strategy-2026-portfolio-moves-for-a-changing-market",
-    "date": "2026-09-05",
-    "displayDate": "September 5, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "For 2026, focus on diversifying globally, prioritize income generation, and consider cash-flow-generative assets for stability.",
-    "excerpt": "For 2026, focus on diversifying globally, prioritize income generation, and consider cash-flow-generative assets for stability.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Investment Strategy 2026 Portfolio Moves for a Changing Market"
-    },
-    "readingTime": 3
   },
   {
     "id": "marketwatch-stock-market-news-financial-news-marketwatch",
@@ -1512,27 +1785,6 @@
     "readingTime": 3
   },
   {
-    "id": "sectors-stock-market-usa-tradingview",
-    "type": "news",
-    "title": "Sectors — Stock Market — USA — TradingView",
-    "slug": "sectors-stock-market-usa-tradingview",
-    "date": "2026-09-05",
-    "displayDate": "September 5, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The USA stock market sectors include Electronic Technology, Finance, Health Technology, Retail Trade, and Consumer Non-Durables. Each sector has a market capita",
-    "excerpt": "The USA stock market sectors include Electronic Technology, Finance, Health Technology, Retail Trade, and Consumer Non-Durables. Each sector has a market capitalization and industry-specific performance metrics. The most significant sectors by market cap are Finance and Technology Services.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Sectors — Stock Market — USA — TradingView"
-    },
-    "readingTime": 5
-  },
-  {
     "id": "stocks-up-early-as-yields-retreat-helped-by-yen",
     "type": "news",
     "title": "Stocks Up Early as Yields Retreat, Helped by Yen",
@@ -1550,48 +1802,6 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "Stocks Up Early as Yields Retreat, Helped by Yen"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "the-fed-federal-open-market-committee",
-    "type": "news",
-    "title": "The Fed - Federal Open Market Committee",
-    "slug": "the-fed-federal-open-market-committee",
-    "date": "2026-09-05",
-    "displayDate": "September 5, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Open Market Committee (FOMC) is the main body of the Federal Reserve System that sets U.S. monetary policy. It consists of twelve members and meets ",
-    "excerpt": "The Federal Open Market Committee (FOMC) is the main body of the Federal Reserve System that sets U.S. monetary policy. It consists of twelve members and meets eight times a year. The FOMC determines interest rates and money supply growth.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "The Fed - Federal Open Market Committee"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "this-week-s-best-performing-stocks-sectors-industries-rankings-csimarket",
-    "type": "news",
-    "title": "This Week's Best Performing Stocks, Sectors, Industries Rankings - CSIMarket",
-    "slug": "this-week-s-best-performing-stocks-sectors-industries-rankings-csimarket",
-    "date": "2026-09-05",
-    "displayDate": "September 5, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "This week's best performing sectors are Consumer Discretionary, Financial, and Technology. Coal Mining and Oil Well Services & Equipment are the worst performin",
-    "excerpt": "This week's best performing sectors are Consumer Discretionary, Financial, and Technology. Coal Mining and Oil Well Services & Equipment are the worst performing. The data reflects the latest market trends.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "This Week's Best Performing Stocks, Sectors, Industries Rankings - CSIMarket"
     },
     "readingTime": 4
   },
@@ -1699,48 +1909,6 @@
       "alt": "US Inflation Rate (Monthly) - United States - Historical Data & Trends"
     },
     "readingTime": 4
-  },
-  {
-    "id": "us-markets-company-earnings-stock-market-trends",
-    "type": "news",
-    "title": "US Markets, Company Earnings, Stock Market Trends ...",
-    "slug": "us-markets-company-earnings-stock-market-trends",
-    "date": "2026-09-05",
-    "displayDate": "September 5, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "US markets show value ETFs investing in tech, Nvidia's earnings boost AI confidence, and upcoming earnings reports are available on Market Chameleon.",
-    "excerpt": "US markets show value ETFs investing in tech, Nvidia's earnings boost AI confidence, and upcoming earnings reports are available on Market Chameleon.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "US Markets, Company Earnings, Stock Market Trends ..."
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "weekly-trader-s-stock-market-outlook",
-    "type": "news",
-    "title": "Weekly Trader's Stock Market Outlook",
-    "slug": "weekly-trader-s-stock-market-outlook",
-    "date": "2026-09-05",
-    "displayDate": "September 5, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The S&P 500 and Russell 2000 reached new highs, driven by strong earnings and low volatility. Inflation rates are stable, and economic growth remains robust. Mi",
-    "excerpt": "The S&P 500 and Russell 2000 reached new highs, driven by strong earnings and low volatility. Inflation rates are stable, and economic growth remains robust. Midterm elections are unlikely to impact the stock market significantly.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Weekly Trader's Stock Market Outlook"
-    },
-    "readingTime": 3
   },
   {
     "id": "what-is-the-current-inflation-rate-in-the-us",
@@ -1953,27 +2121,6 @@
     "readingTime": 3
   },
   {
-    "id": "global-stock-market-news-and-world-indices-coverage-cnbc",
-    "type": "news",
-    "title": "Global Stock Market News and World Indices Coverage - CNBC",
-    "slug": "global-stock-market-news-and-world-indices-coverage-cnbc",
-    "date": "2026-09-04",
-    "displayDate": "September 4, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Global stock markets and world indices show mixed trends, with European markets advancing and Asia-Pacific markets trading higher amid geopolitical tensions. Th",
-    "excerpt": "Global stock markets and world indices show mixed trends, with European markets advancing and Asia-Pacific markets trading higher amid geopolitical tensions. The S&P 500 posts gains as Treasury yields retreat. AI and energy sectors remain focal points.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Global Stock Market News and World Indices Coverage - CNBC"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "healthcare-stocks-in-2026",
     "type": "news",
     "title": "Healthcare Stocks in 2026",
@@ -2098,27 +2245,6 @@
       "alt": "S&P 500 (SP500) - Technical Analysis - Medium term"
     },
     "readingTime": 3
-  },
-  {
-    "id": "stock-market-outlook-midyear-2026",
-    "type": "news",
-    "title": "Stock market outlook midyear 2026",
-    "slug": "stock-market-outlook-midyear-2026",
-    "date": "2026-09-04",
-    "displayDate": "September 4, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The 2026 midyear stock market outlook suggests strong earnings growth and a shifting market regime, with leadership spreading across sectors and regions. Geopol",
-    "excerpt": "The 2026 midyear stock market outlook suggests strong earnings growth and a shifting market regime, with leadership spreading across sectors and regions. Geopolitical pressures and inflation risks remain potential concerns. Market diversification is noted.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Stock market outlook midyear 2026"
-    },
-    "readingTime": 4
   },
   {
     "id": "stock-market-outlook-today-tomorrow-market-outlook-forecast-seeking-alpha",
@@ -2327,27 +2453,6 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "Global Stock Market News and World Indices Coverage"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "how-should-i-allocate-my-portfolio-in-2026",
-    "type": "news",
-    "title": "How Should I Allocate My Portfolio in 2026?",
-    "slug": "how-should-i-allocate-my-portfolio-in-2026",
-    "date": "2026-09-03",
-    "displayDate": "September 3, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Allocate your portfolio based on your risk tolerance, investment horizon, and financial goals. Stocks for growth, bonds for stability, and gold for diversificat",
-    "excerpt": "Allocate your portfolio based on your risk tolerance, investment horizon, and financial goals. Stocks for growth, bonds for stability, and gold for diversification. Review annually or after major changes.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "How Should I Allocate My Portfolio in 2026?"
     },
     "readingTime": 4
   },
@@ -7896,27 +8001,6 @@
     "readingTime": 3
   },
   {
-    "id": "economic-news-releases",
-    "type": "news",
-    "title": "Economic News Releases",
-    "slug": "economic-news-releases",
-    "date": "2026-07-06",
-    "displayDate": "July 6, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "In May 2026, the Consumer Price Index rose 0.5% monthly and 4.2% annually. The U.S. economic calendar lists upcoming economic reports and events. The Producer P",
-    "excerpt": "In May 2026, the Consumer Price Index rose 0.5% monthly and 4.2% annually. The U.S. economic calendar lists upcoming economic reports and events. The Producer Price Index increased 1.1% in May.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Economic News Releases"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "federal-reserve-issues-fomc-statement",
     "type": "news",
     "title": "Federal Reserve issues FOMC statement",
@@ -10307,27 +10391,6 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "The Fed - April 28-29, 2026 FOMC Meeting - Federal Reserve"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "u-s-economic-calendar-marketwatch",
-    "type": "news",
-    "title": "U.S. Economic Calendar - MarketWatch",
-    "slug": "u-s-economic-calendar-marketwatch",
-    "date": "2026-06-09",
-    "displayDate": "June 9, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The U.S. Economic Calendar on MarketWatch lists upcoming economic reports and data releases. Key reports include job openings and inflation metrics. For detaile",
-    "excerpt": "The U.S. Economic Calendar on MarketWatch lists upcoming economic reports and data releases. Key reports include job openings and inflation metrics. For detailed schedules, visit MarketWatch's economy section.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "U.S. Economic Calendar - MarketWatch"
     },
     "readingTime": 3
   },

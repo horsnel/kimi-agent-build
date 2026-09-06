@@ -3,8 +3,8 @@
   "type": "news",
   "title": "Earnings Calendar",
   "slug": "earnings-calendar",
-  "date": "2026-09-05",
-  "displayDate": "September 5, 2026",
+  "date": "2026-09-06",
+  "displayDate": "September 6, 2026",
   "author": "Sigma Capital",
   "category": "Company News",
   "tags": [
@@ -12,32 +12,32 @@
     "financial news",
     "market update"
   ],
-  "metaDescription": "An earnings calendar lists upcoming earnings reports from companies, helping traders analyze financial performance. It includes dates, company names, and financ",
-  "excerpt": "An earnings calendar lists upcoming earnings reports from companies, helping traders analyze financial performance. It includes dates, company names, and financial metrics. Use it to plan investment strategies based on earnings data.",
+  "metaDescription": "An earnings calendar lists when companies report their financial results. It helps investors plan trades and monitor market trends. It includes dates, company n",
+  "excerpt": "An earnings calendar lists when companies report their financial results. It helps investors plan trades and monitor market trends. It includes dates, company names, and financial metrics.",
   "content": {
-    "introduction": "An earnings calendar lists upcoming earnings reports from companies, helping traders analyze financial performance. It includes dates, company names, and financial metrics. Use it to plan investment strategies based on earnings data.",
+    "introduction": "An earnings calendar lists when companies report their financial results. It helps investors plan trades and monitor market trends. It includes dates, company names, and financial metrics.",
     "body": [
+      "| Symbol | Company | Market Cap (M) | Amount | Yield | Ex-Div Date | Current Price | Payble Date |\n ---  ---  ---  --- |\n| No data found | | | | | | | |\n\nSee More Recent Dividends »\n\n## Earnings Calendar & Earnings FAQ\n\n### What is an Earnings Calendar?\n\nAn earnings calendar is a schedule of when publicly traded\ncompanies report their financial results (typically quarterly). It includes: [...] An earnings calendar is more than just a schedule—it’s a\nstrategic investing tool.\n\n### 1. Plan trades ahead of volatility\n\n### 2. Compare expectations vs. reality\n\n### 3. Track trends across sectors\n\n### 4. Use predictive tools\n\n### 5. Monitor post-earnings reactions\n\n## Additional Smart Questions Investors Should Ask\n\nHere are important follow-up questions that can deepen your analysis:\n\n### Earnings quality & fundamentals\n\n### Expectations & estimates\n\n### Valuation context [...] Platforms like Zacks Investment Research aggregate this information so\ninvestors can track multiple companies at once.\n\nWhy it matters:  \nInvestors use the earnings calendar to prepare for volatility, compare\nexpectations vs. results, and identify trading opportunities around earnings\nseason.\n\n## What are Earnings?\n\nEarnings refer to a company’s profit, usually measured as earnings per\nshare (EPS)—the portion of profit allocated to each outstanding share\nof stock.",
       "# Calendar\n\n## How to use the Earnings Calendar?\n\nTradingView’s Earnings Calendar shows the latest and upcoming earnings reports released by companies. As an important indicator of a company’s financial state, earnings per share are one of the most followed metrics among traders, so the calendar above can serve as a powerful tool for analysis. [...] All reports are sorted in chronological order, from the oldest ones on top to the newest or future values on the bottom. The calendar is simple but contains all the necessary information — the report’s time and company name, estimated and actual EPS, surprise, and the company’s market capitalization. Clicking on any of the financial metrics will sort the report in the table. [...] With buttons on the upper panel, you can customize the calendar — choose a time period, country, and time zone to see only those reports that suit your strategy. This way, you can decide to see only the earnings of US companies or track reports globally. When all is set, you can easily shift through the calendar to plan your next move.\n\nYou can follow companies' earnings in more detail on corresponding symbol pages. Track Tesla's earnings, Amazon's earnings, and even more.",
-      "Market Chameleon's free online Stock Earnings Calendar allows you to easily filter, search, and sort upcoming earnings announcements for US-based companies. You can access both upcoming and past earnings dates, along with important details such as conference call times, earnings-driven price movements, and projected earnings impacts. For more information, refer to our Help section for detailed guidance on how to use the calendar effectively.\n\n▲ Close",
-      "For firms that only need earnings announcement information, the earnings calendar features upcoming earnings calendar dates - confirmed or forecasted, with the expected timing of announcements. This includes preliminary earnings announcements.\n\nNeed to know when earnings dates change and why?\n\n#### DateBreaks - Earnings Date Revisions [...] With the new Interim Calendar, institutional investors and traders can access critical dates and information when public companies report key sales, production and financial information between their quarterly or semi-annual earnings announcements. Learn more.\n\n### Contact Us\n\nRequest More Info\n\ninfo@wallstreethorizon.com\n\n+1 781.994.3500\n\n### Related Content\n\n .png) \n\n  Want the Fastest Read on the Economy? Watch These Interim Reports\n .png)"
+      "Market Chameleon's free online Stock Earnings Calendar allows you to easily filter, search, and sort upcoming earnings announcements for US-based companies. You can access both upcoming and past earnings dates, along with important details such as conference call times, earnings-driven price movements, and projected earnings impacts. For more information, refer to our Help section for detailed guidance on how to use the calendar effectively.\n\n▲ Close"
     ],
     "keyTakeaways": [
-      "An earnings calendar lists upcoming earnings reports from companies, helping traders analyze financial performance. It i",
-      "# Calendar\n\n## How to use the Earnings Calendar?\n\nTradingView’s Earnings Calendar shows the latest and upcoming earnings",
-      "Market Chameleon's free online Stock Earnings Calendar allows you to easily filter, search, and sort upcoming earnings a"
+      "An earnings calendar lists when companies report their financial results. It helps investors plan trades and monitor mar",
+      "| Symbol | Company | Market Cap (M) | Amount | Yield | Ex-Div Date | Current Price | Payble Date |\n ---  ---  ---  --- |",
+      "# Calendar\n\n## How to use the Earnings Calendar?\n\nTradingView’s Earnings Calendar shows the latest and upcoming earnings"
     ],
     "source": "marketwatch.com",
     "sourceUrl": "https://www.marketwatch.com/tools/earnings-calendar"
   },
   "readingTime": 3,
-  "updatedAt": "2026-09-05T14:50:57.317Z",
+  "updatedAt": "2026-09-06T10:09:09.143Z",
   "images": {
     "thumbnail": {
-      "src": "/images/article_thumb_4.jpg",
+      "src": "/images/article_thumb_1.jpg",
       "alt": "Earnings Calendar"
     },
     "hero": {
-      "src": "/images/article_thumb_6.jpg",
+      "src": "/images/article_thumb_4.jpg",
       "alt": "Earnings Calendar"
     },
     "mid": {
@@ -46,7 +46,7 @@
     }
   },
   "image": {
-    "src": "/images/article_thumb_3.jpg",
+    "src": "/images/article_thumb_5.jpg",
     "alt": "Earnings Calendar"
   }
 }
