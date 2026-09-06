@@ -1,5 +1,26 @@
 [
   {
+    "id": "12-month-percentage-change-consumer-price-index-selected",
+    "type": "news",
+    "title": "12-month percentage change, Consumer Price Index, selected ...",
+    "slug": "12-month-percentage-change-consumer-price-index-selected",
+    "date": "2026-09-06",
+    "displayDate": "September 6, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The 12-month percentage change in the Consumer Price Index for July 2026 was 3.4%. Energy had the highest increase at 14.7%. The lowest change was for dairy and",
+    "excerpt": "The 12-month percentage change in the Consumer Price Index for July 2026 was 3.4%. Energy had the highest increase at 14.7%. The lowest change was for dairy and related products at -0.5%.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "12-month percentage change, Consumer Price Index, selected ..."
+    },
+    "readingTime": 5
+  },
+  {
     "id": "2026-investment-outlook-themes-for-portfolio-strategies",
     "type": "news",
     "title": "2026 Investment Outlook: Themes for Portfolio Strategies",
@@ -164,6 +185,69 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "BEST Definition & Meaning - Merriam-Webster"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "bitcoin-btc-price-usd-today-news-charts-market-cap",
+    "type": "news",
+    "title": "Bitcoin (BTC) Price USD Today, News, Charts, Market Cap",
+    "slug": "bitcoin-btc-price-usd-today-news-charts-market-cap",
+    "date": "2026-09-06",
+    "displayDate": "September 6, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin's price today is $80,885.17 USD. Its market cap is $1.62 trillion. It has a circulating supply of 20.08 million BTC.",
+    "excerpt": "Bitcoin's price today is $80,885.17 USD. Its market cap is $1.62 trillion. It has a circulating supply of 20.08 million BTC.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Bitcoin (BTC) Price USD Today, News, Charts, Market Cap"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "bitcoin-forecast-news-and-analysis-btc-usd",
+    "type": "news",
+    "title": "Bitcoin Forecast, News and Analysis (BTC/USD)",
+    "slug": "bitcoin-forecast-news-and-analysis-btc-usd",
+    "date": "2026-09-06",
+    "displayDate": "September 6, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin trades around $64,830, above its 50-day EMA but below 100-day and 200-day EMAs. Forecasts predict a rise to $69,014.85 by August 19, 2026. Market sentim",
+    "excerpt": "Bitcoin trades around $64,830, above its 50-day EMA but below 100-day and 200-day EMAs. Forecasts predict a rise to $69,014.85 by August 19, 2026. Market sentiment is bearish with a Fear & Greed Index score of 34.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Bitcoin Forecast, News and Analysis (BTC/USD)"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "bitcoin-price-today-live-btc-price-chart-market-data",
+    "type": "news",
+    "title": "Bitcoin Price Today | Live BTC Price, Chart & Market Data",
+    "slug": "bitcoin-price-today-live-btc-price-chart-market-data",
+    "date": "2026-09-06",
+    "displayDate": "September 6, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin's current price is around $80,885. The price has increased by 3.83% in the last 24 hours. Bitcoin's market cap is over $1.6 trillion.",
+    "excerpt": "Bitcoin's current price is around $80,885. The price has increased by 3.83% in the last 24 hours. Bitcoin's market cap is over $1.6 trillion.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Bitcoin Price Today | Live BTC Price, Chart & Market Data"
     },
     "readingTime": 3
   },
@@ -336,6 +420,27 @@
     "readingTime": 4
   },
   {
+    "id": "earnings-calendar-marketwatch",
+    "type": "news",
+    "title": "Earnings Calendar - MarketWatch",
+    "slug": "earnings-calendar-marketwatch",
+    "date": "2026-09-06",
+    "displayDate": "September 6, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "On September 7, 2026, no earnings reports are scheduled. Virco Manufacturing Corp. and Medtronic PLC are set to report earnings on July 31, 2026. The U.S. econo",
+    "excerpt": "On September 7, 2026, no earnings reports are scheduled. Virco Manufacturing Corp. and Medtronic PLC are set to report earnings on July 31, 2026. The U.S. economic calendar on September 7 has no scheduled events.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Earnings Calendar - MarketWatch"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "earnings-calendar",
     "type": "news",
     "title": "Earnings Calendar",
@@ -395,6 +500,48 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "Economic Calendar"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "economic-indicators-dashboard-latest-gdp-cpi-unemployment-data-tipranks-com",
+    "type": "news",
+    "title": "Economic Indicators Dashboard: Latest GDP, CPI, Unemployment Data - TipRanks.com",
+    "slug": "economic-indicators-dashboard-latest-gdp-cpi-unemployment-data-tipranks-com",
+    "date": "2026-09-06",
+    "displayDate": "September 6, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Latest GDP, CPI, and unemployment data show a 4.1% unemployment rate in July 2026, a 2.4% CPI, and mixed economic indicators.",
+    "excerpt": "Latest GDP, CPI, and unemployment data show a 4.1% unemployment rate in July 2026, a 2.4% CPI, and mixed economic indicators.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Economic Indicators Dashboard: Latest GDP, CPI, Unemployment Data - TipRanks.com"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "economic-indicators-interactive-analysis-2026-gdp-cpi-fed-rates",
+    "type": "news",
+    "title": "Economic Indicators: Interactive & Analysis (2026 GDP, CPI, Fed Rates)",
+    "slug": "economic-indicators-interactive-analysis-2026-gdp-cpi-fed-rates",
+    "date": "2026-09-06",
+    "displayDate": "September 6, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "GDP grew 1.5% in Q2 2026; CPI inflation is expected at 3.5%; Fed rates remain stable.",
+    "excerpt": "GDP grew 1.5% in Q2 2026; CPI inflation is expected at 3.5%; Fed rates remain stable.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Economic Indicators: Interactive & Analysis (2026 GDP, CPI, Fed Rates)"
     },
     "readingTime": 3
   },
@@ -546,6 +693,27 @@
     "readingTime": 4
   },
   {
+    "id": "global-indices-tracking-the-world-s-markets",
+    "type": "news",
+    "title": "Global Indices - Tracking the World's Markets",
+    "slug": "global-indices-tracking-the-world-s-markets",
+    "date": "2026-09-06",
+    "displayDate": "September 6, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "As of September 6, 2026, the S&P 500 is at 7,738.81, down 29.90 points (0.38%). The Nikkei 225 is at 65,020.94, up 806.46 points (1.26%). The Hang Seng Index is",
+    "excerpt": "As of September 6, 2026, the S&P 500 is at 7,738.81, down 29.90 points (0.38%). The Nikkei 225 is at 65,020.94, up 806.46 points (1.26%). The Hang Seng Index is at 25,650.90, up 437.58 points (1.74%).",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Global Indices - Tracking the World's Markets"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "global-market-indices-international-markets-markets-insider",
     "type": "news",
     "title": "Global Market Indices | International Markets - Markets Insider",
@@ -586,6 +754,27 @@
       "alt": "Global Stock Market News and World Indices Coverage - CNBC"
     },
     "readingTime": 4
+  },
+  {
+    "id": "global-stock-market-news-and-world-indices-coverage",
+    "type": "news",
+    "title": "Global Stock Market News and World Indices Coverage",
+    "slug": "global-stock-market-news-and-world-indices-coverage",
+    "date": "2026-09-06",
+    "displayDate": "September 6, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Global stock markets and world indices show mixed trends with some regions advancing while others decline, influenced by geopolitical events and economic data. ",
+    "excerpt": "Global stock markets and world indices show mixed trends with some regions advancing while others decline, influenced by geopolitical events and economic data. Major indices like Dow Jones, S&P 500, and Nikkei 225 have experienced fluctuations. Current data reflects recent market movements as of Sep",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Global Stock Market News and World Indices Coverage"
+    },
+    "readingTime": 3
   },
   {
     "id": "health-technology-sector-companies-performance-and-stocks-usa-tradingview",
@@ -819,6 +1008,48 @@
     "readingTime": 4
   },
   {
+    "id": "stock-market-sector-performance-today-stocktitan",
+    "type": "news",
+    "title": "Stock Market Sector Performance Today | StockTitan",
+    "slug": "stock-market-sector-performance-today-stocktitan",
+    "date": "2026-09-06",
+    "displayDate": "September 6, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Industrials sector leads today's S&P 500 sectors, Consumer Discretionary lags. S&P 500 down 0.39%. Market breadth shows broad weakness.",
+    "excerpt": "Industrials sector leads today's S&P 500 sectors, Consumer Discretionary lags. S&P 500 down 0.39%. Market breadth shows broad weakness.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Stock Market Sector Performance Today | StockTitan"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "tech-news-today-s-latest-technology-news-reuters",
+    "type": "news",
+    "title": "Tech News | Today's Latest Technology News | Reuters",
+    "slug": "tech-news-today-s-latest-technology-news-reuters",
+    "date": "2026-09-06",
+    "displayDate": "September 6, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "South Korea and the U.S. discuss semiconductor investments; Tesla tests autonomous Cybercab; ByteDance secures $29.6 billion loan for AI.",
+    "excerpt": "South Korea and the U.S. discuss semiconductor investments; Tesla tests autonomous Cybercab; ByteDance secures $29.6 billion loan for AI.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Tech News | Today's Latest Technology News | Reuters"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "techcrunch-startup-and-technology-news",
     "type": "news",
     "title": "TechCrunch | Startup and Technology News",
@@ -861,6 +1092,27 @@
     "readingTime": 3
   },
   {
+    "id": "the-fed-april-28-29-2026-fomc-meeting",
+    "type": "news",
+    "title": "The Fed - April 28-29, 2026 FOMC Meeting",
+    "slug": "the-fed-april-28-29-2026-fomc-meeting",
+    "date": "2026-09-06",
+    "displayDate": "September 6, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Fed held the federal funds rate steady at 3.50–3.75% after the April 28-29, 2026 FOMC meeting. Jerome Powell's press conference followed at 2:30 PM ET. The ",
+    "excerpt": "The Fed held the federal funds rate steady at 3.50–3.75% after the April 28-29, 2026 FOMC meeting. Jerome Powell's press conference followed at 2:30 PM ET. The FOMC statement and minutes were released on April 29 and May 20, respectively.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "The Fed - April 28-29, 2026 FOMC Meeting"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "the-fed-federal-open-market-committee",
     "type": "news",
     "title": "The Fed - Federal Open Market Committee",
@@ -880,6 +1132,27 @@
       "alt": "The Fed - Federal Open Market Committee"
     },
     "readingTime": 4
+  },
+  {
+    "id": "the-fed-july-28-29-2026-fomc-meeting",
+    "type": "news",
+    "title": "The Fed - July 28-29, 2026 FOMC Meeting",
+    "slug": "the-fed-july-28-29-2026-fomc-meeting",
+    "date": "2026-09-06",
+    "displayDate": "September 6, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The FOMC meeting on July 28-29, 2026, concluded with a policy decision announced on July 29 at 2:00 PM ET. The Federal Reserve's interest rate decision was rele",
+    "excerpt": "The FOMC meeting on July 28-29, 2026, concluded with a policy decision announced on July 29 at 2:00 PM ET. The Federal Reserve's interest rate decision was released on this date. The meeting was scheduled for two days.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "The Fed - July 28-29, 2026 FOMC Meeting"
+    },
+    "readingTime": 3
   },
   {
     "id": "this-week-s-best-performing-stocks-sectors-industries-rankings-csimarket",
@@ -1029,6 +1302,48 @@
     "readingTime": 5
   },
   {
+    "id": "us-economic-indicators-cgaa",
+    "type": "news",
+    "title": "US Economic Indicators | CGAA",
+    "slug": "us-economic-indicators-cgaa",
+    "date": "2026-09-06",
+    "displayDate": "September 6, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "US economic growth slowed in the first quarter, and US CPI inflation is expected to have slowed in April. The latest GDP data signals a potential shift in econo",
+    "excerpt": "US economic growth slowed in the first quarter, and US CPI inflation is expected to have slowed in April. The latest GDP data signals a potential shift in economic trends.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "US Economic Indicators | CGAA"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "us-markets-company-earnings-stock-market-trends-market-news",
+    "type": "news",
+    "title": "US Markets, Company Earnings, Stock Market Trends, Market News",
+    "slug": "us-markets-company-earnings-stock-market-trends-market-news",
+    "date": "2026-09-06",
+    "displayDate": "September 6, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "US markets rebounded with value ETFs making significant tech bets, and Nvidia's earnings outlook remains strong. Tech and small value sectors are leading this y",
+    "excerpt": "US markets rebounded with value ETFs making significant tech bets, and Nvidia's earnings outlook remains strong. Tech and small value sectors are leading this year's performance. Investors are advised to stay informed on sector trends and earnings reports.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "US Markets, Company Earnings, Stock Market Trends, Market News"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "us-markets-company-earnings-stock-market-trends",
     "type": "news",
     "title": "US Markets, Company Earnings, Stock Market Trends ...",
@@ -1071,6 +1386,27 @@
     "readingTime": 3
   },
   {
+    "id": "what-is-the-current-inflation-rate-in-the-us",
+    "type": "news",
+    "title": "What is the current inflation rate in the US?",
+    "slug": "what-is-the-current-inflation-rate-in-the-us",
+    "date": "2026-09-06",
+    "displayDate": "September 6, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The current inflation rate in the US is 3.4% as of July 2026. This rate measures the annual increase in prices of goods and services. The Federal Reserve aims f",
+    "excerpt": "The current inflation rate in the US is 3.4% as of July 2026. This rate measures the annual increase in prices of goods and services. The Federal Reserve aims for a 2% annual inflation rate.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "What is the current inflation rate in the US?"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "when-is-the-next-fed-interest-rate-decision",
     "type": "news",
     "title": "When is the next Fed interest rate decision?",
@@ -1109,27 +1445,6 @@
     "image": {
       "src": "/images/articles/10-best-investments-where-to-invest-in-2026-thumb.jpg",
       "alt": "10 Best Investments: Where to Invest in 2026"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "12-month-percentage-change-consumer-price-index-selected",
-    "type": "news",
-    "title": "12-month percentage change, Consumer Price Index, selected ...",
-    "slug": "12-month-percentage-change-consumer-price-index-selected",
-    "date": "2026-09-05",
-    "displayDate": "September 5, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The 12-month percentage change in the Consumer Price Index for July 2026 was 3.4%, with energy prices rising 14.7% and fruits and vegetables up 5.1%.",
-    "excerpt": "The 12-month percentage change in the Consumer Price Index for July 2026 was 3.4%, with energy prices rising 14.7% and fruits and vegetables up 5.1%.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "12-month percentage change, Consumer Price Index, selected ..."
     },
     "readingTime": 3
   },
@@ -1260,48 +1575,6 @@
     "readingTime": 3
   },
   {
-    "id": "bitcoin-btc-price-usd-today-news-charts-market-cap",
-    "type": "news",
-    "title": "Bitcoin (BTC) Price USD Today, News, Charts, Market Cap",
-    "slug": "bitcoin-btc-price-usd-today-news-charts-market-cap",
-    "date": "2026-09-05",
-    "displayDate": "September 5, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Bitcoin's price today is $80,885.17 USD, with a market cap of $1.62 trillion. It has a circulating supply of 20.08 million BTC and an all-time high of $126,210.",
-    "excerpt": "Bitcoin's price today is $80,885.17 USD, with a market cap of $1.62 trillion. It has a circulating supply of 20.08 million BTC and an all-time high of $126,210.50.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Bitcoin (BTC) Price USD Today, News, Charts, Market Cap"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "bitcoin-forecast-news-and-analysis-btc-usd",
-    "type": "news",
-    "title": "Bitcoin Forecast, News and Analysis (BTC/USD)",
-    "slug": "bitcoin-forecast-news-and-analysis-btc-usd",
-    "date": "2026-09-05",
-    "displayDate": "September 5, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Bitcoin price is $64,830, above its 50-day EMA but below 100-day and 200-day EMAs. Forecasts predict a rise to $69,014.85 by August 19, 2026. Current market sen",
-    "excerpt": "Bitcoin price is $64,830, above its 50-day EMA but below 100-day and 200-day EMAs. Forecasts predict a rise to $69,014.85 by August 19, 2026. Current market sentiment is bearish.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Bitcoin Forecast, News and Analysis (BTC/USD)"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "bitcoin-price-today-btc-to-usd-live-price-marketcap-and-chart",
     "type": "news",
     "title": "Bitcoin price today, BTC to USD live price, marketcap and chart",
@@ -1340,27 +1613,6 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "Bitcoin price today, BTC to USD live price, marketcap ..."
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "bitcoin-price-today-live-btc-price-chart-market-data",
-    "type": "news",
-    "title": "Bitcoin Price Today | Live BTC Price, Chart & Market Data",
-    "slug": "bitcoin-price-today-live-btc-price-chart-market-data",
-    "date": "2026-09-05",
-    "displayDate": "September 5, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Bitcoin's price today is $81,083.00, up 5.12% in 24 hours. Its market cap is $1.63 trillion. The circulating supply is 20,079,074 BTC.",
-    "excerpt": "Bitcoin's price today is $81,083.00, up 5.12% in 24 hours. Its market cap is $1.63 trillion. The circulating supply is 20,079,074 BTC.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Bitcoin Price Today | Live BTC Price, Chart & Market Data"
     },
     "readingTime": 3
   },
@@ -1426,27 +1678,6 @@
       "alt": "Earnings Calendar and Analysis for This Week (September ..."
     },
     "readingTime": 4
-  },
-  {
-    "id": "earnings-calendar-marketwatch",
-    "type": "news",
-    "title": "Earnings Calendar - MarketWatch",
-    "slug": "earnings-calendar-marketwatch",
-    "date": "2026-09-05",
-    "displayDate": "September 5, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Earnings reports for Lands' End Inc., Genesco Inc., and Victoria's Secret & Co. are scheduled for July 31, 2026. Medtronic PLC and Yext Inc. also have earnings ",
-    "excerpt": "Earnings reports for Lands' End Inc., Genesco Inc., and Victoria's Secret & Co. are scheduled for July 31, 2026. Medtronic PLC and Yext Inc. also have earnings reports on July 31, 2026. The most recent earnings data is from 2026.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Earnings Calendar - MarketWatch"
-    },
-    "readingTime": 3
   },
   {
     "id": "earnings-calendar-zacks-investment-research",
@@ -1529,27 +1760,6 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "GeekWire – Breaking News in Technology & Business"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "global-indices-tracking-the-world-s-markets",
-    "type": "news",
-    "title": "Global Indices - Tracking the World's Markets",
-    "slug": "global-indices-tracking-the-world-s-markets",
-    "date": "2026-09-05",
-    "displayDate": "September 5, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The S&P 500 and Dow Jones are major U.S. indices, with the S&P 500 at 4,500 and Dow Jones at 36,000 as of 2026-09-05. The Nikkei 225 in Japan is at 25,000. The ",
-    "excerpt": "The S&P 500 and Dow Jones are major U.S. indices, with the S&P 500 at 4,500 and Dow Jones at 36,000 as of 2026-09-05. The Nikkei 225 in Japan is at 25,000. The Hang Seng in Hong Kong is at 25,000.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Global Indices - Tracking the World's Markets"
     },
     "readingTime": 4
   },
@@ -1909,27 +2119,6 @@
       "alt": "US Inflation Rate (Monthly) - United States - Historical Data & Trends"
     },
     "readingTime": 4
-  },
-  {
-    "id": "what-is-the-current-inflation-rate-in-the-us",
-    "type": "news",
-    "title": "What is the current inflation rate in the US?",
-    "slug": "what-is-the-current-inflation-rate-in-the-us",
-    "date": "2026-09-05",
-    "displayDate": "September 5, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The current inflation rate in the US is 3.4% as of July 2026. This rate reflects the overall price increase of goods and services. The Federal Reserve targets a",
-    "excerpt": "The current inflation rate in the US is 3.4% as of July 2026. This rate reflects the overall price increase of goods and services. The Federal Reserve targets a 2% annual inflation rate.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "What is the current inflation rate in the US?"
-    },
-    "readingTime": 3
   },
   {
     "id": "what-to-look-out-for-in-economic-data-this-week-september-7-11",
@@ -2432,27 +2621,6 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "Earnings Whispers"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "global-stock-market-news-and-world-indices-coverage",
-    "type": "news",
-    "title": "Global Stock Market News and World Indices Coverage",
-    "slug": "global-stock-market-news-and-world-indices-coverage",
-    "date": "2026-09-03",
-    "displayDate": "September 3, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Global stock markets showed mixed performance, with European indices advancing while Asian markets traded lower. The Nikkei 225 fell by 2.85%, and the S&P 500 r",
-    "excerpt": "Global stock markets showed mixed performance, with European indices advancing while Asian markets traded lower. The Nikkei 225 fell by 2.85%, and the S&P 500 rose by 0.46%.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Global Stock Market News and World Indices Coverage"
     },
     "readingTime": 4
   },
@@ -4893,27 +5061,6 @@
     "readingTime": 3
   },
   {
-    "id": "economic-indicators-dashboard-latest-gdp-cpi-unemployment-data-tipranks-com",
-    "type": "news",
-    "title": "Economic Indicators Dashboard: Latest GDP, CPI, Unemployment Data - TipRanks.com",
-    "slug": "economic-indicators-dashboard-latest-gdp-cpi-unemployment-data-tipranks-com",
-    "date": "2026-08-06",
-    "displayDate": "August 6, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Latest GDP, CPI, and unemployment data show a stable unemployment rate at 4.2% in June 2026, with real GDP growth and inflation indicators under close watch. CP",
-    "excerpt": "Latest GDP, CPI, and unemployment data show a stable unemployment rate at 4.2% in June 2026, with real GDP growth and inflation indicators under close watch. CPI remains elevated, and real GDP growth is monitored for signs of recession.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Economic Indicators Dashboard: Latest GDP, CPI, Unemployment Data - TipRanks.com"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "economic-indicators-understanding-gdp-inflation-and-unemployment-with-methodolog",
     "type": "news",
     "title": "Economic Indicators: Understanding GDP, Inflation, and Unemployment with Methodology and Insights | UPSC Geeks Blog",
@@ -5477,27 +5624,6 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "stock market outlook & forecast"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "tech-news-today-s-latest-technology-news-reuters",
-    "type": "news",
-    "title": "Tech News | Today's Latest Technology News - Reuters",
-    "slug": "tech-news-today-s-latest-technology-news-reuters",
-    "date": "2026-08-05",
-    "displayDate": "August 5, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Apple shares dropped due to supply constraints affecting growth, while Amazon faces a lawsuit over seafood sustainability claims. The FTC approved IonQ's acquis",
-    "excerpt": "Apple shares dropped due to supply constraints affecting growth, while Amazon faces a lawsuit over seafood sustainability claims. The FTC approved IonQ's acquisition of SkyWater semiconductor foundry.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Tech News | Today's Latest Technology News - Reuters"
     },
     "readingTime": 3
   },
@@ -11109,27 +11235,6 @@
     "readingTime": 3
   },
   {
-    "id": "the-fed-april-28-29-2026-fomc-meeting",
-    "type": "news",
-    "title": "The Fed - April 28-29, 2026 FOMC Meeting",
-    "slug": "the-fed-april-28-29-2026-fomc-meeting",
-    "date": "2026-06-06",
-    "displayDate": "June 6, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Reserve Board of Governors in Washington DC.",
-    "excerpt": "The Federal Reserve Board of Governors in Washington DC.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "The Fed - April 28-29, 2026 FOMC Meeting"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "the-odds-are-changing-investing-in-2026",
     "type": "news",
     "title": "The Odds Are Changing: Investing in 2026",
@@ -11252,27 +11357,6 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "U.S. stocks slump as Big Tech sinks and a strong May jobs report boosts odds for higher interest rates"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "us-markets-company-earnings-stock-market-trends-market-news",
-    "type": "news",
-    "title": "US Markets, Company Earnings, Stock Market Trends, Market News",
-    "slug": "us-markets-company-earnings-stock-market-trends-market-news",
-    "date": "2026-06-06",
-    "displayDate": "June 6, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "US markets experienced significant volatility, with major indices like the Dow, S&P 500, and Nasdaq all seeing substantial declines. Earnings reports and market",
-    "excerpt": "US markets experienced significant volatility, with major indices like the Dow, S&P 500, and Nasdaq all seeing substantial declines. Earnings reports and market trends continue to influence stock performance. Recent market news highlights major shifts and investor reactions.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "US Markets, Company Earnings, Stock Market Trends, Market News"
     },
     "readingTime": 3
   },
