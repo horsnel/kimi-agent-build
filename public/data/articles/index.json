@@ -42,6 +42,27 @@
     "readingTime": 3
   },
   {
+    "id": "2026-strategic-asset-allocation-saa",
+    "type": "news",
+    "title": "2026 Strategic Asset Allocation (SAA)",
+    "slug": "2026-strategic-asset-allocation-saa",
+    "date": "2026-09-06",
+    "displayDate": "September 6, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "For 2026, strategic asset allocation favors modest underweights in equities, increased exposure in international and large value equities, and a focus on real a",
+    "excerpt": "For 2026, strategic asset allocation favors modest underweights in equities, increased exposure in international and large value equities, and a focus on real assets and alternatives, with fixed income as the anchor. The approach aims for long-term stability and risk-adjusted returns.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "2026 Strategic Asset Allocation (SAA)"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "american-stock-market-today-s-p-500-trends-and-signals-2024",
     "type": "news",
     "title": "American stock market today: S&P 500 trends and signals 2024",
@@ -189,6 +210,27 @@
     "readingTime": 3
   },
   {
+    "id": "big-tech-news-industry-analysis-section",
+    "type": "news",
+    "title": "Big Tech News & Industry Analysis | Section",
+    "slug": "big-tech-news-industry-analysis-section",
+    "date": "2026-09-06",
+    "displayDate": "September 6, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Big Tech companies are heavily investing in AI, with Google, Meta, and Apple making significant announcements. AI is driving growth in various sectors, from hea",
+    "excerpt": "Big Tech companies are heavily investing in AI, with Google, Meta, and Apple making significant announcements. AI is driving growth in various sectors, from healthcare to robotics. The tech industry continues to evolve rapidly with new advancements and strategic moves.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Big Tech News & Industry Analysis | Section"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "bitcoin-btc-price-usd-today-news-charts-market-cap",
     "type": "news",
     "title": "Bitcoin (BTC) Price USD Today, News, Charts, Market Cap",
@@ -206,6 +248,27 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "Bitcoin (BTC) Price USD Today, News, Charts, Market Cap"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "bitcoin-btcusd",
+    "type": "news",
+    "title": "Bitcoin BTCUSD",
+    "slug": "bitcoin-btcusd",
+    "date": "2026-09-06",
+    "displayDate": "September 6, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin's current price is around $81,000. It has a circulating supply of 20 million coins. Bitcoin is the leading cryptocurrency by market capitalization.",
+    "excerpt": "Bitcoin's current price is around $81,000. It has a circulating supply of 20 million coins. Bitcoin is the leading cryptocurrency by market capitalization.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Bitcoin BTCUSD"
     },
     "readingTime": 3
   },
@@ -1050,6 +1113,27 @@
     "readingTime": 4
   },
   {
+    "id": "tech-weekly-stocks-mostly-shrug-off-warsh-s-hawkish-words",
+    "type": "news",
+    "title": "Tech Weekly: Stocks Mostly Shrug off Warsh's Hawkish Words",
+    "slug": "tech-weekly-stocks-mostly-shrug-off-warsh-s-hawkish-words",
+    "date": "2026-09-06",
+    "displayDate": "September 6, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Stocks showed mixed reactions to hawkish comments from Fed Chair Warsh, with some tech stocks rising while others fell. The S&P 500 and Nasdaq 100 initially ros",
+    "excerpt": "Stocks showed mixed reactions to hawkish comments from Fed Chair Warsh, with some tech stocks rising while others fell. The S&P 500 and Nasdaq 100 initially rose, but later declined. The likelihood of a September rate hike increased following Warsh's remarks.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Tech Weekly: Stocks Mostly Shrug off Warsh's Hawkish Words"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "techcrunch-startup-and-technology-news",
     "type": "news",
     "title": "TechCrunch | Startup and Technology News",
@@ -1216,6 +1300,27 @@
       "alt": "U.S. Economic Calendar - MarketWatch"
     },
     "readingTime": 5
+  },
+  {
+    "id": "u-s-stock-market-headlines-breaking-stock-market-news-reuters",
+    "type": "news",
+    "title": "U.S. Stock Market Headlines | Breaking Stock Market News | Reuters",
+    "slug": "u-s-stock-market-headlines-breaking-stock-market-news-reuters",
+    "date": "2026-09-06",
+    "displayDate": "September 6, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "U.S. stock indices declined slightly; gold and commodities also fell; interest rates remained stable.",
+    "excerpt": "U.S. stock indices declined slightly; gold and commodities also fell; interest rates remained stable.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "U.S. Stock Market Headlines | Breaking Stock Market News | Reuters"
+    },
+    "readingTime": 4
   },
   {
     "id": "united-states-economic-indicators-moody-s-analytics",
@@ -1449,27 +1554,6 @@
     "readingTime": 3
   },
   {
-    "id": "2026-strategic-asset-allocation-saa",
-    "type": "news",
-    "title": "2026 Strategic Asset Allocation (SAA)",
-    "slug": "2026-strategic-asset-allocation-saa",
-    "date": "2026-09-05",
-    "displayDate": "September 5, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "For 2026, strategic asset allocation favors modest underweights in equities and fixed income, with increased exposure to international and large value equities,",
-    "excerpt": "For 2026, strategic asset allocation favors modest underweights in equities and fixed income, with increased exposure to international and large value equities, real assets, and alternatives. Core high-quality fixed income remains central, with adjustments based on long-term market outlook.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "2026 Strategic Asset Allocation (SAA)"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "5-strategies-to-navigate-market-volatility-morgan-stanley",
     "type": "news",
     "title": "5 Strategies to Navigate Market Volatility | Morgan Stanley",
@@ -1550,27 +1634,6 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "Big Tech - latest news, breaking stories and comment - The Independent"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "big-tech-news-industry-analysis-section",
-    "type": "news",
-    "title": "Big Tech News & Industry Analysis | Section",
-    "slug": "big-tech-news-industry-analysis-section",
-    "date": "2026-09-05",
-    "displayDate": "September 5, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Google is competing with Broadcom for AI dominance, while Ryanair uses Google's Gemini alongside AWS. Meta faces legal challenges, and Apple introduces new AI-e",
-    "excerpt": "Google is competing with Broadcom for AI dominance, while Ryanair uses Google's Gemini alongside AWS. Meta faces legal challenges, and Apple introduces new AI-enhanced Mac models.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Big Tech News & Industry Analysis | Section"
     },
     "readingTime": 3
   },
@@ -7871,27 +7934,6 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "U.S. Market Analysis & Valuation - Dow Jones, Nasdaq, S&P 500 ..."
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "u-s-stock-market-headlines-breaking-stock-market-news-reuters",
-    "type": "news",
-    "title": "U.S. Stock Market Headlines | Breaking Stock Market News - Reuters",
-    "slug": "u-s-stock-market-headlines-breaking-stock-market-news-reuters",
-    "date": "2026-07-07",
-    "displayDate": "July 7, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Wall Street's main indexes rose on July 6, driven by gains in Broadcom and other chip stocks amid AI-related investor interest. The U.S. stock market closed hig",
-    "excerpt": "Wall Street's main indexes rose on July 6, driven by gains in Broadcom and other chip stocks amid AI-related investor interest. The U.S. stock market closed higher. For the latest updates, visit Reuters.com.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "U.S. Stock Market Headlines | Breaking Stock Market News - Reuters"
     },
     "readingTime": 3
   },
