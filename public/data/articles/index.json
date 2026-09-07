@@ -42,6 +42,27 @@
     "readingTime": 5
   },
   {
+    "id": "2026-strategic-asset-allocation-saa-lpl-financial",
+    "type": "news",
+    "title": "2026 Strategic Asset Allocation (SAA) - LPL Financial",
+    "slug": "2026-strategic-asset-allocation-saa-lpl-financial",
+    "date": "2026-09-07",
+    "displayDate": "September 7, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "For 2026, LPL Financial's Strategic Asset Allocation recommends a modest underweight to equities, increased exposure to large value and international equities, ",
+    "excerpt": "For 2026, LPL Financial's Strategic Asset Allocation recommends a modest underweight to equities, increased exposure to large value and international equities, and a focus on real assets and alternatives. The core remains high-quality fixed income.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "2026 Strategic Asset Allocation (SAA) - LPL Financial"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "asian-financial-markets-investing-com",
     "type": "news",
     "title": "Asian Financial Markets - Investing.com",
@@ -441,6 +462,69 @@
     "readingTime": 3
   },
   {
+    "id": "economic-indicators-dashboard-latest-gdp-cpi-unemployment-data-tipranks-com",
+    "type": "news",
+    "title": "Economic Indicators Dashboard: Latest GDP, CPI, Unemployment Data - TipRanks.com",
+    "slug": "economic-indicators-dashboard-latest-gdp-cpi-unemployment-data-tipranks-com",
+    "date": "2026-09-07",
+    "displayDate": "September 7, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Latest GDP, CPI, and unemployment data show a 4.4% unemployment rate, 2.4% CPI, and real GDP growth. Federal Funds Rate is at 3.64%. Inflation and labor market ",
+    "excerpt": "Latest GDP, CPI, and unemployment data show a 4.4% unemployment rate, 2.4% CPI, and real GDP growth. Federal Funds Rate is at 3.64%. Inflation and labor market indicators are stable.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Economic Indicators Dashboard: Latest GDP, CPI, Unemployment Data - TipRanks.com"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "economic-indicators-interactive-analysis-2026-gdp-cpi-fed-rates",
+    "type": "news",
+    "title": "Economic Indicators: Interactive & Analysis (2026 GDP, CPI, Fed Rates)",
+    "slug": "economic-indicators-interactive-analysis-2026-gdp-cpi-fed-rates",
+    "date": "2026-09-07",
+    "displayDate": "September 7, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "For 2026, GDP grew 1.5% in Q2, CPI is projected at 1.0%, and Fed rates are estimated at ±0.7%.",
+    "excerpt": "For 2026, GDP grew 1.5% in Q2, CPI is projected at 1.0%, and Fed rates are estimated at ±0.7%.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Economic Indicators: Interactive & Analysis (2026 GDP, CPI, Fed Rates)"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "economic-indicators-latest-cpi-data-on-inflation-detroit-regional-chamber",
+    "type": "news",
+    "title": "Economic Indicators: Latest CPI Data on Inflation - Detroit Regional Chamber",
+    "slug": "economic-indicators-latest-cpi-data-on-inflation-detroit-regional-chamber",
+    "date": "2026-09-07",
+    "displayDate": "September 7, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Inflation in Detroit slowed to 3.4% in July 2026, down from 3.5% in June 2026. Core inflation also decreased to 2.5%. Housing price increases have slowed signif",
+    "excerpt": "Inflation in Detroit slowed to 3.4% in July 2026, down from 3.5% in June 2026. Core inflation also decreased to 2.5%. Housing price increases have slowed significantly.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Economic Indicators: Latest CPI Data on Inflation - Detroit Regional Chamber"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "economic-news-releases-bureau-of-labor-statistics",
     "type": "news",
     "title": "Economic News Releases - Bureau of Labor Statistics",
@@ -521,6 +605,27 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "Ethereum (ETH) Price USD Today, News, Charts, Market Cap"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "ethereum-price-eth-usd-live-price-chart-market-cap",
+    "type": "news",
+    "title": "Ethereum Price: ETH/USD Live Price Chart, Market Cap ...",
+    "slug": "ethereum-price-eth-usd-live-price-chart-market-cap",
+    "date": "2026-09-07",
+    "displayDate": "September 7, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Ethereum's price is $2,491.01, with a market cap of $303.9 billion. It has a circulating supply of 120 million ETH.",
+    "excerpt": "Ethereum's price is $2,491.01, with a market cap of $303.9 billion. It has a circulating supply of 120 million ETH.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Ethereum Price: ETH/USD Live Price Chart, Market Cap ..."
     },
     "readingTime": 3
   },
@@ -714,6 +819,48 @@
     "readingTime": 4
   },
   {
+    "id": "healthcare-stocks-in-2026",
+    "type": "news",
+    "title": "Healthcare Stocks in 2026",
+    "slug": "healthcare-stocks-in-2026",
+    "date": "2026-09-07",
+    "displayDate": "September 7, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Moderna Inc, Incyte Corp, and Vertex Pharmaceuticals Inc are top-performing healthcare stocks in 2026. CVS Health has also shown strong performance with signifi",
+    "excerpt": "Moderna Inc, Incyte Corp, and Vertex Pharmaceuticals Inc are top-performing healthcare stocks in 2026. CVS Health has also shown strong performance with significant revenue growth. These companies lead the sector in 2026.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Healthcare Stocks in 2026"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "how-should-i-allocate-my-portfolio-in-2026",
+    "type": "news",
+    "title": "How Should I Allocate My Portfolio in 2026?",
+    "slug": "how-should-i-allocate-my-portfolio-in-2026",
+    "date": "2026-09-07",
+    "displayDate": "September 7, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Allocate 30-40% to equities, 55-65% to bonds, and consider diversifying with non-US and emerging markets. Review annually or after major changes. Focus on long-",
+    "excerpt": "Allocate 30-40% to equities, 55-65% to bonds, and consider diversifying with non-US and emerging markets. Review annually or after major changes. Focus on long-term goals.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "How Should I Allocate My Portfolio in 2026?"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "how-the-fomc-conducts-monetary-policy-st-louis-fed",
     "type": "news",
     "title": "How the FOMC Conducts Monetary Policy | St. Louis Fed",
@@ -798,6 +945,27 @@
     "readingTime": 3
   },
   {
+    "id": "investment-strategy-2026-portfolio-moves-for-a-changing-market",
+    "type": "news",
+    "title": "Investment Strategy 2026 Portfolio Moves for a Changing Market",
+    "slug": "investment-strategy-2026-portfolio-moves-for-a-changing-market",
+    "date": "2026-09-07",
+    "displayDate": "September 7, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "For 2026, focus on global diversification, consider small caps, and prioritize income generation in a low-rate environment. Alternative investments may also be ",
+    "excerpt": "For 2026, focus on global diversification, consider small caps, and prioritize income generation in a low-rate environment. Alternative investments may also be beneficial for qualified investors.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Investment Strategy 2026 Portfolio Moves for a Changing Market"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "latest-company-earnings-news-announcements-seeking-alpha",
     "type": "news",
     "title": "Latest Company Earnings News & Announcements | Seeking Alpha",
@@ -817,6 +985,27 @@
       "alt": "Latest Company Earnings News & Announcements | Seeking Alpha"
     },
     "readingTime": 3
+  },
+  {
+    "id": "latest-company-earnings-news-announcements",
+    "type": "news",
+    "title": "Latest Company Earnings News & Announcements",
+    "slug": "latest-company-earnings-news-announcements",
+    "date": "2026-09-07",
+    "displayDate": "September 7, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Several companies reported mixed earnings results recently, with some beating expectations while others missed. Notable highlights include strong performances f",
+    "excerpt": "Several companies reported mixed earnings results recently, with some beating expectations while others missed. Notable highlights include strong performances from technology and healthcare sectors. For the most current details, check financial news sources.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Latest Company Earnings News & Announcements"
+    },
+    "readingTime": 4
   },
   {
     "id": "latest-technology-news-and-reviews",
@@ -903,6 +1092,27 @@
     "readingTime": 3
   },
   {
+    "id": "s-p-500-index-technical-analysis",
+    "type": "news",
+    "title": "S&P 500 Index Technical Analysis",
+    "slug": "s-p-500-index-technical-analysis",
+    "date": "2026-09-07",
+    "displayDate": "September 7, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The S&P 500 index shows a bullish trend in the long term, with weak positive signals in the medium term and positive signals in the short term. The index closed",
+    "excerpt": "The S&P 500 index shows a bullish trend in the long term, with weak positive signals in the medium term and positive signals in the short term. The index closed at 7,631.47 on September 1, 2026.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "S&P 500 Index Technical Analysis"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "s-p-500-sp500-technical-analysis-medium-term-us-500",
     "type": "news",
     "title": "S&P 500 (SP500) - Technical Analysis - Medium term - US 500",
@@ -922,6 +1132,27 @@
       "alt": "S&P 500 (SP500) - Technical Analysis - Medium term - US 500"
     },
     "readingTime": 3
+  },
+  {
+    "id": "s-p-500-sp500-technical-analysis-medium-term",
+    "type": "news",
+    "title": "S&P 500 (SP500) - Technical Analysis - Medium term",
+    "slug": "s-p-500-sp500-technical-analysis-medium-term",
+    "date": "2026-09-07",
+    "displayDate": "September 7, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The S&P 500 shows a weak positive trend in the medium term and a positive trend in the long term. The market is currently bullish but in a consolidation phase. ",
+    "excerpt": "The S&P 500 shows a weak positive trend in the medium term and a positive trend in the long term. The market is currently bullish but in a consolidation phase. The index is below key resistance at 6166.50.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "S&P 500 (SP500) - Technical Analysis - Medium term"
+    },
+    "readingTime": 4
   },
   {
     "id": "sector-views-monthly-stock-sector-outlook",
@@ -962,6 +1193,27 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "Sectors — Stock Market — USA — TradingView"
+    },
+    "readingTime": 5
+  },
+  {
+    "id": "stock-market-news-bond-market-currencies-markets-marketwatch",
+    "type": "news",
+    "title": "Stock Market News - Bond Market - Currencies Markets - MarketWatch",
+    "slug": "stock-market-news-bond-market-currencies-markets-marketwatch",
+    "date": "2026-09-07",
+    "displayDate": "September 7, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Dow Jones Industrial Average dropped 0.51%, the S&P 500 fell 0.38%, and the U.S. 10 Year Treasury Note yield was 4.789%.",
+    "excerpt": "The Dow Jones Industrial Average dropped 0.51%, the S&P 500 fell 0.38%, and the U.S. 10 Year Treasury Note yield was 4.789%.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Stock Market News - Bond Market - Currencies Markets - MarketWatch"
     },
     "readingTime": 5
   },
@@ -1092,6 +1344,27 @@
     "readingTime": 3
   },
   {
+    "id": "u-s-bureau-of-labor-statistics",
+    "type": "news",
+    "title": "U.S. Bureau of Labor Statistics",
+    "slug": "u-s-bureau-of-labor-statistics",
+    "date": "2026-09-07",
+    "displayDate": "September 7, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The U.S. Bureau of Labor Statistics collects and reports labor market data, measures economic trends, and provides data on employment and inflation. It operates",
+    "excerpt": "The U.S. Bureau of Labor Statistics collects and reports labor market data, measures economic trends, and provides data on employment and inflation. It operates under the Department of Labor and is the government's main source for labor market information. Established in 1884, it supports public and",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "U.S. Bureau of Labor Statistics"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "u-s-economic-calendar-marketwatch",
     "type": "news",
     "title": "U.S. Economic Calendar - MarketWatch",
@@ -1111,6 +1384,27 @@
       "alt": "U.S. Economic Calendar - MarketWatch"
     },
     "readingTime": 6
+  },
+  {
+    "id": "u-s-federal-reserve-news-today-s-latest-stories",
+    "type": "news",
+    "title": "U.S. Federal Reserve News | Today's Latest Stories",
+    "slug": "u-s-federal-reserve-news-today-s-latest-stories",
+    "date": "2026-09-07",
+    "displayDate": "September 7, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Reserve is considering raising interest rates due to high inflation, with mixed economic reports influencing policymakers. Recent speeches and repor",
+    "excerpt": "The Federal Reserve is considering raising interest rates due to high inflation, with mixed economic reports influencing policymakers. Recent speeches and reports indicate ongoing discussions about economic outlook and inflation control. The Fed's latest Beige Book and FOMC minutes are available for",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "U.S. Federal Reserve News | Today's Latest Stories"
+    },
+    "readingTime": 3
   },
   {
     "id": "u-s-stock-market-headlines-breaking-stock-market-news-reuters",
@@ -1172,6 +1466,27 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "United States Federal Reserve Interest Rate Decision - Investing.com"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "united-states-federal-reserve-interest-rate-decision",
+    "type": "news",
+    "title": "United States Federal Reserve Interest Rate Decision",
+    "slug": "united-states-federal-reserve-interest-rate-decision",
+    "date": "2026-09-07",
+    "displayDate": "September 7, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Reserve left interest rates unchanged at 3.50%-3.75% in September 2026. The next decision is scheduled for April 29, 2026. The current federal funds",
+    "excerpt": "The Federal Reserve left interest rates unchanged at 3.50%-3.75% in September 2026. The next decision is scheduled for April 29, 2026. The current federal funds rate is 3.64%.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "United States Federal Reserve Interest Rate Decision"
     },
     "readingTime": 4
   },
@@ -1575,48 +1890,6 @@
     "readingTime": 3
   },
   {
-    "id": "economic-indicators-dashboard-latest-gdp-cpi-unemployment-data-tipranks-com",
-    "type": "news",
-    "title": "Economic Indicators Dashboard: Latest GDP, CPI, Unemployment Data - TipRanks.com",
-    "slug": "economic-indicators-dashboard-latest-gdp-cpi-unemployment-data-tipranks-com",
-    "date": "2026-09-06",
-    "displayDate": "September 6, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Latest GDP, CPI, and unemployment data show a 4.1% unemployment rate in July 2026, a 2.4% CPI, and mixed economic indicators.",
-    "excerpt": "Latest GDP, CPI, and unemployment data show a 4.1% unemployment rate in July 2026, a 2.4% CPI, and mixed economic indicators.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Economic Indicators Dashboard: Latest GDP, CPI, Unemployment Data - TipRanks.com"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "economic-indicators-interactive-analysis-2026-gdp-cpi-fed-rates",
-    "type": "news",
-    "title": "Economic Indicators: Interactive & Analysis (2026 GDP, CPI, Fed Rates)",
-    "slug": "economic-indicators-interactive-analysis-2026-gdp-cpi-fed-rates",
-    "date": "2026-09-06",
-    "displayDate": "September 6, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "GDP grew 1.5% in Q2 2026; CPI inflation is expected at 3.5%; Fed rates remain stable.",
-    "excerpt": "GDP grew 1.5% in Q2 2026; CPI inflation is expected at 3.5%; Fed rates remain stable.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Economic Indicators: Interactive & Analysis (2026 GDP, CPI, Fed Rates)"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "economic-news-releases",
     "type": "news",
     "title": "Economic News Releases",
@@ -1699,48 +1972,6 @@
       "alt": "Global Stock Market News and World Indices Coverage - CNBC"
     },
     "readingTime": 4
-  },
-  {
-    "id": "how-should-i-allocate-my-portfolio-in-2026",
-    "type": "news",
-    "title": "How Should I Allocate My Portfolio in 2026?",
-    "slug": "how-should-i-allocate-my-portfolio-in-2026",
-    "date": "2026-09-06",
-    "displayDate": "September 6, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Allocate your portfolio based on your risk tolerance, time horizon, and income stability. Focus on stocks for growth, bonds for stability, and cash for liquidit",
-    "excerpt": "Allocate your portfolio based on your risk tolerance, time horizon, and income stability. Focus on stocks for growth, bonds for stability, and cash for liquidity. Review your allocation annually or after major life changes.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "How Should I Allocate My Portfolio in 2026?"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "investment-strategy-2026-portfolio-moves-for-a-changing-market",
-    "type": "news",
-    "title": "Investment Strategy 2026 Portfolio Moves for a Changing Market",
-    "slug": "investment-strategy-2026-portfolio-moves-for-a-changing-market",
-    "date": "2026-09-06",
-    "displayDate": "September 6, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "For 2026, focus on diversifying globally, increasing exposure to small caps, and considering alternative investments. Prioritize income generation and adapt to ",
-    "excerpt": "For 2026, focus on diversifying globally, increasing exposure to small caps, and considering alternative investments. Prioritize income generation and adapt to an AI-driven market. Stay flexible to shifting sector leadership.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Investment Strategy 2026 Portfolio Moves for a Changing Market"
-    },
-    "readingTime": 3
   },
   {
     "id": "s-p-500-spy-analysis-today-january-6-2026-s-p-500-spy-forecast-s-p-500-technical",
@@ -1951,27 +2182,6 @@
       "alt": "The Fed - July 28-29, 2026 FOMC Meeting"
     },
     "readingTime": 3
-  },
-  {
-    "id": "united-states-federal-reserve-interest-rate-decision",
-    "type": "news",
-    "title": "United States Federal Reserve Interest Rate Decision",
-    "slug": "united-states-federal-reserve-interest-rate-decision",
-    "date": "2026-09-06",
-    "displayDate": "September 6, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Reserve's next interest rate decision is scheduled for April 29, 2026. The current federal funds rate is 3.50%–3.75%. The last rate decision kept ra",
-    "excerpt": "The Federal Reserve's next interest rate decision is scheduled for April 29, 2026. The current federal funds rate is 3.50%–3.75%. The last rate decision kept rates unchanged.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "United States Federal Reserve Interest Rate Decision"
-    },
-    "readingTime": 4
   },
   {
     "id": "united-states-inflation-rate",
@@ -2646,27 +2856,6 @@
     "readingTime": 3
   },
   {
-    "id": "healthcare-stocks-in-2026",
-    "type": "news",
-    "title": "Healthcare Stocks in 2026",
-    "slug": "healthcare-stocks-in-2026",
-    "date": "2026-09-04",
-    "displayDate": "September 4, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Moderna Inc, Incyte Corp, Regeneron Pharmaceuticals, Vertex Pharmaceuticals, and Bio-Techne Corp are top-performing healthcare stocks in 2026. Bristol Myers Squ",
-    "excerpt": "Moderna Inc, Incyte Corp, Regeneron Pharmaceuticals, Vertex Pharmaceuticals, and Bio-Techne Corp are top-performing healthcare stocks in 2026. Bristol Myers Squibb Co has strong fundamentals and outperformed the sector. GLP-1 receptor agonists are driving significant pharmaceutical growth.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Healthcare Stocks in 2026"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "how-healthy-is-the-us-economy-here-s-what-the-top-economic-indicators-say-mornin",
     "type": "news",
     "title": "How Healthy Is the US Economy? Here’s What the Top Economic Indicators Say | Morningstar",
@@ -2728,27 +2917,6 @@
       "alt": "S&P 500 INDEX TODAY | INX LIVE TICKER | S&P 500 QUOTE & CHART | Markets Insider"
     },
     "readingTime": 4
-  },
-  {
-    "id": "s-p-500-sp500-technical-analysis-medium-term",
-    "type": "news",
-    "title": "S&P 500 (SP500) - Technical Analysis - Medium term",
-    "slug": "s-p-500-sp500-technical-analysis-medium-term",
-    "date": "2026-09-04",
-    "displayDate": "September 4, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The S&P 500 is currently in a bullish trend for the medium term, approaching resistance at 7800 points, with a weak positive outlook. The index has broken a sho",
-    "excerpt": "The S&P 500 is currently in a bullish trend for the medium term, approaching resistance at 7800 points, with a weak positive outlook. The index has broken a short-term support level, signaling caution. A break above 7800 would confirm bullish momentum.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "S&P 500 (SP500) - Technical Analysis - Medium term"
-    },
-    "readingTime": 3
   },
   {
     "id": "stock-market-outlook-today-tomorrow-market-outlook-forecast-seeking-alpha",
@@ -2980,48 +3148,6 @@
       "alt": "S&P 500 Index (SP500) Analysis, News, And Chart Today"
     },
     "readingTime": 3
-  },
-  {
-    "id": "s-p-500-index-technical-analysis",
-    "type": "news",
-    "title": "S&P 500 Index Technical Analysis",
-    "slug": "s-p-500-index-technical-analysis",
-    "date": "2026-09-03",
-    "displayDate": "September 3, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The S&P 500 Index shows weak positive medium-term technical analysis with a close of 7,631.47 on September 1, 2026. Key indicators include moving averages and R",
-    "excerpt": "The S&P 500 Index shows weak positive medium-term technical analysis with a close of 7,631.47 on September 1, 2026. Key indicators include moving averages and RSI. The trend is positive in the short and long terms.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "S&P 500 Index Technical Analysis"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "stock-market-news-bond-market-currencies-markets-marketwatch",
-    "type": "news",
-    "title": "Stock Market News - Bond Market - Currencies Markets - MarketWatch",
-    "slug": "stock-market-news-bond-market-currencies-markets-marketwatch",
-    "date": "2026-09-03",
-    "displayDate": "September 3, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Dow Jones Industrial Average rose 0.56%, U.S. Treasury yields fell slightly, and bond market signals differ from stock market optimism.",
-    "excerpt": "The Dow Jones Industrial Average rose 0.56%, U.S. Treasury yields fell slightly, and bond market signals differ from stock market optimism.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Stock Market News - Bond Market - Currencies Markets - MarketWatch"
-    },
-    "readingTime": 4
   },
   {
     "id": "united-states-fed-funds-interest-rate-trading-economics",
@@ -3442,27 +3568,6 @@
       "alt": "These Are the Stocks Reporting Earnings Today – January 27, 2026 - TipRanks.com"
     },
     "readingTime": 4
-  },
-  {
-    "id": "u-s-bureau-of-labor-statistics",
-    "type": "news",
-    "title": "U.S. Bureau of Labor Statistics",
-    "slug": "u-s-bureau-of-labor-statistics",
-    "date": "2026-09-02",
-    "displayDate": "September 2, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Bureau of Labor Statistics is a U.S. government agency that collects and reports data on employment, wages, and inflation. It was established in 1884 and is",
-    "excerpt": "The Bureau of Labor Statistics is a U.S. government agency that collects and reports data on employment, wages, and inflation. It was established in 1884 and is part of the Department of Labor. Its key reports include the Consumer Price Index and unemployment rates.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "U.S. Bureau of Labor Statistics"
-    },
-    "readingTime": 3
   },
   {
     "id": "weekly-trader-s-stock-market-outlook-charles-schwab",
