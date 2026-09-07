@@ -105,6 +105,27 @@
     "readingTime": 3
   },
   {
+    "id": "bitcoin-btc-price-today-btc-live-price-charts-news",
+    "type": "news",
+    "title": "Bitcoin (BTC) Price Today: BTC Live Price, Charts, News",
+    "slug": "bitcoin-btc-price-today-btc-live-price-charts-news",
+    "date": "2026-09-07",
+    "displayDate": "September 7, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin's price today is $78,065.09, with a market cap of $1.55T. It has a 24-hour trading volume of $29.9B. The all-time high is $126,279.62.",
+    "excerpt": "Bitcoin's price today is $78,065.09, with a market cap of $1.55T. It has a 24-hour trading volume of $29.9B. The all-time high is $126,279.62.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Bitcoin (BTC) Price Today: BTC Live Price, Charts, News"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "bitcoin-btc-price-usd-today-news-charts-market-cap",
     "type": "news",
     "title": "Bitcoin (BTC) Price USD Today, News, Charts, Market Cap",
@@ -189,6 +210,27 @@
     "readingTime": 4
   },
   {
+    "id": "cpi-home-u-s-bureau-of-labor-statistics",
+    "type": "news",
+    "title": "CPI Home : U.S. Bureau of Labor Statistics",
+    "slug": "cpi-home-u-s-bureau-of-labor-statistics",
+    "date": "2026-09-07",
+    "displayDate": "September 7, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Consumer Price Index (CPI) increased 0.1% in July 2026, with a 3.4% rise over the past year. Energy prices surged significantly, while medical care costs de",
+    "excerpt": "The Consumer Price Index (CPI) increased 0.1% in July 2026, with a 3.4% rise over the past year. Energy prices surged significantly, while medical care costs declined. For more details, visit www.bls.gov/cpi.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "CPI Home : U.S. Bureau of Labor Statistics"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "earnings-calendar-and-analysis-for-this-week-september-7-11",
     "type": "news",
     "title": "Earnings Calendar and Analysis for This Week (September 7-11)",
@@ -229,6 +271,27 @@
       "alt": "Earnings Calendar - Investing.com"
     },
     "readingTime": 4
+  },
+  {
+    "id": "earnings-calendar-marketwatch",
+    "type": "news",
+    "title": "Earnings Calendar - MarketWatch",
+    "slug": "earnings-calendar-marketwatch",
+    "date": "2026-09-07",
+    "displayDate": "September 7, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The earnings calendar lists upcoming earnings reports for companies like Hooker Furnishings Corp. and Kroger Co. for the fiscal quarter ending July 31, 2026. EP",
+    "excerpt": "The earnings calendar lists upcoming earnings reports for companies like Hooker Furnishings Corp. and Kroger Co. for the fiscal quarter ending July 31, 2026. EPS forecasts are available, but actual results and surprises are not yet reported. MarketWatch provides detailed earnings news and analysis.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Earnings Calendar - MarketWatch"
+    },
+    "readingTime": 3
   },
   {
     "id": "earnings-calendar",
@@ -273,6 +336,48 @@
     "readingTime": 3
   },
   {
+    "id": "economic-calendar",
+    "type": "news",
+    "title": "Economic Calendar",
+    "slug": "economic-calendar",
+    "date": "2026-09-07",
+    "displayDate": "September 7, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "An economic calendar lists upcoming financial events and data releases that can impact markets. It includes forecasts, actual values, and expert analyses. It he",
+    "excerpt": "An economic calendar lists upcoming financial events and data releases that can impact markets. It includes forecasts, actual values, and expert analyses. It helps traders make informed decisions.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Economic Calendar"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "economic-news-releases-u-s-bureau-of-labor-statistics",
+    "type": "news",
+    "title": "Economic News Releases :  U.S. Bureau of Labor Statistics",
+    "slug": "economic-news-releases-u-s-bureau-of-labor-statistics",
+    "date": "2026-09-07",
+    "displayDate": "September 7, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The U.S. Bureau of Labor Statistics releases economic news on CPI, employment, productivity, and wages. The latest data shows real average hourly earnings decre",
+    "excerpt": "The U.S. Bureau of Labor Statistics releases economic news on CPI, employment, productivity, and wages. The latest data shows real average hourly earnings decreased in July 2026. The latest news is available on their website.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Economic News Releases :  U.S. Bureau of Labor Statistics"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "economic-sector-performance-dashboards-yahoo-finance",
     "type": "news",
     "title": "Economic Sector Performance Dashboards - Yahoo Finance",
@@ -292,6 +397,27 @@
       "alt": "Economic Sector Performance Dashboards - Yahoo Finance"
     },
     "readingTime": 3
+  },
+  {
+    "id": "federal-reserve-board-monetary-policy",
+    "type": "news",
+    "title": "Federal Reserve Board - Monetary Policy",
+    "slug": "federal-reserve-board-monetary-policy",
+    "date": "2026-09-07",
+    "displayDate": "September 7, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Reserve's monetary policy aims for maximum employment, stable prices, and moderate long-term interest rates. It is primarily conducted through the F",
+    "excerpt": "The Federal Reserve's monetary policy aims for maximum employment, stable prices, and moderate long-term interest rates. It is primarily conducted through the Federal Open Market Committee and involves setting the federal funds rate. The Fed uses tools like interest on reserve balances to implement ",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Federal Reserve Board - Monetary Policy"
+    },
+    "readingTime": 4
   },
   {
     "id": "federal-reserve-holds-rates-at-3-50-3-75-in-july-2026",
@@ -315,6 +441,132 @@
     "readingTime": 4
   },
   {
+    "id": "geekwire-breaking-news-in-technology-business",
+    "type": "news",
+    "title": "GeekWire – Breaking News in Technology & Business",
+    "slug": "geekwire-breaking-news-in-technology-business",
+    "date": "2026-09-07",
+    "displayDate": "September 7, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "GeekWire covers technology and business news, focusing on startups and innovations, with a strong presence in the Seattle tech scene. It includes news on AI adv",
+    "excerpt": "GeekWire covers technology and business news, focusing on startups and innovations, with a strong presence in the Seattle tech scene. It includes news on AI advancements and significant tech industry moves. Founded in 2011, it has a global audience.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "GeekWire – Breaking News in Technology & Business"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "global-indices-tracking-the-world-s-markets",
+    "type": "news",
+    "title": "Global Indices - Tracking the World's Markets",
+    "slug": "global-indices-tracking-the-world-s-markets",
+    "date": "2026-09-07",
+    "displayDate": "September 7, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The S&P 500 and Nikkei 225 indices are currently tracking significant gains, with the S&P 500 up 0.38% and the Nikkei 225 up 1.26%. The Hang Seng Index also sho",
+    "excerpt": "The S&P 500 and Nikkei 225 indices are currently tracking significant gains, with the S&P 500 up 0.38% and the Nikkei 225 up 1.26%. The Hang Seng Index also shows a notable increase of 1.74%.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Global Indices - Tracking the World's Markets"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "global-market-indices-international-markets-markets-insider",
+    "type": "news",
+    "title": "Global Market Indices | International Markets - Markets Insider",
+    "slug": "global-market-indices-international-markets-markets-insider",
+    "date": "2026-09-07",
+    "displayDate": "September 7, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The US Dollar Index (DXY) measures the value of the US dollar against a basket of foreign currencies. As of 2026, it has shown a -4.15% performance over 250 day",
+    "excerpt": "The US Dollar Index (DXY) measures the value of the US dollar against a basket of foreign currencies. As of 2026, it has shown a -4.15% performance over 250 days. The index's high was 104.68, and its low was 96.22.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Global Market Indices | International Markets - Markets Insider"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "global-stock-market-news-and-world-indices-coverage",
+    "type": "news",
+    "title": "Global Stock Market News and World Indices Coverage",
+    "slug": "global-stock-market-news-and-world-indices-coverage",
+    "date": "2026-09-07",
+    "displayDate": "September 7, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Global stock markets are mixed; European indices slightly down, while Asian markets show gains. Major indices like S&P 500 and Nikkei 225 are up. Current date i",
+    "excerpt": "Global stock markets are mixed; European indices slightly down, while Asian markets show gains. Major indices like S&P 500 and Nikkei 225 are up. Current date is September 7, 2026.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Global Stock Market News and World Indices Coverage"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "how-the-fomc-conducts-monetary-policy-st-louis-fed",
+    "type": "news",
+    "title": "How the FOMC Conducts Monetary Policy | St. Louis Fed",
+    "slug": "how-the-fomc-conducts-monetary-policy-st-louis-fed",
+    "date": "2026-09-07",
+    "displayDate": "September 7, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Open Market Committee (FOMC) conducts monetary policy by adjusting the federal funds rate and uses tools to implement decisions, communicating actio",
+    "excerpt": "The Federal Open Market Committee (FOMC) conducts monetary policy by adjusting the federal funds rate and uses tools to implement decisions, communicating actions through statements and press conferences.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "How the FOMC Conducts Monetary Policy | St. Louis Fed"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "how-to-invest-in-today-s-market-u-s-bank",
+    "type": "news",
+    "title": "How to Invest in Today’s Market | U.S. Bank",
+    "slug": "how-to-invest-in-today-s-market-u-s-bank",
+    "date": "2026-09-07",
+    "displayDate": "September 7, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "To invest in today's market, focus on aligning your portfolio with your goals and risk tolerance. Diversify across stocks, bonds, and mutual funds. Consult a fi",
+    "excerpt": "To invest in today's market, focus on aligning your portfolio with your goals and risk tolerance. Diversify across stocks, bonds, and mutual funds. Consult a financial advisor for tailored advice.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "How to Invest in Today’s Market | U.S. Bank"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "investment-strategies-for-today-and-long-term-blackrock",
     "type": "news",
     "title": "Investment strategies for today and long-term | BlackRock",
@@ -332,6 +584,90 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "Investment strategies for today and long-term | BlackRock"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "investment-strategies-for-today-and-long-term",
+    "type": "news",
+    "title": "Investment strategies for today and long-term",
+    "slug": "investment-strategies-for-today-and-long-term",
+    "date": "2026-09-07",
+    "displayDate": "September 7, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "For today, focus on income-focused portfolios; for long-term, diversify across various asset classes to balance risk and growth. Dollar-cost averaging and rebal",
+    "excerpt": "For today, focus on income-focused portfolios; for long-term, diversify across various asset classes to balance risk and growth. Dollar-cost averaging and rebalancing can help manage market fluctuations.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Investment strategies for today and long-term"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "latest-technology-news-and-reviews",
+    "type": "news",
+    "title": "Latest Technology News and Reviews",
+    "slug": "latest-technology-news-and-reviews",
+    "date": "2026-09-07",
+    "displayDate": "September 7, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Latest technology news includes reviews of the Razer Cobra HyperSpeed mouse and Apple TV, and updates on Microsoft's Project Zenith and iRobot's new Roomba conc",
+    "excerpt": "Latest technology news includes reviews of the Razer Cobra HyperSpeed mouse and Apple TV, and updates on Microsoft's Project Zenith and iRobot's new Roomba concept. Essential tech trends involve AI advancements and new foldable devices.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Latest Technology News and Reviews"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "meta-title-sectors",
+    "type": "news",
+    "title": "META_TITLE_SECTORS",
+    "slug": "meta-title-sectors",
+    "date": "2026-09-07",
+    "displayDate": "September 7, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "A meta title is the webpage's title shown in search results. It's crucial for SEO and user experience. Optimizing meta titles can improve search rankings and cl",
+    "excerpt": "A meta title is the webpage's title shown in search results. It's crucial for SEO and user experience. Optimizing meta titles can improve search rankings and click-through rates.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "META_TITLE_SECTORS"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "sector-views-monthly-stock-sector-outlook",
+    "type": "news",
+    "title": "Sector Views: Monthly Stock Sector Outlook",
+    "slug": "sector-views-monthly-stock-sector-outlook",
+    "date": "2026-09-07",
+    "displayDate": "September 7, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Financials, Energy, and Materials sectors are currently rated as outperform; Real Estate and Consumer Discretionary are underperform; others are marketperform. ",
+    "excerpt": "Financials, Energy, and Materials sectors are currently rated as outperform; Real Estate and Consumer Discretionary are underperform; others are marketperform. The ratings are based on a factor-based approach and economic assessment. Data is current as of July 2024.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Sector Views: Monthly Stock Sector Outlook"
     },
     "readingTime": 3
   },
@@ -355,6 +691,48 @@
       "alt": "Sectors — Stock Market — USA — TradingView"
     },
     "readingTime": 5
+  },
+  {
+    "id": "technology-news",
+    "type": "news",
+    "title": "Technology News",
+    "slug": "technology-news",
+    "date": "2026-09-07",
+    "displayDate": "September 7, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Google continues AI momentum; Microsoft discloses Azure revenue; Tesla teases Cybercab update.",
+    "excerpt": "Google continues AI momentum; Microsoft discloses Azure revenue; Tesla teases Cybercab update.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Technology News"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "the-fed-federal-open-market-committee",
+    "type": "news",
+    "title": "The Fed - Federal Open Market Committee",
+    "slug": "the-fed-federal-open-market-committee",
+    "date": "2026-09-07",
+    "displayDate": "September 7, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Open Market Committee (FOMC) is the main body of the Federal Reserve System that sets U.S. monetary policy. It consists of twelve members and holds ",
+    "excerpt": "The Federal Open Market Committee (FOMC) is the main body of the Federal Reserve System that sets U.S. monetary policy. It consists of twelve members and holds eight meetings annually. The FOMC determines interest rates and money supply growth.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "The Fed - Federal Open Market Committee"
+    },
+    "readingTime": 4
   },
   {
     "id": "this-week-s-best-performing-stocks-sectors-industries-rankings-csimarket",
@@ -418,6 +796,48 @@
       "alt": "U.S. Bureau of Economic Analysis (BEA)"
     },
     "readingTime": 3
+  },
+  {
+    "id": "u-s-bureau-of-labor-statistics-u-s-bureau-of-labor-statistics",
+    "type": "news",
+    "title": "U.S. Bureau of Labor Statistics : U.S. Bureau of Labor Statistics",
+    "slug": "u-s-bureau-of-labor-statistics-u-s-bureau-of-labor-statistics",
+    "date": "2026-09-07",
+    "displayDate": "September 7, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Bureau of Labor Statistics is a federal agency that collects and reports labor market information. It measures employment, inflation, and productivity. Esta",
+    "excerpt": "The Bureau of Labor Statistics is a federal agency that collects and reports labor market information. It measures employment, inflation, and productivity. Established in 1884, it reports data to inform public and private decisions.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "U.S. Bureau of Labor Statistics : U.S. Bureau of Labor Statistics"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "u-s-economic-calendar-marketwatch",
+    "type": "news",
+    "title": "U.S. Economic Calendar - MarketWatch",
+    "slug": "u-s-economic-calendar-marketwatch",
+    "date": "2026-09-07",
+    "displayDate": "September 7, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "On September 17, 2026, U.S. economic reports include Housing Starts and Philadelphia Fed Business Outlook Survey. No events are scheduled for September 7, 2026.",
+    "excerpt": "On September 17, 2026, U.S. economic reports include Housing Starts and Philadelphia Fed Business Outlook Survey. No events are scheduled for September 7, 2026. The most significant report on September 8 is the NFIB Index of Small Business Optimism.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "U.S. Economic Calendar - MarketWatch"
+    },
+    "readingTime": 6
   },
   {
     "id": "u-s-stock-market-headlines-breaking-stock-market-news-reuters",
@@ -840,27 +1260,6 @@
     "readingTime": 3
   },
   {
-    "id": "cpi-home-u-s-bureau-of-labor-statistics",
-    "type": "news",
-    "title": "CPI Home : U.S. Bureau of Labor Statistics",
-    "slug": "cpi-home-u-s-bureau-of-labor-statistics",
-    "date": "2026-09-06",
-    "displayDate": "September 6, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Consumer Price Index (CPI) measures average price changes for consumer goods and services. In July 2026, the CPI-U increased 0.1 percent. Over the past year",
-    "excerpt": "The Consumer Price Index (CPI) measures average price changes for consumer goods and services. In July 2026, the CPI-U increased 0.1 percent. Over the past year, the all items index rose 3.4 percent.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "CPI Home : U.S. Bureau of Labor Statistics"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "crypto-news-bitcoin-ethereum-xrp-news-crypto-news",
     "type": "news",
     "title": "Crypto News: Bitcoin, Ethereum & XRP News | crypto.news",
@@ -920,48 +1319,6 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "Cryptocurrency Price Prediction Today 23 January – XRP, Bitcoin, Ethereum | WEEX Crypto News"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "earnings-calendar-marketwatch",
-    "type": "news",
-    "title": "Earnings Calendar - MarketWatch",
-    "slug": "earnings-calendar-marketwatch",
-    "date": "2026-09-06",
-    "displayDate": "September 6, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "On September 7, 2026, no earnings reports are scheduled. Virco Manufacturing Corp. and Medtronic PLC are set to report earnings on July 31, 2026. The U.S. econo",
-    "excerpt": "On September 7, 2026, no earnings reports are scheduled. Virco Manufacturing Corp. and Medtronic PLC are set to report earnings on July 31, 2026. The U.S. economic calendar on September 7 has no scheduled events.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Earnings Calendar - MarketWatch"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "economic-calendar",
-    "type": "news",
-    "title": "Economic Calendar",
-    "slug": "economic-calendar",
-    "date": "2026-09-06",
-    "displayDate": "September 6, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "An economic calendar lists upcoming financial events that can impact markets, including interest rates and GDP releases. It helps traders prepare for market-mov",
-    "excerpt": "An economic calendar lists upcoming financial events that can impact markets, including interest rates and GDP releases. It helps traders prepare for market-moving events. As of today, key events include inflation rates and GDP figures.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Economic Calendar"
     },
     "readingTime": 3
   },
@@ -1071,27 +1428,6 @@
     "readingTime": 3
   },
   {
-    "id": "federal-reserve-board-monetary-policy",
-    "type": "news",
-    "title": "Federal Reserve Board - Monetary Policy",
-    "slug": "federal-reserve-board-monetary-policy",
-    "date": "2026-09-06",
-    "displayDate": "September 6, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Reserve's monetary policy aims for maximum employment and stable prices, primarily using the federal funds rate and tools like interest on reserves.",
-    "excerpt": "The Federal Reserve's monetary policy aims for maximum employment and stable prices, primarily using the federal funds rate and tools like interest on reserves. The Federal Open Market Committee sets this policy. The Fed reviews its strategy periodically.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Federal Reserve Board - Monetary Policy"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "global-indices-tracking-the-world-s-markets-groww",
     "type": "news",
     "title": "Global Indices - Tracking the World's Markets - Groww",
@@ -1109,48 +1445,6 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "Global Indices - Tracking the World's Markets - Groww"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "global-indices-tracking-the-world-s-markets",
-    "type": "news",
-    "title": "Global Indices - Tracking the World's Markets",
-    "slug": "global-indices-tracking-the-world-s-markets",
-    "date": "2026-09-06",
-    "displayDate": "September 6, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "As of September 6, 2026, the S&P 500 is at 7,738.81, down 29.90 points (0.38%). The Nikkei 225 is at 65,020.94, up 806.46 points (1.26%). The Hang Seng Index is",
-    "excerpt": "As of September 6, 2026, the S&P 500 is at 7,738.81, down 29.90 points (0.38%). The Nikkei 225 is at 65,020.94, up 806.46 points (1.26%). The Hang Seng Index is at 25,650.90, up 437.58 points (1.74%).",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Global Indices - Tracking the World's Markets"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "global-market-indices-international-markets-markets-insider",
-    "type": "news",
-    "title": "Global Market Indices | International Markets - Markets Insider",
-    "slug": "global-market-indices-international-markets-markets-insider",
-    "date": "2026-09-06",
-    "displayDate": "September 6, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The NIKKEI 225 index closed at 65,020.94, up 1.26%, and the S&P 500 closed at 7,738.81, down 0.38%.",
-    "excerpt": "The NIKKEI 225 index closed at 65,020.94, up 1.26%, and the S&P 500 closed at 7,738.81, down 0.38%.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Global Market Indices | International Markets - Markets Insider"
     },
     "readingTime": 4
   },
@@ -1174,27 +1468,6 @@
       "alt": "Global Stock Market News and World Indices Coverage - CNBC"
     },
     "readingTime": 4
-  },
-  {
-    "id": "global-stock-market-news-and-world-indices-coverage",
-    "type": "news",
-    "title": "Global Stock Market News and World Indices Coverage",
-    "slug": "global-stock-market-news-and-world-indices-coverage",
-    "date": "2026-09-06",
-    "displayDate": "September 6, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Global stock markets and world indices show mixed trends with some regions advancing while others decline, influenced by geopolitical events and economic data. ",
-    "excerpt": "Global stock markets and world indices show mixed trends with some regions advancing while others decline, influenced by geopolitical events and economic data. Major indices like Dow Jones, S&P 500, and Nikkei 225 have experienced fluctuations. Current data reflects recent market movements as of Sep",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Global Stock Market News and World Indices Coverage"
-    },
-    "readingTime": 3
   },
   {
     "id": "health-technology-sector-companies-performance-and-stocks-usa-tradingview",
@@ -1239,27 +1512,6 @@
     "readingTime": 4
   },
   {
-    "id": "how-the-fomc-conducts-monetary-policy-st-louis-fed",
-    "type": "news",
-    "title": "How the FOMC Conducts Monetary Policy | St. Louis Fed",
-    "slug": "how-the-fomc-conducts-monetary-policy-st-louis-fed",
-    "date": "2026-09-06",
-    "displayDate": "September 6, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The FOMC conducts monetary policy by adjusting the federal funds rate, and the Fed implements it using tools to influence market interest rates.",
-    "excerpt": "The FOMC conducts monetary policy by adjusting the federal funds rate, and the Fed implements it using tools to influence market interest rates.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "How the FOMC Conducts Monetary Policy | St. Louis Fed"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "investment-strategy-2026-portfolio-moves-for-a-changing-market",
     "type": "news",
     "title": "Investment Strategy 2026 Portfolio Moves for a Changing Market",
@@ -1279,27 +1531,6 @@
       "alt": "Investment Strategy 2026 Portfolio Moves for a Changing Market"
     },
     "readingTime": 3
-  },
-  {
-    "id": "latest-technology-news-and-reviews",
-    "type": "news",
-    "title": "Latest Technology News and Reviews",
-    "slug": "latest-technology-news-and-reviews",
-    "date": "2026-09-06",
-    "displayDate": "September 6, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Latest tech news includes updates on Microsoft Office deals and new Apple HomePods. Google's Nest speaker lineup is ending. Meta faces a $17 billion settlement ",
-    "excerpt": "Latest tech news includes updates on Microsoft Office deals and new Apple HomePods. Google's Nest speaker lineup is ending. Meta faces a $17 billion settlement for social media addiction issues.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Latest Technology News and Reviews"
-    },
-    "readingTime": 4
   },
   {
     "id": "s-p-500-spy-analysis-today-january-6-2026-s-p-500-spy-forecast-s-p-500-technical",
@@ -1340,27 +1571,6 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "S&P 500 (SPY) Analysis Today | SEPTEMBER 04 2025 | S&P 500 SPY Forecast | S&P 500 Technical analysis"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "sector-views-monthly-stock-sector-outlook",
-    "type": "news",
-    "title": "Sector Views: Monthly Stock Sector Outlook",
-    "slug": "sector-views-monthly-stock-sector-outlook",
-    "date": "2026-09-06",
-    "displayDate": "September 6, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The monthly stock sector outlook indicates strong performance in Information Technology and Energy sectors, while Consumer Discretionary and Communication Servi",
-    "excerpt": "The monthly stock sector outlook indicates strong performance in Information Technology and Energy sectors, while Consumer Discretionary and Communication Services have shown declines. The S&P 500 index has performed moderately over the trailing six and twelve months.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Sector Views: Monthly Stock Sector Outlook"
     },
     "readingTime": 3
   },
@@ -1491,27 +1701,6 @@
     "readingTime": 4
   },
   {
-    "id": "technology-news",
-    "type": "news",
-    "title": "Technology News",
-    "slug": "technology-news",
-    "date": "2026-09-06",
-    "displayDate": "September 6, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Meta debuted its first augmented reality glasses; Google is building an agentic PC; LSEG offers financial data and market insights.",
-    "excerpt": "Meta debuted its first augmented reality glasses; Google is building an agentic PC; LSEG offers financial data and market insights.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Technology News"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "the-fed-april-28-29-2026-fomc-meeting",
     "type": "news",
     "title": "The Fed - April 28-29, 2026 FOMC Meeting",
@@ -1529,27 +1718,6 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "The Fed - April 28-29, 2026 FOMC Meeting"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "the-fed-federal-open-market-committee",
-    "type": "news",
-    "title": "The Fed - Federal Open Market Committee",
-    "slug": "the-fed-federal-open-market-committee",
-    "date": "2026-09-06",
-    "displayDate": "September 6, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Open Market Committee (FOMC) is the main body of the Federal Reserve System for setting U.S. monetary policy. It consists of twelve members and meet",
-    "excerpt": "The Federal Open Market Committee (FOMC) is the main body of the Federal Reserve System for setting U.S. monetary policy. It consists of twelve members and meets eight times a year to decide on interest rates and money supply. The FOMC oversees open market operations.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "The Fed - Federal Open Market Committee"
     },
     "readingTime": 4
   },
@@ -1573,27 +1741,6 @@
       "alt": "The Fed - July 28-29, 2026 FOMC Meeting"
     },
     "readingTime": 3
-  },
-  {
-    "id": "u-s-economic-calendar-marketwatch",
-    "type": "news",
-    "title": "U.S. Economic Calendar - MarketWatch",
-    "slug": "u-s-economic-calendar-marketwatch",
-    "date": "2026-09-06",
-    "displayDate": "September 6, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "On September 3, 2026, the U.S. Trade Balance and Weekly Jobless Claims are scheduled for release. Federal Reserve Governor Christopher Waller will speak on Sept",
-    "excerpt": "On September 3, 2026, the U.S. Trade Balance and Weekly Jobless Claims are scheduled for release. Federal Reserve Governor Christopher Waller will speak on September 3. No events are scheduled for September 7.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "U.S. Economic Calendar - MarketWatch"
-    },
-    "readingTime": 5
   },
   {
     "id": "united-states-federal-reserve-interest-rate-decision",
@@ -1932,48 +2079,6 @@
     "readingTime": 3
   },
   {
-    "id": "economic-news-releases-u-s-bureau-of-labor-statistics",
-    "type": "news",
-    "title": "Economic News Releases :  U.S. Bureau of Labor Statistics",
-    "slug": "economic-news-releases-u-s-bureau-of-labor-statistics",
-    "date": "2026-09-05",
-    "displayDate": "September 5, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The U.S. Bureau of Labor Statistics releases economic data on inflation, employment, productivity, and earnings. The latest Consumer Price Index increase was 0.",
-    "excerpt": "The U.S. Bureau of Labor Statistics releases economic data on inflation, employment, productivity, and earnings. The latest Consumer Price Index increase was 0.1% in July 2026. Real average hourly earnings decreased 0.1% in July 2026.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Economic News Releases :  U.S. Bureau of Labor Statistics"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "geekwire-breaking-news-in-technology-business",
-    "type": "news",
-    "title": "GeekWire – Breaking News in Technology & Business",
-    "slug": "geekwire-breaking-news-in-technology-business",
-    "date": "2026-09-05",
-    "displayDate": "September 5, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "GeekWire covers technology and business news, focusing on the Pacific Northwest, with notable stories on AI advancements and Amazon layoffs. Founded in 2011, it",
-    "excerpt": "GeekWire covers technology and business news, focusing on the Pacific Northwest, with notable stories on AI advancements and Amazon layoffs. Founded in 2011, it has a strong global audience.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "GeekWire – Breaking News in Technology & Business"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "global-market-headlines-breaking-stock-market-news",
     "type": "news",
     "title": "Global Market Headlines | Breaking Stock Market News",
@@ -2054,27 +2159,6 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "Healthcare Stocks in 2026 | U.S. Bank"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "how-to-invest-in-today-s-market-u-s-bank",
-    "type": "news",
-    "title": "How to Invest in Today’s Market | U.S. Bank",
-    "slug": "how-to-invest-in-today-s-market-u-s-bank",
-    "date": "2026-09-05",
-    "displayDate": "September 5, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "To invest in today's market, start with stocks or bonds, diversify your portfolio, and regularly review your investments.",
-    "excerpt": "To invest in today's market, start with stocks or bonds, diversify your portfolio, and regularly review your investments.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "How to Invest in Today’s Market | U.S. Bank"
     },
     "readingTime": 3
   },
@@ -2751,27 +2835,6 @@
     "readingTime": 3
   },
   {
-    "id": "meta-title-sectors",
-    "type": "news",
-    "title": "META_TITLE_SECTORS",
-    "slug": "meta-title-sectors",
-    "date": "2026-09-03",
-    "displayDate": "September 3, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "A meta title is an HTML element defining a webpage's title, crucial for SEO and displayed in search results. It impacts search rankings and click-through rates.",
-    "excerpt": "A meta title is an HTML element defining a webpage's title, crucial for SEO and displayed in search results. It impacts search rankings and click-through rates. Optimizing meta titles is vital for effective SEO.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "META_TITLE_SECTORS"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "s-p-500-index-sp500-analysis-news-and-chart-today",
     "type": "news",
     "title": "S&P 500 Index (SP500) Analysis, News, And Chart Today",
@@ -3440,27 +3503,6 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "How to Start Investing: A Beginner's Guide"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "investment-strategies-for-today-and-long-term",
-    "type": "news",
-    "title": "Investment strategies for today and long-term",
-    "slug": "investment-strategies-for-today-and-long-term",
-    "date": "2026-09-01",
-    "displayDate": "September 1, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "For today, focus on income-focused portfolios; for long-term, diversify across various asset classes to balance risk and growth.",
-    "excerpt": "For today, focus on income-focused portfolios; for long-term, diversify across various asset classes to balance risk and growth.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Investment strategies for today and long-term"
     },
     "readingTime": 3
   },
@@ -5416,27 +5458,6 @@
       "alt": "Best"
     },
     "readingTime": 3
-  },
-  {
-    "id": "bitcoin-btc-price-today-btc-live-price-charts-news",
-    "type": "news",
-    "title": "Bitcoin (BTC) Price Today: BTC Live Price, Charts, News",
-    "slug": "bitcoin-btc-price-today-btc-live-price-charts-news",
-    "date": "2026-08-05",
-    "displayDate": "August 5, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Bitcoin's price today is $63,899.90, with a market cap of $1.28T and a 24-hour trading volume of $25.78B. It reached an all-time high of $126,279.62.",
-    "excerpt": "Bitcoin's price today is $63,899.90, with a market cap of $1.28T and a 24-hour trading volume of $25.78B. It reached an all-time high of $126,279.62.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Bitcoin (BTC) Price Today: BTC Live Price, Charts, News"
-    },
-    "readingTime": 4
   },
   {
     "id": "cnbc-stock-markets-business-news-financials-earnings",
