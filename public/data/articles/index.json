@@ -105,6 +105,69 @@
     "readingTime": 3
   },
   {
+    "id": "company-earnings-calendar-yahoo-finance",
+    "type": "news",
+    "title": "Company Earnings Calendar - Yahoo Finance",
+    "slug": "company-earnings-calendar-yahoo-finance",
+    "date": "2026-09-08",
+    "displayDate": "September 8, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "On September 8, 2026, Sunbelt Rentals Holdings and Korn Ferry are scheduled to announce their earnings. The earnings calendar also lists upcoming announcements ",
+    "excerpt": "On September 8, 2026, Sunbelt Rentals Holdings and Korn Ferry are scheduled to announce their earnings. The earnings calendar also lists upcoming announcements from other companies like Kroger and AnaptysBio.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Company Earnings Calendar - Yahoo Finance"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "earnings-calendar-and-analysis-for-this-week-september-7-11",
+    "type": "news",
+    "title": "Earnings Calendar and Analysis for This Week (September 7-11)",
+    "slug": "earnings-calendar-and-analysis-for-this-week-september-7-11",
+    "date": "2026-09-08",
+    "displayDate": "September 8, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "On September 8, no major earnings reports are scheduled. On September 11, Kroger is the only major company reporting earnings. The earnings season picks up sign",
+    "excerpt": "On September 8, no major earnings reports are scheduled. On September 11, Kroger is the only major company reporting earnings. The earnings season picks up significantly on September 9 and 10.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Earnings Calendar and Analysis for This Week (September 7-11)"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "earnings-calendar-marketwatch",
+    "type": "news",
+    "title": "Earnings Calendar - MarketWatch",
+    "slug": "earnings-calendar-marketwatch",
+    "date": "2026-09-08",
+    "displayDate": "September 8, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Earnings reports for September 8, 2026, include Sunbelt Rentals Holdings and Korn Ferry. EPS forecasts are available, but actual results are not yet reported. T",
+    "excerpt": "Earnings reports for September 8, 2026, include Sunbelt Rentals Holdings and Korn Ferry. EPS forecasts are available, but actual results are not yet reported. The earnings calendar is a tool for tracking upcoming reports.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Earnings Calendar - MarketWatch"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "earnings-calendar",
     "type": "news",
     "title": "Earnings Calendar",
@@ -143,6 +206,27 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "Earnings - CNBC"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "economic-calendar",
+    "type": "news",
+    "title": "Economic Calendar",
+    "slug": "economic-calendar",
+    "date": "2026-09-08",
+    "displayDate": "September 8, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "An economic calendar lists upcoming financial events and indicators that can impact markets. It helps traders prepare for potential market movements. It include",
+    "excerpt": "An economic calendar lists upcoming financial events and indicators that can impact markets. It helps traders prepare for potential market movements. It includes data from various countries and economic indicators.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Economic Calendar"
     },
     "readingTime": 3
   },
@@ -189,6 +273,27 @@
     "readingTime": 4
   },
   {
+    "id": "federal-reserve-holds-rates-at-3-50-3-75-in-july-2026-u-s-bank",
+    "type": "news",
+    "title": "Federal Reserve Holds Rates at 3.50%-3.75% in July 2026 | U.S. Bank",
+    "slug": "federal-reserve-holds-rates-at-3-50-3-75-in-july-2026-u-s-bank",
+    "date": "2026-09-08",
+    "displayDate": "September 8, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Reserve held its key interest rate steady at 3.50%-3.75% in July 2026, with a 9-3 vote. Three members dissented, favoring a hike. The decision was e",
+    "excerpt": "The Federal Reserve held its key interest rate steady at 3.50%-3.75% in July 2026, with a 9-3 vote. Three members dissented, favoring a hike. The decision was expected by investors.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Federal Reserve Holds Rates at 3.50%-3.75% in July 2026 | U.S. Bank"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "geekwire-breaking-news-in-technology-business",
     "type": "news",
     "title": "GeekWire – Breaking News in Technology & Business",
@@ -206,6 +311,27 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "GeekWire – Breaking News in Technology & Business"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "global-indices-tracking-the-world-s-markets-groww",
+    "type": "news",
+    "title": "Global Indices - Tracking the World's Markets - Groww",
+    "slug": "global-indices-tracking-the-world-s-markets-groww",
+    "date": "2026-09-08",
+    "displayDate": "September 8, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Global indices include S&P 500, Nikkei, and Hang Seng. Groww tracks world markets with indices like Nifty Bank and Dow Jones. Essential indices are listed on Gr",
+    "excerpt": "Global indices include S&P 500, Nikkei, and Hang Seng. Groww tracks world markets with indices like Nifty Bank and Dow Jones. Essential indices are listed on Groww's website.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Global Indices - Tracking the World's Markets - Groww"
     },
     "readingTime": 4
   },
@@ -250,6 +376,27 @@
       "alt": "Global Market Indices | International Markets - Markets Insider"
     },
     "readingTime": 3
+  },
+  {
+    "id": "global-stock-market-news-and-world-indices-coverage-cnbc",
+    "type": "news",
+    "title": "Global Stock Market News and World Indices Coverage - CNBC",
+    "slug": "global-stock-market-news-and-world-indices-coverage-cnbc",
+    "date": "2026-09-08",
+    "displayDate": "September 8, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Global stock market news and world indices coverage on CNBC highlights mixed Asian and European market trends amid geopolitical tensions and economic shifts. Ke",
+    "excerpt": "Global stock market news and world indices coverage on CNBC highlights mixed Asian and European market trends amid geopolitical tensions and economic shifts. Key updates include rising European stocks and mixed Asian markets. Current data reflects ongoing economic and political developments.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Global Stock Market News and World Indices Coverage - CNBC"
+    },
+    "readingTime": 4
   },
   {
     "id": "global-stock-market-news-and-world-indices-coverage",
@@ -315,6 +462,48 @@
     "readingTime": 3
   },
   {
+    "id": "how-to-invest-in-today-s-market-u-s-bank",
+    "type": "news",
+    "title": "How to Invest in Today’s Market | U.S. Bank",
+    "slug": "how-to-invest-in-today-s-market-u-s-bank",
+    "date": "2026-09-08",
+    "displayDate": "September 8, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "To invest in today's market, diversify across asset types and stay invested through volatility. Consider bonds and real assets for stability. Consult a financia",
+    "excerpt": "To invest in today's market, diversify across asset types and stay invested through volatility. Consider bonds and real assets for stability. Consult a financial advisor for personalized guidance.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "How to Invest in Today’s Market | U.S. Bank"
+    },
+    "readingTime": 5
+  },
+  {
+    "id": "investment-strategies-for-today-and-long-term-blackrock",
+    "type": "news",
+    "title": "Investment strategies for today and long-term | BlackRock",
+    "slug": "investment-strategies-for-today-and-long-term-blackrock",
+    "date": "2026-09-08",
+    "displayDate": "September 8, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "BlackRock recommends income-focused portfolios for consistent retirement outcomes. They offer fixed income, equities, private credit, and multi-asset strategies",
+    "excerpt": "BlackRock recommends income-focused portfolios for consistent retirement outcomes. They offer fixed income, equities, private credit, and multi-asset strategies. Past performance does not guarantee future results.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Investment strategies for today and long-term | BlackRock"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "investment-strategy-2026-portfolio-moves-for-a-changing-market",
     "type": "news",
     "title": "Investment Strategy 2026 Portfolio Moves for a Changing Market",
@@ -336,6 +525,27 @@
     "readingTime": 3
   },
   {
+    "id": "latest-company-earnings-news-announcements-seeking-alpha",
+    "type": "news",
+    "title": "Latest Company Earnings News & Announcements | Seeking Alpha",
+    "slug": "latest-company-earnings-news-announcements-seeking-alpha",
+    "date": "2026-09-08",
+    "displayDate": "September 8, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Hurco reported GAAP EPS of $0.35 and revenue of $47.29M; Guidewire Software dropped 15% post-earnings; Dell saw AI server growth backing value.",
+    "excerpt": "Hurco reported GAAP EPS of $0.35 and revenue of $47.29M; Guidewire Software dropped 15% post-earnings; Dell saw AI server growth backing value.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Latest Company Earnings News & Announcements | Seeking Alpha"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "s-p-500-analysis-and-opinion-investing-com",
     "type": "news",
     "title": "S&P 500 Analysis and Opinion - Investing.com",
@@ -355,6 +565,27 @@
       "alt": "S&P 500 Analysis and Opinion - Investing.com"
     },
     "readingTime": 4
+  },
+  {
+    "id": "s-p-500-index-sp500-analysis-news-and-chart-today-seeking-alpha",
+    "type": "news",
+    "title": "S&P 500 Index (SP500) Analysis, News, And Chart Today | Seeking Alpha",
+    "slug": "s-p-500-index-sp500-analysis-news-and-chart-today-seeking-alpha",
+    "date": "2026-09-08",
+    "displayDate": "September 8, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The S&P 500 faces bearish pressures from geopolitical tensions and hawkish central banks. It may see a short-term bounce but faces technical caution. Historical",
+    "excerpt": "The S&P 500 faces bearish pressures from geopolitical tensions and hawkish central banks. It may see a short-term bounce but faces technical caution. Historical data shows past performance trends.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "S&P 500 Index (SP500) Analysis, News, And Chart Today | Seeking Alpha"
+    },
+    "readingTime": 3
   },
   {
     "id": "s-p-500-index-today-inx-live-ticker-markets-insider",
@@ -420,6 +651,27 @@
     "readingTime": 5
   },
   {
+    "id": "spy-etf-stock-price-overview",
+    "type": "news",
+    "title": "SPY ETF Stock Price & Overview",
+    "slug": "spy-etf-stock-price-overview",
+    "date": "2026-09-08",
+    "displayDate": "September 8, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The SPY ETF trades at $769.55, with a 52-week range of $629.28 to $779.37, and an expense ratio of 0.09%.",
+    "excerpt": "The SPY ETF trades at $769.55, with a 52-week range of $629.28 to $779.37, and an expense ratio of 0.09%.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "SPY ETF Stock Price & Overview"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "tech-news-today-s-latest-technology-news-reuters",
     "type": "news",
     "title": "Tech News | Today's Latest Technology News | Reuters",
@@ -460,6 +712,27 @@
       "alt": "Technology News"
     },
     "readingTime": 3
+  },
+  {
+    "id": "ten-things-to-consider-before-you-make-investing-decisions",
+    "type": "news",
+    "title": "Ten Things to Consider Before You Make Investing Decisions",
+    "slug": "ten-things-to-consider-before-you-make-investing-decisions",
+    "date": "2026-09-08",
+    "displayDate": "September 8, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Before investing, assess your financial goals, risk tolerance, and conduct thorough research. Avoid fraud by verifying opportunities with trusted sources. Stay ",
+    "excerpt": "Before investing, assess your financial goals, risk tolerance, and conduct thorough research. Avoid fraud by verifying opportunities with trusted sources. Stay committed and patient for long-term success.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Ten Things to Consider Before You Make Investing Decisions"
+    },
+    "readingTime": 4
   },
   {
     "id": "the-fed-federal-open-market-committee",
@@ -521,6 +794,48 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "U.S. Bureau of Economic Analysis (BEA)"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "u-s-economic-calendar-marketwatch",
+    "type": "news",
+    "title": "U.S. Economic Calendar - MarketWatch",
+    "slug": "u-s-economic-calendar-marketwatch",
+    "date": "2026-09-08",
+    "displayDate": "September 8, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "On September 17, 2026, key U.S. economic reports include Housing Starts, Philadelphia Fed Business Outlook Survey, and Weekly Jobless Claims. The NAHB Housing M",
+    "excerpt": "On September 17, 2026, key U.S. economic reports include Housing Starts, Philadelphia Fed Business Outlook Survey, and Weekly Jobless Claims. The NAHB Housing Market Index and Pending Home Sales Index are also scheduled. No events are scheduled for September 9.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "U.S. Economic Calendar - MarketWatch"
+    },
+    "readingTime": 5
+  },
+  {
+    "id": "u-s-federal-reserve-news-today-s-latest-stories",
+    "type": "news",
+    "title": "U.S. Federal Reserve News | Today's Latest Stories",
+    "slug": "u-s-federal-reserve-news-today-s-latest-stories",
+    "date": "2026-09-08",
+    "displayDate": "September 8, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Reserve plans to raise interest rates unless inflation declines, and recent mixed economic reports may influence their September meeting decisions. ",
+    "excerpt": "The Federal Reserve plans to raise interest rates unless inflation declines, and recent mixed economic reports may influence their September meeting decisions. The Fed's Board announced enforcement actions and policy speeches.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "U.S. Federal Reserve News | Today's Latest Stories"
     },
     "readingTime": 3
   },
@@ -607,6 +922,48 @@
       "alt": "US Inflation Rate (Monthly) - United States - Historical Data ..."
     },
     "readingTime": 5
+  },
+  {
+    "id": "what-is-the-current-inflation-rate-in-the-us",
+    "type": "news",
+    "title": "What is the current inflation rate in the US?",
+    "slug": "what-is-the-current-inflation-rate-in-the-us",
+    "date": "2026-09-08",
+    "displayDate": "September 8, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The current inflation rate in the US is 3.4% as of July 2026. This rate measures the average increase in prices of goods and services. The Federal Reserve aims ",
+    "excerpt": "The current inflation rate in the US is 3.4% as of July 2026. This rate measures the average increase in prices of goods and services. The Federal Reserve aims for a stable 2% annual inflation rate.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "What is the current inflation rate in the US?"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "when-is-the-next-fed-interest-rate-decision",
+    "type": "news",
+    "title": "When is the next Fed interest rate decision?",
+    "slug": "when-is-the-next-fed-interest-rate-decision",
+    "date": "2026-09-08",
+    "displayDate": "September 8, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The next Fed interest rate decision is scheduled for April 29, 2026. The announcement will occur at 2:00 PM Eastern Time. Fed Chair Jerome Powell will discuss i",
+    "excerpt": "The next Fed interest rate decision is scheduled for April 29, 2026. The announcement will occur at 2:00 PM Eastern Time. Fed Chair Jerome Powell will discuss it in a press conference at 6:30 PM GMT.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "When is the next Fed interest rate decision?"
+    },
+    "readingTime": 3
   },
   {
     "id": "10-best-investments-where-to-invest-in-2026",
@@ -756,27 +1113,6 @@
     "readingTime": 3
   },
   {
-    "id": "company-earnings-calendar-yahoo-finance",
-    "type": "news",
-    "title": "Company Earnings Calendar - Yahoo Finance",
-    "slug": "company-earnings-calendar-yahoo-finance",
-    "date": "2026-09-07",
-    "displayDate": "September 7, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Yahoo Finance earnings calendar lists upcoming earnings announcements, including Vizsla Silver Corp. and Dynagas LNG Partners LP. National Beverage and Krog",
-    "excerpt": "The Yahoo Finance earnings calendar lists upcoming earnings announcements, including Vizsla Silver Corp. and Dynagas LNG Partners LP. National Beverage and Kroger are scheduled to report earnings on September 7, 2026. The calendar helps track financial events and company reports.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Company Earnings Calendar - Yahoo Finance"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "cpi-home-u-s-bureau-of-labor-statistics",
     "type": "news",
     "title": "CPI Home : U.S. Bureau of Labor Statistics",
@@ -840,27 +1176,6 @@
     "readingTime": 4
   },
   {
-    "id": "earnings-calendar-and-analysis-for-this-week-september-7-11",
-    "type": "news",
-    "title": "Earnings Calendar and Analysis for This Week (September 7-11)",
-    "slug": "earnings-calendar-and-analysis-for-this-week-september-7-11",
-    "date": "2026-09-07",
-    "displayDate": "September 7, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Labor Day closes markets on September 7. Kroger reports earnings on September 11. No other notable earnings reports are scheduled this week.",
-    "excerpt": "Labor Day closes markets on September 7. Kroger reports earnings on September 11. No other notable earnings reports are scheduled this week.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Earnings Calendar and Analysis for This Week (September 7-11)"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "earnings-calendar-and-analysis-for-this-week-september",
     "type": "news",
     "title": "Earnings Calendar and Analysis for This Week (September ...",
@@ -901,48 +1216,6 @@
       "alt": "Earnings Calendar - Investing.com"
     },
     "readingTime": 4
-  },
-  {
-    "id": "earnings-calendar-marketwatch",
-    "type": "news",
-    "title": "Earnings Calendar - MarketWatch",
-    "slug": "earnings-calendar-marketwatch",
-    "date": "2026-09-07",
-    "displayDate": "September 7, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The earnings calendar lists upcoming earnings reports for companies like Hooker Furnishings Corp. and Kroger Co. for the fiscal quarter ending July 31, 2026. EP",
-    "excerpt": "The earnings calendar lists upcoming earnings reports for companies like Hooker Furnishings Corp. and Kroger Co. for the fiscal quarter ending July 31, 2026. EPS forecasts are available, but actual results and surprises are not yet reported. MarketWatch provides detailed earnings news and analysis.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Earnings Calendar - MarketWatch"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "economic-calendar",
-    "type": "news",
-    "title": "Economic Calendar",
-    "slug": "economic-calendar",
-    "date": "2026-09-07",
-    "displayDate": "September 7, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "An economic calendar lists upcoming financial events and data releases that can impact markets. It includes forecasts, actual values, and expert analyses. It he",
-    "excerpt": "An economic calendar lists upcoming financial events and data releases that can impact markets. It includes forecasts, actual values, and expert analyses. It helps traders make informed decisions.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Economic Calendar"
-    },
-    "readingTime": 3
   },
   {
     "id": "economic-indicators-dashboard-latest-gdp-cpi-unemployment-data-tipranks-com",
@@ -1113,27 +1386,6 @@
     "readingTime": 3
   },
   {
-    "id": "federal-reserve-holds-rates-at-3-50-3-75-in-july-2026-u-s-bank",
-    "type": "news",
-    "title": "Federal Reserve Holds Rates at 3.50%-3.75% in July 2026 | U.S. Bank",
-    "slug": "federal-reserve-holds-rates-at-3-50-3-75-in-july-2026-u-s-bank",
-    "date": "2026-09-07",
-    "displayDate": "September 7, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Reserve held interest rates steady at 3.50%-3.75% in July 2026, projecting one rate cut for the year. The decision was made despite elevated inflati",
-    "excerpt": "The Federal Reserve held interest rates steady at 3.50%-3.75% in July 2026, projecting one rate cut for the year. The decision was made despite elevated inflation and economic uncertainties. The Fed's benchmark rate remains unchanged.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Federal Reserve Holds Rates at 3.50%-3.75% in July 2026 | U.S. Bank"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "federal-reserve-holds-rates-at-3-50-3-75-in-july-2026",
     "type": "news",
     "title": "Federal Reserve Holds Rates at 3.50%-3.75% in July 2026",
@@ -1239,48 +1491,6 @@
     "readingTime": 4
   },
   {
-    "id": "how-to-invest-in-today-s-market-u-s-bank",
-    "type": "news",
-    "title": "How to Invest in Today’s Market | U.S. Bank",
-    "slug": "how-to-invest-in-today-s-market-u-s-bank",
-    "date": "2026-09-07",
-    "displayDate": "September 7, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "To invest in today's market, focus on aligning your portfolio with your goals and risk tolerance. Diversify across stocks, bonds, and mutual funds. Consult a fi",
-    "excerpt": "To invest in today's market, focus on aligning your portfolio with your goals and risk tolerance. Diversify across stocks, bonds, and mutual funds. Consult a financial advisor for tailored advice.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "How to Invest in Today’s Market | U.S. Bank"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "investment-strategies-for-today-and-long-term-blackrock",
-    "type": "news",
-    "title": "Investment strategies for today and long-term | BlackRock",
-    "slug": "investment-strategies-for-today-and-long-term-blackrock",
-    "date": "2026-09-07",
-    "displayDate": "September 7, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "BlackRock offers income-focused portfolios and multi-asset strategies for both short-term and long-term investments. Target date funds and systematic investing ",
-    "excerpt": "BlackRock offers income-focused portfolios and multi-asset strategies for both short-term and long-term investments. Target date funds and systematic investing are key long-term strategies. iShares ETFs provide flexible investment options.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Investment strategies for today and long-term | BlackRock"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "investment-strategies-for-today-and-long-term",
     "type": "news",
     "title": "Investment strategies for today and long-term",
@@ -1298,27 +1508,6 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "Investment strategies for today and long-term"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "latest-company-earnings-news-announcements-seeking-alpha",
-    "type": "news",
-    "title": "Latest Company Earnings News & Announcements | Seeking Alpha",
-    "slug": "latest-company-earnings-news-announcements-seeking-alpha",
-    "date": "2026-09-07",
-    "displayDate": "September 7, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "For the latest company earnings news, check financial news websites like CNBC or Bloomberg. The most recent updates are often found on company-specific investor",
-    "excerpt": "For the latest company earnings news, check financial news websites like CNBC or Bloomberg. The most recent updates are often found on company-specific investor relations pages. Always verify from reliable sources.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Latest Company Earnings News & Announcements | Seeking Alpha"
     },
     "readingTime": 3
   },
@@ -1382,27 +1571,6 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "META_TITLE_SECTORS"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "s-p-500-index-sp500-analysis-news-and-chart-today-seeking-alpha",
-    "type": "news",
-    "title": "S&P 500 Index (SP500) Analysis, News, And Chart Today | Seeking Alpha",
-    "slug": "s-p-500-index-sp500-analysis-news-and-chart-today-seeking-alpha",
-    "date": "2026-09-07",
-    "displayDate": "September 7, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The S&P 500 was down 0.38% at 7,718.42 on September 4, 2026. The index futures were down 0.17% at 7,705.35 on September 7, 2026. Bearish pressures from global f",
-    "excerpt": "The S&P 500 was down 0.38% at 7,718.42 on September 4, 2026. The index futures were down 0.17% at 7,705.35 on September 7, 2026. Bearish pressures from global factors may limit near-term gains.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "S&P 500 Index (SP500) Analysis, News, And Chart Today | Seeking Alpha"
     },
     "readingTime": 3
   },
@@ -1575,48 +1743,6 @@
     "readingTime": 3
   },
   {
-    "id": "u-s-economic-calendar-marketwatch",
-    "type": "news",
-    "title": "U.S. Economic Calendar - MarketWatch",
-    "slug": "u-s-economic-calendar-marketwatch",
-    "date": "2026-09-07",
-    "displayDate": "September 7, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "On September 17, 2026, U.S. economic reports include Housing Starts and Philadelphia Fed Business Outlook Survey. No events are scheduled for September 7, 2026.",
-    "excerpt": "On September 17, 2026, U.S. economic reports include Housing Starts and Philadelphia Fed Business Outlook Survey. No events are scheduled for September 7, 2026. The most significant report on September 8 is the NFIB Index of Small Business Optimism.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "U.S. Economic Calendar - MarketWatch"
-    },
-    "readingTime": 6
-  },
-  {
-    "id": "u-s-federal-reserve-news-today-s-latest-stories",
-    "type": "news",
-    "title": "U.S. Federal Reserve News | Today's Latest Stories",
-    "slug": "u-s-federal-reserve-news-today-s-latest-stories",
-    "date": "2026-09-07",
-    "displayDate": "September 7, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Reserve is considering raising interest rates due to high inflation, with mixed economic reports influencing policymakers. Recent speeches and repor",
-    "excerpt": "The Federal Reserve is considering raising interest rates due to high inflation, with mixed economic reports influencing policymakers. Recent speeches and reports indicate ongoing discussions about economic outlook and inflation control. The Fed's latest Beige Book and FOMC minutes are available for",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "U.S. Federal Reserve News | Today's Latest Stories"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "u-s-stock-market-headlines-breaking-stock-market-news-reuters",
     "type": "news",
     "title": "U.S. Stock Market Headlines | Breaking Stock Market News | Reuters",
@@ -1762,27 +1888,6 @@
       "alt": "Weekly Trader's Stock Market Outlook"
     },
     "readingTime": 3
-  },
-  {
-    "id": "when-is-the-next-fed-interest-rate-decision",
-    "type": "news",
-    "title": "When is the next Fed interest rate decision?",
-    "slug": "when-is-the-next-fed-interest-rate-decision",
-    "date": "2026-09-07",
-    "displayDate": "September 7, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The next Fed interest rate decision is scheduled for April 29, 2026. Fed Chair Jerome Powell will hold a press conference afterward. The current federal funds r",
-    "excerpt": "The next Fed interest rate decision is scheduled for April 29, 2026. Fed Chair Jerome Powell will hold a press conference afterward. The current federal funds rate target range is 3.50%–3.75%.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "When is the next Fed interest rate decision?"
-    },
-    "readingTime": 4
   },
   {
     "id": "2026-investment-outlook-themes-for-portfolio-strategies",
@@ -2079,48 +2184,6 @@
     "readingTime": 3
   },
   {
-    "id": "global-indices-tracking-the-world-s-markets-groww",
-    "type": "news",
-    "title": "Global Indices - Tracking the World's Markets - Groww",
-    "slug": "global-indices-tracking-the-world-s-markets-groww",
-    "date": "2026-09-06",
-    "displayDate": "September 6, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Global indices track the performance of major stock markets worldwide, including the S&P 500, Nikkei, and DAX. They also monitor bonds, commodities, and currenc",
-    "excerpt": "Global indices track the performance of major stock markets worldwide, including the S&P 500, Nikkei, and DAX. They also monitor bonds, commodities, and currencies. These indices help investors gauge global economic trends.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Global Indices - Tracking the World's Markets - Groww"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "global-stock-market-news-and-world-indices-coverage-cnbc",
-    "type": "news",
-    "title": "Global Stock Market News and World Indices Coverage - CNBC",
-    "slug": "global-stock-market-news-and-world-indices-coverage-cnbc",
-    "date": "2026-09-06",
-    "displayDate": "September 6, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Global stock markets and indices show mixed trends; European markets advanced while Asia markets fluctuated due to geopolitical tensions. U.S. markets experienc",
-    "excerpt": "Global stock markets and indices show mixed trends; European markets advanced while Asia markets fluctuated due to geopolitical tensions. U.S. markets experienced volatility with tech stocks rebounding. Current data reflects ongoing economic shifts and international relations impacts.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Global Stock Market News and World Indices Coverage - CNBC"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "s-p-500-spy-analysis-today-january-6-2026-s-p-500-spy-forecast-s-p-500-technical",
     "type": "news",
     "title": "S&P 500 (SPY) Analysis Today | JANUARY 6 2026 | S&P 500 SPY Forecast | S&P 500 Technical analysis",
@@ -2371,27 +2434,6 @@
       "alt": "US Markets, Company Earnings, Stock Market Trends ..."
     },
     "readingTime": 5
-  },
-  {
-    "id": "what-is-the-current-inflation-rate-in-the-us",
-    "type": "news",
-    "title": "What is the current inflation rate in the US?",
-    "slug": "what-is-the-current-inflation-rate-in-the-us",
-    "date": "2026-09-06",
-    "displayDate": "September 6, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The current inflation rate in the US is 3.4% as of July 2026. This rate measures the annual increase in prices of goods and services. The Federal Reserve aims f",
-    "excerpt": "The current inflation rate in the US is 3.4% as of July 2026. This rate measures the annual increase in prices of goods and services. The Federal Reserve aims for a 2% annual inflation rate.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "What is the current inflation rate in the US?"
-    },
-    "readingTime": 4
   },
   {
     "id": "5-strategies-to-navigate-market-volatility-morgan-stanley",
@@ -5561,27 +5603,6 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "Six portfolio strategy ideas for 2026"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "ten-things-to-consider-before-you-make-investing-decisions",
-    "type": "news",
-    "title": "Ten Things to Consider Before You Make Investing Decisions",
-    "slug": "ten-things-to-consider-before-you-make-investing-decisions",
-    "date": "2026-08-06",
-    "displayDate": "August 6, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Before investing, assess your financial goals, risk tolerance, and current debt. Avoid fraud by verifying opportunities. Prioritize paying off high-interest deb",
-    "excerpt": "Before investing, assess your financial goals, risk tolerance, and current debt. Avoid fraud by verifying opportunities. Prioritize paying off high-interest debt.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Ten Things to Consider Before You Make Investing Decisions"
     },
     "readingTime": 3
   },
