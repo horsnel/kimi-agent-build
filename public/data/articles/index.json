@@ -1,5 +1,635 @@
 [
   {
+    "id": "bitcoin-btc-price-usd-today-news-charts-market-cap",
+    "type": "news",
+    "title": "Bitcoin (BTC) Price USD Today, News, Charts, Market Cap",
+    "slug": "bitcoin-btc-price-usd-today-news-charts-market-cap",
+    "date": "2026-09-09",
+    "displayDate": "September 9, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin's current price is $80,885.17 USD. Its market cap is $1,624.1 trillion USD. Bitcoin has a circulating supply of 20.08 million coins.",
+    "excerpt": "Bitcoin's current price is $80,885.17 USD. Its market cap is $1,624.1 trillion USD. Bitcoin has a circulating supply of 20.08 million coins.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Bitcoin (BTC) Price USD Today, News, Charts, Market Cap"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "bitcoin-forecast-news-and-analysis-btc-usd",
+    "type": "news",
+    "title": "Bitcoin Forecast, News and Analysis (BTC/USD)",
+    "slug": "bitcoin-forecast-news-and-analysis-btc-usd",
+    "date": "2026-09-09",
+    "displayDate": "September 9, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin trades around $64,000, consolidating in a range, with mixed signals from regulatory and market trends. Analysts debate its near-term direction amid macr",
+    "excerpt": "Bitcoin trades around $64,000, consolidating in a range, with mixed signals from regulatory and market trends. Analysts debate its near-term direction amid macroeconomic factors. Current price is below longer-term moving averages.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Bitcoin Forecast, News and Analysis (BTC/USD)"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "bitcoin-price-today-live-btc-price-chart-market-data",
+    "type": "news",
+    "title": "Bitcoin Price Today | Live BTC Price, Chart & Market Data",
+    "slug": "bitcoin-price-today-live-btc-price-chart-market-data",
+    "date": "2026-09-09",
+    "displayDate": "September 9, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin's price today is $81,083.00, up 5.12% in the last 24 hours. Its market cap is $1.63 trillion. The circulating supply is 20,079,074 BTC.",
+    "excerpt": "Bitcoin's price today is $81,083.00, up 5.12% in the last 24 hours. Its market cap is $1.63 trillion. The circulating supply is 20,079,074 BTC.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Bitcoin Price Today | Live BTC Price, Chart & Market Data"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "company-earnings-calendar-yahoo-finance",
+    "type": "news",
+    "title": "Company Earnings Calendar - Yahoo Finance",
+    "slug": "company-earnings-calendar-yahoo-finance",
+    "date": "2026-09-09",
+    "displayDate": "September 9, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "On September 9, 2026, multiple companies are scheduled to announce their earnings, including Chewy, Inc. and Core & Main, Inc. The earnings calendar also lists ",
+    "excerpt": "On September 9, 2026, multiple companies are scheduled to announce their earnings, including Chewy, Inc. and Core & Main, Inc. The earnings calendar also lists economic events and stock splits for the week. MarketWatch lists Sekisui House Ltd. and Imperial Petroleum Inc. among upcoming earnings anno",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Company Earnings Calendar - Yahoo Finance"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "earnings-calendar-and-analysis-for-this-week-september-7-11",
+    "type": "news",
+    "title": "Earnings Calendar and Analysis for This Week (September 7-11)",
+    "slug": "earnings-calendar-and-analysis-for-this-week-september-7-11",
+    "date": "2026-09-09",
+    "displayDate": "September 9, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Labor Day closes markets on Monday; notable earnings on Tuesday include ABM Industries and United Natural Foods; Kroger reports earnings on Friday.",
+    "excerpt": "Labor Day closes markets on Monday; notable earnings on Tuesday include ABM Industries and United Natural Foods; Kroger reports earnings on Friday.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Earnings Calendar and Analysis for This Week (September 7-11)"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "earnings-cnbc",
+    "type": "news",
+    "title": "Earnings - CNBC",
+    "slug": "earnings-cnbc",
+    "date": "2026-09-09",
+    "displayDate": "September 9, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Earnings refer to a company's profits disclosed in quarterly reports. These reports show financial performance and help investors assess profitability. Earnings",
+    "excerpt": "Earnings refer to a company's profits disclosed in quarterly reports. These reports show financial performance and help investors assess profitability. Earnings reports include key metrics like revenue and earnings per share.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Earnings - CNBC"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "federal-reserve-board-monetary-policy",
+    "type": "news",
+    "title": "Federal Reserve Board - Monetary Policy",
+    "slug": "federal-reserve-board-monetary-policy",
+    "date": "2026-09-09",
+    "displayDate": "September 9, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Reserve's monetary policy aims to promote maximum employment and stable prices. It is primarily conducted through the Federal Open Market Committee ",
+    "excerpt": "The Federal Reserve's monetary policy aims to promote maximum employment and stable prices. It is primarily conducted through the Federal Open Market Committee and involves setting the federal funds rate. The Fed uses tools like interest on reserve balances to influence short-term interest rates.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Federal Reserve Board - Monetary Policy"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "geekwire-breaking-news-in-technology-business",
+    "type": "news",
+    "title": "GeekWire – Breaking News in Technology & Business",
+    "slug": "geekwire-breaking-news-in-technology-business",
+    "date": "2026-09-09",
+    "displayDate": "September 9, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "GeekWire covers technology and business news, focusing on startups and tech industry developments, with a strong presence in the Seattle region. It also provide",
+    "excerpt": "GeekWire covers technology and business news, focusing on startups and tech industry developments, with a strong presence in the Seattle region. It also provides resources for the tech community and produces podcasts and video shows. Founded in 2011, it has a global audience.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "GeekWire – Breaking News in Technology & Business"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "global-indices-tracking-the-world-s-markets",
+    "type": "news",
+    "title": "Global Indices - Tracking the World's Markets",
+    "slug": "global-indices-tracking-the-world-s-markets",
+    "date": "2026-09-09",
+    "displayDate": "September 9, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Global indices track major stock market performance worldwide, including the S&P 500, Nikkei 225, and FTSE 100. They reflect the health of various economies and",
+    "excerpt": "Global indices track major stock market performance worldwide, including the S&P 500, Nikkei 225, and FTSE 100. They reflect the health of various economies and asset classes. As of 2026-09-09, the S&P 500 was at 7,700.55, down 39.05 points.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Global Indices - Tracking the World's Markets"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "global-market-indices-international-markets-markets-insider",
+    "type": "news",
+    "title": "Global Market Indices | International Markets - Markets Insider",
+    "slug": "global-market-indices-international-markets-markets-insider",
+    "date": "2026-09-09",
+    "displayDate": "September 9, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "FTSE 100 is down 0.1% today; NASDAQ 100 and NIKKEI 225 both declined; Dow Jones Futures fell 1.18%.",
+    "excerpt": "FTSE 100 is down 0.1% today; NASDAQ 100 and NIKKEI 225 both declined; Dow Jones Futures fell 1.18%.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Global Market Indices | International Markets - Markets Insider"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "global-stock-market-news-and-world-indices-coverage",
+    "type": "news",
+    "title": "Global Stock Market News and World Indices Coverage",
+    "slug": "global-stock-market-news-and-world-indices-coverage",
+    "date": "2026-09-09",
+    "displayDate": "September 9, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Global stock markets and world indices show mixed trends with some regions advancing while others decline, influenced by geopolitical events and economic data. ",
+    "excerpt": "Global stock markets and world indices show mixed trends with some regions advancing while others decline, influenced by geopolitical events and economic data. Major indices like the Dow Jones, S&P 500, and Nikkei 225 fluctuate based on global economic conditions. Current data reflects recent shifts",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Global Stock Market News and World Indices Coverage"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "how-the-fomc-conducts-monetary-policy-st-louis-fed",
+    "type": "news",
+    "title": "How the FOMC Conducts Monetary Policy | St. Louis Fed",
+    "slug": "how-the-fomc-conducts-monetary-policy-st-louis-fed",
+    "date": "2026-09-09",
+    "displayDate": "September 9, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Open Market Committee (FOMC) conducts monetary policy by adjusting the federal funds rate and uses tools to implement decisions, communicating actio",
+    "excerpt": "The Federal Open Market Committee (FOMC) conducts monetary policy by adjusting the federal funds rate and uses tools to implement decisions, communicating actions through statements and press conferences.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "How the FOMC Conducts Monetary Policy | St. Louis Fed"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "how-to-invest-in-today-s-market-u-s-bank",
+    "type": "news",
+    "title": "How to Invest in Today’s Market | U.S. Bank",
+    "slug": "how-to-invest-in-today-s-market-u-s-bank",
+    "date": "2026-09-09",
+    "displayDate": "September 9, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "To invest in today's market, consider stocks, bonds, and mutual funds. Regularly review and adjust your portfolio. Seek professional advice for tailored guidanc",
+    "excerpt": "To invest in today's market, consider stocks, bonds, and mutual funds. Regularly review and adjust your portfolio. Seek professional advice for tailored guidance.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "How to Invest in Today’s Market | U.S. Bank"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "investment-strategies-for-today-and-long-term-blackrock",
+    "type": "news",
+    "title": "Investment strategies for today and long-term | BlackRock",
+    "slug": "investment-strategies-for-today-and-long-term-blackrock",
+    "date": "2026-09-09",
+    "displayDate": "September 9, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "BlackRock recommends income-focused portfolios for consistent retirement outcomes. They offer fixed income, equities, private credit, and multi-asset strategies",
+    "excerpt": "BlackRock recommends income-focused portfolios for consistent retirement outcomes. They offer fixed income, equities, private credit, and multi-asset strategies. Past performance does not guarantee future results.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Investment strategies for today and long-term | BlackRock"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "latest-technology-news-and-reviews-yahoo-finance",
+    "type": "news",
+    "title": "Latest Technology News and Reviews - Yahoo Finance",
+    "slug": "latest-technology-news-and-reviews-yahoo-finance",
+    "date": "2026-09-09",
+    "displayDate": "September 9, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Tether faces a lawsuit over an alleged $42.4 million USDT freeze; AI boosts Bay Area housing market; Ethereum aims for quantum resistance by 2029.",
+    "excerpt": "Tether faces a lawsuit over an alleged $42.4 million USDT freeze; AI boosts Bay Area housing market; Ethereum aims for quantum resistance by 2029.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Latest Technology News and Reviews - Yahoo Finance"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "stock-market-outlook-midyear-2026",
+    "type": "news",
+    "title": "Stock market outlook midyear 2026",
+    "slug": "stock-market-outlook-midyear-2026",
+    "date": "2026-09-09",
+    "displayDate": "September 9, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Corporate earnings growth remains strong, and the stock market outlook for mid-2026 is positive with resilient economic activity. Geopolitical risks persist but",
+    "excerpt": "Corporate earnings growth remains strong, and the stock market outlook for mid-2026 is positive with resilient economic activity. Geopolitical risks persist but have not significantly impacted market performance. Anticipate continued double-digit earnings growth for the year.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Stock market outlook midyear 2026"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "tech-cnbc",
+    "type": "news",
+    "title": "Tech - CNBC",
+    "slug": "tech-cnbc",
+    "date": "2026-09-09",
+    "displayDate": "September 9, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Broadcom delivered strong earnings, AI labs growth touted. Dell is now the most important stock in the market. Uber plans to cut 10% of its workforce.",
+    "excerpt": "Broadcom delivered strong earnings, AI labs growth touted. Dell is now the most important stock in the market. Uber plans to cut 10% of its workforce.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Tech - CNBC"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "technology-and-healthcare-stocks-lead-thursday-sector-declines",
+    "type": "news",
+    "title": "Technology And Healthcare Stocks Lead Thursday Sector Declines",
+    "slug": "technology-and-healthcare-stocks-lead-thursday-sector-declines",
+    "date": "2026-09-09",
+    "displayDate": "September 9, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Technology and healthcare stocks led sector declines on Thursday, with Technology & Communications and Healthcare sectors experiencing the largest losses. The S",
+    "excerpt": "Technology and healthcare stocks led sector declines on Thursday, with Technology & Communications and Healthcare sectors experiencing the largest losses. The S&P 500 fell 0.4%, marking its third consecutive decline.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Technology And Healthcare Stocks Lead Thursday Sector Declines"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "tesla-surges-amid-mixed-tech-sector-performance-as-healthcare-stocks-climb",
+    "type": "news",
+    "title": "Tesla surges amid mixed tech sector performance as healthcare stocks climb",
+    "slug": "tesla-surges-amid-mixed-tech-sector-performance-as-healthcare-stocks-climb",
+    "date": "2026-09-09",
+    "displayDate": "September 9, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Tesla shares surged amid mixed tech sector performance, driven by strong regulatory credit sales, while healthcare stocks climbed. The Nasdaq Composite saw gain",
+    "excerpt": "Tesla shares surged amid mixed tech sector performance, driven by strong regulatory credit sales, while healthcare stocks climbed. The Nasdaq Composite saw gains despite mixed results from major tech firms.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Tesla surges amid mixed tech sector performance as healthcare stocks climb"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "the-fed-federal-open-market-committee",
+    "type": "news",
+    "title": "The Fed - Federal Open Market Committee",
+    "slug": "the-fed-federal-open-market-committee",
+    "date": "2026-09-09",
+    "displayDate": "September 9, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Open Market Committee (FOMC) is the Federal Reserve's main body for monetary policy, consisting of twelve members who set interest rates and manage ",
+    "excerpt": "The Federal Open Market Committee (FOMC) is the Federal Reserve's main body for monetary policy, consisting of twelve members who set interest rates and manage the money supply. It holds eight meetings annually to review economic conditions and decide on monetary policy. The FOMC oversees open marke",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "The Fed - Federal Open Market Committee"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "top-investment-strategies-key-approaches-to-maximize-returns",
+    "type": "news",
+    "title": "Top Investment Strategies: Key Approaches to Maximize Returns",
+    "slug": "top-investment-strategies-key-approaches-to-maximize-returns",
+    "date": "2026-09-09",
+    "displayDate": "September 9, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Top investment strategies include conservative plans with low-risk assets, aggressive strategies with high-risk investments, and diversified index funds for ste",
+    "excerpt": "Top investment strategies include conservative plans with low-risk assets, aggressive strategies with high-risk investments, and diversified index funds for steady returns. Rebalancing and regular reviews are crucial for success.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Top Investment Strategies: Key Approaches to Maximize Returns"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "u-s-bureau-of-economic-analysis-bea",
+    "type": "news",
+    "title": "U.S. Bureau of Economic Analysis (BEA)",
+    "slug": "u-s-bureau-of-economic-analysis-bea",
+    "date": "2026-09-09",
+    "displayDate": "September 9, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The U.S. Bureau of Economic Analysis provides official economic data, including GDP, and is part of the Department of Commerce. Its headquarters is in Suitland,",
+    "excerpt": "The U.S. Bureau of Economic Analysis provides official economic data, including GDP, and is part of the Department of Commerce. Its headquarters is in Suitland, Maryland. The current director is Vipin Arora.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "U.S. Bureau of Economic Analysis (BEA)"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "united-states-consumer-price-index-cpi-yoy",
+    "type": "news",
+    "title": "United States Consumer Price Index (CPI) YoY",
+    "slug": "united-states-consumer-price-index-cpi-yoy",
+    "date": "2026-09-09",
+    "displayDate": "September 9, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The United States Consumer Price Index (CPI) YoY was 3.4% in July 2026. Food prices rose 3.0% over the year, while energy prices surged 14.7%. These figures ref",
+    "excerpt": "The United States Consumer Price Index (CPI) YoY was 3.4% in July 2026. Food prices rose 3.0% over the year, while energy prices surged 14.7%. These figures reflect the latest inflation trends.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "United States Consumer Price Index (CPI) YoY"
+    },
+    "readingTime": 5
+  },
+  {
+    "id": "united-states-consumer-price-index-cpi",
+    "type": "news",
+    "title": "United States Consumer Price Index (CPI)",
+    "slug": "united-states-consumer-price-index-cpi",
+    "date": "2026-09-09",
+    "displayDate": "September 9, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Consumer Price Index (CPI) in the United States measures average price changes for consumer goods and services. In July 2026, it was 333.92 points, with an ",
+    "excerpt": "The Consumer Price Index (CPI) in the United States measures average price changes for consumer goods and services. In July 2026, it was 333.92 points, with an annual inflation rate of 3.4%. The CPI affects income for millions through Social Security and other programs.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "United States Consumer Price Index (CPI)"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "united-states-economic-indicators-moody-s-analytics",
+    "type": "news",
+    "title": "United States | Economic Indicators | Moody's Analytics",
+    "slug": "united-states-economic-indicators-moody-s-analytics",
+    "date": "2026-09-09",
+    "displayDate": "September 9, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The U.S. economy shows mixed retail sales trends and a stable interest rate at 3.75% in July 2026. Inflation remains low at 0.1% MoM. The balance of trade defic",
+    "excerpt": "The U.S. economy shows mixed retail sales trends and a stable interest rate at 3.75% in July 2026. Inflation remains low at 0.1% MoM. The balance of trade deficit widened in June 2026.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "United States | Economic Indicators | Moody's Analytics"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "united-states-indicators",
+    "type": "news",
+    "title": "United States Indicators",
+    "slug": "united-states-indicators",
+    "date": "2026-09-09",
+    "displayDate": "September 9, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The US economy showed a 0.2% increase in the Coincident Economic Index in July 2026, with components like payroll employment and industrial production contribut",
+    "excerpt": "The US economy showed a 0.2% increase in the Coincident Economic Index in July 2026, with components like payroll employment and industrial production contributing. Consumer confidence and government budget balance also provide economic insights.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "United States Indicators"
+    },
+    "readingTime": 5
+  },
+  {
+    "id": "united-states-inflation-rate-trading-economics",
+    "type": "news",
+    "title": "United States Inflation Rate - Trading Economics",
+    "slug": "united-states-inflation-rate-trading-economics",
+    "date": "2026-09-09",
+    "displayDate": "September 9, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The U.S. inflation rate was 3.4% in July 2026, down from 3.5% in June. Core inflation was 2.5% year-over-year in July 2026. Analysts expect inflation to rise to",
+    "excerpt": "The U.S. inflation rate was 3.4% in July 2026, down from 3.5% in June. Core inflation was 2.5% year-over-year in July 2026. Analysts expect inflation to rise to 3.7% by the end of the quarter.",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "United States Inflation Rate - Trading Economics"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "united-states-stock-market-index-quote-chart",
+    "type": "news",
+    "title": "United States Stock Market Index - Quote - Chart",
+    "slug": "united-states-stock-market-index-quote-chart",
+    "date": "2026-09-09",
+    "displayDate": "September 9, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The S&P 500 index is currently at 7706.10, down 12 points (-0.16%). The Dow Jones Industrial Average is at 53025, down 389 points (-0.73%). The Nasdaq Composite",
+    "excerpt": "The S&P 500 index is currently at 7706.10, down 12 points (-0.16%). The Dow Jones Industrial Average is at 53025, down 389 points (-0.73%). The Nasdaq Composite is at 29506, down 38 points (-0.13%).",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "United States Stock Market Index - Quote - Chart"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "us-markets-company-earnings-stock-market-trends-market-news",
+    "type": "news",
+    "title": "US Markets, Company Earnings, Stock Market Trends, Market News",
+    "slug": "us-markets-company-earnings-stock-market-trends-market-news",
+    "date": "2026-09-09",
+    "displayDate": "September 9, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "US markets experienced a volatile week with significant index fluctuations, and several major companies reported earnings, including notable performances from t",
+    "excerpt": "US markets experienced a volatile week with significant index fluctuations, and several major companies reported earnings, including notable performances from tech firms. The S&P 500 posted a summer rally, while the US public debt surpassed $40 trillion.",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "US Markets, Company Earnings, Stock Market Trends, Market News"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "what-the-stock-market-performance-look-like-today-the-place-gwinnett-residents-t",
+    "type": "news",
+    "title": "What The Stock Market Performance Look Like Today - The place Gwinnett residents trust to explain what’s happening—and what to do next.",
+    "slug": "what-the-stock-market-performance-look-like-today-the-place-gwinnett-residents-t",
+    "date": "2026-09-09",
+    "displayDate": "September 9, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Today's stock market shows technology and healthcare leading, while financials and energy remain selective. Sector rotation is evident, with defensive sectors g",
+    "excerpt": "Today's stock market shows technology and healthcare leading, while financials and energy remain selective. Sector rotation is evident, with defensive sectors gaining traction. Investors are focusing on strong earnings and growth sectors.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "What The Stock Market Performance Look Like Today - The place Gwinnett residents trust to explain what’s happening—and what to do next."
+    },
+    "readingTime": 3
+  },
+  {
     "id": "12-month-percentage-change-consumer-price-index-selected",
     "type": "news",
     "title": "12-month percentage change, Consumer Price Index, selected ...",
@@ -84,90 +714,6 @@
     "readingTime": 5
   },
   {
-    "id": "bitcoin-btc-price-usd-today-news-charts-market-cap",
-    "type": "news",
-    "title": "Bitcoin (BTC) Price USD Today, News, Charts, Market Cap",
-    "slug": "bitcoin-btc-price-usd-today-news-charts-market-cap",
-    "date": "2026-09-08",
-    "displayDate": "September 8, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Bitcoin's current price is around $80,885.17 USD. Its market cap is $1.624 trillion. The all-time high is $126,210.50.",
-    "excerpt": "Bitcoin's current price is around $80,885.17 USD. Its market cap is $1.624 trillion. The all-time high is $126,210.50.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Bitcoin (BTC) Price USD Today, News, Charts, Market Cap"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "bitcoin-forecast-news-and-analysis-btc-usd",
-    "type": "news",
-    "title": "Bitcoin Forecast, News and Analysis (BTC/USD)",
-    "slug": "bitcoin-forecast-news-and-analysis-btc-usd",
-    "date": "2026-09-08",
-    "displayDate": "September 8, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Bitcoin trades around $80,271, showing minor gains, and faces resistance near $84,000. Regulatory uncertainty and market leverage impact its price. Analysts deb",
-    "excerpt": "Bitcoin trades around $80,271, showing minor gains, and faces resistance near $84,000. Regulatory uncertainty and market leverage impact its price. Analysts debate if it will break above resistance or pull back.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Bitcoin Forecast, News and Analysis (BTC/USD)"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "bitcoin-price-today-live-btc-price-chart-market-data",
-    "type": "news",
-    "title": "Bitcoin Price Today | Live BTC Price, Chart & Market Data",
-    "slug": "bitcoin-price-today-live-btc-price-chart-market-data",
-    "date": "2026-09-08",
-    "displayDate": "September 8, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Bitcoin's current price is $78,007.69. It has a market cap of $1.57 trillion. The circulating supply is 20.08 million BTC.",
-    "excerpt": "Bitcoin's current price is $78,007.69. It has a market cap of $1.57 trillion. The circulating supply is 20.08 million BTC.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Bitcoin Price Today | Live BTC Price, Chart & Market Data"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "company-earnings-calendar-yahoo-finance",
-    "type": "news",
-    "title": "Company Earnings Calendar - Yahoo Finance",
-    "slug": "company-earnings-calendar-yahoo-finance",
-    "date": "2026-09-08",
-    "displayDate": "September 8, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "On September 8, 2026, Sunbelt Rentals Holdings and Korn Ferry are scheduled to announce their earnings. The earnings calendar also lists upcoming announcements ",
-    "excerpt": "On September 8, 2026, Sunbelt Rentals Holdings and Korn Ferry are scheduled to announce their earnings. The earnings calendar also lists upcoming announcements from other companies like Kroger and AnaptysBio.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Company Earnings Calendar - Yahoo Finance"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "cpi-home-u-s-bureau-of-labor-statistics",
     "type": "news",
     "title": "CPI Home : U.S. Bureau of Labor Statistics",
@@ -210,27 +756,6 @@
     "readingTime": 4
   },
   {
-    "id": "earnings-calendar-and-analysis-for-this-week-september-7-11",
-    "type": "news",
-    "title": "Earnings Calendar and Analysis for This Week (September 7-11)",
-    "slug": "earnings-calendar-and-analysis-for-this-week-september-7-11",
-    "date": "2026-09-08",
-    "displayDate": "September 8, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "On September 8, no major earnings reports are scheduled. On September 11, Kroger is the only major company reporting earnings. The earnings season picks up sign",
-    "excerpt": "On September 8, no major earnings reports are scheduled. On September 11, Kroger is the only major company reporting earnings. The earnings season picks up significantly on September 9 and 10.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Earnings Calendar and Analysis for This Week (September 7-11)"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "earnings-calendar-marketwatch",
     "type": "news",
     "title": "Earnings Calendar - MarketWatch",
@@ -269,27 +794,6 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "Earnings Calendar"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "earnings-cnbc",
-    "type": "news",
-    "title": "Earnings - CNBC",
-    "slug": "earnings-cnbc",
-    "date": "2026-09-08",
-    "displayDate": "September 8, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "CNBC reports on quarterly earnings, highlighting companies like Best Buy and Nvidia, and provides analysis on market impacts and stock performance. The site als",
-    "excerpt": "CNBC reports on quarterly earnings, highlighting companies like Best Buy and Nvidia, and provides analysis on market impacts and stock performance. The site also features earnings history and stock recommendations.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Earnings - CNBC"
     },
     "readingTime": 3
   },
@@ -441,27 +945,6 @@
     "readingTime": 3
   },
   {
-    "id": "federal-reserve-board-monetary-policy",
-    "type": "news",
-    "title": "Federal Reserve Board - Monetary Policy",
-    "slug": "federal-reserve-board-monetary-policy",
-    "date": "2026-09-08",
-    "displayDate": "September 8, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Reserve's monetary policy aims for maximum employment, stable prices, and moderate long-term interest rates. It is conducted by the Federal Open Mar",
-    "excerpt": "The Federal Reserve's monetary policy aims for maximum employment, stable prices, and moderate long-term interest rates. It is conducted by the Federal Open Market Committee and implemented by the twelve regional Federal Reserve Banks. The Fed uses tools like the federal funds rate to achieve these ",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Federal Reserve Board - Monetary Policy"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "federal-reserve-holds-rates-at-3-50-3-75-in-july-2026-u-s-bank",
     "type": "news",
     "title": "Federal Reserve Holds Rates at 3.50%-3.75% in July 2026 | U.S. Bank",
@@ -481,27 +964,6 @@
       "alt": "Federal Reserve Holds Rates at 3.50%-3.75% in July 2026 | U.S. Bank"
     },
     "readingTime": 3
-  },
-  {
-    "id": "geekwire-breaking-news-in-technology-business",
-    "type": "news",
-    "title": "GeekWire – Breaking News in Technology & Business",
-    "slug": "geekwire-breaking-news-in-technology-business",
-    "date": "2026-09-08",
-    "displayDate": "September 8, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Juno Propulsion received a $1.2M NSF grant for non-toxic space propulsion; Wyze introduced an AI-powered 'Stories' feature for home security; NewDays expanded i",
-    "excerpt": "Juno Propulsion received a $1.2M NSF grant for non-toxic space propulsion; Wyze introduced an AI-powered 'Stories' feature for home security; NewDays expanded its AI dementia care platform to Nevada.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "GeekWire – Breaking News in Technology & Business"
-    },
-    "readingTime": 4
   },
   {
     "id": "global-indices-tracking-the-world-s-markets-groww",
@@ -525,27 +987,6 @@
     "readingTime": 4
   },
   {
-    "id": "global-indices-tracking-the-world-s-markets",
-    "type": "news",
-    "title": "Global Indices - Tracking the World's Markets",
-    "slug": "global-indices-tracking-the-world-s-markets",
-    "date": "2026-09-08",
-    "displayDate": "September 8, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Global indices track major stock markets worldwide, including the S&P 500, Dow Jones, and Nikkei 225. They reflect market performance and health. As of 2026-09-",
-    "excerpt": "Global indices track major stock markets worldwide, including the S&P 500, Dow Jones, and Nikkei 225. They reflect market performance and health. As of 2026-09-08, the S&P 500 was at 7,738.81.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Global Indices - Tracking the World's Markets"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "global-market-headlines-breaking-stock-market-news",
     "type": "news",
     "title": "Global Market Headlines | Breaking Stock Market News",
@@ -567,27 +1008,6 @@
     "readingTime": 4
   },
   {
-    "id": "global-market-indices-international-markets-markets-insider",
-    "type": "news",
-    "title": "Global Market Indices | International Markets - Markets Insider",
-    "slug": "global-market-indices-international-markets-markets-insider",
-    "date": "2026-09-08",
-    "displayDate": "September 8, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "As of 2026-09-08, the Hang Seng Index is down 237.75 points, NIKKEI 225 up 1378.9 points, and FTSE 100 down 8.96 points.",
-    "excerpt": "As of 2026-09-08, the Hang Seng Index is down 237.75 points, NIKKEI 225 up 1378.9 points, and FTSE 100 down 8.96 points.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Global Market Indices | International Markets - Markets Insider"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "global-stock-market-news-and-world-indices-coverage-cnbc",
     "type": "news",
     "title": "Global Stock Market News and World Indices Coverage - CNBC",
@@ -605,27 +1025,6 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "Global Stock Market News and World Indices Coverage - CNBC"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "global-stock-market-news-and-world-indices-coverage",
-    "type": "news",
-    "title": "Global Stock Market News and World Indices Coverage",
-    "slug": "global-stock-market-news-and-world-indices-coverage",
-    "date": "2026-09-08",
-    "displayDate": "September 8, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Global stock markets showed mixed trends; European indices declined slightly, while Asian markets climbed significantly. Major indices like the S&P 500 and Nikk",
-    "excerpt": "Global stock markets showed mixed trends; European indices declined slightly, while Asian markets climbed significantly. Major indices like the S&P 500 and Nikkei 225 experienced notable gains. The Hang Seng Index also rose sharply.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Global Stock Market News and World Indices Coverage"
     },
     "readingTime": 4
   },
@@ -668,69 +1067,6 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "How Should I Allocate My Portfolio in 2026?"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "how-the-fomc-conducts-monetary-policy-st-louis-fed",
-    "type": "news",
-    "title": "How the FOMC Conducts Monetary Policy | St. Louis Fed",
-    "slug": "how-the-fomc-conducts-monetary-policy-st-louis-fed",
-    "date": "2026-09-08",
-    "displayDate": "September 8, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Open Market Committee (FOMC) conducts monetary policy by adjusting the federal funds rate and uses various tools to implement it. The FOMC communica",
-    "excerpt": "The Federal Open Market Committee (FOMC) conducts monetary policy by adjusting the federal funds rate and uses various tools to implement it. The FOMC communicates its decisions through statements and press conferences.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "How the FOMC Conducts Monetary Policy | St. Louis Fed"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "how-to-invest-in-today-s-market-u-s-bank",
-    "type": "news",
-    "title": "How to Invest in Today’s Market | U.S. Bank",
-    "slug": "how-to-invest-in-today-s-market-u-s-bank",
-    "date": "2026-09-08",
-    "displayDate": "September 8, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "To invest in today's market, diversify across asset types and stay invested through volatility. Consider bonds and real assets for stability. Consult a financia",
-    "excerpt": "To invest in today's market, diversify across asset types and stay invested through volatility. Consider bonds and real assets for stability. Consult a financial advisor for personalized guidance.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "How to Invest in Today’s Market | U.S. Bank"
-    },
-    "readingTime": 5
-  },
-  {
-    "id": "investment-strategies-for-today-and-long-term-blackrock",
-    "type": "news",
-    "title": "Investment strategies for today and long-term | BlackRock",
-    "slug": "investment-strategies-for-today-and-long-term-blackrock",
-    "date": "2026-09-08",
-    "displayDate": "September 8, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "BlackRock recommends income-focused portfolios for consistent retirement outcomes. They offer fixed income, equities, private credit, and multi-asset strategies",
-    "excerpt": "BlackRock recommends income-focused portfolios for consistent retirement outcomes. They offer fixed income, equities, private credit, and multi-asset strategies. Past performance does not guarantee future results.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Investment strategies for today and long-term | BlackRock"
     },
     "readingTime": 3
   },
@@ -945,48 +1281,6 @@
     "readingTime": 4
   },
   {
-    "id": "stock-market-outlook-midyear-2026",
-    "type": "news",
-    "title": "Stock market outlook midyear 2026",
-    "slug": "stock-market-outlook-midyear-2026",
-    "date": "2026-09-08",
-    "displayDate": "September 8, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The 2026 midyear stock market outlook suggests strong earnings growth and a shift in market leadership, with small-caps and value sectors potentially benefiting",
-    "excerpt": "The 2026 midyear stock market outlook suggests strong earnings growth and a shift in market leadership, with small-caps and value sectors potentially benefiting. Macro factors are increasingly important for investment strategies.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Stock market outlook midyear 2026"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "tech-cnbc",
-    "type": "news",
-    "title": "Tech - CNBC",
-    "slug": "tech-cnbc",
-    "date": "2026-09-08",
-    "displayDate": "September 8, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "CNBC reports on tech trends, including AI advancements and cybersecurity issues, with notable articles on Dell's market importance and Google's AI momentum. Tec",
-    "excerpt": "CNBC reports on tech trends, including AI advancements and cybersecurity issues, with notable articles on Dell's market importance and Google's AI momentum. Tech companies like Uber and Microsoft are featured for workforce cuts and revenue disclosures. CNBC Tech on X shares updates on AI and tech de",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Tech - CNBC"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "tech-news-today-s-latest-technology-news-reuters",
     "type": "news",
     "title": "Tech News | Today's Latest Technology News | Reuters",
@@ -1050,27 +1344,6 @@
     "readingTime": 4
   },
   {
-    "id": "the-fed-federal-open-market-committee",
-    "type": "news",
-    "title": "The Fed - Federal Open Market Committee",
-    "slug": "the-fed-federal-open-market-committee",
-    "date": "2026-09-08",
-    "displayDate": "September 8, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Open Market Committee (FOMC) is the Federal Reserve's main body for setting monetary policy. It consists of twelve members and meets eight times a y",
-    "excerpt": "The Federal Open Market Committee (FOMC) is the Federal Reserve's main body for setting monetary policy. It consists of twelve members and meets eight times a year. The FOMC determines interest rates and money supply growth.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "The Fed - Federal Open Market Committee"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "this-week-s-best-performing-stocks-sectors-industries-rankings-csimarket",
     "type": "news",
     "title": "This Week's Best Performing Stocks, Sectors, Industries Rankings - CSIMarket",
@@ -1090,27 +1363,6 @@
       "alt": "This Week's Best Performing Stocks, Sectors, Industries Rankings - CSIMarket"
     },
     "readingTime": 5
-  },
-  {
-    "id": "u-s-bureau-of-economic-analysis-bea",
-    "type": "news",
-    "title": "U.S. Bureau of Economic Analysis (BEA)",
-    "slug": "u-s-bureau-of-economic-analysis-bea",
-    "date": "2026-09-08",
-    "displayDate": "September 8, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The U.S. Bureau of Economic Analysis provides official macroeconomic data, including GDP, personal income, and industry statistics. It is part of the Department",
-    "excerpt": "The U.S. Bureau of Economic Analysis provides official macroeconomic data, including GDP, personal income, and industry statistics. It is part of the Department of Commerce and has about 500 employees.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "U.S. Bureau of Economic Analysis (BEA)"
-    },
-    "readingTime": 3
   },
   {
     "id": "u-s-bureau-of-labor-statistics",
@@ -1176,27 +1428,6 @@
     "readingTime": 3
   },
   {
-    "id": "united-states-economic-indicators-moody-s-analytics",
-    "type": "news",
-    "title": "United States | Economic Indicators | Moody's Analytics",
-    "slug": "united-states-economic-indicators-moody-s-analytics",
-    "date": "2026-09-08",
-    "displayDate": "September 8, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The U.S. Treasury Bills rate is 3.75% as of September 2026, and the lending rate is 3.63%. The Consumer Confidence Index is 95.88 for June 2026.",
-    "excerpt": "The U.S. Treasury Bills rate is 3.75% as of September 2026, and the lending rate is 3.63%. The Consumer Confidence Index is 95.88 for June 2026.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "United States | Economic Indicators | Moody's Analytics"
-    },
-    "readingTime": 5
-  },
-  {
     "id": "united-states-federal-reserve-interest-rate-decision-investing-com",
     "type": "news",
     "title": "United States Federal Reserve Interest Rate Decision - Investing.com",
@@ -1239,69 +1470,6 @@
     "readingTime": 4
   },
   {
-    "id": "united-states-indicators",
-    "type": "news",
-    "title": "United States Indicators",
-    "slug": "united-states-indicators",
-    "date": "2026-09-08",
-    "displayDate": "September 8, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The U.S. unemployment rate is 4.1%, and GDP annual growth rate is 2.1% in June 2026. The outstanding public debt is $40.2 trillion in August 2026. The latest Fe",
-    "excerpt": "The U.S. unemployment rate is 4.1%, and GDP annual growth rate is 2.1% in June 2026. The outstanding public debt is $40.2 trillion in August 2026. The latest Federal Reserve interest rate is not provided.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "United States Indicators"
-    },
-    "readingTime": 5
-  },
-  {
-    "id": "united-states-inflation-rate-trading-economics",
-    "type": "news",
-    "title": "United States Inflation Rate - Trading Economics",
-    "slug": "united-states-inflation-rate-trading-economics",
-    "date": "2026-09-08",
-    "displayDate": "September 8, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The U.S. inflation rate was 3.4% in July 2026, down from 3.5% in June. Core inflation was 2.5% year-over-year in July 2026. Analysts expect inflation to rise to",
-    "excerpt": "The U.S. inflation rate was 3.4% in July 2026, down from 3.5% in June. Core inflation was 2.5% year-over-year in July 2026. Analysts expect inflation to rise to 3.7% by the end of the quarter.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "United States Inflation Rate - Trading Economics"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "united-states-stock-market-index-quote-chart",
-    "type": "news",
-    "title": "United States Stock Market Index - Quote - Chart",
-    "slug": "united-states-stock-market-index-quote-chart",
-    "date": "2026-09-08",
-    "displayDate": "September 8, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The United States Stock Market Index (US30) was at 52,876 on September 8, 2026, down 1.01%. Key stocks like Apple and Tesla saw minor changes. For the most curr",
-    "excerpt": "The United States Stock Market Index (US30) was at 52,876 on September 8, 2026, down 1.01%. Key stocks like Apple and Tesla saw minor changes. For the most current data, check reliable financial news sources.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "United States Stock Market Index - Quote - Chart"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "us-inflation-rate-monthly-united-states-historical-data",
     "type": "news",
     "title": "US Inflation Rate (Monthly) - United States - Historical Data ...",
@@ -1321,27 +1489,6 @@
       "alt": "US Inflation Rate (Monthly) - United States - Historical Data ..."
     },
     "readingTime": 5
-  },
-  {
-    "id": "us-markets-company-earnings-stock-market-trends-market-news",
-    "type": "news",
-    "title": "US Markets, Company Earnings, Stock Market Trends, Market News",
-    "slug": "us-markets-company-earnings-stock-market-trends-market-news",
-    "date": "2026-09-08",
-    "displayDate": "September 8, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "US markets experienced a volatile week with significant earnings reports and fluctuating trends. Key companies like Nvidia and Snowflake reported strong earning",
-    "excerpt": "US markets experienced a volatile week with significant earnings reports and fluctuating trends. Key companies like Nvidia and Snowflake reported strong earnings, while broader market indices showed mixed performance. The S&P 500 posted a summer rally, but concerns remain about economic pressures.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "US Markets, Company Earnings, Stock Market Trends, Market News"
-    },
-    "readingTime": 4
   },
   {
     "id": "what-is-the-current-inflation-rate-in-the-us",
@@ -1867,27 +2014,6 @@
       "alt": "S&P 500 (SP500) - Technical Analysis - Medium term"
     },
     "readingTime": 4
-  },
-  {
-    "id": "top-investment-strategies-key-approaches-to-maximize-returns",
-    "type": "news",
-    "title": "Top Investment Strategies: Key Approaches to Maximize Returns",
-    "slug": "top-investment-strategies-key-approaches-to-maximize-returns",
-    "date": "2026-09-07",
-    "displayDate": "September 7, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Top investment strategies include conservative plans for stable returns and aggressive strategies for high returns. Index funds and dividend growth investing ar",
-    "excerpt": "Top investment strategies include conservative plans for stable returns and aggressive strategies for high returns. Index funds and dividend growth investing are popular. Rebalancing and diversification are key.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Top Investment Strategies: Key Approaches to Maximize Returns"
-    },
-    "readingTime": 3
   },
   {
     "id": "u-s-bureau-of-labor-statistics-u-s-bureau-of-labor-statistics",
@@ -3927,27 +4053,6 @@
     "readingTime": 4
   },
   {
-    "id": "latest-technology-news-and-reviews-yahoo-finance",
-    "type": "news",
-    "title": "Latest Technology News and Reviews - Yahoo Finance",
-    "slug": "latest-technology-news-and-reviews-yahoo-finance",
-    "date": "2026-09-01",
-    "displayDate": "September 1, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Xiaomi unveiled a new Xring chip, partnering with TSMC for production. Alibaba shares dropped 8% after a $10 billion share sale. Nvidia's Q2 earnings are expect",
-    "excerpt": "Xiaomi unveiled a new Xring chip, partnering with TSMC for production. Alibaba shares dropped 8% after a $10 billion share sale. Nvidia's Q2 earnings are expected to reflect the resurgence of AI investments.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Latest Technology News and Reviews - Yahoo Finance"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "meta-title-sectors-yahoo-finance",
     "type": "news",
     "title": "META_TITLE_SECTORS - Yahoo Finance",
@@ -5689,27 +5794,6 @@
       "alt": "U.S. Market Analysis & Valuation - Dow Jones, Nasdaq, S&P 500 Summary"
     },
     "readingTime": 4
-  },
-  {
-    "id": "united-states-consumer-price-index-cpi-yoy",
-    "type": "news",
-    "title": "United States Consumer Price Index (CPI) YoY",
-    "slug": "united-states-consumer-price-index-cpi-yoy",
-    "date": "2026-08-06",
-    "displayDate": "August 6, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The United States Consumer Price Index (CPI) for June 2026 is 332.568. The CPI measures inflation and is expected to trend around 343.78 points in 2027. The lat",
-    "excerpt": "The United States Consumer Price Index (CPI) for June 2026 is 332.568. The CPI measures inflation and is expected to trend around 343.78 points in 2027. The latest CPI data is seasonally adjusted.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "United States Consumer Price Index (CPI) YoY"
-    },
-    "readingTime": 3
   },
   {
     "id": "united-states-stock-market-index-quote-chart-historical-data-news",
