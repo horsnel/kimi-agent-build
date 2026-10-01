@@ -126,6 +126,27 @@
     "readingTime": 3
   },
   {
+    "id": "bracing-for-big-tech-earnings-here-s-what-you-need-to-know",
+    "type": "news",
+    "title": "Bracing for Big Tech earnings: Here's what you need to know",
+    "slug": "bracing-for-big-tech-earnings-here-s-what-you-need-to-know",
+    "date": "2026-10-01",
+    "displayDate": "October 1, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The sources indicate that the market is bracing for significant Big Tech earnings, with companies like Alphabet, Meta, and Microsoft reporting after hours on a ",
+    "excerpt": "The sources indicate that the market is bracing for significant Big Tech earnings, with companies like Alphabet, Meta, and Microsoft reporting after hours on a massive market day. The video from CNBC Television mentions that this is characteristic of late cycle large cap behavior, and there is a cap",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Bracing for Big Tech earnings: Here's what you need to know"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "coindesk-bitcoin-ethereum-xrp-crypto-news-and-price-data",
     "type": "news",
     "title": "CoinDesk: Bitcoin, Ethereum, XRP, Crypto News and Price Data",
@@ -294,6 +315,48 @@
     "readingTime": 5
   },
   {
+    "id": "cryptocurrency-prices-charts-and-market-capitalizations-coinmarketcap",
+    "type": "news",
+    "title": "Cryptocurrency Prices, Charts And Market Capitalizations | CoinMarketCap",
+    "slug": "cryptocurrency-prices-charts-and-market-capitalizations-coinmarketcap",
+    "date": "2026-10-01",
+    "displayDate": "October 1, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The global crypto market cap is $2.86T, with Bitcoin priced at $83,465.21 and Solana at $117.94. The total crypto market volume over the last 24 hours is $99.19",
+    "excerpt": "The global crypto market cap is $2.86T, with Bitcoin priced at $83,465.21 and Solana at $117.94. The total crypto market volume over the last 24 hours is $99.19B, with DeFi volume at $15.9B and stable coin volume at $101.77B. The sources also list the price of Tron at $0.3376, Cardano at $0.2458, Av",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Cryptocurrency Prices, Charts And Market Capitalizations | CoinMarketCap"
+    },
+    "readingTime": 6
+  },
+  {
+    "id": "cryptocurrency-wikipedia",
+    "type": "news",
+    "title": "Cryptocurrency - Wikipedia",
+    "slug": "cryptocurrency-wikipedia",
+    "date": "2026-10-01",
+    "displayDate": "October 1, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "According to the provided sources, a \"node\" is a computer that connects to a cryptocurrency network and supports the network through various functions such as r",
+    "excerpt": "According to the provided sources, a \"node\" is a computer that connects to a cryptocurrency network and supports the network through various functions such as relaying transactions, validation, or hosting a copy of the blockchain. The sources mention several cryptocurrencies, including stablecoins l",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Cryptocurrency - Wikipedia"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "earnings-calendar-and-analysis-for-this-week-sept-28-oct-2-kiplinger",
     "type": "news",
     "title": "Earnings Calendar and Analysis for This Week (Sept. 28-Oct. 2) | Kiplinger",
@@ -353,6 +416,27 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "Earnings Calendar - MarketWatch"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "earnings-calendar-seeking-alpha",
+    "type": "news",
+    "title": "Earnings Calendar | Seeking Alpha",
+    "slug": "earnings-calendar-seeking-alpha",
+    "date": "2026-10-01",
+    "displayDate": "October 1, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The sources indicate that several companies have reported or are scheduled to report earnings. Accenture plc reported earnings with normalized EPS of 3.96 and a",
+    "excerpt": "The sources indicate that several companies have reported or are scheduled to report earnings. Accenture plc reported earnings with normalized EPS of 3.96 and a YoY growth of 6.39%. McCormick & Company, Incorporated also reported earnings with normalized EPS of 0.87 and a YoY growth of -0.61%. Other",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Earnings Calendar | Seeking Alpha"
     },
     "readingTime": 4
   },
@@ -546,6 +630,27 @@
     "readingTime": 4
   },
   {
+    "id": "federal-reserve-economic-data-fred-st-louis-fed",
+    "type": "news",
+    "title": "Federal Reserve Economic Data | FRED | St. Louis Fed",
+    "slug": "federal-reserve-economic-data-fred-st-louis-fed",
+    "date": "2026-10-01",
+    "displayDate": "October 1, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Federal Reserve Economic Data (FRED) is a database maintained by the Research Division of the Federal Reserve Bank of St. Louis, providing access to over 816,00",
+    "excerpt": "Federal Reserve Economic Data (FRED) is a database maintained by the Research Division of the Federal Reserve Bank of St. Louis, providing access to over 816,000 economic time series from hundreds of public and private sources. It includes data on banking, business and fiscal conditions, consumer pr",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Federal Reserve Economic Data | FRED | St. Louis Fed"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "geekwire-breaking-news-in-technology-business",
     "type": "news",
     "title": "GeekWire – Breaking News in Technology & Business",
@@ -565,6 +670,27 @@
       "alt": "GeekWire – Breaking News in Technology & Business"
     },
     "readingTime": 3
+  },
+  {
+    "id": "global-definition-meaning-merriam-webster",
+    "type": "news",
+    "title": "GLOBAL Definition & Meaning - Merriam-Webster",
+    "slug": "global-definition-meaning-merriam-webster",
+    "date": "2026-10-01",
+    "displayDate": "October 1, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "According to Merriam-Webster, \"global\" means \"of, relating to, or involving the entire world : worldwide.\" It can also refer to something \"of or relating to a s",
+    "excerpt": "According to Merriam-Webster, \"global\" means \"of, relating to, or involving the entire world : worldwide.\" It can also refer to something \"of or relating to a spherical celestial body (such as the moon)\" or \"of, relating to, or applying to a whole (such as a mathematical function or a computer progr",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "GLOBAL Definition & Meaning - Merriam-Webster"
+    },
+    "readingTime": 4
   },
   {
     "id": "global-indices-tracking-the-world-s-markets",
@@ -651,6 +777,48 @@
     "readingTime": 4
   },
   {
+    "id": "globle",
+    "type": "news",
+    "title": "Globle",
+    "slug": "globle",
+    "date": "2026-10-01",
+    "displayDate": "October 1, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Globle is a daily geography puzzle where players guess the mystery country on a globe within 6 tries. Each guess reveals the country's distance and direction wi",
+    "excerpt": "Globle is a daily geography puzzle where players guess the mystery country on a globe within 6 tries. Each guess reveals the country's distance and direction with a heat color, from cold blue when far to burning red when close. The game is free, with no account or ads, and the same daily country is ",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Globle"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "health-technology-sector-companies-performance-and-stocks-usa-tradingview",
+    "type": "news",
+    "title": "Health Technology Sector: Companies, Performance and Stocks — USA — TradingView",
+    "slug": "health-technology-sector-companies-performance-and-stocks-usa-tradingview",
+    "date": "2026-10-01",
+    "displayDate": "October 1, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The sources indicate that several health technology companies are performing well on the stock market. ACIU Immune SA, LXE Lexeo Therapeutics, Inc., and LONA Le",
+    "excerpt": "The sources indicate that several health technology companies are performing well on the stock market. ACIU Immune SA, LXE Lexeo Therapeutics, Inc., and LONA LeonaBio, Inc. are among the top gaining stocks with significant percentage increases. ACIU Immune SA is showing a +7.25% gain, LXE Lexeo Ther",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Health Technology Sector: Companies, Performance and Stocks — USA — TradingView"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "healthcare-stock-performance-yahoo-finance",
     "type": "news",
     "title": "Healthcare Stock Performance - Yahoo Finance",
@@ -733,6 +901,27 @@
       "alt": "Investment Strategy 2026 Portfolio Moves for a Changing Market"
     },
     "readingTime": 3
+  },
+  {
+    "id": "is-shorting-nvidia-a-smart-trade-in-current-market-conditions-investing-com",
+    "type": "news",
+    "title": "Is Shorting Nvidia a Smart Trade in Current Market Conditions? | Investing.com",
+    "slug": "is-shorting-nvidia-a-smart-trade-in-current-market-conditions-investing-com",
+    "date": "2026-10-01",
+    "displayDate": "October 1, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The decision to short Nvidia depends on risk tolerance and market outlook, with valuation metrics suggesting caution due to stretched metrics like a price-to-sa",
+    "excerpt": "The decision to short Nvidia depends on risk tolerance and market outlook, with valuation metrics suggesting caution due to stretched metrics like a price-to-sales ratio of nearly 30. However, the company’s strong market position and AI technology potential demand respect. Short sellers must be prep",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Is Shorting Nvidia a Smart Trade in Current Market Conditions? | Investing.com"
+    },
+    "readingTime": 4
   },
   {
     "id": "latest-technology-news-and-reviews-yahoo-finance",
@@ -857,6 +1046,27 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "Stock Earnings Calendar | Earnings Reports Today & This Week - Stocktwits"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "stock-market-sector-performance-today-stocktitan",
+    "type": "news",
+    "title": "Stock Market Sector Performance Today | StockTitan",
+    "slug": "stock-market-sector-performance-today-stocktitan",
+    "date": "2026-10-01",
+    "displayDate": "October 1, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The sources indicate that the stock market sectors had mixed performance on the most recent trading session. The best-performing sector was Financials with a +1",
+    "excerpt": "The sources indicate that the stock market sectors had mixed performance on the most recent trading session. The best-performing sector was Financials with a +1.00% increase, while Energy lagged with a -0.72% decrease. The top performers included Real Estate led by WELL with +24.65%, Consumer Staple",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Stock Market Sector Performance Today | StockTitan"
     },
     "readingTime": 4
   },
@@ -1113,6 +1323,27 @@
     "readingTime": 5
   },
   {
+    "id": "united-states-indicators",
+    "type": "news",
+    "title": "United States Indicators",
+    "slug": "united-states-indicators",
+    "date": "2026-10-01",
+    "displayDate": "October 1, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The United States economic indicators for July and August 2026 show mixed signals. The Conference Board Coincident Economic Index® (CEI) increased by 0.1% in Au",
+    "excerpt": "The United States economic indicators for July and August 2026 show mixed signals. The Conference Board Coincident Economic Index® (CEI) increased by 0.1% in August 2026 to 114.9 (2016=100), following 0.2% increases in June and July. The CEI's four component indicators are payroll employment, person",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "United States Indicators"
+    },
+    "readingTime": 5
+  },
+  {
     "id": "united-states-inflation-rate",
     "type": "news",
     "title": "United States Inflation Rate",
@@ -1153,6 +1384,48 @@
       "alt": "US Markets, Company Earnings, Stock Market Trends, Market News | Morningstar"
     },
     "readingTime": 5
+  },
+  {
+    "id": "watch-tv-shows-online-free-stream-live-tv-series-full-episodes",
+    "type": "news",
+    "title": "Watch TV Shows Online Free | Stream Live TV Series & Full Episodes",
+    "slug": "watch-tv-shows-online-free-stream-live-tv-series-full-episodes",
+    "date": "2026-10-01",
+    "displayDate": "October 1, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The sources indicate that Global TV offers a variety of shows available to stream live, on-demand, or for free on their app, including \"Nation’s Dumbest,\" \"The ",
+    "excerpt": "The sources indicate that Global TV offers a variety of shows available to stream live, on-demand, or for free on their app, including \"Nation’s Dumbest,\" \"The Wall,\" \"Family Law,\" \"Matlock,\" \"Sheriff Country,\" \"Fire Country,\" \"FBI,\" \"NCIS,\" \"NCIS: Origins,\" \"NCIS: Sydney,\" \"Elsbeth,\" \"Ghosts,\" and ",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Watch TV Shows Online Free | Stream Live TV Series & Full Episodes"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "what-is-cryptocurrency-a-detailed-guide-for-2026",
+    "type": "news",
+    "title": "What is Cryptocurrency? A Detailed Guide for 2026",
+    "slug": "what-is-cryptocurrency-a-detailed-guide-for-2026",
+    "date": "2026-10-01",
+    "displayDate": "October 1, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Cryptocurrency is digital money created by a decentralized network of computers that records and verifies every transaction on a blockchain, a public, tamper-re",
+    "excerpt": "Cryptocurrency is digital money created by a decentralized network of computers that records and verifies every transaction on a blockchain, a public, tamper-resistant ledger. Bitcoin, the first cryptocurrency, was created in 2009, followed by Ethereum in 2015, and now there are thousands of crypto ",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "What is Cryptocurrency? A Detailed Guide for 2026"
+    },
+    "readingTime": 4
   },
   {
     "id": "what-to-look-out-for-in-economic-data-this-week-sept-28-oct-2-kiplinger",
@@ -1680,27 +1953,6 @@
     "readingTime": 3
   },
   {
-    "id": "united-states-indicators",
-    "type": "news",
-    "title": "United States Indicators",
-    "slug": "united-states-indicators",
-    "date": "2026-09-09",
-    "displayDate": "September 9, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The US economy showed a 0.2% increase in the Coincident Economic Index in July 2026, with components like payroll employment and industrial production contribut",
-    "excerpt": "The US economy showed a 0.2% increase in the Coincident Economic Index in July 2026, with components like payroll employment and industrial production contributing. Consumer confidence and government budget balance also provide economic insights.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "United States Indicators"
-    },
-    "readingTime": 5
-  },
-  {
     "id": "united-states-inflation-rate-trading-economics",
     "type": "news",
     "title": "United States Inflation Rate - Trading Economics",
@@ -2014,27 +2266,6 @@
       "alt": "Global Stock Market News and World Indices Coverage - CNBC"
     },
     "readingTime": 4
-  },
-  {
-    "id": "health-technology-sector-companies-performance-and-stocks-usa-tradingview",
-    "type": "news",
-    "title": "Health Technology Sector: Companies, Performance and Stocks — USA — TradingView",
-    "slug": "health-technology-sector-companies-performance-and-stocks-usa-tradingview",
-    "date": "2026-09-08",
-    "displayDate": "September 8, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The health technology sector includes major pharmaceutical companies and biotech firms, with notable stocks like Abbvie and Merck showing mixed performance. Key",
-    "excerpt": "The health technology sector includes major pharmaceutical companies and biotech firms, with notable stocks like Abbvie and Merck showing mixed performance. Key players include Revvity and Thermo Fisher Scientific, both with significant market capitalization and recent stock fluctuations.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Health Technology Sector: Companies, Performance and Stocks — USA — TradingView"
-    },
-    "readingTime": 5
   },
   {
     "id": "latest-company-earnings-news-announcements-seeking-alpha",
@@ -3125,27 +3356,6 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "SECTORS - Healthcare"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "stock-market-sector-performance-today-stocktitan",
-    "type": "news",
-    "title": "Stock Market Sector Performance Today | StockTitan",
-    "slug": "stock-market-sector-performance-today-stocktitan",
-    "date": "2026-09-06",
-    "displayDate": "September 6, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Industrials sector leads today's S&P 500 sectors, Consumer Discretionary lags. S&P 500 down 0.39%. Market breadth shows broad weakness.",
-    "excerpt": "Industrials sector leads today's S&P 500 sectors, Consumer Discretionary lags. S&P 500 down 0.39%. Market breadth shows broad weakness.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Stock Market Sector Performance Today | StockTitan"
     },
     "readingTime": 3
   },
@@ -10059,27 +10269,6 @@
     "readingTime": 3
   },
   {
-    "id": "federal-reserve-economic-data-fred-st-louis-fed",
-    "type": "news",
-    "title": "Federal Reserve Economic Data | FRED | St. Louis Fed",
-    "slug": "federal-reserve-economic-data-fred-st-louis-fed",
-    "date": "2026-07-03",
-    "displayDate": "July 3, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "FRED is a comprehensive economic database maintained by the St. Louis Fed, offering over 800,000 time series data on various economic indicators. It provides ac",
-    "excerpt": "FRED is a comprehensive economic database maintained by the St. Louis Fed, offering over 800,000 time series data on various economic indicators. It provides access to data on banking, employment, and financial markets. Users can download data and view charts.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Federal Reserve Economic Data | FRED | St. Louis Fed"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "global-companies-reports-and-earnings",
     "type": "news",
     "title": "Global Companies Reports and Earnings",
@@ -10225,27 +10414,6 @@
       "alt": "Cryptocurrency pricing, market & regulation news - Yahoo Finance"
     },
     "readingTime": 6
-  },
-  {
-    "id": "earnings-calendar-seeking-alpha",
-    "type": "news",
-    "title": "Earnings Calendar | Seeking Alpha",
-    "slug": "earnings-calendar-seeking-alpha",
-    "date": "2026-07-02",
-    "displayDate": "July 2, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Earnings Calendar on Seeking Alpha lists upcoming earnings dates and related financial data. Earnings Call Transcripts provide detailed discussions from com",
-    "excerpt": "The Earnings Calendar on Seeking Alpha lists upcoming earnings dates and related financial data. Earnings Call Transcripts provide detailed discussions from company earnings calls. The \"Earnings\" tab offers insights into earnings estimates, surprises, and revisions.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Earnings Calendar | Seeking Alpha"
-    },
-    "readingTime": 3
   },
   {
     "id": "earnings-scheduled-for-wednesday-july-1-2026-earnings-whispers",

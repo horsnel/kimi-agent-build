@@ -1,0 +1,52 @@
+{
+  "id": "cryptocurrency-wikipedia",
+  "type": "news",
+  "title": "Cryptocurrency - Wikipedia",
+  "slug": "cryptocurrency-wikipedia",
+  "date": "2026-10-01",
+  "displayDate": "October 1, 2026",
+  "author": "Sigma Capital",
+  "category": "Crypto",
+  "tags": [
+    "crypto",
+    "financial news",
+    "market update"
+  ],
+  "metaDescription": "According to the provided sources, a \"node\" is a computer that connects to a cryptocurrency network and supports the network through various functions such as r",
+  "excerpt": "According to the provided sources, a \"node\" is a computer that connects to a cryptocurrency network and supports the network through various functions such as relaying transactions, validation, or hosting a copy of the blockchain. The sources mention several cryptocurrencies, including stablecoins l",
+  "content": {
+    "introduction": "According to the provided sources, a \"node\" is a computer that connects to a cryptocurrency network and supports the network through various functions such as relaying transactions, validation, or hosting a copy of the blockchain. The sources mention several cryptocurrencies, including stablecoins like Dai, Diem, Pax, Terra, and Tether, and meme coins like CAR, Chill Guy, Coinye, Dogecoin, LGBcoin, Libra, Melania, Pawthereum, and Trump. The sources also provide details on specific cryptocurrencies like Coinye, which was abandoned after Kanye West filed a trademark lawsuit, and Dash, which is a bitcoin-based currency featuring instant transactions, decentralized governance, budgeting, and private transactions. The sources do not provide a definitive answer to any specific question beyond what is mentioned.",
+    "body": [
+      "A \"node\" is a computer that connects to a cryptocurrency network. The node supports the cryptocurrency's network through either relaying transactions, validation, or hosting a copy of the blockchain. In terms of relaying transactions, each network computer (node) has a copy of the blockchain of the cryptocurrency it supports. When a transaction is made, the node creating the transaction broadcasts details of the transaction using encryption to other nodes throughout the node network so that the [...] | Stablecoins |  Dai \"Dai (cryptocurrency)\")  Diem \"Diem (digital currency)\")  Pax  Terra \"Terra (blockchain)\")  Tether \"Tether (cryptocurrency)\")  USD Coin \"USDC (cryptocurrency)\") |\n| Meme coins |  CAR  Chill Guy  Coinye  Dogecoin  LGBcoin  Libra  Melania  Pawthereum  Trump | [...] |  v  t  e  Medium of exchange |",
+      "Wikipedia\nThe Free Encyclopedia\n\n## Contents\n\n# Crypto\n\nPage semi-protectedWiktionary logo\n\nCrypto may refer to:\n\n## Cryptography\n\n## Cryptocurrency\n\n## Other uses\n\n## See also\n\nDisambiguation icon\n\nWikimedia Foundation\nPowered by MediaWiki",
+      "| Release | Currency | Symbol | Founder(s) | Hash algorithm | Programming language of implementation | Cryptocurrency blockchain  (PoS, PoW, or other) | Notes |\n ---  ---  ---  --- |\n| 2014 | Coinye | KOI, COYE | Scrypt | PoW | Used American hip hop artist Kanye West as its mascot, abandoned after he filed a trademark lawsuit. |\n| OneCoin | Ruja Ignatova and Stephen Greenwood | A Ponzi scheme promoted as a cryptocurrency. | [...] | Proof of work currencies | |  |  |  --- | | SHA-256-based |  Bitcoin  Bitcoin Cash  Counterparty \"Counterparty (platform)\")  LBRY  MazaCoin  Namecoin  Peercoin  Titcoin | | Ethash-based |  Ethereum (1.0)  Ethereum Classic | | Scrypt-based |  Auroracoin  Bitconnect  Coinye  Dogecoin  Litecoin | | Equihash-based |  Bitcoin Gold  Zcash | | RandomX-based |  Monero | | X11#X11 \"Dash (cryptocurrency)\")-based |  Dash \"Dash (cryptocurrency)\")  Petro \"Petro (token)\") | | Other |  AmbaCoin  Firo \"Firo [...] | 2014 | Auroracoin | AUR | Baldur Odinsson (pseudonym) | Scrypt | C++ | PoW | Created as an alternative currency for Iceland, intended to replace the Icelandic króna. |\n| 2014 | Dash \"Dash (cryptocurrency)\") | DASH | Evan Duffield | X11 \"Dash (cryptocurrency)\") | C++ | PoW & Proof of Service | A bitcoin-based currency featuring instant transactions, decentralized governance and budgeting, and private transactions. |"
+    ],
+    "keyTakeaways": [
+      "According to the provided sources, a \"node\" is a computer that connects to a cryptocurrency network and supports the net",
+      "A \"node\" is a computer that connects to a cryptocurrency network. The node supports the cryptocurrency's network through",
+      "Wikipedia\nThe Free Encyclopedia\n\n## Contents\n\n# Crypto\n\nPage semi-protectedWiktionary logo\n\nCrypto may refer to:\n\n## Cry"
+    ],
+    "source": "en.wikipedia.org",
+    "sourceUrl": "https://en.wikipedia.org/wiki/Cryptocurrency"
+  },
+  "readingTime": 3,
+  "updatedAt": "2026-10-01T22:26:53.793Z",
+  "images": {
+    "thumbnail": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Cryptocurrency - Wikipedia"
+    },
+    "hero": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Cryptocurrency - Wikipedia"
+    },
+    "mid": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Cryptocurrency - Wikipedia"
+    }
+  },
+  "image": {
+    "src": "/images/article_thumb_1.jpg",
+    "alt": "Cryptocurrency - Wikipedia"
+  }
+}
