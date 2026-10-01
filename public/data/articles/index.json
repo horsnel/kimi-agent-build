@@ -21,6 +21,27 @@
     "readingTime": 3
   },
   {
+    "id": "2026-investment-outlook-themes-for-portfolio-strategies",
+    "type": "news",
+    "title": "2026 Investment Outlook: Themes for Portfolio Strategies",
+    "slug": "2026-investment-outlook-themes-for-portfolio-strategies",
+    "date": "2026-10-01",
+    "displayDate": "October 1, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The 2026 investment outlook emphasizes increasing exposure to small caps and emerging markets, staying overweight in equities while diversifying globally, and p",
+    "excerpt": "The 2026 investment outlook emphasizes increasing exposure to small caps and emerging markets, staying overweight in equities while diversifying globally, and preparing for shifting sector leadership. Fixed income is suggested for ballast, and excess cash should be deployed. Alternative investments ",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "2026 Investment Outlook: Themes for Portfolio Strategies"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "asian-market-headlines-breaking-stock-market-news-reuters",
     "type": "news",
     "title": "Asian Market Headlines | Breaking Stock Market News | Reuters",
@@ -105,6 +126,90 @@
     "readingTime": 4
   },
   {
+    "id": "company-earnings-calendar-yahoo-finance",
+    "type": "news",
+    "title": "Company Earnings Calendar - Yahoo Finance",
+    "slug": "company-earnings-calendar-yahoo-finance",
+    "date": "2026-10-01",
+    "displayDate": "October 1, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "On October 1, 2026, the Yahoo Finance earnings calendar lists ADSE ADS-TEC Energy PLC with an H1 2026 Earnings Announcement, ELBM Electra Battery Materials Corp",
+    "excerpt": "On October 1, 2026, the Yahoo Finance earnings calendar lists ADSE ADS-TEC Energy PLC with an H1 2026 Earnings Announcement, ELBM Electra Battery Materials Corporation with a Q2 2026 Earnings Announcement, CGTL Creative Global Technology Holdings Limited with an H1 2026 Earnings Announcement, and IS",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Company Earnings Calendar - Yahoo Finance"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "cpi-home-u-s-bureau-of-labor-statistics",
+    "type": "news",
+    "title": "CPI Home : U.S. Bureau of Labor Statistics",
+    "slug": "cpi-home-u-s-bureau-of-labor-statistics",
+    "date": "2026-10-01",
+    "displayDate": "October 1, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Consumer Price Index for All Urban Consumers (CPI-U) increased 0.4 percent on a seasonally adjusted basis in August 2026 after rising 0.1 percent in July, a",
+    "excerpt": "The Consumer Price Index for All Urban Consumers (CPI-U) increased 0.4 percent on a seasonally adjusted basis in August 2026 after rising 0.1 percent in July, according to the U.S. Bureau of Labor Statistics. The CPI Home page provides detailed information on various expenditure categories, includin",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "CPI Home : U.S. Bureau of Labor Statistics"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "crypto-market-holds-at-2-41t-as-bitcoin-surges-4-99-today",
+    "type": "news",
+    "title": "Crypto Market Holds At $2.41T As Bitcoin Surges 4.99% Today",
+    "slug": "crypto-market-holds-at-2-41t-as-bitcoin-surges-4-99-today",
+    "date": "2026-10-01",
+    "displayDate": "October 1, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The crypto market holds at $2.41T as Bitcoin surges 4.99% today, trading at $74,380.02, according to Blockchain Reporter. The market dominance of Bitcoin accoun",
+    "excerpt": "The crypto market holds at $2.41T as Bitcoin surges 4.99% today, trading at $74,380.02, according to Blockchain Reporter. The market dominance of Bitcoin accounts for 58.8%, while Ethereum ($ETH) is changing hands at $2,363.81, displaying an 8.05% increase. The sources do not provide information on ",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Crypto Market Holds At $2.41T As Bitcoin Surges 4.99% Today"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "crypto-market-today-200m-derisk-ahead-of-fomc-what-s-next-for-bitcoin-ethereum-a",
+    "type": "news",
+    "title": "Crypto Market Today: $200M Derisk Ahead of FOMC, What’s Next for Bitcoin, Ethereum and Solana Price?",
+    "slug": "crypto-market-today-200m-derisk-ahead-of-fomc-what-s-next-for-bitcoin-ethereum-a",
+    "date": "2026-10-01",
+    "displayDate": "October 1, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The crypto market saw more than $200 million liquidations today ahead of the Fed's decision on interest rates, with Bitcoin, Ethereum, and Solana prices experie",
+    "excerpt": "The crypto market saw more than $200 million liquidations today ahead of the Fed's decision on interest rates, with Bitcoin, Ethereum, and Solana prices experiencing volatility depending on the Fed's sentiments on inflation. Traders have already priced in the Fed's decision to leave interest rates u",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Crypto Market Today: $200M Derisk Ahead of FOMC, What’s Next for Bitcoin, Ethereum and Solana Price?"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "crypto-news-bitcoin-ethereum-xrp-news-crypto-news",
     "type": "news",
     "title": "Crypto News: Bitcoin, Ethereum & XRP News | crypto.news",
@@ -124,6 +229,27 @@
       "alt": "Crypto News: Bitcoin, Ethereum & XRP News | crypto.news"
     },
     "readingTime": 3
+  },
+  {
+    "id": "crypto-news-today-bitcoin-near-80k-as-market-jumps-2",
+    "type": "news",
+    "title": "Crypto News Today: Bitcoin Near $80K as Market Jumps 2%",
+    "slug": "crypto-news-today-bitcoin-near-80k-as-market-jumps-2",
+    "date": "2026-10-01",
+    "displayDate": "October 1, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "According to CoinGabbar, on August 25, 2026, the global cryptocurrency market reached a capitalization of $2.75 trillion, with an overall surge of 2% in the las",
+    "excerpt": "According to CoinGabbar, on August 25, 2026, the global cryptocurrency market reached a capitalization of $2.75 trillion, with an overall surge of 2% in the last 24 hours, while Bitcoin (BTC) price reached $79,674 with a hike of 3% in the last 24 hours. Ethereum (ETH) price was at $2,494.65 with a s",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Crypto News Today: Bitcoin Near $80K as Market Jumps 2%"
+    },
+    "readingTime": 5
   },
   {
     "id": "earnings-calendar-and-analysis-for-this-week-sept-28-oct-2-kiplinger",
@@ -147,6 +273,48 @@
     "readingTime": 3
   },
   {
+    "id": "earnings-calendar-investing-com",
+    "type": "news",
+    "title": "Earnings Calendar - Investing.com",
+    "slug": "earnings-calendar-investing-com",
+    "date": "2026-10-01",
+    "displayDate": "October 1, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "On October 1, 2026, the Investing.com Earnings Calendar lists earnings reports from several major companies including Accenture, Nike, McCormick & Co, Acuity, V",
+    "excerpt": "On October 1, 2026, the Investing.com Earnings Calendar lists earnings reports from several major companies including Accenture, Nike, McCormick & Co, Acuity, VinFast, and Park Aerospace. The calendar also includes companies like Micron, Jabil, Nidec ADR, FactSet Research, and Conagra Brands for pre",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Earnings Calendar - Investing.com"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "earnings-calendar-marketwatch",
+    "type": "news",
+    "title": "Earnings Calendar - MarketWatch",
+    "slug": "earnings-calendar-marketwatch",
+    "date": "2026-10-01",
+    "displayDate": "October 1, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The MarketWatch earnings calendar for today shows that IperionX Ltd. ADR (IPX) is scheduled to report on 06/30/2026 with an EPS forecast of -0.35 and an EPS act",
+    "excerpt": "The MarketWatch earnings calendar for today shows that IperionX Ltd. ADR (IPX) is scheduled to report on 06/30/2026 with an EPS forecast of -0.35 and an EPS actual of -0.35, with no surprise. Uranium Energy Corp. (UEC) is also scheduled to report on 07/31/2026 with an EPS forecast of -0.04 and an EP",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Earnings Calendar - MarketWatch"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "earnings",
     "type": "news",
     "title": "Earnings",
@@ -166,6 +334,27 @@
       "alt": "Earnings"
     },
     "readingTime": 3
+  },
+  {
+    "id": "economic-calendar",
+    "type": "news",
+    "title": "Economic Calendar",
+    "slug": "economic-calendar",
+    "date": "2026-10-01",
+    "displayDate": "October 1, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Economic Calendar on Investing.com tracks indicators such as GDP, inflation, employment figures, interest rate decisions, manufacturing PMI, consumer confid",
+    "excerpt": "The Economic Calendar on Investing.com tracks indicators such as GDP, inflation, employment figures, interest rate decisions, manufacturing PMI, consumer confidence, and central bank speeches from countries around the world. The calendar highlights high-impact events like central bank interest rate ",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Economic Calendar"
+    },
+    "readingTime": 4
   },
   {
     "id": "economic-indicators-dashboard-latest-gdp-cpi-unemployment-data-tipranks-com",
@@ -206,6 +395,48 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "Economic Indicators: Latest CPI Data on Inflation - Detroit Regional Chamber"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "economic-news-releases-u-s-bureau-of-labor-statistics",
+    "type": "news",
+    "title": "Economic News Releases :  U.S. Bureau of Labor Statistics",
+    "slug": "economic-news-releases-u-s-bureau-of-labor-statistics",
+    "date": "2026-10-01",
+    "displayDate": "October 1, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The U.S. Bureau of Labor Statistics (BLS) provides economic news releases that include detailed data on various economic indicators. As of October 1, 2026, the ",
+    "excerpt": "The U.S. Bureau of Labor Statistics (BLS) provides economic news releases that include detailed data on various economic indicators. As of October 1, 2026, the latest releases include information on the Producer Price Index, Consumer Price Index, and real average hourly earnings. The BLS also report",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Economic News Releases :  U.S. Bureau of Labor Statistics"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "fed-raises-rates-to-3-75-4-00-first-hike-since-2023-u-s-bank",
+    "type": "news",
+    "title": "Fed raises rates to 3.75%-4.00%, first hike since 2023 | U.S. Bank",
+    "slug": "fed-raises-rates-to-3-75-4-00-first-hike-since-2023-u-s-bank",
+    "date": "2026-10-01",
+    "displayDate": "October 1, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The U.S. Federal Reserve increased its policy interest rate to a range of 3.75%-4.00% on September 16, 2026, marking the first hike since 2023. This decision, w",
+    "excerpt": "The U.S. Federal Reserve increased its policy interest rate to a range of 3.75%-4.00% on September 16, 2026, marking the first hike since 2023. This decision, which brought the central bank’s flagship rate to between 3.75% and 4.00%, was aimed at bringing down inflation. The unanimous vote indicates",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Fed raises rates to 3.75%-4.00%, first hike since 2023 | U.S. Bank"
     },
     "readingTime": 4
   },
@@ -273,6 +504,27 @@
     "readingTime": 3
   },
   {
+    "id": "global-indices-tracking-the-world-s-markets",
+    "type": "news",
+    "title": "Global Indices - Tracking the World's Markets",
+    "slug": "global-indices-tracking-the-world-s-markets",
+    "date": "2026-10-01",
+    "displayDate": "October 1, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The sources provide specific data on various global indices as of 2026-10-01. The S&P 500 was at 7,815.75, up 36.75 points (0.47%) as of 06:57 PM on 27 Sep. The",
+    "excerpt": "The sources provide specific data on various global indices as of 2026-10-01. The S&P 500 was at 7,815.75, up 36.75 points (0.47%) as of 06:57 PM on 27 Sep. The Nikkei 225 was at 66,364.20, up 850.21 points (1.30%) as of 06:30 PM on 27 Sep. The Hang Seng Index was at 24,510.10, down 324.00 points (1",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Global Indices - Tracking the World's Markets"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "global-market-headlines-breaking-stock-market-news-reuters",
     "type": "news",
     "title": "Global Market Headlines | Breaking Stock Market News | Reuters",
@@ -290,6 +542,48 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "Global Market Headlines | Breaking Stock Market News | Reuters"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "global-market-indices-international-markets-markets-insider",
+    "type": "news",
+    "title": "Global Market Indices | International Markets | Markets Insider",
+    "slug": "global-market-indices-international-markets-markets-insider",
+    "date": "2026-10-01",
+    "displayDate": "October 1, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "On October 1, 2026, the Nikkei 225 in Japan closed at 68,679.37, up 1,925.65 points or 2.88% from the previous close, marking a 32.5% increase year-to-date and ",
+    "excerpt": "On October 1, 2026, the Nikkei 225 in Japan closed at 68,679.37, up 1,925.65 points or 2.88% from the previous close, marking a 32.5% increase year-to-date and a 52.84% rise over the past 52 weeks. The S&P 500 in the USA closed at 7,651.54, down 19.3 points or 0.25% from the previous close, with a y",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Global Market Indices | International Markets | Markets Insider"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "global-stock-market-news-and-world-indices-coverage",
+    "type": "news",
+    "title": "Global Stock Market News and World Indices Coverage",
+    "slug": "global-stock-market-news-and-world-indices-coverage",
+    "date": "2026-10-01",
+    "displayDate": "October 1, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Nikkei 225 is up 1,414.73 points or 2.16% to 66,896.00 as of 02:30:28, the S&P/ASX 200 is up 80.00 points or 0.92% to 8,789.30 as of 02:04:59, and the Hang ",
+    "excerpt": "The Nikkei 225 is up 1,414.73 points or 2.16% to 66,896.00 as of 02:30:28, the S&P/ASX 200 is up 80.00 points or 0.92% to 8,789.30 as of 02:04:59, and the Hang Seng is up 79.43 points or 0.32% to 24,603.00 as of 03:57:19. The sources do not provide the latest figures for all indices.",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Global Stock Market News and World Indices Coverage"
     },
     "readingTime": 4
   },
@@ -315,6 +609,27 @@
     "readingTime": 4
   },
   {
+    "id": "how-should-i-allocate-my-portfolio-in-2026",
+    "type": "news",
+    "title": "How Should I Allocate My Portfolio in 2026?",
+    "slug": "how-should-i-allocate-my-portfolio-in-2026",
+    "date": "2026-10-01",
+    "displayDate": "October 1, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "In 2026, portfolio allocation should reflect your timeline, risk tolerance, income stability, and long-term goals. For those with under 3 years until investment",
+    "excerpt": "In 2026, portfolio allocation should reflect your timeline, risk tolerance, income stability, and long-term goals. For those with under 3 years until investment goals, prioritize liquidity and stability with heavy cash and short-term bonds. For 3–10 years, maintain a balanced stock/bond mix. For 10+",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "How Should I Allocate My Portfolio in 2026?"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "inflation-consumer-prices-for-the-united-states-fpcpitotlzgusa-fred-st-louis-fed",
     "type": "news",
     "title": "Inflation, consumer prices for the United States (FPCPITOTLZGUSA) | FRED | St. Louis Fed",
@@ -334,6 +649,27 @@
       "alt": "Inflation, consumer prices for the United States (FPCPITOTLZGUSA) | FRED | St. Louis Fed"
     },
     "readingTime": 4
+  },
+  {
+    "id": "investment-strategy-2026-portfolio-moves-for-a-changing-market",
+    "type": "news",
+    "title": "Investment Strategy 2026 Portfolio Moves for a Changing Market",
+    "slug": "investment-strategy-2026-portfolio-moves-for-a-changing-market",
+    "date": "2026-10-01",
+    "displayDate": "October 1, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "For 2026 investment strategy, sources suggest blending long-term discipline, selective global diversification, and a duration stance adapted to an evolving macr",
+    "excerpt": "For 2026 investment strategy, sources suggest blending long-term discipline, selective global diversification, and a duration stance adapted to an evolving macro backdrop. Key portfolio considerations include increasing exposure to small caps and emerging markets, staying overweight equities but div",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Investment Strategy 2026 Portfolio Moves for a Changing Market"
+    },
+    "readingTime": 3
   },
   {
     "id": "monthly-stock-sector-outlook-charles-schwab",
@@ -357,6 +693,48 @@
     "readingTime": 3
   },
   {
+    "id": "s-p-500-gspc-charts-data-news-yahoo-finance",
+    "type": "news",
+    "title": "S&P 500 (^GSPC) Charts, Data & News - Yahoo Finance",
+    "slug": "s-p-500-gspc-charts-data-news-yahoo-finance",
+    "date": "2026-10-01",
+    "displayDate": "October 1, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "As of 12:22:43 PM EDT on October 1, 2026, the S&P 500 (^GSPC) is at 7,714.06, up by 43.22 points or 0.56%. The market is open. The chart shows the index has gai",
+    "excerpt": "As of 12:22:43 PM EDT on October 1, 2026, the S&P 500 (^GSPC) is at 7,714.06, up by 43.22 points or 0.56%. The market is open. The chart shows the index has gained 0.10% in the last day, 0.03% in the last month, 21.60% in the last six months, 12.69% year-to-date, and 15.33% in the last year. Over fi",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "S&P 500 (^GSPC) Charts, Data & News - Yahoo Finance"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "s-p-500-index-sp500-analysis-news-and-chart-today-seeking-alpha",
+    "type": "news",
+    "title": "S&P 500 Index (SP500) Analysis, News, And Chart Today | Seeking Alpha",
+    "slug": "s-p-500-index-sp500-analysis-news-and-chart-today-seeking-alpha",
+    "date": "2026-10-01",
+    "displayDate": "October 1, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The S&P 500 remains in a bullish technical setup, closing 2.33% higher and approaching the 7425 target, according to Andrew McElroy's analysis. The S&P 500 exce",
+    "excerpt": "The S&P 500 remains in a bullish technical setup, closing 2.33% higher and approaching the 7425 target, according to Andrew McElroy's analysis. The S&P 500 exceeded 7400 for the first time in a week marked by US-Iran conflict fluctuations. Key supports are 7273-7300, with a plan to lighten up above ",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "S&P 500 Index (SP500) Analysis, News, And Chart Today | Seeking Alpha"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "stock-earnings-calendar-earnings-reports-today-this-week-stocktwits",
     "type": "news",
     "title": "Stock Earnings Calendar | Earnings Reports Today & This Week - Stocktwits",
@@ -376,6 +754,27 @@
       "alt": "Stock Earnings Calendar | Earnings Reports Today & This Week - Stocktwits"
     },
     "readingTime": 4
+  },
+  {
+    "id": "stock-market-will-s-p-500-open-up-or-down-today-benzinga",
+    "type": "news",
+    "title": "Stock Market: Will S&P 500 Open Up or Down Today? - Benzinga",
+    "slug": "stock-market-will-s-p-500-open-up-or-down-today-benzinga",
+    "date": "2026-10-01",
+    "displayDate": "October 1, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "U.S. stock futures are pointing to a mixed open early Wednesday, with tech and benchmark futures edging higher even as Brent crude surges toward $100 per barrel",
+    "excerpt": "U.S. stock futures are pointing to a mixed open early Wednesday, with tech and benchmark futures edging higher even as Brent crude surges toward $100 per barrel amid escalating U.S.-Iran military exchanges and ahead of Apple Inc.’s annual product launch event. The Polymarket crowd is leaning bullish",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Stock Market: Will S&P 500 Open Up or Down Today? - Benzinga"
+    },
+    "readingTime": 5
   },
   {
     "id": "tech-news-today-s-latest-technology-news-reuters",
@@ -504,6 +903,48 @@
     "readingTime": 3
   },
   {
+    "id": "u-s-bureau-of-labor-statistics-u-s-bureau-of-labor-statistics",
+    "type": "news",
+    "title": "U.S. Bureau of Labor Statistics :  U.S. Bureau of Labor Statistics",
+    "slug": "u-s-bureau-of-labor-statistics-u-s-bureau-of-labor-statistics",
+    "date": "2026-10-01",
+    "displayDate": "October 1, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The U.S. Bureau of Labor Statistics (BLS) is a federal agency under the Department of Labor that measures labor market activity, working conditions, and price c",
+    "excerpt": "The U.S. Bureau of Labor Statistics (BLS) is a federal agency under the Department of Labor that measures labor market activity, working conditions, and price changes in the economy. It collects, analyzes, and disseminates essential economic information to support public and private decision-making.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "U.S. Bureau of Labor Statistics :  U.S. Bureau of Labor Statistics"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "u-s-federal-reserve-news-today-s-latest-stories-reuters",
+    "type": "news",
+    "title": "U.S. Federal Reserve News | Today's Latest Stories | Reuters",
+    "slug": "u-s-federal-reserve-news-today-s-latest-stories-reuters",
+    "date": "2026-10-01",
+    "displayDate": "October 1, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "According to Reuters, New York Federal Reserve President John Williams suggested that the U.S. central bank might need to raise interest rates again before the ",
+    "excerpt": "According to Reuters, New York Federal Reserve President John Williams suggested that the U.S. central bank might need to raise interest rates again before the end of the year to help bring down inflation risks. Additionally, Philadelphia Federal Reserve President Anna Paulson stated that more rate ",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "U.S. Federal Reserve News | Today's Latest Stories | Reuters"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "u-s-stock-markets-today",
     "type": "news",
     "title": "U.S. Stock Markets Today",
@@ -523,6 +964,27 @@
       "alt": "U.S. Stock Markets Today"
     },
     "readingTime": 4
+  },
+  {
+    "id": "united-states-federal-reserve-interest-rate-decision",
+    "type": "news",
+    "title": "United States Federal Reserve Interest Rate Decision",
+    "slug": "united-states-federal-reserve-interest-rate-decision",
+    "date": "2026-10-01",
+    "displayDate": "October 1, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The next Federal Reserve interest rate decision is scheduled for April 29, 2026, at 2:00 PM Eastern Time (ET), according to Equals Money. The federal funds rate",
+    "excerpt": "The next Federal Reserve interest rate decision is scheduled for April 29, 2026, at 2:00 PM Eastern Time (ET), according to Equals Money. The federal funds rate target range is currently set at 3.50% to 3.75%, where it was left unchanged at the Federal Reserve’s latest meeting on March 18, 2026. The",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "United States Federal Reserve Interest Rate Decision"
+    },
+    "readingTime": 5
   },
   {
     "id": "united-states-inflation-rate",
@@ -565,6 +1027,27 @@
       "alt": "US Markets, Company Earnings, Stock Market Trends, Market News | Morningstar"
     },
     "readingTime": 5
+  },
+  {
+    "id": "what-to-look-out-for-in-economic-data-this-week-sept-28-oct-2-kiplinger",
+    "type": "news",
+    "title": "What to Look Out for in Economic Data This Week (Sept. 28-Oct. 2) | Kiplinger",
+    "slug": "what-to-look-out-for-in-economic-data-this-week-sept-28-oct-2-kiplinger",
+    "date": "2026-10-01",
+    "displayDate": "October 1, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "This week's economic calendar features key data releases, including the Personal Consumption Expenditures Price Index (PCE) and Core PCE on Wednesday, September",
+    "excerpt": "This week's economic calendar features key data releases, including the Personal Consumption Expenditures Price Index (PCE) and Core PCE on Wednesday, September 30, and the September jobs report. The Federal Reserve's preferred inflation gauge and the PCE data are expected to show the impact of risi",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "What to Look Out for in Economic Data This Week (Sept. 28-Oct. 2) | Kiplinger"
+    },
+    "readingTime": 4
   },
   {
     "id": "when-is-the-next-fomc-meeting-equals-money",
@@ -693,27 +1176,6 @@
     "readingTime": 3
   },
   {
-    "id": "company-earnings-calendar-yahoo-finance",
-    "type": "news",
-    "title": "Company Earnings Calendar - Yahoo Finance",
-    "slug": "company-earnings-calendar-yahoo-finance",
-    "date": "2026-09-09",
-    "displayDate": "September 9, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "On September 9, 2026, multiple companies are scheduled to announce their earnings, including Chewy, Inc. and Core & Main, Inc. The earnings calendar also lists ",
-    "excerpt": "On September 9, 2026, multiple companies are scheduled to announce their earnings, including Chewy, Inc. and Core & Main, Inc. The earnings calendar also lists economic events and stock splits for the week. MarketWatch lists Sekisui House Ltd. and Imperial Petroleum Inc. among upcoming earnings anno",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Company Earnings Calendar - Yahoo Finance"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "earnings-calendar-and-analysis-for-this-week-september-7-11",
     "type": "news",
     "title": "Earnings Calendar and Analysis for This Week (September 7-11)",
@@ -735,27 +1197,6 @@
     "readingTime": 4
   },
   {
-    "id": "earnings-calendar-investing-com",
-    "type": "news",
-    "title": "Earnings Calendar - Investing.com",
-    "slug": "earnings-calendar-investing-com",
-    "date": "2026-09-09",
-    "displayDate": "September 9, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "|  | AgileThought  (  AGILQ  )  AgileThought | -  /  -  /  5K |  | 0.010.00%  aa.aa | -  / \n|  | Tuesday, September 15, 2026 |  |  |  |  |  |  |  |  |\n|  | Trip",
-    "excerpt": "|  | AgileThought  (  AGILQ  )  AgileThought | -  /  -  /  5K |  | 0.010.00%  aa.aa | -  / \n|  | Tuesday, September 15, 2026 |  |  |  |  |  |  |  |  |\n|  | Trip.com ADR  (  TCOM  )  Trip.com ADR | -  / | 6.12 | -  / | 15.62B | 25.5B |  | 40.50-1.29% ",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Earnings Calendar - Investing.com"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "earnings-cnbc",
     "type": "news",
     "title": "Earnings - CNBC",
@@ -775,69 +1216,6 @@
       "alt": "Earnings - CNBC"
     },
     "readingTime": 3
-  },
-  {
-    "id": "global-indices-tracking-the-world-s-markets",
-    "type": "news",
-    "title": "Global Indices - Tracking the World's Markets",
-    "slug": "global-indices-tracking-the-world-s-markets",
-    "date": "2026-09-09",
-    "displayDate": "September 9, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Global indices track major stock market performance worldwide, including the S&P 500, Nikkei 225, and FTSE 100. They reflect the health of various economies and",
-    "excerpt": "Global indices track major stock market performance worldwide, including the S&P 500, Nikkei 225, and FTSE 100. They reflect the health of various economies and asset classes. As of 2026-09-09, the S&P 500 was at 7,700.55, down 39.05 points.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Global Indices - Tracking the World's Markets"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "global-market-indices-international-markets-markets-insider",
-    "type": "news",
-    "title": "Global Market Indices | International Markets - Markets Insider",
-    "slug": "global-market-indices-international-markets-markets-insider",
-    "date": "2026-09-09",
-    "displayDate": "September 9, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "FTSE 100 is down 0.1% today; NASDAQ 100 and NIKKEI 225 both declined; Dow Jones Futures fell 1.18%.",
-    "excerpt": "FTSE 100 is down 0.1% today; NASDAQ 100 and NIKKEI 225 both declined; Dow Jones Futures fell 1.18%.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Global Market Indices | International Markets - Markets Insider"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "global-stock-market-news-and-world-indices-coverage",
-    "type": "news",
-    "title": "Global Stock Market News and World Indices Coverage",
-    "slug": "global-stock-market-news-and-world-indices-coverage",
-    "date": "2026-09-09",
-    "displayDate": "September 9, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Global stock markets and world indices show mixed trends with some regions advancing while others decline, influenced by geopolitical events and economic data. ",
-    "excerpt": "Global stock markets and world indices show mixed trends with some regions advancing while others decline, influenced by geopolitical events and economic data. Major indices like the Dow Jones, S&P 500, and Nikkei 225 fluctuate based on global economic conditions. Current data reflects recent shifts",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Global Stock Market News and World Indices Coverage"
-    },
-    "readingTime": 4
   },
   {
     "id": "how-the-fomc-conducts-monetary-policy-st-louis-fed",
@@ -1344,27 +1722,6 @@
     "readingTime": 5
   },
   {
-    "id": "2026-investment-outlook-themes-for-portfolio-strategies",
-    "type": "news",
-    "title": "2026 Investment Outlook: Themes for Portfolio Strategies",
-    "slug": "2026-investment-outlook-themes-for-portfolio-strategies",
-    "date": "2026-09-08",
-    "displayDate": "September 8, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "In 2026, focus on diversifying with international equities, especially in Asia, and consider small caps and emerging markets. Prioritize dividend-growing stocks",
-    "excerpt": "In 2026, focus on diversifying with international equities, especially in Asia, and consider small caps and emerging markets. Prioritize dividend-growing stocks for reliable income. Use fixed income for stability.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "2026 Investment Outlook: Themes for Portfolio Strategies"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "2026-strategic-asset-allocation-saa",
     "type": "news",
     "title": "2026 Strategic Asset Allocation (SAA)",
@@ -1384,48 +1741,6 @@
       "alt": "2026 Strategic Asset Allocation (SAA)"
     },
     "readingTime": 3
-  },
-  {
-    "id": "cpi-home-u-s-bureau-of-labor-statistics",
-    "type": "news",
-    "title": "CPI Home : U.S. Bureau of Labor Statistics",
-    "slug": "cpi-home-u-s-bureau-of-labor-statistics",
-    "date": "2026-09-08",
-    "displayDate": "September 8, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Consumer Price Index (CPI) measures average price changes for consumer goods and services. In July 2026, CPI increased 0.1% monthly and 3.4% yearly. Energy ",
-    "excerpt": "The Consumer Price Index (CPI) measures average price changes for consumer goods and services. In July 2026, CPI increased 0.1% monthly and 3.4% yearly. Energy prices rose significantly, while medical care prices fell.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "CPI Home : U.S. Bureau of Labor Statistics"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "earnings-calendar-marketwatch",
-    "type": "news",
-    "title": "Earnings Calendar - MarketWatch",
-    "slug": "earnings-calendar-marketwatch",
-    "date": "2026-09-08",
-    "displayDate": "September 8, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Earnings reports for September 8, 2026, include Sunbelt Rentals Holdings and Korn Ferry. EPS forecasts are available, but actual results are not yet reported. T",
-    "excerpt": "Earnings reports for September 8, 2026, include Sunbelt Rentals Holdings and Korn Ferry. EPS forecasts are available, but actual results are not yet reported. The earnings calendar is a tool for tracking upcoming reports.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Earnings Calendar - MarketWatch"
-    },
-    "readingTime": 4
   },
   {
     "id": "earnings-calendar",
@@ -1466,48 +1781,6 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "Economic Calendar - Investing.com"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "economic-calendar",
-    "type": "news",
-    "title": "Economic Calendar",
-    "slug": "economic-calendar",
-    "date": "2026-09-08",
-    "displayDate": "September 8, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "An economic calendar lists upcoming financial events and indicators that can impact markets. It helps traders prepare for potential market movements. It include",
-    "excerpt": "An economic calendar lists upcoming financial events and indicators that can impact markets. It helps traders prepare for potential market movements. It includes data from various countries and economic indicators.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Economic Calendar"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "economic-news-releases-u-s-bureau-of-labor-statistics",
-    "type": "news",
-    "title": "Economic News Releases :  U.S. Bureau of Labor Statistics",
-    "slug": "economic-news-releases-u-s-bureau-of-labor-statistics",
-    "date": "2026-09-08",
-    "displayDate": "September 8, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The U.S. Bureau of Labor Statistics releases monthly economic news including employment, inflation, and productivity data. The latest news includes updates on e",
-    "excerpt": "The U.S. Bureau of Labor Statistics releases monthly economic news including employment, inflation, and productivity data. The latest news includes updates on employment projections and regional economic trends. The Consumer Price Index and Producer Price Index are also regularly updated.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Economic News Releases :  U.S. Bureau of Labor Statistics"
     },
     "readingTime": 4
   },
@@ -1701,48 +1974,6 @@
     "readingTime": 5
   },
   {
-    "id": "how-should-i-allocate-my-portfolio-in-2026",
-    "type": "news",
-    "title": "How Should I Allocate My Portfolio in 2026?",
-    "slug": "how-should-i-allocate-my-portfolio-in-2026",
-    "date": "2026-09-08",
-    "displayDate": "September 8, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Allocate your portfolio based on your risk tolerance, time horizon, and income stability; consider a mix of equities, bonds, and real assets for diversification",
-    "excerpt": "Allocate your portfolio based on your risk tolerance, time horizon, and income stability; consider a mix of equities, bonds, and real assets for diversification.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "How Should I Allocate My Portfolio in 2026?"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "investment-strategy-2026-portfolio-moves-for-a-changing-market",
-    "type": "news",
-    "title": "Investment Strategy 2026 Portfolio Moves for a Changing Market",
-    "slug": "investment-strategy-2026-portfolio-moves-for-a-changing-market",
-    "date": "2026-09-08",
-    "displayDate": "September 8, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "For 2026, focus on global diversification, consider small caps, and prioritize income generation in a low-rate environment. Alternative investments may also be ",
-    "excerpt": "For 2026, focus on global diversification, consider small caps, and prioritize income generation in a low-rate environment. Alternative investments may also be beneficial for qualified investors.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Investment Strategy 2026 Portfolio Moves for a Changing Market"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "latest-company-earnings-news-announcements-seeking-alpha",
     "type": "news",
     "title": "Latest Company Earnings News & Announcements | Seeking Alpha",
@@ -1783,27 +2014,6 @@
       "alt": "S&P 500 Analysis and Opinion - Investing.com"
     },
     "readingTime": 4
-  },
-  {
-    "id": "s-p-500-index-sp500-analysis-news-and-chart-today-seeking-alpha",
-    "type": "news",
-    "title": "S&P 500 Index (SP500) Analysis, News, And Chart Today | Seeking Alpha",
-    "slug": "s-p-500-index-sp500-analysis-news-and-chart-today-seeking-alpha",
-    "date": "2026-09-08",
-    "displayDate": "September 8, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The S&P 500 faces bearish pressures from geopolitical tensions and hawkish central banks. It may see a short-term bounce but faces technical caution. Historical",
-    "excerpt": "The S&P 500 faces bearish pressures from geopolitical tensions and hawkish central banks. It may see a short-term bounce but faces technical caution. Historical data shows past performance trends.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "S&P 500 Index (SP500) Analysis, News, And Chart Today | Seeking Alpha"
-    },
-    "readingTime": 3
   },
   {
     "id": "s-p-500-index-today-inx-live-ticker-markets-insider",
@@ -2520,27 +2730,6 @@
     "readingTime": 4
   },
   {
-    "id": "u-s-bureau-of-labor-statistics-u-s-bureau-of-labor-statistics",
-    "type": "news",
-    "title": "U.S. Bureau of Labor Statistics : U.S. Bureau of Labor Statistics",
-    "slug": "u-s-bureau-of-labor-statistics-u-s-bureau-of-labor-statistics",
-    "date": "2026-09-07",
-    "displayDate": "September 7, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Bureau of Labor Statistics is a federal agency that collects and reports labor market information. It measures employment, inflation, and productivity. Esta",
-    "excerpt": "The Bureau of Labor Statistics is a federal agency that collects and reports labor market information. It measures employment, inflation, and productivity. Established in 1884, it reports data to inform public and private decisions.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "U.S. Bureau of Labor Statistics : U.S. Bureau of Labor Statistics"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "u-s-stock-market-headlines-breaking-stock-market-news-reuters",
     "type": "news",
     "title": "U.S. Stock Market Headlines | Breaking Stock Market News | Reuters",
@@ -2558,27 +2747,6 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "U.S. Stock Market Headlines | Breaking Stock Market News | Reuters"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "united-states-federal-reserve-interest-rate-decision",
-    "type": "news",
-    "title": "United States Federal Reserve Interest Rate Decision",
-    "slug": "united-states-federal-reserve-interest-rate-decision",
-    "date": "2026-09-07",
-    "displayDate": "September 7, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Reserve left interest rates unchanged at 3.50%-3.75% in September 2026. The next decision is scheduled for April 29, 2026. The current federal funds",
-    "excerpt": "The Federal Reserve left interest rates unchanged at 3.50%-3.75% in September 2026. The next decision is scheduled for April 29, 2026. The current federal funds rate is 3.64%.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "United States Federal Reserve Interest Rate Decision"
     },
     "readingTime": 4
   },
@@ -10538,27 +10706,6 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "[PDF] Most Recent Data Releases Report as of December 15th, 2023"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "s-p-500-gspc-charts-data-news-yahoo-finance",
-    "type": "news",
-    "title": "S&P 500 (^GSPC) Charts, Data & News - Yahoo Finance",
-    "slug": "s-p-500-gspc-charts-data-news-yahoo-finance",
-    "date": "2026-07-01",
-    "displayDate": "July 1, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The S&P 500 (^GSPC) closed at 7,499.36 with a volume of 2,573,425,000 shares. Its 52-week range is 6,188.29 to 7,620.90. The index's average daily volume is 5,5",
-    "excerpt": "The S&P 500 (^GSPC) closed at 7,499.36 with a volume of 2,573,425,000 shares. Its 52-week range is 6,188.29 to 7,620.90. The index's average daily volume is 5,550,627,049.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "S&P 500 (^GSPC) Charts, Data & News - Yahoo Finance"
     },
     "readingTime": 3
   },
