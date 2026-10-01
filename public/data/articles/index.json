@@ -1,5 +1,635 @@
 [
   {
+    "id": "12-month-percentage-change-consumer-price-index-selected-categories",
+    "type": "news",
+    "title": "12-month percentage change, Consumer Price Index, selected categories",
+    "slug": "12-month-percentage-change-consumer-price-index-selected-categories",
+    "date": "2026-10-01",
+    "displayDate": "October 1, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The 12-month percentage change for the Consumer Price Index (CPI) for selected categories in August 2026 is as follows: All items at 3.4%, Food at 2.7%, Food at",
+    "excerpt": "The 12-month percentage change for the Consumer Price Index (CPI) for selected categories in August 2026 is as follows: All items at 3.4%, Food at 2.7%, Food at home at 2.2%, Cereals and bakery products at 2.6%, Meats, poultry, fish, and eggs at 1.1%, Dairy and related products at -0.3%, Fruits and ",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "12-month percentage change, Consumer Price Index, selected categories"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "asian-market-headlines-breaking-stock-market-news-reuters",
+    "type": "news",
+    "title": "Asian Market Headlines | Breaking Stock Market News | Reuters",
+    "slug": "asian-market-headlines-breaking-stock-market-news-reuters",
+    "date": "2026-10-01",
+    "displayDate": "October 1, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "According to Reuters, Asia-Pacific companies are expected to surpass their 2021 record for share and convertible bond fundraising driven by an AI boom. Indonesi",
+    "excerpt": "According to Reuters, Asia-Pacific companies are expected to surpass their 2021 record for share and convertible bond fundraising driven by an AI boom. Indonesia is projected to have a larger trade surplus of about $630 million in August, while its inflation rate for September is expected to rise sl",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Asian Market Headlines | Breaking Stock Market News | Reuters"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "asian-stock-market-capital-markets-news-bond-market-news-commodities-news-etfs-n",
+    "type": "news",
+    "title": "Asian Stock Market: Capital Markets News, Bond Market News, Commodities News, ETFs News",
+    "slug": "asian-stock-market-capital-markets-news-bond-market-news-commodities-news-etfs-n",
+    "date": "2026-10-01",
+    "displayDate": "October 1, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Oil prices jumped by over 4%, while shares on the Kospi fell 9% with SK Hynix shares sinking by over 15% on a mixed day for Asian markets. SK Hynix's record $26",
+    "excerpt": "Oil prices jumped by over 4%, while shares on the Kospi fell 9% with SK Hynix shares sinking by over 15% on a mixed day for Asian markets. SK Hynix's record $26bn IPO from its US listing invigorated AI trade and boosted Asia stocks. Indonesia was expected to record a larger trade surplus of about $6",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Asian Stock Market: Capital Markets News, Bond Market News, Commodities News, ETFs News"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "august-2026-us-stock-sector-focus-healthcare-leads-tech-rotation-algo-lab",
+    "type": "news",
+    "title": "August 2026 US Stock Sector Focus: Healthcare Leads, Tech Rotation | Algo Lab",
+    "slug": "august-2026-us-stock-sector-focus-healthcare-leads-tech-rotation-algo-lab",
+    "date": "2026-10-01",
+    "displayDate": "October 1, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "In August 2026, the US stock market is experiencing a sector rotation with Healthcare leading, according to Algo Lab. The Healthcare sector (XLV) led all sector",
+    "excerpt": "In August 2026, the US stock market is experiencing a sector rotation with Healthcare leading, according to Algo Lab. The Healthcare sector (XLV) led all sectors with a 12-month return of 16.0%, driven by attractive valuation, low volatility, strong earnings, and growth in the GLP-1 obesity drug mar",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "August 2026 US Stock Sector Focus: Healthcare Leads, Tech Rotation | Algo Lab"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "coindesk-bitcoin-ethereum-xrp-crypto-news-and-price-data",
+    "type": "news",
+    "title": "CoinDesk: Bitcoin, Ethereum, XRP, Crypto News and Price Data",
+    "slug": "coindesk-bitcoin-ethereum-xrp-crypto-news-and-price-data",
+    "date": "2026-10-01",
+    "displayDate": "October 1, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "On October 1, 2026, the prices for Bitcoin, Ethereum, and XRP are $83,843.71, $2,668.73, and $1.51 respectively, all showing declines in their values. Tether an",
+    "excerpt": "On October 1, 2026, the prices for Bitcoin, Ethereum, and XRP are $83,843.71, $2,668.73, and $1.51 respectively, all showing declines in their values. Tether and BNB also experienced minor decreases, while USDC remained stable. The sources also mention LBank launching a physical Visa crypto card wit",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "CoinDesk: Bitcoin, Ethereum, XRP, Crypto News and Price Data"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "crypto-news-bitcoin-ethereum-xrp-news-crypto-news",
+    "type": "news",
+    "title": "Crypto News: Bitcoin, Ethereum & XRP News | crypto.news",
+    "slug": "crypto-news-bitcoin-ethereum-xrp-news-crypto-news",
+    "date": "2026-10-01",
+    "displayDate": "October 1, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "According to crypto.news, Bitcoin (BTC) is priced at $77,134.00 with a 6.6% increase, Ethereum (ETH) is priced at $2,385.55 with a 3.7% increase, and XRP (XRP) ",
+    "excerpt": "According to crypto.news, Bitcoin (BTC) is priced at $77,134.00 with a 6.6% increase, Ethereum (ETH) is priced at $2,385.55 with a 3.7% increase, and XRP (XRP) is priced at $1.38 with a 17.2% increase. CoinDesk reports Bitcoin (BTC) at $83,843.71 with a 0.030% decrease, Ethereum (ETH) at $2,668.73 w",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Crypto News: Bitcoin, Ethereum & XRP News | crypto.news"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "earnings-calendar-and-analysis-for-this-week-sept-28-oct-2-kiplinger",
+    "type": "news",
+    "title": "Earnings Calendar and Analysis for This Week (Sept. 28-Oct. 2) | Kiplinger",
+    "slug": "earnings-calendar-and-analysis-for-this-week-sept-28-oct-2-kiplinger",
+    "date": "2026-10-01",
+    "displayDate": "October 1, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "According to Kiplinger's earnings calendar, notable earnings reports this week include CarMax (KMX) with an earnings estimate of $0.72 per share, AAR (AIR) at $",
+    "excerpt": "According to Kiplinger's earnings calendar, notable earnings reports this week include CarMax (KMX) with an earnings estimate of $0.72 per share, AAR (AIR) at $1.31 per share, Concentrix (CNXC) at $2.71, and FedEx Freight (FDXF) at $1.39. The economic calendar features the Fed's preferred inflation ",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Earnings Calendar and Analysis for This Week (Sept. 28-Oct. 2) | Kiplinger"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "earnings",
+    "type": "news",
+    "title": "Earnings",
+    "slug": "earnings",
+    "date": "2026-10-01",
+    "displayDate": "October 1, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Earnings refer to the profits a publicly traded company generates over a specific period, typically disclosed in quarterly earnings reports four times a year. T",
+    "excerpt": "Earnings refer to the profits a publicly traded company generates over a specific period, typically disclosed in quarterly earnings reports four times a year. These reports provide a snapshot of the company’s financial performance, including revenue, net income, and earnings per share (EPS). In the ",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Earnings"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "economic-indicators-dashboard-latest-gdp-cpi-unemployment-data-tipranks-com",
+    "type": "news",
+    "title": "Economic Indicators Dashboard: Latest GDP, CPI, Unemployment Data - TipRanks.com",
+    "slug": "economic-indicators-dashboard-latest-gdp-cpi-unemployment-data-tipranks-com",
+    "date": "2026-10-01",
+    "displayDate": "October 1, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The latest economic indicators from TipRanks.com show a 4.1% unemployment rate as of August 1, 2026, and a real GDP growth of 1.50%. The DWU Consulting data cor",
+    "excerpt": "The latest economic indicators from TipRanks.com show a 4.1% unemployment rate as of August 1, 2026, and a real GDP growth of 1.50%. The DWU Consulting data corroborates the unemployment rate at 4.1% and adds that the CPI (YoY) is 3.4%. The TradingEconomics data provides a slightly different unemplo",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Economic Indicators Dashboard: Latest GDP, CPI, Unemployment Data - TipRanks.com"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "economic-indicators-latest-cpi-data-on-inflation-detroit-regional-chamber",
+    "type": "news",
+    "title": "Economic Indicators: Latest CPI Data on Inflation - Detroit Regional Chamber",
+    "slug": "economic-indicators-latest-cpi-data-on-inflation-detroit-regional-chamber",
+    "date": "2026-10-01",
+    "displayDate": "October 1, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The latest report on inflation, as measured by the Consumer Price Index (CPI), showed a 3.4% increase in the 12 months ending in July 2026, down from 3.5% in Ju",
+    "excerpt": "The latest report on inflation, as measured by the Consumer Price Index (CPI), showed a 3.4% increase in the 12 months ending in July 2026, down from 3.5% in June 2026, marking the first decline in annual inflation rate since January 2026. Core inflation, which excludes food and energy prices, also ",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Economic Indicators: Latest CPI Data on Inflation - Detroit Regional Chamber"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "federal-open-market-committee-wikipedia",
+    "type": "news",
+    "title": "Federal Open Market Committee - Wikipedia",
+    "slug": "federal-open-market-committee-wikipedia",
+    "date": "2026-10-01",
+    "displayDate": "October 1, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Open Market Committee (FOMC) is a committee within the Federal Reserve System that oversees the nation's open market operations and makes key decisi",
+    "excerpt": "The Federal Open Market Committee (FOMC) is a committee within the Federal Reserve System that oversees the nation's open market operations and makes key decisions about interest rates and the growth of the U.S. money supply. The FOMC is the principal organ of U.S. national monetary policy and sets ",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Federal Open Market Committee - Wikipedia"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "federal-reserve-board-monetary-policy",
+    "type": "news",
+    "title": "Federal Reserve Board - Monetary Policy",
+    "slug": "federal-reserve-board-monetary-policy",
+    "date": "2026-10-01",
+    "displayDate": "October 1, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Reserve's monetary policy aims to promote maximum employment, stable prices, and moderate long-term interest rates, as instructed by Congress. The F",
+    "excerpt": "The Federal Reserve's monetary policy aims to promote maximum employment, stable prices, and moderate long-term interest rates, as instructed by Congress. The Federal Open Market Committee (FOMC) plays a central role in this process, with the Federal Reserve Board and regional Federal Reserve Banks ",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Federal Reserve Board - Monetary Policy"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "geekwire-breaking-news-in-technology-business",
+    "type": "news",
+    "title": "GeekWire – Breaking News in Technology & Business",
+    "slug": "geekwire-breaking-news-in-technology-business",
+    "date": "2026-10-01",
+    "displayDate": "October 1, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "GeekWire reports on several significant tech developments, including a solo founder using AI to build a music licensing platform for small businesses, the acqui",
+    "excerpt": "GeekWire reports on several significant tech developments, including a solo founder using AI to build a music licensing platform for small businesses, the acquisition of Truelist by Mainstay for $18M, and the merger of Seattle startups DexCare and Mila Health to expand AI patient scheduling. Other h",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "GeekWire – Breaking News in Technology & Business"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "global-market-headlines-breaking-stock-market-news-reuters",
+    "type": "news",
+    "title": "Global Market Headlines | Breaking Stock Market News | Reuters",
+    "slug": "global-market-headlines-breaking-stock-market-news-reuters",
+    "date": "2026-10-01",
+    "displayDate": "October 1, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Tech stocks advanced in Europe and Nasdaq futures edged higher on Tuesday as optimism over AI lab Anthropic's plans for a public debut outshone concerns over el",
+    "excerpt": "Tech stocks advanced in Europe and Nasdaq futures edged higher on Tuesday as optimism over AI lab Anthropic's plans for a public debut outshone concerns over elevated oil prices and global bond yields. Oil prices declined on Tuesday as investors focused on signs of recovering crude exports from the ",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Global Market Headlines | Breaking Stock Market News | Reuters"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "healthcare-stock-performance-yahoo-finance",
+    "type": "news",
+    "title": "Healthcare Stock Performance - Yahoo Finance",
+    "slug": "healthcare-stock-performance-yahoo-finance",
+    "date": "2026-10-01",
+    "displayDate": "October 1, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "On October 1, 2026, the healthcare sector's performance on Yahoo Finance shows mixed results. Eli Lilly and Company (LLY) is priced at $1,174.43 with a 1Y targe",
+    "excerpt": "On October 1, 2026, the healthcare sector's performance on Yahoo Finance shows mixed results. Eli Lilly and Company (LLY) is priced at $1,174.43 with a 1Y target estimate of $1,328.83, a market weight of 13.36%, and a YTD return of +9.28%. Johnson & Johnson (JNJ) is priced at $267.10 with a 1Y targe",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Healthcare Stock Performance - Yahoo Finance"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "inflation-consumer-prices-for-the-united-states-fpcpitotlzgusa-fred-st-louis-fed",
+    "type": "news",
+    "title": "Inflation, consumer prices for the United States (FPCPITOTLZGUSA) | FRED | St. Louis Fed",
+    "slug": "inflation-consumer-prices-for-the-united-states-fpcpitotlzgusa-fred-st-louis-fed",
+    "date": "2026-10-01",
+    "displayDate": "October 1, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The latest available data for inflation, consumer prices for the United States (FPCPITOTLZGUSA) as of the last update on April 16, 2025, shows a rate of 2.94953",
+    "excerpt": "The latest available data for inflation, consumer prices for the United States (FPCPITOTLZGUSA) as of the last update on April 16, 2025, shows a rate of 2.94953 percent for 2024. The data is sourced from the World Bank and updated annually. For 2025, the data is not yet available. The next release d",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Inflation, consumer prices for the United States (FPCPITOTLZGUSA) | FRED | St. Louis Fed"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "monthly-stock-sector-outlook-charles-schwab",
+    "type": "news",
+    "title": "Monthly Stock Sector Outlook | Charles Schwab",
+    "slug": "monthly-stock-sector-outlook-charles-schwab",
+    "date": "2026-10-01",
+    "displayDate": "October 1, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The sources indicate that Charles Schwab provides monthly outlooks on the 11 S&P 500 equity sectors. The most recent outlook available is dated September 4, 202",
+    "excerpt": "The sources indicate that Charles Schwab provides monthly outlooks on the 11 S&P 500 equity sectors. The most recent outlook available is dated September 4, 2026, which discusses the challenges faced by the Real Estate sector due to supply imbalances and notes the Materials sector's positive outlook",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Monthly Stock Sector Outlook | Charles Schwab"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "stock-earnings-calendar-earnings-reports-today-this-week-stocktwits",
+    "type": "news",
+    "title": "Stock Earnings Calendar | Earnings Reports Today & This Week - Stocktwits",
+    "slug": "stock-earnings-calendar-earnings-reports-today-this-week-stocktwits",
+    "date": "2026-10-01",
+    "displayDate": "October 1, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The sources do not provide information about earnings reports for today, October 1, 2026. The Stocktwits calendar focuses on cryptocurrency prices and does not ",
+    "excerpt": "The sources do not provide information about earnings reports for today, October 1, 2026. The Stocktwits calendar focuses on cryptocurrency prices and does not list any earnings reports for today. The financial calendar from financhle.com details earnings for the week of August 24, 2026, which is 38",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Stock Earnings Calendar | Earnings Reports Today & This Week - Stocktwits"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "tech-news-today-s-latest-technology-news-reuters",
+    "type": "news",
+    "title": "Tech News | Today's Latest Technology News | Reuters",
+    "slug": "tech-news-today-s-latest-technology-news-reuters",
+    "date": "2026-10-01",
+    "displayDate": "October 1, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The sources provide an overview of Reuters' technology section, mentioning Apple's Ternus era hinting at a renewed hardware focus and AI growth push, and SpaceX",
+    "excerpt": "The sources provide an overview of Reuters' technology section, mentioning Apple's Ternus era hinting at a renewed hardware focus and AI growth push, and SpaceX's launch complex at Kennedy Space Center. They also include information about Reuters' services like financial data access, market insights",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Tech News | Today's Latest Technology News | Reuters"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "technology-news",
+    "type": "news",
+    "title": "Technology News",
+    "slug": "technology-news",
+    "date": "2026-10-01",
+    "displayDate": "October 1, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Meta announced new features for Instagram's school partnership program in the US, expanding tools for schools and students to protect teens online. Tesla entere",
+    "excerpt": "Meta announced new features for Instagram's school partnership program in the US, expanding tools for schools and students to protect teens online. Tesla entered into credit agreements totaling $30 billion, including a $20 billion delayed draw-term loan facility. US President Donald Trump said tech ",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Technology News"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "the-best-7-000-tfsa-investments-for-current-market-conditions",
+    "type": "news",
+    "title": "The Best $7,000 TFSA Investments for Current Market Conditions",
+    "slug": "the-best-7-000-tfsa-investments-for-current-market-conditions",
+    "date": "2026-10-01",
+    "displayDate": "October 1, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "For investing a $7,000 TFSA contribution, the sources suggest diversifying with well-managed companies like Constellation Software and goeasy for long-term grow",
+    "excerpt": "For investing a $7,000 TFSA contribution, the sources suggest diversifying with well-managed companies like Constellation Software and goeasy for long-term growth potential. For those comfortable with market volatility, these quality Canadian stocks can offer attractive returns. Alternatively, the v",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "The Best $7,000 TFSA Investments for Current Market Conditions"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "the-best-investment-strategies-for-the-continuous-market-investing-com",
+    "type": "news",
+    "title": "The Best Investment Strategies For The Continuous Market - Investing.com",
+    "slug": "the-best-investment-strategies-for-the-continuous-market-investing-com",
+    "date": "2026-10-01",
+    "displayDate": "October 1, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The sources suggest that investing in companies that are growing and expanding, particularly in innovative sectors like startups and technology, is a good strat",
+    "excerpt": "The sources suggest that investing in companies that are growing and expanding, particularly in innovative sectors like startups and technology, is a good strategy for a continuous market. They emphasize the importance of investing in companies that reinvest profits for growth rather than distributi",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "The Best Investment Strategies For The Continuous Market - Investing.com"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "the-block-bitcoin-ethereum-crypto-news-live-prices-data-indices",
+    "type": "news",
+    "title": "The Block: Bitcoin, Ethereum & Crypto News | Live Prices, Data & Indices",
+    "slug": "the-block-bitcoin-ethereum-crypto-news-live-prices-data-indices",
+    "date": "2026-10-01",
+    "displayDate": "October 1, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The sources provided do not contain information about \"The Block: Bitcoin, Ethereum & Crypto News | Live Prices, Data & Indices.\" They focus on the usage of the",
+    "excerpt": "The sources provided do not contain information about \"The Block: Bitcoin, Ethereum & Crypto News | Live Prices, Data & Indices.\" They focus on the usage of the definite article \"the\" in English grammar and do not mention anything related to cryptocurrency news or live prices. Therefore, no definiti",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "The Block: Bitcoin, Ethereum & Crypto News | Live Prices, Data & Indices"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "top-10-investment-strategies-for-2025-a-comprehensive-guide",
+    "type": "news",
+    "title": "Top 10 Investment Strategies for 2025: A Comprehensive Guide",
+    "slug": "top-10-investment-strategies-for-2025-a-comprehensive-guide",
+    "date": "2026-10-01",
+    "displayDate": "October 1, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The sources suggest several top investment strategies for 2025: Invest in stable, growth-oriented companies with strong fundamentals and consistent earnings gro",
+    "excerpt": "The sources suggest several top investment strategies for 2025: Invest in stable, growth-oriented companies with strong fundamentals and consistent earnings growth, particularly in technology, healthcare, and consumer goods. Consider rental properties in high-demand locations for steady income. Dive",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Top 10 Investment Strategies for 2025: A Comprehensive Guide"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "u-s-stock-markets-today",
+    "type": "news",
+    "title": "U.S. Stock Markets Today",
+    "slug": "u-s-stock-markets-today",
+    "date": "2026-10-01",
+    "displayDate": "October 1, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The U.S. stock markets on September 30, 2026, showed mixed performance with the Nasdaq and S&P 500 managing gains while the Dow Jones retreated. Technology stoc",
+    "excerpt": "The U.S. stock markets on September 30, 2026, showed mixed performance with the Nasdaq and S&P 500 managing gains while the Dow Jones retreated. Technology stocks led the upward momentum. On the same day, notable stocks like Carnival Corporation, Bloom Energy Corp., and Royal Caribbean Group saw sig",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "U.S. Stock Markets Today"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "united-states-inflation-rate",
+    "type": "news",
+    "title": "United States Inflation Rate",
+    "slug": "united-states-inflation-rate",
+    "date": "2026-10-01",
+    "displayDate": "October 1, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The annual inflation rate in the United States was 3.4% for the 12 months ending August 2026, the same as in July, according to U.S. Labor Department data. The ",
+    "excerpt": "The annual inflation rate in the United States was 3.4% for the 12 months ending August 2026, the same as in July, according to U.S. Labor Department data. The inflation rate remained unchanged at 3.40 percent in August, according to Trading Economics. The next update is scheduled for October 14 at ",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "United States Inflation Rate"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "us-markets-company-earnings-stock-market-trends-market-news-morningstar",
+    "type": "news",
+    "title": "US Markets, Company Earnings, Stock Market Trends, Market News | Morningstar",
+    "slug": "us-markets-company-earnings-stock-market-trends-market-news-morningstar",
+    "date": "2026-10-01",
+    "displayDate": "October 1, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The US markets experienced a 1.09% gain with technology stocks rising and energy stocks falling, according to the weekly market update. The valuation barometers",
+    "excerpt": "The US markets experienced a 1.09% gain with technology stocks rising and energy stocks falling, according to the weekly market update. The valuation barometers show declines in large and small market sectors, with mid-cap sectors seeing a slight increase. Earnings reports include Zscaler falling 5%",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "US Markets, Company Earnings, Stock Market Trends, Market News | Morningstar"
+    },
+    "readingTime": 5
+  },
+  {
+    "id": "when-is-the-next-fomc-meeting-equals-money",
+    "type": "news",
+    "title": "When is the next FOMC meeting? | Equals Money",
+    "slug": "when-is-the-next-fomc-meeting-equals-money",
+    "date": "2026-10-01",
+    "displayDate": "October 1, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The next FOMC meeting is scheduled for April 28–29, 2026. The Fed’s decision is expected at 6:00 PM GMT, with the press conference scheduled for 6:30 PM GMT. Th",
+    "excerpt": "The next FOMC meeting is scheduled for April 28–29, 2026. The Fed’s decision is expected at 6:00 PM GMT, with the press conference scheduled for 6:30 PM GMT. The minutes for this meeting will be released on May 20, 2026. The Federal Reserve kept rates unchanged at 3.50% to 3.75% on its latest meetin",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "When is the next FOMC meeting? | Equals Money"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "why-the-yield-curve-is-steepening-in-2026-economic-indicators-with-fexingo-gdp-c",
+    "type": "news",
+    "title": "Why the Yield Curve Is Steepening in 2026 Economic Indicators with Fexingo: GDP, CPI, PMI, and Reading the Macro Data | iHeart",
+    "slug": "why-the-yield-curve-is-steepening-in-2026-economic-indicators-with-fexingo-gdp-c",
+    "date": "2026-10-01",
+    "displayDate": "October 1, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The sources indicate that the yield curve steepening in 2026 is characterized by a bear steepening, where the long end of the curve rises faster than the short ",
+    "excerpt": "The sources indicate that the yield curve steepening in 2026 is characterized by a bear steepening, where the long end of the curve rises faster than the short end, driven by a rise in the term premium and concerns about the long-term trajectory of the US fiscal deficit and the volume of Treasury is",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Why the Yield Curve Is Steepening in 2026 Economic Indicators with Fexingo: GDP, CPI, PMI, and Reading the Macro Data | iHeart"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "yahoo-finance-stock-market-live-quotes-business-finance-news",
+    "type": "news",
+    "title": "Yahoo Finance - Stock Market Live, Quotes, Business & Finance News",
+    "slug": "yahoo-finance-stock-market-live-quotes-business-finance-news",
+    "date": "2026-10-01",
+    "displayDate": "October 1, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The sources indicate that on September 11, 2026, the US collected more tariff revenue than it paid out in refunds for the first time in months. New inflation da",
+    "excerpt": "The sources indicate that on September 11, 2026, the US collected more tariff revenue than it paid out in refunds for the first time in months. New inflation data has convinced traders that the Federal Reserve (Fed) will raise rates the following week. US stocks rose, ending a jittery week on a high",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Yahoo Finance - Stock Market Live, Quotes, Business & Finance News"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "bitcoin-btc-price-usd-today-news-charts-market-cap",
     "type": "news",
     "title": "Bitcoin (BTC) Price USD Today, News, Charts, Market Cap",
@@ -145,48 +775,6 @@
       "alt": "Earnings - CNBC"
     },
     "readingTime": 3
-  },
-  {
-    "id": "federal-reserve-board-monetary-policy",
-    "type": "news",
-    "title": "Federal Reserve Board - Monetary Policy",
-    "slug": "federal-reserve-board-monetary-policy",
-    "date": "2026-09-09",
-    "displayDate": "September 9, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Reserve's monetary policy aims to promote maximum employment and stable prices. It is primarily conducted through the Federal Open Market Committee ",
-    "excerpt": "The Federal Reserve's monetary policy aims to promote maximum employment and stable prices. It is primarily conducted through the Federal Open Market Committee and involves setting the federal funds rate. The Fed uses tools like interest on reserve balances to influence short-term interest rates.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Federal Reserve Board - Monetary Policy"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "geekwire-breaking-news-in-technology-business",
-    "type": "news",
-    "title": "GeekWire – Breaking News in Technology & Business",
-    "slug": "geekwire-breaking-news-in-technology-business",
-    "date": "2026-09-09",
-    "displayDate": "September 9, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "GeekWire covers technology and business news, focusing on startups and tech industry developments, with a strong presence in the Seattle region. It also provide",
-    "excerpt": "GeekWire covers technology and business news, focusing on startups and tech industry developments, with a strong presence in the Seattle region. It also provides resources for the tech community and produces podcasts and video shows. Founded in 2011, it has a global audience.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "GeekWire – Breaking News in Technology & Business"
-    },
-    "readingTime": 4
   },
   {
     "id": "global-indices-tracking-the-world-s-markets",
@@ -798,27 +1386,6 @@
     "readingTime": 3
   },
   {
-    "id": "asian-stock-market-capital-markets-news-bond-market-news-commodities-news-etfs-n",
-    "type": "news",
-    "title": "Asian Stock Market: Capital Markets News, Bond Market News, Commodities News, ETFs News",
-    "slug": "asian-stock-market-capital-markets-news-bond-market-news-commodities-news-etfs-n",
-    "date": "2026-09-08",
-    "displayDate": "September 8, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "China's central bank issued bonds worth 12 trillion yuan, and the country's foreign exchange reserves fell to $3.06 trillion. Apple instructed Taiwan suppliers ",
-    "excerpt": "China's central bank issued bonds worth 12 trillion yuan, and the country's foreign exchange reserves fell to $3.06 trillion. Apple instructed Taiwan suppliers to label products moving to China as part of China. China became the world's second-largest Bitcoin mining hub.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Asian Stock Market: Capital Markets News, Bond Market News, Commodities News, ETFs News"
-    },
-    "readingTime": 5
-  },
-  {
     "id": "cpi-home-u-s-bureau-of-labor-statistics",
     "type": "news",
     "title": "CPI Home : U.S. Bureau of Labor Statistics",
@@ -838,27 +1405,6 @@
       "alt": "CPI Home : U.S. Bureau of Labor Statistics"
     },
     "readingTime": 3
-  },
-  {
-    "id": "crypto-news-bitcoin-ethereum-xrp-news-crypto-news",
-    "type": "news",
-    "title": "Crypto News: Bitcoin, Ethereum & XRP News | crypto.news",
-    "slug": "crypto-news-bitcoin-ethereum-xrp-news-crypto-news",
-    "date": "2026-09-08",
-    "displayDate": "September 8, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Bitcoin, Ethereum, and XRP are major cryptocurrencies with recent developments in ETFs, institutional investments, and DeFi innovations. BlackRock's Bitcoin ETF",
-    "excerpt": "Bitcoin, Ethereum, and XRP are major cryptocurrencies with recent developments in ETFs, institutional investments, and DeFi innovations. BlackRock's Bitcoin ETF faces selloff, while Ethereum and XRP see regulatory and market changes. Stay updated for real-time price and news tracking.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Crypto News: Bitcoin, Ethereum & XRP News | crypto.news"
-    },
-    "readingTime": 4
   },
   {
     "id": "earnings-calendar-marketwatch",
@@ -1365,48 +1911,6 @@
     "readingTime": 4
   },
   {
-    "id": "tech-news-today-s-latest-technology-news-reuters",
-    "type": "news",
-    "title": "Tech News | Today's Latest Technology News | Reuters",
-    "slug": "tech-news-today-s-latest-technology-news-reuters",
-    "date": "2026-09-08",
-    "displayDate": "September 8, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "UN warns AI could pose existential risk; Cathay Pacific and Google test AI to reduce aircraft contrails; Bitcoin-based Liquid Network reports $320 million hack.",
-    "excerpt": "UN warns AI could pose existential risk; Cathay Pacific and Google test AI to reduce aircraft contrails; Bitcoin-based Liquid Network reports $320 million hack.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Tech News | Today's Latest Technology News | Reuters"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "technology-news",
-    "type": "news",
-    "title": "Technology News",
-    "slug": "technology-news",
-    "date": "2026-09-08",
-    "displayDate": "September 8, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Artificial intelligence poses existential risks, warns UN rights chief. Google and Microsoft are making significant AI investments. Tesla teases new Cybercab up",
-    "excerpt": "Artificial intelligence poses existential risks, warns UN rights chief. Google and Microsoft are making significant AI investments. Tesla teases new Cybercab update.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Technology News"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "ten-things-to-consider-before-you-make-investing-decisions",
     "type": "news",
     "title": "Ten Things to Consider Before You Make Investing Decisions",
@@ -1785,27 +2289,6 @@
     "readingTime": 5
   },
   {
-    "id": "economic-indicators-dashboard-latest-gdp-cpi-unemployment-data-tipranks-com",
-    "type": "news",
-    "title": "Economic Indicators Dashboard: Latest GDP, CPI, Unemployment Data - TipRanks.com",
-    "slug": "economic-indicators-dashboard-latest-gdp-cpi-unemployment-data-tipranks-com",
-    "date": "2026-09-07",
-    "displayDate": "September 7, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Latest GDP, CPI, and unemployment data show a 4.4% unemployment rate, 2.4% CPI, and real GDP growth. Federal Funds Rate is at 3.64%. Inflation and labor market ",
-    "excerpt": "Latest GDP, CPI, and unemployment data show a 4.4% unemployment rate, 2.4% CPI, and real GDP growth. Federal Funds Rate is at 3.64%. Inflation and labor market indicators are stable.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Economic Indicators Dashboard: Latest GDP, CPI, Unemployment Data - TipRanks.com"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "economic-indicators-interactive-analysis-2026-gdp-cpi-fed-rates",
     "type": "news",
     "title": "Economic Indicators: Interactive & Analysis (2026 GDP, CPI, Fed Rates)",
@@ -1823,27 +2306,6 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "Economic Indicators: Interactive & Analysis (2026 GDP, CPI, Fed Rates)"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "economic-indicators-latest-cpi-data-on-inflation-detroit-regional-chamber",
-    "type": "news",
-    "title": "Economic Indicators: Latest CPI Data on Inflation - Detroit Regional Chamber",
-    "slug": "economic-indicators-latest-cpi-data-on-inflation-detroit-regional-chamber",
-    "date": "2026-09-07",
-    "displayDate": "September 7, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Inflation in Detroit slowed to 3.4% in July 2026, down from 3.5% in June 2026. Core inflation also decreased to 2.5%. Housing price increases have slowed signif",
-    "excerpt": "Inflation in Detroit slowed to 3.4% in July 2026, down from 3.5% in June 2026. Core inflation also decreased to 2.5%. Housing price increases have slowed significantly.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Economic Indicators: Latest CPI Data on Inflation - Detroit Regional Chamber"
     },
     "readingTime": 4
   },
@@ -1886,27 +2348,6 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "Federal Reserve Holds Rates at 3.50%-3.75% in July 2026"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "healthcare-stock-performance-yahoo-finance",
-    "type": "news",
-    "title": "Healthcare Stock Performance - Yahoo Finance",
-    "slug": "healthcare-stock-performance-yahoo-finance",
-    "date": "2026-09-07",
-    "displayDate": "September 7, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Healthcare stocks show strong YTD returns, with UNH leading at 21.93% and HCA at 12.95%. The healthcare sector outperformed the S&P 500 in 2026.",
-    "excerpt": "Healthcare stocks show strong YTD returns, with UNH leading at 21.93% and HCA at 12.95%. The healthcare sector outperformed the S&P 500 in 2026.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Healthcare Stock Performance - Yahoo Finance"
     },
     "readingTime": 4
   },
@@ -2205,27 +2646,6 @@
     "readingTime": 4
   },
   {
-    "id": "asian-market-headlines-breaking-stock-market-news-reuters",
-    "type": "news",
-    "title": "Asian Market Headlines | Breaking Stock Market News - Reuters",
-    "slug": "asian-market-headlines-breaking-stock-market-news-reuters",
-    "date": "2026-09-06",
-    "displayDate": "September 6, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Asian stock markets showed mixed performance; Nikkei 225 and Hang Seng rose, while ASX All Ordinaries and Shanghai SE declined. U.S. job growth remained strong,",
-    "excerpt": "Asian stock markets showed mixed performance; Nikkei 225 and Hang Seng rose, while ASX All Ordinaries and Shanghai SE declined. U.S. job growth remained strong, supporting potential interest rate hikes. Foxconn expects strong third-quarter results due to AI demand.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Asian Market Headlines | Breaking Stock Market News - Reuters"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "best-buy-shop-tech-deals-apps-on-google-play",
     "type": "news",
     "title": "Best Buy: Shop tech deals - Apps on Google Play",
@@ -2348,27 +2768,6 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "Bureau of Labor Statistics"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "coindesk-bitcoin-ethereum-xrp-crypto-news-and-price-data",
-    "type": "news",
-    "title": "CoinDesk: Bitcoin, Ethereum, XRP, Crypto News and Price Data",
-    "slug": "coindesk-bitcoin-ethereum-xrp-crypto-news-and-price-data",
-    "date": "2026-09-06",
-    "displayDate": "September 6, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "CoinDesk reports on Bitcoin, Ethereum, and XRP prices, along with crypto news. As of 2026-09-06, Bitcoin is at $76,924, Ethereum at $2,412, and XRP at $1.45.",
-    "excerpt": "CoinDesk reports on Bitcoin, Ethereum, and XRP prices, along with crypto news. As of 2026-09-06, Bitcoin is at $76,924, Ethereum at $2,412, and XRP at $1.45.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "CoinDesk: Bitcoin, Ethereum, XRP, Crypto News and Price Data"
     },
     "readingTime": 3
   },
@@ -2625,27 +3024,6 @@
     "readingTime": 3
   },
   {
-    "id": "united-states-inflation-rate",
-    "type": "news",
-    "title": "United States Inflation Rate",
-    "slug": "united-states-inflation-rate",
-    "date": "2026-09-06",
-    "displayDate": "September 6, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The U.S. inflation rate was 3.4% in July 2026, down from 3.5% in June. It has decreased from a peak of 7.0% in 2021 due to pandemic effects. The long-term trend",
-    "excerpt": "The U.S. inflation rate was 3.4% in July 2026, down from 3.5% in June. It has decreased from a peak of 7.0% in 2021 due to pandemic effects. The long-term trend shows a gradual decline.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "United States Inflation Rate"
-    },
-    "readingTime": 5
-  },
-  {
     "id": "us-economic-indicators-cgaa",
     "type": "news",
     "title": "US Economic Indicators | CGAA",
@@ -2873,27 +3251,6 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "Earnings Calendar - Zacks Investment Research"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "earnings",
-    "type": "news",
-    "title": "Earnings",
-    "slug": "earnings",
-    "date": "2026-09-05",
-    "displayDate": "September 5, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Earnings refer to a company's profits after expenses, taxes, and costs. They are disclosed in quarterly earnings reports. Investors use earnings to assess a com",
-    "excerpt": "Earnings refer to a company's profits after expenses, taxes, and costs. They are disclosed in quarterly earnings reports. Investors use earnings to assess a company's financial health and performance.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Earnings"
     },
     "readingTime": 3
   },
@@ -3337,27 +3694,6 @@
       "alt": "Technology"
     },
     "readingTime": 3
-  },
-  {
-    "id": "the-best-investment-strategies-for-the-continuous-market-investing-com",
-    "type": "news",
-    "title": "The Best Investment Strategies For The Continuous Market - Investing.com",
-    "slug": "the-best-investment-strategies-for-the-continuous-market-investing-com",
-    "date": "2026-09-04",
-    "displayDate": "September 4, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Value investing, growth investing, and index investing are top strategies for continuous markets. Each has unique benefits, aligning with different risk toleran",
-    "excerpt": "Value investing, growth investing, and index investing are top strategies for continuous markets. Each has unique benefits, aligning with different risk tolerances and financial goals. Consistency and discipline are key to success.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "The Best Investment Strategies For The Continuous Market - Investing.com"
-    },
-    "readingTime": 4
   },
   {
     "id": "us-earnings-season-q2-2026",
@@ -4998,27 +5334,6 @@
     "readingTime": 3
   },
   {
-    "id": "federal-open-market-committee-wikipedia",
-    "type": "news",
-    "title": "Federal Open Market Committee - Wikipedia",
-    "slug": "federal-open-market-committee-wikipedia",
-    "date": "2026-08-08",
-    "displayDate": "August 8, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Open Market Committee (FOMC) is the U.S. body that sets national monetary policy, making key decisions about interest rates and money supply. It con",
-    "excerpt": "The Federal Open Market Committee (FOMC) is the U.S. body that sets national monetary policy, making key decisions about interest rates and money supply. It consists of 12 members, including the Board of Governors and rotating Reserve Bank presidents. The FOMC meets regularly to review economic cond",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Federal Open Market Committee - Wikipedia"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "interactive-world-macromap-ft-com",
     "type": "news",
     "title": "Interactive World Macromap - FT.com",
@@ -5586,27 +5901,6 @@
     "readingTime": 4
   },
   {
-    "id": "top-10-investment-strategies-for-2025-a-comprehensive-guide",
-    "type": "news",
-    "title": "Top 10 Investment Strategies for 2025: A Comprehensive Guide",
-    "slug": "top-10-investment-strategies-for-2025-a-comprehensive-guide",
-    "date": "2026-08-07",
-    "displayDate": "August 7, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Top investment strategies for 2025 include diversification across sectors, investing in ETFs, and exploring alternative assets like renewable energy and dividen",
-    "excerpt": "Top investment strategies for 2025 include diversification across sectors, investing in ETFs, and exploring alternative assets like renewable energy and dividend stocks. Focus on low-cost index funds and dollar-cost averaging for steady growth.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Top 10 Investment Strategies for 2025: A Comprehensive Guide"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "warsh-says-fed-won-t-hesitate-to-stop-inflation-but-bond-market-has-doubts",
     "type": "news",
     "title": "Warsh says Fed won't hesitate to stop inflation, but bond market has doubts",
@@ -5624,27 +5918,6 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "Warsh says Fed won't hesitate to stop inflation, but bond market has doubts"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "12-month-percentage-change-consumer-price-index-selected-categories",
-    "type": "news",
-    "title": "12-month percentage change, Consumer Price Index, selected categories",
-    "slug": "12-month-percentage-change-consumer-price-index-selected-categories",
-    "date": "2026-08-06",
-    "displayDate": "August 6, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The 12-month percentage change in the Consumer Price Index for June 2026 is 3.5% overall, with food at 3.0% and energy at 2.7%. The most significant changes are",
-    "excerpt": "The 12-month percentage change in the Consumer Price Index for June 2026 is 3.5% overall, with food at 3.0% and energy at 2.7%. The most significant changes are in cereals and bakery products at 2.4%.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "12-month percentage change, Consumer Price Index, selected categories"
     },
     "readingTime": 3
   },
@@ -5729,27 +6002,6 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "HUGE BITCOIN, ETHEREUM, & XRP NEWS! CRYPTO RALLY STALLS!"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "inflation-consumer-prices-for-the-united-states-fpcpitotlzgusa-fred-st-louis-fed",
-    "type": "news",
-    "title": "Inflation, consumer prices for the United States (FPCPITOTLZGUSA) | FRED | St. Louis Fed",
-    "slug": "inflation-consumer-prices-for-the-united-states-fpcpitotlzgusa-fred-st-louis-fed",
-    "date": "2026-08-06",
-    "displayDate": "August 6, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Inflation, consumer prices for the United States (FPCPITOTLZGUSA) on FRED was 2.94953% in 2024, not seasonally adjusted annually. The latest update was on April",
-    "excerpt": "Inflation, consumer prices for the United States (FPCPITOTLZGUSA) on FRED was 2.94953% in 2024, not seasonally adjusted annually. The latest update was on April 16, 2025. No next release date is available.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Inflation, consumer prices for the United States (FPCPITOTLZGUSA) | FRED | St. Louis Fed"
     },
     "readingTime": 3
   },
@@ -6193,27 +6445,6 @@
       "alt": "Technology Industry News: Latest Tech News for Leaders — The Information"
     },
     "readingTime": 4
-  },
-  {
-    "id": "u-s-stock-markets-today",
-    "type": "news",
-    "title": "U.S. Stock Markets Today",
-    "slug": "u-s-stock-markets-today",
-    "date": "2026-08-05",
-    "displayDate": "August 5, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The S&P 500 is up nearly 2% and above 7,700. Tech stocks are leading gains. Oil prices are around $80 per barrel.",
-    "excerpt": "The S&P 500 is up nearly 2% and above 7,700. Tech stocks are leading gains. Oil prices are around $80 per barrel.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "U.S. Stock Markets Today"
-    },
-    "readingTime": 5
   },
   {
     "id": "what-to-look-out-for-in-economic-data-this-week-august-3-7",
@@ -7980,27 +8211,6 @@
     "readingTime": 4
   },
   {
-    "id": "global-market-headlines-breaking-stock-market-news-reuters",
-    "type": "news",
-    "title": "Global Market Headlines | Breaking Stock Market News | Reuters",
-    "slug": "global-market-headlines-breaking-stock-market-news-reuters",
-    "date": "2026-07-07",
-    "displayDate": "July 7, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Stocks dipped despite positive Samsung forecast; US service sector growth slowed in June; employment rebounded.",
-    "excerpt": "Stocks dipped despite positive Samsung forecast; US service sector growth slowed in June; employment rebounded.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Global Market Headlines | Breaking Stock Market News | Reuters"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "health-care-sector-industry-performance-bloomberg-com",
     "type": "news",
     "title": "Health Care Sector & Industry Performance - Bloomberg.com",
@@ -8921,27 +9131,6 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "US Stock Market Earnings Calendar"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "when-is-the-next-fomc-meeting-equals-money",
-    "type": "news",
-    "title": "When is the next FOMC meeting? | Equals Money",
-    "slug": "when-is-the-next-fomc-meeting-equals-money",
-    "date": "2026-07-06",
-    "displayDate": "July 6, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The next FOMC meeting is scheduled for April 28–29, 2026. The Federal Reserve interest rate decision will follow on April 29, 2026. The FOMC meets eight times a",
-    "excerpt": "The next FOMC meeting is scheduled for April 28–29, 2026. The Federal Reserve interest rate decision will follow on April 29, 2026. The FOMC meets eight times a year to set monetary policy.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "When is the next FOMC meeting? | Equals Money"
     },
     "readingTime": 3
   },
