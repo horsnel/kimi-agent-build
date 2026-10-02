@@ -63,6 +63,69 @@
     "readingTime": 4
   },
   {
+    "id": "cpi-home-u-s-bureau-of-labor-statistics",
+    "type": "news",
+    "title": "CPI Home : U.S. Bureau of Labor Statistics",
+    "slug": "cpi-home-u-s-bureau-of-labor-statistics",
+    "date": "2026-10-02",
+    "displayDate": "October 2, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Consumer Price Index for All Urban Consumers (CPI-U) increased 0.4 percent on a seasonally adjusted basis in August 2026 after rising 0.1 percent in July, a",
+    "excerpt": "The Consumer Price Index for All Urban Consumers (CPI-U) increased 0.4 percent on a seasonally adjusted basis in August 2026 after rising 0.1 percent in July, according to the U.S. Bureau of Labor Statistics. Energy commodities saw a 28.0% increase, fuel oil a 52.0% increase, and gasoline (all types",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "CPI Home : U.S. Bureau of Labor Statistics"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "crypto-market-today-200m-derisk-ahead-of-fomc-what-s-next-for-bitcoin-ethereum-a",
+    "type": "news",
+    "title": "Crypto Market Today: $200M Derisk Ahead of FOMC, What’s Next for Bitcoin, Ethereum and Solana Price?",
+    "slug": "crypto-market-today-200m-derisk-ahead-of-fomc-what-s-next-for-bitcoin-ethereum-a",
+    "date": "2026-10-02",
+    "displayDate": "October 2, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The crypto market saw more than $200 million liquidations today ahead of the Fed's decision on interest rates, with Bitcoin, Ethereum, and Solana prices potenti",
+    "excerpt": "The crypto market saw more than $200 million liquidations today ahead of the Fed's decision on interest rates, with Bitcoin, Ethereum, and Solana prices potentially recording volatility depending on the Fed's sentiments on inflation. Bitcoin (BTC) and Ethereum (ETH) showed stabilization after a sell",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Crypto Market Today: $200M Derisk Ahead of FOMC, What’s Next for Bitcoin, Ethereum and Solana Price?"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "crypto-market-today-bitcoin-ethereum-and-xrp-price-prediction",
+    "type": "news",
+    "title": "Crypto Market Today: Bitcoin, Ethereum and XRP Price Prediction",
+    "slug": "crypto-market-today-bitcoin-ethereum-and-xrp-price-prediction",
+    "date": "2026-10-02",
+    "displayDate": "October 2, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Ethereum is holding the $1,500 to $1,600 support zone on the three-day chart, with a potential for choppy sideways action or a modest relief rally if the Februa",
+    "excerpt": "Ethereum is holding the $1,500 to $1,600 support zone on the three-day chart, with a potential for choppy sideways action or a modest relief rally if the February pattern continues. XRP’s weekly trend remains technically bearish with support between $0.90 and $1.00, and resistance at $1.13. Bitcoin ",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Crypto Market Today: Bitcoin, Ethereum and XRP Price Prediction"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "crypto-news-bitcoin-ethereum-xrp-news-crypto-news",
     "type": "news",
     "title": "Crypto News: Bitcoin, Ethereum & XRP News | crypto.news",
@@ -82,6 +145,27 @@
       "alt": "Crypto News: Bitcoin, Ethereum & XRP News | crypto.news"
     },
     "readingTime": 3
+  },
+  {
+    "id": "crypto-news-today-bitcoin-ethereum-defi-market-gains",
+    "type": "news",
+    "title": "Crypto News Today: Bitcoin, Ethereum, DeFi Market Gains",
+    "slug": "crypto-news-today-bitcoin-ethereum-defi-market-gains",
+    "date": "2026-10-02",
+    "displayDate": "October 2, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "DeFi tokens lead crypto gains as Bitcoin dips below $84,000, with QI surging over 100%, QUICK up nearly 33%, and several others like AERO, VELODROME, and ENA po",
+    "excerpt": "DeFi tokens lead crypto gains as Bitcoin dips below $84,000, with QI surging over 100%, QUICK up nearly 33%, and several others like AERO, VELODROME, and ENA posting double-digit gains. Other altcoins such as PHA and ARK also saw significant increases. Meanwhile, Sui (SUI) rose 3.97% on new DeFi pro",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Crypto News Today: Bitcoin, Ethereum, DeFi Market Gains"
+    },
+    "readingTime": 4
   },
   {
     "id": "current-u-s-inflation-rate-is-3-4-chart-and-why-it-matters-nerdwallet",
@@ -252,6 +336,27 @@
     "readingTime": 4
   },
   {
+    "id": "economic-sector-performance-dashboards-yahoo-finance",
+    "type": "news",
+    "title": "Economic Sector Performance Dashboards - Yahoo Finance",
+    "slug": "economic-sector-performance-dashboards-yahoo-finance",
+    "date": "2026-10-02",
+    "displayDate": "October 2, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Yahoo Finance dashboard lists NU Nu Holdings Ltd. and INTC Intel Corporation among the most active stocks, with INTC showing a significant gain of +3.71%. T",
+    "excerpt": "The Yahoo Finance dashboard lists NU Nu Holdings Ltd. and INTC Intel Corporation among the most active stocks, with INTC showing a significant gain of +3.71%. The top gainers include UTHR United Therapeutics Corporation with a substantial increase of +12.55%. The bond market shows mixed results, wit",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Economic Sector Performance Dashboards - Yahoo Finance"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "ethereum-eth-price-usd-today-news-charts-market-cap-coinbase",
     "type": "news",
     "title": "Ethereum (ETH) Price USD Today, News, Charts, Market Cap | Coinbase",
@@ -311,6 +416,27 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "Federal Reserve Board - Monetary Policy"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "federal-reserve-economic-data-fred-st-louis-fed",
+    "type": "news",
+    "title": "Federal Reserve Economic Data | FRED | St. Louis Fed",
+    "slug": "federal-reserve-economic-data-fred-st-louis-fed",
+    "date": "2026-10-02",
+    "displayDate": "October 2, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Federal Reserve Economic Data (FRED) is a database maintained by the Research Division of the Federal Reserve Bank of St. Louis that provides access to more tha",
+    "excerpt": "Federal Reserve Economic Data (FRED) is a database maintained by the Research Division of the Federal Reserve Bank of St. Louis that provides access to more than 816,000 economic time series from hundreds of public and private sources. The database includes data on banking, business and fiscal condi",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Federal Reserve Economic Data | FRED | St. Louis Fed"
     },
     "readingTime": 4
   },
@@ -609,6 +735,48 @@
     "readingTime": 3
   },
   {
+    "id": "schedule-of-releases-for-real-earnings",
+    "type": "news",
+    "title": "Schedule of Releases for Real Earnings",
+    "slug": "schedule-of-releases-for-real-earnings",
+    "date": "2026-10-02",
+    "displayDate": "October 2, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The schedule for the release of Real Earnings for 2026 indicates that the release for September 2026 is on October 2, 2026, at 08:30 AM. The subsequent releases",
+    "excerpt": "The schedule for the release of Real Earnings for 2026 indicates that the release for September 2026 is on October 2, 2026, at 08:30 AM. The subsequent releases are scheduled for October 2026 on November 6, 2026, at 08:30 AM, and November 2026 on December 4, 2026, at 08:30 AM. The sources do not pro",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Schedule of Releases for Real Earnings"
+    },
+    "readingTime": 5
+  },
+  {
+    "id": "sector-industry-performance-bloomberg",
+    "type": "news",
+    "title": "Sector & Industry Performance - Bloomberg",
+    "slug": "sector-industry-performance-bloomberg",
+    "date": "2026-10-02",
+    "displayDate": "October 2, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "According to Bloomberg, Broadcom (AVGO) shares are moving on news that the company's Wall Street syndicate is starting to gather $60 billion of fresh AI chip fi",
+    "excerpt": "According to Bloomberg, Broadcom (AVGO) shares are moving on news that the company's Wall Street syndicate is starting to gather $60 billion of fresh AI chip financing to benefit Anthropic and other companies. Fair Isaac Corp. (FICO) shares are rising after the company launched the FICO Mortgage Dir",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Sector & Industry Performance - Bloomberg"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "stock-earnings-calendar-oct-2-2026-digrin",
     "type": "news",
     "title": "Stock Earnings Calendar Oct 2, 2026 | Digrin",
@@ -628,6 +796,48 @@
       "alt": "Stock Earnings Calendar Oct 2, 2026 | Digrin"
     },
     "readingTime": 4
+  },
+  {
+    "id": "stock-market-outlook-today-tomorrow-market-outlook-forecast-seeking-alpha",
+    "type": "news",
+    "title": "Stock Market Outlook Today & Tomorrow | Market Outlook & Forecast | Seeking Alpha",
+    "slug": "stock-market-outlook-today-tomorrow-market-outlook-forecast-seeking-alpha",
+    "date": "2026-10-02",
+    "displayDate": "October 2, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The sources indicate that the stock market outlook on September 30, 2026, includes discussions on various sectors such as Aerospace & Defense, AI Tech, Energy, ",
+    "excerpt": "The sources indicate that the stock market outlook on September 30, 2026, includes discussions on various sectors such as Aerospace & Defense, AI Tech, Energy, and Financials, with specific mentions of market predictions for October, the impact of PCE inflation reports, and commentary on companies l",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Stock Market Outlook Today & Tomorrow | Market Outlook & Forecast | Seeking Alpha"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "stock-market-sector-analysis-and-performance-weekly-changes",
+    "type": "news",
+    "title": "Stock Market Sector Analysis and Performance - Weekly Changes",
+    "slug": "stock-market-sector-analysis-and-performance-weekly-changes",
+    "date": "2026-10-02",
+    "displayDate": "October 2, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "According to Investing.com, among the major sectors, Power rose by 7.41%, Infrastructure Construction and Engineering by 6.77%, Banks Private by 5.59%, Banks PS",
+    "excerpt": "According to Investing.com, among the major sectors, Power rose by 7.41%, Infrastructure Construction and Engineering by 6.77%, Banks Private by 5.59%, Banks PSUs by 5.13%, and Financial Services by 5.06%. Minor sectors like Ship Building saw a growth of 11.51%, Engineering services by 7.74%, and Se",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Stock Market Sector Analysis and Performance - Weekly Changes"
+    },
+    "readingTime": 3
   },
   {
     "id": "stock-market-sector-performance-today-stocktitan",
@@ -798,6 +1008,69 @@
     "readingTime": 4
   },
   {
+    "id": "u-s-bureau-of-labor-statistics-u-s-bureau-of-labor-statistics",
+    "type": "news",
+    "title": "U.S. Bureau of Labor Statistics : U.S. Bureau of Labor Statistics",
+    "slug": "u-s-bureau-of-labor-statistics-u-s-bureau-of-labor-statistics",
+    "date": "2026-10-02",
+    "displayDate": "October 2, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The U.S. Bureau of Labor Statistics (BLS) is a unit of the United States Department of Labor, formed on June 27, 1884, and headquartered in Suitland, Maryland. ",
+    "excerpt": "The U.S. Bureau of Labor Statistics (BLS) is a unit of the United States Department of Labor, formed on June 27, 1884, and headquartered in Suitland, Maryland. It serves as the principal fact-finding agency for the U.S. government in the field of labor economics and statistics, collecting, analyzing",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "U.S. Bureau of Labor Statistics : U.S. Bureau of Labor Statistics"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "u-s-federal-reserve-news-today-s-latest-stories-reuters",
+    "type": "news",
+    "title": "U.S. Federal Reserve News | Today's Latest Stories | Reuters",
+    "slug": "u-s-federal-reserve-news-today-s-latest-stories-reuters",
+    "date": "2026-10-02",
+    "displayDate": "October 2, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "New York Federal Reserve President John Williams suggested that the U.S. central bank might need to raise interest rates again before the end of the year to hel",
+    "excerpt": "New York Federal Reserve President John Williams suggested that the U.S. central bank might need to raise interest rates again before the end of the year to help bring down inflation risks. The US Federal Reserve is working on a plan to raise the asset thresholds that trigger stricter oversight of b",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "U.S. Federal Reserve News | Today's Latest Stories | Reuters"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "united-states-federal-reserve-interest-rate-decision",
+    "type": "news",
+    "title": "United States Federal Reserve Interest Rate Decision",
+    "slug": "united-states-federal-reserve-interest-rate-decision",
+    "date": "2026-10-02",
+    "displayDate": "October 2, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Reserve’s next interest rate decision is scheduled for Wednesday, April 29, 2026, at 2:00 PM Eastern Time (ET), according to Equals Money. The feder",
+    "excerpt": "The Federal Reserve’s next interest rate decision is scheduled for Wednesday, April 29, 2026, at 2:00 PM Eastern Time (ET), according to Equals Money. The federal funds rate target range was last set at 3.50% to 3.75% on March 18, 2026, and has not changed since, as per the sources. The sources do n",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "United States Federal Reserve Interest Rate Decision"
+    },
+    "readingTime": 5
+  },
+  {
     "id": "united-states-inflation-rate",
     "type": "news",
     "title": "United States Inflation Rate",
@@ -857,6 +1130,27 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "What The Stock Market Performance Look Like Today - The place Gwinnett residents trust to explain what’s happening—and what to do next."
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "when-is-the-next-fed-interest-rate-decision-equals-money",
+    "type": "news",
+    "title": "When is the next Fed interest rate decision? | Equals Money",
+    "slug": "when-is-the-next-fed-interest-rate-decision-equals-money",
+    "date": "2026-10-02",
+    "displayDate": "October 2, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The next Federal Reserve interest rate decision is scheduled for Wednesday, April 29, 2026, at 2:00 PM Eastern Time (ET), according to Equals Money. However, Le",
+    "excerpt": "The next Federal Reserve interest rate decision is scheduled for Wednesday, April 29, 2026, at 2:00 PM Eastern Time (ET), according to Equals Money. However, LendingTree states that the next meeting is scheduled for October 27-28, 2026. The sources do not provide a definitive answer.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "When is the next Fed interest rate decision? | Equals Money"
     },
     "readingTime": 3
   },
@@ -1029,27 +1323,6 @@
     "readingTime": 4
   },
   {
-    "id": "cpi-home-u-s-bureau-of-labor-statistics",
-    "type": "news",
-    "title": "CPI Home : U.S. Bureau of Labor Statistics",
-    "slug": "cpi-home-u-s-bureau-of-labor-statistics",
-    "date": "2026-10-01",
-    "displayDate": "October 1, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Consumer Price Index for All Urban Consumers (CPI-U) increased 0.4 percent on a seasonally adjusted basis in August 2026 after rising 0.1 percent in July, a",
-    "excerpt": "The Consumer Price Index for All Urban Consumers (CPI-U) increased 0.4 percent on a seasonally adjusted basis in August 2026 after rising 0.1 percent in July, according to the U.S. Bureau of Labor Statistics. The CPI Home page provides detailed information on various expenditure categories, includin",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "CPI Home : U.S. Bureau of Labor Statistics"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "crypto-market-holds-at-2-41t-as-bitcoin-surges-4-99-today",
     "type": "news",
     "title": "Crypto Market Holds At $2.41T As Bitcoin Surges 4.99% Today",
@@ -1069,27 +1342,6 @@
       "alt": "Crypto Market Holds At $2.41T As Bitcoin Surges 4.99% Today"
     },
     "readingTime": 3
-  },
-  {
-    "id": "crypto-market-today-200m-derisk-ahead-of-fomc-what-s-next-for-bitcoin-ethereum-a",
-    "type": "news",
-    "title": "Crypto Market Today: $200M Derisk Ahead of FOMC, What’s Next for Bitcoin, Ethereum and Solana Price?",
-    "slug": "crypto-market-today-200m-derisk-ahead-of-fomc-what-s-next-for-bitcoin-ethereum-a",
-    "date": "2026-10-01",
-    "displayDate": "October 1, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The crypto market saw more than $200 million liquidations today ahead of the Fed's decision on interest rates, with Bitcoin, Ethereum, and Solana prices experie",
-    "excerpt": "The crypto market saw more than $200 million liquidations today ahead of the Fed's decision on interest rates, with Bitcoin, Ethereum, and Solana prices experiencing volatility depending on the Fed's sentiments on inflation. Traders have already priced in the Fed's decision to leave interest rates u",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Crypto Market Today: $200M Derisk Ahead of FOMC, What’s Next for Bitcoin, Ethereum and Solana Price?"
-    },
-    "readingTime": 4
   },
   {
     "id": "crypto-news-today-bitcoin-near-80k-as-market-jumps-2",
@@ -1239,27 +1491,6 @@
     "readingTime": 4
   },
   {
-    "id": "economic-sector-performance-dashboards-yahoo-finance",
-    "type": "news",
-    "title": "Economic Sector Performance Dashboards - Yahoo Finance",
-    "slug": "economic-sector-performance-dashboards-yahoo-finance",
-    "date": "2026-10-01",
-    "displayDate": "October 1, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Yahoo Finance sector performance dashboards list NU Nu Holdings Ltd., Warner Bros. Discovery, Inc., NVIDIA Corporation, Space Exploration Technologies Corp.",
-    "excerpt": "The Yahoo Finance sector performance dashboards list NU Nu Holdings Ltd., Warner Bros. Discovery, Inc., NVIDIA Corporation, Space Exploration Technologies Corp., and Intel Corporation as the most active stocks. The top gainers include United Therapeutics Corporation, Rogers Corporation, FormFactor, ",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Economic Sector Performance Dashboards - Yahoo Finance"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "fed-raises-rates-to-3-75-4-00-first-hike-since-2023-u-s-bank",
     "type": "news",
     "title": "Fed raises rates to 3.75%-4.00%, first hike since 2023 | U.S. Bank",
@@ -1277,27 +1508,6 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "Fed raises rates to 3.75%-4.00%, first hike since 2023 | U.S. Bank"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "federal-reserve-economic-data-fred-st-louis-fed",
-    "type": "news",
-    "title": "Federal Reserve Economic Data | FRED | St. Louis Fed",
-    "slug": "federal-reserve-economic-data-fred-st-louis-fed",
-    "date": "2026-10-01",
-    "displayDate": "October 1, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Federal Reserve Economic Data (FRED) is a database maintained by the Research Division of the Federal Reserve Bank of St. Louis, providing access to over 816,00",
-    "excerpt": "Federal Reserve Economic Data (FRED) is a database maintained by the Research Division of the Federal Reserve Bank of St. Louis, providing access to over 816,000 economic time series from hundreds of public and private sources. It includes data on banking, business and fiscal conditions, consumer pr",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Federal Reserve Economic Data | FRED | St. Louis Fed"
     },
     "readingTime": 4
   },
@@ -1512,48 +1722,6 @@
     "readingTime": 3
   },
   {
-    "id": "u-s-bureau-of-labor-statistics-u-s-bureau-of-labor-statistics",
-    "type": "news",
-    "title": "U.S. Bureau of Labor Statistics :  U.S. Bureau of Labor Statistics",
-    "slug": "u-s-bureau-of-labor-statistics-u-s-bureau-of-labor-statistics",
-    "date": "2026-10-01",
-    "displayDate": "October 1, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The U.S. Bureau of Labor Statistics (BLS) is a federal agency under the Department of Labor that measures labor market activity, working conditions, and price c",
-    "excerpt": "The U.S. Bureau of Labor Statistics (BLS) is a federal agency under the Department of Labor that measures labor market activity, working conditions, and price changes in the economy. It collects, analyzes, and disseminates essential economic information to support public and private decision-making.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "U.S. Bureau of Labor Statistics :  U.S. Bureau of Labor Statistics"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "u-s-federal-reserve-news-today-s-latest-stories-reuters",
-    "type": "news",
-    "title": "U.S. Federal Reserve News | Today's Latest Stories | Reuters",
-    "slug": "u-s-federal-reserve-news-today-s-latest-stories-reuters",
-    "date": "2026-10-01",
-    "displayDate": "October 1, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "According to Reuters, New York Federal Reserve President John Williams suggested that the U.S. central bank might need to raise interest rates again before the ",
-    "excerpt": "According to Reuters, New York Federal Reserve President John Williams suggested that the U.S. central bank might need to raise interest rates again before the end of the year to help bring down inflation risks. Additionally, Philadelphia Federal Reserve President Anna Paulson stated that more rate ",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "U.S. Federal Reserve News | Today's Latest Stories | Reuters"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "u-s-stock-markets-today",
     "type": "news",
     "title": "U.S. Stock Markets Today",
@@ -1573,27 +1741,6 @@
       "alt": "U.S. Stock Markets Today"
     },
     "readingTime": 4
-  },
-  {
-    "id": "united-states-federal-reserve-interest-rate-decision",
-    "type": "news",
-    "title": "United States Federal Reserve Interest Rate Decision",
-    "slug": "united-states-federal-reserve-interest-rate-decision",
-    "date": "2026-10-01",
-    "displayDate": "October 1, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The next Federal Reserve interest rate decision is scheduled for April 29, 2026, at 2:00 PM Eastern Time (ET), according to Equals Money. The federal funds rate",
-    "excerpt": "The next Federal Reserve interest rate decision is scheduled for April 29, 2026, at 2:00 PM Eastern Time (ET), according to Equals Money. The federal funds rate target range is currently set at 3.50% to 3.75%, where it was left unchanged at the Federal Reserve’s latest meeting on March 18, 2026. The",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "United States Federal Reserve Interest Rate Decision"
-    },
-    "readingTime": 5
   },
   {
     "id": "united-states-indicators",
@@ -4053,27 +4200,6 @@
     "readingTime": 5
   },
   {
-    "id": "when-is-the-next-fed-interest-rate-decision-equals-money",
-    "type": "news",
-    "title": "When is the next Fed interest rate decision? - Equals Money",
-    "slug": "when-is-the-next-fed-interest-rate-decision-equals-money",
-    "date": "2026-09-05",
-    "displayDate": "September 5, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The next Fed interest rate decision is scheduled for September 15-16, 2026. The current rate target range is 3.50% to 3.75%. No changes were made at the latest ",
-    "excerpt": "The next Fed interest rate decision is scheduled for September 15-16, 2026. The current rate target range is 3.50% to 3.75%. No changes were made at the latest meeting in July 2026.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "When is the next Fed interest rate decision? - Equals Money"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "asian-financial-markets",
     "type": "news",
     "title": "Asian Financial Markets",
@@ -4259,27 +4385,6 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "S&P 500 INDEX TODAY | INX LIVE TICKER | S&P 500 QUOTE & CHART | Markets Insider"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "stock-market-outlook-today-tomorrow-market-outlook-forecast-seeking-alpha",
-    "type": "news",
-    "title": "Stock Market Outlook Today & Tomorrow | Market Outlook & Forecast | Seeking Alpha",
-    "slug": "stock-market-outlook-today-tomorrow-market-outlook-forecast-seeking-alpha",
-    "date": "2026-09-04",
-    "displayDate": "September 4, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The stock market outlook today suggests a bullish trend despite geopolitical tensions. Key sectors like aerospace and energy remain strong. Analysts predict con",
-    "excerpt": "The stock market outlook today suggests a bullish trend despite geopolitical tensions. Key sectors like aerospace and energy remain strong. Analysts predict continued growth in major indices.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Stock Market Outlook Today & Tomorrow | Market Outlook & Forecast | Seeking Alpha"
     },
     "readingTime": 4
   },
@@ -9009,27 +9114,6 @@
     "readingTime": 5
   },
   {
-    "id": "stock-market-sector-analysis-and-performance-weekly-changes",
-    "type": "news",
-    "title": "Stock Market Sector Analysis and Performance - Weekly Changes",
-    "slug": "stock-market-sector-analysis-and-performance-weekly-changes",
-    "date": "2026-07-07",
-    "displayDate": "July 7, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The stock market sectors show weekly changes in performance, with notable movements in banking, retail, and technology. For detailed sector analysis, visit Tren",
-    "excerpt": "The stock market sectors show weekly changes in performance, with notable movements in banking, retail, and technology. For detailed sector analysis, visit Trendlyne or Bloomberg. Fidelity Investments also provides sector research and performance data.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Stock Market Sector Analysis and Performance - Weekly Changes"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "tech-company-news",
     "type": "news",
     "title": "Tech Company News",
@@ -9992,27 +10076,6 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "Investment Directions 2026 Outlook | iShares"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "sector-industry-performance-bloomberg",
-    "type": "news",
-    "title": "Sector & Industry Performance - Bloomberg",
-    "slug": "sector-industry-performance-bloomberg",
-    "date": "2026-07-05",
-    "displayDate": "July 5, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The U.S. sectors and industries show varied performance, with notable regulatory changes and economic impacts. Bloomberg tracks top global sectors and provides ",
-    "excerpt": "The U.S. sectors and industries show varied performance, with notable regulatory changes and economic impacts. Bloomberg tracks top global sectors and provides updates on market performance. For detailed sector analysis, visit Bloomberg's sector overview page.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Sector & Industry Performance - Bloomberg"
     },
     "readingTime": 3
   },
