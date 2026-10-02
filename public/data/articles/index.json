@@ -42,6 +42,48 @@
     "readingTime": 3
   },
   {
+    "id": "asian-financial-markets-investing-com",
+    "type": "news",
+    "title": "Asian Financial Markets - Investing.com",
+    "slug": "asian-financial-markets-investing-com",
+    "date": "2026-10-02",
+    "displayDate": "October 2, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "On October 2, 2026, the Nikkei 225 was up by 2203.00 points, or 3.30%, to 68,956.72, the Hang Seng was up by 89.70 points, or 0.37%, to 24,613.27, while the S&P",
+    "excerpt": "On October 2, 2026, the Nikkei 225 was up by 2203.00 points, or 3.30%, to 68,956.72, the Hang Seng was up by 89.70 points, or 0.37%, to 24,613.27, while the S&P/ASX 200 was down by 174.90 points, or 1.99%, to 8,614.40. The top gainers included Lasertec Corp, which rose by 4580.0 points, or 11.14%, t",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Asian Financial Markets - Investing.com"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "asian-stock-market-capital-markets-news-bond-market-news-commodities-news-etfs-n",
+    "type": "news",
+    "title": "Asian Stock Market: Capital Markets News, Bond Market News, Commodities News, ETFs News",
+    "slug": "asian-stock-market-capital-markets-news-bond-market-news-commodities-news-etfs-n",
+    "date": "2026-10-02",
+    "displayDate": "October 2, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Oil prices jumped by over 4%, while shares on the Kospi fell 9%, as SK Hynix shares sank by over 15% on another mixed day for Asian markets. SK Hynix IPO reinvi",
+    "excerpt": "Oil prices jumped by over 4%, while shares on the Kospi fell 9%, as SK Hynix shares sank by over 15% on another mixed day for Asian markets. SK Hynix IPO reinvigorated AI trade, boosting Asia stocks. Meanwhile, CNBC reported South Korea stocks falling over 5% following a plunge in Wall Street's AI-l",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Asian Stock Market: Capital Markets News, Bond Market News, Commodities News, ETFs News"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "coindesk-bitcoin-ethereum-xrp-crypto-news-and-price-data",
     "type": "news",
     "title": "CoinDesk: Bitcoin, Ethereum, XRP, Crypto News and Price Data",
@@ -168,6 +210,27 @@
     "readingTime": 4
   },
   {
+    "id": "crypto-news-today-bitcoin-near-80k-as-market-jumps-2",
+    "type": "news",
+    "title": "Crypto News Today: Bitcoin Near $80K as Market Jumps 2%",
+    "slug": "crypto-news-today-bitcoin-near-80k-as-market-jumps-2",
+    "date": "2026-10-02",
+    "displayDate": "October 2, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin reclaimed $80,000 as the overall cryptocurrency market jumped 2% higher to just under $2.8 trillion. The rally followed the Commodity Futures Trading Co",
+    "excerpt": "Bitcoin reclaimed $80,000 as the overall cryptocurrency market jumped 2% higher to just under $2.8 trillion. The rally followed the Commodity Futures Trading Commission's filing of two new proposals with the White House's Office of Information and Regulatory Affairs for review. Bitcoin's price climb",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Crypto News Today: Bitcoin Near $80K as Market Jumps 2%"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "current-u-s-inflation-rate-is-3-4-chart-and-why-it-matters-nerdwallet",
     "type": "news",
     "title": "Current U.S. Inflation Rate Is 3.4%: Chart and Why It Matters - NerdWallet",
@@ -227,6 +290,27 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "Earnings Calendar - Investing.com"
+    },
+    "readingTime": 5
+  },
+  {
+    "id": "earnings-calendar-marketwatch",
+    "type": "news",
+    "title": "Earnings Calendar | Marketwatch",
+    "slug": "earnings-calendar-marketwatch",
+    "date": "2026-10-02",
+    "displayDate": "October 2, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The earnings calendar on MarketWatch lists several companies with upcoming earnings reports, including Micron Technology Inc. (MU) on 08/31/2026, Progress Softw",
+    "excerpt": "The earnings calendar on MarketWatch lists several companies with upcoming earnings reports, including Micron Technology Inc. (MU) on 08/31/2026, Progress Software Corp. (PRGS) on 08/31/2026, and CarMax Inc. (KMX) on 08/31/2026. The U.S. Economic Calendar on MarketWatch provides details on economic ",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Earnings Calendar | Marketwatch"
     },
     "readingTime": 5
   },
@@ -483,6 +567,27 @@
     "readingTime": 4
   },
   {
+    "id": "global-market-headlines-breaking-stock-market-news-reuters",
+    "type": "news",
+    "title": "Global Market Headlines | Breaking Stock Market News | Reuters",
+    "slug": "global-market-headlines-breaking-stock-market-news-reuters",
+    "date": "2026-10-02",
+    "displayDate": "October 2, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Tech stocks advanced in Europe and Nasdaq futures edged higher on Tuesday as optimism over AI lab Anthropic's plans for a public debut outshone concerns over el",
+    "excerpt": "Tech stocks advanced in Europe and Nasdaq futures edged higher on Tuesday as optimism over AI lab Anthropic's plans for a public debut outshone concerns over elevated oil prices and global bond yields. Oil prices declined on Tuesday as investors focused on signs of recovering crude exports from the ",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Global Market Headlines | Breaking Stock Market News | Reuters"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "global-market-indices-international-markets-markets-insider",
     "type": "news",
     "title": "Global Market Indices | International Markets | Markets Insider",
@@ -563,6 +668,27 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "How Should I Allocate My Portfolio in 2026?"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "how-to-build-an-investment-portfolio-in-2026-xtb",
+    "type": "news",
+    "title": "How to Build An Investment Portfolio in 2026 | XTB",
+    "slug": "how-to-build-an-investment-portfolio-in-2026-xtb",
+    "date": "2026-10-02",
+    "displayDate": "October 2, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "To build an investment portfolio in 2026, consider including a mix of stocks, bonds, real estate investment trusts, and commodities for diversification. For fix",
+    "excerpt": "To build an investment portfolio in 2026, consider including a mix of stocks, bonds, real estate investment trusts, and commodities for diversification. For fixed-income exposure, you can invest in bond-focused ETFs available on XTB. Automate your investments to remove emotional decision-making, enc",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "How to Build An Investment Portfolio in 2026 | XTB"
     },
     "readingTime": 4
   },
@@ -1008,6 +1134,27 @@
     "readingTime": 4
   },
   {
+    "id": "the-most-anticipated-earnings-releases-for-the-week-of-august-3-2026",
+    "type": "news",
+    "title": "The Most Anticipated Earnings Releases for the Week of August 3, 2026",
+    "slug": "the-most-anticipated-earnings-releases-for-the-week-of-august-3-2026",
+    "date": "2026-10-02",
+    "displayDate": "October 2, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The most anticipated earnings releases for the week of August 3, 2026, are SanDisk #SNDK, Palantir Technologies #PLTR, AMD #AMD, Space Exploration Technologies ",
+    "excerpt": "The most anticipated earnings releases for the week of August 3, 2026, are SanDisk #SNDK, Palantir Technologies #PLTR, AMD #AMD, Space Exploration Technologies #SPCX #Eli Lilly #LLY, ConocoPhillips #COP, D-Wave Quantum #QBTS, Western Digital #WDC, and AppLovin #APP, according to sources. However, th",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "The Most Anticipated Earnings Releases for the Week of August 3, 2026"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "u-s-bureau-of-labor-statistics-u-s-bureau-of-labor-statistics",
     "type": "news",
     "title": "U.S. Bureau of Labor Statistics : U.S. Bureau of Labor Statistics",
@@ -1218,27 +1365,6 @@
     "readingTime": 4
   },
   {
-    "id": "asian-stock-market-capital-markets-news-bond-market-news-commodities-news-etfs-n",
-    "type": "news",
-    "title": "Asian Stock Market: Capital Markets News, Bond Market News, Commodities News, ETFs News",
-    "slug": "asian-stock-market-capital-markets-news-bond-market-news-commodities-news-etfs-n",
-    "date": "2026-10-01",
-    "displayDate": "October 1, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Oil prices jumped by over 4%, while shares on the Kospi fell 9% with SK Hynix shares sinking by over 15% on a mixed day for Asian markets. SK Hynix's record $26",
-    "excerpt": "Oil prices jumped by over 4%, while shares on the Kospi fell 9% with SK Hynix shares sinking by over 15% on a mixed day for Asian markets. SK Hynix's record $26bn IPO from its US listing invigorated AI trade and boosted Asia stocks. Indonesia was expected to record a larger trade surplus of about $6",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Asian Stock Market: Capital Markets News, Bond Market News, Commodities News, ETFs News"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "august-2026-us-stock-sector-focus-healthcare-leads-tech-rotation-algo-lab",
     "type": "news",
     "title": "August 2026 US Stock Sector Focus: Healthcare Leads, Tech Rotation | Algo Lab",
@@ -1344,27 +1470,6 @@
     "readingTime": 3
   },
   {
-    "id": "crypto-news-today-bitcoin-near-80k-as-market-jumps-2",
-    "type": "news",
-    "title": "Crypto News Today: Bitcoin Near $80K as Market Jumps 2%",
-    "slug": "crypto-news-today-bitcoin-near-80k-as-market-jumps-2",
-    "date": "2026-10-01",
-    "displayDate": "October 1, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "According to CoinGabbar, on August 25, 2026, the global cryptocurrency market reached a capitalization of $2.75 trillion, with an overall surge of 2% in the las",
-    "excerpt": "According to CoinGabbar, on August 25, 2026, the global cryptocurrency market reached a capitalization of $2.75 trillion, with an overall surge of 2% in the last 24 hours, while Bitcoin (BTC) price reached $79,674 with a hike of 3% in the last 24 hours. Ethereum (ETH) price was at $2,494.65 with a s",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Crypto News Today: Bitcoin Near $80K as Market Jumps 2%"
-    },
-    "readingTime": 5
-  },
-  {
     "id": "cryptocurrency-prices-charts-and-market-capitalizations-coinmarketcap",
     "type": "news",
     "title": "Cryptocurrency Prices, Charts And Market Capitalizations | CoinMarketCap",
@@ -1405,27 +1510,6 @@
       "alt": "Cryptocurrency - Wikipedia"
     },
     "readingTime": 3
-  },
-  {
-    "id": "earnings-calendar-marketwatch",
-    "type": "news",
-    "title": "Earnings Calendar - MarketWatch",
-    "slug": "earnings-calendar-marketwatch",
-    "date": "2026-10-01",
-    "displayDate": "October 1, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The MarketWatch earnings calendar for today shows that IperionX Ltd. ADR (IPX) is scheduled to report on 06/30/2026 with an EPS forecast of -0.35 and an EPS act",
-    "excerpt": "The MarketWatch earnings calendar for today shows that IperionX Ltd. ADR (IPX) is scheduled to report on 06/30/2026 with an EPS forecast of -0.35 and an EPS actual of -0.35, with no surprise. Uranium Energy Corp. (UEC) is also scheduled to report on 07/31/2026 with an EPS forecast of -0.04 and an EP",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Earnings Calendar - MarketWatch"
-    },
-    "readingTime": 4
   },
   {
     "id": "earnings-calendar-seeking-alpha",
@@ -1550,27 +1634,6 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "GLOBAL Definition & Meaning - Merriam-Webster"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "global-market-headlines-breaking-stock-market-news-reuters",
-    "type": "news",
-    "title": "Global Market Headlines | Breaking Stock Market News | Reuters",
-    "slug": "global-market-headlines-breaking-stock-market-news-reuters",
-    "date": "2026-10-01",
-    "displayDate": "October 1, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Tech stocks advanced in Europe and Nasdaq futures edged higher on Tuesday as optimism over AI lab Anthropic's plans for a public debut outshone concerns over el",
-    "excerpt": "Tech stocks advanced in Europe and Nasdaq futures edged higher on Tuesday as optimism over AI lab Anthropic's plans for a public debut outshone concerns over elevated oil prices and global bond yields. Oil prices declined on Tuesday as investors focused on signs of recovering crude exports from the ",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Global Market Headlines | Breaking Stock Market News | Reuters"
     },
     "readingTime": 4
   },
@@ -3001,27 +3064,6 @@
       "alt": "2026 Strategic Asset Allocation (SAA) - LPL Financial"
     },
     "readingTime": 4
-  },
-  {
-    "id": "asian-financial-markets-investing-com",
-    "type": "news",
-    "title": "Asian Financial Markets - Investing.com",
-    "slug": "asian-financial-markets-investing-com",
-    "date": "2026-09-07",
-    "displayDate": "September 7, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Forex trading involves buying and selling currencies on the foreign exchange market. It operates 24 hours a day, five days a week. Traders profit from currency ",
-    "excerpt": "Forex trading involves buying and selling currencies on the foreign exchange market. It operates 24 hours a day, five days a week. Traders profit from currency price changes.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Asian Financial Markets - Investing.com"
-    },
-    "readingTime": 5
   },
   {
     "id": "asian-market-headlines-breaking-stock-market-news",
@@ -5668,27 +5710,6 @@
       "alt": "The Fed - Meeting calendars and information"
     },
     "readingTime": 4
-  },
-  {
-    "id": "the-most-anticipated-earnings-releases-for-the-week-of-august-3-2026",
-    "type": "news",
-    "title": "The Most Anticipated Earnings Releases for the Week of August 3, 2026",
-    "slug": "the-most-anticipated-earnings-releases-for-the-week-of-august-3-2026",
-    "date": "2026-08-09",
-    "displayDate": "August 9, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The most anticipated earnings releases for the week of August 3, 2026, include SanDisk, Palantir Technologies, AMD, and Eli Lilly. These companies are expected ",
-    "excerpt": "The most anticipated earnings releases for the week of August 3, 2026, include SanDisk, Palantir Technologies, AMD, and Eli Lilly. These companies are expected to report significant financial results.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "The Most Anticipated Earnings Releases for the Week of August 3, 2026"
-    },
-    "readingTime": 3
   },
   {
     "id": "united-states-core-inflation-rate",
