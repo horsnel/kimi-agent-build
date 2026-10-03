@@ -3,8 +3,8 @@
   "type": "news",
   "title": "Economic Calendar",
   "slug": "economic-calendar",
-  "date": "2026-10-02",
-  "displayDate": "October 2, 2026",
+  "date": "2026-10-03",
+  "displayDate": "October 3, 2026",
   "author": "Sigma Capital",
   "category": "Economic Indicators",
   "tags": [
@@ -12,41 +12,41 @@
     "financial news",
     "market update"
   ],
-  "metaDescription": "The sources provide details on economic calendars from TradingView, Trading Economics, and IG. TradingView's Economic Calendar lists upcoming economic events af",
-  "excerpt": "The sources provide details on economic calendars from TradingView, Trading Economics, and IG. TradingView's Economic Calendar lists upcoming economic events affecting assets, regions, and markets, with customizable options and expert forecasts. Trading Economics' calendar offers comprehensive data ",
+  "metaDescription": "The Economic Calendar on Investing.com tracks high-impact events like central bank interest rate decisions, Non-Farm Payrolls (NFP), GDP releases, the Consumer ",
+  "excerpt": "The Economic Calendar on Investing.com tracks high-impact events like central bank interest rate decisions, Non-Farm Payrolls (NFP), GDP releases, the Consumer Price Index (CPI), and unemployment data, marked with three stars for significant market volatility. Tradingeconomics.com provides a table w",
   "content": {
-    "introduction": "The sources provide details on economic calendars from TradingView, Trading Economics, and IG. TradingView's Economic Calendar lists upcoming economic events affecting assets, regions, and markets, with customizable options and expert forecasts. Trading Economics' calendar offers comprehensive data releases for 196 countries, including actual values, consensus figures, and forecasts for 300,000 economic indicators. IG's calendar allows browsing and searching for macroeconomic events, earnings announcements, IPOs, and stock splits. Specific events on Trading Economics for October 2, 2026, include Private House Approvals MoM Final AUG in Australia, 30-Year KTB Auction in South Korea, Foreign Exchange Reserves SEP in Indonesia, BoJ JGB Purchase in Japan, and RBI Interest Rate Decision in India.",
+    "introduction": "The Economic Calendar on Investing.com tracks high-impact events like central bank interest rate decisions, Non-Farm Payrolls (NFP), GDP releases, the Consumer Price Index (CPI), and unemployment data, marked with three stars for significant market volatility. Tradingeconomics.com provides a table with actual values, consensus figures, forecasts, and historical data for economic indicators from 196 countries, including Industrial Production YoY AUG, 12-Month BOT Auction, ECB Cipollone Speech, Foreign Exchange Reserves, and Inflation Rate MoM SEP. TradingView's Economic Calendar shows upcoming economic events affecting assets, regions, and markets, customizable by region and with short explainers of events and expert forecasts.",
     "body": [
-      "# Calendar\n\n## How to use Economic Calendar\n\nEconomic Calendar on TradingView shows the latest and upcoming economic events that can affect certain assets, regions, and global markets — for example, stocks, Forex, or bonds. [...] All events are in chronological order and linked with economic indicators like interest rates or GDP. The calendar is customizable: one click will give you a weekly economic calendar, another — narrow it down to US economic calendar only. Plus, you will see short explainers of the events and forecasts from experts. Just set your calendar and prepare for the next trade.\n\nLearn more about the Economic Calendar features in our Help Center.\n\n## Frequently asked questions",
-      "## This page displays a table with actual values, consensus figures, forecasts, statistics and historical data charts for - Economic Calendar. This calendar provides events for 196 countries including data releases for 300.000 economic indicators, actual values, consensus figures and proprietary forecasts.\n\nIOs app on Apple\nAndroid app on Google Play [...] +3:30 UTC +4 UTC +4:30 UTC +5 UTC +5:30 UTC +5:45 UTC +6 UTC +7 UTC +8 UTC +9 UTC +9:30 UTC +10 UTC +10:30 UTC +11 UTC +12 UTC +13 UTC +14 |  | [...] | 12:30 AM | |  |  |  --- | |  | AU | | Private House Approvals MoM Final AUG |  | -1.9% | 3.7% | 3.7% |  |  |  |\n| 02:30 AM | |  |  |  --- | |  | KR | | 30-Year KTB Auction |  | 4.630% |  |  |  |  |  |\n| 03:00 AM | |  |  |  --- | |  | ID | | Foreign Exchange Reserves SEP |  | $146.5B |  | $ 1440B |  |  |  |\n| 03:35 AM | |  |  |  --- | |  | JP | | BoJ JGB Purchase |  |  |  |  |  |  |  |\n| 04:30 AM | |  |  |  --- | |  | IN | | RBI Interest Rate Decision |  | 5.25% | 5.5% | 5.5% |  |  |  |",
-      "You can use our economic and trading calendar to browse or search for upcoming macroeconomic events, earnings and dividends announcements, initial public offerings (IPOs) and stock splits – there’s a dedicated tab for each.\n\nHere are some ways in which you can use the calendar:\n\n### General browsing\n\n Select a tab\n Scroll through the listed events\n Move on to another tab to continue browsing\n\n### Looking for a specific event"
+      "The Economic Calendar is a real-time, streaming schedule of economic events and data releases that can move financial markets. It tracks indicators such as GDP, inflation, employment figures, interest rate decisions, manufacturing PMI, consumer confidence, and central bank speeches from countries around the world.\n\n### What do the star icons next to each event mean? [...] Our real-time Economic Calendar keeps track of all financial events and economic indicators that drive the markets. The Economic Calendar contains a full descriptions of the events and their relative importance in affecting the market, in addition to previous, forecast and actual figures as they're announced.\n\nReady to Act on Market Events? \n\nCompare Brokers\n\n Economic Calendar\n Holidays\n Earnings\n Dividends\n Splits\n IPO\n Expiration\n\nYesterdayTodayTomorrowThis WeekNext WeekCustom dates [...] The highest-impact events include central bank interest rate decisions, Non-Farm Payrolls (NFP), GDP releases, the Consumer Price Index (CPI), and unemployment data. These are typically marked with three stars on the calendar because they can cause significant volatility across forex, equities, commodities, and bond markets. Filtering by high importance is a quick way to focus on the releases most likely to move prices.\n\n### How can I filter and customize the Economic Calendar?",
+      "|  |  |\n --- |\n|  | RU |\n\n|  |  |\n --- |\n|  | US |\n\n|  |  |\n --- |\n|  | DE |\n\n|  |  |\n --- |\n|  | BR |\n\nTo learn more about our Calendar API documentation.\n\n# Economic Calendar\n\n## This page displays a table with actual values, consensus figures, forecasts, statistics and historical data charts for - Economic Calendar. This calendar provides events for 196 countries including data releases for 300.000 economic indicators, actual values, consensus figures and proprietary forecasts. [...] +3:30 UTC +4 UTC +4:30 UTC +5 UTC +5:30 UTC +5:45 UTC +6 UTC +7 UTC +8 UTC +9 UTC +9:30 UTC +10 UTC +10:30 UTC +11 UTC +12 UTC +13 UTC +14 |  | [...] | 08:00 AM | |  |  |  --- | |  | IT | | Industrial Production YoY AUG |  | 0% |  | -0.3% |  |  |  |\n| 09:10 AM | |  |  |  --- | |  | IT | | 12-Month BOT Auction |  | 2.967% |  |  |  |  |  |\n| 10:15 AM | |  |  |  --- | |  | EA | | ECB Cipollone Speech |  |  |  |  |  |  |  |\n| 11:30 AM | |  |  |  --- | |  | IN | | Foreign Exchange Reserves OCT/02 |  | $747.56B |  | $ 710B |  |  |  |\n| 12:00 PM | |  |  |  --- | |  | BR | | Inflation Rate MoM SEP |  | -0.32% |  | 0.5% |  |  |  |",
+      "# Calendar\n\n## How to use Economic Calendar\n\nEconomic Calendar on TradingView shows the latest and upcoming economic events that can affect certain assets, regions, and global markets — for example, stocks, Forex, or bonds. [...] All events are in chronological order and linked with economic indicators like interest rates or GDP. The calendar is customizable: one click will give you a weekly economic calendar, another — narrow it down to US economic calendar only. Plus, you will see short explainers of the events and forecasts from experts. Just set your calendar and prepare for the next trade.\n\nLearn more about the Economic Calendar features in our Help Center.\n\n## Frequently asked questions"
     ],
     "keyTakeaways": [
-      "The sources provide details on economic calendars from TradingView, Trading Economics, and IG. TradingView's Economic Ca",
-      "# Calendar\n\n## How to use Economic Calendar\n\nEconomic Calendar on TradingView shows the latest and upcoming economic eve",
-      "## This page displays a table with actual values, consensus figures, forecasts, statistics and historical data charts fo"
+      "The Economic Calendar on Investing.com tracks high-impact events like central bank interest rate decisions, Non-Farm Pay",
+      "The Economic Calendar is a real-time, streaming schedule of economic events and data releases that can move financial ma",
+      "|  |  |\n --- |\n|  | RU |\n\n|  |  |\n --- |\n|  | US |\n\n|  |  |\n --- |\n|  | DE |\n\n|  |  |\n --- |\n|  | BR |\n\nTo learn more ab"
     ],
     "source": "tradingeconomics.com",
     "sourceUrl": "https://tradingeconomics.com/calendar"
   },
-  "readingTime": 3,
-  "updatedAt": "2026-10-02T04:48:35.793Z",
+  "readingTime": 4,
+  "updatedAt": "2026-10-03T04:31:13.371Z",
   "images": {
     "thumbnail": {
-      "src": "/images/article_thumb_3.jpg",
+      "src": "/images/article_thumb_5.jpg",
       "alt": "Economic Calendar"
     },
     "hero": {
-      "src": "/images/article_thumb_2.jpg",
+      "src": "/images/article_thumb_3.jpg",
       "alt": "Economic Calendar"
     },
     "mid": {
-      "src": "/images/article_thumb_3.jpg",
+      "src": "/images/article_thumb_4.jpg",
       "alt": "Economic Calendar"
     }
   },
   "image": {
-    "src": "/images/article_thumb_4.jpg",
+    "src": "/images/article_thumb_5.jpg",
     "alt": "Economic Calendar"
   }
 }
