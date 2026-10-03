@@ -42,6 +42,27 @@
     "readingTime": 3
   },
   {
+    "id": "ahead-of-wall-street-daily-stock-market-outlook",
+    "type": "news",
+    "title": "Ahead of Wall Street - Daily Stock Market Outlook",
+    "slug": "ahead-of-wall-street-daily-stock-market-outlook",
+    "date": "2026-10-03",
+    "displayDate": "October 3, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Immediately upon the release of a lackluster jobs report, bond yields decreased: the 10-year yield went from +5.226% to +5.167%, the 2-year from +4.775% to +4.7",
+    "excerpt": "Immediately upon the release of a lackluster jobs report, bond yields decreased: the 10-year yield went from +5.226% to +5.167%, the 2-year from +4.775% to +4.716%, and the 30-year from +5.592% to +5.572%. Major stock market indexes responded positively: the Dow rose +460 points, the Nasdaq +375, an",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Ahead of Wall Street - Daily Stock Market Outlook"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "asian-financial-markets-investing-com",
     "type": "news",
     "title": "Asian Financial Markets - Investing.com",
@@ -374,6 +395,27 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "Economic Calendar"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "economic-indicators-calendar-federal-reserve-bank-of-new-york",
+    "type": "news",
+    "title": "Economic Indicators Calendar - FEDERAL RESERVE BANK of NEW YORK",
+    "slug": "economic-indicators-calendar-federal-reserve-bank-of-new-york",
+    "date": "2026-10-03",
+    "displayDate": "October 3, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "On October 3, 2026, the Federal Reserve Bank of New York's Economic Indicators Calendar lists several key economic reports scheduled for release. On Thursday, i",
+    "excerpt": "On October 3, 2026, the Federal Reserve Bank of New York's Economic Indicators Calendar lists several key economic reports scheduled for release. On Thursday, initial claims, construction data, ISM Manufacturing, multivariate core trend inflation, and the weekly economic index are all set for releas",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Economic Indicators Calendar - FEDERAL RESERVE BANK of NEW YORK"
     },
     "readingTime": 4
   },
@@ -1092,6 +1134,27 @@
     "readingTime": 4
   },
   {
+    "id": "the-fed-federal-open-market-committee",
+    "type": "news",
+    "title": "The Fed - Federal Open Market Committee",
+    "slug": "the-fed-federal-open-market-committee",
+    "date": "2026-10-03",
+    "displayDate": "October 3, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Open Market Committee (FOMC) is a committee within the Federal Reserve System that oversees the nation's open market operations and makes key decisi",
+    "excerpt": "The Federal Open Market Committee (FOMC) is a committee within the Federal Reserve System that oversees the nation's open market operations and makes key decisions about interest rates and the growth of the U.S. money supply. The FOMC consists of twelve members: the seven members of the Board of Gov",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "The Fed - Federal Open Market Committee"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "this-week-s-best-performing-stocks-sectors-industries-rankings",
     "type": "news",
     "title": "This Week's Best Performing Stocks, Sectors, Industries Rankings",
@@ -1323,6 +1386,27 @@
     "readingTime": 4
   },
   {
+    "id": "when-is-the-next-fomc-meeting-equals-money",
+    "type": "news",
+    "title": "When is the next FOMC meeting? | Equals Money",
+    "slug": "when-is-the-next-fomc-meeting-equals-money",
+    "date": "2026-10-03",
+    "displayDate": "October 3, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The next FOMC meeting is scheduled for April 28–29, 2026, according to Equals Money. However, FedRateCalc indicates the next FOMC meeting is July 28–29, 2026. T",
+    "excerpt": "The next FOMC meeting is scheduled for April 28–29, 2026, according to Equals Money. However, FedRateCalc indicates the next FOMC meeting is July 28–29, 2026. The sources do not provide a definitive answer.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "When is the next FOMC meeting? | Equals Money"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "yahoo-finance-stock-market-live-quotes-business-finance-news",
     "type": "news",
     "title": "Yahoo Finance - Stock Market Live, Quotes, Business & Finance News",
@@ -1447,27 +1531,6 @@
       "alt": "Earnings Calendar and Analysis for This Week (Sept. 28-Oct. 2) | Kiplinger"
     },
     "readingTime": 3
-  },
-  {
-    "id": "economic-indicators-calendar-federal-reserve-bank-of-new-york",
-    "type": "news",
-    "title": "Economic Indicators Calendar - FEDERAL RESERVE BANK of NEW YORK",
-    "slug": "economic-indicators-calendar-federal-reserve-bank-of-new-york",
-    "date": "2026-10-02",
-    "displayDate": "October 2, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "On October 2, 2026, the Federal Reserve Bank of New York's Economic Indicators Calendar lists several key economic releases, including Initial Claims at 08:30, ",
-    "excerpt": "On October 2, 2026, the Federal Reserve Bank of New York's Economic Indicators Calendar lists several key economic releases, including Initial Claims at 08:30, ConstructionPDF, ISM Manufacturing, Multivariate Core Trend Inflation, and the Weekly Economic Index at 11:30. The following day, October 3,",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Economic Indicators Calendar - FEDERAL RESERVE BANK of NEW YORK"
-    },
-    "readingTime": 4
   },
   {
     "id": "how-to-build-an-investment-portfolio-in-2026-xtb",
@@ -1741,27 +1804,6 @@
       "alt": "What The Stock Market Performance Look Like Today - The place Gwinnett residents trust to explain what’s happening—and what to do next."
     },
     "readingTime": 3
-  },
-  {
-    "id": "when-is-the-next-fomc-meeting-equals-money",
-    "type": "news",
-    "title": "When is the next FOMC meeting? | Equals Money",
-    "slug": "when-is-the-next-fomc-meeting-equals-money",
-    "date": "2026-10-02",
-    "displayDate": "October 2, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The next FOMC meeting is scheduled for April 28–29, 2026, according to Equals Money. However, FedRateCalc indicates the next FOMC meeting is July 28–29, 2026. T",
-    "excerpt": "The next FOMC meeting is scheduled for April 28–29, 2026, according to Equals Money. However, FedRateCalc indicates the next FOMC meeting is July 28–29, 2026. The sources do not provide a definitive answer.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "When is the next FOMC meeting? | Equals Money"
-    },
-    "readingTime": 4
   },
   {
     "id": "7-good-ideas-for-new-investors-charles-schwab",
@@ -2075,27 +2117,6 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "Stock Earnings Calendar | Earnings Reports Today & This Week - Stocktwits"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "the-fed-federal-open-market-committee",
-    "type": "news",
-    "title": "The Fed - Federal Open Market Committee",
-    "slug": "the-fed-federal-open-market-committee",
-    "date": "2026-10-01",
-    "displayDate": "October 1, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Open Market Committee (FOMC) is a committee within the Federal Reserve System responsible for overseeing the nation's open market operations and mak",
-    "excerpt": "The Federal Open Market Committee (FOMC) is a committee within the Federal Reserve System responsible for overseeing the nation's open market operations and making key decisions about interest rates and the growth of the United States money supply. The FOMC consists of twelve members: the seven memb",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "The Fed - Federal Open Market Committee"
     },
     "readingTime": 4
   },
@@ -4154,27 +4175,6 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "5 Strategies to Navigate Market Volatility | Morgan Stanley"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "ahead-of-wall-street-daily-stock-market-outlook",
-    "type": "news",
-    "title": "Ahead of Wall Street - Daily Stock Market Outlook",
-    "slug": "ahead-of-wall-street-daily-stock-market-outlook",
-    "date": "2026-09-05",
-    "displayDate": "September 5, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "On September 3, 2026, the Dow Jones was up +250 points, the S&P 500 +10, and the Nasdaq -14. Bond yields dropped, and oil prices remained high due to U.S.-Iran ",
-    "excerpt": "On September 3, 2026, the Dow Jones was up +250 points, the S&P 500 +10, and the Nasdaq -14. Bond yields dropped, and oil prices remained high due to U.S.-Iran tensions. The U.S. trade deficit was -$88.6 billion in July.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Ahead of Wall Street - Daily Stock Market Outlook"
     },
     "readingTime": 3
   },
