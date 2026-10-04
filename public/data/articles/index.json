@@ -4,18 +4,18 @@
     "type": "news",
     "title": "12-month percentage change, Consumer Price Index, selected categories",
     "slug": "12-month-percentage-change-consumer-price-index-selected-categories",
-    "date": "2026-10-03",
-    "displayDate": "October 3, 2026",
+    "date": "2026-10-04",
+    "displayDate": "October 4, 2026",
     "category": "Economic Data",
     "tags": [
       "economic data",
       "financial news",
       "market update"
     ],
-    "metaDescription": "For the 12-month percentage change in the Consumer Price Index for selected categories as of August 2026, the U.S. Bureau of Labor Statistics reports: All items",
-    "excerpt": "For the 12-month percentage change in the Consumer Price Index for selected categories as of August 2026, the U.S. Bureau of Labor Statistics reports: All items at 3.4%, Food at 2.7%, Food at home at 2.2%, Meats, poultry, fish, and eggs at 1.1%, Dairy and related products at -0.3%, Fruits and vegeta",
+    "metaDescription": "The 12-month percentage change in the Consumer Price Index for selected categories as of August 2026 is as follows: All items at 3.4%, Food at 2.7%, Food at hom",
+    "excerpt": "The 12-month percentage change in the Consumer Price Index for selected categories as of August 2026 is as follows: All items at 3.4%, Food at 2.7%, Food at home at 2.2%, Cereals and bakery products at 2.6%, Meats, poultry, fish, and eggs at 1.1%, Dairy and related products at -0.3%, Fruits and vege",
     "image": {
-      "src": "/images/article_thumb_2.jpg",
+      "src": "/images/article_thumb_3.jpg",
       "alt": "12-month percentage change, Consumer Price Index, selected categories"
     },
     "readingTime": 3
@@ -25,8 +25,8 @@
     "type": "news",
     "title": "2026 Investment Outlook: Themes for Portfolio Strategies",
     "slug": "2026-investment-outlook-themes-for-portfolio-strategies",
-    "date": "2026-10-03",
-    "displayDate": "October 3, 2026",
+    "date": "2026-10-04",
+    "displayDate": "October 4, 2026",
     "category": "Investment Strategies",
     "tags": [
       "investment strategies",
@@ -34,12 +34,579 @@
       "market update"
     ],
     "metaDescription": "The 2026 investment outlook emphasizes increasing exposure to small caps and emerging markets, staying overweight in equities while diversifying globally, prepa",
-    "excerpt": "The 2026 investment outlook emphasizes increasing exposure to small caps and emerging markets, staying overweight in equities while diversifying globally, preparing for shifting sector leadership, using fixed income for ballast, and deploying excess cash. For qualified investors, alternative investm",
+    "excerpt": "The 2026 investment outlook emphasizes increasing exposure to small caps and emerging markets, staying overweight in equities while diversifying globally, preparing for shifting sector leadership, using fixed income for ballast, deploying excess cash, and considering alternative investments for qual",
     "image": {
-      "src": "/images/article_thumb_1.jpg",
+      "src": "/images/article_thumb_5.jpg",
       "alt": "2026 Investment Outlook: Themes for Portfolio Strategies"
     },
     "readingTime": 3
+  },
+  {
+    "id": "abc-news-breaking-news-latest-news-and-videos",
+    "type": "news",
+    "title": "ABC News - Breaking News, Latest News and Videos",
+    "slug": "abc-news-breaking-news-latest-news-and-videos",
+    "date": "2026-10-04",
+    "displayDate": "October 4, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The sources report several news items including North Korea's anthem being played at a South Korean hockey match, Taiwan conducting joint military drills using ",
+    "excerpt": "The sources report several news items including North Korea's anthem being played at a South Korean hockey match, Taiwan conducting joint military drills using attack drones, an Australian man accused of murder appearing in a Thailand court, and Africa's urban waste crisis. They also mention Russia'",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "ABC News - Breaking News, Latest News and Videos"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "august-2026-us-stock-sector-focus-healthcare-leads-tech-rotation-algo-lab",
+    "type": "news",
+    "title": "August 2026 US Stock Sector Focus: Healthcare Leads, Tech Rotation | Algo Lab",
+    "slug": "august-2026-us-stock-sector-focus-healthcare-leads-tech-rotation-algo-lab",
+    "date": "2026-10-04",
+    "displayDate": "October 4, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "In August 2026, the US stock market is experiencing a sector rotation with Healthcare leading, as indicated by a 12-month return of 16.0% driven by attractive v",
+    "excerpt": "In August 2026, the US stock market is experiencing a sector rotation with Healthcare leading, as indicated by a 12-month return of 16.0% driven by attractive valuation, low volatility, strong earnings, and expansion in the GLP-1 obesity drug market. Meanwhile, the technology sector is facing concen",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "August 2026 US Stock Sector Focus: Healthcare Leads, Tech Rotation | Algo Lab"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "bitcoin-price-today-steadies-at-95-5k-with-us-crypto-market-bill-in-focus-by-inv",
+    "type": "news",
+    "title": "Bitcoin price today: steadies at $95.5k with US crypto market bill in focus By Investing.com",
+    "slug": "bitcoin-price-today-steadies-at-95-5k-with-us-crypto-market-bill-in-focus-by-inv",
+    "date": "2026-10-04",
+    "displayDate": "October 4, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin price today steadied at $95,579.0 by 09:47 ET (14:47 GMT), hovering around its strongest level in two months, according to Investing.com. This recovery ",
+    "excerpt": "Bitcoin price today steadied at $95,579.0 by 09:47 ET (14:47 GMT), hovering around its strongest level in two months, according to Investing.com. This recovery followed a sluggish start to the year, with the cryptocurrency still remaining well below the $100,000 level. The stabilization occurred as ",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Bitcoin price today: steadies at $95.5k with US crypto market bill in focus By Investing.com"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "breaking-news-latest-news-and-videos-cnn",
+    "type": "news",
+    "title": "Breaking News, Latest News and Videos | CNN",
+    "slug": "breaking-news-latest-news-and-videos-cnn",
+    "date": "2026-10-04",
+    "displayDate": "October 4, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The sources indicate that US President Donald Trump spoke at a campaign rally in Oklahoma, and the Coast Guard is searching for six people aboard a missing medi",
+    "excerpt": "The sources indicate that US President Donald Trump spoke at a campaign rally in Oklahoma, and the Coast Guard is searching for six people aboard a missing medical transport aircraft off the coast of Nantucket. Additionally, there is coverage of the execution of Anthony Darrell Hines in Tennessee an",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Breaking News, Latest News and Videos | CNN"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "crypto-market-today-200m-derisk-ahead-of-fomc-what-s-next-for-bitcoin-ethereum-a",
+    "type": "news",
+    "title": "Crypto Market Today: $200M Derisk Ahead of FOMC, What’s Next for Bitcoin, Ethereum and Solana Price?",
+    "slug": "crypto-market-today-200m-derisk-ahead-of-fomc-what-s-next-for-bitcoin-ethereum-a",
+    "date": "2026-10-04",
+    "displayDate": "October 4, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The crypto market saw more than $200 million liquidations today ahead of the Fed's decision on interest rates, with Bitcoin, Ethereum, and Solana prices experie",
+    "excerpt": "The crypto market saw more than $200 million liquidations today ahead of the Fed's decision on interest rates, with Bitcoin, Ethereum, and Solana prices experiencing volatility depending on the Fed's sentiments on inflation. Bitcoin was trading at $82,881, Ethereum at $2,651, and Solana at $118, all",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Crypto Market Today: $200M Derisk Ahead of FOMC, What’s Next for Bitcoin, Ethereum and Solana Price?"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "crypto-news-today-bitcoin-near-80k-as-market-jumps-2",
+    "type": "news",
+    "title": "Crypto News Today: Bitcoin Near $80K as Market Jumps 2%",
+    "slug": "crypto-news-today-bitcoin-near-80k-as-market-jumps-2",
+    "date": "2026-10-04",
+    "displayDate": "October 4, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin briefly topped $80,000, the highest level since late January, with a jump of as much as 2% on Sunday night, according to Yahoo Finance. CNBC reported Bi",
+    "excerpt": "Bitcoin briefly topped $80,000, the highest level since late January, with a jump of as much as 2% on Sunday night, according to Yahoo Finance. CNBC reported Bitcoin surged past the $80,000 mark on Tuesday, with a jump over 2% to $80,501, driven by renewed inflows into spot bitcoin ETFs and improvin",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Crypto News Today: Bitcoin Near $80K as Market Jumps 2%"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "current-u-s-inflation-rate-is-3-4-chart-and-why-it-matters-nerdwallet",
+    "type": "news",
+    "title": "Current U.S. Inflation Rate Is 3.4%: Chart and Why It Matters - NerdWallet",
+    "slug": "current-u-s-inflation-rate-is-3-4-chart-and-why-it-matters-nerdwallet",
+    "date": "2026-10-04",
+    "displayDate": "October 4, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The sources indicate that the current U.S. inflation rate is 3.4%, as of July 2026. This inflation rate is measured by the Consumer Price Index (CPI), which tra",
+    "excerpt": "The sources indicate that the current U.S. inflation rate is 3.4%, as of July 2026. This inflation rate is measured by the Consumer Price Index (CPI), which tracks the price fluctuations of a \"basket of goods and services\" over time. The sources also mention that the core inflation rate, excluding f",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Current U.S. Inflation Rate Is 3.4%: Chart and Why It Matters - NerdWallet"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "earnings-calendar-investing-com",
+    "type": "news",
+    "title": "Earnings Calendar - Investing.com",
+    "slug": "earnings-calendar-investing-com",
+    "date": "2026-10-04",
+    "displayDate": "October 4, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Investing.com Earnings Calendar is a free tool that tracks earnings report dates for publicly traded companies worldwide. It displays EPS and Revenue foreca",
+    "excerpt": "The Investing.com Earnings Calendar is a free tool that tracks earnings report dates for publicly traded companies worldwide. It displays EPS and Revenue forecasts alongside actual results once released, allowing users to compare analyst expectations with reported outcomes in a single view. By defau",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Earnings Calendar - Investing.com"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "earnings-calendar-leverage-shares",
+    "type": "news",
+    "title": "Earnings Calendar | Leverage Shares",
+    "slug": "earnings-calendar-leverage-shares",
+    "date": "2026-10-04",
+    "displayDate": "October 4, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "On the earnings calendar for Leverage Shares, the companies scheduled to report earnings on October 26, 2026, are Cadence Design Systems (CDNS). On October 27, ",
+    "excerpt": "On the earnings calendar for Leverage Shares, the companies scheduled to report earnings on October 26, 2026, are Cadence Design Systems (CDNS). On October 27, 2026, the companies scheduled to report earnings are PayPal Holdings (PYPG), SK Hynix (SKHX), Teradyne (TERG), Bloom Energy Corporation (BEG",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Earnings Calendar | Leverage Shares"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "earnings-calendar-marketwatch",
+    "type": "news",
+    "title": "Earnings Calendar | Marketwatch",
+    "slug": "earnings-calendar-marketwatch",
+    "date": "2026-10-04",
+    "displayDate": "October 4, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The sources provide details on several upcoming earnings reports for companies such as Micron Technology Inc. (MU) on 08/31/2026, Progress Software Corp. (PRGS)",
+    "excerpt": "The sources provide details on several upcoming earnings reports for companies such as Micron Technology Inc. (MU) on 08/31/2026, Progress Software Corp. (PRGS) on 08/31/2026, and CarMax Inc. (KMX) on 08/31/2026. Micron Technology Inc. is forecasted to report earnings per share (EPS) of $31.77, with",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Earnings Calendar | Marketwatch"
+    },
+    "readingTime": 5
+  },
+  {
+    "id": "economic-calendar",
+    "type": "news",
+    "title": "Economic Calendar",
+    "slug": "economic-calendar",
+    "date": "2026-10-04",
+    "displayDate": "October 4, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The sources provide details on economic calendars from TradingView, Trading Economics, and IG International. TradingView's Economic Calendar shows upcoming econ",
+    "excerpt": "The sources provide details on economic calendars from TradingView, Trading Economics, and IG International. TradingView's Economic Calendar shows upcoming economic events affecting assets, regions, and global markets, with customizable options and expert forecasts. Trading Economics' calendar provi",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Economic Calendar"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "economic-indicators-calendar-federal-reserve-bank-of-new-york",
+    "type": "news",
+    "title": "Economic Indicators Calendar - FEDERAL RESERVE BANK of NEW YORK",
+    "slug": "economic-indicators-calendar-federal-reserve-bank-of-new-york",
+    "date": "2026-10-04",
+    "displayDate": "October 4, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "On October 4, 2026, the Federal Reserve Bank of New York's Economic Indicators Calendar lists several key economic reports scheduled for release, including Init",
+    "excerpt": "On October 4, 2026, the Federal Reserve Bank of New York's Economic Indicators Calendar lists several key economic reports scheduled for release, including Initial Claims at 08:30, ConstructionPDF and ISM Manufacturing both at 10:00, Multivariate Core Trend Inflation and Weekly Economic Index both a",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Economic Indicators Calendar - FEDERAL RESERVE BANK of NEW YORK"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "economic-news-releases-u-s-bureau-of-labor-statistics",
+    "type": "news",
+    "title": "Economic News Releases :  U.S. Bureau of Labor Statistics",
+    "slug": "economic-news-releases-u-s-bureau-of-labor-statistics",
+    "date": "2026-10-04",
+    "displayDate": "October 4, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The U.S. Bureau of Labor Statistics released several economic indicators as of October 4, 2026. The Employment Cost Index (ECI) increased by 0.9% in the second ",
+    "excerpt": "The U.S. Bureau of Labor Statistics released several economic indicators as of October 4, 2026. The Employment Cost Index (ECI) increased by 0.9% in the second quarter of 2026. Productivity saw a 1.4% increase in the same period. The U.S. Import Price Index rose by 0.7% in August 2026, and the U.S. ",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Economic News Releases :  U.S. Bureau of Labor Statistics"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "federal-open-market-committee-wikipedia",
+    "type": "news",
+    "title": "Federal Open Market Committee - Wikipedia",
+    "slug": "federal-open-market-committee-wikipedia",
+    "date": "2026-10-04",
+    "displayDate": "October 4, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Open Market Committee (FOMC) is a committee within the Federal Reserve System that oversees the nation's open market operations, including the buyin",
+    "excerpt": "The Federal Open Market Committee (FOMC) is a committee within the Federal Reserve System that oversees the nation's open market operations, including the buying and selling of U.S. Treasury securities. It makes key decisions about interest rates and the growth of the U.S. money supply. The FOMC is ",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Federal Open Market Committee - Wikipedia"
+    },
+    "readingTime": 5
+  },
+  {
+    "id": "federal-reserve-meeting-calendar-mni",
+    "type": "news",
+    "title": "Federal Reserve Meeting Calendar | MNI",
+    "slug": "federal-reserve-meeting-calendar-mni",
+    "date": "2026-10-04",
+    "displayDate": "October 4, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The next Federal Reserve meeting is scheduled for October 27-28, 2026, with a decision expected on October 28 at 06:00 pm. For 2027, the tentative meeting sched",
+    "excerpt": "The next Federal Reserve meeting is scheduled for October 27-28, 2026, with a decision expected on October 28 at 06:00 pm. For 2027, the tentative meeting schedule includes dates such as January 26-27, March 16-17, April 27-28, June 8-9, July 27-28, September 14-15, October 26-27, and December 7-8. ",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Federal Reserve Meeting Calendar | MNI"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "geekwire-breaking-news-in-technology-business",
+    "type": "news",
+    "title": "GeekWire – Breaking News in Technology & Business",
+    "slug": "geekwire-breaking-news-in-technology-business",
+    "date": "2026-10-04",
+    "displayDate": "October 4, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The sources report that startup Ravel has raised $8.2M to address the spandex problem in clothing recycling, UW, Microsoft, and E8 are backing a climate tech in",
+    "excerpt": "The sources report that startup Ravel has raised $8.2M to address the spandex problem in clothing recycling, UW, Microsoft, and E8 are backing a climate tech incubator focused on data centers amid surging AI energy concerns, and Helion's funding round has grown to $500M with its Seattle office openi",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "GeekWire – Breaking News in Technology & Business"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "healthcare-stock-performance-yahoo-finance",
+    "type": "news",
+    "title": "Healthcare Stock Performance - Yahoo Finance",
+    "slug": "healthcare-stock-performance-yahoo-finance",
+    "date": "2026-10-04",
+    "displayDate": "October 4, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The healthcare sector's performance on Yahoo Finance shows varied results for key companies. UnitedHealth Group Incorporated (UNH) is trading at $373.38 with a ",
+    "excerpt": "The healthcare sector's performance on Yahoo Finance shows varied results for key companies. UnitedHealth Group Incorporated (UNH) is trading at $373.38 with a 4.28% market weight and a YTD return of +13.11%. Johnson & Johnson (JNJ) is at $267.10 with an 8.21% market weight and a YTD return of +29.0",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Healthcare Stock Performance - Yahoo Finance"
+    },
+    "readingTime": 5
+  },
+  {
+    "id": "investment-strategy-2026-portfolio-moves-for-a-changing-market",
+    "type": "news",
+    "title": "Investment Strategy 2026 Portfolio Moves for a Changing Market",
+    "slug": "investment-strategy-2026-portfolio-moves-for-a-changing-market",
+    "date": "2026-10-04",
+    "displayDate": "October 4, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "For 2026 investment strategy, the sources suggest increasing exposure to small caps and emerging markets, staying overweight in equities while diversifying glob",
+    "excerpt": "For 2026 investment strategy, the sources suggest increasing exposure to small caps and emerging markets, staying overweight in equities while diversifying globally, preparing for shifting sector leadership, using fixed income for ballast, and deploying excess cash. Alternative investments may be co",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Investment Strategy 2026 Portfolio Moves for a Changing Market"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "monthly-stock-sector-outlook-charles-schwab",
+    "type": "news",
+    "title": "Monthly Stock Sector Outlook | Charles Schwab",
+    "slug": "monthly-stock-sector-outlook-charles-schwab",
+    "date": "2026-10-04",
+    "displayDate": "October 4, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The sources provide information on the sectors covered by Charles Schwab's Monthly Stock Sector Outlook, including the Materials, Real Estate, Energy, and Finan",
+    "excerpt": "The sources provide information on the sectors covered by Charles Schwab's Monthly Stock Sector Outlook, including the Materials, Real Estate, Energy, and Financials sectors. The outlook combines a factor-based approach with a market and economic assessment to determine ratings. The sources do not p",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Monthly Stock Sector Outlook | Charles Schwab"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "s-p-500-index-sp500-analysis-news-and-chart-today-seeking-alpha",
+    "type": "news",
+    "title": "S&P 500 Index (SP500) Analysis, News, And Chart Today | Seeking Alpha",
+    "slug": "s-p-500-index-sp500-analysis-news-and-chart-today-seeking-alpha",
+    "date": "2026-10-04",
+    "displayDate": "October 4, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The sources indicate that the S&P 500 Index (SP500) and S&P 500 Futures (SPX) are being analyzed for various factors including labor market trends, bond yields,",
+    "excerpt": "The sources indicate that the S&P 500 Index (SP500) and S&P 500 Futures (SPX) are being analyzed for various factors including labor market trends, bond yields, and the impact of the September jobs report. The labor market is described as \"quiet, but firm,\" with bond yields normalizing as the three-",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "S&P 500 Index (SP500) Analysis, News, And Chart Today | Seeking Alpha"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "six-portfolio-strategy-ideas-for-2026",
+    "type": "news",
+    "title": "Six portfolio strategy ideas for 2026",
+    "slug": "six-portfolio-strategy-ideas-for-2026",
+    "date": "2026-10-04",
+    "displayDate": "October 4, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The sources provide six portfolio strategy ideas for 2026: increase exposure to small caps and emerging markets, stay overweight equities but diversify globally",
+    "excerpt": "The sources provide six portfolio strategy ideas for 2026: increase exposure to small caps and emerging markets, stay overweight equities but diversify globally, prepare for shifting sector leadership, use fixed income for ballast, deploy excess cash, and for qualified investors, consider alternativ",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Six portfolio strategy ideas for 2026"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "stock-market-will-s-p-500-open-up-or-down-today-benzinga",
+    "type": "news",
+    "title": "Stock Market: Will S&P 500 Open Up or Down Today? - Benzinga",
+    "slug": "stock-market-will-s-p-500-open-up-or-down-today-benzinga",
+    "date": "2026-10-04",
+    "displayDate": "October 4, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The sources indicate that U.S. stock futures are broadly lower early Tuesday as Wall Street returns from the long Labor Day weekend, facing historical post-holi",
+    "excerpt": "The sources indicate that U.S. stock futures are broadly lower early Tuesday as Wall Street returns from the long Labor Day weekend, facing historical post-holiday headwinds and surging oil prices. The Polymarket crowd is leaning heavily bearish for the Sept. 8 trading session, with a 28% chance of ",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Stock Market: Will S&P 500 Open Up or Down Today? - Benzinga"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "techcrunch-startup-and-technology-news",
+    "type": "news",
+    "title": "TechCrunch | Startup and Technology News",
+    "slug": "techcrunch-startup-and-technology-news",
+    "date": "2026-10-04",
+    "displayDate": "October 4, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "TechCrunch is an American global online newspaper focusing on high-tech and startup companies, founded in June 2005 by Michael Arrington and Keith Teare. It was",
+    "excerpt": "TechCrunch is an American global online newspaper focusing on high-tech and startup companies, founded in June 2005 by Michael Arrington and Keith Teare. It was acquired by AOL in 2010 for approximately $25 million and later owned by Verizon Media from 2015 through 2021. TechCrunch hosts an annual t",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "TechCrunch | Startup and Technology News"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "technology-news",
+    "type": "news",
+    "title": "Technology News",
+    "slug": "technology-news",
+    "date": "2026-10-04",
+    "displayDate": "October 4, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The sources indicate significant developments in technology, particularly in AI and transportation sectors. TechNewsWorld highlights advancements in AI, robotic",
+    "excerpt": "The sources indicate significant developments in technology, particularly in AI and transportation sectors. TechNewsWorld highlights advancements in AI, robotics, and virtual reality, including malware threats and stolen browser cookies exposing users to account hijacking. TechCrunch reports on Goog",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Technology News"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "the-fed-federal-open-market-committee",
+    "type": "news",
+    "title": "The Fed - Federal Open Market Committee",
+    "slug": "the-fed-federal-open-market-committee",
+    "date": "2026-10-04",
+    "displayDate": "October 4, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Open Market Committee (FOMC) is a committee within the Federal Reserve System that oversees the nation's open market operations and makes key decisi",
+    "excerpt": "The Federal Open Market Committee (FOMC) is a committee within the Federal Reserve System that oversees the nation's open market operations and makes key decisions about interest rates and the growth of the United States money supply. The FOMC consists of twelve members: the seven members of the Boa",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "The Fed - Federal Open Market Committee"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "united-states-inflation-rate",
+    "type": "news",
+    "title": "United States Inflation Rate",
+    "slug": "united-states-inflation-rate",
+    "date": "2026-10-04",
+    "displayDate": "October 4, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The annual inflation rate in the United States was 3.4% for the 12 months ending August 2026, the same as in July, according to U.S. Labor Department data. The ",
+    "excerpt": "The annual inflation rate in the United States was 3.4% for the 12 months ending August 2026, the same as in July, according to U.S. Labor Department data. The inflation rate remained unchanged at 3.40 percent in August, according to Trading Economics. The next update is scheduled for October 14 at ",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "United States Inflation Rate"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "yahoo-news-latest-and-breaking-news-headlines-live-updates-and-more",
+    "type": "news",
+    "title": "Yahoo News: Latest and Breaking News, Headlines, Live Updates, and More",
+    "slug": "yahoo-news-latest-and-breaking-news-headlines-live-updates-and-more",
+    "date": "2026-10-04",
+    "displayDate": "October 4, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "According to Yahoo News, Canadian Prime Minister Mark Carney accused the U.S. owner of steelmaker Stelco, a subsidiary of Cleveland-Cliffs, of betraying Canadia",
+    "excerpt": "According to Yahoo News, Canadian Prime Minister Mark Carney accused the U.S. owner of steelmaker Stelco, a subsidiary of Cleveland-Cliffs, of betraying Canadian workers after announcing layoffs partly attributed to U.S. President Donald Trump’s tariffs, which Cleveland-Cliffs’ CEO Lourenco Goncalve",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Yahoo News: Latest and Breaking News, Headlines, Live Updates, and More"
+    },
+    "readingTime": 4
   },
   {
     "id": "ahead-of-wall-street-daily-stock-market-outlook",
@@ -101,48 +668,6 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "Asian Stock Market: Capital Markets News, Bond Market News, Commodities News, ETFs News"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "august-2026-us-stock-sector-focus-healthcare-leads-tech-rotation-algo-lab",
-    "type": "news",
-    "title": "August 2026 US Stock Sector Focus: Healthcare Leads, Tech Rotation | Algo Lab",
-    "slug": "august-2026-us-stock-sector-focus-healthcare-leads-tech-rotation-algo-lab",
-    "date": "2026-10-03",
-    "displayDate": "October 3, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "In August 2026, the US stock market is experiencing a sector rotation with Healthcare leading, as indicated by a 12-month return of 16.0% driven by attractive v",
-    "excerpt": "In August 2026, the US stock market is experiencing a sector rotation with Healthcare leading, as indicated by a 12-month return of 16.0% driven by attractive valuation, low volatility, strong earnings, and expansion in the GLP-1 obesity drug market. Meanwhile, the technology sector is facing concen",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "August 2026 US Stock Sector Focus: Healthcare Leads, Tech Rotation | Algo Lab"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "bitcoin-price-today-steadies-at-95-5k-with-us-crypto-market-bill-in-focus-by-inv",
-    "type": "news",
-    "title": "Bitcoin price today: steadies at $95.5k with US crypto market bill in focus By Investing.com",
-    "slug": "bitcoin-price-today-steadies-at-95-5k-with-us-crypto-market-bill-in-focus-by-inv",
-    "date": "2026-10-03",
-    "displayDate": "October 3, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Bitcoin price today steadied at $95.5k with US crypto market bill in focus. Investing.com reported Bitcoin steadied on Thursday after staging a recovery in rece",
-    "excerpt": "Bitcoin price today steadied at $95.5k with US crypto market bill in focus. Investing.com reported Bitcoin steadied on Thursday after staging a recovery in recent days. Another Investing.com article noted Bitcoin edged lower 0.9% to $95,579.0 by 09:47 ET (14:47 GMT), hovering around its strongest le",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Bitcoin price today: steadies at $95.5k with US crypto market bill in focus By Investing.com"
     },
     "readingTime": 3
   },
@@ -210,27 +735,6 @@
     "readingTime": 4
   },
   {
-    "id": "crypto-market-today-200m-derisk-ahead-of-fomc-what-s-next-for-bitcoin-ethereum-a",
-    "type": "news",
-    "title": "Crypto Market Today: $200M Derisk Ahead of FOMC, What’s Next for Bitcoin, Ethereum and Solana Price?",
-    "slug": "crypto-market-today-200m-derisk-ahead-of-fomc-what-s-next-for-bitcoin-ethereum-a",
-    "date": "2026-10-03",
-    "displayDate": "October 3, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The crypto market saw more than $200 million liquidations today ahead of the Fed's decision on interest rates, with Bitcoin, Ethereum, and Solana prices potenti",
-    "excerpt": "The crypto market saw more than $200 million liquidations today ahead of the Fed's decision on interest rates, with Bitcoin, Ethereum, and Solana prices potentially recording volatility depending on the Fed's sentiments on inflation. Bitcoin (BTC) and Ethereum (ETH) showed stabilization after a sell",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Crypto Market Today: $200M Derisk Ahead of FOMC, What’s Next for Bitcoin, Ethereum and Solana Price?"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "crypto-news-bitcoin-ethereum-xrp-news-crypto-news",
     "type": "news",
     "title": "Crypto News: Bitcoin, Ethereum & XRP News | crypto.news",
@@ -252,27 +756,6 @@
     "readingTime": 3
   },
   {
-    "id": "crypto-news-today-bitcoin-near-80k-as-market-jumps-2",
-    "type": "news",
-    "title": "Crypto News Today: Bitcoin Near $80K as Market Jumps 2%",
-    "slug": "crypto-news-today-bitcoin-near-80k-as-market-jumps-2",
-    "date": "2026-10-03",
-    "displayDate": "October 3, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "According to the sources, Bitcoin has surged past $80,000, reclaiming this significant level after a 5.75% daily jump. The crypto market rally has seen almost e",
-    "excerpt": "According to the sources, Bitcoin has surged past $80,000, reclaiming this significant level after a 5.75% daily jump. The crypto market rally has seen almost every major coin follow suit, with Bitcoin breaking through key levels at $67K, $70K, and $75K consecutively before reaching nearly $79.5K la",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Crypto News Today: Bitcoin Near $80K as Market Jumps 2%"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "earnings-calendar-and-analysis-for-this-week-october-5-9-kiplinger",
     "type": "news",
     "title": "Earnings Calendar and Analysis for This Week (October 5-9) | Kiplinger",
@@ -292,48 +775,6 @@
       "alt": "Earnings Calendar and Analysis for This Week (October 5-9) | Kiplinger"
     },
     "readingTime": 4
-  },
-  {
-    "id": "earnings-calendar-investing-com",
-    "type": "news",
-    "title": "Earnings Calendar - Investing.com",
-    "slug": "earnings-calendar-investing-com",
-    "date": "2026-10-03",
-    "displayDate": "October 3, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "On Monday, October 5, 2026, VinFast (VFS) and Park Aerospace (PKE) are scheduled to release their earnings reports. VinFast is expected to report a revenue of $",
-    "excerpt": "On Monday, October 5, 2026, VinFast (VFS) and Park Aerospace (PKE) are scheduled to release their earnings reports. VinFast is expected to report a revenue of $1.06 billion with a revenue surprise percentage of +0.64%. Park Aerospace is expected to report earnings per share (EPS) of $0.1381 and reve",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Earnings Calendar - Investing.com"
-    },
-    "readingTime": 5
-  },
-  {
-    "id": "earnings-calendar-marketwatch",
-    "type": "news",
-    "title": "Earnings Calendar | Marketwatch",
-    "slug": "earnings-calendar-marketwatch",
-    "date": "2026-10-03",
-    "displayDate": "October 3, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The MarketWatch Earnings Calendar lists upcoming earnings reports for publicly traded companies, including company names, reporting dates, estimated earnings pe",
-    "excerpt": "The MarketWatch Earnings Calendar lists upcoming earnings reports for publicly traded companies, including company names, reporting dates, estimated earnings per share (EPS), and conference call information. On October 3, 2026, notable companies scheduled to report include Micron Technology Inc. (MU",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Earnings Calendar | Marketwatch"
-    },
-    "readingTime": 5
   },
   {
     "id": "earnings-whispers",
@@ -374,69 +815,6 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "Earnings"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "economic-calendar",
-    "type": "news",
-    "title": "Economic Calendar",
-    "slug": "economic-calendar",
-    "date": "2026-10-03",
-    "displayDate": "October 3, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Economic Calendar on Investing.com tracks high-impact events like central bank interest rate decisions, Non-Farm Payrolls (NFP), GDP releases, the Consumer ",
-    "excerpt": "The Economic Calendar on Investing.com tracks high-impact events like central bank interest rate decisions, Non-Farm Payrolls (NFP), GDP releases, the Consumer Price Index (CPI), and unemployment data, marked with three stars for significant market volatility. Tradingeconomics.com provides a table w",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Economic Calendar"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "economic-indicators-calendar-federal-reserve-bank-of-new-york",
-    "type": "news",
-    "title": "Economic Indicators Calendar - FEDERAL RESERVE BANK of NEW YORK",
-    "slug": "economic-indicators-calendar-federal-reserve-bank-of-new-york",
-    "date": "2026-10-03",
-    "displayDate": "October 3, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "On October 3, 2026, the Federal Reserve Bank of New York's Economic Indicators Calendar lists several key economic reports scheduled for release. On Thursday, i",
-    "excerpt": "On October 3, 2026, the Federal Reserve Bank of New York's Economic Indicators Calendar lists several key economic reports scheduled for release. On Thursday, initial claims, construction data, ISM Manufacturing, multivariate core trend inflation, and the weekly economic index are all set for releas",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Economic Indicators Calendar - FEDERAL RESERVE BANK of NEW YORK"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "economic-news-releases-u-s-bureau-of-labor-statistics",
-    "type": "news",
-    "title": "Economic News Releases :  U.S. Bureau of Labor Statistics",
-    "slug": "economic-news-releases-u-s-bureau-of-labor-statistics",
-    "date": "2026-10-03",
-    "displayDate": "October 3, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The U.S. Bureau of Labor Statistics released several economic indicators on September 29, 2026, indicating that job openings and hires changed little while tota",
-    "excerpt": "The U.S. Bureau of Labor Statistics released several economic indicators on September 29, 2026, indicating that job openings and hires changed little while total separations remained unchanged in August 2026. Additionally, 72% of private industry workers had retirement benefits available in March 20",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Economic News Releases :  U.S. Bureau of Labor Statistics"
     },
     "readingTime": 4
   },
@@ -483,27 +861,6 @@
     "readingTime": 4
   },
   {
-    "id": "federal-open-market-committee-wikipedia",
-    "type": "news",
-    "title": "Federal Open Market Committee - Wikipedia",
-    "slug": "federal-open-market-committee-wikipedia",
-    "date": "2026-10-03",
-    "displayDate": "October 3, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Open Market Committee (FOMC) is a committee within the Federal Reserve System that oversees the nation's open market operations and makes key decisi",
-    "excerpt": "The Federal Open Market Committee (FOMC) is a committee within the Federal Reserve System that oversees the nation's open market operations and makes key decisions about interest rates and the growth of the U.S. money supply. It is the principal organ of U.S. national monetary policy and sets moneta",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Federal Open Market Committee - Wikipedia"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "federal-reserve-board-monetary-policy",
     "type": "news",
     "title": "Federal Reserve Board - Monetary Policy",
@@ -544,48 +901,6 @@
       "alt": "Federal Reserve Economic Data | FRED | St. Louis Fed"
     },
     "readingTime": 4
-  },
-  {
-    "id": "federal-reserve-meeting-calendar-mni",
-    "type": "news",
-    "title": "Federal Reserve Meeting Calendar | MNI",
-    "slug": "federal-reserve-meeting-calendar-mni",
-    "date": "2026-10-03",
-    "displayDate": "October 3, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Reserve Meeting Calendar for 2027 includes meetings on January 26-27, March 16-17, April 26-27, June 7-8, July 26-27, September 13-14, October 25-26",
-    "excerpt": "The Federal Reserve Meeting Calendar for 2027 includes meetings on January 26-27, March 16-17, April 26-27, June 7-8, July 26-27, September 13-14, October 25-26, and December 7-8. The meetings are scheduled for the second and third days of each month, with decisions released on the third day at 2 p.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Federal Reserve Meeting Calendar | MNI"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "geekwire-breaking-news-in-technology-business",
-    "type": "news",
-    "title": "GeekWire – Breaking News in Technology & Business",
-    "slug": "geekwire-breaking-news-in-technology-business",
-    "date": "2026-10-03",
-    "displayDate": "October 3, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The sources report that startup Ravel has raised $8.2M to address the spandex problem in clothing recycling, UW, Microsoft, and E8 are backing a climate tech in",
-    "excerpt": "The sources report that startup Ravel has raised $8.2M to address the spandex problem in clothing recycling, UW, Microsoft, and E8 are backing a climate tech incubator focusing on data centers amid surging AI energy concerns, Helion's funding round has grown to $500M with its Seattle office opening,",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "GeekWire – Breaking News in Technology & Business"
-    },
-    "readingTime": 3
   },
   {
     "id": "global-indices-tracking-the-world-s-markets",
@@ -672,27 +987,6 @@
     "readingTime": 4
   },
   {
-    "id": "healthcare-stock-performance-yahoo-finance",
-    "type": "news",
-    "title": "Healthcare Stock Performance - Yahoo Finance",
-    "slug": "healthcare-stock-performance-yahoo-finance",
-    "date": "2026-10-03",
-    "displayDate": "October 3, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The healthcare sector, as of October 3, 2026, shows varied performance across different companies and sub-sectors. UnitedHealth Group Incorporated (UNH) is trad",
-    "excerpt": "The healthcare sector, as of October 3, 2026, shows varied performance across different companies and sub-sectors. UnitedHealth Group Incorporated (UNH) is trading at $368.51 with a 4.31% increase, while Thermo Fisher Scientific Inc. (TMO) is at $652.35 with a 3.14% increase. Amgen Inc. (AMGN) is at",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Healthcare Stock Performance - Yahoo Finance"
-    },
-    "readingTime": 5
-  },
-  {
     "id": "how-should-i-allocate-my-portfolio-in-2026",
     "type": "news",
     "title": "How Should I Allocate My Portfolio in 2026?",
@@ -733,27 +1027,6 @@
       "alt": "Inflation, consumer prices for the United States (FPCPITOTLZGUSA) | FRED | St. Louis Fed"
     },
     "readingTime": 4
-  },
-  {
-    "id": "investment-strategy-2026-portfolio-moves-for-a-changing-market",
-    "type": "news",
-    "title": "Investment Strategy 2026 Portfolio Moves for a Changing Market",
-    "slug": "investment-strategy-2026-portfolio-moves-for-a-changing-market",
-    "date": "2026-10-03",
-    "displayDate": "October 3, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "For 2026 investment strategies, sources suggest increasing exposure to small caps and emerging markets, staying overweight in equities while diversifying global",
-    "excerpt": "For 2026 investment strategies, sources suggest increasing exposure to small caps and emerging markets, staying overweight in equities while diversifying globally, preparing for shifting sector leadership, and using fixed income for ballast. The sources also recommend deploying excess cash and consi",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Investment Strategy 2026 Portfolio Moves for a Changing Market"
-    },
-    "readingTime": 3
   },
   {
     "id": "is-shorting-nvidia-a-smart-trade-in-current-market-conditions-investing-com",
@@ -840,48 +1113,6 @@
     "readingTime": 3
   },
   {
-    "id": "monthly-stock-sector-outlook-charles-schwab",
-    "type": "news",
-    "title": "Monthly Stock Sector Outlook | Charles Schwab",
-    "slug": "monthly-stock-sector-outlook-charles-schwab",
-    "date": "2026-10-03",
-    "displayDate": "October 3, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The sources provide information on the sectors covered by Charles Schwab's Monthly Stock Sector Outlook, including the Materials, Real Estate, Energy, and Finan",
-    "excerpt": "The sources provide information on the sectors covered by Charles Schwab's Monthly Stock Sector Outlook, including the Materials, Real Estate, Energy, and Financials sectors. The outlook is a six- to 12-month view on stock sectors, combining a factor-based approach with market and economic assessmen",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Monthly Stock Sector Outlook | Charles Schwab"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "s-p-500-index-sp500-analysis-news-and-chart-today-seeking-alpha",
-    "type": "news",
-    "title": "S&P 500 Index (SP500) Analysis, News, And Chart Today | Seeking Alpha",
-    "slug": "s-p-500-index-sp500-analysis-news-and-chart-today-seeking-alpha",
-    "date": "2026-10-03",
-    "displayDate": "October 3, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The sources indicate that the S&P 500 Index (SP500) and its futures (SPX) have been analyzed in the context of labor market trends, bond yields, and the Federal",
-    "excerpt": "The sources indicate that the S&P 500 Index (SP500) and its futures (SPX) have been analyzed in the context of labor market trends, bond yields, and the Federal Reserve's actions. The analysis suggests that the labor market remains firm despite a quiet period, bond yields are normalizing, and the Fe",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "S&P 500 Index (SP500) Analysis, News, And Chart Today | Seeking Alpha"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "sector-industry-performance-bloomberg",
     "type": "news",
     "title": "Sector & Industry Performance - Bloomberg",
@@ -920,27 +1151,6 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "Sectors — Stock Market — USA — TradingView"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "six-portfolio-strategy-ideas-for-2026",
-    "type": "news",
-    "title": "Six portfolio strategy ideas for 2026",
-    "slug": "six-portfolio-strategy-ideas-for-2026",
-    "date": "2026-10-03",
-    "displayDate": "October 3, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The sources provide six portfolio strategy ideas for 2026: increase exposure to small caps and emerging markets, stay overweight in equities but diversify globa",
-    "excerpt": "The sources provide six portfolio strategy ideas for 2026: increase exposure to small caps and emerging markets, stay overweight in equities but diversify globally, prepare for shifting sector leadership, use fixed income for ballast, deploy excess cash, and for qualified investors, consider alterna",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Six portfolio strategy ideas for 2026"
     },
     "readingTime": 3
   },
@@ -987,27 +1197,6 @@
     "readingTime": 3
   },
   {
-    "id": "stock-market-will-s-p-500-open-up-or-down-today-benzinga",
-    "type": "news",
-    "title": "Stock Market: Will S&P 500 Open Up or Down Today? - Benzinga",
-    "slug": "stock-market-will-s-p-500-open-up-or-down-today-benzinga",
-    "date": "2026-10-03",
-    "displayDate": "October 3, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The sources indicate that U.S. stock futures are trending higher early Monday, with Dow Jones futures rising 0.86%, S&P 500 futures advancing 0.47%, and Nasdaq ",
-    "excerpt": "The sources indicate that U.S. stock futures are trending higher early Monday, with Dow Jones futures rising 0.86%, S&P 500 futures advancing 0.47%, and Nasdaq 100 futures gaining 0.40%. However, the Polymarket crowd leans bearish for the trading session, reflecting a 28% chance of a higher open. Th",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Stock Market: Will S&P 500 Open Up or Down Today? - Benzinga"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "stockanalysis-com-free-online-stock-information-for-investors",
     "type": "news",
     "title": "StockAnalysis.com - Free Online Stock Information for Investors",
@@ -1025,48 +1214,6 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "StockAnalysis.com - Free Online Stock Information for Investors"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "techcrunch-startup-and-technology-news",
-    "type": "news",
-    "title": "TechCrunch | Startup and Technology News",
-    "slug": "techcrunch-startup-and-technology-news",
-    "date": "2026-10-03",
-    "displayDate": "October 3, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "TechCrunch is an American global online newspaper focusing on high-tech and startup companies, founded in June 2005. It was acquired by AOL in 2010 for approxim",
-    "excerpt": "TechCrunch is an American global online newspaper focusing on high-tech and startup companies, founded in June 2005. It was acquired by AOL in 2010 for approximately $25 million and later owned by Verizon Media from 2015 through 2021. TechCrunch hosts an annual tech conference, TechCrunch Disrupt, a",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "TechCrunch | Startup and Technology News"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "technology-news",
-    "type": "news",
-    "title": "Technology News",
-    "slug": "technology-news",
-    "date": "2026-10-03",
-    "displayDate": "October 3, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "According to TechNewsWorld, there are updates on AI, robotics, virtual reality, gaming, home tech, and more. TechCrunch reports on Google's release of Gemini 4 ",
-    "excerpt": "According to TechNewsWorld, there are updates on AI, robotics, virtual reality, gaming, home tech, and more. TechCrunch reports on Google's release of Gemini 4 Argon, Elon Musk and Palmer Luckey's involvement with the Pentagon, AMD's acquisition of World Labs, and Waymo robotaxis in San Francisco. G",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Technology News"
     },
     "readingTime": 4
   },
@@ -1130,27 +1277,6 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "The Block: Bitcoin, Ethereum & Crypto News | Live Prices, Data & Indices"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "the-fed-federal-open-market-committee",
-    "type": "news",
-    "title": "The Fed - Federal Open Market Committee",
-    "slug": "the-fed-federal-open-market-committee",
-    "date": "2026-10-03",
-    "displayDate": "October 3, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Open Market Committee (FOMC) is a committee within the Federal Reserve System that oversees the nation's open market operations and makes key decisi",
-    "excerpt": "The Federal Open Market Committee (FOMC) is a committee within the Federal Reserve System that oversees the nation's open market operations and makes key decisions about interest rates and the growth of the U.S. money supply. The FOMC consists of twelve members: the seven members of the Board of Gov",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "The Fed - Federal Open Market Committee"
     },
     "readingTime": 4
   },
@@ -1277,27 +1403,6 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "United States Indicators"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "united-states-inflation-rate",
-    "type": "news",
-    "title": "United States Inflation Rate",
-    "slug": "united-states-inflation-rate",
-    "date": "2026-10-03",
-    "displayDate": "October 3, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The annual inflation rate in the United States was 3.4% for the 12 months ending August 2026, the same as in July, according to U.S. Labor Department data. The ",
-    "excerpt": "The annual inflation rate in the United States was 3.4% for the 12 months ending August 2026, the same as in July, according to U.S. Labor Department data. The monthly Consumer Price Index (CPI) rose 0.4%, the most in three months, matching forecasts. Trading Economics global macro models and analys",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "United States Inflation Rate"
     },
     "readingTime": 4
   },
@@ -1487,27 +1592,6 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "Crypto News Today: Bitcoin, Ethereum, DeFi Market Gains"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "current-u-s-inflation-rate-is-3-4-chart-and-why-it-matters-nerdwallet",
-    "type": "news",
-    "title": "Current U.S. Inflation Rate Is 3.4%: Chart and Why It Matters - NerdWallet",
-    "slug": "current-u-s-inflation-rate-is-3-4-chart-and-why-it-matters-nerdwallet",
-    "date": "2026-10-02",
-    "displayDate": "October 2, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "According to the sources, the inflation rate in the United States was 3.4% as of July 2026, as reported by USAFacts and Trading Economics. NerdWallet explains t",
-    "excerpt": "According to the sources, the inflation rate in the United States was 3.4% as of July 2026, as reported by USAFacts and Trading Economics. NerdWallet explains that a low, steady or predictable level of inflation is considered positive for an economy, with the Federal Reserve targeting a 2% annual in",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Current U.S. Inflation Rate Is 3.4%: Chart and Why It Matters - NerdWallet"
     },
     "readingTime": 4
   },
