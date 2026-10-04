@@ -63,6 +63,48 @@
     "readingTime": 4
   },
   {
+    "id": "asian-stock-market-capital-markets-news-bond-market-news-commodities-news-etfs-n",
+    "type": "news",
+    "title": "Asian Stock Market: Capital Markets News, Bond Market News, Commodities News, ETFs News",
+    "slug": "asian-stock-market-capital-markets-news-bond-market-news-commodities-news-etfs-n",
+    "date": "2026-10-04",
+    "displayDate": "October 4, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Oil prices jumped by over 4%, while shares on the Kospi fell 9%, as SK Hynix shares sank by over 15% on another mixed day for Asian markets. SK Hynix IPO reinvi",
+    "excerpt": "Oil prices jumped by over 4%, while shares on the Kospi fell 9%, as SK Hynix shares sank by over 15% on another mixed day for Asian markets. SK Hynix IPO reinvigorated AI trade, boosting Asia stocks. Meanwhile, India is likely exporting refined Russian oil to the West. The sources also mention that ",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Asian Stock Market: Capital Markets News, Bond Market News, Commodities News, ETFs News"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "asian-stock-markets-continue-to-take-hit-amid-global-trade-war-fears",
+    "type": "news",
+    "title": "Asian stock markets continue to take hit amid global trade war fears",
+    "slug": "asian-stock-markets-continue-to-take-hit-amid-global-trade-war-fears",
+    "date": "2026-10-04",
+    "displayDate": "October 4, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Asian markets experienced significant declines amid growing fears of a global trade war. On Monday, Japan’s Nikkei 225 plunged by more than 7 per cent and Singa",
+    "excerpt": "Asian markets experienced significant declines amid growing fears of a global trade war. On Monday, Japan’s Nikkei 225 plunged by more than 7 per cent and Singapore’s Straits Times Index fell 8.5 per cent. Greater China markets also opened with huge losses. Hong Kong markets led losses in the region",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Asian stock markets continue to take hit amid global trade war fears"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "august-2026-us-stock-sector-focus-healthcare-leads-tech-rotation-algo-lab",
     "type": "news",
     "title": "August 2026 US Stock Sector Focus: Healthcare Leads, Tech Rotation | Algo Lab",
@@ -164,6 +206,27 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "Crypto Market Today: $200M Derisk Ahead of FOMC, What’s Next for Bitcoin, Ethereum and Solana Price?"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "crypto-market-today-bitcoin-ethereum-and-xrp-price-prediction",
+    "type": "news",
+    "title": "Crypto Market Today: Bitcoin, Ethereum and XRP Price Prediction",
+    "slug": "crypto-market-today-bitcoin-ethereum-and-xrp-price-prediction",
+    "date": "2026-10-04",
+    "displayDate": "October 4, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Ethereum is holding the $1,500 to $1,600 support zone on the three-day chart, with a potential for choppy sideways action or a modest relief rally if the Februa",
+    "excerpt": "Ethereum is holding the $1,500 to $1,600 support zone on the three-day chart, with a potential for choppy sideways action or a modest relief rally if the February pattern continues. XRP’s weekly trend remains technically bearish with support between $0.90 and $1.00, and resistance at $1.13. Bitcoin ",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Crypto Market Today: Bitcoin, Ethereum and XRP Price Prediction"
     },
     "readingTime": 4
   },
@@ -504,6 +567,27 @@
     "readingTime": 3
   },
   {
+    "id": "global-market-headlines-breaking-stock-market-news-reuters",
+    "type": "news",
+    "title": "Global Market Headlines | Breaking Stock Market News | Reuters",
+    "slug": "global-market-headlines-breaking-stock-market-news-reuters",
+    "date": "2026-10-04",
+    "displayDate": "October 4, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Tech stocks advanced in Europe and Nasdaq futures edged higher on Tuesday as optimism over AI lab Anthropic's plans for a public debut outshone concerns over el",
+    "excerpt": "Tech stocks advanced in Europe and Nasdaq futures edged higher on Tuesday as optimism over AI lab Anthropic's plans for a public debut outshone concerns over elevated oil prices and global bond yields. Oil prices declined on Tuesday as investors focused on signs of recovering crude exports from the ",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Global Market Headlines | Breaking Stock Market News | Reuters"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "healthcare-stock-performance-yahoo-finance",
     "type": "news",
     "title": "Healthcare Stock Performance - Yahoo Finance",
@@ -542,6 +626,27 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "how did international stocks do today"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "how-to-invest-in-today-s-market-u-s-bank",
+    "type": "news",
+    "title": "How to Invest in Today’s Market | U.S. Bank",
+    "slug": "how-to-invest-in-today-s-market-u-s-bank",
+    "date": "2026-10-04",
+    "displayDate": "October 4, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "According to U.S. Bank, investors should focus on fundamentals, earnings, and diversification rather than assuming every conflict-driven selloff changes the lon",
+    "excerpt": "According to U.S. Bank, investors should focus on fundamentals, earnings, and diversification rather than assuming every conflict-driven selloff changes the long-term outlook. Terry Sandven, chief equity strategist for U.S. Bank Asset Management Group, notes that the equity market is still trending ",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "How to Invest in Today’s Market | U.S. Bank"
     },
     "readingTime": 3
   },
@@ -651,6 +756,48 @@
     "readingTime": 3
   },
   {
+    "id": "stock-market-today-s-p-500-nasdaq-set-records-as-market-awaits-fed-decision",
+    "type": "news",
+    "title": "Stock Market Today: S&P 500, Nasdaq set records as market awaits Fed decision",
+    "slug": "stock-market-today-s-p-500-nasdaq-set-records-as-market-awaits-fed-decision",
+    "date": "2026-10-04",
+    "displayDate": "October 4, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The sources indicate that on July 29, 2026, the stock market experienced significant declines following the Federal Reserve's decision to hold interest rates st",
+    "excerpt": "The sources indicate that on July 29, 2026, the stock market experienced significant declines following the Federal Reserve's decision to hold interest rates steady. The Dow Jones Industrial Average closed 1,153.18 points lower, or 2.19%, at 51,594.14, marking its worst decline since April 2025. The",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Stock Market Today: S&P 500, Nasdaq set records as market awaits Fed decision"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "stock-market-today-s-p-500-upgraded-by-citi-ubs",
+    "type": "news",
+    "title": "Stock Market Today: S&P 500 upgraded by Citi, UBS",
+    "slug": "stock-market-today-s-p-500-upgraded-by-citi-ubs",
+    "date": "2026-10-04",
+    "displayDate": "October 4, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The S&P 500 was upgraded by Citi, which reported that US equities reached new record highs driven by confirmation of a US-China trade deal, easing restrictions ",
+    "excerpt": "The S&P 500 was upgraded by Citi, which reported that US equities reached new record highs driven by confirmation of a US-China trade deal, easing restrictions on rare earths, a ceasefire in the Israel-Iran conflict, and the removal of the Section 899 “retaliatory tax” from the One Big Beautiful Bil",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Stock Market Today: S&P 500 upgraded by Citi, UBS"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "stock-market-will-s-p-500-open-up-or-down-today-benzinga",
     "type": "news",
     "title": "Stock Market: Will S&P 500 Open Up or Down Today? - Benzinga",
@@ -731,6 +878,48 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "Technology News"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "the-best-7-000-tfsa-investments-for-current-market-conditions",
+    "type": "news",
+    "title": "The Best $7,000 TFSA Investments for Current Market Conditions",
+    "slug": "the-best-7-000-tfsa-investments-for-current-market-conditions",
+    "date": "2026-10-04",
+    "displayDate": "October 4, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "For a $7,000 TFSA contribution, the sources suggest considering well-managed companies with long-term growth potential like Constellation Software and goeasy if",
+    "excerpt": "For a $7,000 TFSA contribution, the sources suggest considering well-managed companies with long-term growth potential like Constellation Software and goeasy if you have a high tolerance for volatility. For those concerned about market volatility, high-interest savings accounts or short-term GICs ar",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "The Best $7,000 TFSA Investments for Current Market Conditions"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "the-best-investment-strategies-for-the-continuous-market-investing-com",
+    "type": "news",
+    "title": "The Best Investment Strategies For The Continuous Market - Investing.com",
+    "slug": "the-best-investment-strategies-for-the-continuous-market-investing-com",
+    "date": "2026-10-04",
+    "displayDate": "October 4, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The best investment strategies for the continuous market include investing in growing and innovative companies, particularly in startups and technology sectors,",
+    "excerpt": "The best investment strategies for the continuous market include investing in growing and innovative companies, particularly in startups and technology sectors, and those that reinvest profits for growth rather than distributing dividends or buying back shares. A continuous market allows trading of ",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "The Best Investment Strategies For The Continuous Market - Investing.com"
     },
     "readingTime": 4
   },
@@ -817,6 +1006,27 @@
       "alt": "U.S. Bureau of Labor Statistics : U.S. Bureau of Labor Statistics"
     },
     "readingTime": 4
+  },
+  {
+    "id": "united-states-economy-at-a-glance",
+    "type": "news",
+    "title": "United States Economy at a Glance",
+    "slug": "united-states-economy-at-a-glance",
+    "date": "2026-10-04",
+    "displayDate": "October 4, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Real gross domestic product (GDP) increased at an annual rate of 2.2 percent in the second quarter of 2026, according to the U.S. Bureau of Economic Analysis (B",
+    "excerpt": "Real gross domestic product (GDP) increased at an annual rate of 2.2 percent in the second quarter of 2026, according to the U.S. Bureau of Economic Analysis (BEA). The U.S. net international investment position was –$22.42 trillion at the end of the second quarter of 2026. The unemployment rate was",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "United States Economy at a Glance"
+    },
+    "readingTime": 5
   },
   {
     "id": "united-states-indicators",
@@ -943,27 +1153,6 @@
       "alt": "Asian Financial Markets - Investing.com"
     },
     "readingTime": 4
-  },
-  {
-    "id": "asian-stock-market-capital-markets-news-bond-market-news-commodities-news-etfs-n",
-    "type": "news",
-    "title": "Asian Stock Market: Capital Markets News, Bond Market News, Commodities News, ETFs News",
-    "slug": "asian-stock-market-capital-markets-news-bond-market-news-commodities-news-etfs-n",
-    "date": "2026-10-03",
-    "displayDate": "October 3, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Oil prices jumped by over 4%, while shares on the Kospi fell 9% with SK Hynix shares sinking by over 15% on a mixed day for Asian markets. SK Hynix's IPO raised",
-    "excerpt": "Oil prices jumped by over 4%, while shares on the Kospi fell 9% with SK Hynix shares sinking by over 15% on a mixed day for Asian markets. SK Hynix's IPO raised a record $26bn from its US listing, boosting markets across Asia. Meanwhile, CNBC reports South Korea stocks falling over 5% as tech heavyw",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Asian Stock Market: Capital Markets News, Bond Market News, Commodities News, ETFs News"
-    },
-    "readingTime": 3
   },
   {
     "id": "bracing-for-big-tech-earnings-here-s-what-you-need-to-know",
@@ -1155,27 +1344,6 @@
     "readingTime": 4
   },
   {
-    "id": "global-market-headlines-breaking-stock-market-news-reuters",
-    "type": "news",
-    "title": "Global Market Headlines | Breaking Stock Market News | Reuters",
-    "slug": "global-market-headlines-breaking-stock-market-news-reuters",
-    "date": "2026-10-03",
-    "displayDate": "October 3, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Tech stocks advanced in Europe and Nasdaq futures edged higher on Tuesday as optimism over AI lab Anthropic's plans for a public debut outshone concerns over el",
-    "excerpt": "Tech stocks advanced in Europe and Nasdaq futures edged higher on Tuesday as optimism over AI lab Anthropic's plans for a public debut outshone concerns over elevated oil prices and global bond yields. Oil prices declined as investors focused on signs of recovering crude exports from the Middle East",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Global Market Headlines | Breaking Stock Market News | Reuters"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "global-market-indices-international-markets-markets-insider",
     "type": "news",
     "title": "Global Market Indices | International Markets | Markets Insider",
@@ -1365,48 +1533,6 @@
     "readingTime": 3
   },
   {
-    "id": "stock-market-today-s-p-500-nasdaq-set-records-as-market-awaits-fed-decision",
-    "type": "news",
-    "title": "Stock Market Today: S&P 500, Nasdaq set records as market awaits Fed decision",
-    "slug": "stock-market-today-s-p-500-nasdaq-set-records-as-market-awaits-fed-decision",
-    "date": "2026-10-03",
-    "displayDate": "October 3, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The S&P 500 rose nearly 0.5% to top 6,600 on Monday while the Nasdaq Composite notched its sixth consecutive record amid China-US trade talks and investor focus",
-    "excerpt": "The S&P 500 rose nearly 0.5% to top 6,600 on Monday while the Nasdaq Composite notched its sixth consecutive record amid China-US trade talks and investor focus on the Federal Reserve policy meeting this week. The tech-heavy index gained more than 0.9%, while the Dow Jones Industrial Average edged u",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Stock Market Today: S&P 500, Nasdaq set records as market awaits Fed decision"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "stock-market-today-s-p-500-upgraded-by-citi-ubs",
-    "type": "news",
-    "title": "Stock Market Today: S&P 500 upgraded by Citi, UBS",
-    "slug": "stock-market-today-s-p-500-upgraded-by-citi-ubs",
-    "date": "2026-10-03",
-    "displayDate": "October 3, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The sources indicate that UBS revamped its S&P 500 target for the rest of 2026, raising it to 8,100 from 7,900, which represents a 5.5% upside from its August 2",
-    "excerpt": "The sources indicate that UBS revamped its S&P 500 target for the rest of 2026, raising it to 8,100 from 7,900, which represents a 5.5% upside from its August 21 close. Citi also upgraded the S&P 500, contributing to the index hitting new record highs, driven by factors such as a US-China trade deal",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Stock Market Today: S&P 500 upgraded by Citi, UBS"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "stockanalysis-com-free-online-stock-information-for-investors",
     "type": "news",
     "title": "StockAnalysis.com - Free Online Stock Information for Investors",
@@ -1424,48 +1550,6 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "StockAnalysis.com - Free Online Stock Information for Investors"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "the-best-7-000-tfsa-investments-for-current-market-conditions",
-    "type": "news",
-    "title": "The Best $7,000 TFSA Investments for Current Market Conditions",
-    "slug": "the-best-7-000-tfsa-investments-for-current-market-conditions",
-    "date": "2026-10-03",
-    "displayDate": "October 3, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "For a $7,000 TFSA investment, the sources suggest considering well-managed companies with long-term growth potential like Constellation Software (TSX:CSU) and g",
-    "excerpt": "For a $7,000 TFSA investment, the sources suggest considering well-managed companies with long-term growth potential like Constellation Software (TSX:CSU) and goeasy (TSX:GSY) for those with a high tolerance for volatility. For risk-averse investors, high-interest savings accounts or short-term GICs",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "The Best $7,000 TFSA Investments for Current Market Conditions"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "the-best-investment-strategies-for-the-continuous-market-investing-com",
-    "type": "news",
-    "title": "The Best Investment Strategies For The Continuous Market - Investing.com",
-    "slug": "the-best-investment-strategies-for-the-continuous-market-investing-com",
-    "date": "2026-10-03",
-    "displayDate": "October 3, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The sources suggest that the best investment strategies for the continuous market include investing in growing and innovative companies, particularly those in s",
-    "excerpt": "The sources suggest that the best investment strategies for the continuous market include investing in growing and innovative companies, particularly those in startups and technology sectors that reinvest profits for growth rather than distributing dividends. A continuous market allows for the tradi",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "The Best Investment Strategies For The Continuous Market - Investing.com"
     },
     "readingTime": 4
   },
@@ -1676,27 +1760,6 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "CoinDesk: Bitcoin, Ethereum, XRP, Crypto News and Price Data"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "crypto-market-today-bitcoin-ethereum-and-xrp-price-prediction",
-    "type": "news",
-    "title": "Crypto Market Today: Bitcoin, Ethereum and XRP Price Prediction",
-    "slug": "crypto-market-today-bitcoin-ethereum-and-xrp-price-prediction",
-    "date": "2026-10-02",
-    "displayDate": "October 2, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Ethereum is holding the $1,500 to $1,600 support zone on the three-day chart, with a potential for choppy sideways action or a modest relief rally if the Februa",
-    "excerpt": "Ethereum is holding the $1,500 to $1,600 support zone on the three-day chart, with a potential for choppy sideways action or a modest relief rally if the February pattern continues. XRP’s weekly trend remains technically bearish with support between $0.90 and $1.00, and resistance at $1.13. Bitcoin ",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Crypto Market Today: Bitcoin, Ethereum and XRP Price Prediction"
     },
     "readingTime": 4
   },
@@ -2600,27 +2663,6 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "How the FOMC Conducts Monetary Policy | St. Louis Fed"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "how-to-invest-in-today-s-market-u-s-bank",
-    "type": "news",
-    "title": "How to Invest in Today’s Market | U.S. Bank",
-    "slug": "how-to-invest-in-today-s-market-u-s-bank",
-    "date": "2026-09-09",
-    "displayDate": "September 9, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "To invest in today's market, consider stocks, bonds, and mutual funds. Regularly review and adjust your portfolio. Seek professional advice for tailored guidanc",
-    "excerpt": "To invest in today's market, consider stocks, bonds, and mutual funds. Regularly review and adjust your portfolio. Seek professional advice for tailored guidance.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "How to Invest in Today’s Market | U.S. Bank"
     },
     "readingTime": 3
   },
@@ -10118,27 +10160,6 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "The Information"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "united-states-economy-at-a-glance",
-    "type": "news",
-    "title": "United States Economy at a Glance",
-    "slug": "united-states-economy-at-a-glance",
-    "date": "2026-07-06",
-    "displayDate": "July 6, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "In Q1 2026, U.S. GDP grew 2.1%, personal income rose 0.7% in May, and the trade deficit decreased in April. The current-account deficit widened to $226.8 billio",
-    "excerpt": "In Q1 2026, U.S. GDP grew 2.1%, personal income rose 0.7% in May, and the trade deficit decreased in April. The current-account deficit widened to $226.8 billion.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "United States Economy at a Glance"
     },
     "readingTime": 3
   },
