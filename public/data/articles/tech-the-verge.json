@@ -1,0 +1,52 @@
+{
+  "id": "tech-the-verge",
+  "type": "news",
+  "title": "Tech | The Verge",
+  "slug": "tech-the-verge",
+  "date": "2026-10-05",
+  "displayDate": "October 5, 2026",
+  "author": "Sigma Capital",
+  "category": "Company News",
+  "tags": [
+    "company news",
+    "financial news",
+    "market update"
+  ],
+  "metaDescription": "The Verge's tech section covers the latest news about hardware, apps, and more from top companies like Google and Apple to startups. Recent highlights include l",
+  "excerpt": "The Verge's tech section covers the latest news about hardware, apps, and more from top companies like Google and Apple to startups. Recent highlights include leaked images of Google’s midrange Fitbit Edge, the OhSnap Wallet 2, and a satellite equipped with Google’s Tensor Processing Units launched ",
+  "content": {
+    "introduction": "The Verge's tech section covers the latest news about hardware, apps, and more from top companies like Google and Apple to startups. Recent highlights include leaked images of Google’s midrange Fitbit Edge, the OhSnap Wallet 2, and a satellite equipped with Google’s Tensor Processing Units launched as part of Project Suncatcher. Additionally, Deadline and TheWrap report on the adaptation of EA’s FPS series directed by Christopher McQuarrie, with Sony as a frontrunner, while Paramount is working on a Call of Duty film. The Vergecast, now published every weekday, serves as the publication’s primary anchor for technology criticism and news analysis.",
+    "body": [
+      "The Verge is an online American technology news publication headquartered in Lower Manhattan, New York City, and operated by PMX Global, LLC, unit of Penske Media Corporation. The website publishes news, feature stories, guidebooks, product reviews, consumer electronics news, and podcasts. [...] The Verge's What's Tech podcast, hosted by Chris Plante, was aimed at making technology more accessible and was named among iTunes's best of 2015. The podcast Why'd You Push That Button?, launched in 2017 and co-hosted by Ashley Carman and Kaitlyn Tiffany, investigated the social impact of technological decisions and received a Podcast Award in the \"This Week in Tech Technology Category\" in 2018. [...] The Verge broadcasts a daily podcast, The Vergecast, which serves as the publication's primary anchor for technology criticism and news analysis. The inaugural episode was November 4, 2011, and included a video stream of the hosts. While originally weekly, the show expanded to a bi-weekly release schedule in early 2024 to cover both macro tech news and consumer electronics, withThe Verge increasing frequency a second time in 2026, now publishing every weekday. The show has maintained",
+      "# Tech\n\nThe latest tech news about the world’s best (and sometimes worst) hardware, apps, and much more. From top companies like Google and Apple to tiny startups vying for your attention, Verge Tech has the latest in what matters in technology daily.\n\nGoogle’s midrange Fitbit Edge shows off is many sides and colors in leaked images.\n\nPull the lever to fan your cards with the OhSnap Wallet 2.\n\n## Latest In Tech [...] A satellite equipped with Google’s Tensor Processing Units (TPUs) launched aboard SpaceX’s Falcon 9 rocket on Thursday. The mission is part of Google’s Project Suncatcher, an experimental initiative that could eventually put AI data centers in space. [...] Revisiting rumors from earlier this year, Deadline and TheWrap report the adaptation of EA’s long-running FPS series would be directed and written by frequent Tom Cruise collaborator Christopher McQuarrie. According to TheWrap, Sony is a “frontrunner,” following a bidding war that also included Warner Bros. Discovery, Amazon MGM Studios, Universal, and Netflix.\n\nParamount, meanwhile, is already working on a film version of Call of Duty.",
+      "# News\n\nAll the news you need to keep up with the latest developments in the tech world, from product announcements and live events to tariffs, policies, and regulations. Tech touches every aspect of daily news, and our experts are here to keep you informed on what happens and how it all affects you."
+    ],
+    "keyTakeaways": [
+      "The Verge's tech section covers the latest news about hardware, apps, and more from top companies like Google and Apple ",
+      "The Verge is an online American technology news publication headquartered in Lower Manhattan, New York City, and operate",
+      "# Tech\n\nThe latest tech news about the world’s best (and sometimes worst) hardware, apps, and much more. From top compan"
+    ],
+    "source": "theverge.com",
+    "sourceUrl": "https://www.theverge.com/tech"
+  },
+  "readingTime": 3,
+  "updatedAt": "2026-10-05T13:24:21.658Z",
+  "images": {
+    "thumbnail": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Tech | The Verge"
+    },
+    "hero": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Tech | The Verge"
+    },
+    "mid": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Tech | The Verge"
+    }
+  },
+  "image": {
+    "src": "/images/article_thumb_3.jpg",
+    "alt": "Tech | The Verge"
+  }
+}
