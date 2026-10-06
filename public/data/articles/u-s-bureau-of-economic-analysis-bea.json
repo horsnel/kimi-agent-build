@@ -3,8 +3,8 @@
   "type": "news",
   "title": "U.S. Bureau of Economic Analysis (BEA)",
   "slug": "u-s-bureau-of-economic-analysis-bea",
-  "date": "2026-10-04",
-  "displayDate": "October 4, 2026",
+  "date": "2026-10-06",
+  "displayDate": "October 6, 2026",
   "author": "Sigma Capital",
   "category": "Economic Indicators",
   "tags": [
@@ -12,10 +12,10 @@
     "financial news",
     "market update"
   ],
-  "metaDescription": "The U.S. Bureau of Economic Analysis (BEA) is a U.S. government agency under the Department of Commerce that provides official macroeconomic and industry statis",
-  "excerpt": "The U.S. Bureau of Economic Analysis (BEA) is a U.S. government agency under the Department of Commerce that provides official macroeconomic and industry statistics, notably GDP reports. It was formed on January 1, 1972, and has about 500 employees with an annual budget of approximately $101 million",
+  "metaDescription": "The U.S. Bureau of Economic Analysis (BEA) is a government agency under the Department of Commerce that provides official macroeconomic and industry statistics,",
+  "excerpt": "The U.S. Bureau of Economic Analysis (BEA) is a government agency under the Department of Commerce that provides official macroeconomic and industry statistics, including reports on the gross domestic product (GDP) of the United States and its jurisdictions. The BEA is responsible for producing time",
   "content": {
-    "introduction": "The U.S. Bureau of Economic Analysis (BEA) is a U.S. government agency under the Department of Commerce that provides official macroeconomic and industry statistics, notably GDP reports. It was formed on January 1, 1972, and has about 500 employees with an annual budget of approximately $101 million. The BEA's mission is to \"promote a better understanding of the U.S. economy by providing the most timely, relevant, and accurate economic data in an objective and cost-effective manner.\" The agency produces statistics on personal income, corporate profits, government spending, state and local numbers, foreign trade, and industry data.",
+    "introduction": "The U.S. Bureau of Economic Analysis (BEA) is a government agency under the Department of Commerce that provides official macroeconomic and industry statistics, including reports on the gross domestic product (GDP) of the United States and its jurisdictions. The BEA is responsible for producing timely, relevant, and accurate economic data in an objective and cost-effective manner. It has about 500 employees and an annual budget of approximately $101 million. The agency's mission is to promote a better understanding of the U.S. economy through its data on personal income, corporate profits, and government spending. The BEA also provides state and local numbers, foreign trade and investment statistics, and industry data.",
     "body": [
       "The Bureau of Economic Analysis (BEA) of the United States Department of Commerce is a U.S. government agency that provides official macroeconomic and industry statistics, most notably reports about the gross domestic product (GDP) of the United States and its jurisdictions. They also provide information about personal income, corporate profits, and government spending in their National Income and Product Accounts (NIPAs). [...] The BEA is one of the principal agencies of the U.S. federal statistical system. Its stated mission is to \"promote a better understanding of the U.S. economy by providing the most timely, relevant, and accurate economic data in an objective and cost-effective manner\".\n\nBEA has about 500 employees and an annual budget of approximately $101 million.\n\n## National accounts\n\n[edit] [...] | Logo of the Bureau of Economic Analysis |\n| Agency overview |\n| Formed | January 1, 1972; 54 years ago (1972-01-01) |\n| Preceding agency |  Office of Business Economics |\n| Headquarters |  Suitland, Maryland, U.S. |\n| Employees | 500 |\n| Annual budget | $101 million (FY2019) |\n| Agency executives |  Vipin Arora, Director  Patricia Abaroa, Deputy Director; |\n| Parent department | Department of Commerce |\n| Website | www.bea.gov |",
       "Description: The U.S. Bureau of Economic Analysis is a vital source of accurate and objective data about the United States’ economy. Governments of all levels, businesses big and small, and people everywhere rely on our numbers. Our data is nonpartisan, nonpolitical, and policy neutral. BEA's economists produce some of the world's most closely watched statistics, including U.S. gross domestic product, better known as GDP. We provide state and local numbers, too, plus foreign trade and",
@@ -30,23 +30,23 @@
     "sourceUrl": "https://www.bea.gov"
   },
   "readingTime": 3,
-  "updatedAt": "2026-10-04T11:41:47.833Z",
+  "updatedAt": "2026-10-06T05:35:29.951Z",
   "images": {
     "thumbnail": {
-      "src": "/images/article_thumb_5.jpg",
+      "src": "/images/article_thumb_2.jpg",
       "alt": "U.S. Bureau of Economic Analysis (BEA)"
     },
     "hero": {
-      "src": "/images/article_thumb_5.jpg",
+      "src": "/images/article_thumb_6.jpg",
       "alt": "U.S. Bureau of Economic Analysis (BEA)"
     },
     "mid": {
-      "src": "/images/article_thumb_3.jpg",
+      "src": "/images/article_thumb_1.jpg",
       "alt": "U.S. Bureau of Economic Analysis (BEA)"
     }
   },
   "image": {
-    "src": "/images/article_thumb_1.jpg",
+    "src": "/images/article_thumb_2.jpg",
     "alt": "U.S. Bureau of Economic Analysis (BEA)"
   }
 }
