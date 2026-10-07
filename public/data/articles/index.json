@@ -1,5 +1,26 @@
 [
   {
+    "id": "12-month-percentage-change-consumer-price-index-selected-categories",
+    "type": "news",
+    "title": "12-month percentage change, Consumer Price Index, selected categories",
+    "slug": "12-month-percentage-change-consumer-price-index-selected-categories",
+    "date": "2026-10-07",
+    "displayDate": "October 7, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The 12-month percentage change in the Consumer Price Index (CPI) for selected categories in August 2026, not seasonally adjusted, shows the following: All items",
+    "excerpt": "The 12-month percentage change in the Consumer Price Index (CPI) for selected categories in August 2026, not seasonally adjusted, shows the following: All items increased by 3.4%, food by 2.7%, food at home by 2.2%, cereals and bakery products by 2.6%, meats, poultry, fish, and eggs by 1.1%, dairy a",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "12-month percentage change, Consumer Price Index, selected categories"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "asian-financial-markets-investing-com",
     "type": "news",
     "title": "Asian Financial Markets - Investing.com",
@@ -84,6 +105,27 @@
     "readingTime": 4
   },
   {
+    "id": "company-earnings-calendar-yahoo-finance",
+    "type": "news",
+    "title": "Company Earnings Calendar - Yahoo Finance",
+    "slug": "company-earnings-calendar-yahoo-finance",
+    "date": "2026-10-07",
+    "displayDate": "October 7, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "On October 7, 2026, there are no earnings events listed on Yahoo Finance's earnings calendar for that day. The sources indicate earnings events for October 1, 2",
+    "excerpt": "On October 7, 2026, there are no earnings events listed on Yahoo Finance's earnings calendar for that day. The sources indicate earnings events for October 1, 2020, and various dates in January 2026, including Universal Ibogaine Inc.'s Q2 2025 Earnings Announcement on January 9, 2026, but do not men",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Company Earnings Calendar - Yahoo Finance"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "crypto-market-today-200m-derisk-ahead-of-fomc-what-s-next-for-bitcoin-ethereum-a",
     "type": "news",
     "title": "Crypto Market Today: $200M Derisk Ahead of FOMC, What’s Next for Bitcoin, Ethereum and Solana Price?",
@@ -126,6 +168,48 @@
     "readingTime": 4
   },
   {
+    "id": "crypto-news-bitcoin-ethereum-xrp-news-crypto-news",
+    "type": "news",
+    "title": "Crypto News: Bitcoin, Ethereum & XRP News | crypto.news",
+    "slug": "crypto-news-bitcoin-ethereum-xrp-news-crypto-news",
+    "date": "2026-10-07",
+    "displayDate": "October 7, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "crypto.news provides comprehensive coverage of the cryptocurrency industry, including Bitcoin, Ethereum, and Ripple, with a focus on news, market trends, and re",
+    "excerpt": "crypto.news provides comprehensive coverage of the cryptocurrency industry, including Bitcoin, Ethereum, and Ripple, with a focus on news, market trends, and regulatory updates. A YouTube video from May 26, 2026, highlights significant events such as BlackRock Bitcoin ETF selloff, Strive acquiring 1",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Crypto News: Bitcoin, Ethereum & XRP News | crypto.news"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "current-u-s-inflation-rate-is-3-4-chart-and-why-it-matters-nerdwallet",
+    "type": "news",
+    "title": "Current U.S. Inflation Rate Is 3.4%: Chart and Why It Matters - NerdWallet",
+    "slug": "current-u-s-inflation-rate-is-3-4-chart-and-why-it-matters-nerdwallet",
+    "date": "2026-10-07",
+    "displayDate": "October 7, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The sources indicate that the current U.S. inflation rate is 3.4%, as of July 2026. This inflation rate is measured by the Consumer Price Index (CPI), which tra",
+    "excerpt": "The sources indicate that the current U.S. inflation rate is 3.4%, as of July 2026. This inflation rate is measured by the Consumer Price Index (CPI), which tracks the price fluctuations of a \"basket of goods and services\" over time. The Federal Reserve targets a 2% annual inflation rate to encourag",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Current U.S. Inflation Rate Is 3.4%: Chart and Why It Matters - NerdWallet"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "earnings-calendar",
     "type": "news",
     "title": "Earnings Calendar",
@@ -164,6 +248,27 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "Earnings Whispers | Earnings Calendar: October 6, 2026"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "earnings-whispers",
+    "type": "news",
+    "title": "Earnings Whispers",
+    "slug": "earnings-whispers",
+    "date": "2026-10-07",
+    "displayDate": "October 7, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "According to Earnings Whispers, Micron Technology (MU) reported earnings of $33.42 per share on revenue of $54.23 billion for the fiscal fourth quarter ended Au",
+    "excerpt": "According to Earnings Whispers, Micron Technology (MU) reported earnings of $33.42 per share on revenue of $54.23 billion for the fiscal fourth quarter ended August 2026, missing the consensus earnings estimate of $31.41 per share on revenue of $50.86 billion. The Earnings Whisper number was $34.14 ",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Earnings Whispers"
     },
     "readingTime": 4
   },
@@ -210,6 +315,69 @@
     "readingTime": 4
   },
   {
+    "id": "ethereum-eth-price-usd-today-news-charts-market-cap-coinbase",
+    "type": "news",
+    "title": "Ethereum (ETH) Price USD Today, News, Charts, Market Cap | Coinbase",
+    "slug": "ethereum-eth-price-usd-today-news-charts-market-cap-coinbase",
+    "date": "2026-10-07",
+    "displayDate": "October 7, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The price of Ethereum (ETH) on CoinGecko is $2,617.94 today with a 24-hour trading volume of $15,759,041,998. This represents a -2.93% price decline in the last",
+    "excerpt": "The price of Ethereum (ETH) on CoinGecko is $2,617.94 today with a 24-hour trading volume of $15,759,041,998. This represents a -2.93% price decline in the last 24 hours and a -1.83% price decline in the past 7 days. The current circulating supply of Ethereum is 120 million, and the market cap is $3",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Ethereum (ETH) Price USD Today, News, Charts, Market Cap | Coinbase"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "ethereum-usd-eth-usd-latest-stock-news-headlines-yahoo-finance",
+    "type": "news",
+    "title": "Ethereum USD (ETH-USD) Latest Stock News & Headlines - Yahoo Finance",
+    "slug": "ethereum-usd-eth-usd-latest-stock-news-headlines-yahoo-finance",
+    "date": "2026-10-07",
+    "displayDate": "October 7, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "As of October 7, 2026, the Ethereum USD (ETH-USD) price is $2,712.86, up by $9.43 or 0.35%. Recent news includes the clearance of 3x leveraged Bitcoin and Ether",
+    "excerpt": "As of October 7, 2026, the Ethereum USD (ETH-USD) price is $2,712.86, up by $9.43 or 0.35%. Recent news includes the clearance of 3x leveraged Bitcoin and Ethereum funds by the SEC, the shutdown of Ethereum Layer 2 Blast, and Ethereum's potential to reach $10,000 by December according to Arthur Haye",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Ethereum USD (ETH-USD) Latest Stock News & Headlines - Yahoo Finance"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "fed-meeting-today-live-updates",
+    "type": "news",
+    "title": "Fed meeting today: Live updates",
+    "slug": "fed-meeting-today-live-updates",
+    "date": "2026-10-07",
+    "displayDate": "October 7, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The sources indicate that the Federal Reserve raised its benchmark interest rate by a quarter percentage point and suggested one more increase could be in the c",
+    "excerpt": "The sources indicate that the Federal Reserve raised its benchmark interest rate by a quarter percentage point and suggested one more increase could be in the cards before year-end. The FOMC members see one more hike this year after Wednesday's move to end at the median rate of 4.1%. However, the sp",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Fed meeting today: Live updates"
+    },
+    "readingTime": 5
+  },
+  {
     "id": "federal-open-market-committee-wikipedia",
     "type": "news",
     "title": "Federal Open Market Committee - Wikipedia",
@@ -252,6 +420,27 @@
     "readingTime": 3
   },
   {
+    "id": "global-stock-market-news-and-world-indices-coverage",
+    "type": "news",
+    "title": "Global Stock Market News and World Indices Coverage",
+    "slug": "global-stock-market-news-and-world-indices-coverage",
+    "date": "2026-10-07",
+    "displayDate": "October 7, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The sources provide mixed updates on global stock markets as of today, October 7, 2026. According to CNBC, European markets have seen volatility due to politica",
+    "excerpt": "The sources provide mixed updates on global stock markets as of today, October 7, 2026. According to CNBC, European markets have seen volatility due to political turmoil in the UK and tensions with Iran, while Asian markets have shown mixed results with South Korea stocks falling significantly. Inve",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Global Stock Market News and World Indices Coverage"
+    },
+    "readingTime": 5
+  },
+  {
     "id": "health-care-sector-industry-performance-bloomberg",
     "type": "news",
     "title": "Health Care Sector & Industry Performance - Bloomberg",
@@ -269,6 +458,27 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "Health Care Sector & Industry Performance - Bloomberg"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "inflation-consumer-prices-for-the-united-states-fpcpitotlzgusa-fred-st-louis-fed",
+    "type": "news",
+    "title": "Inflation, consumer prices for the United States (FPCPITOTLZGUSA) | FRED | St. Louis Fed",
+    "slug": "inflation-consumer-prices-for-the-united-states-fpcpitotlzgusa-fred-st-louis-fed",
+    "date": "2026-10-07",
+    "displayDate": "October 7, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The latest available data for inflation, consumer prices for the United States (FPCPITOTLZGUSA) as of April 16, 2025, shows an annual rate of 2.94953 percent. T",
+    "excerpt": "The latest available data for inflation, consumer prices for the United States (FPCPITOTLZGUSA) as of April 16, 2025, shows an annual rate of 2.94953 percent. The next release date is not available. For High Income Countries (FPCPITOTLZGHIC), the most recent annual observation is 2.34899 percent for",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Inflation, consumer prices for the United States (FPCPITOTLZGUSA) | FRED | St. Louis Fed"
     },
     "readingTime": 4
   },
@@ -311,6 +521,48 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "Outlook-at-Risk: Real GDP Growth, Unemployment, and Inflation - FEDERAL RESERVE BANK of NEW YORK"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "s-p-500-forecast-market-analysis-trend",
+    "type": "news",
+    "title": "S&P 500 Forecast: Market Analysis & Trend",
+    "slug": "s-p-500-forecast-market-analysis-trend",
+    "date": "2026-10-07",
+    "displayDate": "October 7, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "According to Goldman Sachs, the S&P 500 is projected to rally more than expected, rising 6% to 6,600 in the next six months and 11% to 6,900 in the next 12 mont",
+    "excerpt": "According to Goldman Sachs, the S&P 500 is projected to rally more than expected, rising 6% to 6,600 in the next six months and 11% to 6,900 in the next 12 months, up from previous forecasts of 6,100 and 6,500 respectively. This change is attributed to earlier and deeper rate cuts from the Federal R",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "S&P 500 Forecast: Market Analysis & Trend"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "s-p-500-index-sp500-analysis-news-and-chart-today-seeking-alpha",
+    "type": "news",
+    "title": "S&P 500 Index (SP500) Analysis, News, And Chart Today | Seeking Alpha",
+    "slug": "s-p-500-index-sp500-analysis-news-and-chart-today-seeking-alpha",
+    "date": "2026-10-07",
+    "displayDate": "October 7, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The sources provide analysis and news related to the S&P 500 Index, including cautionary tales on insider buying, AI stocks outlook, and market trends such as t",
+    "excerpt": "The sources provide analysis and news related to the S&P 500 Index, including cautionary tales on insider buying, AI stocks outlook, and market trends such as tech stocks rallying and elevated short selling pointing to a year-end rally. The State Street SPDR S&P 500 ETF Trust (SPY) post-market price",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "S&P 500 Index (SP500) Analysis, News, And Chart Today | Seeking Alpha"
     },
     "readingTime": 4
   },
@@ -374,6 +626,27 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "Stock Market Outlook Today & Tomorrow | Market Outlook & Forecast | Seeking Alpha"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "stock-market-today-s-p-500-upgraded-by-citi-ubs",
+    "type": "news",
+    "title": "Stock Market Today: S&P 500 upgraded by Citi, UBS",
+    "slug": "stock-market-today-s-p-500-upgraded-by-citi-ubs",
+    "date": "2026-10-07",
+    "displayDate": "October 7, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "UBS upgraded the S&P 500 target to 8,100 based on a new $400 earnings estimate, implying 20.3 times earnings, and highlighted resilient U.S. growth, supportive ",
+    "excerpt": "UBS upgraded the S&P 500 target to 8,100 based on a new $400 earnings estimate, implying 20.3 times earnings, and highlighted resilient U.S. growth, supportive monetary policy, and continued AI adoption as major pillars. Citi is not mentioned in the provided sources as having upgraded the S&P 500. T",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Stock Market Today: S&P 500 upgraded by Citi, UBS"
     },
     "readingTime": 4
   },
@@ -546,6 +819,27 @@
     "readingTime": 4
   },
   {
+    "id": "united-states-federal-reserve-interest-rate-decision",
+    "type": "news",
+    "title": "United States Federal Reserve Interest Rate Decision",
+    "slug": "united-states-federal-reserve-interest-rate-decision",
+    "date": "2026-10-07",
+    "displayDate": "October 7, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The next Federal Reserve interest rate decision is scheduled for October 28, 2026, at 6:00 PM GMT, according to the sources. The most recent decision on March 1",
+    "excerpt": "The next Federal Reserve interest rate decision is scheduled for October 28, 2026, at 6:00 PM GMT, according to the sources. The most recent decision on March 18, 2026, kept rates unchanged at 3.50% to 3.75%. The effective federal funds rate is currently around 3.64%. The Federal Reserve announces i",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "United States Federal Reserve Interest Rate Decision"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "united-states-indicators",
     "type": "news",
     "title": "United States Indicators",
@@ -609,25 +903,46 @@
     "readingTime": 3
   },
   {
-    "id": "12-month-percentage-change-consumer-price-index-selected-categories",
+    "id": "what-are-earnings-reports",
     "type": "news",
-    "title": "12-month percentage change, Consumer Price Index, selected categories",
-    "slug": "12-month-percentage-change-consumer-price-index-selected-categories",
-    "date": "2026-10-06",
-    "displayDate": "October 6, 2026",
-    "category": "Economic Data",
+    "title": "What Are Earnings Reports?",
+    "slug": "what-are-earnings-reports",
+    "date": "2026-10-07",
+    "displayDate": "October 7, 2026",
+    "category": "Company News",
     "tags": [
-      "economic data",
+      "company news",
       "financial news",
       "market update"
     ],
-    "metaDescription": "The 12-month percentage change in the Consumer Price Index (CPI) for selected categories in August 2026, not seasonally adjusted, shows the following: All items",
-    "excerpt": "The 12-month percentage change in the Consumer Price Index (CPI) for selected categories in August 2026, not seasonally adjusted, shows the following: All items increased by 3.4%, food by 2.7%, food at home by 2.2%, cereals and bakery products by 2.6%, meats, poultry, fish, and eggs by 1.1%, dairy a",
+    "metaDescription": "Earnings reports provide a detailed overview of a company's financial performance during a specific period, typically quarterly or annually. They offer a window",
+    "excerpt": "Earnings reports provide a detailed overview of a company's financial performance during a specific period, typically quarterly or annually. They offer a window into a company's operations and its ability to generate returns for shareholders in the future. Earnings reports include key metrics such a",
     "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "12-month percentage change, Consumer Price Index, selected categories"
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "What Are Earnings Reports?"
     },
     "readingTime": 3
+  },
+  {
+    "id": "when-is-the-next-fed-interest-rate-decision-equals-money",
+    "type": "news",
+    "title": "When is the next Fed interest rate decision? | Equals Money",
+    "slug": "when-is-the-next-fed-interest-rate-decision-equals-money",
+    "date": "2026-10-07",
+    "displayDate": "October 7, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The next Federal Reserve interest rate decision is scheduled for Wednesday, October 28, 2026, at 2:00 PM Eastern Time (ET) according to FedRateCalc. Equals Mone",
+    "excerpt": "The next Federal Reserve interest rate decision is scheduled for Wednesday, October 28, 2026, at 2:00 PM Eastern Time (ET) according to FedRateCalc. Equals Money also confirms the next decision is on April 29, 2026, at 18:00 GMT. However, the Investing.com economic calendar lists the next decision a",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "When is the next Fed interest rate decision? | Equals Money"
+    },
+    "readingTime": 4
   },
   {
     "id": "2026-investment-outlook-themes-for-portfolio-strategies",
@@ -756,27 +1071,6 @@
     "readingTime": 4
   },
   {
-    "id": "company-earnings-calendar-yahoo-finance",
-    "type": "news",
-    "title": "Company Earnings Calendar - Yahoo Finance",
-    "slug": "company-earnings-calendar-yahoo-finance",
-    "date": "2026-10-06",
-    "displayDate": "October 6, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "On October 6, 2026, the sources indicate that several companies are scheduled to announce their earnings. Specifically, Penguin Solutions, Inc. is set to announ",
-    "excerpt": "On October 6, 2026, the sources indicate that several companies are scheduled to announce their earnings. Specifically, Penguin Solutions, Inc. is set to announce its Q4 2026 earnings, and Toro Corp. is scheduled for its Q2 2026 earnings announcement. Additionally, VCI Global Limited has an H1 2026 ",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Company Earnings Calendar - Yahoo Finance"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "crypto-com-buy-sell-trade-crypto-stocks-more",
     "type": "news",
     "title": "Crypto.com: Buy, Sell, Trade Crypto, Stocks & More",
@@ -838,48 +1132,6 @@
       "alt": "Crypto Market Today: Bitcoin, Ethereum and XRP Price Prediction"
     },
     "readingTime": 4
-  },
-  {
-    "id": "crypto-news-bitcoin-ethereum-xrp-news-crypto-news",
-    "type": "news",
-    "title": "Crypto News: Bitcoin, Ethereum & XRP News | crypto.news",
-    "slug": "crypto-news-bitcoin-ethereum-xrp-news-crypto-news",
-    "date": "2026-10-06",
-    "displayDate": "October 6, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "According to crypto.news, Bitcoin, Ethereum, and Ripple ecosystems are covered extensively, with the latest developments in the crypto industry being reported. ",
-    "excerpt": "According to crypto.news, Bitcoin, Ethereum, and Ripple ecosystems are covered extensively, with the latest developments in the crypto industry being reported. A YouTube video from August 2026 highlights Bitcoin reaching $70K and Altcoins like Ethereum, XRP, and Solana experiencing price increases. ",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Crypto News: Bitcoin, Ethereum & XRP News | crypto.news"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "current-u-s-inflation-rate-is-3-4-chart-and-why-it-matters-nerdwallet",
-    "type": "news",
-    "title": "Current U.S. Inflation Rate Is 3.4%: Chart and Why It Matters - NerdWallet",
-    "slug": "current-u-s-inflation-rate-is-3-4-chart-and-why-it-matters-nerdwallet",
-    "date": "2026-10-06",
-    "displayDate": "October 6, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The sources indicate that the current U.S. inflation rate is 3.4%, as of July 2026. This inflation rate refers to the rise in prices of goods and services over ",
-    "excerpt": "The sources indicate that the current U.S. inflation rate is 3.4%, as of July 2026. This inflation rate refers to the rise in prices of goods and services over time, which reduces the purchasing power of the dollar. The Consumer Price Index (CPI) measures this inflation by tracking the price fluctua",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Current U.S. Inflation Rate Is 3.4%: Chart and Why It Matters - NerdWallet"
-    },
-    "readingTime": 3
   },
   {
     "id": "earnings-after-hours-next-amc-reports-oct-5-onward-implied-moves",
@@ -1050,27 +1302,6 @@
     "readingTime": 4
   },
   {
-    "id": "earnings-whispers",
-    "type": "news",
-    "title": "Earnings Whispers",
-    "slug": "earnings-whispers",
-    "date": "2026-10-06",
-    "displayDate": "October 6, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "According to Earnings Whispers, Micron Technology (MU) reported earnings of $33.42 per share on revenue of $54.23 billion for the fiscal fourth quarter ended Au",
-    "excerpt": "According to Earnings Whispers, Micron Technology (MU) reported earnings of $33.42 per share on revenue of $54.23 billion for the fiscal fourth quarter ended August 2026, missing the consensus earnings estimate of $31.41 per share on revenue of $50.86 billion. Meanwhile, Zscaler (ZS) beat expectatio",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Earnings Whispers"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "economic-indicators-calendar-federal-reserve-bank-of-new-york",
     "type": "news",
     "title": "Economic Indicators Calendar - FEDERAL RESERVE BANK of NEW YORK",
@@ -1132,27 +1363,6 @@
       "alt": "Economic Release Calendar - CME Group"
     },
     "readingTime": 3
-  },
-  {
-    "id": "ethereum-eth-price-usd-today-news-charts-market-cap-coinbase",
-    "type": "news",
-    "title": "Ethereum (ETH) Price USD Today, News, Charts, Market Cap | Coinbase",
-    "slug": "ethereum-eth-price-usd-today-news-charts-market-cap-coinbase",
-    "date": "2026-10-06",
-    "displayDate": "October 6, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The live price of Ethereum (ETH) on Coinbase is updated in real-time and the current market cap of Ethereum is $331.006B. The price of Coinbase Wrapped Staked E",
-    "excerpt": "The live price of Ethereum (ETH) on Coinbase is updated in real-time and the current market cap of Ethereum is $331.006B. The price of Coinbase Wrapped Staked ETH (CBETH) is $3,077.74 with a 24-hour trading volume of $9,688,012. Coinbase Wrapped Staked ETH is down 0.39% in the last 24 hours. The cur",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Ethereum (ETH) Price USD Today, News, Charts, Market Cap | Coinbase"
-    },
-    "readingTime": 4
   },
   {
     "id": "fall-2026-investment-directions-ishares",
@@ -1281,48 +1491,6 @@
     "readingTime": 4
   },
   {
-    "id": "global-stock-market-news-and-world-indices-coverage",
-    "type": "news",
-    "title": "Global Stock Market News and World Indices Coverage",
-    "slug": "global-stock-market-news-and-world-indices-coverage",
-    "date": "2026-10-06",
-    "displayDate": "October 6, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The sources provide mixed information on global stock market indices as of today, October 6, 2026. According to CNBC, the Nikkei 225 closed higher on June 9, 20",
-    "excerpt": "The sources provide mixed information on global stock market indices as of today, October 6, 2026. According to CNBC, the Nikkei 225 closed higher on June 9, 2026, with a gain of 1,414.73 points to 66,896.00, while the Hang Seng closed down by 640.98 points to 23,972.29 on October 2, 2026. Investing",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Global Stock Market News and World Indices Coverage"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "inflation-consumer-prices-for-the-united-states-fpcpitotlzgusa-fred-st-louis-fed",
-    "type": "news",
-    "title": "Inflation, consumer prices for the United States (FPCPITOTLZGUSA) | FRED | St. Louis Fed",
-    "slug": "inflation-consumer-prices-for-the-united-states-fpcpitotlzgusa-fred-st-louis-fed",
-    "date": "2026-10-06",
-    "displayDate": "October 6, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The latest available data for inflation, consumer prices for the United States (FPCPITOTLZGUSA) as of April 16, 2025, shows an annual rate of 2.94953 percent. T",
-    "excerpt": "The latest available data for inflation, consumer prices for the United States (FPCPITOTLZGUSA) as of April 16, 2025, shows an annual rate of 2.94953 percent. The most recent annual observation is from 2024. The next release date is not available. For high-income countries, the annual rate for 2025 ",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Inflation, consumer prices for the United States (FPCPITOTLZGUSA) | FRED | St. Louis Fed"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "investment-strategy-2026-portfolio-moves-for-a-changing-market",
     "type": "news",
     "title": "Investment Strategy 2026 Portfolio Moves for a Changing Market",
@@ -1426,27 +1594,6 @@
       "alt": "Ping An Healthcare and Technology Company Ltd Stock Price Today | HK: 1833 Live - Investing.com"
     },
     "readingTime": 3
-  },
-  {
-    "id": "s-p-500-index-sp500-analysis-news-and-chart-today-seeking-alpha",
-    "type": "news",
-    "title": "S&P 500 Index (SP500) Analysis, News, And Chart Today | Seeking Alpha",
-    "slug": "s-p-500-index-sp500-analysis-news-and-chart-today-seeking-alpha",
-    "date": "2026-10-06",
-    "displayDate": "October 6, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The S&P 500 Index closed at 7,774.00, up 51.28 points or 0.66%, as of 4:02 PM on 10/05/26. The 52-week range is from 6,316.91 to 7,816.70, and the day range is ",
-    "excerpt": "The S&P 500 Index closed at 7,774.00, up 51.28 points or 0.66%, as of 4:02 PM on 10/05/26. The 52-week range is from 6,316.91 to 7,816.70, and the day range is from 7,727.59 to 7,794.35 with an open of 7,730.86 and a previous close of $7,722.72. The volume traded was 3,268,670,898. The sources don't",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "S&P 500 Index (SP500) Analysis, News, And Chart Today | Seeking Alpha"
-    },
-    "readingTime": 4
   },
   {
     "id": "sector-industry-performance-bloomberg",
@@ -1659,27 +1806,6 @@
     "readingTime": 4
   },
   {
-    "id": "united-states-federal-reserve-interest-rate-decision",
-    "type": "news",
-    "title": "United States Federal Reserve Interest Rate Decision",
-    "slug": "united-states-federal-reserve-interest-rate-decision",
-    "date": "2026-10-06",
-    "displayDate": "October 6, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The next Federal Reserve interest rate decision is scheduled for October 28, 2026, at 6:00 PM GMT, according to Equals Money. The most recent decision on March ",
-    "excerpt": "The next Federal Reserve interest rate decision is scheduled for October 28, 2026, at 6:00 PM GMT, according to Equals Money. The most recent decision on March 18, 2026, kept rates unchanged at 3.50% to 3.75%. The effective federal funds rate is currently around 3.64%. The Federal Reserve announces ",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "United States Federal Reserve Interest Rate Decision"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "us-markets-company-earnings-stock-market-trends-market-news",
     "type": "news",
     "title": "US Markets, Company Earnings, Stock Market Trends, Market News",
@@ -1741,27 +1867,6 @@
       "alt": "US Stock Market Today: S&P 500, Nasdaq and Dow | Bullstory"
     },
     "readingTime": 4
-  },
-  {
-    "id": "when-is-the-next-fed-interest-rate-decision-equals-money",
-    "type": "news",
-    "title": "When is the next Fed interest rate decision? | Equals Money",
-    "slug": "when-is-the-next-fed-interest-rate-decision-equals-money",
-    "date": "2026-10-06",
-    "displayDate": "October 6, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The next Federal Reserve (Fed) interest rate decision is due on Wednesday, April 29, 2026, at 18:00 GMT. The US Federal Reserve announces its decisions regardin",
-    "excerpt": "The next Federal Reserve (Fed) interest rate decision is due on Wednesday, April 29, 2026, at 18:00 GMT. The US Federal Reserve announces its decisions regarding interest rates eight times a year during Federal Open Market Committee (FOMC) meetings, approximately every six weeks. The federal funds r",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "When is the next Fed interest rate decision? | Equals Money"
-    },
-    "readingTime": 3
   },
   {
     "id": "bitcoin-price-btc-usd-today-live-price-market-cap-chart",
@@ -1890,27 +1995,6 @@
     "readingTime": 4
   },
   {
-    "id": "fed-meeting-today-live-updates",
-    "type": "news",
-    "title": "Fed meeting today: Live updates",
-    "slug": "fed-meeting-today-live-updates",
-    "date": "2026-10-05",
-    "displayDate": "October 5, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Reserve kept its overnight lending rate steady at a range of 3.5% to 3.75% during its policy meeting, according to CNBC's live blog covering the Fed",
-    "excerpt": "The Federal Reserve kept its overnight lending rate steady at a range of 3.5% to 3.75% during its policy meeting, according to CNBC's live blog covering the Federal Open Market Committee meeting and Chair Jerome Powell's press conference. The Federal Open Market Committee highlighted an improving ec",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Fed meeting today: Live updates"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "healthcare-stock-performance-yahoo-finance",
     "type": "news",
     "title": "Healthcare Stock Performance - Yahoo Finance",
@@ -2016,27 +2100,6 @@
     "readingTime": 3
   },
   {
-    "id": "stock-market-today-s-p-500-upgraded-by-citi-ubs",
-    "type": "news",
-    "title": "Stock Market Today: S&P 500 upgraded by Citi, UBS",
-    "slug": "stock-market-today-s-p-500-upgraded-by-citi-ubs",
-    "date": "2026-10-05",
-    "displayDate": "October 5, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "According to the sources, UBS has revamped its S&P 500 target for the rest of 2026, raising it to 8,100 from its previous target of 7,900, which reflects an exp",
-    "excerpt": "According to the sources, UBS has revamped its S&P 500 target for the rest of 2026, raising it to 8,100 from its previous target of 7,900, which reflects an expectation of higher corporate earnings. This new target implies a 5.5% upside from the S&P 500's close on August 21, 2026, at 7,674.37. The b",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Stock Market Today: S&P 500 upgraded by Citi, UBS"
-    },
-    "readingTime": 5
-  },
-  {
     "id": "stock-market-will-s-p-500-open-up-or-down-today-benzinga",
     "type": "news",
     "title": "Stock Market: Will S&P 500 Open Up or Down Today? - Benzinga",
@@ -2117,27 +2180,6 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "U.S. Multifamily Market Outlook 2026: Current Conditions, Investment Trends, and Five-Year Forecast"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "what-are-earnings-reports",
-    "type": "news",
-    "title": "What Are Earnings Reports?",
-    "slug": "what-are-earnings-reports",
-    "date": "2026-10-05",
-    "displayDate": "October 5, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Earnings reports provide a detailed overview of a company's financial performance during a specific period, typically quarterly or annually. They offer a window",
-    "excerpt": "Earnings reports provide a detailed overview of a company's financial performance during a specific period, typically quarterly or annually. They offer a window into a company's operations and its ability to generate returns for shareholders in the future. Earnings reports include key metrics such a",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "What Are Earnings Reports?"
     },
     "readingTime": 4
   },
