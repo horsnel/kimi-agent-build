@@ -23,13 +23,13 @@
   },
   {
     "id": 2,
-    "headline": "United States Stock Market Index - Quote - Chart - Historical Data - News",
-    "excerpt": "also continued to fuel inflation concerns amid fears of a potential escalation between the US and Iran and persistent threats to shipping through the Strait of Hormuz. In corporate news, Levi Strauss fell nearly 2% in extended trading after the retai",
+    "headline": "The New York Stock Exchange",
+    "excerpt": "Brent crude is up 4%, a little off its highs. US natural gas is lower. The inventory build was higher than expected and rose 20Bcf from last week’s build. Metals are mixed. Gold is modestly higher, hovering ~$4150. It tested $4100 at the lows yesterd",
     "date": "2026-10-08",
     "category": "Market Analysis",
     "featured": false,
-    "source": "tradingeconomics.com",
-    "articleSlug": "united-states-stock-market-index-quote-chart-historical-data-news",
+    "source": "nyse.com",
+    "articleSlug": "the-new-york-stock-exchange",
     "thumbnail": ""
   },
   {
@@ -45,24 +45,24 @@
   },
   {
     "id": 4,
+    "headline": "Earnings Calendar 2026 | Daily Earnings Reports",
+    "excerpt": "| Company | Release Time | Consensus Estimate | Actual EPS | Revenue Estimate | Actual Revenue | Details |\n ---  ---  --- \n| Aehr Test Systems stock logo  AEHR  Aehr Test Systems | Afternoon | $0.09 | N/A | $26.60 million | N/A |  |\n| AngioDynamics, ",
+    "date": "2026-10-08",
+    "category": "Company News",
+    "featured": false,
+    "source": "marketbeat.com",
+    "articleSlug": "earnings-calendar-2026-daily-earnings-reports",
+    "thumbnail": ""
+  },
+  {
+    "id": 5,
     "headline": "Company Earnings Calendar - Yahoo Finance",
-    "excerpt": "| CGTL | Creative Global Technology Holdings Limited | H1 2026 Earnings Announcement | AMC  -  6.29M |  |\n| TGL | Treasure Global Inc. | Q4 2026 Earnings Announcement | AMC  -  2.56M |  |\n| ISGIF | InsuraGuest Technologies Inc. | Q3 2026 Earnings Ann",
+    "excerpt": "| NPT | Texxon Holding Limited | H2 2026 Earnings Announcement | AMC  -  52.13M |  |\n| BGAVF | Bravada Gold Corporation | Q3 2026 Earnings Announcement | TNS  -  17.9M |  |\n| CANOF | California Nanotechnologies Corp. | Q2 2027 Earnings Announcement |",
     "date": "2026-10-08",
     "category": "Company News",
     "featured": false,
     "source": "finance.yahoo.com",
     "articleSlug": "company-earnings-calendar-yahoo-finance",
-    "thumbnail": ""
-  },
-  {
-    "id": 5,
-    "headline": "What Are Earnings Reports?",
-    "excerpt": "Upcoming Earnings\n   PepsiCo (10/8/2026)\n   Delta Air Lines (10/9/2026)\n   America Movil (10/13/2026)\n   Citigroup (10/13/2026)\n   The Goldman Sachs Group (10/13/2026)\n   JPMorgan Chase & Co. (10/13/2026)\n   Wells Fargo & Company (10/13/2026)\n   John",
-    "date": "2026-10-08",
-    "category": "Company News",
-    "featured": false,
-    "source": "marketbeat.com",
-    "articleSlug": "what-are-earnings-reports",
     "thumbnail": ""
   },
   {
@@ -90,7 +90,7 @@
   {
     "id": 8,
     "headline": "U.S. Bureau of Economic Analysis (BEA)",
-    "excerpt": "Current Release\n\n## Principal Federal Economic Indicators\n\nView\n\nGross Domestic Product\n\n|  |  |\n --- |\n| Q2 2026 (3rd) | +2.2% |\n\nView\n\nPersonal Income\n\n|  |  |\n --- |\n| August 2026 | +0.2% |\n\nView\n\nInternational Trade in Goods and Services\n\n|  |  |",
+    "excerpt": "Current Release\n\n## Principal Federal Economic Indicators\n\nView\n\nGross Domestic Product\n\nQ2 2026 (3rd)+2.2%\n\nView\n\nPersonal Income\n\nAugust 2026+0.2%\n\nView\n\nInternational Trade in Goods and Services\n\nAugust 2026-$105.6 B\n\nView\n\nInternational Transacti",
     "date": "2026-10-08",
     "category": "Economic Indicators",
     "featured": false,
@@ -100,17 +100,28 @@
   },
   {
     "id": 9,
-    "headline": "Sector Views: Monthly Stock Sector Outlook",
-    "excerpt": "| Health Care | 9.3 | 20.2 | 28.2 | 33.3 | 60.1 |\n| Industrials | 8.0 | 7.6 | 13.1 | 18.0 | 39.7 |\n| Information Technology | 39.7 | 45.6 | 32.5 | 54.1 | 76.1 |\n| Materials | 1.7 | 3.5 | 13.5 | 39.2 | 74.7 |\n| Real Estate | 1.7 | 6.1 | 4.5 | 34.8 | 6",
+    "headline": "Health Technology Sector: Companies, Performance and Stocks — USA — TradingView",
+    "excerpt": "| RMDResMed Inc. | 32.08 B USD | 222.41 USD | +0.14% | 315.06 K | 0.23 | 21.31 | 10.44 USD | +9.76% | 1.11% | Buy |\n| MTDMettler-Toledo International, Inc. | 30.64 B USD | 1,529.19 USD | −1.04% | 71.68 K | 0.27 | 34.42 | 44.43 USD | +12.54% | 0.00% |",
     "date": "2026-10-08",
     "category": "Sector Performance",
     "featured": false,
-    "source": "schwab.com",
-    "articleSlug": "sector-views-monthly-stock-sector-outlook",
+    "source": "tradingview.com",
+    "articleSlug": "health-technology-sector-companies-performance-and-stocks-usa-tradingview",
     "thumbnail": ""
   },
   {
     "id": 10,
+    "headline": "Innovation beyond tech: inside healthcare stocks | BlackRock",
+    "excerpt": "Today, as investors are starting to look for areas of opportunity outside of technology, we believe some capital could find its way back to healthcare. The sector’s innovative edge comes with relatively low correlation to tech ― and the broader tech-",
+    "date": "2026-10-08",
+    "category": "Sector Performance",
+    "featured": false,
+    "source": "blackrock.com",
+    "articleSlug": "innovation-beyond-tech-inside-healthcare-stocks-blackrock",
+    "thumbnail": ""
+  },
+  {
+    "id": 11,
     "headline": "Healthcare Stock Performance - Yahoo Finance",
     "excerpt": "1. Crypto\n2. AI\n\n2. Sectors\n3. /\n4. Healthcare\n\nHealthcare\n\nThis sector includes biotechnology, pharmaceuticals, research services, home healthcare, hospitals, long-term-care facilities, and medical equipment and supplies. Also include pharmaceutical",
     "date": "2026-10-08",
@@ -118,17 +129,6 @@
     "featured": false,
     "source": "finance.yahoo.com",
     "articleSlug": "healthcare-stock-performance-yahoo-finance",
-    "thumbnail": ""
-  },
-  {
-    "id": 11,
-    "headline": "HCA Stock Rises as Healthcare Sector Lags in 2025",
-    "excerpt": "Shareholders have every reason to expect HCA to continue bucking the healthcare sector’s lackluster performance in 2025. The company’s trailing annualized EPS stands at $23.79, good for an attractive price-to-earnings (P/E) ratio of 14.23. Next year,",
-    "date": "2026-10-08",
-    "category": "Sector Performance",
-    "featured": false,
-    "source": "marketbeat.com",
-    "articleSlug": "hca-stock-rises-as-healthcare-sector-lags-in-2025",
     "thumbnail": ""
   },
   {
@@ -144,13 +144,13 @@
   },
   {
     "id": 13,
-    "headline": "Markets: News & Insights - Nikkei Asia",
-    "excerpt": "##### Commodities\n\n#### Australia's Lynas looks to Brazil with Meteoric Resources takeover bid\n\nRare earth miner and refiner expands efforts to make itself alternative to China\n\n1 October 2026\n\nDenmark's Pandora has built its first factory outside Th",
+    "headline": "Asia Market Data - MarketWatch",
+    "excerpt": "| Name | Last | Chg | Chg % |\n ---  --- |\n| NIKKEI 225 Index | 69,457.91 | -577.80 | -0.83% |\n| Advanced Charting | | | |\n| Hang Seng Index | 23,963.31 | -167.19 | -0.69% |\n| Shanghai Composite Index | 3,831.84 | -10.35 | -0.27% |\n| BSE SENSEX Index ",
     "date": "2026-10-08",
     "category": "Global Markets",
     "featured": false,
-    "source": "asia.nikkei.com",
-    "articleSlug": "markets-news-insights-nikkei-asia",
+    "source": "marketwatch.com",
+    "articleSlug": "asia-market-data-marketwatch",
     "thumbnail": ""
   },
   {
@@ -166,17 +166,6 @@
   },
   {
     "id": 15,
-    "headline": "The Best Investment Strategies For The Continuous Market - Investing.com",
-    "excerpt": "Let’s take a look at some of the most popular investment strategies.\n\n### Value Investing\n\nThis is an investment strategy that involves selecting stocks which appear to be undervalued in the market. The goal is to buy these stocks at prices lower tha",
-    "date": "2026-10-08",
-    "category": "Investment Strategies",
-    "featured": false,
-    "source": "investing.com",
-    "articleSlug": "the-best-investment-strategies-for-the-continuous-market-investing-com",
-    "thumbnail": ""
-  },
-  {
-    "id": 16,
     "headline": "The Best $7,000 TFSA Investments for Current Market Conditions",
     "excerpt": "Those who are afraid of jumping in at a high could dollar-cost average into their positions over the next months, such as buying $500/month at a time using commission-free trading platforms like Wealthsimple that allow for partial share purchases. [.",
     "date": "2026-10-08",
@@ -187,7 +176,7 @@
     "thumbnail": ""
   },
   {
-    "id": 17,
+    "id": 16,
     "headline": "Investment strategies for today and long-term | BlackRock",
     "excerpt": "To reach a different BlackRock site directly, please update your user type.\n\nBlackRock for Advisors homepage\n\nRead our 2026 Fall Investment Directions: AI, Politics, and PortfoliosRead our 2026 Fall Investment Directions: AI, Politics, and Portfolios",
     "date": "2026-10-08",
@@ -195,6 +184,17 @@
     "featured": false,
     "source": "blackrock.com",
     "articleSlug": "investment-strategies-for-today-and-long-term-blackrock",
+    "thumbnail": ""
+  },
+  {
+    "id": 17,
+    "headline": "5 Strategies to Navigate Market Volatility | Morgan Stanley",
+    "excerpt": "2.    2   Embrace Consistency with Dollar-Cost Averaging  It’s easy to fall into a trap of inaction by overthinking the “perfect” time to invest or to take inappropriately low risks when markets get choppy. Instead, consider dollar-cost averaging, a ",
+    "date": "2026-10-08",
+    "category": "Investment Strategies",
+    "featured": false,
+    "source": "morganstanley.com",
+    "articleSlug": "5-strategies-to-navigate-market-volatility-morgan-stanley",
     "thumbnail": ""
   },
   {
@@ -233,7 +233,7 @@
   {
     "id": 21,
     "headline": "Earnings Calendar - Investing.com",
-    "excerpt": "|  | Monday, October 12, 2026 |  |  |  |  |  |  |  |  |\n|  | Louis Vuitton ADR  (  LVMUY  )  Louis Vuitton ADR | -  /  -  / | 21.31B | 214.32B |  | 85.18-2.17%  aa.aa | -  / \n|  | Tuesday, October 13, 2026 |  |  |  |  |  |  |  |  |\n|  | JPMorgan  (  ",
+    "excerpt": "|  | Company | EPS  / | Forecast | Revenue  / | Forecast | Market Cap | Time | Last | Extended Hours | EPS Revisions | EPS Surprise %  / | Revenue Surprise % |\n ---  ---  ---  ---  ---  --- \n|  | Thursday, October 8, 2026 |  |  |  |  |  |  |  |  |\n| ",
     "date": "2026-10-08",
     "category": "Earnings",
     "featured": false,
@@ -243,24 +243,24 @@
   },
   {
     "id": 22,
-    "headline": "Earnings Whispers",
-    "excerpt": "This week's earnings parade features a fascinating split between the winners strutting in with confidence and the stragglers hoping to avoid a beating. Micron leads the technology charge with real swagger, riding a wave of optimism that has traders b",
+    "headline": "Earnings Calendar | Leverage Shares",
+    "excerpt": "| Oct 26, 2026 | Cadence Design Systems Cadence Design Systems | CDNG |\n| Oct 27, 2026 | Robinhood Markets Robinhood Markets | HOOG |\n| Oct 27, 2026 | PayPal Holdings PayPal Holdings | PYPG |\n| Oct 27, 2026 | NXP Semiconductors N.V. NXP Semiconductor",
     "date": "2026-10-08",
     "category": "Earnings",
     "featured": false,
-    "source": "earningswhispers.com",
-    "articleSlug": "earnings-whispers",
+    "source": "leverageshares.com",
+    "articleSlug": "earnings-calendar-leverage-shares",
     "thumbnail": ""
   },
   {
     "id": 23,
-    "headline": "Earnings Calendar and Analysis for This Week (October 5-9) | Kiplinger",
-    "excerpt": "The soft drink and salty snack maker reported third-quarter EPS of $2.34 on revenue of $25.25 billion, beating a Wall Street forecast for $2.30 on $24.98 billion. Growth was driven by international operations, as beverage volumes in North America dec",
+    "headline": "Schedule of Releases for Real Earnings",
+    "excerpt": "| September 2026 | Oct. 14, 2026 | 08:30 AM |\n| October 2026 | Nov. 10, 2026 | 08:30 AM |\n| November 2026 | Dec. 10, 2026 | 08:30 AM | [...] | Jun. 10, 2026 | 08:30 AM | | June 2026 | Jul. 14, 2026 | 08:30 AM | | July 2026 | Aug. 12, 2026 | 08:30 AM ",
     "date": "2026-10-08",
     "category": "Earnings",
     "featured": false,
-    "source": "kiplinger.com",
-    "articleSlug": "earnings-calendar-and-analysis-for-this-week-october-5-9-kiplinger",
+    "source": "bls.gov",
+    "articleSlug": "schedule-of-releases-for-real-earnings",
     "thumbnail": ""
   },
   {
@@ -276,57 +276,57 @@
   },
   {
     "id": 25,
-    "headline": "U.S. Bureau of Labor Statistics :  U.S. Bureau of Labor Statistics",
-    "excerpt": "Check out highlights, including the fastest growing occupations and occupations expected to have the most new jobs. read more\n\nprevious; \"Previous\")\n\n12345\n\nnext; \"Next\")\n\n### Latest Numbers\n\nImage 19: RSS  \n\nConsumer Price Index (CPI):  \n+0.4% in Au",
+    "headline": "Consumer Price Index Summary \r - 2026 M08 Results",
+    "excerpt": "Latest Releases\n       Major Economic Indicators\n       Schedules for news Releases\n       By Month\n       By News Release\n       Current Year\n       Prior Years\n       Archived News Releases\n\n       Employment & Unemployment\n       Monthly\n       Qu",
     "date": "2026-10-08",
     "category": "Economic Data",
     "featured": false,
     "source": "bls.gov",
-    "articleSlug": "u-s-bureau-of-labor-statistics-u-s-bureau-of-labor-statistics",
+    "articleSlug": "consumer-price-index-summary-2026-m08-results",
     "thumbnail": ""
   },
   {
     "id": 26,
-    "headline": "Outlook-at-Risk: Real GDP Growth, Unemployment, and Inflation - FEDERAL RESERVE BANK of NEW YORK",
-    "excerpt": "For real GDP growth and CPI inflation, Outlook-at-Risk considers risks around the average quarterly growth rate over the next four quarters; however, for the unemployment rate it considers risks around the quarterly average in four quarters’ time. Wh",
+    "headline": "US Economy Slowing? Inflation Up, Job Market Down: Will Fed Cut Rates? | Jobs Data | US Inflation",
+    "excerpt": "[1:33] while the prices are heating up, the job market is cooling down. Weekly unemployment claims rose by 27,000,\n[1:42] hitting 263,000, the highest level in nearly four years. Hiring has also slowed dramatically. In August, the\n[1:50] economy only",
     "date": "2026-10-08",
     "category": "Economic Data",
     "featured": false,
-    "source": "newyorkfed.org",
-    "articleSlug": "outlook-at-risk-real-gdp-growth-unemployment-and-inflation-federal-reserve-bank-",
+    "source": "youtube.com",
+    "articleSlug": "us-economy-slowing-inflation-up-job-market-down-will-fed-cut-rates-jobs-data-us-",
     "thumbnail": ""
   },
   {
     "id": 27,
-    "headline": "Crypto News: Bitcoin, Ethereum & XRP News | crypto.news",
-    "excerpt": "crypto.news is a leading name in the cryptocurrency news space, providing the latest and most relevant updates on Bitcoin, Ethereum, and Ripple ecosystems. Setting the industry standard in journalism, crypto.news covers a wide array of topics ranging",
+    "headline": "Bitcoin price today Analysis: Uptrend Holds but Momentum Fades",
+    "excerpt": "## FAQ\n\n### What is Bitcoin’s price today?\n\nBitcoin is trading at $83,430 as of September 30, 2026, just above its daily pivot of $83,372, with total crypto market capitalization at $2.87 trillion.\n\n### Is Bitcoin’s daily trend still bullish?\n\nYes. T",
     "date": "2026-10-08",
     "category": "Crypto",
     "featured": false,
-    "source": "crypto.news",
-    "articleSlug": "crypto-news-bitcoin-ethereum-xrp-news-crypto-news",
+    "source": "en.cryptonomist.ch",
+    "articleSlug": "bitcoin-price-today-analysis-uptrend-holds-but-momentum-fades",
     "thumbnail": ""
   },
   {
     "id": 28,
-    "headline": "Ethereum USD (ETH-USD) Latest Stock News & Headlines - Yahoo Finance",
-    "excerpt": "1. Crypto\n2. AI\n\nEthereum USD \n\nCryptocurrency • USD \n\n# Ethereum USD Price (ETH-USD)\n\n2,518.80  -50.74  (-1.97%)\n\nAs of 3:08:54 PM UTC. Market Open.\n\nAll  News\n\n Bitcoin and ethereum prices today, Thursday, October 8, 2026: Crypto values fall as oil",
+    "headline": "Crypto Market Today: Bitcoin Rebounds 5% as Ethereum Shows Strong Recovery",
+    "excerpt": "Bitcoin price today hovered near a critical psychological level, bouncing back after experiencing short-term selling pressure earlier this week. Market analysts suggest that the rebound is driven by a mix of institutional interest and technical suppo",
     "date": "2026-10-08",
     "category": "Crypto",
     "featured": false,
-    "source": "finance.yahoo.com",
-    "articleSlug": "ethereum-usd-eth-usd-latest-stock-news-headlines-yahoo-finance",
+    "source": "infope.in",
+    "articleSlug": "crypto-market-today-bitcoin-rebounds-5-as-ethereum-shows-strong-recovery",
     "thumbnail": ""
   },
   {
     "id": 29,
-    "headline": "CoinDesk: Bitcoin, Ethereum, XRP, Crypto News and Price Data",
-    "excerpt": "02.\n\n## U.S. scraps proposed $10,000 reporting rule for for crypto sent to private wallets1 day ago\n\n03.\n\n## Bitcoin is about to get a major bullish signal it hasn't had in over a year2 days ago\n\n04.\n\n## Live updates: Bitcoin edges up from worst leve",
+    "headline": "Bitcoin Price (BTC/USD) Today | Live Price, Market Cap & Chart",
+    "excerpt": "Image 1: Binance\n\nBuy Crypto\n\nMarkets\n\nTrade\n\nFutures\n\nEarn\n\nSquare\n\nInstitutional\n\nAI\n\nMore\n\nLog InSign Up\n\nImage 2\n\nScan to Download App iOS & Android\n\nMore Download Options\n\nHome\n\nCrypto prices\n\nBitcoin Price (BTC)\n\nImage 3: Bitcoin Price\n\n# Bitco",
     "date": "2026-10-08",
     "category": "Crypto",
     "featured": false,
-    "source": "coindesk.com",
-    "articleSlug": "coindesk-bitcoin-ethereum-xrp-crypto-news-and-price-data",
+    "source": "binance.com",
+    "articleSlug": "bitcoin-price-btc-usd-today-live-price-market-cap-chart",
     "thumbnail": ""
   }
 ]
