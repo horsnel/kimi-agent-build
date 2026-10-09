@@ -3,8 +3,8 @@
   "type": "news",
   "title": "Earnings Whispers",
   "slug": "earnings-whispers",
-  "date": "2026-10-08",
-  "displayDate": "October 8, 2026",
+  "date": "2026-10-09",
+  "displayDate": "October 9, 2026",
   "author": "Sigma Capital",
   "category": "Earnings",
   "tags": [
@@ -30,14 +30,14 @@
     "sourceUrl": "https://www.earningswhispers.com"
   },
   "readingTime": 4,
-  "updatedAt": "2026-10-08T05:16:17.243Z",
+  "updatedAt": "2026-10-09T05:18:59.750Z",
   "images": {
     "thumbnail": {
-      "src": "/images/article_thumb_5.jpg",
+      "src": "/images/article_thumb_4.jpg",
       "alt": "Earnings Whispers"
     },
     "hero": {
-      "src": "/images/article_thumb_5.jpg",
+      "src": "/images/article_thumb_4.jpg",
       "alt": "Earnings Whispers"
     },
     "mid": {
@@ -46,7 +46,7 @@
     }
   },
   "image": {
-    "src": "/images/article_thumb_1.jpg",
+    "src": "/images/article_thumb_3.jpg",
     "alt": "Earnings Whispers"
   }
 }
