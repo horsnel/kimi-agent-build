@@ -1197,6 +1197,27 @@
     "readingTime": 4
   },
   {
+    "id": "us-markets-company-earnings-stock-market-trends-market-news",
+    "type": "news",
+    "title": "US Markets, Company Earnings, Stock Market Trends, Market News",
+    "slug": "us-markets-company-earnings-stock-market-trends-market-news",
+    "date": "2026-10-09",
+    "displayDate": "October 9, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Image 2 ### What’s Happening in the Markets This Week Lauren Solberg Oct 9, 2026Image 3 ### Q4 2026 Stock Market Outlook: Individual Stock Selection Looks Incre",
+    "excerpt": "Image 2 ### What’s Happening in the Markets This Week Lauren Solberg Oct 9, 2026Image 3 ### Q4 2026 Stock Market Outlook: Individual Stock Selection Looks Increasingly Important David Sekera, CFA Oct 8, 2026Image 4 ### Private Credit: The Software Sp",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "US Markets, Company Earnings, Stock Market Trends, Market News"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "wall-street",
     "type": "news",
     "title": "Wall Street",
@@ -1741,27 +1762,6 @@
       "alt": "US Economy Slowing? Inflation Up, Job Market Down: Will Fed Cut Rates? | Jobs Data | US Inflation"
     },
     "readingTime": 3
-  },
-  {
-    "id": "us-markets-company-earnings-stock-market-trends-market-news",
-    "type": "news",
-    "title": "US Markets, Company Earnings, Stock Market Trends, Market News",
-    "slug": "us-markets-company-earnings-stock-market-trends-market-news",
-    "date": "2026-10-08",
-    "displayDate": "October 8, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The US markets are seeing significant gains in several companies, with Bending Spoons SpA, Chaince Digital Holdings Inc, Penguin Solutions Inc, Londian Wason Ne",
-    "excerpt": "The US markets are seeing significant gains in several companies, with Bending Spoons SpA, Chaince Digital Holdings Inc, Penguin Solutions Inc, Londian Wason New Energy Tech Inc, and Braze Inc leading the pack. Penguin Solutions Inc reported a 68% year-over-year revenue increase in fiscal Q4 2026 an",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "US Markets, Company Earnings, Stock Market Trends, Market News"
-    },
-    "readingTime": 5
   },
   {
     "id": "what-are-earnings-reports",
