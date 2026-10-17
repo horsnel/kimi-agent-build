@@ -1,19 +1,19 @@
 {
-  "lastUpdated": "2026-10-17T10:02:36.117Z",
+  "lastUpdated": "2026-10-17T15:13:40.187Z",
   "scrapers": {
     "indices": {
       "status": "success",
-      "timestamp": "2026-10-17T10:02:36.117Z",
+      "timestamp": "2026-10-17T15:13:40.187Z",
       "duration": "5s"
     },
     "news": {
       "status": "success",
-      "timestamp": "2026-10-17T10:02:36.117Z",
+      "timestamp": "2026-10-17T15:13:40.187Z",
       "duration": "30s"
     },
     "crypto": {
       "status": "success",
-      "timestamp": "2026-10-17T10:02:36.117Z",
+      "timestamp": "2026-10-17T15:13:40.187Z",
       "duration": "15s"
     }
   },
