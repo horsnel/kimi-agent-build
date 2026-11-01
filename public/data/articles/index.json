@@ -1,5 +1,26 @@
 [
   {
+    "id": "12-month-percentage-change-consumer-price-index-selected-categories",
+    "type": "news",
+    "title": "12-month percentage change, Consumer Price Index, selected categories",
+    "slug": "12-month-percentage-change-consumer-price-index-selected-categories",
+    "date": "2026-11-01",
+    "displayDate": "November 1, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The sources provide historical data on the 12-month percentage change in the Consumer Price Index (CPI) for selected categories. The first source from Marotta o",
+    "excerpt": "The sources provide historical data on the 12-month percentage change in the Consumer Price Index (CPI) for selected categories. The first source from Marotta on Money shows the 12-month percentage change for various categories from March 2001 to March 2021. The second source from Usinflationcalcula",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "12-month percentage change, Consumer Price Index, selected categories"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "2026-fall-investment-directions-blackrock",
     "type": "news",
     "title": "2026 Fall Investment Directions | BlackRock",
@@ -80,6 +101,27 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "Asian Stock Market: Capital Markets News, Bond Market News, Commodities News, ETFs News"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "big-tech-stocks-hammered-by-ai-spending-fears",
+    "type": "news",
+    "title": "Big Tech Stocks Hammered by AI Spending Fears",
+    "slug": "big-tech-stocks-hammered-by-ai-spending-fears",
+    "date": "2026-11-01",
+    "displayDate": "November 1, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "According to Bloomberg Senior Editor for Technology and Strategic Industries Mike Shepard, disappointing Big Tech earnings are intensifying investor concerns ab",
+    "excerpt": "According to Bloomberg Senior Editor for Technology and Strategic Industries Mike Shepard, disappointing Big Tech earnings are intensifying investor concerns about whether massive AI spending will generate sufficient returns, particularly affecting Alphabet and Intel. Shepard discusses these concern",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Big Tech Stocks Hammered by AI Spending Fears"
     },
     "readingTime": 4
   },
@@ -231,6 +273,48 @@
     "readingTime": 4
   },
   {
+    "id": "crypto-news",
+    "type": "news",
+    "title": "Crypto News",
+    "slug": "crypto-news",
+    "date": "2026-11-01",
+    "displayDate": "November 1, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The sources provide recent updates on various cryptocurrencies and market trends. CryptoSlate reports on Aave reopening frozen markets, Maple locking $280M in X",
+    "excerpt": "The sources provide recent updates on various cryptocurrencies and market trends. CryptoSlate reports on Aave reopening frozen markets, Maple locking $280M in XRP collateral, MetaMask adding Stellar integration, Uniswap launching a TJAR fee tool, and Binance's withdrawal target amidst a $6.3 billion",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Crypto News"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "earnings-calendar-and-analysis-for-this-week-november-2-7-kiplinger",
+    "type": "news",
+    "title": "Earnings Calendar and Analysis for This Week (November 2-7) | Kiplinger",
+    "slug": "earnings-calendar-and-analysis-for-this-week-november-2-7-kiplinger",
+    "date": "2026-11-01",
+    "displayDate": "November 1, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "For the earnings calendar and analysis for the week of November 2-7, 2026, the sources indicate that Wednesday is the busiest day with 240 of the 755 companies ",
+    "excerpt": "For the earnings calendar and analysis for the week of November 2-7, 2026, the sources indicate that Wednesday is the busiest day with 240 of the 755 companies scheduled to report. Companies such as Bloomin' Brands, Brookfield Infrastructure, and Essent Group are among those with earnings estimates ",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Earnings Calendar and Analysis for This Week (November 2-7) | Kiplinger"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "earnings-calendar-marketwatch",
     "type": "news",
     "title": "Earnings Calendar | Marketwatch",
@@ -271,6 +355,27 @@
       "alt": "Earnings Calendar"
     },
     "readingTime": 3
+  },
+  {
+    "id": "earnings-this-week-earnings-calendar-earnings-hub",
+    "type": "news",
+    "title": "Earnings This Week, Earnings Calendar - Earnings Hub",
+    "slug": "earnings-this-week-earnings-calendar-earnings-hub",
+    "date": "2026-11-01",
+    "displayDate": "November 1, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The sources indicate that this week, several companies are scheduled to report their earnings. Specifically, COIN is set to report Q3 2026 earnings with an esti",
+    "excerpt": "The sources indicate that this week, several companies are scheduled to report their earnings. Specifically, COIN is set to report Q3 2026 earnings with an estimated EPS of $0.02 against an actual of $0.27, showing a 1,245.00% increase. PINS is also scheduled to report Q3 2026 earnings with an estim",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Earnings This Week, Earnings Calendar - Earnings Hub"
+    },
+    "readingTime": 4
   },
   {
     "id": "earnings",
@@ -334,6 +439,132 @@
       "alt": "Economic Indicators Calendar - FEDERAL RESERVE BANK of NEW YORK"
     },
     "readingTime": 3
+  },
+  {
+    "id": "economic-sector-performance-dashboards-yahoo-finance",
+    "type": "news",
+    "title": "Economic Sector Performance Dashboards - Yahoo Finance",
+    "slug": "economic-sector-performance-dashboards-yahoo-finance",
+    "date": "2026-11-01",
+    "displayDate": "November 1, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Yahoo Finance Economic Sector Performance Dashboards for the date show that the overall market weight for all sectors is 100% with a day return of 0.63% and",
+    "excerpt": "The Yahoo Finance Economic Sector Performance Dashboards for the date show that the overall market weight for all sectors is 100% with a day return of 0.63% and a year-to-date (YTD) return of 6.06%. The Technology sector has the highest market weight at 27.59% with a day return of 1.06% and a YTD re",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Economic Sector Performance Dashboards - Yahoo Finance"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "ethereum-eth-price-usd-today-news-charts-market-cap-coinbase",
+    "type": "news",
+    "title": "Ethereum (ETH) Price USD Today, News, Charts, Market Cap | Coinbase",
+    "slug": "ethereum-eth-price-usd-today-news-charts-market-cap-coinbase",
+    "date": "2026-11-01",
+    "displayDate": "November 1, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The live Ethereum price today is $2,268.09 USD according to CoinMarketCap, with a 24-hour trading volume of $4,621,021,846 USD. Coinbase reports the current mar",
+    "excerpt": "The live Ethereum price today is $2,268.09 USD according to CoinMarketCap, with a 24-hour trading volume of $4,621,021,846 USD. Coinbase reports the current market cap of Ethereum as $270.424B. CoinGecko shows the price of Ethereum at $2,267.04 with a 24-hour trading volume of $4,314,286,144.15. The",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Ethereum (ETH) Price USD Today, News, Charts, Market Cap | Coinbase"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "ethereum-news-latest-ethereum-news-today",
+    "type": "news",
+    "title": "Ethereum News | Latest Ethereum News Today",
+    "slug": "ethereum-news-latest-ethereum-news-today",
+    "date": "2026-11-01",
+    "displayDate": "November 1, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Ethereum's latest price is $2,272.81, up 1.54% today, with a 24h change of -6.15% from $2,502.53 to $2,348.56. Ethereum staking has hit a record as yields fall ",
+    "excerpt": "Ethereum's latest price is $2,272.81, up 1.54% today, with a 24h change of -6.15% from $2,502.53 to $2,348.56. Ethereum staking has hit a record as yields fall and Solana activity grows, with Bitmine adding 12,532 ETH and 12,535 ETH in recent days. Pudgy Penguins-backed Ethereum L2 Abstract is shutt",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Ethereum News | Latest Ethereum News Today"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "fed-rate-decision-october-2026",
+    "type": "news",
+    "title": "Fed rate decision October 2026",
+    "slug": "fed-rate-decision-october-2026",
+    "date": "2026-11-01",
+    "displayDate": "November 1, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Reserve held steady on rates at the conclusion of its October meeting, maintaining its target range of 3.75% to 4%. Two members of the Federal Open ",
+    "excerpt": "The Federal Reserve held steady on rates at the conclusion of its October meeting, maintaining its target range of 3.75% to 4%. Two members of the Federal Open Market Committee dissented from the decision: Governor Lisa Cook and Cleveland Fed President Beth Hammack were in favor of raising rates by ",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Fed rate decision October 2026"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "federal-open-market-committee-wikipedia",
+    "type": "news",
+    "title": "Federal Open Market Committee - Wikipedia",
+    "slug": "federal-open-market-committee-wikipedia",
+    "date": "2026-11-01",
+    "displayDate": "November 1, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Open Market Committee (FOMC) is a committee within the Federal Reserve System that oversees the nation's open market operations, including the buyin",
+    "excerpt": "The Federal Open Market Committee (FOMC) is a committee within the Federal Reserve System that oversees the nation's open market operations, including the buying and selling of U.S. Treasury securities. It is the principal organ of U.S. national monetary policy, setting monetary policy by specifying",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Federal Open Market Committee - Wikipedia"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "federal-reserve-board-monetary-policy",
+    "type": "news",
+    "title": "Federal Reserve Board - Monetary Policy",
+    "slug": "federal-reserve-board-monetary-policy",
+    "date": "2026-11-01",
+    "displayDate": "November 1, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Monetary policy in the United States is the responsibility of the Federal Reserve System, which aims to promote maximum employment, stable prices, and moderate ",
+    "excerpt": "Monetary policy in the United States is the responsibility of the Federal Reserve System, which aims to promote maximum employment, stable prices, and moderate long-term interest rates. The Federal Open Market Committee (FOMC), composed of the Federal Reserve Board of Governors and five of the twelv",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Federal Reserve Board - Monetary Policy"
+    },
+    "readingTime": 4
   },
   {
     "id": "federal-reserve-economic-data-fred-st-louis-fed",
@@ -441,6 +672,27 @@
     "readingTime": 5
   },
   {
+    "id": "inflation-consumer-prices-for-the-united-states-fpcpitotlzgusa-fred-st-louis-fed",
+    "type": "news",
+    "title": "Inflation, consumer prices for the United States (FPCPITOTLZGUSA) | FRED | St. Louis Fed",
+    "slug": "inflation-consumer-prices-for-the-united-states-fpcpitotlzgusa-fred-st-louis-fed",
+    "date": "2026-11-01",
+    "displayDate": "November 1, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The inflation rate for consumer prices in the United States for 2024 is 2.94953 percent, not seasonally adjusted, and annual. The data is sourced from the World",
+    "excerpt": "The inflation rate for consumer prices in the United States for 2024 is 2.94953 percent, not seasonally adjusted, and annual. The data is sourced from the World Bank and updated as of October 13, 2026. The next release date is not available. The data is subject to revision.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Inflation, consumer prices for the United States (FPCPITOTLZGUSA) | FRED | St. Louis Fed"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "investment-strategy-2026-portfolio-moves-for-a-changing-market",
     "type": "news",
     "title": "Investment Strategy 2026 Portfolio Moves for a Changing Market",
@@ -525,6 +777,27 @@
     "readingTime": 3
   },
   {
+    "id": "market-outlook-s-p-500-market-analysis-and-forecast",
+    "type": "news",
+    "title": "Market Outlook - S&P 500 Market Analysis and Forecast",
+    "slug": "market-outlook-s-p-500-market-analysis-and-forecast",
+    "date": "2026-11-01",
+    "displayDate": "November 1, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Goldman Sachs forecasts the S&P 500 to rise 6% to 6,600 in the next six months and 11% to 6,900 in the next 12 months, while J.P. Morgan Global Research project",
+    "excerpt": "Goldman Sachs forecasts the S&P 500 to rise 6% to 6,600 in the next six months and 11% to 6,900 in the next 12 months, while J.P. Morgan Global Research projects the S&P 500 could reach 7,800 by the end of 2026 with earnings-per-share (EPS) estimated at $350. The Wall Street Courier's report indicat",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Market Outlook - S&P 500 Market Analysis and Forecast"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "nq-100-technology-sector-index-today-ndxt-investing-com",
     "type": "news",
     "title": "NQ 100 Technology Sector Index Today (NDXT) - Investing.com",
@@ -565,6 +838,27 @@
       "alt": "Portfolio - Home"
     },
     "readingTime": 3
+  },
+  {
+    "id": "s-p-500-index-sp500-analysis-news-and-chart-today-seeking-alpha",
+    "type": "news",
+    "title": "S&P 500 Index (SP500) Analysis, News, And Chart Today | Seeking Alpha",
+    "slug": "s-p-500-index-sp500-analysis-news-and-chart-today-seeking-alpha",
+    "date": "2026-11-01",
+    "displayDate": "November 1, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The S&P 500 Index (SP500) on Seeking Alpha's page shows a snapshot of stocks edging lower for the third straight week, with a notable tech selloff wiping out $1",
+    "excerpt": "The S&P 500 Index (SP500) on Seeking Alpha's page shows a snapshot of stocks edging lower for the third straight week, with a notable tech selloff wiping out $1 trillion in value. The latest comment on the SP500 indicates a bearish sentiment, with one investor commenting on buying during the decline",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "S&P 500 Index (SP500) Analysis, News, And Chart Today | Seeking Alpha"
+    },
+    "readingTime": 4
   },
   {
     "id": "schedule-of-releases-for-real-earnings",
@@ -630,6 +924,27 @@
     "readingTime": 4
   },
   {
+    "id": "stock-market-sector-performance-barchart-com",
+    "type": "news",
+    "title": "Stock Market & Sector Performance - Barchart.com",
+    "slug": "stock-market-sector-performance-barchart-com",
+    "date": "2026-11-01",
+    "displayDate": "November 1, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The sources indicate the performance percentages of various S&P 500 sectors and indices as of today, November 1, 2026. The S&P 500 Industrials sector shows a 60",
+    "excerpt": "The sources indicate the performance percentages of various S&P 500 sectors and indices as of today, November 1, 2026. The S&P 500 Industrials sector shows a 60% performance, while the Information Technology sector leads with 62%. The Materials sector stands at 62%, Real Estate at 37%, Communication",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Stock Market & Sector Performance - Barchart.com"
+    },
+    "readingTime": 5
+  },
+  {
     "id": "stock-market-sector-performance-today-stocktitan",
     "type": "news",
     "title": "Stock Market Sector Performance Today | StockTitan",
@@ -647,6 +962,27 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "Stock Market Sector Performance Today | StockTitan"
+    },
+    "readingTime": 5
+  },
+  {
+    "id": "stock-market-today-s-p-500-upgraded-by-citi-ubs",
+    "type": "news",
+    "title": "Stock Market Today: S&P 500 upgraded by Citi, UBS",
+    "slug": "stock-market-today-s-p-500-upgraded-by-citi-ubs",
+    "date": "2026-11-01",
+    "displayDate": "November 1, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The S&P 500 received upgrades from UBS and Citi, with UBS hiking its year-end target and setting a first-ever 2026 year-end target of 8,100. UBS also raised its",
+    "excerpt": "The S&P 500 received upgrades from UBS and Citi, with UBS hiking its year-end target and setting a first-ever 2026 year-end target of 8,100. UBS also raised its earnings forecast for S&P 500 companies to grow 25% this year, up from around 20%. The market was closed for the day, erasing earlier gains",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Stock Market Today: S&P 500 upgraded by Citi, UBS"
     },
     "readingTime": 5
   },
@@ -670,6 +1006,48 @@
       "alt": "Stunning US profit strength ignites stocks' charge to record peaks | Reuters"
     },
     "readingTime": 3
+  },
+  {
+    "id": "technology-barron-s",
+    "type": "news",
+    "title": "Technology | Barron's",
+    "slug": "technology-barron-s",
+    "date": "2026-11-01",
+    "displayDate": "November 1, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Barron Techs is a computer/IT services company that serves the legal industry, offering services like computer networking, video conferencing, technology consul",
+    "excerpt": "Barron Techs is a computer/IT services company that serves the legal industry, offering services like computer networking, video conferencing, technology consulting, and more. Barron McCann, a technology services specialist, has acquired a majority stake in Retail247 and is a trusted provider of IT ",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Technology | Barron's"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "technology-news",
+    "type": "news",
+    "title": "Technology News",
+    "slug": "technology-news",
+    "date": "2026-11-01",
+    "displayDate": "November 1, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The sources provide a snapshot of technology news as of October 29th, 2026, with significant financial and strategic updates. Amazon posts a negative free cash ",
+    "excerpt": "The sources provide a snapshot of technology news as of October 29th, 2026, with significant financial and strategic updates. Amazon posts a negative free cash flow of $42.4 billion, while ServiceNow shares plunge 27% due to AI disruption fears. Intel's stock plunges 21% blaming a PC slowdown. Meanw",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Technology News"
+    },
+    "readingTime": 4
   },
   {
     "id": "u-s-bureau-of-economic-analysis-bea",
@@ -754,6 +1132,27 @@
       "alt": "United States Indicators"
     },
     "readingTime": 5
+  },
+  {
+    "id": "united-states-inflation-rate",
+    "type": "news",
+    "title": "United States Inflation Rate",
+    "slug": "united-states-inflation-rate",
+    "date": "2026-11-01",
+    "displayDate": "November 1, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The United States Inflation Rate in September 2026 is 3.70%, compared to 3.40% in August 2026 and 3.00% in September 2025, according to ycharts.com and tradinge",
+    "excerpt": "The United States Inflation Rate in September 2026 is 3.70%, compared to 3.40% in August 2026 and 3.00% in September 2025, according to ycharts.com and tradingeconomics.com. The inflation rate is higher than the long-term average of 3.28%. The inflation rate in August 2026 was 3.40%, according to in",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "United States Inflation Rate"
+    },
+    "readingTime": 3
   },
   {
     "id": "watch-live-fed-chair-warsh-holds-briefing-after-latest-interest-rate-decision-pb",
@@ -1029,48 +1428,6 @@
     "readingTime": 4
   },
   {
-    "id": "economic-sector-performance-dashboards-yahoo-finance",
-    "type": "news",
-    "title": "Economic Sector Performance Dashboards - Yahoo Finance",
-    "slug": "economic-sector-performance-dashboards-yahoo-finance",
-    "date": "2026-10-09",
-    "displayDate": "October 9, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "According to Yahoo Finance, the top gainers include Bending Spoons S.p.A. with a 24.19% increase, Penguin Solutions, Inc. with a 13.08% increase, and Braze, Inc",
-    "excerpt": "According to Yahoo Finance, the top gainers include Bending Spoons S.p.A. with a 24.19% increase, Penguin Solutions, Inc. with a 13.08% increase, and Braze, Inc. with an 8.05% increase. Bloomberg reports sector performance with Energy leading at 2.89%, followed by Consumer Staples at 1.94%, and Fina",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Economic Sector Performance Dashboards - Yahoo Finance"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "ethereum-eth-price-usd-today-news-charts-market-cap-coinbase",
-    "type": "news",
-    "title": "Ethereum (ETH) Price USD Today, News, Charts, Market Cap | Coinbase",
-    "slug": "ethereum-eth-price-usd-today-news-charts-market-cap-coinbase",
-    "date": "2026-10-09",
-    "displayDate": "October 9, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The current market cap of Ethereum is $304.684B according to Coinbase. The all-time high of Ethereum is $4,953.73. The 24-hour trading volume of Ethereum is $18",
-    "excerpt": "The current market cap of Ethereum is $304.684B according to Coinbase. The all-time high of Ethereum is $4,953.73. The 24-hour trading volume of Ethereum is $18.22B. The circulating supply of Ethereum is 122 million. Coinbase Wrapped Staked ETH (CBETH) price is $2,856.57 with a 24-hour trading volum",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Ethereum (ETH) Price USD Today, News, Charts, Market Cap | Coinbase"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "ethereum-usd-eth-usd-latest-stock-news-headlines-yahoo-finance",
     "type": "news",
     "title": "Ethereum USD (ETH-USD) Latest Stock News & Headlines - Yahoo Finance",
@@ -1109,48 +1466,6 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "Fed raises rates to 3.75%-4.00%, first hike since 2023 | U.S. Bank"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "federal-open-market-committee-wikipedia",
-    "type": "news",
-    "title": "Federal Open Market Committee - Wikipedia",
-    "slug": "federal-open-market-committee-wikipedia",
-    "date": "2026-10-09",
-    "displayDate": "October 9, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Open Market Committee (FOMC) is a committee within the Federal Reserve System that oversees the nation's open market operations and makes key decisi",
-    "excerpt": "The Federal Open Market Committee (FOMC) is a committee within the Federal Reserve System that oversees the nation's open market operations and makes key decisions about interest rates and the growth of the U.S. money supply. The FOMC is the principal organ of U.S. national monetary policy and sets ",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Federal Open Market Committee - Wikipedia"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "federal-reserve-board-monetary-policy",
-    "type": "news",
-    "title": "Federal Reserve Board - Monetary Policy",
-    "slug": "federal-reserve-board-monetary-policy",
-    "date": "2026-10-09",
-    "displayDate": "October 9, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Monetary policy in the United States is the responsibility of the Federal Reserve System, which aims to promote maximum employment, stable prices, and moderate ",
-    "excerpt": "Monetary policy in the United States is the responsibility of the Federal Reserve System, which aims to promote maximum employment, stable prices, and moderate long-term interest rates. The Federal Open Market Committee (FOMC), composed of the Federal Reserve Board of Governors and five of the twelv",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Federal Reserve Board - Monetary Policy"
     },
     "readingTime": 4
   },
@@ -1344,27 +1659,6 @@
     "readingTime": 4
   },
   {
-    "id": "s-p-500-index-sp500-analysis-news-and-chart-today-seeking-alpha",
-    "type": "news",
-    "title": "S&P 500 Index (SP500) Analysis, News, And Chart Today | Seeking Alpha",
-    "slug": "s-p-500-index-sp500-analysis-news-and-chart-today-seeking-alpha",
-    "date": "2026-10-09",
-    "displayDate": "October 9, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The S&P 500 Index (SP500) analysis on Seeking Alpha includes discussions on the mathematical certainty of the coming debt storm, market valuation concerns, the ",
-    "excerpt": "The S&P 500 Index (SP500) analysis on Seeking Alpha includes discussions on the mathematical certainty of the coming debt storm, market valuation concerns, the potential rise of the 10-year Treasury yield to 6%, positioning of U.S. troops affecting oil prices, a 5% problem in the stock market, AI bu",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "S&P 500 Index (SP500) Analysis, News, And Chart Today | Seeking Alpha"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "sector-industry-performance",
     "type": "news",
     "title": "Sector & Industry Performance",
@@ -1470,27 +1764,6 @@
     "readingTime": 4
   },
   {
-    "id": "stock-market-today-s-p-500-upgraded-by-citi-ubs",
-    "type": "news",
-    "title": "Stock Market Today: S&P 500 upgraded by Citi, UBS",
-    "slug": "stock-market-today-s-p-500-upgraded-by-citi-ubs",
-    "date": "2026-10-09",
-    "displayDate": "October 9, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "According to UBS, the S&P 500 is expected to reach a target of 8,100 by December 2026, reflecting a 25% earnings growth forecast for the year, up from a previou",
-    "excerpt": "According to UBS, the S&P 500 is expected to reach a target of 8,100 by December 2026, reflecting a 25% earnings growth forecast for the year, up from a previous estimate of around 20%. This upgrade is part of broader earnings upgrades beyond the AI sector, with semiconductors, technology hardware, ",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Stock Market Today: S&P 500 upgraded by Citi, UBS"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "stock-market-will-s-p-500-open-up-or-down-today-benzinga",
     "type": "news",
     "title": "Stock Market: Will S&P 500 Open Up or Down Today? - Benzinga",
@@ -1531,27 +1804,6 @@
       "alt": "TechCrunch | Startup and Technology News"
     },
     "readingTime": 3
-  },
-  {
-    "id": "technology-news",
-    "type": "news",
-    "title": "Technology News",
-    "slug": "technology-news",
-    "date": "2026-10-09",
-    "displayDate": "October 9, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The sources indicate that technology news from September 2026 includes Robinhood unveiling weekend trading hours with AI agents, a lawsuit against OpenAI over a",
-    "excerpt": "The sources indicate that technology news from September 2026 includes Robinhood unveiling weekend trading hours with AI agents, a lawsuit against OpenAI over a cyberattack, and California Governor Gavin Newsom banning AI \"robo bosses\" in a new state law. Additionally, CNBC reports on Muse's impact ",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Technology News"
-    },
-    "readingTime": 5
   },
   {
     "id": "the-best-7-000-tfsa-investments-for-current-market-conditions",
@@ -1739,27 +1991,6 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "When is the next Fed interest rate decision? | Equals Money"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "12-month-percentage-change-consumer-price-index-selected-categories",
-    "type": "news",
-    "title": "12-month percentage change, Consumer Price Index, selected categories",
-    "slug": "12-month-percentage-change-consumer-price-index-selected-categories",
-    "date": "2026-10-08",
-    "displayDate": "October 8, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The U.S. Bureau of Labor Statistics reports the 12-month percentage change in the Consumer Price Index (CPI) for selected categories in August 2026, not seasona",
-    "excerpt": "The U.S. Bureau of Labor Statistics reports the 12-month percentage change in the Consumer Price Index (CPI) for selected categories in August 2026, not seasonally adjusted: All items at 3.4%, Food at 2.7%, Food at home at 2.2%, Cereals and bakery products at 2.6%, Meats, poultry, fish, and eggs at ",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "12-month percentage change, Consumer Price Index, selected categories"
     },
     "readingTime": 3
   },
@@ -1972,27 +2203,6 @@
       "alt": "Health Technology Sector: Companies, Performance and Stocks — USA — TradingView"
     },
     "readingTime": 6
-  },
-  {
-    "id": "inflation-consumer-prices-for-the-united-states-fpcpitotlzgusa-fred-st-louis-fed",
-    "type": "news",
-    "title": "Inflation, consumer prices for the United States (FPCPITOTLZGUSA) | FRED | St. Louis Fed",
-    "slug": "inflation-consumer-prices-for-the-united-states-fpcpitotlzgusa-fred-st-louis-fed",
-    "date": "2026-10-08",
-    "displayDate": "October 8, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The latest available data for inflation, consumer prices for the United States (FPCPITOTLZGUSA) as of the last update on April 16, 2025, shows a rate of 2.94953",
-    "excerpt": "The latest available data for inflation, consumer prices for the United States (FPCPITOTLZGUSA) as of the last update on April 16, 2025, shows a rate of 2.94953 percent for 2024. The next release date is not available. For high-income countries, the inflation rate for 2025 is 2.34899 percent. The ne",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Inflation, consumer prices for the United States (FPCPITOTLZGUSA) | FRED | St. Louis Fed"
-    },
-    "readingTime": 4
   },
   {
     "id": "innovation-beyond-tech-inside-healthcare-stocks-blackrock",
@@ -3379,27 +3589,6 @@
       "alt": "United States Economy at a Glance"
     },
     "readingTime": 5
-  },
-  {
-    "id": "united-states-inflation-rate",
-    "type": "news",
-    "title": "United States Inflation Rate",
-    "slug": "united-states-inflation-rate",
-    "date": "2026-10-04",
-    "displayDate": "October 4, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The annual inflation rate in the United States was 3.4% for the 12 months ending August 2026, the same as in July, according to U.S. Labor Department data. The ",
-    "excerpt": "The annual inflation rate in the United States was 3.4% for the 12 months ending August 2026, the same as in July, according to U.S. Labor Department data. The inflation rate remained unchanged at 3.40 percent in August, according to Trading Economics. The next update is scheduled for October 14 at ",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "United States Inflation Rate"
-    },
-    "readingTime": 4
   },
   {
     "id": "weekly-trader-s-stock-market-outlook-charles-schwab",
@@ -6972,27 +7161,6 @@
     "readingTime": 3
   },
   {
-    "id": "earnings-this-week-earnings-calendar-earnings-hub",
-    "type": "news",
-    "title": "Earnings This Week, Earnings Calendar - Earnings Hub",
-    "slug": "earnings-this-week-earnings-calendar-earnings-hub",
-    "date": "2026-09-01",
-    "displayDate": "September 1, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "This week's earnings include reports from ULTA, ESTC, and AFRM. Earnings calendar tools are available for planning and tracking. Earnings estimates and actuals ",
-    "excerpt": "This week's earnings include reports from ULTA, ESTC, and AFRM. Earnings calendar tools are available for planning and tracking. Earnings estimates and actuals are crucial for investment decisions.",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Earnings This Week, Earnings Calendar - Earnings Hub"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "economic-indicators-calendar-new-york-fed",
     "type": "news",
     "title": "Economic Indicators Calendar | New York Fed",
@@ -7514,27 +7682,6 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "Sector Views: Monthly Stock Sector Outlook - Charles Schwab"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "stock-market-sector-performance-barchart-com",
-    "type": "news",
-    "title": "Stock Market & Sector Performance - Barchart.com",
-    "slug": "stock-market-sector-performance-barchart-com",
-    "date": "2026-08-09",
-    "displayDate": "August 9, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The S&P 500 Consumer Discretionary sector shows performance metrics like percent change and price change. Sectors include major markets, industry rankings, and ",
-    "excerpt": "The S&P 500 Consumer Discretionary sector shows performance metrics like percent change and price change. Sectors include major markets, industry rankings, and thematic lists. Current date is 2026-08-09.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Stock Market & Sector Performance - Barchart.com"
     },
     "readingTime": 3
   },
