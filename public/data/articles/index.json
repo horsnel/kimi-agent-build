@@ -1,5 +1,47 @@
 [
   {
+    "id": "2026-fall-investment-directions-blackrock",
+    "type": "news",
+    "title": "2026 Fall Investment Directions | BlackRock",
+    "slug": "2026-fall-investment-directions-blackrock",
+    "date": "2026-11-01",
+    "displayDate": "November 1, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "BlackRock's 2026 Fall Investment Directions highlight AI-driven volatility, the impact of midterms, a steepening yield curve, and strategies for building divers",
+    "excerpt": "BlackRock's 2026 Fall Investment Directions highlight AI-driven volatility, the impact of midterms, a steepening yield curve, and strategies for building diversified portfolios amid intensifying competition for capital. The report emphasizes managing AI concentration, building resilient portfolios, ",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "2026 Fall Investment Directions | BlackRock"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "2026-investment-outlook-themes-for-portfolio-strategies",
+    "type": "news",
+    "title": "2026 Investment Outlook: Themes for Portfolio Strategies",
+    "slug": "2026-investment-outlook-themes-for-portfolio-strategies",
+    "date": "2026-11-01",
+    "displayDate": "November 1, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The 2026 investment outlook highlights several strategic themes for portfolio strategies. JPMorgan outlines ten strategic themes, including an AI-powered surge ",
+    "excerpt": "The 2026 investment outlook highlights several strategic themes for portfolio strategies. JPMorgan outlines ten strategic themes, including an AI-powered surge in capital expenditures, tech innovation beyond AI into biotechnology, quantum computing, and finance, and the \"six Ds\" -- deficits, deregul",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "2026 Investment Outlook: Themes for Portfolio Strategies"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "asian-financial-markets-investing-com",
     "type": "news",
     "title": "Asian Financial Markets - Investing.com",
@@ -105,6 +147,27 @@
     "readingTime": 4
   },
   {
+    "id": "bitcoin-price-today-analysis-uptrend-holds-but-momentum-fades",
+    "type": "news",
+    "title": "Bitcoin price today Analysis: Uptrend Holds but Momentum Fades",
+    "slug": "bitcoin-price-today-analysis-uptrend-holds-but-momentum-fades",
+    "date": "2026-11-01",
+    "displayDate": "November 1, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin price today is trading near $82,300, still up about 28% over three months after this week’s drop. A hidden momentum signal on the daily chart suggests t",
+    "excerpt": "Bitcoin price today is trading near $82,300, still up about 28% over three months after this week’s drop. A hidden momentum signal on the daily chart suggests the uptrend can survive. The catch is that buying from long-term holders has dropped 96%. Bitcoin Hodler Net Position Change, a Glassnode met",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Bitcoin price today Analysis: Uptrend Holds but Momentum Fades"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "cpi-home-u-s-bureau-of-labor-statistics",
     "type": "news",
     "title": "CPI Home : U.S. Bureau of Labor Statistics",
@@ -122,6 +185,48 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "CPI Home : U.S. Bureau of Labor Statistics"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "crypto-market-today-200m-derisk-ahead-of-fomc-what-s-next-for-bitcoin-ethereum-a",
+    "type": "news",
+    "title": "Crypto Market Today: $200M Derisk Ahead of FOMC, What’s Next for Bitcoin, Ethereum and Solana Price?",
+    "slug": "crypto-market-today-200m-derisk-ahead-of-fomc-what-s-next-for-bitcoin-ethereum-a",
+    "date": "2026-11-01",
+    "displayDate": "November 1, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The crypto market today saw more than $200 million liquidations ahead of the Fed's decision on interest rates, with Bitcoin, Ethereum, and Solana prices potenti",
+    "excerpt": "The crypto market today saw more than $200 million liquidations ahead of the Fed's decision on interest rates, with Bitcoin, Ethereum, and Solana prices potentially volatile depending on Jerome Powell's last FOMC speech about inflation. BTC and ETH have fallen about 5% each in the last 24 hours, tra",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Crypto Market Today: $200M Derisk Ahead of FOMC, What’s Next for Bitcoin, Ethereum and Solana Price?"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "crypto-market-today-bitcoin-rebounds-5-as-ethereum-shows-strong-recovery",
+    "type": "news",
+    "title": "Crypto Market Today: Bitcoin Rebounds 5% as Ethereum Shows Strong Recovery",
+    "slug": "crypto-market-today-bitcoin-rebounds-5-as-ethereum-shows-strong-recovery",
+    "date": "2026-11-01",
+    "displayDate": "November 1, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The cryptocurrency market experienced a significant rebound today, with Bitcoin rebounding 5% and hitting a 9-month high of $85,299, according to Yahoo Finance.",
+    "excerpt": "The cryptocurrency market experienced a significant rebound today, with Bitcoin rebounding 5% and hitting a 9-month high of $85,299, according to Yahoo Finance. This recovery follows the liquidation of nearly $450 million in short positions across major cryptocurrencies. Meanwhile, Ethereum also sho",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Crypto Market Today: Bitcoin Rebounds 5% as Ethereum Shows Strong Recovery"
     },
     "readingTime": 4
   },
@@ -168,6 +273,69 @@
     "readingTime": 3
   },
   {
+    "id": "earnings",
+    "type": "news",
+    "title": "Earnings",
+    "slug": "earnings",
+    "date": "2026-11-01",
+    "displayDate": "November 1, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The sources indicate that publicly traded companies are required to disclose their periodic financial performance through earnings reports, which include key me",
+    "excerpt": "The sources indicate that publicly traded companies are required to disclose their periodic financial performance through earnings reports, which include key metrics like revenue and earnings per share (EPS). For instance, Wall Street expects earnings of $2.00 a share on revenue of $112.95 billion, ",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Earnings"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "economic-calendar",
+    "type": "news",
+    "title": "Economic Calendar",
+    "slug": "economic-calendar",
+    "date": "2026-11-01",
+    "displayDate": "November 1, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Economic Calendar on Investing.com tracks high-impact financial events and economic indicators, including central bank interest rate decisions, Non-Farm Pay",
+    "excerpt": "The Economic Calendar on Investing.com tracks high-impact financial events and economic indicators, including central bank interest rate decisions, Non-Farm Payrolls (NFP), GDP releases, the Consumer Price Index (CPI), and unemployment data, which are marked with three stars due to their potential t",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Economic Calendar"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "economic-indicators-calendar-federal-reserve-bank-of-new-york",
+    "type": "news",
+    "title": "Economic Indicators Calendar - FEDERAL RESERVE BANK of NEW YORK",
+    "slug": "economic-indicators-calendar-federal-reserve-bank-of-new-york",
+    "date": "2026-11-01",
+    "displayDate": "November 1, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The sources do not provide specific information about the Economic Indicators Calendar for the Federal Reserve Bank of New York. However, they do mention BNY's ",
+    "excerpt": "The sources do not provide specific information about the Economic Indicators Calendar for the Federal Reserve Bank of New York. However, they do mention BNY's global financial services, including handling approximately 20% of the world's investable assets, and $63.4T in assets under custody and/or ",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Economic Indicators Calendar - FEDERAL RESERVE BANK of NEW YORK"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "federal-reserve-economic-data-fred-st-louis-fed",
     "type": "news",
     "title": "Federal Reserve Economic Data | FRED | St. Louis Fed",
@@ -187,6 +355,27 @@
       "alt": "Federal Reserve Economic Data | FRED | St. Louis Fed"
     },
     "readingTime": 3
+  },
+  {
+    "id": "global-indices-tracking-the-world-s-markets",
+    "type": "news",
+    "title": "Global Indices - Tracking the World's Markets",
+    "slug": "global-indices-tracking-the-world-s-markets",
+    "date": "2026-11-01",
+    "displayDate": "November 1, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "On November 1, 2026, the S&P 500 was at 7,643.86, down 40.57 points (0.53%) from the previous close, according to Groww. The Nikkei 225 was at 62,693.16, down 2",
+    "excerpt": "On November 1, 2026, the S&P 500 was at 7,643.86, down 40.57 points (0.53%) from the previous close, according to Groww. The Nikkei 225 was at 62,693.16, down 214.68 points (0.34%), per the same source. The Hang Seng Index was at 23,093.40, up 158.72 points (0.69%), and the DAX was at 25,181.65, dow",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Global Indices - Tracking the World's Markets"
+    },
+    "readingTime": 4
   },
   {
     "id": "global-market-indices-international-markets-markets-insider",
@@ -210,6 +399,27 @@
     "readingTime": 3
   },
   {
+    "id": "global-stock-market-news-and-world-indices-coverage",
+    "type": "news",
+    "title": "Global Stock Market News and World Indices Coverage",
+    "slug": "global-stock-market-news-and-world-indices-coverage",
+    "date": "2026-11-01",
+    "displayDate": "November 1, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The sources provide recent data on global stock markets and indices as of October 24, 2026. The S&P 500 was at 7,643.86, down 40.57 points (0.53%); the Nikkei 2",
+    "excerpt": "The sources provide recent data on global stock markets and indices as of October 24, 2026. The S&P 500 was at 7,643.86, down 40.57 points (0.53%); the Nikkei 225 was at 62,693.16, down 214.68 points (0.34%); the Hang Seng was at 23,093.40, up 158.72 points (0.69%); the DAX was at 25,181.65, down 19",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Global Stock Market News and World Indices Coverage"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "healthcare-stock-performance-yahoo-finance",
     "type": "news",
     "title": "Healthcare Stock Performance - Yahoo Finance",
@@ -229,6 +439,27 @@
       "alt": "Healthcare Stock Performance - Yahoo Finance"
     },
     "readingTime": 5
+  },
+  {
+    "id": "investment-strategy-2026-portfolio-moves-for-a-changing-market",
+    "type": "news",
+    "title": "Investment Strategy 2026 Portfolio Moves for a Changing Market",
+    "slug": "investment-strategy-2026-portfolio-moves-for-a-changing-market",
+    "date": "2026-11-01",
+    "displayDate": "November 1, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "For investment strategy in 2026, the sources suggest a blend of long-term discipline, selective global diversification, and a focus on cash-flow-generative asse",
+    "excerpt": "For investment strategy in 2026, the sources suggest a blend of long-term discipline, selective global diversification, and a focus on cash-flow-generative assets. The global economy is navigating higher interest rates, shifting market dynamics, and geopolitical developments, alongside advancements ",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Investment Strategy 2026 Portfolio Moves for a Changing Market"
+    },
+    "readingTime": 3
   },
   {
     "id": "kevin-warsh-live-federal-reserve-interest-rate-decision-fomc-press-conference-wa",
@@ -399,6 +630,27 @@
     "readingTime": 4
   },
   {
+    "id": "stock-market-sector-performance-today-stocktitan",
+    "type": "news",
+    "title": "Stock Market Sector Performance Today | StockTitan",
+    "slug": "stock-market-sector-performance-today-stocktitan",
+    "date": "2026-11-01",
+    "displayDate": "November 1, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "On November 1, 2026, the Industrials sector led with a +2.40% increase, followed by Information Technology with +1.67%, and Financials with +0.74%. Utilities an",
+    "excerpt": "On November 1, 2026, the Industrials sector led with a +2.40% increase, followed by Information Technology with +1.67%, and Financials with +0.74%. Utilities and Energy sectors both saw modest gains of +0.37% and +0.33%, respectively. Consumer Discretionary, Materials, Health Care, Consumer Staples,",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Stock Market Sector Performance Today | StockTitan"
+    },
+    "readingTime": 5
+  },
+  {
     "id": "stunning-us-profit-strength-ignites-stocks-charge-to-record-peaks-reuters",
     "type": "news",
     "title": "Stunning US profit strength ignites stocks' charge to record peaks | Reuters",
@@ -542,27 +794,6 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "Weekly Trader's Outlook"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "2026-investment-outlook-themes-for-portfolio-strategies",
-    "type": "news",
-    "title": "2026 Investment Outlook: Themes for Portfolio Strategies",
-    "slug": "2026-investment-outlook-themes-for-portfolio-strategies",
-    "date": "2026-10-09",
-    "displayDate": "October 9, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The 2026 investment outlook emphasizes increasing exposure to small caps and emerging markets, staying overweight in equities while diversifying globally, and p",
-    "excerpt": "The 2026 investment outlook emphasizes increasing exposure to small caps and emerging markets, staying overweight in equities while diversifying globally, and preparing for shifting sector leadership. Fixed income is suggested for ballast, and excess cash should be deployed. Alternative investments ",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "2026 Investment Outlook: Themes for Portfolio Strategies"
     },
     "readingTime": 3
   },
@@ -945,48 +1176,6 @@
     "readingTime": 3
   },
   {
-    "id": "global-indices-tracking-the-world-s-markets",
-    "type": "news",
-    "title": "Global Indices - Tracking the World's Markets",
-    "slug": "global-indices-tracking-the-world-s-markets",
-    "date": "2026-10-09",
-    "displayDate": "October 9, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The S&P 500 was at 7,786.70, down 36.07 points (0.46%) as of 01:34 AM on October 9, 2026. The Nikkei 225 was at 69,042.11, down 993.60 points (1.42%) as of 08:3",
-    "excerpt": "The S&P 500 was at 7,786.70, down 36.07 points (0.46%) as of 01:34 AM on October 9, 2026. The Nikkei 225 was at 69,042.11, down 993.60 points (1.42%) as of 08:30 PM on October 8, 2026. The Hang Seng was at 23,785.79, down 344.72 points (1.43%) as of 09:30 PM on October 8, 2026. The DAX was at 25,016",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Global Indices - Tracking the World's Markets"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "global-stock-market-news-and-world-indices-coverage",
-    "type": "news",
-    "title": "Global Stock Market News and World Indices Coverage",
-    "slug": "global-stock-market-news-and-world-indices-coverage",
-    "date": "2026-10-09",
-    "displayDate": "October 9, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The sources provide historical data up to May 2026, including mixed performances in Asia markets, European markets closing lower and higher on different days, a",
-    "excerpt": "The sources provide historical data up to May 2026, including mixed performances in Asia markets, European markets closing lower and higher on different days, and the S&P 500 closing higher due to a chip comeback and an Iran-Israel peace deal. The Nikkei 225 and S&P/ASX 200 indices are also noted wi",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Global Stock Market News and World Indices Coverage"
-    },
-    "readingTime": 5
-  },
-  {
     "id": "how-should-i-allocate-my-portfolio-in-2026",
     "type": "news",
     "title": "How Should I Allocate My Portfolio in 2026?",
@@ -1048,27 +1237,6 @@
       "alt": "Investment strategies for today and long-term | BlackRock"
     },
     "readingTime": 4
-  },
-  {
-    "id": "investment-strategy-2026-portfolio-moves-for-a-changing-market",
-    "type": "news",
-    "title": "Investment Strategy 2026 Portfolio Moves for a Changing Market",
-    "slug": "investment-strategy-2026-portfolio-moves-for-a-changing-market",
-    "date": "2026-10-09",
-    "displayDate": "October 9, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "For 2026 portfolio moves, the sources suggest increasing exposure to small caps and emerging markets, staying overweight in equities while diversifying globally",
-    "excerpt": "For 2026 portfolio moves, the sources suggest increasing exposure to small caps and emerging markets, staying overweight in equities while diversifying globally, preparing for shifting sector leadership, using fixed income for ballast, deploying excess cash, and considering alternative investments f",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Investment Strategy 2026 Portfolio Moves for a Changing Market"
-    },
-    "readingTime": 3
   },
   {
     "id": "latest-technology-news-and-reviews-yahoo-finance",
@@ -1680,69 +1848,6 @@
     "readingTime": 3
   },
   {
-    "id": "bitcoin-price-today-analysis-uptrend-holds-but-momentum-fades",
-    "type": "news",
-    "title": "Bitcoin price today Analysis: Uptrend Holds but Momentum Fades",
-    "slug": "bitcoin-price-today-analysis-uptrend-holds-but-momentum-fades",
-    "date": "2026-10-08",
-    "displayDate": "October 8, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Bitcoin's recent rally has shown signs of fading momentum as it struggles to sustain gains and hold above the $80,000 psychological level. The cryptocurrency ma",
-    "excerpt": "Bitcoin's recent rally has shown signs of fading momentum as it struggles to sustain gains and hold above the $80,000 psychological level. The cryptocurrency market is displaying a less synchronized profile, with Bitcoin unable to transmit its previous strength across the broader sector. The MACD in",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Bitcoin price today Analysis: Uptrend Holds but Momentum Fades"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "crypto-market-today-200m-derisk-ahead-of-fomc-what-s-next-for-bitcoin-ethereum-a",
-    "type": "news",
-    "title": "Crypto Market Today: $200M Derisk Ahead of FOMC, What’s Next for Bitcoin, Ethereum and Solana Price?",
-    "slug": "crypto-market-today-200m-derisk-ahead-of-fomc-what-s-next-for-bitcoin-ethereum-a",
-    "date": "2026-10-08",
-    "displayDate": "October 8, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The crypto market saw more than $200 million liquidations today ahead of the Fed's decision on interest rates, with Bitcoin, Ethereum, and Solana prices experie",
-    "excerpt": "The crypto market saw more than $200 million liquidations today ahead of the Fed's decision on interest rates, with Bitcoin, Ethereum, and Solana prices experiencing volatility. Bitcoin was trading at $83,577, down 3.13%, Ethereum at $2,574, down 5.19%, and Solana at $117, down 2.70%. The market is ",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Crypto Market Today: $200M Derisk Ahead of FOMC, What’s Next for Bitcoin, Ethereum and Solana Price?"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "crypto-market-today-bitcoin-rebounds-5-as-ethereum-shows-strong-recovery",
-    "type": "news",
-    "title": "Crypto Market Today: Bitcoin Rebounds 5% as Ethereum Shows Strong Recovery",
-    "slug": "crypto-market-today-bitcoin-rebounds-5-as-ethereum-shows-strong-recovery",
-    "date": "2026-10-08",
-    "displayDate": "October 8, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The cryptocurrency market experienced a 5% recovery within the last 24 hours on February 7, 2026, with Bitcoin rebounding sharply and Ethereum hitting key suppo",
-    "excerpt": "The cryptocurrency market experienced a 5% recovery within the last 24 hours on February 7, 2026, with Bitcoin rebounding sharply and Ethereum hitting key support zones, according to the source from cryptoticker.io. However, the source from financemagnates.com from October 13, 2025, reports a strong",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Crypto Market Today: Bitcoin Rebounds 5% as Ethereum Shows Strong Recovery"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "earnings-calendar-2026-daily-earnings-reports",
     "type": "news",
     "title": "Earnings Calendar 2026 | Daily Earnings Reports",
@@ -2117,48 +2222,6 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "Earnings Whispers | Earnings Calendar: October 7, 2026"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "economic-calendar",
-    "type": "news",
-    "title": "Economic Calendar",
-    "slug": "economic-calendar",
-    "date": "2026-10-07",
-    "displayDate": "October 7, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The sources provide details about economic calendars from different platforms. Investing.com's Economic Calendar tracks significant financial events and economi",
-    "excerpt": "The sources provide details about economic calendars from different platforms. Investing.com's Economic Calendar tracks significant financial events and economic indicators, marking high-impact events like central bank decisions and GDP releases with three stars. TradingView's Economic Calendar show",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Economic Calendar"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "economic-indicators-calendar-federal-reserve-bank-of-new-york",
-    "type": "news",
-    "title": "Economic Indicators Calendar - FEDERAL RESERVE BANK of NEW YORK",
-    "slug": "economic-indicators-calendar-federal-reserve-bank-of-new-york",
-    "date": "2026-10-07",
-    "displayDate": "October 7, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "On October 7, 2026, the Federal Reserve Bank of New York's Economic Indicators Calendar lists several key economic data releases. The notable events include the",
-    "excerpt": "On October 7, 2026, the Federal Reserve Bank of New York's Economic Indicators Calendar lists several key economic data releases. The notable events include the Producer Price Index (PPI) and NAR Existing Home Sales at 10:00 AM, Advance Retail SalesPDF, Empire State Manufacturing Survey, Imports and",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Economic Indicators Calendar - FEDERAL RESERVE BANK of NEW YORK"
     },
     "readingTime": 3
   },
@@ -3150,27 +3213,6 @@
     "readingTime": 4
   },
   {
-    "id": "earnings",
-    "type": "news",
-    "title": "Earnings",
-    "slug": "earnings",
-    "date": "2026-10-04",
-    "displayDate": "October 4, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "On October 4, 2026, Zscaler (ZS) reported earnings of $1.19 per share on revenue of $898.19 million for the fiscal fourth quarter ended July 2026, beating expec",
-    "excerpt": "On October 4, 2026, Zscaler (ZS) reported earnings of $1.19 per share on revenue of $898.19 million for the fiscal fourth quarter ended July 2026, beating expectations by 5.31%. JPMorgan Chase (JPM) is scheduled to report earnings on October 13, 2026, with a consensus earnings estimate of $5.88 per ",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Earnings"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "fed-interest-rate-cut-federal-reserve-today-u-s-fed-interest-rate-cut-decision-n",
     "type": "news",
     "title": "Fed Interest Rate Cut Federal Reserve Today: U.S Fed Interest rate cut decision: New Federal Reserve interest rates impact on 15-and 30-year mortgage rates. Check latest update - The Economic Times",
@@ -3757,27 +3799,6 @@
       "alt": "Stock Market Sector Analysis and Performance - Weekly Changes"
     },
     "readingTime": 3
-  },
-  {
-    "id": "stock-market-sector-performance-today-stocktitan",
-    "type": "news",
-    "title": "Stock Market Sector Performance Today | StockTitan",
-    "slug": "stock-market-sector-performance-today-stocktitan",
-    "date": "2026-10-02",
-    "displayDate": "October 2, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "According to StockTitan, in the most recent trading session, 8 out of 11 stock market sectors closed higher and 3 closed lower. The best-performing sector was F",
-    "excerpt": "According to StockTitan, in the most recent trading session, 8 out of 11 stock market sectors closed higher and 3 closed lower. The best-performing sector was Financials (+1.00%), while Energy lagged (-0.72%). The sources provide conflicting information on the performance of individual sectors in th",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Stock Market Sector Performance Today | StockTitan"
-    },
-    "readingTime": 4
   },
   {
     "id": "stocks-up-on-firm-tech-despite-24-year-yield-highs-charles-schwab",
