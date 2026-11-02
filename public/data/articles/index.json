@@ -84,6 +84,27 @@
     "readingTime": 4
   },
   {
+    "id": "asian-pacific-stocks-bloomberg",
+    "type": "news",
+    "title": "Asian Pacific Stocks - Bloomberg",
+    "slug": "asian-pacific-stocks-bloomberg",
+    "date": "2026-11-02",
+    "displayDate": "November 2, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "According to Bloomberg, the SHCOMP:IND Shanghai SE Composite Index was at 3,905.20 with a change of 1.48, a 0.04% increase, and a 1-month change of 1.06%. The S",
+    "excerpt": "According to Bloomberg, the SHCOMP:IND Shanghai SE Composite Index was at 3,905.20 with a change of 1.48, a 0.04% increase, and a 1-month change of 1.06%. The SZCOMP:IND Shenzhen SE Composite Index was at 2,532.65 with a change of 5.49, a 0.22% increase, and a 1-month change of 1.60%. The SSE50:IND ",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Asian Pacific Stocks - Bloomberg"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "asian-stock-market-capital-markets-news-bond-market-news-commodities-news-etfs-n",
     "type": "news",
     "title": "Asian Stock Market: Capital Markets News, Bond Market News, Commodities News, ETFs News",
@@ -147,6 +168,48 @@
     "readingTime": 4
   },
   {
+    "id": "company-earnings-calendar-yahoo-finance",
+    "type": "news",
+    "title": "Company Earnings Calendar - Yahoo Finance",
+    "slug": "company-earnings-calendar-yahoo-finance",
+    "date": "2026-11-02",
+    "displayDate": "November 2, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The sources indicate that on today's date, November 2, 2026, several companies are scheduled to announce their earnings for Q3 2026, including Neurocrine Biosci",
+    "excerpt": "The sources indicate that on today's date, November 2, 2026, several companies are scheduled to announce their earnings for Q3 2026, including Neurocrine Biosciences, Inc., Equitable Holdings, Inc., and Jazz Pharmaceuticals plc. Other companies like Apple Inc., Palantir Technologies Inc., and Vertex",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Company Earnings Calendar - Yahoo Finance"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "cpi-home-u-s-bureau-of-labor-statistics",
+    "type": "news",
+    "title": "CPI Home : U.S. Bureau of Labor Statistics",
+    "slug": "cpi-home-u-s-bureau-of-labor-statistics",
+    "date": "2026-11-02",
+    "displayDate": "November 2, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "According to the U.S. Bureau of Labor Statistics, the Consumer Price Index (CPI) increased by +0.6% in September 2026. This information is directly supported by",
+    "excerpt": "According to the U.S. Bureau of Labor Statistics, the Consumer Price Index (CPI) increased by +0.6% in September 2026. This information is directly supported by the latest news release from the Bureau, which also reports an unemployment rate of 4.2% in September 2026, an increase of +29,000(p) in pa",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "CPI Home : U.S. Bureau of Labor Statistics"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "crypto-market-today-200m-derisk-ahead-of-fomc-what-s-next-for-bitcoin-ethereum-a",
     "type": "news",
     "title": "Crypto Market Today: $200M Derisk Ahead of FOMC, What’s Next for Bitcoin, Ethereum and Solana Price?",
@@ -189,6 +252,48 @@
     "readingTime": 4
   },
   {
+    "id": "crypto-news",
+    "type": "news",
+    "title": "Crypto News",
+    "slug": "crypto-news",
+    "date": "2026-11-02",
+    "displayDate": "November 2, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin price is $77,550.00 with a -0.49% change according to crypto.news, while cryptonews.com reports Bitcoin at $79,814.66 with a -0.28% change. Ethereum pri",
+    "excerpt": "Bitcoin price is $77,550.00 with a -0.49% change according to crypto.news, while cryptonews.com reports Bitcoin at $79,814.66 with a -0.28% change. Ethereum price is $2,277.31 with a 0.55% increase on crypto.news, and $2,311.19 with a -0.33% change on cryptonews.com. XRP price is $1.25 with a -0.4% ",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Crypto News"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "earnings-calendar-and-analysis-for-this-week-november-2-7-kiplinger",
+    "type": "news",
+    "title": "Earnings Calendar and Analysis for This Week (November 2-7) | Kiplinger",
+    "slug": "earnings-calendar-and-analysis-for-this-week-november-2-7-kiplinger",
+    "date": "2026-11-02",
+    "displayDate": "November 2, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The earnings calendar for the week of November 2-7, 2026, includes reports from numerous companies, with Wednesday being the busiest day with 240 of the 755 com",
+    "excerpt": "The earnings calendar for the week of November 2-7, 2026, includes reports from numerous companies, with Wednesday being the busiest day with 240 of the 755 companies scheduled to report. On Monday, November 2, 58 companies are set to report after the close, including Apple, which accounts for about",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Earnings Calendar and Analysis for This Week (November 2-7) | Kiplinger"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "earnings-calendar-marketwatch",
     "type": "news",
     "title": "Earnings Calendar | Marketwatch",
@@ -206,6 +311,27 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "Earnings Calendar | Marketwatch"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "earnings-calendar-zacks-investment-research",
+    "type": "news",
+    "title": "Earnings Calendar - Zacks Investment Research",
+    "slug": "earnings-calendar-zacks-investment-research",
+    "date": "2026-11-02",
+    "displayDate": "November 2, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "On November 2, 2026, the Zacks Investment Research earnings calendar lists Citigroup, The Blackstone Group, Kinder Morgan, and Aon as companies with ex-dividend",
+    "excerpt": "On November 2, 2026, the Zacks Investment Research earnings calendar lists Citigroup, The Blackstone Group, Kinder Morgan, and Aon as companies with ex-dividend dates. Citigroup will pay a dividend of $0.67 with a yield of 2.13%, The Blackstone Group will pay $1.12 with a yield of 4.28%, Kinder Morg",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Earnings Calendar - Zacks Investment Research"
     },
     "readingTime": 4
   },
@@ -313,6 +439,48 @@
       "alt": "Economic Sector Performance Dashboards - Yahoo Finance"
     },
     "readingTime": 4
+  },
+  {
+    "id": "ethereum-eth-price-usd-today-news-charts-market-cap-coinbase",
+    "type": "news",
+    "title": "Ethereum (ETH) Price USD Today, News, Charts, Market Cap | Coinbase",
+    "slug": "ethereum-eth-price-usd-today-news-charts-market-cap-coinbase",
+    "date": "2026-11-02",
+    "displayDate": "November 2, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The live Ethereum price today is $2,288.10 USD according to CoinMarketCap, while Coinbase reports it at $2,243.80 USD. CoinMarketCap also provides additional de",
+    "excerpt": "The live Ethereum price today is $2,288.10 USD according to CoinMarketCap, while Coinbase reports it at $2,243.80 USD. CoinMarketCap also provides additional details such as a 24-hour trading volume of $9,638,434,124 USD and a market cap of $279.567B USD. Coinbase states the market cap as $274.271B ",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Ethereum (ETH) Price USD Today, News, Charts, Market Cap | Coinbase"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "ethereum-news-today-decrypt",
+    "type": "news",
+    "title": "Ethereum News Today - Decrypt",
+    "slug": "ethereum-news-today-decrypt",
+    "date": "2026-11-02",
+    "displayDate": "November 2, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The sources indicate that Ethereum's scalability and security are being enhanced, with a focus on EIP-7702, which allows Ethereum wallets to run smart contract ",
+    "excerpt": "The sources indicate that Ethereum's scalability and security are being enhanced, with a focus on EIP-7702, which allows Ethereum wallets to run smart contract code for batched and sponsored transactions. The sources also mention the $6.4B Binance hack and its connection to Ethereum's upgrade, EIP-7",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Ethereum News Today - Decrypt"
+    },
+    "readingTime": 3
   },
   {
     "id": "fed-rate-decision-october-2026",
@@ -483,6 +651,27 @@
     "readingTime": 4
   },
   {
+    "id": "how-the-fomc-conducts-monetary-policy-st-louis-fed",
+    "type": "news",
+    "title": "How the FOMC Conducts Monetary Policy | St. Louis Fed",
+    "slug": "how-the-fomc-conducts-monetary-policy-st-louis-fed",
+    "date": "2026-11-02",
+    "displayDate": "November 2, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Open Market Committee (FOMC) conducts national monetary policy in the United States by adjusting the target range for the federal funds rate. After ",
+    "excerpt": "The Federal Open Market Committee (FOMC) conducts national monetary policy in the United States by adjusting the target range for the federal funds rate. After each FOMC meeting, the committee announces its decision to either leave the federal funds rate target range unchanged, decrease it, or incre",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "How the FOMC Conducts Monetary Policy | St. Louis Fed"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "inflation-consumer-prices-for-the-united-states-fpcpitotlzgusa-fred-st-louis-fed",
     "type": "news",
     "title": "Inflation, consumer prices for the United States (FPCPITOTLZGUSA) | FRED | St. Louis Fed",
@@ -605,6 +794,27 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "Latest Stock Market News"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "latest-technology-news-and-reviews-yahoo-finance",
+    "type": "news",
+    "title": "Latest Technology News and Reviews - Yahoo Finance",
+    "slug": "latest-technology-news-and-reviews-yahoo-finance",
+    "date": "2026-11-02",
+    "displayDate": "November 2, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The latest technology news and reviews from Yahoo Finance highlight significant developments in the tech industry, including SpaceX losing over $500 billion in ",
+    "excerpt": "The latest technology news and reviews from Yahoo Finance highlight significant developments in the tech industry, including SpaceX losing over $500 billion in market value, Meta's stock decline due to AI spending fears, and Elon Musk's comments on Tesla's Optimus robot. Additionally, there are upda",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Latest Technology News and Reviews - Yahoo Finance"
     },
     "readingTime": 4
   },
@@ -966,6 +1176,27 @@
     "readingTime": 4
   },
   {
+    "id": "united-states-indicators",
+    "type": "news",
+    "title": "United States Indicators",
+    "slug": "united-states-indicators",
+    "date": "2026-11-02",
+    "displayDate": "November 2, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The United States economic indicators show mixed signals as of November 2, 2026. Business confidence stands at 54.5 points, slightly down from 54.6 in the previ",
+    "excerpt": "The United States economic indicators show mixed signals as of November 2, 2026. Business confidence stands at 54.5 points, slightly down from 54.6 in the previous month. The Manufacturing PMI is at 55.9 points, up from 53.9, while the Non Manufacturing PMI is at 54.9 points, down from 55.4. The Ser",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "United States Indicators"
+    },
+    "readingTime": 5
+  },
+  {
     "id": "united-states-inflation-rate",
     "type": "news",
     "title": "United States Inflation Rate",
@@ -983,6 +1214,27 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "United States Inflation Rate"
+    },
+    "readingTime": 5
+  },
+  {
+    "id": "united-states-stock-market-index-quote-chart-historical-data-news",
+    "type": "news",
+    "title": "United States Stock Market Index - Quote - Chart - Historical Data - News",
+    "slug": "united-states-stock-market-index-quote-chart-historical-data-news",
+    "date": "2026-11-02",
+    "displayDate": "November 2, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "On November 2, 2026, the main stock market index of the United States, the US Index 500, had varying reported values: one source stated it rose to 7609 points, ",
+    "excerpt": "On November 2, 2026, the main stock market index of the United States, the US Index 500, had varying reported values: one source stated it rose to 7609 points, gaining 0.38% from the previous session; another reported it fell to 7574 points, losing 0.08% from the previous session; and a third source",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "United States Stock Market Index - Quote - Chart - Historical Data - News"
     },
     "readingTime": 5
   },
@@ -1025,27 +1277,6 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "What to Look Out for in Economic Data This Week (November 2-6) | Kiplinger"
-    },
-    "readingTime": 5
-  },
-  {
-    "id": "asian-pacific-stocks-bloomberg",
-    "type": "news",
-    "title": "Asian Pacific Stocks - Bloomberg",
-    "slug": "asian-pacific-stocks-bloomberg",
-    "date": "2026-11-01",
-    "displayDate": "November 1, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "On November 1, 2026, the Bloomberg Asian Pacific Stocks data shows various indices with their respective values and changes. The Shanghai Composite Index (SHCOM",
-    "excerpt": "On November 1, 2026, the Bloomberg Asian Pacific Stocks data shows various indices with their respective values and changes. The Shanghai Composite Index (SHCOMP:IND) is at 3,905.20 with a change of 1.48, or 0.04%. The Shenzhen Component Index (SICOM:IND) is at 14,070.40 with a change of 97.62, or 0",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Asian Pacific Stocks - Bloomberg"
     },
     "readingTime": 5
   },
@@ -1113,69 +1344,6 @@
     "readingTime": 4
   },
   {
-    "id": "cpi-home-u-s-bureau-of-labor-statistics",
-    "type": "news",
-    "title": "CPI Home : U.S. Bureau of Labor Statistics",
-    "slug": "cpi-home-u-s-bureau-of-labor-statistics",
-    "date": "2026-11-01",
-    "displayDate": "November 1, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Consumer Price Index (CPI) increased 2.9 percent from December 2023 to December 2024, indicating disinflation. In September 2026, the CPI was reported to ha",
-    "excerpt": "The Consumer Price Index (CPI) increased 2.9 percent from December 2023 to December 2024, indicating disinflation. In September 2026, the CPI was reported to have risen by +0.6%. The Producer Price Index (PPI) for September 2026 showed a total increase of +2.6%, with notable rises in energy (+10.8%)",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "CPI Home : U.S. Bureau of Labor Statistics"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "crypto-news",
-    "type": "news",
-    "title": "Crypto News",
-    "slug": "crypto-news",
-    "date": "2026-11-01",
-    "displayDate": "November 1, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The sources provide recent updates on various cryptocurrencies and market trends. CryptoSlate reports on Aave reopening frozen markets, Maple locking $280M in X",
-    "excerpt": "The sources provide recent updates on various cryptocurrencies and market trends. CryptoSlate reports on Aave reopening frozen markets, Maple locking $280M in XRP collateral, MetaMask adding Stellar integration, Uniswap launching a TJAR fee tool, and Binance's withdrawal target amidst a $6.3 billion",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Crypto News"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "earnings-calendar-and-analysis-for-this-week-november-2-7-kiplinger",
-    "type": "news",
-    "title": "Earnings Calendar and Analysis for This Week (November 2-7) | Kiplinger",
-    "slug": "earnings-calendar-and-analysis-for-this-week-november-2-7-kiplinger",
-    "date": "2026-11-01",
-    "displayDate": "November 1, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "For the earnings calendar and analysis for the week of November 2-7, 2026, the sources indicate that Wednesday is the busiest day with 240 of the 755 companies ",
-    "excerpt": "For the earnings calendar and analysis for the week of November 2-7, 2026, the sources indicate that Wednesday is the busiest day with 240 of the 755 companies scheduled to report. Companies such as Bloomin' Brands, Brookfield Infrastructure, and Essent Group are among those with earnings estimates ",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Earnings Calendar and Analysis for This Week (November 2-7) | Kiplinger"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "earnings-this-week-earnings-calendar-earnings-hub",
     "type": "news",
     "title": "Earnings This Week, Earnings Calendar - Earnings Hub",
@@ -1235,27 +1403,6 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "Economic Indicators Calendar - FEDERAL RESERVE BANK of NEW YORK"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "ethereum-eth-price-usd-today-news-charts-market-cap-coinbase",
-    "type": "news",
-    "title": "Ethereum (ETH) Price USD Today, News, Charts, Market Cap | Coinbase",
-    "slug": "ethereum-eth-price-usd-today-news-charts-market-cap-coinbase",
-    "date": "2026-11-01",
-    "displayDate": "November 1, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The live Ethereum price today is $2,268.09 USD according to CoinMarketCap, with a 24-hour trading volume of $4,621,021,846 USD. Coinbase reports the current mar",
-    "excerpt": "The live Ethereum price today is $2,268.09 USD according to CoinMarketCap, with a 24-hour trading volume of $4,621,021,846 USD. Coinbase reports the current market cap of Ethereum as $270.424B. CoinGecko shows the price of Ethereum at $2,267.04 with a 24-hour trading volume of $4,314,286,144.15. The",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Ethereum (ETH) Price USD Today, News, Charts, Market Cap | Coinbase"
     },
     "readingTime": 3
   },
@@ -1512,27 +1659,6 @@
     "readingTime": 3
   },
   {
-    "id": "united-states-indicators",
-    "type": "news",
-    "title": "United States Indicators",
-    "slug": "united-states-indicators",
-    "date": "2026-11-01",
-    "displayDate": "November 1, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The United States indicators show mixed economic signals as of November 1, 2026. Business confidence was at 54.5 points in September 2026, down from 54.6. The M",
-    "excerpt": "The United States indicators show mixed economic signals as of November 1, 2026. Business confidence was at 54.5 points in September 2026, down from 54.6. The Manufacturing PMI was 55.9 points in September 2026, up from 53.9. The Non Manufacturing PMI was 54.9 points in September 2026, down from 55.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "United States Indicators"
-    },
-    "readingTime": 5
-  },
-  {
     "id": "watch-live-fed-chair-warsh-holds-briefing-after-latest-interest-rate-decision-pb",
     "type": "news",
     "title": "WATCH LIVE: Fed chair Warsh holds briefing after latest interest rate decision | PBS News",
@@ -1594,27 +1720,6 @@
       "alt": "CoinDesk: Bitcoin, Ethereum, XRP, Crypto News and Price Data"
     },
     "readingTime": 4
-  },
-  {
-    "id": "company-earnings-calendar-yahoo-finance",
-    "type": "news",
-    "title": "Company Earnings Calendar - Yahoo Finance",
-    "slug": "company-earnings-calendar-yahoo-finance",
-    "date": "2026-10-09",
-    "displayDate": "October 9, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "On the Yahoo Finance earnings calendar, companies such as Texxon Holding Limited, Bravada Gold Corporation, and Creative Global Technology Holdings Limited have",
-    "excerpt": "On the Yahoo Finance earnings calendar, companies such as Texxon Holding Limited, Bravada Gold Corporation, and Creative Global Technology Holdings Limited have upcoming earnings announcements for H2 2026, Q3 2026, and H1 2026 respectively. PepsiCo, Inc. is scheduled to announce its Q3 2026 earnings",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Company Earnings Calendar - Yahoo Finance"
-    },
-    "readingTime": 3
   },
   {
     "id": "consumer-price-index-summary-2026-m08-results",
@@ -1865,48 +1970,6 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "How Should I Allocate My Portfolio in 2026?"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "how-the-fomc-conducts-monetary-policy-st-louis-fed",
-    "type": "news",
-    "title": "How the FOMC Conducts Monetary Policy | St. Louis Fed",
-    "slug": "how-the-fomc-conducts-monetary-policy-st-louis-fed",
-    "date": "2026-10-09",
-    "displayDate": "October 9, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Open Market Committee (FOMC) conducts national monetary policy in the United States by adjusting the target range for the federal funds rate. After ",
-    "excerpt": "The Federal Open Market Committee (FOMC) conducts national monetary policy in the United States by adjusting the target range for the federal funds rate. After each FOMC meeting, the committee announces its decision to either leave the federal funds rate target range unchanged, decrease the federal ",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "How the FOMC Conducts Monetary Policy | St. Louis Fed"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "latest-technology-news-and-reviews-yahoo-finance",
-    "type": "news",
-    "title": "Latest Technology News and Reviews - Yahoo Finance",
-    "slug": "latest-technology-news-and-reviews-yahoo-finance",
-    "date": "2026-10-09",
-    "displayDate": "October 9, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The latest technology news highlights Micron stock rising after strong earnings and addressing an analyst's key question, with Nvidia's CEO suggesting AI could ",
-    "excerpt": "The latest technology news highlights Micron stock rising after strong earnings and addressing an analyst's key question, with Nvidia's CEO suggesting AI could create 1 million jobs and reshape the US economy. Anthropic's IPO documents reveal a significant risk with AI. Hewlett Packard Enterprise (H",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Latest Technology News and Reviews - Yahoo Finance"
     },
     "readingTime": 4
   },
@@ -2520,27 +2583,6 @@
     "readingTime": 4
   },
   {
-    "id": "united-states-stock-market-index-quote-chart-historical-data-news",
-    "type": "news",
-    "title": "United States Stock Market Index - Quote - Chart - Historical Data - News",
-    "slug": "united-states-stock-market-index-quote-chart-historical-data-news",
-    "date": "2026-10-08",
-    "displayDate": "October 8, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "On October 8, 2026, the main stock market index of the United States, the US500, fell to 7780 points, losing 0.28% from the previous session. Over the past mont",
-    "excerpt": "On October 8, 2026, the main stock market index of the United States, the US500, fell to 7780 points, losing 0.28% from the previous session. Over the past month, the index has climbed 1.88% and is up 15.52% compared to the same time last year. Historically, the United States Stock Market Index reac",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "United States Stock Market Index - Quote - Chart - Historical Data - News"
-    },
-    "readingTime": 5
-  },
-  {
     "id": "us-economy-slowing-inflation-up-job-market-down-will-fed-cut-rates-jobs-data-us-",
     "type": "news",
     "title": "US Economy Slowing? Inflation Up, Job Market Down: Will Fed Cut Rates? | Jobs Data | US Inflation",
@@ -3022,27 +3064,6 @@
       "alt": "Earnings Calendar Today: Stocks Reporting Before & After Market | thetrading.tools | thetrading.tools"
     },
     "readingTime": 5
-  },
-  {
-    "id": "earnings-calendar-zacks-investment-research",
-    "type": "news",
-    "title": "Earnings Calendar - Zacks Investment Research",
-    "slug": "earnings-calendar-zacks-investment-research",
-    "date": "2026-10-06",
-    "displayDate": "October 6, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The sources indicate that JPMorgan Chase & Co., Bank of Nova Scotia, and Agilent Technologies are scheduled to report earnings on 10/6/26. The overall earnings ",
-    "excerpt": "The sources indicate that JPMorgan Chase & Co., Bank of Nova Scotia, and Agilent Technologies are scheduled to report earnings on 10/6/26. The overall earnings outlook for the S&P 500 is favorable, with expected year-over-year growth of +23.9% in earnings and +11.5% in revenues. The Technology secto",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Earnings Calendar - Zacks Investment Research"
-    },
-    "readingTime": 4
   },
   {
     "id": "earnings-today-tuesday-october-6-2026-earningscountdown",
