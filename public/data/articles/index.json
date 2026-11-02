@@ -126,6 +126,27 @@
     "readingTime": 3
   },
   {
+    "id": "bitcoin-price-today-analysis-uptrend-holds-but-momentum-fades",
+    "type": "news",
+    "title": "Bitcoin price today Analysis: Uptrend Holds but Momentum Fades",
+    "slug": "bitcoin-price-today-analysis-uptrend-holds-but-momentum-fades",
+    "date": "2026-11-02",
+    "displayDate": "November 2, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin price today is trading near $82,300, still up about 28% over three months after this week’s drop. A hidden momentum signal on the daily chart suggests t",
+    "excerpt": "Bitcoin price today is trading near $82,300, still up about 28% over three months after this week’s drop. A hidden momentum signal on the daily chart suggests the uptrend can survive, but buying from long-term holders has dropped 96%. Bitcoin is trading at $83,770.4 on October 13, 2026, positioned b",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Bitcoin price today Analysis: Uptrend Holds but Momentum Fades"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "crypto-market-today-200m-derisk-ahead-of-fomc-what-s-next-for-bitcoin-ethereum-a",
     "type": "news",
     "title": "Crypto Market Today: $200M Derisk Ahead of FOMC, What’s Next for Bitcoin, Ethereum and Solana Price?",
@@ -252,6 +273,27 @@
     "readingTime": 3
   },
   {
+    "id": "economic-calendar",
+    "type": "news",
+    "title": "Economic Calendar",
+    "slug": "economic-calendar",
+    "date": "2026-11-02",
+    "displayDate": "November 2, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The sources describe the Economic Calendar as a real-time, streaming schedule of economic events and data releases that can move financial markets. It tracks in",
+    "excerpt": "The sources describe the Economic Calendar as a real-time, streaming schedule of economic events and data releases that can move financial markets. It tracks indicators such as GDP, inflation, employment figures, interest rate decisions, manufacturing PMI, consumer confidence, and central bank speec",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Economic Calendar"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "economic-sector-performance-dashboards-yahoo-finance",
     "type": "news",
     "title": "Economic Sector Performance Dashboards - Yahoo Finance",
@@ -294,6 +336,111 @@
     "readingTime": 4
   },
   {
+    "id": "federal-open-market-committee-wikipedia",
+    "type": "news",
+    "title": "Federal Open Market Committee - Wikipedia",
+    "slug": "federal-open-market-committee-wikipedia",
+    "date": "2026-11-02",
+    "displayDate": "November 2, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Open Market Committee (FOMC) is a committee within the Federal Reserve System that oversees the nation's open market operations and makes key decisi",
+    "excerpt": "The Federal Open Market Committee (FOMC) is a committee within the Federal Reserve System that oversees the nation's open market operations and makes key decisions about interest rates and the growth of the United States money supply. The FOMC is the principal organ of United States national monetar",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Federal Open Market Committee - Wikipedia"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "federal-reserve-board-monetary-policy",
+    "type": "news",
+    "title": "Federal Reserve Board - Monetary Policy",
+    "slug": "federal-reserve-board-monetary-policy",
+    "date": "2026-11-02",
+    "displayDate": "November 2, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Monetary policy in the United States is the responsibility of the Federal Reserve System, which aims to promote maximum employment, stable prices, and moderate ",
+    "excerpt": "Monetary policy in the United States is the responsibility of the Federal Reserve System, which aims to promote maximum employment, stable prices, and moderate long-term interest rates. The Federal Reserve Board, along with the presidents of the regional Federal Reserve Banks, deliberates on an appr",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Federal Reserve Board - Monetary Policy"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "federal-reserve-economic-data-fred-st-louis-fed",
+    "type": "news",
+    "title": "Federal Reserve Economic Data | FRED | St. Louis Fed",
+    "slug": "federal-reserve-economic-data-fred-st-louis-fed",
+    "date": "2026-11-02",
+    "displayDate": "November 2, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "FRED, or Federal Reserve Economic Data, is a database maintained by the Research Division of the Federal Reserve Bank of St. Louis that provides access to over ",
+    "excerpt": "FRED, or Federal Reserve Economic Data, is a database maintained by the Research Division of the Federal Reserve Bank of St. Louis that provides access to over 816,000 economic time series from numerous public and private sources. It includes data on banking, business and fiscal conditions, consumer",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Federal Reserve Economic Data | FRED | St. Louis Fed"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "geekwire-breaking-news-in-technology-business",
+    "type": "news",
+    "title": "GeekWire – Breaking News in Technology & Business",
+    "slug": "geekwire-breaking-news-in-technology-business",
+    "date": "2026-11-02",
+    "displayDate": "November 2, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "On October 26, 2026, GeekWire reported that former GitHub CEO launched a rival platform built for AI coding agents. The same day, Microsoft made a new ‘voluntar",
+    "excerpt": "On October 26, 2026, GeekWire reported that former GitHub CEO launched a rival platform built for AI coding agents. The same day, Microsoft made a new ‘voluntary exit’ offer to about a quarter of its workforce, including some executives. On October 28, 2026, former T-Mobile CEO Mike Sievert exited t",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "GeekWire – Breaking News in Technology & Business"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "global-indices-tracking-the-world-s-markets",
+    "type": "news",
+    "title": "Global Indices - Tracking the World's Markets",
+    "slug": "global-indices-tracking-the-world-s-markets",
+    "date": "2026-11-02",
+    "displayDate": "November 2, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The sources provide specific data on various global indices as of today, November 2, 2026. The S&P 500 was at 7,643.86, down 40.57 points (0.53%). The Nikkei 22",
+    "excerpt": "The sources provide specific data on various global indices as of today, November 2, 2026. The S&P 500 was at 7,643.86, down 40.57 points (0.53%). The Nikkei 225 was at 63,105.78, down 184.33 points (0.29%). The Hang Seng Index was at 23,093.40, up 158.72 points (0.69%). The DAX Index was at 25,181.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Global Indices - Tracking the World's Markets"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "global-market-indices-international-markets-markets-insider",
     "type": "news",
     "title": "Global Market Indices | International Markets | Markets Insider",
@@ -315,6 +462,27 @@
     "readingTime": 3
   },
   {
+    "id": "global-markets-today-news-and-updates-from-the-economic-times-page-1",
+    "type": "news",
+    "title": "global markets today News and Updates from The Economic Times - Page 1",
+    "slug": "global-markets-today-news-and-updates-from-the-economic-times-page-1",
+    "date": "2026-11-02",
+    "displayDate": "November 2, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Global markets today saw the Chinese yuan hitting a four-year high and heading for a fourth straight monthly gain. The Bank of Japan achieved a 2% inflation tar",
+    "excerpt": "Global markets today saw the Chinese yuan hitting a four-year high and heading for a fourth straight monthly gain. The Bank of Japan achieved a 2% inflation target after 13 years. Meanwhile, the European Central Bank (ECB) may pause rate hikes after December amid growth risks. In the US, Asian share",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "global markets today News and Updates from The Economic Times - Page 1"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "inflation-consumer-prices-for-the-united-states-fpcpitotlzgusa-fred-st-louis-fed",
     "type": "news",
     "title": "Inflation, consumer prices for the United States (FPCPITOTLZGUSA) | FRED | St. Louis Fed",
@@ -332,6 +500,27 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "Inflation, consumer prices for the United States (FPCPITOTLZGUSA) | FRED | St. Louis Fed"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "investment-strategies-for-today-and-long-term-blackrock",
+    "type": "news",
+    "title": "Investment strategies for today and long-term | BlackRock",
+    "slug": "investment-strategies-for-today-and-long-term-blackrock",
+    "date": "2026-11-02",
+    "displayDate": "November 2, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "BlackRock's investment strategies for today's market emphasize staying up-to-date on market trends and offering curated investment options to help clients achie",
+    "excerpt": "BlackRock's investment strategies for today's market emphasize staying up-to-date on market trends and offering curated investment options to help clients achieve their goals. The firm's long-term investment strategies focus on leveraging scale, innovation, and strategic partnerships in asset manage",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Investment strategies for today and long-term | BlackRock"
     },
     "readingTime": 3
   },
@@ -399,6 +588,48 @@
     "readingTime": 4
   },
   {
+    "id": "latest-stock-market-news",
+    "type": "news",
+    "title": "Latest Stock Market News",
+    "slug": "latest-stock-market-news",
+    "date": "2026-11-02",
+    "displayDate": "November 2, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The latest stock market news indicates modest gains with seven S&P 500 sectors finishing higher, although the gains were relatively modest. Decliners outpaced a",
+    "excerpt": "The latest stock market news indicates modest gains with seven S&P 500 sectors finishing higher, although the gains were relatively modest. Decliners outpaced advancers by a slim 7-to-6 margin on the NYSE, while advancers held a roughly 4-to-3 edge on the Nasdaq. The consumer discretionary sector fi",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Latest Stock Market News"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "lisep-ludwig-institute-for-shared-economic-prosperity",
+    "type": "news",
+    "title": "LISEP Ludwig Institute for Shared Economic Prosperity",
+    "slug": "lisep-ludwig-institute-for-shared-economic-prosperity",
+    "date": "2026-11-02",
+    "displayDate": "November 2, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Ludwig Institute for Shared Economic Prosperity (LISEP) is a nonprofit research services company founded in 2019 with headquarters in Washington, DC, United",
+    "excerpt": "The Ludwig Institute for Shared Economic Prosperity (LISEP) is a nonprofit research services company founded in 2019 with headquarters in Washington, DC, United States. Its mission is to improve the economic well-being of middle- and lower-income Americans through fact-based economic and policy rese",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "LISEP Ludwig Institute for Shared Economic Prosperity"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "market-outlook-s-p-500-market-analysis-and-forecast",
     "type": "news",
     "title": "Market Outlook - S&P 500 Market Analysis and Forecast",
@@ -462,6 +693,48 @@
     "readingTime": 3
   },
   {
+    "id": "stock-earnings-calendar-nov-2-2026-digrin",
+    "type": "news",
+    "title": "Stock Earnings Calendar Nov 2, 2026 | Digrin",
+    "slug": "stock-earnings-calendar-nov-2-2026-digrin",
+    "date": "2026-11-02",
+    "displayDate": "November 2, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "On November 2, 2026, 127 companies are scheduled to report earnings, including Innovative Industrial Properties, Inc. (IIPR), Filana Therapeutics, Inc. (F), Cas",
+    "excerpt": "On November 2, 2026, 127 companies are scheduled to report earnings, including Innovative Industrial Properties, Inc. (IIPR), Filana Therapeutics, Inc. (F), Cassiar Gold Corp. (GLDC.V), DIAGNOS Inc. (ADK.V), Fineotex Chemical Limited (FCL.NS), Marriott International, Inc. (MAR), Entergy Corporation ",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Stock Earnings Calendar Nov 2, 2026 | Digrin"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "stock-market-outlook-today-amp-tomorrow-market-outlook-amp-forecast-seeking-alph",
+    "type": "news",
+    "title": "Stock Market Outlook Today &amp; Tomorrow | Market Outlook &amp; Forecast | Seeking Alpha",
+    "slug": "stock-market-outlook-today-amp-tomorrow-market-outlook-amp-forecast-seeking-alph",
+    "date": "2026-11-02",
+    "displayDate": "November 2, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The sources provided do not contain any information about the stock market outlook for today or tomorrow as of November 2, 2026. The content available is dated ",
+    "excerpt": "The sources provided do not contain any information about the stock market outlook for today or tomorrow as of November 2, 2026. The content available is dated from April 16 and October 29, 2026, covering various market segments and specific stocks, but none of these entries pertain to the requested",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Stock Market Outlook Today &amp; Tomorrow | Market Outlook &amp; Forecast | Seeking Alpha"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "stock-market-sector-performance-barchart-com",
     "type": "news",
     "title": "Stock Market & Sector Performance - Barchart.com",
@@ -504,6 +777,111 @@
     "readingTime": 5
   },
   {
+    "id": "techcrunch-startup-and-technology-news",
+    "type": "news",
+    "title": "TechCrunch | Startup and Technology News",
+    "slug": "techcrunch-startup-and-technology-news",
+    "date": "2026-11-02",
+    "displayDate": "November 2, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "TechCrunch is a news platform that provides reporting on the business of technology, startups, venture capital funding, and Silicon Valley. It was founded in Ju",
+    "excerpt": "TechCrunch is a news platform that provides reporting on the business of technology, startups, venture capital funding, and Silicon Valley. It was founded in June 2005 by Michael Arrington and Keith Teare and was acquired by AOL in 2010 for approximately $25 million. The site was owned by Verizon Me",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "TechCrunch | Startup and Technology News"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "technology-news",
+    "type": "news",
+    "title": "Technology News",
+    "slug": "technology-news",
+    "date": "2026-11-02",
+    "displayDate": "November 2, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Microsoft plans to raise $25 billion in debt to pursue AI buildout, while Intel stock plunges 21% due to a PC slowdown. CNBC reports on tech giants needing lega",
+    "excerpt": "Microsoft plans to raise $25 billion in debt to pursue AI buildout, while Intel stock plunges 21% due to a PC slowdown. CNBC reports on tech giants needing legacy businesses to grow amid AI investments. TechNewsWorld highlights AI cyberattacks outpacing defenses and Amazon's new login requirement te",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Technology News"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "the-best-7-000-tfsa-investments-for-current-market-conditions",
+    "type": "news",
+    "title": "The Best $7,000 TFSA Investments for Current Market Conditions",
+    "slug": "the-best-7-000-tfsa-investments-for-current-market-conditions",
+    "date": "2026-11-02",
+    "displayDate": "November 2, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "For a $7,000 TFSA contribution, the sources suggest considering well-managed companies with long-term growth potential like Constellation Software and goeasy if",
+    "excerpt": "For a $7,000 TFSA contribution, the sources suggest considering well-managed companies with long-term growth potential like Constellation Software and goeasy if you have a high tolerance for volatility and a long investment horizon. For those concerned about market volatility and risk aversion, high",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "The Best $7,000 TFSA Investments for Current Market Conditions"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "the-best-investment-strategies-for-the-continuous-market-investing-com",
+    "type": "news",
+    "title": "The Best Investment Strategies For The Continuous Market - Investing.com",
+    "slug": "the-best-investment-strategies-for-the-continuous-market-investing-com",
+    "date": "2026-11-02",
+    "displayDate": "November 2, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The sources highlight several popular investment strategies. Value investing involves selecting undervalued stocks to buy at prices lower than their intrinsic v",
+    "excerpt": "The sources highlight several popular investment strategies. Value investing involves selecting undervalued stocks to buy at prices lower than their intrinsic value, with the goal of profiting when the market price reflects the true worth. The \"buy and hold\" strategy is effective during strongly tre",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "The Best Investment Strategies For The Continuous Market - Investing.com"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "the-fed-september-15-16-2026-fomc-meeting",
+    "type": "news",
+    "title": "The Fed - September 15-16, 2026 FOMC Meeting",
+    "slug": "the-fed-september-15-16-2026-fomc-meeting",
+    "date": "2026-11-02",
+    "displayDate": "November 2, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The FOMC held a meeting on September 15-16, 2026, and voted unanimously to raise the target range for the federal funds rate by 25 basis points to 3-3/4 to 4 pe",
+    "excerpt": "The FOMC held a meeting on September 15-16, 2026, and voted unanimously to raise the target range for the federal funds rate by 25 basis points to 3-3/4 to 4 percent. The Board of Governors of the Federal Reserve System also voted unanimously to raise the interest rate paid on reserve balances to 3.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "The Fed - September 15-16, 2026 FOMC Meeting"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "u-s-bureau-of-economic-analysis-bea",
     "type": "news",
     "title": "U.S. Bureau of Economic Analysis (BEA)",
@@ -521,6 +899,27 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "U.S. Bureau of Economic Analysis (BEA)"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "u-s-bureau-of-labor-statistics-u-s-bureau-of-labor-statistics",
+    "type": "news",
+    "title": "U.S. Bureau of Labor Statistics :  U.S. Bureau of Labor Statistics",
+    "slug": "u-s-bureau-of-labor-statistics-u-s-bureau-of-labor-statistics",
+    "date": "2026-11-02",
+    "displayDate": "November 2, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The U.S. Bureau of Labor Statistics (BLS) is a unit of the United States Department of Labor, formed on June 27, 1884. It is the principal fact-finding agency f",
+    "excerpt": "The U.S. Bureau of Labor Statistics (BLS) is a unit of the United States Department of Labor, formed on June 27, 1884. It is the principal fact-finding agency for the U.S. government in the broad field of labor economics and statistics and serves as a principal agency of the U.S. federal statistical",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "U.S. Bureau of Labor Statistics :  U.S. Bureau of Labor Statistics"
     },
     "readingTime": 3
   },
@@ -586,6 +985,27 @@
       "alt": "United States Inflation Rate"
     },
     "readingTime": 5
+  },
+  {
+    "id": "weekly-trader-s-outlook",
+    "type": "news",
+    "title": "Weekly Trader's Outlook",
+    "slug": "weekly-trader-s-outlook",
+    "date": "2026-11-02",
+    "displayDate": "November 2, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The sources indicate a volatile week for stocks driven by AI concerns and Middle East tensions, leading to \"risk-off\" behavior. The Nasdaq and S&P 500 are on tr",
+    "excerpt": "The sources indicate a volatile week for stocks driven by AI concerns and Middle East tensions, leading to \"risk-off\" behavior. The Nasdaq and S&P 500 are on track for modest weekly losses, with a \"bounce attempt\" in the first half of the week followed by a strong sell-off on Thursday. WTI crude is ",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Weekly Trader's Outlook"
+    },
+    "readingTime": 3
   },
   {
     "id": "what-to-look-out-for-in-economic-data-this-week-november-2-6-kiplinger",
@@ -689,27 +1109,6 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "Bitcoin Price Analysis: Today's Crypto Market Update"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "bitcoin-price-today-analysis-uptrend-holds-but-momentum-fades",
-    "type": "news",
-    "title": "Bitcoin price today Analysis: Uptrend Holds but Momentum Fades",
-    "slug": "bitcoin-price-today-analysis-uptrend-holds-but-momentum-fades",
-    "date": "2026-11-01",
-    "displayDate": "November 1, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Bitcoin price today is trading near $82,300, still up about 28% over three months after this week’s drop. A hidden momentum signal on the daily chart suggests t",
-    "excerpt": "Bitcoin price today is trading near $82,300, still up about 28% over three months after this week’s drop. A hidden momentum signal on the daily chart suggests the uptrend can survive. The catch is that buying from long-term holders has dropped 96%. Bitcoin Hodler Net Position Change, a Glassnode met",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Bitcoin price today Analysis: Uptrend Holds but Momentum Fades"
     },
     "readingTime": 4
   },
@@ -819,27 +1218,6 @@
     "readingTime": 4
   },
   {
-    "id": "economic-calendar",
-    "type": "news",
-    "title": "Economic Calendar",
-    "slug": "economic-calendar",
-    "date": "2026-11-01",
-    "displayDate": "November 1, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Economic Calendar on Investing.com tracks high-impact financial events and economic indicators, including central bank interest rate decisions, Non-Farm Pay",
-    "excerpt": "The Economic Calendar on Investing.com tracks high-impact financial events and economic indicators, including central bank interest rate decisions, Non-Farm Payrolls (NFP), GDP releases, the Consumer Price Index (CPI), and unemployment data, which are marked with three stars due to their potential t",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Economic Calendar"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "economic-indicators-calendar-federal-reserve-bank-of-new-york",
     "type": "news",
     "title": "Economic Indicators Calendar - FEDERAL RESERVE BANK of NEW YORK",
@@ -924,90 +1302,6 @@
     "readingTime": 3
   },
   {
-    "id": "federal-open-market-committee-wikipedia",
-    "type": "news",
-    "title": "Federal Open Market Committee - Wikipedia",
-    "slug": "federal-open-market-committee-wikipedia",
-    "date": "2026-11-01",
-    "displayDate": "November 1, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Open Market Committee (FOMC) is a committee within the Federal Reserve System that oversees the nation's open market operations, including the buyin",
-    "excerpt": "The Federal Open Market Committee (FOMC) is a committee within the Federal Reserve System that oversees the nation's open market operations, including the buying and selling of U.S. Treasury securities. It is the principal organ of U.S. national monetary policy, setting monetary policy by specifying",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Federal Open Market Committee - Wikipedia"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "federal-reserve-board-monetary-policy",
-    "type": "news",
-    "title": "Federal Reserve Board - Monetary Policy",
-    "slug": "federal-reserve-board-monetary-policy",
-    "date": "2026-11-01",
-    "displayDate": "November 1, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Monetary policy in the United States is the responsibility of the Federal Reserve System, which aims to promote maximum employment, stable prices, and moderate ",
-    "excerpt": "Monetary policy in the United States is the responsibility of the Federal Reserve System, which aims to promote maximum employment, stable prices, and moderate long-term interest rates. The Federal Open Market Committee (FOMC), composed of the Federal Reserve Board of Governors and five of the twelv",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Federal Reserve Board - Monetary Policy"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "federal-reserve-economic-data-fred-st-louis-fed",
-    "type": "news",
-    "title": "Federal Reserve Economic Data | FRED | St. Louis Fed",
-    "slug": "federal-reserve-economic-data-fred-st-louis-fed",
-    "date": "2026-11-01",
-    "displayDate": "November 1, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Federal Reserve Economic Data (FRED) is a database maintained by the Research Division of the Federal Reserve Bank of St. Louis that provides access to more tha",
-    "excerpt": "Federal Reserve Economic Data (FRED) is a database maintained by the Research Division of the Federal Reserve Bank of St. Louis that provides access to more than 816,000 economic time series from hundreds of public and private sources. The database includes data on banking, business and fiscal condi",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Federal Reserve Economic Data | FRED | St. Louis Fed"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "global-indices-tracking-the-world-s-markets",
-    "type": "news",
-    "title": "Global Indices - Tracking the World's Markets",
-    "slug": "global-indices-tracking-the-world-s-markets",
-    "date": "2026-11-01",
-    "displayDate": "November 1, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "On November 1, 2026, the S&P 500 was at 7,643.86, down 40.57 points (0.53%) from the previous close, according to Groww. The Nikkei 225 was at 62,693.16, down 2",
-    "excerpt": "On November 1, 2026, the S&P 500 was at 7,643.86, down 40.57 points (0.53%) from the previous close, according to Groww. The Nikkei 225 was at 62,693.16, down 214.68 points (0.34%), per the same source. The Hang Seng Index was at 23,093.40, up 158.72 points (0.69%), and the DAX was at 25,181.65, dow",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Global Indices - Tracking the World's Markets"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "global-stock-market-news-and-world-indices-coverage",
     "type": "news",
     "title": "Global Stock Market News and World Indices Coverage",
@@ -1048,69 +1342,6 @@
       "alt": "Healthcare Stock Performance - Yahoo Finance"
     },
     "readingTime": 5
-  },
-  {
-    "id": "investment-strategies-for-today-and-long-term-blackrock",
-    "type": "news",
-    "title": "Investment strategies for today and long-term | BlackRock",
-    "slug": "investment-strategies-for-today-and-long-term-blackrock",
-    "date": "2026-11-01",
-    "displayDate": "November 1, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "BlackRock's investment strategies for today's market emphasize staying up-to-date on market trends and exploring curated offerings to help clients pursue their ",
-    "excerpt": "BlackRock's investment strategies for today's market emphasize staying up-to-date on market trends and exploring curated offerings to help clients pursue their goals. The firm's top investment strategies include international investing, which involves risks like foreign currency and volatility. Blac",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Investment strategies for today and long-term | BlackRock"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "latest-stock-market-news",
-    "type": "news",
-    "title": "Latest Stock Market News",
-    "slug": "latest-stock-market-news",
-    "date": "2026-11-01",
-    "displayDate": "November 1, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "MarketWatch reports that consumers are spending more but not getting their money's worth due to inflation, and inflation surges with the PCE showing prices stil",
-    "excerpt": "MarketWatch reports that consumers are spending more but not getting their money's worth due to inflation, and inflation surges with the PCE showing prices still rising, making a Fed rate hike pause unlikely. The economy grows at its fastest pace in a year with little sign of slowing. Yahoo Finance ",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Latest Stock Market News"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "lisep-ludwig-institute-for-shared-economic-prosperity",
-    "type": "news",
-    "title": "LISEP Ludwig Institute for Shared Economic Prosperity",
-    "slug": "lisep-ludwig-institute-for-shared-economic-prosperity",
-    "date": "2026-11-01",
-    "displayDate": "November 1, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Ludwig Institute for Shared Economic Prosperity (LISEP) was created in 2019 by Gene Ludwig and his wife, Dr. Carol Ludwig, with a mission to improve the eco",
-    "excerpt": "The Ludwig Institute for Shared Economic Prosperity (LISEP) was created in 2019 by Gene Ludwig and his wife, Dr. Carol Ludwig, with a mission to improve the economic well-being of middle- and lower-income Americans through research and education. LISEP's original economic research includes new indic",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "LISEP Ludwig Institute for Shared Economic Prosperity"
-    },
-    "readingTime": 3
   },
   {
     "id": "nq-100-technology-sector-index-today-ndxt-investing-com",
@@ -1197,27 +1428,6 @@
     "readingTime": 4
   },
   {
-    "id": "stock-market-outlook-today-amp-tomorrow-market-outlook-amp-forecast-seeking-alph",
-    "type": "news",
-    "title": "Stock Market Outlook Today &amp; Tomorrow | Market Outlook &amp; Forecast | Seeking Alpha",
-    "slug": "stock-market-outlook-today-amp-tomorrow-market-outlook-amp-forecast-seeking-alph",
-    "date": "2026-11-01",
-    "displayDate": "November 1, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The sources provide a range of market outlooks and analyses but do not offer a specific forecast for today's stock market outlook or tomorrow. They include vari",
-    "excerpt": "The sources provide a range of market outlooks and analyses but do not offer a specific forecast for today's stock market outlook or tomorrow. They include various sectors' performance, earnings reports, and notable events like OPEC+ agreeing to hold oil output targets steady and Intel receiving mul",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Stock Market Outlook Today &amp; Tomorrow | Market Outlook &amp; Forecast | Seeking Alpha"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "stock-market-outlook-today-tomorrow-market-outlook-forecast-seeking-alpha",
     "type": "news",
     "title": "Stock Market Outlook Today & Tomorrow | Market Outlook & Forecast | Seeking Alpha",
@@ -1302,90 +1512,6 @@
     "readingTime": 3
   },
   {
-    "id": "technology-news",
-    "type": "news",
-    "title": "Technology News",
-    "slug": "technology-news",
-    "date": "2026-11-01",
-    "displayDate": "November 1, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The sources provide a snapshot of technology news as of October 29th, 2026, with significant financial and strategic updates. Amazon posts a negative free cash ",
-    "excerpt": "The sources provide a snapshot of technology news as of October 29th, 2026, with significant financial and strategic updates. Amazon posts a negative free cash flow of $42.4 billion, while ServiceNow shares plunge 27% due to AI disruption fears. Intel's stock plunges 21% blaming a PC slowdown. Meanw",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Technology News"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "the-best-7-000-tfsa-investments-for-current-market-conditions",
-    "type": "news",
-    "title": "The Best $7,000 TFSA Investments for Current Market Conditions",
-    "slug": "the-best-7-000-tfsa-investments-for-current-market-conditions",
-    "date": "2026-11-01",
-    "displayDate": "November 1, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "For a $7,000 TFSA investment, the sources suggest two main approaches. For those with a long investment horizon and high tolerance for volatility, Constellation",
-    "excerpt": "For a $7,000 TFSA investment, the sources suggest two main approaches. For those with a long investment horizon and high tolerance for volatility, Constellation Software and goeasy are recommended for their long-term growth potential. Alternatively, the video suggests investing 100% of the $7,000 in",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "The Best $7,000 TFSA Investments for Current Market Conditions"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "the-best-investment-strategies-for-the-continuous-market-investing-com",
-    "type": "news",
-    "title": "The Best Investment Strategies For The Continuous Market - Investing.com",
-    "slug": "the-best-investment-strategies-for-the-continuous-market-investing-com",
-    "date": "2026-11-01",
-    "displayDate": "November 1, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The best investment strategies for the continuous market include investing in growing and innovative companies, particularly in startups and technology sectors,",
-    "excerpt": "The best investment strategies for the continuous market include investing in growing and innovative companies, particularly in startups and technology sectors, and those that reinvest profits for growth rather than distributing dividends or buying back shares. A continuous market allows for trading",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "The Best Investment Strategies For The Continuous Market - Investing.com"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "u-s-bureau-of-labor-statistics-u-s-bureau-of-labor-statistics",
-    "type": "news",
-    "title": "U.S. Bureau of Labor Statistics :  U.S. Bureau of Labor Statistics",
-    "slug": "u-s-bureau-of-labor-statistics-u-s-bureau-of-labor-statistics",
-    "date": "2026-11-01",
-    "displayDate": "November 1, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The U.S. Bureau of Labor Statistics (BLS) is a unit of the United States Department of Labor, formed on June 27, 1884. It is the principal fact-finding agency f",
-    "excerpt": "The U.S. Bureau of Labor Statistics (BLS) is a unit of the United States Department of Labor, formed on June 27, 1884. It is the principal fact-finding agency for the U.S. government in the broad field of labor economics and statistics and serves as a principal agency of the U.S. federal statistical",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "U.S. Bureau of Labor Statistics :  U.S. Bureau of Labor Statistics"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "united-states-indicators",
     "type": "news",
     "title": "United States Indicators",
@@ -1424,27 +1550,6 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "WATCH LIVE: Fed chair Warsh holds briefing after latest interest rate decision | PBS News"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "weekly-trader-s-outlook",
-    "type": "news",
-    "title": "Weekly Trader's Outlook",
-    "slug": "weekly-trader-s-outlook",
-    "date": "2026-11-01",
-    "displayDate": "November 1, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The sources indicate a cautious outlook for next week's stock market, with major indexes reaching record highs but showing signs of momentum divergences and def",
-    "excerpt": "The sources indicate a cautious outlook for next week's stock market, with major indexes reaching record highs but showing signs of momentum divergences and defensive rotation. Oil prices and Treasury yields remain key variables. The outlook for next week is \"cautious,\" with potential support beneat",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Weekly Trader's Outlook"
     },
     "readingTime": 3
   },
@@ -2016,27 +2121,6 @@
     "readingTime": 4
   },
   {
-    "id": "techcrunch-startup-and-technology-news",
-    "type": "news",
-    "title": "TechCrunch | Startup and Technology News",
-    "slug": "techcrunch-startup-and-technology-news",
-    "date": "2026-10-09",
-    "displayDate": "October 9, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "TechCrunch is an American global online newspaper focusing on high-tech and startup companies, founded in 2005 and acquired by AOL in 2010 for $25 million. It c",
-    "excerpt": "TechCrunch is an American global online newspaper focusing on high-tech and startup companies, founded in 2005 and acquired by AOL in 2010 for $25 million. It covers startup news across various industries including climate, crypto, fintech, SaaS, transportation, and consumer tech. TechCrunch hosts a",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "TechCrunch | Startup and Technology News"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "this-week-s-best-performing-stocks-sectors-industries-rankings",
     "type": "news",
     "title": "This Week's Best Performing Stocks, Sectors, Industries Rankings",
@@ -2308,27 +2392,6 @@
       "alt": "Earnings Whispers | Earnings Calendar: October 8, 2026"
     },
     "readingTime": 3
-  },
-  {
-    "id": "geekwire-breaking-news-in-technology-business",
-    "type": "news",
-    "title": "GeekWire – Breaking News in Technology & Business",
-    "slug": "geekwire-breaking-news-in-technology-business",
-    "date": "2026-10-08",
-    "displayDate": "October 8, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "GeekWire reports on several technology and business developments, including the launch of a service by startup hub Foundations to connect businesses with AI fou",
-    "excerpt": "GeekWire reports on several technology and business developments, including the launch of a service by startup hub Foundations to connect businesses with AI founders for hire, Seattle startup Chiplytics securing $4.5M to detect fake chips, and Orbital Robotics preparing to send arms for the Internat",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "GeekWire – Breaking News in Technology & Business"
-    },
-    "readingTime": 4
   },
   {
     "id": "hca-stock-rises-as-healthcare-sector-lags-in-2025",
