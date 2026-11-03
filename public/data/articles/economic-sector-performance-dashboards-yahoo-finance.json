@@ -3,8 +3,8 @@
   "type": "news",
   "title": "Economic Sector Performance Dashboards - Yahoo Finance",
   "slug": "economic-sector-performance-dashboards-yahoo-finance",
-  "date": "2026-11-02",
-  "displayDate": "November 2, 2026",
+  "date": "2026-11-03",
+  "displayDate": "November 3, 2026",
   "author": "Sigma Capital",
   "category": "Sector Performance",
   "tags": [
@@ -12,41 +12,41 @@
     "financial news",
     "market update"
   ],
-  "metaDescription": "The Yahoo Finance sector performance dashboard shows the NASDAQ Composite, S&P 500, and Dow Jones Industrial Average indices, along with specific equities like ",
-  "excerpt": "The Yahoo Finance sector performance dashboard shows the NASDAQ Composite, S&P 500, and Dow Jones Industrial Average indices, along with specific equities like Inovio Pharmaceuticals, Regeneron Pharmaceuticals, Intel, and Nokia. The State Street sector tracker indicates the performance of sectors su",
+  "metaDescription": "The sources indicate that the Personal Consumption Expenditures index rose 3.6% and the GDP increased at a 3.4% annualized rate in the third quarter. The latest",
+  "excerpt": "The sources indicate that the Personal Consumption Expenditures index rose 3.6% and the GDP increased at a 3.4% annualized rate in the third quarter. The latest quarter's AI boom results showed significant performance by Big Tech companies. Yahoo Finance lists Intel Corporation, NVIDIA Corporation, ",
   "content": {
-    "introduction": "The Yahoo Finance sector performance dashboard shows the NASDAQ Composite, S&P 500, and Dow Jones Industrial Average indices, along with specific equities like Inovio Pharmaceuticals, Regeneron Pharmaceuticals, Intel, and Nokia. The State Street sector tracker indicates the performance of sectors such as Real Estate, Consumer Staples, Utilities, Financials, Materials, Industrials, Consumer Discretionary, and Energy as of Oct 30 4:00 PM ET. The Yahoo Finance markets page provides sector performance data and trending stocks, including the iShares 20+ Year Treasury Bond ETF and 10 Yr T-Note Futures. The sources do not provide a definitive answer to the specific question about economic sector performance dashboards.",
+    "introduction": "The sources indicate that the Personal Consumption Expenditures index rose 3.6% and the GDP increased at a 3.4% annualized rate in the third quarter. The latest quarter's AI boom results showed significant performance by Big Tech companies. Yahoo Finance lists Intel Corporation, NVIDIA Corporation, Space Exploration Technologies Corp., Amazon.com, Inc., and Nokia Oyj as most active stocks with notable changes. The top gainers include CareDx, Inc., FedEx Freight Holding Company, Inc., Methanex Corporation, Regeneron Pharmaceuticals, Inc., and Cavco Industries, Inc. State Street's sector tracker shows changes in various sectors as of Oct 30, with notable increases in Real Estate, Consumer Staples, Utilities, Financials, Materials, Industrials, Consumer Discretionary, Energy, Health Care, and Information Technology.",
     "body": [
-      "^IXIC NASDAQ Composite   Index NIM  \n   ^GSPC S&P 500   Index SNP  \n   ^DJI Dow Jones Industrial Average   Index DJI  \n   INO Inovio Pharmaceuticals, Inc.   Equity NCM  \n   GC=F Gold Dec 26   Futures CMX  \n   REGN Regeneron Pharmaceuticals, Inc.   Equity NMS [...] Most active \n       INTC Intel Corporation 65.76-26.31(-28.58%)    \n       NVDA NVIDIA Corporation 204.64-9.02(-4.22%)    \n       SPCX Space Exploration Technologies Corp. 134.72-9.17(-6.37%)    \n       AMZN Amazon.com, Inc. 240.35-3.44(-1.41%)    \n       NOK Nokia Oyj 8.56-0.75(-8.06%)    \n\n   \n Top economic events [...] 12.   News • yesterday The Personal Consumption Expenditures index rose 3.6%, in line with expectations and up from 3.4% a month earlier.\n13.   News • yesterday Gross domestic product increased at a 3.4% annualized rate in the third quarter.\n14.   News • yesterday It's official, two of the largest third-party delivery apps, are coming together.\n15.   News • yesterday The AI boom's biggest customers are now Big Tech's biggest bets, and the latest quarter showed which side pays off first.",
+      "22.   News • 3 days ago The Personal Consumption Expenditures index rose 3.6%, in line with expectations and up from 3.4% a month earlier.\n23.   News • 3 days ago Gross domestic product increased at a 3.4% annualized rate in the third quarter.\n24.   News • 3 days ago It's official, two of the largest third-party delivery apps, are coming together.\n25.   News • 3 days ago The AI boom's biggest customers are now Big Tech's biggest bets, and the latest quarter showed which side pays off first. [...] Most active \n       INTC Intel Corporation 65.76-26.31(-28.58%)    \n       NVDA NVIDIA Corporation 204.64-9.02(-4.22%)    \n       SPCX Space Exploration Technologies Corp. 134.72-9.17(-6.37%)    \n       AMZN Amazon.com, Inc. 240.35-3.44(-1.41%)    \n       NOK Nokia Oyj 8.56-0.75(-8.06%)    \n\n   \n Top economic events [...] Sign in    \n\n   \nTop gainers \n       CDNA CareDx, Inc. 87.41+15.89(+22.22%)    \n       FDXF FedEx Freight Holding Company, Inc. 126.04+16.35(+14.91%)    \n       MEOH Methanex Corporation 71.57+8.81(+14.04%)    \n       REGN Regeneron Pharmaceuticals, Inc. 927.89+109.12(+13.33%)    \n       CVCO Cavco Industries, Inc. 619.00+71.75(+13.11%)",
       "| xlre | Real Estate | 43.06 | 42.13 | +0.93 | +2.21 |\n| xlp | Consumer Staples | 88.18 | 86.84 | +1.34 | +1.54 |\n| xlu | Utilities | 43.14 | 42.49 | +0.65 | +1.53 |\n| xlf | Financials | 56.94 | 56.13 | +0.81 | +1.44 |\n| xlb | Materials | 52.53 | 51.86 | +0.67 | +1.29 |\n| xli | Industrials | 170.13 | 168.49 | +1.64 | +0.97 |\n| xly | Consumer Discretionary | 116.20 | 115.33 | +0.87 | +0.75 |\n| xle | Energy | 68.71 | 68.45 | +0.26 | +0.38 | [...] as of Oct 30 4:00 PM ET\nxlp Consumer Staples+1.41%\n\nas of Oct 30 4:00 PM ET\nxle Energy+1.91%\n\nas of Oct 30 4:00 PM ET\nxlf Financials-0.76%\n\nas of Oct 30 4:00 PM ET\nxlv Health Care+0.45%\n\nas of Oct 30 4:00 PM ET\nxli Industrials-1.60%\n\nas of Oct 30 4:00 PM ET\nxlk Information Technology-4.89%\n\nas of Oct 30 4:00 PM ET\nxlb Materials+0.40%\n\nas of Oct 30 4:00 PM ET\nxlre Real Estate+0.26%\n\nas of Oct 30 4:00 PM ET\nxlu Utilities+0.67%\n\nas of Oct 30 4:00 PM ET\n\n## Overview\n\nHere's how it works",
-      "### Sectors \n\n### Select a Sector for a Visual Breakdown\n\n| Sector | Market Weight | YTD Return |\n --- \n|  |  |  |\n|  |  |  |\n|  |  |  |\n|  |  |  |\n|  |  |  |\n|  |  |  |\n|  |  |  |\n|  |  |  |\n|  |  |  |\n|  |  |  |\n|  |  |  |\n|  |  |  |\n\nNote: Percentage % data on heatmap indicates Day Return\n\n### All Sectors\n\n<= -3\n\n-2.4\n\n-1.8\n\n-1.2\n\n-0.6\n\n0\n\n0.6\n\n1.2\n\n1.8\n\n2.4\n\n>= 3\n\n### Stocks \n\n#### Trending Now [...] | Symbol |  | Price | Change % |\n ---  --- |\n| iShares 20+ Year Treasury Bond ETF |  | 81.84  +0.35 (+0.43%) | +0.43% |\n| 10 Yr T-Note Futures |  | 106.64  +0.45 (+0.43%) | +0.43% |\n| 2 Yr T-Note Futures |  | 102.28  +0.14 (+0.13%) | +0.13% |\n| 30-Yr Bond |  | 5.31  -0.02 (-0.38%) | -0.38% |\n| 13-Wk Bond |  | 3.9730  -0.0250 (-0.63%) | -0.63% |\n| 10-Yr Bond |  | 4.9290  -0.0600 (-1.20%) | -1.20% |\n| 5-Yr Bond |  | 4.7210  -0.0800 (-1.67%) | -1.67% |\n\n### Sectors [...] 4. Options \n      1. Day Gainers\n      2. Day Losers\n      3. Highest Open Interest\n      4. Highest Implied Volatility\n   5. Sectors \n      1. Technology\n      2. Financial Services\n      3. Consumer Cyclical\n      4. Consumer Defensive\n      5. Communication Services\n      6. Healthcare\n      7. Industrials\n   6. Treasury Bonds\n   7. Currencies\n   8. World Indices\n   9. Commodities\n   10. ETFs\n   11. Mutual Funds\n3. 1. Markets \n      1. Stock Market News\n      2. Real Estate"
+      "### Sectors \n\n### Select a Sector for a Visual Breakdown\n\n| Sector | Market Weight | YTD Return |\n --- \n|  |  |  |\n|  |  |  |\n|  |  |  |\n|  |  |  |\n|  |  |  |\n|  |  |  |\n|  |  |  |\n|  |  |  |\n|  |  |  |\n|  |  |  |\n|  |  |  |\n|  |  |  |\n\nNote: Percentage % data on heatmap indicates Day Return\n\n### All Sectors\n\n<= -3\n\n-2.4\n\n-1.8\n\n-1.2\n\n-0.6\n\n0\n\n0.6\n\n1.2\n\n1.8\n\n2.4\n\n>= 3\n\n### Stocks \n\n#### Trending Now [...] | Symbol |  | Price | Change % |\n ---  --- |\n| iShares 20+ Year Treasury Bond ETF |  | 81.84  +0.35 (+0.43%) | +0.43% |\n| 10 Yr T-Note Futures |  | 106.64  0.00 (0.00%) | 0.00% |\n| 2 Yr T-Note Futures |  | 102.25  -0.03 (-0.03%) | -0.03% |\n| 30-Yr Bond |  | 5.31  -0.02 (-0.38%) | -0.38% |\n| 13-Wk Bond |  | 3.9730  -0.0250 (-0.63%) | -0.63% |\n| 10-Yr Bond |  | 4.9290  -0.0600 (-1.20%) | -1.20% |\n| 5-Yr Bond |  | 4.7210  -0.0800 (-1.67%) | -1.67% |\n\n### Sectors [...] 4. Options \n      1. Day Gainers\n      2. Day Losers\n      3. Highest Open Interest\n      4. Highest Implied Volatility\n   5. Sectors \n      1. Technology\n      2. Financial Services\n      3. Consumer Cyclical\n      4. Consumer Defensive\n      5. Communication Services\n      6. Healthcare\n      7. Industrials\n   6. Treasury Bonds\n   7. Currencies\n   8. World Indices\n   9. Commodities\n   10. ETFs\n   11. Mutual Funds\n3. 1. Markets \n      1. Stock Market News\n      2. Real Estate"
     ],
     "keyTakeaways": [
-      "The Yahoo Finance sector performance dashboard shows the NASDAQ Composite, S&P 500, and Dow Jones Industrial Average ind",
-      "^IXIC NASDAQ Composite   Index NIM  \n   ^GSPC S&P 500   Index SNP  \n   ^DJI Dow Jones Industrial Average   Index DJI  \n ",
+      "The sources indicate that the Personal Consumption Expenditures index rose 3.6% and the GDP increased at a 3",
+      "22.   News • 3 days ago The Personal Consumption Expenditures index rose 3",
       "| xlre | Real Estate | 43.06 | 42"
     ],
     "source": "finance.yahoo.com",
     "sourceUrl": "https://finance.yahoo.com/sectors"
   },
   "readingTime": 4,
-  "updatedAt": "2026-11-02T05:08:25.459Z",
+  "updatedAt": "2026-11-03T00:41:22.333Z",
   "images": {
     "thumbnail": {
-      "src": "/images/article_thumb_2.jpg",
+      "src": "/images/article_thumb_4.jpg",
       "alt": "Economic Sector Performance Dashboards - Yahoo Finance"
     },
     "hero": {
-      "src": "/images/article_thumb_6.jpg",
+      "src": "/images/article_thumb_1.jpg",
       "alt": "Economic Sector Performance Dashboards - Yahoo Finance"
     },
     "mid": {
-      "src": "/images/article_thumb_2.jpg",
+      "src": "/images/article_thumb_6.jpg",
       "alt": "Economic Sector Performance Dashboards - Yahoo Finance"
     }
   },
   "image": {
-    "src": "/images/article_thumb_2.jpg",
+    "src": "/images/article_thumb_1.jpg",
     "alt": "Economic Sector Performance Dashboards - Yahoo Finance"
   }
 }
