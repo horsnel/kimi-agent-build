@@ -1,5 +1,26 @@
 [
   {
+    "id": "12-month-percentage-change-consumer-price-index-selected-categories",
+    "type": "news",
+    "title": "12-month percentage change, Consumer Price Index, selected categories",
+    "slug": "12-month-percentage-change-consumer-price-index-selected-categories",
+    "date": "2026-11-03",
+    "displayDate": "November 3, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The sources provide data on the 12-month percentage change in the Consumer Price Index (CPI) for selected categories. According to the first source, the CPI dat",
+    "excerpt": "The sources provide data on the 12-month percentage change in the Consumer Price Index (CPI) for selected categories. According to the first source, the CPI data from 2001 to 2021 shows various percentage changes for different categories, but specific 12-month percentage changes for 2026 are not pro",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "12-month percentage change, Consumer Price Index, selected categories"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "2026-fall-investment-directions-blackrock",
     "type": "news",
     "title": "2026 Fall Investment Directions | BlackRock",
@@ -147,6 +168,27 @@
     "readingTime": 4
   },
   {
+    "id": "company-earnings-calendar-yahoo-finance",
+    "type": "news",
+    "title": "Company Earnings Calendar - Yahoo Finance",
+    "slug": "company-earnings-calendar-yahoo-finance",
+    "date": "2026-11-03",
+    "displayDate": "November 3, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "On the Yahoo Finance earnings calendar, several companies are scheduled to announce their earnings for Q3 2026, including Advanced Micro Devices, Inc. (AMD) and",
+    "excerpt": "On the Yahoo Finance earnings calendar, several companies are scheduled to announce their earnings for Q3 2026, including Advanced Micro Devices, Inc. (AMD) and Amgen Inc. (AMGN). The EPS estimates for AMD are $1.94, and for Amgen, it is $5.78. Sysco Corporation (SYY) is also listed with an EPS esti",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Company Earnings Calendar - Yahoo Finance"
+    },
+    "readingTime": 5
+  },
+  {
     "id": "cpi-home-u-s-bureau-of-labor-statistics",
     "type": "news",
     "title": "CPI Home : U.S. Bureau of Labor Statistics",
@@ -231,6 +273,27 @@
     "readingTime": 4
   },
   {
+    "id": "cryptocurrency-pricing-market-regulation-news-yahoo-finance",
+    "type": "news",
+    "title": "Cryptocurrency pricing, market & regulation news - Yahoo Finance",
+    "slug": "cryptocurrency-pricing-market-regulation-news-yahoo-finance",
+    "date": "2026-11-03",
+    "displayDate": "November 3, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Bitcoin steadies near $78,000 as Binance withdrawals resume, according to Yahoo Finance. The crypto market saw Bitcoin and altcoins retreat as Binance experienc",
+    "excerpt": "Bitcoin steadies near $78,000 as Binance withdrawals resume, according to Yahoo Finance. The crypto market saw Bitcoin and altcoins retreat as Binance experienced over $4.6 billion in withdrawals since restoring its service. Crypto firms have also written to US lawmakers to push for stablecoin regul",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Cryptocurrency pricing, market & regulation news - Yahoo Finance"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "earnings-breaking-news-and-press-releases",
     "type": "news",
     "title": "Earnings Breaking News and Press Releases",
@@ -250,6 +313,27 @@
       "alt": "Earnings Breaking News and Press Releases"
     },
     "readingTime": 3
+  },
+  {
+    "id": "earnings-calendar-and-analysis-for-this-week-november-2-7-kiplinger",
+    "type": "news",
+    "title": "Earnings Calendar and Analysis for This Week (November 2-7) | Kiplinger",
+    "slug": "earnings-calendar-and-analysis-for-this-week-november-2-7-kiplinger",
+    "date": "2026-11-03",
+    "displayDate": "November 3, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The sources provide earnings estimates for several companies for the week of November 2-7, 2026. Companies like Corebridge Financial, Telephone & Data, and Unde",
+    "excerpt": "The sources provide earnings estimates for several companies for the week of November 2-7, 2026. Companies like Corebridge Financial, Telephone & Data, and Under Armour have earnings estimates of $0.41, $0.11, and -$0.01 per share respectively. The earnings calendar also highlights Apple as a signif",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Earnings Calendar and Analysis for This Week (November 2-7) | Kiplinger"
+    },
+    "readingTime": 5
   },
   {
     "id": "earnings-calendar-investing-com",
@@ -290,6 +374,27 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "Earnings Calendar | Marketwatch"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "earnings-calendar-zacks-investment-research",
+    "type": "news",
+    "title": "Earnings Calendar - Zacks Investment Research",
+    "slug": "earnings-calendar-zacks-investment-research",
+    "date": "2026-11-03",
+    "displayDate": "November 3, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "On the Zacks Investment Research earnings calendar, three companies are scheduled to pay dividends on November 3, 2026: Southern Copper ($1.30, 2.29% yield), Me",
+    "excerpt": "On the Zacks Investment Research earnings calendar, three companies are scheduled to pay dividends on November 3, 2026: Southern Copper ($1.30, 2.29% yield), MetLife ($0.59, 2.35% yield), and China CITIC Bank ($0.47, 4.08% yield). The Zacks Investment Research earnings calendar also lists 292 earnin",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Earnings Calendar - Zacks Investment Research"
     },
     "readingTime": 4
   },
@@ -441,6 +546,27 @@
     "readingTime": 4
   },
   {
+    "id": "fed-rate-decision-october-2026",
+    "type": "news",
+    "title": "Fed rate decision October 2026",
+    "slug": "fed-rate-decision-october-2026",
+    "date": "2026-11-03",
+    "displayDate": "November 3, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Reserve held steady on rates at the conclusion of its October meeting, maintaining its target range of 3.75% to 4%. Two members of the Federal Open ",
+    "excerpt": "The Federal Reserve held steady on rates at the conclusion of its October meeting, maintaining its target range of 3.75% to 4%. Two members of the Federal Open Market Committee dissented from the decision: Governor Lisa Cook and Cleveland Fed President Beth Hammack were in favor of raising rates by ",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Fed rate decision October 2026"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "federal-open-market-committee-wikipedia",
     "type": "news",
     "title": "Federal Open Market Committee - Wikipedia",
@@ -546,6 +672,27 @@
     "readingTime": 4
   },
   {
+    "id": "global-indices-tracking-the-world-s-markets",
+    "type": "news",
+    "title": "Global Indices - Tracking the World's Markets",
+    "slug": "global-indices-tracking-the-world-s-markets",
+    "date": "2026-11-03",
+    "displayDate": "November 3, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "On November 3, 2026, the S&P 500 was at 7,612.09, up 49.69 points (0.66%). The Nikkei 225 was at 63,081.86, down 208.25 points (0.33%). The Hang Seng Index was ",
+    "excerpt": "On November 3, 2026, the S&P 500 was at 7,612.09, up 49.69 points (0.66%). The Nikkei 225 was at 63,081.86, down 208.25 points (0.33%). The Hang Seng Index was at 23,525.97, up 132.64 points (0.57%). The DAX was at 25,860.00, down 31.50 points (0.12%). The CAC 40 was at 8,020.31, down 27.38 points (",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Global Indices - Tracking the World's Markets"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "global-market-indices-international-markets-markets-insider",
     "type": "news",
     "title": "Global Market Indices | International Markets | Markets Insider",
@@ -563,6 +710,27 @@
     "image": {
       "src": "/images/article_thumb_1.jpg",
       "alt": "Global Market Indices | International Markets | Markets Insider"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "global-stock-market-news-and-world-indices-coverage",
+    "type": "news",
+    "title": "Global Stock Market News and World Indices Coverage",
+    "slug": "global-stock-market-news-and-world-indices-coverage",
+    "date": "2026-11-03",
+    "displayDate": "November 3, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The sources provide information on global stock market indices as of November 3, 2026. The S&P 500 was at 7,612.09, up 49.69 points (0.66%). The Nikkei 225 was ",
+    "excerpt": "The sources provide information on global stock market indices as of November 3, 2026. The S&P 500 was at 7,612.09, up 49.69 points (0.66%). The Nikkei 225 was at 63,081.86, down 208.25 points (0.33%). The Hang Seng was at 23,525.97, up 132.64 points (0.57%). The DAX was at 25,860.00, down 31.50 poi",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Global Stock Market News and World Indices Coverage"
     },
     "readingTime": 4
   },
@@ -588,6 +756,27 @@
     "readingTime": 4
   },
   {
+    "id": "how-should-i-allocate-my-portfolio-in-2026",
+    "type": "news",
+    "title": "How Should I Allocate My Portfolio in 2026?",
+    "slug": "how-should-i-allocate-my-portfolio-in-2026",
+    "date": "2026-11-03",
+    "displayDate": "November 3, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "In 2026, portfolio allocation should reflect your timeline, risk tolerance, income stability, and long-term goals. For those with a time horizon under 3 years, ",
+    "excerpt": "In 2026, portfolio allocation should reflect your timeline, risk tolerance, income stability, and long-term goals. For those with a time horizon under 3 years, prioritize liquidity and stability with heavy cash and short-term bonds. For 3–10 years, maintain a balanced stock/bond mix with moderate st",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "How Should I Allocate My Portfolio in 2026?"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "how-the-fomc-conducts-monetary-policy-st-louis-fed",
     "type": "news",
     "title": "How the FOMC Conducts Monetary Policy | St. Louis Fed",
@@ -607,6 +796,27 @@
       "alt": "How the FOMC Conducts Monetary Policy | St. Louis Fed"
     },
     "readingTime": 3
+  },
+  {
+    "id": "inflation-consumer-prices-for-the-united-states-fpcpitotlzgusa-fred-st-louis-fed",
+    "type": "news",
+    "title": "Inflation, consumer prices for the United States (FPCPITOTLZGUSA) | FRED | St. Louis Fed",
+    "slug": "inflation-consumer-prices-for-the-united-states-fpcpitotlzgusa-fred-st-louis-fed",
+    "date": "2026-11-03",
+    "displayDate": "November 3, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "For inflation, consumer prices for the United States (FPCPITOTLZGUSA), the latest available observation is for 2024 at 2.94953 percent, not seasonally adjusted,",
+    "excerpt": "For inflation, consumer prices for the United States (FPCPITOTLZGUSA), the latest available observation is for 2024 at 2.94953 percent, not seasonally adjusted, and the next release date is not available. For the Consumer Price Index for All Urban Consumers: All Items Less Food and Energy in U.S. Ci",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Inflation, consumer prices for the United States (FPCPITOTLZGUSA) | FRED | St. Louis Fed"
+    },
+    "readingTime": 4
   },
   {
     "id": "investment-strategies-for-today-and-long-term-blackrock",
@@ -668,6 +878,27 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "Kevin Warsh LIVE: Federal Reserve Interest Rate Decision & FOMC Press Conference | WATCH LIVE"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "latest-technology-news-and-reviews-yahoo-finance",
+    "type": "news",
+    "title": "Latest Technology News and Reviews - Yahoo Finance",
+    "slug": "latest-technology-news-and-reviews-yahoo-finance",
+    "date": "2026-11-03",
+    "displayDate": "November 3, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The latest technology news and reviews from Yahoo Finance highlight significant developments in the tech industry, including SpaceX losing over $500 billion in ",
+    "excerpt": "The latest technology news and reviews from Yahoo Finance highlight significant developments in the tech industry, including SpaceX losing over $500 billion in market value, and a new $30 billion funding round for OpenAI at a $1.25 trillion valuation. Big Tech companies like Meta and Tesla are adjus",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Latest Technology News and Reviews - Yahoo Finance"
     },
     "readingTime": 4
   },
@@ -775,6 +1006,27 @@
       "alt": "Sector Views: Monthly Stock Sector Outlook"
     },
     "readingTime": 3
+  },
+  {
+    "id": "stock-market-outlook-today-amp-tomorrow-market-outlook-amp-forecast-seeking-alph",
+    "type": "news",
+    "title": "Stock Market Outlook Today &amp; Tomorrow | Market Outlook &amp; Forecast | Seeking Alpha",
+    "slug": "stock-market-outlook-today-amp-tomorrow-market-outlook-amp-forecast-seeking-alph",
+    "date": "2026-11-03",
+    "displayDate": "November 3, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The provided sources do not contain specific information about the stock market outlook for today, November 3, 2026. The content available pertains to past date",
+    "excerpt": "The provided sources do not contain specific information about the stock market outlook for today, November 3, 2026. The content available pertains to past dates, such as April 16 and October 29, and includes various market analyses, revenue guidance, and economic updates from different companies an",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Stock Market Outlook Today &amp; Tomorrow | Market Outlook &amp; Forecast | Seeking Alpha"
+    },
+    "readingTime": 4
   },
   {
     "id": "stock-market-sector-performance-barchart-com",
@@ -945,6 +1197,27 @@
     "readingTime": 3
   },
   {
+    "id": "the-best-asset-allocation-strategy-for-2026-what-to-own",
+    "type": "news",
+    "title": "The Best Asset Allocation Strategy for 2026: What to Own",
+    "slug": "the-best-asset-allocation-strategy-for-2026-what-to-own",
+    "date": "2026-11-03",
+    "displayDate": "November 3, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "For 2026, a practical asset allocation strategy could spread investments across equity, debt, gold, and cash with a balanced portfolio holding around 50–60% equ",
+    "excerpt": "For 2026, a practical asset allocation strategy could spread investments across equity, debt, gold, and cash with a balanced portfolio holding around 50–60% equity, 25–30% debt, 10% gold, and 5% cash. Long-term investors may consider a higher equity allocation. Gold is recommended to hold 10–15% for",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "The Best Asset Allocation Strategy for 2026: What to Own"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "the-best-investment-strategies-for-the-continuous-market-investing-com",
     "type": "news",
     "title": "The Best Investment Strategies For The Continuous Market - Investing.com",
@@ -1113,25 +1386,67 @@
     "readingTime": 4
   },
   {
-    "id": "12-month-percentage-change-consumer-price-index-selected-categories",
+    "id": "united-states-inflation-rate",
     "type": "news",
-    "title": "12-month percentage change, Consumer Price Index, selected categories",
-    "slug": "12-month-percentage-change-consumer-price-index-selected-categories",
-    "date": "2026-11-02",
-    "displayDate": "November 2, 2026",
+    "title": "United States Inflation Rate",
+    "slug": "united-states-inflation-rate",
+    "date": "2026-11-03",
+    "displayDate": "November 3, 2026",
     "category": "Economic Data",
     "tags": [
       "economic data",
       "financial news",
       "market update"
     ],
-    "metaDescription": "The sources provide 12-month percentage changes for the Consumer Price Index (CPI) for selected categories from June 2024 to February 2025. For June 2024, the c",
-    "excerpt": "The sources provide 12-month percentage changes for the Consumer Price Index (CPI) for selected categories from June 2024 to February 2025. For June 2024, the changes were 3.0%, 2.2%, 1.1%, 4.1%, 1.0%, -2.5%, 4.4%, 3.7%, 3.3%, -1.8%, 0.8%, -0.9%, 3.1%, 5.1%, 5.2%, 3.3%, 0.7%. For July 2024, the chan",
+    "metaDescription": "The United States Inflation Rate increased to 3.70 percent in September from 3.40 percent in August of 2026, according to Trading Economics and U.S. Labor Depar",
+    "excerpt": "The United States Inflation Rate increased to 3.70 percent in September from 3.40 percent in August of 2026, according to Trading Economics and U.S. Labor Department data. The annual inflation rate accelerated to 3.7% in September 2026, driven by higher energy prices, with gasoline rising 34.2% year",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "United States Inflation Rate"
+    },
+    "readingTime": 5
+  },
+  {
+    "id": "united-states-stock-market-index-quote-chart-historical-data-news",
+    "type": "news",
+    "title": "United States Stock Market Index - Quote - Chart - Historical Data - News",
+    "slug": "united-states-stock-market-index-quote-chart-historical-data-news",
+    "date": "2026-11-03",
+    "displayDate": "November 3, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "On November 3, 2026, the main stock market index of the United States, the US Index 500, had different closing values according to the sources. According to one",
+    "excerpt": "On November 3, 2026, the main stock market index of the United States, the US Index 500, had different closing values according to the sources. According to one source, it rose to 7556 points, gaining 0.20% from the previous session. Another source reported it fell to 7533 points, losing 0.12% from ",
     "image": {
       "src": "/images/article_thumb_6.jpg",
-      "alt": "12-month percentage change, Consumer Price Index, selected categories"
+      "alt": "United States Stock Market Index - Quote - Chart - Historical Data - News"
     },
-    "readingTime": 4
+    "readingTime": 5
+  },
+  {
+    "id": "weekly-trader-s-outlook",
+    "type": "news",
+    "title": "Weekly Trader's Outlook",
+    "slug": "weekly-trader-s-outlook",
+    "date": "2026-11-03",
+    "displayDate": "November 3, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The sources indicate that WTI crude is up over 10% this week, trading at $101.04/barrel due to Middle East attacks and Iran-backed Houthis' actions around Yemen",
+    "excerpt": "The sources indicate that WTI crude is up over 10% this week, trading at $101.04/barrel due to Middle East attacks and Iran-backed Houthis' actions around Yemen's Taiz. The Nasdaq had a \"bounce attempt\" up 2% by Wednesday but faced a strong sell-off on Thursday. The SPX breadth moved up to 60.12% fr",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Weekly Trader's Outlook"
+    },
+    "readingTime": 3
   },
   {
     "id": "asian-pacific-stocks-bloomberg",
@@ -1174,69 +1489,6 @@
       "alt": "Bitcoin (BTC) Price USD Today, News, Charts, Market Cap | Coinbase"
     },
     "readingTime": 3
-  },
-  {
-    "id": "company-earnings-calendar-yahoo-finance",
-    "type": "news",
-    "title": "Company Earnings Calendar - Yahoo Finance",
-    "slug": "company-earnings-calendar-yahoo-finance",
-    "date": "2026-11-02",
-    "displayDate": "November 2, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The sources indicate that on today's date, November 2, 2026, several companies are scheduled to announce their earnings for Q3 2026, including Neurocrine Biosci",
-    "excerpt": "The sources indicate that on today's date, November 2, 2026, several companies are scheduled to announce their earnings for Q3 2026, including Neurocrine Biosciences, Inc., Equitable Holdings, Inc., and Jazz Pharmaceuticals plc. Other companies like Apple Inc., Palantir Technologies Inc., and Vertex",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Company Earnings Calendar - Yahoo Finance"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "earnings-calendar-and-analysis-for-this-week-november-2-7-kiplinger",
-    "type": "news",
-    "title": "Earnings Calendar and Analysis for This Week (November 2-7) | Kiplinger",
-    "slug": "earnings-calendar-and-analysis-for-this-week-november-2-7-kiplinger",
-    "date": "2026-11-02",
-    "displayDate": "November 2, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The earnings calendar for the week of November 2-7, 2026, includes reports from numerous companies, with Wednesday being the busiest day with 240 of the 755 com",
-    "excerpt": "The earnings calendar for the week of November 2-7, 2026, includes reports from numerous companies, with Wednesday being the busiest day with 240 of the 755 companies scheduled to report. On Monday, November 2, 58 companies are set to report after the close, including Apple, which accounts for about",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Earnings Calendar and Analysis for This Week (November 2-7) | Kiplinger"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "earnings-calendar-zacks-investment-research",
-    "type": "news",
-    "title": "Earnings Calendar - Zacks Investment Research",
-    "slug": "earnings-calendar-zacks-investment-research",
-    "date": "2026-11-02",
-    "displayDate": "November 2, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "On November 2, 2026, the Zacks Investment Research earnings calendar lists Citigroup, The Blackstone Group, Kinder Morgan, and Aon as companies with ex-dividend",
-    "excerpt": "On November 2, 2026, the Zacks Investment Research earnings calendar lists Citigroup, The Blackstone Group, Kinder Morgan, and Aon as companies with ex-dividend dates. Citigroup will pay a dividend of $0.67 with a yield of 2.13%, The Blackstone Group will pay $1.12 with a yield of 4.28%, Kinder Morg",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Earnings Calendar - Zacks Investment Research"
-    },
-    "readingTime": 4
   },
   {
     "id": "earnings-calendar",
@@ -1302,48 +1554,6 @@
     "readingTime": 3
   },
   {
-    "id": "fed-rate-decision-october-2026",
-    "type": "news",
-    "title": "Fed rate decision October 2026",
-    "slug": "fed-rate-decision-october-2026",
-    "date": "2026-11-02",
-    "displayDate": "November 2, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Reserve held steady on rates at the conclusion of its October meeting, maintaining its target range of 3.75% to 4%. Two members of the Federal Open ",
-    "excerpt": "The Federal Reserve held steady on rates at the conclusion of its October meeting, maintaining its target range of 3.75% to 4%. Two members of the Federal Open Market Committee dissented from the decision: Governor Lisa Cook and Cleveland Fed President Beth Hammack were in favor of raising rates by ",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Fed rate decision October 2026"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "global-indices-tracking-the-world-s-markets",
-    "type": "news",
-    "title": "Global Indices - Tracking the World's Markets",
-    "slug": "global-indices-tracking-the-world-s-markets",
-    "date": "2026-11-02",
-    "displayDate": "November 2, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The sources provide specific data on various global indices as of today, November 2, 2026. The S&P 500 was at 7,643.86, down 40.57 points (0.53%). The Nikkei 22",
-    "excerpt": "The sources provide specific data on various global indices as of today, November 2, 2026. The S&P 500 was at 7,643.86, down 40.57 points (0.53%). The Nikkei 225 was at 63,105.78, down 184.33 points (0.29%). The Hang Seng Index was at 23,093.40, up 158.72 points (0.69%). The DAX Index was at 25,181.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Global Indices - Tracking the World's Markets"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "global-markets-today-news-and-updates-from-the-economic-times-page-1",
     "type": "news",
     "title": "global markets today News and Updates from The Economic Times - Page 1",
@@ -1363,27 +1573,6 @@
       "alt": "global markets today News and Updates from The Economic Times - Page 1"
     },
     "readingTime": 4
-  },
-  {
-    "id": "inflation-consumer-prices-for-the-united-states-fpcpitotlzgusa-fred-st-louis-fed",
-    "type": "news",
-    "title": "Inflation, consumer prices for the United States (FPCPITOTLZGUSA) | FRED | St. Louis Fed",
-    "slug": "inflation-consumer-prices-for-the-united-states-fpcpitotlzgusa-fred-st-louis-fed",
-    "date": "2026-11-02",
-    "displayDate": "November 2, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "For inflation, consumer prices for the United States (FPCPITOTLZGUSA), the latest observation as of October 13, 2026, is 2.94953 percent, not seasonally adjuste",
-    "excerpt": "For inflation, consumer prices for the United States (FPCPITOTLZGUSA), the latest observation as of October 13, 2026, is 2.94953 percent, not seasonally adjusted, and annual. The data are sourced from the World Bank, released through World Development Indicators. For the Consumer Price Index for All",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Inflation, consumer prices for the United States (FPCPITOTLZGUSA) | FRED | St. Louis Fed"
-    },
-    "readingTime": 3
   },
   {
     "id": "latest-company-earnings-news-announcements-seeking-alpha",
@@ -1424,27 +1613,6 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "Latest Stock Market News"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "latest-technology-news-and-reviews-yahoo-finance",
-    "type": "news",
-    "title": "Latest Technology News and Reviews - Yahoo Finance",
-    "slug": "latest-technology-news-and-reviews-yahoo-finance",
-    "date": "2026-11-02",
-    "displayDate": "November 2, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The latest technology news and reviews from Yahoo Finance highlight significant developments in the tech industry, including SpaceX losing over $500 billion in ",
-    "excerpt": "The latest technology news and reviews from Yahoo Finance highlight significant developments in the tech industry, including SpaceX losing over $500 billion in market value, Meta's stock decline due to AI spending fears, and Elon Musk's comments on Tesla's Optimus robot. Additionally, there are upda",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Latest Technology News and Reviews - Yahoo Finance"
     },
     "readingTime": 4
   },
@@ -1512,27 +1680,6 @@
     "readingTime": 4
   },
   {
-    "id": "stock-market-outlook-today-amp-tomorrow-market-outlook-amp-forecast-seeking-alph",
-    "type": "news",
-    "title": "Stock Market Outlook Today &amp; Tomorrow | Market Outlook &amp; Forecast | Seeking Alpha",
-    "slug": "stock-market-outlook-today-amp-tomorrow-market-outlook-amp-forecast-seeking-alph",
-    "date": "2026-11-02",
-    "displayDate": "November 2, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The sources provided do not contain any information about the stock market outlook for today or tomorrow as of November 2, 2026. The content available is dated ",
-    "excerpt": "The sources provided do not contain any information about the stock market outlook for today or tomorrow as of November 2, 2026. The content available is dated from April 16 and October 29, 2026, covering various market segments and specific stocks, but none of these entries pertain to the requested",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Stock Market Outlook Today &amp; Tomorrow | Market Outlook &amp; Forecast | Seeking Alpha"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "u-s-economic-calendar-marketwatch",
     "type": "news",
     "title": "U.S. Economic Calendar - MarketWatch",
@@ -1552,69 +1699,6 @@
       "alt": "U.S. Economic Calendar - MarketWatch"
     },
     "readingTime": 6
-  },
-  {
-    "id": "united-states-inflation-rate",
-    "type": "news",
-    "title": "United States Inflation Rate",
-    "slug": "united-states-inflation-rate",
-    "date": "2026-11-02",
-    "displayDate": "November 2, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The United States Inflation Rate increased to 3.70 percent in September from 3.40 percent in August of 2026, according to Trading Economics and U.S. Labor Depar",
-    "excerpt": "The United States Inflation Rate increased to 3.70 percent in September from 3.40 percent in August of 2026, according to Trading Economics and U.S. Labor Department data. The annual inflation rate was 3.7% for the 12 months ending September, up from 3.4% in August, with a monthly increase of 0.6%. ",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "United States Inflation Rate"
-    },
-    "readingTime": 5
-  },
-  {
-    "id": "united-states-stock-market-index-quote-chart-historical-data-news",
-    "type": "news",
-    "title": "United States Stock Market Index - Quote - Chart - Historical Data - News",
-    "slug": "united-states-stock-market-index-quote-chart-historical-data-news",
-    "date": "2026-11-02",
-    "displayDate": "November 2, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "On November 2, 2026, the main stock market index of the United States, the US Index 500, had varying reported values: one source stated it rose to 7609 points, ",
-    "excerpt": "On November 2, 2026, the main stock market index of the United States, the US Index 500, had varying reported values: one source stated it rose to 7609 points, gaining 0.38% from the previous session; another reported it fell to 7574 points, losing 0.08% from the previous session; and a third source",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "United States Stock Market Index - Quote - Chart - Historical Data - News"
-    },
-    "readingTime": 5
-  },
-  {
-    "id": "weekly-trader-s-outlook",
-    "type": "news",
-    "title": "Weekly Trader's Outlook",
-    "slug": "weekly-trader-s-outlook",
-    "date": "2026-11-02",
-    "displayDate": "November 2, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The sources indicate a volatile week for stocks driven by AI concerns and Middle East tensions, leading to \"risk-off\" behavior. The Nasdaq and S&P 500 are on tr",
-    "excerpt": "The sources indicate a volatile week for stocks driven by AI concerns and Middle East tensions, leading to \"risk-off\" behavior. The Nasdaq and S&P 500 are on track for modest weekly losses, with a \"bounce attempt\" in the first half of the week followed by a strong sell-off on Thursday. WTI crude is ",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Weekly Trader's Outlook"
-    },
-    "readingTime": 3
   },
   {
     "id": "what-to-look-out-for-in-economic-data-this-week-november-2-6-kiplinger",
@@ -1783,27 +1867,6 @@
       "alt": "Ethereum Price: ETH/USD Live Price Chart, Market Cap &amp; News Today | CoinGecko"
     },
     "readingTime": 3
-  },
-  {
-    "id": "global-stock-market-news-and-world-indices-coverage",
-    "type": "news",
-    "title": "Global Stock Market News and World Indices Coverage",
-    "slug": "global-stock-market-news-and-world-indices-coverage",
-    "date": "2026-11-01",
-    "displayDate": "November 1, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The sources provide recent data on global stock markets and indices as of October 24, 2026. The S&P 500 was at 7,643.86, down 40.57 points (0.53%); the Nikkei 2",
-    "excerpt": "The sources provide recent data on global stock markets and indices as of October 24, 2026. The S&P 500 was at 7,643.86, down 40.57 points (0.53%); the Nikkei 225 was at 62,693.16, down 214.68 points (0.34%); the Hang Seng was at 23,093.40, up 158.72 points (0.69%); the DAX was at 25,181.65, down 19",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Global Stock Market News and World Indices Coverage"
-    },
-    "readingTime": 4
   },
   {
     "id": "healthcare-stock-performance-yahoo-finance",
@@ -2203,27 +2266,6 @@
       "alt": "GeekWire – Breaking News in Technology &amp; Business"
     },
     "readingTime": 3
-  },
-  {
-    "id": "how-should-i-allocate-my-portfolio-in-2026",
-    "type": "news",
-    "title": "How Should I Allocate My Portfolio in 2026?",
-    "slug": "how-should-i-allocate-my-portfolio-in-2026",
-    "date": "2026-10-09",
-    "displayDate": "October 9, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Portfolio allocation in 2026 should reflect your timeline, risk tolerance, income stability, and long-term goals. For those under 3 years, prioritize liquidity ",
-    "excerpt": "Portfolio allocation in 2026 should reflect your timeline, risk tolerance, income stability, and long-term goals. For those under 3 years, prioritize liquidity and stability with heavy cash and short-term bonds. For 3–10 years, maintain a balanced stock/bond mix with moderate stock exposure. For 10+",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "How Should I Allocate My Portfolio in 2026?"
-    },
-    "readingTime": 4
   },
   {
     "id": "markets-news-insights-nikkei-asia",
@@ -12661,27 +12703,6 @@
       "alt": "Asian Stocks Close Higher, Europe Sees Mixed Trend - Newsonair"
     },
     "readingTime": 3
-  },
-  {
-    "id": "cryptocurrency-pricing-market-regulation-news-yahoo-finance",
-    "type": "news",
-    "title": "Cryptocurrency pricing, market & regulation news - Yahoo Finance",
-    "slug": "cryptocurrency-pricing-market-regulation-news-yahoo-finance",
-    "date": "2026-07-02",
-    "displayDate": "July 2, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Yahoo Finance provides real-time cryptocurrency prices and market data, including indices and news updates. It partners with CoinMarketCap for comprehensive cry",
-    "excerpt": "Yahoo Finance provides real-time cryptocurrency prices and market data, including indices and news updates. It partners with CoinMarketCap for comprehensive crypto market insights. Regulatory news and trends are also covered.",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Cryptocurrency pricing, market & regulation news - Yahoo Finance"
-    },
-    "readingTime": 6
   },
   {
     "id": "earnings-scheduled-for-wednesday-july-1-2026-earnings-whispers",
