@@ -84,6 +84,27 @@
     "readingTime": 3
   },
   {
+    "id": "asian-pacific-stocks-bloomberg",
+    "type": "news",
+    "title": "Asian Pacific Stocks - Bloomberg",
+    "slug": "asian-pacific-stocks-bloomberg",
+    "date": "2026-11-03",
+    "displayDate": "November 3, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Asian Pacific stock indices reported varied changes as of 11:25 PM EDT. The Shanghai SE Composite Index increased by 1.48 to 3,905.20, while the Shenzhen SE",
+    "excerpt": "The Asian Pacific stock indices reported varied changes as of 11:25 PM EDT. The Shanghai SE Composite Index increased by 1.48 to 3,905.20, while the Shenzhen SE Composite Index rose by 5.79 to 2,650.16. The ChiNext Index saw a significant increase of 44.67 to 3,540.26. The CSI 300 Index climbed by 2",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Asian Pacific Stocks - Bloomberg"
+    },
+    "readingTime": 5
+  },
+  {
     "id": "asian-stock-market-capital-markets-news-bond-market-news-commodities-news-etfs-n",
     "type": "news",
     "title": "Asian Stock Market: Capital Markets News, Bond Market News, Commodities News, ETFs News",
@@ -126,6 +147,27 @@
     "readingTime": 4
   },
   {
+    "id": "bitcoin-btc-price-usd-today-news-charts-market-cap-coinbase",
+    "type": "news",
+    "title": "Bitcoin (BTC) Price USD Today, News, Charts, Market Cap | Coinbase",
+    "slug": "bitcoin-btc-price-usd-today-news-charts-market-cap-coinbase",
+    "date": "2026-11-03",
+    "displayDate": "November 3, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The sources provide varying figures for the current price of Bitcoin (BTC) on November 3, 2026. Coinbase states the live price of Bitcoin is updated in real-tim",
+    "excerpt": "The sources provide varying figures for the current price of Bitcoin (BTC) on November 3, 2026. Coinbase states the live price of Bitcoin is updated in real-time but does not give a specific figure. Bitget reports Bitcoin's price as $77,627.28, while CoinGecko lists it at $78,005.25. The market cap ",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Bitcoin (BTC) Price USD Today, News, Charts, Market Cap | Coinbase"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "bitcoin-price-today-analysis-uptrend-holds-but-momentum-fades",
     "type": "news",
     "title": "Bitcoin price today Analysis: Uptrend Holds but Momentum Fades",
@@ -145,6 +187,27 @@
       "alt": "Bitcoin price today Analysis: Uptrend Holds but Momentum Fades"
     },
     "readingTime": 4
+  },
+  {
+    "id": "briefing-com-stock-market-today-stock-market-analysis",
+    "type": "news",
+    "title": "Briefing.com: Stock Market Today | Stock Market Analysis",
+    "slug": "briefing-com-stock-market-today-stock-market-analysis",
+    "date": "2026-11-03",
+    "displayDate": "November 3, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Briefing.com provides objective and unbiased stock market analysis, covering live stock updates, earnings, market events, and market sentiment. The Edward Jones",
+    "excerpt": "Briefing.com provides objective and unbiased stock market analysis, covering live stock updates, earnings, market events, and market sentiment. The Edward Jones daily market snapshot reports a tech rebound today, with the Nasdaq up 1.2% and 2% higher over the week, while the Dow Jones remained flat.",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Briefing.com: Stock Market Today | Stock Market Analysis"
+    },
+    "readingTime": 3
   },
   {
     "id": "cboe-technology-select-sector-index-today-sixt-investing-com",
@@ -546,6 +609,27 @@
     "readingTime": 4
   },
   {
+    "id": "fed-raises-rates-to-3-75-4-00-first-hike-since-2023-u-s-bank",
+    "type": "news",
+    "title": "Fed raises rates to 3.75%-4.00%, first hike since 2023 | U.S. Bank",
+    "slug": "fed-raises-rates-to-3-75-4-00-first-hike-since-2023-u-s-bank",
+    "date": "2026-11-03",
+    "displayDate": "November 3, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Reserve raised its benchmark interest rates for the first time since 2023, bringing the central bank’s flagship rate to between 3.75% and 4.00%. The",
+    "excerpt": "The Federal Reserve raised its benchmark interest rates for the first time since 2023, bringing the central bank’s flagship rate to between 3.75% and 4.00%. The Fed’s policymakers unanimously supported the rate hike and signaled one more interest rate hike could come before the end of the year. The ",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Fed raises rates to 3.75%-4.00%, first hike since 2023 | U.S. Bank"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "fed-rate-decision-october-2026",
     "type": "news",
     "title": "Fed rate decision October 2026",
@@ -733,6 +817,27 @@
       "alt": "Global Stock Market News and World Indices Coverage"
     },
     "readingTime": 4
+  },
+  {
+    "id": "here-are-this-week-s-20-best-performing-stocks-as-the-s-p-500-rallied-morningsta",
+    "type": "news",
+    "title": "Here are this week's 20 best-performing stocks as the S&P 500 rallied | Morningstar",
+    "slug": "here-are-this-week-s-20-best-performing-stocks-as-the-s-p-500-rallied-morningsta",
+    "date": "2026-11-03",
+    "displayDate": "November 3, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Gold miner Newmont (NEM) was the S&P 500's best performer for the week with a 24.4% gain, and it was up 47.7% for 2025. Freeport McMoRan (FCX) also made the lis",
+    "excerpt": "Gold miner Newmont (NEM) was the S&P 500's best performer for the week with a 24.4% gain, and it was up 47.7% for 2025. Freeport McMoRan (FCX) also made the list with a 14.4% gain for the week, although it ended with a 12.4% decline for 2025. Nine companies among the week’s 20 best-performing stocks",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Here are this week's 20 best-performing stocks as the S&P 500 rallied | Morningstar"
+    },
+    "readingTime": 3
   },
   {
     "id": "how-did-international-stocks-do-today",
@@ -1004,6 +1109,27 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "Sector Views: Monthly Stock Sector Outlook"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "six-portfolio-strategy-ideas-for-2026",
+    "type": "news",
+    "title": "Six portfolio strategy ideas for 2026",
+    "slug": "six-portfolio-strategy-ideas-for-2026",
+    "date": "2026-11-03",
+    "displayDate": "November 3, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The sources provide six portfolio strategy ideas for 2026: increase exposure to small caps and emerging markets, stay overweight in equities but diversify globa",
+    "excerpt": "The sources provide six portfolio strategy ideas for 2026: increase exposure to small caps and emerging markets, stay overweight in equities but diversify globally, prepare for shifting sector leadership, use fixed income for ballast, deploy excess cash, and for qualified investors, consider alterna",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Six portfolio strategy ideas for 2026"
     },
     "readingTime": 3
   },
@@ -1445,48 +1571,6 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "Weekly Trader's Outlook"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "asian-pacific-stocks-bloomberg",
-    "type": "news",
-    "title": "Asian Pacific Stocks - Bloomberg",
-    "slug": "asian-pacific-stocks-bloomberg",
-    "date": "2026-11-02",
-    "displayDate": "November 2, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "According to Bloomberg, the SHCOMP:IND Shanghai SE Composite Index was at 3,905.20 with a change of 1.48, a 0.04% increase, and a 1-month change of 1.06%. The S",
-    "excerpt": "According to Bloomberg, the SHCOMP:IND Shanghai SE Composite Index was at 3,905.20 with a change of 1.48, a 0.04% increase, and a 1-month change of 1.06%. The SZCOMP:IND Shenzhen SE Composite Index was at 2,532.65 with a change of 5.49, a 0.22% increase, and a 1-month change of 1.60%. The SSE50:IND ",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Asian Pacific Stocks - Bloomberg"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "bitcoin-btc-price-usd-today-news-charts-market-cap-coinbase",
-    "type": "news",
-    "title": "Bitcoin (BTC) Price USD Today, News, Charts, Market Cap | Coinbase",
-    "slug": "bitcoin-btc-price-usd-today-news-charts-market-cap-coinbase",
-    "date": "2026-11-02",
-    "displayDate": "November 2, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The sources provide varying figures for the current price of Bitcoin. Coinbase states the price is $1.644T, CoinMarketCap reports it as $77,879.13, and CoinGeck",
-    "excerpt": "The sources provide varying figures for the current price of Bitcoin. Coinbase states the price is $1.644T, CoinMarketCap reports it as $77,879.13, and CoinGecko indicates it is $80,646.38. CoinMarketCap also mentions a 24-hour trading volume of $12,351,924,537 and a market cap of $1,565,788,261,589",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Bitcoin (BTC) Price USD Today, News, Charts, Market Cap | Coinbase"
     },
     "readingTime": 3
   },
@@ -2226,27 +2310,6 @@
     "readingTime": 4
   },
   {
-    "id": "fed-raises-rates-to-3-75-4-00-first-hike-since-2023-u-s-bank",
-    "type": "news",
-    "title": "Fed raises rates to 3.75%-4.00%, first hike since 2023 | U.S. Bank",
-    "slug": "fed-raises-rates-to-3-75-4-00-first-hike-since-2023-u-s-bank",
-    "date": "2026-10-09",
-    "displayDate": "October 9, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The U.S. Federal Reserve increased its policy interest rate to a range of 3.75%-4.00% in an attempt to bring down inflation, marking the first hike since 2023. ",
-    "excerpt": "The U.S. Federal Reserve increased its policy interest rate to a range of 3.75%-4.00% in an attempt to bring down inflation, marking the first hike since 2023. The unanimous vote indicates new Fed Chair Kevin Warsh has successfully lobbied dissenting views on the committee. Market prices reflect exp",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Fed raises rates to 3.75%-4.00%, first hike since 2023 | U.S. Bank"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "geekwire-breaking-news-in-technology-amp-business",
     "type": "news",
     "title": "GeekWire – Breaking News in Technology &amp; Business",
@@ -2371,27 +2434,6 @@
       "alt": "Sector Research, News and Performance | Sector Industries | Fidelity"
     },
     "readingTime": 6
-  },
-  {
-    "id": "six-portfolio-strategy-ideas-for-2026",
-    "type": "news",
-    "title": "Six portfolio strategy ideas for 2026",
-    "slug": "six-portfolio-strategy-ideas-for-2026",
-    "date": "2026-10-09",
-    "displayDate": "October 9, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "For 2026, six portfolio strategy ideas are suggested: increase exposure to small caps and emerging markets, stay overweight in equities while diversifying globa",
-    "excerpt": "For 2026, six portfolio strategy ideas are suggested: increase exposure to small caps and emerging markets, stay overweight in equities while diversifying globally, prepare for shifting sector leadership, use fixed income for ballast, deploy excess cash, and for qualified investors, consider alterna",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Six portfolio strategy ideas for 2026"
-    },
-    "readingTime": 3
   },
   {
     "id": "stock-earnings-calendar-oct-9-2026-digrin",
