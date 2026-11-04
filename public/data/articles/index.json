@@ -147,6 +147,27 @@
     "readingTime": 4
   },
   {
+    "id": "briefing-com-stock-market-today-stock-market-analysis",
+    "type": "news",
+    "title": "Briefing.com: Stock Market Today | Stock Market Analysis",
+    "slug": "briefing-com-stock-market-today-stock-market-analysis",
+    "date": "2026-11-04",
+    "displayDate": "November 4, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Briefing.com provides objective and unbiased stock market analysis, covering live coverage of stocks, corporate earnings, market events, upgrades/downgrades, ma",
+    "excerpt": "Briefing.com provides objective and unbiased stock market analysis, covering live coverage of stocks, corporate earnings, market events, upgrades/downgrades, market sentiment, rumors, and flow. It offers overnight summaries, stock market updates, and pre-open analysis of news, data, and major market",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Briefing.com: Stock Market Today | Stock Market Analysis"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "cboe-technology-select-sector-index-today-sixt-investing-com",
     "type": "news",
     "title": "CBOE Technology Select Sector Index Today (SIXT) - Investing.com",
@@ -189,6 +210,27 @@
     "readingTime": 3
   },
   {
+    "id": "company-earnings-calendar-yahoo-finance",
+    "type": "news",
+    "title": "Company Earnings Calendar - Yahoo Finance",
+    "slug": "company-earnings-calendar-yahoo-finance",
+    "date": "2026-11-04",
+    "displayDate": "November 4, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The provided sources list several companies scheduled for earnings announcements on Yahoo Finance's earnings calendar. Companies such as Arm Holdings plc, McDon",
+    "excerpt": "The provided sources list several companies scheduled for earnings announcements on Yahoo Finance's earnings calendar. Companies such as Arm Holdings plc, McDonald's Corporation, Novo Nordisk A/S, and QUALCOMM Incorporated are noted with their respective earnings call times, EPS estimates, and repor",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Company Earnings Calendar - Yahoo Finance"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "cpi-home-u-s-bureau-of-labor-statistics",
     "type": "news",
     "title": "CPI Home : U.S. Bureau of Labor Statistics",
@@ -206,6 +248,27 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "CPI Home : U.S. Bureau of Labor Statistics"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "earnings-calendar-and-analysis-for-this-week-november-2-7-kiplinger",
+    "type": "news",
+    "title": "Earnings Calendar and Analysis for This Week (November 2-7) | Kiplinger",
+    "slug": "earnings-calendar-and-analysis-for-this-week-november-2-7-kiplinger",
+    "date": "2026-11-04",
+    "displayDate": "November 4, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "In the week from November 2 to November 8, 2026, 1,315 companies are scheduled to report earnings, including Apple (AAPL) on November 2 after the close, Advance",
+    "excerpt": "In the week from November 2 to November 8, 2026, 1,315 companies are scheduled to report earnings, including Apple (AAPL) on November 2 after the close, Advanced Micro Devices (AMD) on November 3 after the close, Palantir Technologies - Class A (PLTR) on November 2 after the close, Amgen (AMGN) on N",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Earnings Calendar and Analysis for This Week (November 2-7) | Kiplinger"
     },
     "readingTime": 4
   },
@@ -252,6 +315,27 @@
     "readingTime": 4
   },
   {
+    "id": "earnings-calendar-zacks-investment-research",
+    "type": "news",
+    "title": "Earnings Calendar - Zacks Investment Research",
+    "slug": "earnings-calendar-zacks-investment-research",
+    "date": "2026-11-04",
+    "displayDate": "November 4, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "On November 4, 2026, the Zacks Investment Research earnings calendar lists three companies with ex-dividend dates: Itau Unibanco with an ex-dividend date of 11/",
+    "excerpt": "On November 4, 2026, the Zacks Investment Research earnings calendar lists three companies with ex-dividend dates: Itau Unibanco with an ex-dividend date of 11/4/26, EQT with an ex-dividend date of 11/4/26, and Brown & Brown with an ex-dividend date of 11/4/26. The sources do not provide a definitiv",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Earnings Calendar - Zacks Investment Research"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "earnings-whispers-earnings-calendar-november-3-2026",
     "type": "news",
     "title": "Earnings Whispers | Earnings Calendar: November 3, 2026",
@@ -269,6 +353,27 @@
     "image": {
       "src": "/images/article_thumb_6.jpg",
       "alt": "Earnings Whispers | Earnings Calendar: November 3, 2026"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "earnings-whispers-earnings-calendar-november-4-2026",
+    "type": "news",
+    "title": "Earnings Whispers | Earnings Calendar: November 4, 2026",
+    "slug": "earnings-whispers-earnings-calendar-november-4-2026",
+    "date": "2026-11-04",
+    "displayDate": "November 4, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "On November 4, 2026, 546 companies are scheduled to report earnings, with 196 companies reporting before the market open and 350 companies reporting after the m",
+    "excerpt": "On November 4, 2026, 546 companies are scheduled to report earnings, with 196 companies reporting before the market open and 350 companies reporting after the market close. Among the companies reporting before the open are Uber Technologies, Inc., Datadog, Inc., Novo Nordisk A/S, McDonald's Corporat",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Earnings Whispers | Earnings Calendar: November 4, 2026"
     },
     "readingTime": 3
   },
@@ -441,6 +546,27 @@
     "readingTime": 4
   },
   {
+    "id": "global-markets-world-news-latest-and-breaking-news-top-international-news-today-",
+    "type": "news",
+    "title": "Global Markets | World News, Latest and Breaking News, Top International News Today - Firstpost",
+    "slug": "global-markets-world-news-latest-and-breaking-news-top-international-news-today-",
+    "date": "2026-11-04",
+    "displayDate": "November 4, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "According to Firstpost, the 2026 US midterm elections saw significant victories for the Democratic party, with Roy Cooper flipping a long-held Republican Senate",
+    "excerpt": "According to Firstpost, the 2026 US midterm elections saw significant victories for the Democratic party, with Roy Cooper flipping a long-held Republican Senate seat in North Carolina. The global markets reacted to these results, with technology stocks in Japan, South Korea, and Taiwan coming under ",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Global Markets | World News, Latest and Breaking News, Top International News Today - Firstpost"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "global-stock-market-news-and-world-indices-coverage",
     "type": "news",
     "title": "Global Stock Market News and World Indices Coverage",
@@ -542,6 +668,27 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "Investment Strategy 2026 Portfolio Moves for a Changing Market"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "lisep-ludwig-institute-for-shared-economic-prosperity",
+    "type": "news",
+    "title": "LISEP Ludwig Institute for Shared Economic Prosperity",
+    "slug": "lisep-ludwig-institute-for-shared-economic-prosperity",
+    "date": "2026-11-04",
+    "displayDate": "November 4, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Ludwig Institute for Shared Economic Prosperity (LISEP) was created in 2019 by Gene Ludwig and his wife, Dr. Carol Ludwig, with a mission to improve the eco",
+    "excerpt": "The Ludwig Institute for Shared Economic Prosperity (LISEP) was created in 2019 by Gene Ludwig and his wife, Dr. Carol Ludwig, with a mission to improve the economic well-being of middle- and lower-income Americans through research and education. LISEP focuses on fact-based economic and policy resea",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "LISEP Ludwig Institute for Shared Economic Prosperity"
     },
     "readingTime": 3
   },
@@ -651,6 +798,27 @@
     "readingTime": 3
   },
   {
+    "id": "stock-market-outlook-today-amp-tomorrow-market-outlook-amp-forecast-seeking-alph",
+    "type": "news",
+    "title": "Stock Market Outlook Today &amp; Tomorrow | Market Outlook &amp; Forecast | Seeking Alpha",
+    "slug": "stock-market-outlook-today-amp-tomorrow-market-outlook-amp-forecast-seeking-alph",
+    "date": "2026-11-04",
+    "displayDate": "November 4, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The sources do not provide specific information about the stock market outlook for today and tomorrow. The content available is dated from April 16 and October ",
+    "excerpt": "The sources do not provide specific information about the stock market outlook for today and tomorrow. The content available is dated from April 16 and October 29, 2026, and focuses on various market sectors, company updates, and economic analyses without addressing the current date of November 4, 2",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Stock Market Outlook Today &amp; Tomorrow | Market Outlook &amp; Forecast | Seeking Alpha"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "stock-market-sector-performance-barchart-com",
     "type": "news",
     "title": "Stock Market & Sector Performance - Barchart.com",
@@ -670,6 +838,27 @@
       "alt": "Stock Market & Sector Performance - Barchart.com"
     },
     "readingTime": 3
+  },
+  {
+    "id": "stock-market-sector-performance-today-stocktitan",
+    "type": "news",
+    "title": "Stock Market Sector Performance Today | StockTitan",
+    "slug": "stock-market-sector-performance-today-stocktitan",
+    "date": "2026-11-04",
+    "displayDate": "November 4, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Today's stock market sector performance shows the Industrials sector leading with a +2.40% increase, followed by Information Technology at +1.67%. The Financial",
+    "excerpt": "Today's stock market sector performance shows the Industrials sector leading with a +2.40% increase, followed by Information Technology at +1.67%. The Financials sector saw a modest +0.74% gain, while Utilities and Energy sectors both had slight increases of +0.37% and +0.33%, respectively. Consumer",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Stock Market Sector Performance Today | StockTitan"
+    },
+    "readingTime": 5
   },
   {
     "id": "stock-market-today-s-p-500-upgraded-by-citi-ubs",
@@ -752,6 +941,27 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "The Best Investment Strategies For The Continuous Market - Investing.com"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "the-fed-federal-open-market-committee",
+    "type": "news",
+    "title": "The Fed - Federal Open Market Committee",
+    "slug": "the-fed-federal-open-market-committee",
+    "date": "2026-11-04",
+    "displayDate": "November 4, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Open Market Committee (FOMC) is a committee within the Federal Reserve System responsible for overseeing the nation's open market operations and mak",
+    "excerpt": "The Federal Open Market Committee (FOMC) is a committee within the Federal Reserve System responsible for overseeing the nation's open market operations and making key decisions about interest rates and the growth of the U.S. money supply. It consists of twelve members: seven members of the Board of",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "The Fed - Federal Open Market Committee"
     },
     "readingTime": 4
   },
@@ -861,6 +1071,27 @@
     "readingTime": 5
   },
   {
+    "id": "weekly-trader-s-outlook",
+    "type": "news",
+    "title": "Weekly Trader's Outlook",
+    "slug": "weekly-trader-s-outlook",
+    "date": "2026-11-04",
+    "displayDate": "November 4, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The sources indicate that the stock market experienced volatility driven by AI concerns and Middle East tensions, leading to a \"risk-off\" behavior. The Nasdaq a",
+    "excerpt": "The sources indicate that the stock market experienced volatility driven by AI concerns and Middle East tensions, leading to a \"risk-off\" behavior. The Nasdaq and S&P 500 faced modest weekly losses, with the SPX breadth moving up to 60.12% from 54.60% and the RUT dropping to 47.98% from 45.87%. Ther",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Weekly Trader's Outlook"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "ycharts-analysis-understanding-the-cpi-report-and-its-economic-impact",
     "type": "news",
     "title": "YCharts Analysis: Understanding the CPI Report and Its Economic Impact",
@@ -943,48 +1174,6 @@
       "alt": "Bitcoin price today Analysis: Uptrend Holds but Momentum Fades"
     },
     "readingTime": 4
-  },
-  {
-    "id": "briefing-com-stock-market-today-stock-market-analysis",
-    "type": "news",
-    "title": "Briefing.com: Stock Market Today | Stock Market Analysis",
-    "slug": "briefing-com-stock-market-today-stock-market-analysis",
-    "date": "2026-11-03",
-    "displayDate": "November 3, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Briefing.com provides objective and unbiased stock market analysis, covering live stock updates, earnings, market events, and market sentiment. The Edward Jones",
-    "excerpt": "Briefing.com provides objective and unbiased stock market analysis, covering live stock updates, earnings, market events, and market sentiment. The Edward Jones daily market snapshot reports a tech rebound today, with the Nasdaq up 1.2% and 2% higher over the week, while the Dow Jones remained flat.",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Briefing.com: Stock Market Today | Stock Market Analysis"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "company-earnings-calendar-yahoo-finance",
-    "type": "news",
-    "title": "Company Earnings Calendar - Yahoo Finance",
-    "slug": "company-earnings-calendar-yahoo-finance",
-    "date": "2026-11-03",
-    "displayDate": "November 3, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "On the Yahoo Finance earnings calendar, several companies are scheduled to announce their earnings for Q3 2026, including Advanced Micro Devices, Inc. (AMD) and",
-    "excerpt": "On the Yahoo Finance earnings calendar, several companies are scheduled to announce their earnings for Q3 2026, including Advanced Micro Devices, Inc. (AMD) and Amgen Inc. (AMGN). The EPS estimates for AMD are $1.94, and for Amgen, it is $5.78. Sysco Corporation (SYY) is also listed with an EPS esti",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Company Earnings Calendar - Yahoo Finance"
-    },
-    "readingTime": 5
   },
   {
     "id": "crypto-market-today-200m-derisk-ahead-of-fomc-what-s-next-for-bitcoin-ethereum-a",
@@ -1090,48 +1279,6 @@
       "alt": "Earnings Breaking News and Press Releases"
     },
     "readingTime": 3
-  },
-  {
-    "id": "earnings-calendar-and-analysis-for-this-week-november-2-7-kiplinger",
-    "type": "news",
-    "title": "Earnings Calendar and Analysis for This Week (November 2-7) | Kiplinger",
-    "slug": "earnings-calendar-and-analysis-for-this-week-november-2-7-kiplinger",
-    "date": "2026-11-03",
-    "displayDate": "November 3, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The sources provide earnings estimates for several companies for the week of November 2-7, 2026. Companies like Corebridge Financial, Telephone & Data, and Unde",
-    "excerpt": "The sources provide earnings estimates for several companies for the week of November 2-7, 2026. Companies like Corebridge Financial, Telephone & Data, and Under Armour have earnings estimates of $0.41, $0.11, and -$0.01 per share respectively. The earnings calendar also highlights Apple as a signif",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Earnings Calendar and Analysis for This Week (November 2-7) | Kiplinger"
-    },
-    "readingTime": 5
-  },
-  {
-    "id": "earnings-calendar-zacks-investment-research",
-    "type": "news",
-    "title": "Earnings Calendar - Zacks Investment Research",
-    "slug": "earnings-calendar-zacks-investment-research",
-    "date": "2026-11-03",
-    "displayDate": "November 3, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "On the Zacks Investment Research earnings calendar, three companies are scheduled to pay dividends on November 3, 2026: Southern Copper ($1.30, 2.29% yield), Me",
-    "excerpt": "On the Zacks Investment Research earnings calendar, three companies are scheduled to pay dividends on November 3, 2026: Southern Copper ($1.30, 2.29% yield), MetLife ($0.59, 2.35% yield), and China CITIC Bank ($0.47, 4.08% yield). The Zacks Investment Research earnings calendar also lists 292 earnin",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Earnings Calendar - Zacks Investment Research"
-    },
-    "readingTime": 4
   },
   {
     "id": "earnings-whispers-earnings-calendar-november-2-2026",
@@ -1428,27 +1575,6 @@
     "readingTime": 4
   },
   {
-    "id": "lisep-ludwig-institute-for-shared-economic-prosperity",
-    "type": "news",
-    "title": "LISEP Ludwig Institute for Shared Economic Prosperity",
-    "slug": "lisep-ludwig-institute-for-shared-economic-prosperity",
-    "date": "2026-11-03",
-    "displayDate": "November 3, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Ludwig Institute for Shared Economic Prosperity (LISEP) was founded in 2019 by Ludwig and his wife, Dr. Carol Ludwig, with a mission to improve the economic",
-    "excerpt": "The Ludwig Institute for Shared Economic Prosperity (LISEP) was founded in 2019 by Ludwig and his wife, Dr. Carol Ludwig, with a mission to improve the economic well-being of middle- and lower-income Americans through research and education. LISEP focuses on fact-based economic and policy research, ",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "LISEP Ludwig Institute for Shared Economic Prosperity"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "six-portfolio-strategy-ideas-for-2026",
     "type": "news",
     "title": "Six portfolio strategy ideas for 2026",
@@ -1468,48 +1594,6 @@
       "alt": "Six portfolio strategy ideas for 2026"
     },
     "readingTime": 3
-  },
-  {
-    "id": "stock-market-outlook-today-amp-tomorrow-market-outlook-amp-forecast-seeking-alph",
-    "type": "news",
-    "title": "Stock Market Outlook Today &amp; Tomorrow | Market Outlook &amp; Forecast | Seeking Alpha",
-    "slug": "stock-market-outlook-today-amp-tomorrow-market-outlook-amp-forecast-seeking-alph",
-    "date": "2026-11-03",
-    "displayDate": "November 3, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The provided sources do not contain specific information about the stock market outlook for today, November 3, 2026. The content available pertains to past date",
-    "excerpt": "The provided sources do not contain specific information about the stock market outlook for today, November 3, 2026. The content available pertains to past dates, such as April 16 and October 29, and includes various market analyses, revenue guidance, and economic updates from different companies an",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Stock Market Outlook Today &amp; Tomorrow | Market Outlook &amp; Forecast | Seeking Alpha"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "stock-market-sector-performance-today-stocktitan",
-    "type": "news",
-    "title": "Stock Market Sector Performance Today | StockTitan",
-    "slug": "stock-market-sector-performance-today-stocktitan",
-    "date": "2026-11-03",
-    "displayDate": "November 3, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Today's stock market sector performance shows Industrials leading with a +2.40% increase, followed by Information Technology with +1.67%. Financials are up by +",
-    "excerpt": "Today's stock market sector performance shows Industrials leading with a +2.40% increase, followed by Information Technology with +1.67%. Financials are up by +0.74%, while Utilities and Energy sectors have modest gains of +0.37% and +0.33% respectively. Consumer Discretionary, Materials, Health Car",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Stock Market Sector Performance Today | StockTitan"
-    },
-    "readingTime": 4
   },
   {
     "id": "stock-market-will-s-p-500-open-up-or-down-today",
@@ -1699,27 +1783,6 @@
       "alt": "United States Stock Market Index - Quote - Chart - Historical Data - News"
     },
     "readingTime": 5
-  },
-  {
-    "id": "weekly-trader-s-outlook",
-    "type": "news",
-    "title": "Weekly Trader's Outlook",
-    "slug": "weekly-trader-s-outlook",
-    "date": "2026-11-03",
-    "displayDate": "November 3, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The sources indicate that WTI crude is up over 10% this week, trading at $101.04/barrel due to Middle East attacks and Iran-backed Houthis' actions around Yemen",
-    "excerpt": "The sources indicate that WTI crude is up over 10% this week, trading at $101.04/barrel due to Middle East attacks and Iran-backed Houthis' actions around Yemen's Taiz. The Nasdaq had a \"bounce attempt\" up 2% by Wednesday but faced a strong sell-off on Thursday. The SPX breadth moved up to 60.12% fr",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Weekly Trader's Outlook"
-    },
-    "readingTime": 3
   },
   {
     "id": "earnings-calendar",
@@ -3230,27 +3293,6 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "Tech - Business Insider"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "the-fed-federal-open-market-committee",
-    "type": "news",
-    "title": "The Fed - Federal Open Market Committee",
-    "slug": "the-fed-federal-open-market-committee",
-    "date": "2026-10-07",
-    "displayDate": "October 7, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Open Market Committee (FOMC) is a committee within the Federal Reserve System that oversees the nation's open market operations and makes key decisi",
-    "excerpt": "The Federal Open Market Committee (FOMC) is a committee within the Federal Reserve System that oversees the nation's open market operations and makes key decisions about interest rates and the growth of the U.S. money supply. The FOMC consists of twelve members: the seven members of the Board of Gov",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "The Fed - Federal Open Market Committee"
     },
     "readingTime": 4
   },
