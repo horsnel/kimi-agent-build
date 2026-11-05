@@ -1,5 +1,110 @@
 [
   {
+    "id": "all-the-news-today-on-nvidia-stock-ahead-of-hyperscale-earnings-nvda-update",
+    "type": "news",
+    "title": "All The News Today On NVIDIA Stock Ahead of Hyperscale Earnings - NVDA Update",
+    "slug": "all-the-news-today-on-nvidia-stock-ahead-of-hyperscale-earnings-nvda-update",
+    "date": "2026-11-05",
+    "displayDate": "November 5, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "According to the sources, NVIDIA stock reached a new all-time high following months of consolidation, driven by positive price action on Friday and Monday follo",
+    "excerpt": "According to the sources, NVIDIA stock reached a new all-time high following months of consolidation, driven by positive price action on Friday and Monday following the release of GPT-5.5 by OpenAI, which committed to deploying 10 GW of NVIDIA systems. The upcoming hyperscale earnings on April 29, 2",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "All The News Today On NVIDIA Stock Ahead of Hyperscale Earnings - NVDA Update"
+    },
+    "readingTime": 5
+  },
+  {
+    "id": "asian-financial-markets-investing-com",
+    "type": "news",
+    "title": "Asian Financial Markets - Investing.com",
+    "slug": "asian-financial-markets-investing-com",
+    "date": "2026-11-05",
+    "displayDate": "November 5, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Asian financial markets on Investing.com show the Nikkei 225 at 63,108.00, down 182.11 points (-0.29%); the S&P/ASX 200 at 8,856.50, down 51.60 points (-0.5",
+    "excerpt": "The Asian financial markets on Investing.com show the Nikkei 225 at 63,108.00, down 182.11 points (-0.29%); the S&P/ASX 200 at 8,856.50, down 51.60 points (-0.58%); the Hang Seng at 23,393.32, up 98.90 points (+0.42%); the Shanghai Composite at 3,638.03, up 39.01 points (+1.08%); and the BSE Sensex ",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Asian Financial Markets - Investing.com"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "asian-pacific-stocks-bloomberg",
+    "type": "news",
+    "title": "Asian Pacific Stocks - Bloomberg",
+    "slug": "asian-pacific-stocks-bloomberg",
+    "date": "2026-11-05",
+    "displayDate": "November 5, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "As of November 5, 2026, the Bloomberg Asian Pacific Aggregate Total Return Index Value Unhedged JPY (I00163JP:IND) includes fixed-rate, investment-grade securit",
+    "excerpt": "As of November 5, 2026, the Bloomberg Asian Pacific Aggregate Total Return Index Value Unhedged JPY (I00163JP:IND) includes fixed-rate, investment-grade securities denominated in various currencies. The index values for several Asian Pacific stock indices are as follows: Shanghai Composite Index (SH",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Asian Pacific Stocks - Bloomberg"
+    },
+    "readingTime": 5
+  },
+  {
+    "id": "asian-stock-market-capital-markets-news-bond-market-news-commodities-news-etfs-n",
+    "type": "news",
+    "title": "Asian Stock Market: Capital Markets News, Bond Market News, Commodities News, ETFs News",
+    "slug": "asian-stock-market-capital-markets-news-bond-market-news-commodities-news-etfs-n",
+    "date": "2026-11-05",
+    "displayDate": "November 5, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "According to Asia Financial, oil prices jumped by over 4%, while shares on the Kospi fell 9%, with SK Hynix shares sinking by over 15%. Investing.com reports th",
+    "excerpt": "According to Asia Financial, oil prices jumped by over 4%, while shares on the Kospi fell 9%, with SK Hynix shares sinking by over 15%. Investing.com reports that the Nikkei 225, Hang Seng, S&P/ASX 200, and Nifty 50 all saw gains, with the Hang Seng rising the most by +1.67%. CNBC's site provides a ",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Asian Stock Market: Capital Markets News, Bond Market News, Commodities News, ETFs News"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "big-tech-companies-report-earnings-what-to-know-this-week",
+    "type": "news",
+    "title": "Big Tech companies report earnings: What to know this week",
+    "slug": "big-tech-companies-report-earnings-what-to-know-this-week",
+    "date": "2026-11-05",
+    "displayDate": "November 5, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "This week, investors will be closely watching earnings reports from major Big Tech companies, including Apple, Alphabet, Amazon, Microsoft, and Meta. These comp",
+    "excerpt": "This week, investors will be closely watching earnings reports from major Big Tech companies, including Apple, Alphabet, Amazon, Microsoft, and Meta. These companies are expected to report their quarterly results, with a particular focus on how artificial intelligence is impacting their spending and",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Big Tech companies report earnings: What to know this week"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "coindesk-bitcoin-ethereum-xrp-crypto-news-and-price-data",
     "type": "news",
     "title": "CoinDesk: Bitcoin, Ethereum, XRP, Crypto News and Price Data",
@@ -84,6 +189,27 @@
     "readingTime": 4
   },
   {
+    "id": "earnings-calendar-investing-com",
+    "type": "news",
+    "title": "Earnings Calendar - Investing.com",
+    "slug": "earnings-calendar-investing-com",
+    "date": "2026-11-05",
+    "displayDate": "November 5, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "On November 5, 2026, the Investing.com Earnings Calendar lists earnings reports for Berkshire Hathaway B, Toyota Motor ADR, and ConocoPhillips. Berkshire Hathaw",
+    "excerpt": "On November 5, 2026, the Investing.com Earnings Calendar lists earnings reports for Berkshire Hathaway B, Toyota Motor ADR, and ConocoPhillips. Berkshire Hathaway B is scheduled to report earnings with an expected EPS of 5.78, Toyota Motor ADR with an expected EPS of 3.77, and ConocoPhillips with an",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Earnings Calendar - Investing.com"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "earnings-whispers-earnings-calendar-november-4-2026",
     "type": "news",
     "title": "Earnings Whispers | Earnings Calendar: November 4, 2026",
@@ -103,6 +229,27 @@
       "alt": "Earnings Whispers | Earnings Calendar: November 4, 2026"
     },
     "readingTime": 3
+  },
+  {
+    "id": "earnings-whispers-earnings-calendar-november-5-2026",
+    "type": "news",
+    "title": "Earnings Whispers | Earnings Calendar: November 5, 2026",
+    "slug": "earnings-whispers-earnings-calendar-november-5-2026",
+    "date": "2026-11-05",
+    "displayDate": "November 5, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "On Thursday, November 5, 2026, 662 companies are scheduled to report earnings, with 316 before the market open and 346 after the close. The most anticipated ear",
+    "excerpt": "On Thursday, November 5, 2026, 662 companies are scheduled to report earnings, with 316 before the market open and 346 after the close. The most anticipated earnings releases before the open include DIBS, CELH, U, CAH, CI, EOSE, CORZ, IOVA, CG, and COP. After the close, notable companies reporting i",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Earnings Whispers | Earnings Calendar: November 5, 2026"
+    },
+    "readingTime": 4
   },
   {
     "id": "earnings",
@@ -168,6 +315,48 @@
     "readingTime": 4
   },
   {
+    "id": "economic-indicators-calendar-federal-reserve-bank-of-new-york",
+    "type": "news",
+    "title": "Economic Indicators Calendar - FEDERAL RESERVE BANK of NEW YORK",
+    "slug": "economic-indicators-calendar-federal-reserve-bank-of-new-york",
+    "date": "2026-11-05",
+    "displayDate": "November 5, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Reserve Bank of New York's Economic Indicators Calendar for today, November 5, 2026, does not list any specific economic data releases. The sources ",
+    "excerpt": "The Federal Reserve Bank of New York's Economic Indicators Calendar for today, November 5, 2026, does not list any specific economic data releases. The sources provide a detailed calendar for other dates, including reports like the ADP National Employment Report, Initial Claims, and the Consumer Pri",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Economic Indicators Calendar - FEDERAL RESERVE BANK of NEW YORK"
+    },
+    "readingTime": 5
+  },
+  {
+    "id": "ethereum-price-eth-usd-live-price-chart-market-cap-news-today-coingecko",
+    "type": "news",
+    "title": "Ethereum Price: ETH/USD Live Price Chart, Market Cap & News Today | CoinGecko",
+    "slug": "ethereum-price-eth-usd-live-price-chart-market-cap-news-today-coingecko",
+    "date": "2026-11-05",
+    "displayDate": "November 5, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The live Ethereum price today is $2,418.08 USD according to CoinMarketCap, with a 24-hour trading volume of $15,406,498,999 USD. CoinGecko reports Ethereum's ma",
+    "excerpt": "The live Ethereum price today is $2,418.08 USD according to CoinMarketCap, with a 24-hour trading volume of $15,406,498,999 USD. CoinGecko reports Ethereum's market capitalization as $295,821,156,163 and fully diluted valuation as $296.076B. Another CoinGecko source lists the market cap at $293,877,",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Ethereum Price: ETH/USD Live Price Chart, Market Cap & News Today | CoinGecko"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "ethereum-price-today-eth-to-usd-live-price-marketcap-and-chart-coinmarketcap",
     "type": "news",
     "title": "Ethereum price today, ETH to USD live price, marketcap and chart | CoinMarketCap",
@@ -187,6 +376,27 @@
       "alt": "Ethereum price today, ETH to USD live price, marketcap and chart | CoinMarketCap"
     },
     "readingTime": 3
+  },
+  {
+    "id": "faamg-earnings-preview-what-to-expect-from-big-tech-s-quarterly-results-next-wee",
+    "type": "news",
+    "title": "FAAMG Earnings Preview: What to Expect From Big Tech's Quarterly Results Next Week",
+    "slug": "faamg-earnings-preview-what-to-expect-from-big-tech-s-quarterly-results-next-wee",
+    "date": "2026-11-05",
+    "displayDate": "November 5, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The FAAMG group of mega cap tech companies is expected to deliver strong performances across their key business segments, driven by innovation, cloud growth, di",
+    "excerpt": "The FAAMG group of mega cap tech companies is expected to deliver strong performances across their key business segments, driven by innovation, cloud growth, digital advertising, and AI-driven advancements. Alphabet, Google’s parent company, will be the first ‘FAAMG’ company to report earnings on Tu",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "FAAMG Earnings Preview: What to Expect From Big Tech's Quarterly Results Next Week"
+    },
+    "readingTime": 4
   },
   {
     "id": "federal-open-market-committee-wikipedia",
@@ -229,6 +439,27 @@
       "alt": "Federal Reserve Board - Monetary Policy"
     },
     "readingTime": 4
+  },
+  {
+    "id": "federal-reserve-opts-to-leave-rates-unchanged",
+    "type": "news",
+    "title": "Federal Reserve Opts to Leave Rates Unchanged",
+    "slug": "federal-reserve-opts-to-leave-rates-unchanged",
+    "date": "2026-11-05",
+    "displayDate": "November 5, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Reserve left its key interest rate unchanged, with three officials dissenting in favor of higher rates. The Fed voted 9-3 to maintain rates at 3.5 p",
+    "excerpt": "The Federal Reserve left its key interest rate unchanged, with three officials dissenting in favor of higher rates. The Fed voted 9-3 to maintain rates at 3.5 percent to 3.75 percent, a level that has been in place since January. Beth M. Hammack, Neel Kashkari, and Lorie K. Logan dissented in favor ",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Federal Reserve Opts to Leave Rates Unchanged"
+    },
+    "readingTime": 3
   },
   {
     "id": "global-indices-tracking-the-world-s-markets",
@@ -294,6 +525,111 @@
     "readingTime": 5
   },
   {
+    "id": "health-care-sector-industry-performance-bloomberg",
+    "type": "news",
+    "title": "Health Care Sector & Industry Performance - Bloomberg",
+    "slug": "health-care-sector-industry-performance-bloomberg",
+    "date": "2026-11-05",
+    "displayDate": "November 5, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "According to Bloomberg's sector performance data, the Health Care sector has a weight of 10% and a percentage change of 0.30% as of November 5, 2026. The Health",
+    "excerpt": "According to Bloomberg's sector performance data, the Health Care sector has a weight of 10% and a percentage change of 0.30% as of November 5, 2026. The Health Care Equipment & Services and Pharmaceuticals, Biotechnology & Life Sciences sub-sectors also feature with weights of 32% and 68% respectiv",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Health Care Sector & Industry Performance - Bloomberg"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "health-technology-sector-companies-performance-and-stocks-usa-tradingview",
+    "type": "news",
+    "title": "Health Technology Sector: Companies, Performance and Stocks — USA — TradingView",
+    "slug": "health-technology-sector-companies-performance-and-stocks-usa-tradingview",
+    "date": "2026-11-05",
+    "displayDate": "November 5, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Health Technology Sector on TradingView includes companies like GE HealthCare Technologies Inc. with a market cap of $38.8B USD, a stock price of $85.81 USD",
+    "excerpt": "The Health Technology Sector on TradingView includes companies like GE HealthCare Technologies Inc. with a market cap of $38.8B USD, a stock price of $85.81 USD, and a 6.38% increase; Alcon Inc. with $38.63B USD market cap, $77.31 USD stock price, and a 6.83% increase; Haleon plc DR with $38.39B USD",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Health Technology Sector: Companies, Performance and Stocks — USA — TradingView"
+    },
+    "readingTime": 5
+  },
+  {
+    "id": "how-should-i-allocate-my-portfolio-in-2026",
+    "type": "news",
+    "title": "How Should I Allocate My Portfolio in 2026?",
+    "slug": "how-should-i-allocate-my-portfolio-in-2026",
+    "date": "2026-11-05",
+    "displayDate": "November 5, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Portfolio allocation in 2026 should reflect your timeline, risk tolerance, income stability, and long-term goals. For those with a time horizon under 3 years, p",
+    "excerpt": "Portfolio allocation in 2026 should reflect your timeline, risk tolerance, income stability, and long-term goals. For those with a time horizon under 3 years, prioritize liquidity and stability with heavy cash and short-term bonds. For 3–10 years, maintain a balanced stock/bond mix with moderate sto",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "How Should I Allocate My Portfolio in 2026?"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "how-the-fomc-conducts-monetary-policy-st-louis-fed",
+    "type": "news",
+    "title": "How the FOMC Conducts Monetary Policy | St. Louis Fed",
+    "slug": "how-the-fomc-conducts-monetary-policy-st-louis-fed",
+    "date": "2026-11-05",
+    "displayDate": "November 5, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Open Market Committee (FOMC) conducts national monetary policy in the United States by adjusting the target range for the federal funds rate. After ",
+    "excerpt": "The Federal Open Market Committee (FOMC) conducts national monetary policy in the United States by adjusting the target range for the federal funds rate. After each FOMC meeting, the committee announces its decision to either leave the federal funds rate target range unchanged, decrease the federal ",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "How the FOMC Conducts Monetary Policy | St. Louis Fed"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "inflation-consumer-prices-for-the-united-states-fpcpitotlzgusa-fred-st-louis-fed",
+    "type": "news",
+    "title": "Inflation, consumer prices for the United States (FPCPITOTLZGUSA) | FRED | St. Louis Fed",
+    "slug": "inflation-consumer-prices-for-the-united-states-fpcpitotlzgusa-fred-st-louis-fed",
+    "date": "2026-11-05",
+    "displayDate": "November 5, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The latest available data for Inflation, consumer prices for the United States (FPCPITOTLZGUSA) on FRED, Federal Reserve Bank of St. Louis, shows an annual rate",
+    "excerpt": "The latest available data for Inflation, consumer prices for the United States (FPCPITOTLZGUSA) on FRED, Federal Reserve Bank of St. Louis, shows an annual rate of 2.94953 percent for 2024, not seasonally adjusted. The data is updated as of October 13, 2026, 6:41 PM CDT, but the next release date is",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Inflation, consumer prices for the United States (FPCPITOTLZGUSA) | FRED | St. Louis Fed"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "investment-strategies-finra-org",
     "type": "news",
     "title": "Investment Strategies | FINRA.org",
@@ -332,6 +668,27 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "Investment strategies for today and long-term | BlackRock"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "investment-strategy-2026-portfolio-moves-for-a-changing-market",
+    "type": "news",
+    "title": "Investment Strategy 2026 Portfolio Moves for a Changing Market",
+    "slug": "investment-strategy-2026-portfolio-moves-for-a-changing-market",
+    "date": "2026-11-05",
+    "displayDate": "November 5, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "For 2026 investment strategies, the sources suggest focusing on long-term asset allocation decisions, blending discipline, global diversification, and a duratio",
+    "excerpt": "For 2026 investment strategies, the sources suggest focusing on long-term asset allocation decisions, blending discipline, global diversification, and a duration stance adapted to the evolving macroeconomic backdrop. BlackRock emphasizes durable yield and cash-flow-generative assets, while iShares h",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Investment Strategy 2026 Portfolio Moves for a Changing Market"
     },
     "readingTime": 4
   },
@@ -462,6 +819,27 @@
     "readingTime": 4
   },
   {
+    "id": "stock-market-outlook-wall-street-divided-on-bull-and-bear-predictions-markets-in",
+    "type": "news",
+    "title": "Stock Market Outlook: Wall Street Divided on Bull and Bear Predictions - Markets Insider",
+    "slug": "stock-market-outlook-wall-street-divided-on-bull-and-bear-predictions-markets-in",
+    "date": "2026-11-05",
+    "displayDate": "November 5, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The sources indicate that Wall Street analysts are divided on the stock market outlook, with some strategists like those at UBS and Oppenheimer's John Stoltzfus",
+    "excerpt": "The sources indicate that Wall Street analysts are divided on the stock market outlook, with some strategists like those at UBS and Oppenheimer's John Stoltzfus being bullish, expecting significant gains in the S&P 500. UBS raised its price targets to 6,300 by June 2025 and 6,600 by the end of the f",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Stock Market Outlook: Wall Street Divided on Bull and Bear Predictions - Markets Insider"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "stock-market-sector-performance-today-stocktitan",
     "type": "news",
     "title": "Stock Market Sector Performance Today | StockTitan",
@@ -483,6 +861,27 @@
     "readingTime": 4
   },
   {
+    "id": "the-best-asset-allocation-strategy-for-2026-what-to-own",
+    "type": "news",
+    "title": "The Best Asset Allocation Strategy for 2026: What to Own",
+    "slug": "the-best-asset-allocation-strategy-for-2026-what-to-own",
+    "date": "2026-11-05",
+    "displayDate": "November 5, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "For 2026, a practical asset allocation strategy could spread investments across equity, debt, gold, and cash with a balanced portfolio holding around 50–60% equ",
+    "excerpt": "For 2026, a practical asset allocation strategy could spread investments across equity, debt, gold, and cash with a balanced portfolio holding around 50–60% equity, 25–30% debt, 10% gold, and 5% cash. Long-term investors may consider a higher equity allocation. A 10–15% gold allocation is recommende",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "The Best Asset Allocation Strategy for 2026: What to Own"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "the-fed-federal-open-market-committee",
     "type": "news",
     "title": "The Fed - Federal Open Market Committee",
@@ -502,6 +901,27 @@
       "alt": "The Fed - Federal Open Market Committee"
     },
     "readingTime": 4
+  },
+  {
+    "id": "these-4-stocks-report-quarterly-results-next-week-what-we-hope-to-see",
+    "type": "news",
+    "title": "These 4 stocks report quarterly results next week. What we hope to see",
+    "slug": "these-4-stocks-report-quarterly-results-next-week-what-we-hope-to-see",
+    "date": "2026-11-05",
+    "displayDate": "November 5, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The sources mention several stocks reporting quarterly results next week, including Energy (CTRA), Realty Income Corp. (O), Hims & Hers Health (HIMS), NXP Semic",
+    "excerpt": "The sources mention several stocks reporting quarterly results next week, including Energy (CTRA), Realty Income Corp. (O), Hims & Hers Health (HIMS), NXP Semiconductors N.V. (NXPI), Vertex Pharmaceuticals Inc. (VRTX), Clover Health (CLOV), Contura Energy (CTRA), Diamondback Energy (FANG), FibroGen ",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "These 4 stocks report quarterly results next week. What we hope to see"
+    },
+    "readingTime": 5
   },
   {
     "id": "tom-lee-issues-dire-warning-for-anyone-holding-ethereum-crypto",
@@ -546,6 +966,69 @@
     "readingTime": 5
   },
   {
+    "id": "us-inflation-rate-2026-today-s-latest-cpi-update-and-inflation-data-amtrak-daily",
+    "type": "news",
+    "title": "US Inflation Rate 2026: Today’s Latest CPI Update and Inflation Data - Amtrak Daily Long Distance Service Study",
+    "slug": "us-inflation-rate-2026-today-s-latest-cpi-update-and-inflation-data-amtrak-daily",
+    "date": "2026-11-05",
+    "displayDate": "November 5, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "According to the Amtrak Daily Long Distance Service Study, the latest U.S. inflation figures show a 0.4% increase in the Consumer Price Index (CPI) in August 20",
+    "excerpt": "According to the Amtrak Daily Long Distance Service Study, the latest U.S. inflation figures show a 0.4% increase in the Consumer Price Index (CPI) in August 2026, resulting in a 3.4% annual inflation rate, unchanged from July. The Bureau of Labor Statistics also reported a 3.7% annual inflation rat",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "US Inflation Rate 2026: Today’s Latest CPI Update and Inflation Data - Amtrak Daily Long Distance Service Study"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "wall-street-2016-stock-market-outlook-business-insider",
+    "type": "news",
+    "title": "Wall Street 2016 Stock Market Outlook - Business Insider",
+    "slug": "wall-street-2016-stock-market-outlook-business-insider",
+    "date": "2026-11-05",
+    "displayDate": "November 5, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The sources provide differing outlooks for the 2016 stock market. Goldman Sachs forecasted a modest 1% gain for the S&P 500, targeting 2100 by year-end. RBC Cap",
+    "excerpt": "The sources provide differing outlooks for the 2016 stock market. Goldman Sachs forecasted a modest 1% gain for the S&P 500, targeting 2100 by year-end. RBC Capital Markets anticipated a potential for positive surprises, expecting global growth to re-accelerate. Fundstrat believed in a strengthening",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Wall Street 2016 Stock Market Outlook - Business Insider"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "weekly-trader-s-stock-market-outlook-charles-schwab",
+    "type": "news",
+    "title": "Weekly Trader's Stock Market Outlook | Charles Schwab",
+    "slug": "weekly-trader-s-stock-market-outlook-charles-schwab",
+    "date": "2026-11-05",
+    "displayDate": "November 5, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The sources indicate that the next key support level in the stock market is around 7,300, coinciding with the 200-day Simple Moving Average and the July 29th cl",
+    "excerpt": "The sources indicate that the next key support level in the stock market is around 7,300, coinciding with the 200-day Simple Moving Average and the July 29th close. Tech stocks, particularly those in Alphabet, ServiceNow, Amazon, and Intel, are facing pressure due to disappointing earnings and guida",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Weekly Trader's Stock Market Outlook | Charles Schwab"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "why-is-the-s-p-500-down-today-market-analysis-news-smart-dhgate-trusted-buying-g",
     "type": "news",
     "title": "Why is the S&P 500 Down Today? Market Analysis & News - Smart.DHgate – Trusted Buying Guides for Global Shoppers",
@@ -565,6 +1048,27 @@
       "alt": "Why is the S&P 500 Down Today? Market Analysis & News - Smart.DHgate – Trusted Buying Guides for Global Shoppers"
     },
     "readingTime": 4
+  },
+  {
+    "id": "your-essential-guide-to-the-fed-s-fomc-meeting-process",
+    "type": "news",
+    "title": "Your Essential Guide To The Fed’s FOMC Meeting Process",
+    "slug": "your-essential-guide-to-the-fed-s-fomc-meeting-process",
+    "date": "2026-11-05",
+    "displayDate": "November 5, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Open Market Committee (FOMC) holds eight regularly scheduled meetings per year to review economic and financial conditions, determine the appropriat",
+    "excerpt": "The Federal Open Market Committee (FOMC) holds eight regularly scheduled meetings per year to review economic and financial conditions, determine the appropriate stance of monetary policy, and assess risks to its long-term goals. Before each meeting, the FOMC Secretariat distributes memos covering e",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Your Essential Guide To The Fed’s FOMC Meeting Process"
+    },
+    "readingTime": 3
   },
   {
     "id": "12-month-percentage-change-consumer-price-index-selected-categories",
@@ -651,69 +1155,6 @@
     "readingTime": 4
   },
   {
-    "id": "asian-financial-markets-investing-com",
-    "type": "news",
-    "title": "Asian Financial Markets - Investing.com",
-    "slug": "asian-financial-markets-investing-com",
-    "date": "2026-11-04",
-    "displayDate": "November 4, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The sources provide information on Asian financial markets, including stock indices, commodities, and futures. The Nikkei 225 is at 63,108.00, down 182.11 point",
-    "excerpt": "The sources provide information on Asian financial markets, including stock indices, commodities, and futures. The Nikkei 225 is at 63,108.00, down 182.11 points (-0.29%); the S&P/ASX 200 is at 8,856.50, down 51.60 points (-0.58%); the Hang Seng is at 23,393.32, up 98.90 points (+0.42%); the Shangha",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Asian Financial Markets - Investing.com"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "asian-pacific-stocks-bloomberg",
-    "type": "news",
-    "title": "Asian Pacific Stocks - Bloomberg",
-    "slug": "asian-pacific-stocks-bloomberg",
-    "date": "2026-11-04",
-    "displayDate": "November 4, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "As of the latest data from Bloomberg, the Asian Pacific stock indices show varied performances. The Shanghai Composite Index is at 3,905.20, up by 1.48 points o",
-    "excerpt": "As of the latest data from Bloomberg, the Asian Pacific stock indices show varied performances. The Shanghai Composite Index is at 3,905.20, up by 1.48 points or 0.04%. The Shenzhen SE Composite Index is at 2,532.65, up by 5.49 points or 0.22%. The Hang Seng Index is at 23,110.00, up by 4.00 points.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Asian Pacific Stocks - Bloomberg"
-    },
-    "readingTime": 5
-  },
-  {
-    "id": "asian-stock-market-capital-markets-news-bond-market-news-commodities-news-etfs-n",
-    "type": "news",
-    "title": "Asian Stock Market: Capital Markets News, Bond Market News, Commodities News, ETFs News",
-    "slug": "asian-stock-market-capital-markets-news-bond-market-news-commodities-news-etfs-n",
-    "date": "2026-11-04",
-    "displayDate": "November 4, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Oil prices jumped by over 4%, while shares on the Kospi fell 9% with SK Hynix shares sinking by over 15% on a mixed day for Asian markets. SK Hynix's record $26",
-    "excerpt": "Oil prices jumped by over 4%, while shares on the Kospi fell 9% with SK Hynix shares sinking by over 15% on a mixed day for Asian markets. SK Hynix's record $26bn IPO from its US listing boosted markets across Asia. Meanwhile, India is likely exporting refined Russian oil to the West, matching its r",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Asian Stock Market: Capital Markets News, Bond Market News, Commodities News, ETFs News"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "big-tech-s-ugly-week-getting-rich-at-anthropic-ai-costs-plunge",
     "type": "news",
     "title": "Big Tech's Ugly Week, Getting Rich At Anthropic, AI Costs Plunge",
@@ -775,27 +1216,6 @@
       "alt": "CBOE Technology Select Sector Index Today (SIXT) - Investing.com"
     },
     "readingTime": 5
-  },
-  {
-    "id": "earnings-calendar-investing-com",
-    "type": "news",
-    "title": "Earnings Calendar - Investing.com",
-    "slug": "earnings-calendar-investing-com",
-    "date": "2026-11-04",
-    "displayDate": "November 4, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Investing.com Earnings Calendar for Monday, November 2, 2026, lists Apple with an expected EPS of 1.99 and a revenue forecast of $113.38 billion, alongside ",
-    "excerpt": "The Investing.com Earnings Calendar for Monday, November 2, 2026, lists Apple with an expected EPS of 1.99 and a revenue forecast of $113.38 billion, alongside Berkshire Hathaway A and B with expected EPS of $8,659.08 and $5.78 respectively, and revenue forecasts of $100.93 billion. The calendar pro",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Earnings Calendar - Investing.com"
-    },
-    "readingTime": 4
   },
   {
     "id": "earnings-calendar-marketwatch",
@@ -882,27 +1302,6 @@
     "readingTime": 3
   },
   {
-    "id": "economic-indicators-calendar-federal-reserve-bank-of-new-york",
-    "type": "news",
-    "title": "Economic Indicators Calendar - FEDERAL RESERVE BANK of NEW YORK",
-    "slug": "economic-indicators-calendar-federal-reserve-bank-of-new-york",
-    "date": "2026-11-04",
-    "displayDate": "November 4, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "On November 4, 2026, the Federal Reserve Bank of New York's Economic Indicators Calendar lists several key economic data releases. These include the Advance Int",
-    "excerpt": "On November 4, 2026, the Federal Reserve Bank of New York's Economic Indicators Calendar lists several key economic data releases. These include the Advance International Trade in GoodsPDF at 08:30, the Trade balance at 08:30, JOLTS at 10:00, Losses from Natural Disasters at 10:00, and Manufacturing",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Economic Indicators Calendar - FEDERAL RESERVE BANK of NEW YORK"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "ethereum-eth-price-usd-today-news-charts-market-cap-coinbase",
     "type": "news",
     "title": "Ethereum (ETH) Price USD Today, News, Charts, Market Cap | Coinbase",
@@ -941,27 +1340,6 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "Ethereum Price: ETH/USD Live Price Chart, Market Cap &amp; News Today | CoinGecko"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "ethereum-price-eth-usd-live-price-chart-market-cap-news-today-coingecko",
-    "type": "news",
-    "title": "Ethereum Price: ETH/USD Live Price Chart, Market Cap & News Today | CoinGecko",
-    "slug": "ethereum-price-eth-usd-live-price-chart-market-cap-news-today-coingecko",
-    "date": "2026-11-04",
-    "displayDate": "November 4, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The live Ethereum price today is $2,404.76 USD according to CoinMarketCap, with a 24-hour trading volume of $16,951,891,348 USD. CoinGecko reports Ethereum's ma",
-    "excerpt": "The live Ethereum price today is $2,404.76 USD according to CoinMarketCap, with a 24-hour trading volume of $16,951,891,348 USD. CoinGecko reports Ethereum's market capitalization as $293,877,701,393 and fully diluted valuation as $294.059B, while another CoinGecko source lists the market cap at $29",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Ethereum Price: ETH/USD Live Price Chart, Market Cap & News Today | CoinGecko"
     },
     "readingTime": 4
   },
@@ -1046,69 +1424,6 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "Global Markets | World News, Latest and Breaking News, Top International News Today - Firstpost"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "how-the-fomc-conducts-monetary-policy-st-louis-fed",
-    "type": "news",
-    "title": "How the FOMC Conducts Monetary Policy | St. Louis Fed",
-    "slug": "how-the-fomc-conducts-monetary-policy-st-louis-fed",
-    "date": "2026-11-04",
-    "displayDate": "November 4, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Open Market Committee (FOMC) conducts national monetary policy in the United States by adjusting the target range for the federal funds rate. After ",
-    "excerpt": "The Federal Open Market Committee (FOMC) conducts national monetary policy in the United States by adjusting the target range for the federal funds rate. After each FOMC meeting, the committee announces its decision to either leave the federal funds rate target range unchanged, decrease the federal ",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "How the FOMC Conducts Monetary Policy | St. Louis Fed"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "inflation-consumer-prices-for-the-united-states-fpcpitotlzgusa-fred-st-louis-fed",
-    "type": "news",
-    "title": "Inflation, consumer prices for the United States (FPCPITOTLZGUSA) | FRED | St. Louis Fed",
-    "slug": "inflation-consumer-prices-for-the-united-states-fpcpitotlzgusa-fred-st-louis-fed",
-    "date": "2026-11-04",
-    "displayDate": "November 4, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The latest available data for inflation, consumer prices for the United States (FPCPITOTLZGUSA) as of October 13, 2026, shows an annual rate of 2.94953 percent,",
-    "excerpt": "The latest available data for inflation, consumer prices for the United States (FPCPITOTLZGUSA) as of October 13, 2026, shows an annual rate of 2.94953 percent, not seasonally adjusted, for 2024. The next release date is not available. For the Consumer Price Index for All Urban Consumers: All Items ",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Inflation, consumer prices for the United States (FPCPITOTLZGUSA) | FRED | St. Louis Fed"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "investment-strategy-2026-portfolio-moves-for-a-changing-market",
-    "type": "news",
-    "title": "Investment Strategy 2026 Portfolio Moves for a Changing Market",
-    "slug": "investment-strategy-2026-portfolio-moves-for-a-changing-market",
-    "date": "2026-11-04",
-    "displayDate": "November 4, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "For 2026 investment strategy, the sources suggest focusing on long-term asset allocation decisions rather than short-term market calls, emphasizing durable yiel",
-    "excerpt": "For 2026 investment strategy, the sources suggest focusing on long-term asset allocation decisions rather than short-term market calls, emphasizing durable yield and cash-flow-generative assets. BlackRock highlights the importance of owning such assets to navigate market dispersion and default risks",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Investment Strategy 2026 Portfolio Moves for a Changing Market"
     },
     "readingTime": 3
   },
@@ -1764,27 +2079,6 @@
     "readingTime": 4
   },
   {
-    "id": "how-should-i-allocate-my-portfolio-in-2026",
-    "type": "news",
-    "title": "How Should I Allocate My Portfolio in 2026?",
-    "slug": "how-should-i-allocate-my-portfolio-in-2026",
-    "date": "2026-11-03",
-    "displayDate": "November 3, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "In 2026, portfolio allocation should reflect your timeline, risk tolerance, income stability, and long-term goals. For those with a time horizon under 3 years, ",
-    "excerpt": "In 2026, portfolio allocation should reflect your timeline, risk tolerance, income stability, and long-term goals. For those with a time horizon under 3 years, prioritize liquidity and stability with heavy cash and short-term bonds. For 3–10 years, maintain a balanced stock/bond mix with moderate st",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "How Should I Allocate My Portfolio in 2026?"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "kevin-warsh-live-federal-reserve-interest-rate-decision-fomc-press-conference-wa",
     "type": "news",
     "title": "Kevin Warsh LIVE: Federal Reserve Interest Rate Decision & FOMC Press Conference | WATCH LIVE",
@@ -1909,27 +2203,6 @@
       "alt": "TechCrunch | Startup and Technology News"
     },
     "readingTime": 3
-  },
-  {
-    "id": "the-best-asset-allocation-strategy-for-2026-what-to-own",
-    "type": "news",
-    "title": "The Best Asset Allocation Strategy for 2026: What to Own",
-    "slug": "the-best-asset-allocation-strategy-for-2026-what-to-own",
-    "date": "2026-11-03",
-    "displayDate": "November 3, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "For 2026, a practical asset allocation strategy could spread investments across equity, debt, gold, and cash with a balanced portfolio holding around 50–60% equ",
-    "excerpt": "For 2026, a practical asset allocation strategy could spread investments across equity, debt, gold, and cash with a balanced portfolio holding around 50–60% equity, 25–30% debt, 10% gold, and 5% cash. Long-term investors may consider a higher equity allocation. Gold is recommended to hold 10–15% for",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "The Best Asset Allocation Strategy for 2026: What to Own"
-    },
-    "readingTime": 4
   },
   {
     "id": "the-impact-of-global-wholesale-price-index-on-international-stocks-markets-stock",
@@ -3129,27 +3402,6 @@
     "readingTime": 4
   },
   {
-    "id": "health-technology-sector-companies-performance-and-stocks-usa-tradingview",
-    "type": "news",
-    "title": "Health Technology Sector: Companies, Performance and Stocks — USA — TradingView",
-    "slug": "health-technology-sector-companies-performance-and-stocks-usa-tradingview",
-    "date": "2026-10-08",
-    "displayDate": "October 8, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Health Technology Sector on TradingView includes companies like RMDResMed Inc. with a market cap of $32.08B USD, trading at $222.41 USD with a +0.14% change",
-    "excerpt": "The Health Technology Sector on TradingView includes companies like RMDResMed Inc. with a market cap of $32.08B USD, trading at $222.41 USD with a +0.14% change, and a strong buy rating. MTDMettler-Toledo International, Inc. has a market cap of $30.64B USD, trading at $1,529.19 USD with a −1.04% cha",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Health Technology Sector: Companies, Performance and Stocks — USA — TradingView"
-    },
-    "readingTime": 6
-  },
-  {
     "id": "innovation-beyond-tech-inside-healthcare-stocks-blackrock",
     "type": "news",
     "title": "Innovation beyond tech: inside healthcare stocks | BlackRock",
@@ -3421,27 +3673,6 @@
       "alt": "Fed meeting today: Live updates"
     },
     "readingTime": 5
-  },
-  {
-    "id": "health-care-sector-industry-performance-bloomberg",
-    "type": "news",
-    "title": "Health Care Sector & Industry Performance - Bloomberg",
-    "slug": "health-care-sector-industry-performance-bloomberg",
-    "date": "2026-10-07",
-    "displayDate": "October 7, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "According to Bloomberg, as of October 6, 2026, the Health Care sector, which constitutes 11% of the market, has seen a percentage change of 0.22%. Within the He",
-    "excerpt": "According to Bloomberg, as of October 6, 2026, the Health Care sector, which constitutes 11% of the market, has seen a percentage change of 0.22%. Within the Health Care sector, Pharmaceuticals, Biotechnology & Life Sciences, which makes up 50% of Health Care, has recorded a negligible 0.02% change.",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Health Care Sector & Industry Performance - Bloomberg"
-    },
-    "readingTime": 4
   },
   {
     "id": "stock-earnings-calendar-oct-7-2026-digrin",
@@ -4408,27 +4639,6 @@
       "alt": "United States Economy at a Glance"
     },
     "readingTime": 5
-  },
-  {
-    "id": "weekly-trader-s-stock-market-outlook-charles-schwab",
-    "type": "news",
-    "title": "Weekly Trader's Stock Market Outlook | Charles Schwab",
-    "slug": "weekly-trader-s-stock-market-outlook-charles-schwab",
-    "date": "2026-10-04",
-    "displayDate": "October 4, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The sources indicate that the S&P 500 (SPX) breadth is down to 44.11% from 47.80%, the CCMP fell to 39.51% from 42.04%, and the RUT dropped to 48.80% from 51.61",
-    "excerpt": "The sources indicate that the S&P 500 (SPX) breadth is down to 44.11% from 47.80%, the CCMP fell to 39.51% from 42.04%, and the RUT dropped to 48.80% from 51.61%. The outlook is incrementally bullish as the index is above mid-August highs, with the next hurdle being the all-time high of 14,655 from ",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Weekly Trader's Stock Market Outlook | Charles Schwab"
-    },
-    "readingTime": 3
   },
   {
     "id": "why-international-stocks-2026-are-beating-us-markets",
