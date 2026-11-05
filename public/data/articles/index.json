@@ -168,6 +168,27 @@
     "readingTime": 4
   },
   {
+    "id": "crypto-news",
+    "type": "news",
+    "title": "Crypto News",
+    "slug": "crypto-news",
+    "date": "2026-11-05",
+    "displayDate": "November 5, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "According to crypto.news, Bitcoin is priced at $77,550.00, down 0.49%, Ethereum is priced at $2,277.31, up 0.55%, XRP is priced at $1.25, down 0.4%, BNB is pric",
+    "excerpt": "According to crypto.news, Bitcoin is priced at $77,550.00, down 0.49%, Ethereum is priced at $2,277.31, up 0.55%, XRP is priced at $1.25, down 0.4%, BNB is priced at $702.80, down 1.58%, Solana is priced at $93.67, down 1.38%, Hyperliquid is priced at $85.30, down 3.26%, Cardano is priced at $0.1899",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Crypto News"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "earnings-calendar-and-analysis-for-this-week-november-2-7-kiplinger",
     "type": "news",
     "title": "Earnings Calendar and Analysis for This Week (November 2-7) | Kiplinger",
@@ -206,6 +227,27 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "Earnings Calendar - Investing.com"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "earnings-reports-of-top-companies-revenue-profits-forecasts-the-motley-fool",
+    "type": "news",
+    "title": "Earnings Reports of Top Companies: Revenue, Profits & Forecasts | The Motley Fool",
+    "slug": "earnings-reports-of-top-companies-revenue-profits-forecasts-the-motley-fool",
+    "date": "2026-11-05",
+    "displayDate": "November 5, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "In the fiscal fourth quarter of 2026, Microsoft reported $90 billion in total revenue, surpassing expectations. For the second quarter of its 2027 fiscal year, ",
+    "excerpt": "In the fiscal fourth quarter of 2026, Microsoft reported $90 billion in total revenue, surpassing expectations. For the second quarter of its 2027 fiscal year, Nvidia reported $96.2 billion in revenue and $2.22 per share in adjusted earnings, both exceeding analysts' estimates. Alphabet reported nea",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Earnings Reports of Top Companies: Revenue, Profits & Forecasts | The Motley Fool"
     },
     "readingTime": 4
   },
@@ -420,6 +462,27 @@
     "readingTime": 4
   },
   {
+    "id": "federal-reserve-between-a-rock-and-a-hard-place-as-interest-rate-decision-looms",
+    "type": "news",
+    "title": "Federal Reserve 'between a rock and a hard place' as interest rate decision looms",
+    "slug": "federal-reserve-between-a-rock-and-a-hard-place-as-interest-rate-decision-looms",
+    "date": "2026-11-05",
+    "displayDate": "November 5, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Reserve is expected to hold interest rates steady due to elevated inflation and a shaky job market, according to the latest sources. The last change",
+    "excerpt": "The Federal Reserve is expected to hold interest rates steady due to elevated inflation and a shaky job market, according to the latest sources. The last change in the federal funds rate was in December, followed by a pause in January. Former Fed governor Randy Kroszner cited global uncertainty, par",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Federal Reserve 'between a rock and a hard place' as interest rate decision looms"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "federal-reserve-board-monetary-policy",
     "type": "news",
     "title": "Federal Reserve Board - Monetary Policy",
@@ -460,6 +523,27 @@
       "alt": "Federal Reserve Opts to Leave Rates Unchanged"
     },
     "readingTime": 3
+  },
+  {
+    "id": "geekwire-breaking-news-in-technology-business",
+    "type": "news",
+    "title": "GeekWire – Breaking News in Technology & Business",
+    "slug": "geekwire-breaking-news-in-technology-business",
+    "date": "2026-11-05",
+    "displayDate": "November 5, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "According to GeekWire, notable news includes Helion Energy's potential $175M CHIPS award for advanced semiconductor development, Microsoft's $10B quarterly reve",
+    "excerpt": "According to GeekWire, notable news includes Helion Energy's potential $175M CHIPS award for advanced semiconductor development, Microsoft's $10B quarterly revenue from its OpenAI division, and a 48% surge in Microsoft Azure revenue to $33.2B. Additionally, Seattle-based startups like Strella and Po",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "GeekWire – Breaking News in Technology & Business"
+    },
+    "readingTime": 4
   },
   {
     "id": "global-indices-tracking-the-world-s-markets",
@@ -714,6 +798,27 @@
     "readingTime": 4
   },
   {
+    "id": "latest-technology-news-and-reviews-yahoo-finance",
+    "type": "news",
+    "title": "Latest Technology News and Reviews - Yahoo Finance",
+    "slug": "latest-technology-news-and-reviews-yahoo-finance",
+    "date": "2026-11-05",
+    "displayDate": "November 5, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The latest technology news on Yahoo Finance includes updates on EchoStar's potential deal with SpaceX, AMD's $1.1 billion AI megadeals with OpenAI and Meta, and",
+    "excerpt": "The latest technology news on Yahoo Finance includes updates on EchoStar's potential deal with SpaceX, AMD's $1.1 billion AI megadeals with OpenAI and Meta, and Big Tech's undisclosed $3 trillion in AI commitments. There are also reports on Supermicro's strong Q2 outlook and the impact of higher mem",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Latest Technology News and Reviews - Yahoo Finance"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "lisep-ludwig-institute-for-shared-economic-prosperity",
     "type": "news",
     "title": "LISEP Ludwig Institute for Shared Economic Prosperity",
@@ -754,6 +859,48 @@
       "alt": "NQ 100 Technology Sector Index Today (NDXT) - Investing.com"
     },
     "readingTime": 5
+  },
+  {
+    "id": "portfolio-allocation-strategy-for-2026-stocks-gold-bonds-and-alternatives-financ",
+    "type": "news",
+    "title": "Portfolio Allocation Strategy for 2026: Stocks, Gold, Bonds and Alternatives - Financial Astrology by Rajeev Prakash",
+    "slug": "portfolio-allocation-strategy-for-2026-stocks-gold-bonds-and-alternatives-financ",
+    "date": "2026-11-05",
+    "displayDate": "November 5, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "According to Morningstar, a diversified portfolio that includes 20% large-cap domestic stocks, 10% each to developed and emerging market equities, Treasurys, U.",
+    "excerpt": "According to Morningstar, a diversified portfolio that includes 20% large-cap domestic stocks, 10% each to developed and emerging market equities, Treasurys, U.S. core bonds, global bonds, and high-yield bonds, and another 5% each to U.S. small-cap stocks, commodities, gold, and real estate investme",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Portfolio Allocation Strategy for 2026: Stocks, Gold, Bonds and Alternatives - Financial Astrology by Rajeev Prakash"
+    },
+    "readingTime": 5
+  },
+  {
+    "id": "s-p-500-analysis-and-opinion-investing-com",
+    "type": "news",
+    "title": "S&P 500 Analysis and Opinion - Investing.com",
+    "slug": "s-p-500-analysis-and-opinion-investing-com",
+    "date": "2026-11-05",
+    "displayDate": "November 5, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The S&P 500 index on Investing.com is reported at 7,695.34 with an increase of +126.38 points, or +1.67%, in one source, while another source shows it at 7,541.",
+    "excerpt": "The S&P 500 index on Investing.com is reported at 7,695.34 with an increase of +126.38 points, or +1.67%, in one source, while another source shows it at 7,541.40 with a decrease of -38.67 points, or -0.51%. The sources also provide various other indices and commodities data, but the exact S&P 500 v",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "S&P 500 Analysis and Opinion - Investing.com"
+    },
+    "readingTime": 4
   },
   {
     "id": "s-p-500-index-sp500-analysis-news-and-chart-today-seeking-alpha",
@@ -861,6 +1008,27 @@
     "readingTime": 4
   },
   {
+    "id": "technology-news",
+    "type": "news",
+    "title": "Technology News",
+    "slug": "technology-news",
+    "date": "2026-11-05",
+    "displayDate": "November 5, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "On November 5, 2026, technology news highlights include AI-generated'slopaganda' in political ads raising concerns, a significant Binance hack involving $6.3 bi",
+    "excerpt": "On November 5, 2026, technology news highlights include AI-generated'slopaganda' in political ads raising concerns, a significant Binance hack involving $6.3 billion in crypto, and a lawsuit against web browser Brave over alleged content scraping. Additionally, Shopify's stock drops after missing re",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Technology News"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "the-best-asset-allocation-strategy-for-2026-what-to-own",
     "type": "news",
     "title": "The Best Asset Allocation Strategy for 2026: What to Own",
@@ -943,6 +1111,27 @@
       "alt": "Tom Lee Issues DIRE WARNING for Anyone Holding Ethereum & Crypto"
     },
     "readingTime": 3
+  },
+  {
+    "id": "united-states-federal-reserve-interest-rate-decision",
+    "type": "news",
+    "title": "United States Federal Reserve Interest Rate Decision",
+    "slug": "united-states-federal-reserve-interest-rate-decision",
+    "date": "2026-11-05",
+    "displayDate": "November 5, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The sources indicate that the Federal Reserve's next interest rate decision is scheduled for April 29, 2026, at 2:00 PM Eastern Time. The most recent decision o",
+    "excerpt": "The sources indicate that the Federal Reserve's next interest rate decision is scheduled for April 29, 2026, at 2:00 PM Eastern Time. The most recent decision on October 28, 2026, kept the rate unchanged at 4.00%. The effective federal funds rate as of March 2026 is around 3.64%. The Federal Reserve",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "United States Federal Reserve Interest Rate Decision"
+    },
+    "readingTime": 5
   },
   {
     "id": "united-states-inflation-rate",
@@ -1365,48 +1554,6 @@
     "readingTime": 3
   },
   {
-    "id": "federal-reserve-between-a-rock-and-a-hard-place-as-interest-rate-decision-looms",
-    "type": "news",
-    "title": "Federal Reserve 'between a rock and a hard place' as interest rate decision looms",
-    "slug": "federal-reserve-between-a-rock-and-a-hard-place-as-interest-rate-decision-looms",
-    "date": "2026-11-04",
-    "displayDate": "November 4, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Reserve is expected to raise interest rates by another 0.25% when it releases its latest policy decision on Wednesday, bringing the benchmark intere",
-    "excerpt": "The Federal Reserve is expected to raise interest rates by another 0.25% when it releases its latest policy decision on Wednesday, bringing the benchmark interest rate range to 4.75%-5%, the highest since 2006. This decision comes amid a banking crisis and persistent inflation, creating a challengin",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Federal Reserve 'between a rock and a hard place' as interest rate decision looms"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "geekwire-breaking-news-in-technology-business",
-    "type": "news",
-    "title": "GeekWire – Breaking News in Technology & Business",
-    "slug": "geekwire-breaking-news-in-technology-business",
-    "date": "2026-11-04",
-    "displayDate": "November 4, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "On October 26, 2026, former GitHub CEO launched a rival platform built for AI coding agents. Also on October 26, Microsoft made a new ‘voluntary exit’ offer to ",
-    "excerpt": "On October 26, 2026, former GitHub CEO launched a rival platform built for AI coding agents. Also on October 26, Microsoft made a new ‘voluntary exit’ offer to about a quarter of its workforce, including some executives. On October 28, former T-Mobile CEO Mike Sievert exited the board of directors o",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "GeekWire – Breaking News in Technology & Business"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "global-markets-world-news-latest-and-breaking-news-top-international-news-today-",
     "type": "news",
     "title": "Global Markets | World News, Latest and Breaking News, Top International News Today - Firstpost",
@@ -1533,27 +1680,6 @@
     "readingTime": 3
   },
   {
-    "id": "technology-news",
-    "type": "news",
-    "title": "Technology News",
-    "slug": "technology-news",
-    "date": "2026-11-04",
-    "displayDate": "November 4, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The sources provide a snapshot of technology news as of today, November 4, 2026. TechNewsWorld highlights Dell's strategic reset with the XPS brand, AI cyberatt",
-    "excerpt": "The sources provide a snapshot of technology news as of today, November 4, 2026. TechNewsWorld highlights Dell's strategic reset with the XPS brand, AI cyberattacks outpacing defenses, and advancements in smoke detection technology. CNBC reports on Apple's stock drop due to a weak margin forecast, A",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Technology News"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "the-best-7-000-tfsa-investments-for-current-market-conditions",
     "type": "news",
     "title": "The Best $7,000 TFSA Investments for Current Market Conditions",
@@ -1655,27 +1781,6 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "U.S. Bureau of Economic Analysis (BEA)"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "united-states-federal-reserve-interest-rate-decision",
-    "type": "news",
-    "title": "United States Federal Reserve Interest Rate Decision",
-    "slug": "united-states-federal-reserve-interest-rate-decision",
-    "date": "2026-11-04",
-    "displayDate": "November 4, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The United States Federal Reserve Interest Rate Decision for October 28, 2026, had an actual, forecast, and previous rate of 4.00%. The next scheduled decision ",
-    "excerpt": "The United States Federal Reserve Interest Rate Decision for October 28, 2026, had an actual, forecast, and previous rate of 4.00%. The next scheduled decision is on December 09, 2026, at 19:00. The subsequent decisions are scheduled for October 27, 2027, and December 08, 2027, both at 18:00. The so",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "United States Federal Reserve Interest Rate Decision"
     },
     "readingTime": 3
   },
@@ -1844,27 +1949,6 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "Crypto Market Today: Bitcoin Rebounds 5% as Ethereum Shows Strong Recovery"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "crypto-news",
-    "type": "news",
-    "title": "Crypto News",
-    "slug": "crypto-news",
-    "date": "2026-11-03",
-    "displayDate": "November 3, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "According to crypto.news, Bitcoin (BTC) was priced at $77,550.00, down 0.49%, Ethereum (ETH) at $2,277.31, up 0.55%, and XRP (XRP) at $1.25, down 0.4%. cryptone",
-    "excerpt": "According to crypto.news, Bitcoin (BTC) was priced at $77,550.00, down 0.49%, Ethereum (ETH) at $2,277.31, up 0.55%, and XRP (XRP) at $1.25, down 0.4%. cryptonews.com reported Bitcoin (BTC) at $79,814.66, down 0.28%, Ethereum (ETH) at $2,311.19, down 0.33%, and XRP (XRP) at $1.30, up 1.19%. thecrypt",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Crypto News"
     },
     "readingTime": 4
   },
@@ -2096,27 +2180,6 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "Kevin Warsh LIVE: Federal Reserve Interest Rate Decision & FOMC Press Conference | WATCH LIVE"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "latest-technology-news-and-reviews-yahoo-finance",
-    "type": "news",
-    "title": "Latest Technology News and Reviews - Yahoo Finance",
-    "slug": "latest-technology-news-and-reviews-yahoo-finance",
-    "date": "2026-11-03",
-    "displayDate": "November 3, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The latest technology news and reviews from Yahoo Finance highlight significant developments in the tech industry, including SpaceX losing over $500 billion in ",
-    "excerpt": "The latest technology news and reviews from Yahoo Finance highlight significant developments in the tech industry, including SpaceX losing over $500 billion in market value, and a new $30 billion funding round for OpenAI at a $1.25 trillion valuation. Big Tech companies like Meta and Tesla are adjus",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Latest Technology News and Reviews - Yahoo Finance"
     },
     "readingTime": 4
   },
@@ -6023,27 +6086,6 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "Global Stock Market News and World Indices Coverage - CNBC"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "s-p-500-analysis-and-opinion-investing-com",
-    "type": "news",
-    "title": "S&P 500 Analysis and Opinion - Investing.com",
-    "slug": "s-p-500-analysis-and-opinion-investing-com",
-    "date": "2026-09-08",
-    "displayDate": "September 8, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The S&P 500 has significant growth potential, with top performers like SNDK and MU showing strong gains. Analysts predict continued growth, but caution about va",
-    "excerpt": "The S&P 500 has significant growth potential, with top performers like SNDK and MU showing strong gains. Analysts predict continued growth, but caution about valuation levels. Current market trends indicate mixed performance across major tech stocks.",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "S&P 500 Analysis and Opinion - Investing.com"
     },
     "readingTime": 4
   },
