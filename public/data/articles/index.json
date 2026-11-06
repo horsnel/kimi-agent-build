@@ -1,5 +1,614 @@
 [
   {
+    "id": "2026-u-s-economic-calendar-cpi-jobs-pce-fed-dates-fedratecalc",
+    "type": "news",
+    "title": "2026 U.S. Economic Calendar: CPI, Jobs, PCE & Fed Dates | FedRateCalc",
+    "slug": "2026-u-s-economic-calendar-cpi-jobs-pce-fed-dates-fedratecalc",
+    "date": "2026-11-06",
+    "displayDate": "November 6, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The 2026 U.S. Economic Calendar includes scheduled releases such as the FOMC Rate Decision on December 9, 2026, Consumer Price Index (CPI) on December 10, Produ",
+    "excerpt": "The 2026 U.S. Economic Calendar includes scheduled releases such as the FOMC Rate Decision on December 9, 2026, Consumer Price Index (CPI) on December 10, Producer Price Index (PPI) on December 15, and Employment Situation (Nonfarm Payrolls) on December 4. Scheduled PCE Inflation reports are set for",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "2026 U.S. Economic Calendar: CPI, Jobs, PCE & Fed Dates | FedRateCalc"
+    },
+    "readingTime": 5
+  },
+  {
+    "id": "coindesk-bitcoin-ethereum-xrp-crypto-news-and-price-data",
+    "type": "news",
+    "title": "CoinDesk: Bitcoin, Ethereum, XRP, Crypto News and Price Data",
+    "slug": "coindesk-bitcoin-ethereum-xrp-crypto-news-and-price-data",
+    "date": "2026-11-06",
+    "displayDate": "November 6, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "On CoinDesk, the price of Bitcoin (BTC) is $76,872.59, down 1.90 percent; Ethereum (ETH) is $2,256.13, down 1.60 percent; and XRP is $1.25, down 0.20 percent. T",
+    "excerpt": "On CoinDesk, the price of Bitcoin (BTC) is $76,872.59, down 1.90 percent; Ethereum (ETH) is $2,256.13, down 1.60 percent; and XRP is $1.25, down 0.20 percent. The sources also mention that Binance offers the most liquidity for BTC, while Bitget is the most liquid platform for altcoins within the 0.3",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "CoinDesk: Bitcoin, Ethereum, XRP, Crypto News and Price Data"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "company-earnings-calendar-yahoo-finance",
+    "type": "news",
+    "title": "Company Earnings Calendar - Yahoo Finance",
+    "slug": "company-earnings-calendar-yahoo-finance",
+    "date": "2026-11-06",
+    "displayDate": "November 6, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The sources indicate that on today's date, November 6, 2026, several companies are scheduled to announce their earnings for Q3 2026. These include Eaton Corpora",
+    "excerpt": "The sources indicate that on today's date, November 6, 2026, several companies are scheduled to announce their earnings for Q3 2026. These include Eaton Corporation plc, Intesa Sanpaolo S.p.A., Marathon Petroleum Corporation, Booking Holdings Inc., Suncor Energy Inc., AMETEK, Inc., Thomson Reuters C",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Company Earnings Calendar - Yahoo Finance"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "earnings-calendar-markets-insider",
+    "type": "news",
+    "title": "Earnings Calendar | Markets Insider",
+    "slug": "earnings-calendar-markets-insider",
+    "date": "2026-11-06",
+    "displayDate": "November 6, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "On November 4, 2026, the Markets Insider Earnings Calendar lists Cooper-Standard Holdings Inc. and Energy Recovery Inc. for Q3 2026 Earnings, and Twin Disc IncS",
+    "excerpt": "On November 4, 2026, the Markets Insider Earnings Calendar lists Cooper-Standard Holdings Inc. and Energy Recovery Inc. for Q3 2026 Earnings, and Twin Disc IncShs and Shukra Pharmaceuticals Ltd Registered Shs for Q1 2027 and Q2 2027 Earnings, respectively. On November 5, 2026, Global Offshore Servic",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Earnings Calendar | Markets Insider"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "earnings-calendar-marketwatch",
+    "type": "news",
+    "title": "Earnings Calendar | Marketwatch",
+    "slug": "earnings-calendar-marketwatch",
+    "date": "2026-11-06",
+    "displayDate": "November 6, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The earnings calendar from Marketwatch lists several companies scheduled to report earnings on September 30, 2026, including Ameren Corp., SkinHealth Systems In",
+    "excerpt": "The earnings calendar from Marketwatch lists several companies scheduled to report earnings on September 30, 2026, including Ameren Corp., SkinHealth Systems Inc., and Marriott Vacations Worldwide Corp. Among these, Ameren Corp. is expected to report earnings of $2.29, beating the forecast of $2.42 ",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Earnings Calendar | Marketwatch"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "earnings-whispers-earnings-calendar-november-5-2026",
+    "type": "news",
+    "title": "Earnings Whispers | Earnings Calendar: November 5, 2026",
+    "slug": "earnings-whispers-earnings-calendar-november-5-2026",
+    "date": "2026-11-06",
+    "displayDate": "November 6, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "On November 5, 2026, 695 companies are scheduled to report earnings, with 332 companies reporting before the market open and 363 companies reporting after the m",
+    "excerpt": "On November 5, 2026, 695 companies are scheduled to report earnings, with 332 companies reporting before the market open and 363 companies reporting after the market close. Specific companies reporting before the open include JHX James Hardie Industries plc, JYNT The Joint Corp., KDK Kodiak AI, Inc.",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Earnings Whispers | Earnings Calendar: November 5, 2026"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "earnings",
+    "type": "news",
+    "title": "Earnings",
+    "slug": "earnings",
+    "date": "2026-11-06",
+    "displayDate": "November 6, 2026",
+    "category": "Company News",
+    "tags": [
+      "company news",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "According to the sources, an earnings report is a public disclosure issued by a company to share its financial performance with investors and stakeholders, typi",
+    "excerpt": "According to the sources, an earnings report is a public disclosure issued by a company to share its financial performance with investors and stakeholders, typically quarterly or annually. Companies file quarterly reports via the Form 10-Q and annual reports via the Form 10-K in the United States. E",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Earnings"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "ethereum-price-eth-usd-live-price-chart-market-cap-news-today-coingecko",
+    "type": "news",
+    "title": "Ethereum Price: ETH/USD Live Price Chart, Market Cap & News Today | CoinGecko",
+    "slug": "ethereum-price-eth-usd-live-price-chart-market-cap-news-today-coingecko",
+    "date": "2026-11-06",
+    "displayDate": "November 6, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The live Ethereum price today is $2,236.59 USD with a 24-hour trading volume of $19,014,212,422 USD, according to CoinMarketCap. CoinGecko reports Ethereum's ma",
+    "excerpt": "The live Ethereum price today is $2,236.59 USD with a 24-hour trading volume of $19,014,212,422 USD, according to CoinMarketCap. CoinGecko reports Ethereum's market capitalization as $293,877,701,393 and its fully diluted valuation as $294.059B. Another CoinGecko source lists Ethereum's market capit",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Ethereum Price: ETH/USD Live Price Chart, Market Cap & News Today | CoinGecko"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "federal-open-market-committee-wikipedia",
+    "type": "news",
+    "title": "Federal Open Market Committee - Wikipedia",
+    "slug": "federal-open-market-committee-wikipedia",
+    "date": "2026-11-06",
+    "displayDate": "November 6, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Open Market Committee (FOMC) is a committee within the Federal Reserve System that oversees the nation's open market operations and makes key decisi",
+    "excerpt": "The Federal Open Market Committee (FOMC) is a committee within the Federal Reserve System that oversees the nation's open market operations and makes key decisions about interest rates and the growth of the United States money supply. The FOMC is the principal organ of United States national monetar",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Federal Open Market Committee - Wikipedia"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "federal-reserve-board-monetary-policy",
+    "type": "news",
+    "title": "Federal Reserve Board - Monetary Policy",
+    "slug": "federal-reserve-board-monetary-policy",
+    "date": "2026-11-06",
+    "displayDate": "November 6, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Monetary policy in the United States is the Federal Reserve's actions and communications to promote maximum employment, stable prices, and moderate long-term in",
+    "excerpt": "Monetary policy in the United States is the Federal Reserve's actions and communications to promote maximum employment, stable prices, and moderate long-term interest rates. The Federal Reserve Board is required to submit semiannual reports to Congress discussing the conduct of monetary policy and e",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Federal Reserve Board - Monetary Policy"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "global-indices-tracking-the-world-s-markets",
+    "type": "news",
+    "title": "Global Indices - Tracking the World's Markets",
+    "slug": "global-indices-tracking-the-world-s-markets",
+    "date": "2026-11-06",
+    "displayDate": "November 6, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The sources provide specific data on various global indices as of November 6, 2026. The S&P 500 is at 7,612.09, down 49.69 points (0.66%). The Nikkei 225 is at ",
+    "excerpt": "The sources provide specific data on various global indices as of November 6, 2026. The S&P 500 is at 7,612.09, down 49.69 points (0.66%). The Nikkei 225 is at 63,081.86, down 208.25 points (0.33%). The Hang Seng Index is at 23,525.97, up 132.64 points (0.57%). The DAX Index is at 25,860.00, down 31",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Global Indices - Tracking the World's Markets"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "global-market-indices-international-markets-markets-insider",
+    "type": "news",
+    "title": "Global Market Indices | International Markets | Markets Insider",
+    "slug": "global-market-indices-international-markets-markets-insider",
+    "date": "2026-11-06",
+    "displayDate": "November 6, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The sources provide the following information on global market indices as of 2026-11-06: The US Dollar Index (DXY) is at 101.56, up by 0.07% from the previous c",
+    "excerpt": "The sources provide the following information on global market indices as of 2026-11-06: The US Dollar Index (DXY) is at 101.56, up by 0.07% from the previous close. The FTSE 100 in Great Britain is at 10,829.21, up by 1.79% from the previous close. The IBEX 35 in Spain is at 19,370.90, up by 3% fro",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Global Market Indices | International Markets | Markets Insider"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "global-stock-market-news-and-world-indices-coverage",
+    "type": "news",
+    "title": "Global Stock Market News and World Indices Coverage",
+    "slug": "global-stock-market-news-and-world-indices-coverage",
+    "date": "2026-11-06",
+    "displayDate": "November 6, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The provided sources do not contain current information for today's date, November 6, 2026. The most recent data available is from May 2026, covering various Eu",
+    "excerpt": "The provided sources do not contain current information for today's date, November 6, 2026. The most recent data available is from May 2026, covering various European and Asia-Pacific market movements, including European stocks' volatility due to Iran's demands, and Asia-Pacific markets trading high",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Global Stock Market News and World Indices Coverage"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "health-technology-sector-companies-performance-and-stocks-usa-tradingview",
+    "type": "news",
+    "title": "Health Technology Sector: Companies, Performance and Stocks — USA — TradingView",
+    "slug": "health-technology-sector-companies-performance-and-stocks-usa-tradingview",
+    "date": "2026-11-06",
+    "displayDate": "November 6, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Health Technology sector on TradingView includes companies like GE HealthCare Technologies Inc. with a market cap of $38.8B USD, a stock price of $85.81 USD",
+    "excerpt": "The Health Technology sector on TradingView includes companies like GE HealthCare Technologies Inc. with a market cap of $38.8B USD, a stock price of $85.81 USD, and a 6.38% increase; Alcon Inc. with a market cap of $38.63B USD, a stock price of $77.31 USD, and a 6.83% increase; Haleon plc DR with a",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Health Technology Sector: Companies, Performance and Stocks — USA — TradingView"
+    },
+    "readingTime": 5
+  },
+  {
+    "id": "inflation-consumer-prices-for-the-united-states-fpcpitotlzgusa-fred-st-louis-fed",
+    "type": "news",
+    "title": "Inflation, consumer prices for the United States (FPCPITOTLZGUSA) | FRED | St. Louis Fed",
+    "slug": "inflation-consumer-prices-for-the-united-states-fpcpitotlzgusa-fred-st-louis-fed",
+    "date": "2026-11-06",
+    "displayDate": "November 6, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The most recent data for Inflation, consumer prices for the United States (FPCPITOTLZGUSA) on FRED is from 2024, showing a rate of 2.94953 percent, not seasonal",
+    "excerpt": "The most recent data for Inflation, consumer prices for the United States (FPCPITOTLZGUSA) on FRED is from 2024, showing a rate of 2.94953 percent, not seasonally adjusted, and the next release date is not available. The Consumer Price Index for All Urban Consumers: All Items in U.S. City Average (C",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Inflation, consumer prices for the United States (FPCPITOTLZGUSA) | FRED | St. Louis Fed"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "investment-strategies-for-today-and-long-term-blackrock",
+    "type": "news",
+    "title": "Investment strategies for today and long-term | BlackRock",
+    "slug": "investment-strategies-for-today-and-long-term-blackrock",
+    "date": "2026-11-06",
+    "displayDate": "November 6, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "BlackRock's top investment strategies for today's market are highlighted on their website, emphasizing curated offerings to help clients pursue their goals. The",
+    "excerpt": "BlackRock's top investment strategies for today's market are highlighted on their website, emphasizing curated offerings to help clients pursue their goals. The Yahoo Finance articles detail BlackRock's sector equity closed-end funds, which have specific investment objectives like providing total re",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Investment strategies for today and long-term | BlackRock"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "sector-views-monthly-stock-sector-outlook",
+    "type": "news",
+    "title": "Sector Views: Monthly Stock Sector Outlook",
+    "slug": "sector-views-monthly-stock-sector-outlook",
+    "date": "2026-11-06",
+    "displayDate": "November 6, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The sources provide the following monthly stock sector outlook: Health Care is projected at 9.3, 25.4, 24.9, 33.3, and 60.5; Industrials at 8.0, -4.1, 7.6, 16.6",
+    "excerpt": "The sources provide the following monthly stock sector outlook: Health Care is projected at 9.3, 25.4, 24.9, 33.3, and 60.5; Industrials at 8.0, -4.1, 7.6, 16.6, and 37.7; Information Technology at 39.7, 12.6, 19.7, 56.6, and 76.6; Materials at 1.7, -0.8, 16.5, 39.9, and 75.9; Real Estate at 1.7, -1",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Sector Views: Monthly Stock Sector Outlook"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "stock-market-outlook-today-amp-tomorrow-market-outlook-amp-forecast-seeking-alph",
+    "type": "news",
+    "title": "Stock Market Outlook Today &amp; Tomorrow | Market Outlook &amp; Forecast | Seeking Alpha",
+    "slug": "stock-market-outlook-today-amp-tomorrow-market-outlook-amp-forecast-seeking-alph",
+    "date": "2026-11-06",
+    "displayDate": "November 6, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The sources do not provide specific details about the stock market outlook for today and tomorrow. However, they mention that AMP reports record global revenues",
+    "excerpt": "The sources do not provide specific details about the stock market outlook for today and tomorrow. However, they mention that AMP reports record global revenues and an optimistic 2024 outlook, with strong performances in North America, Europe, and Brazil. The company acknowledges a tough March compa",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Stock Market Outlook Today &amp; Tomorrow | Market Outlook &amp; Forecast | Seeking Alpha"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "stock-market-outlook-wall-street-divided-on-bull-and-bear-predictions-markets-in",
+    "type": "news",
+    "title": "Stock Market Outlook: Wall Street Divided on Bull and Bear Predictions - Markets Insider",
+    "slug": "stock-market-outlook-wall-street-divided-on-bull-and-bear-predictions-markets-in",
+    "date": "2026-11-06",
+    "displayDate": "November 6, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Strategists at UBS increased their S&P 500 price targets, expecting the S&P 500 to hit 6,300 by June 2025 and 6,600 at the end of next year, representing potent",
+    "excerpt": "Strategists at UBS increased their S&P 500 price targets, expecting the S&P 500 to hit 6,300 by June 2025 and 6,600 at the end of next year, representing potential upside of 8% and 13%. UBS's head of US equities David Lefkowitz said \"healthy\" earnings growth would pave the way for further stock gain",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Stock Market Outlook: Wall Street Divided on Bull and Bear Predictions - Markets Insider"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "stock-market-sector-performance-today-stocktitan",
+    "type": "news",
+    "title": "Stock Market Sector Performance Today | StockTitan",
+    "slug": "stock-market-sector-performance-today-stocktitan",
+    "date": "2026-11-06",
+    "displayDate": "November 6, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "According to StockTitan, today's stock market sector performance shows Materials down -2.13%, Real Estate up +2.45%, Utilities down -0.79%, SPY S&P 500 ETF down",
+    "excerpt": "According to StockTitan, today's stock market sector performance shows Materials down -2.13%, Real Estate up +2.45%, Utilities down -0.79%, SPY S&P 500 ETF down -4.41%, Energy up +36.17%, Financials up +10.25%, Health Care up +24.20%, Industrials down -5.22%, and Information Technology down -7.57%. ",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Stock Market Sector Performance Today | StockTitan"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "the-best-7-000-tfsa-investments-for-current-market-conditions",
+    "type": "news",
+    "title": "The Best $7,000 TFSA Investments for Current Market Conditions",
+    "slug": "the-best-7-000-tfsa-investments-for-current-market-conditions",
+    "date": "2026-11-06",
+    "displayDate": "November 6, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "For a $7,000 TFSA contribution, the sources suggest considering well-managed companies with long-term growth potential like Constellation Software and goeasy, e",
+    "excerpt": "For a $7,000 TFSA contribution, the sources suggest considering well-managed companies with long-term growth potential like Constellation Software and goeasy, especially if you have a high tolerance for volatility and a long investment horizon. For risk-averse investors, high-interest savings accoun",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "The Best $7,000 TFSA Investments for Current Market Conditions"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "the-best-investment-strategies-for-the-continuous-market-investing-com",
+    "type": "news",
+    "title": "The Best Investment Strategies For The Continuous Market - Investing.com",
+    "slug": "the-best-investment-strategies-for-the-continuous-market-investing-com",
+    "date": "2026-11-06",
+    "displayDate": "November 6, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The best investment strategies for the continuous market include investing in growing and innovative companies, particularly in startups and technology sectors,",
+    "excerpt": "The best investment strategies for the continuous market include investing in growing and innovative companies, particularly in startups and technology sectors, and those that reinvest profits for growth rather than distributing dividends. In a continuous market, minimizing losses by exiting unprofi",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "The Best Investment Strategies For The Continuous Market - Investing.com"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "the-fed-federal-open-market-committee",
+    "type": "news",
+    "title": "The Fed - Federal Open Market Committee",
+    "slug": "the-fed-federal-open-market-committee",
+    "date": "2026-11-06",
+    "displayDate": "November 6, 2026",
+    "category": "Fed Policy",
+    "tags": [
+      "fed policy",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Federal Open Market Committee (FOMC) is a committee within the Federal Reserve System responsible for overseeing the nation's open market operations and mak",
+    "excerpt": "The Federal Open Market Committee (FOMC) is a committee within the Federal Reserve System responsible for overseeing the nation's open market operations and making key decisions about interest rates and the growth of the United States money supply. It consists of twelve members: the seven members of",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "The Fed - Federal Open Market Committee"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "tom-lee-issues-dire-warning-for-anyone-holding-ethereum-crypto",
+    "type": "news",
+    "title": "Tom Lee Issues DIRE WARNING for Anyone Holding Ethereum & Crypto",
+    "slug": "tom-lee-issues-dire-warning-for-anyone-holding-ethereum-crypto",
+    "date": "2026-11-06",
+    "displayDate": "November 6, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Tom Lee, chairman of Bitmine Immersion Technologies, has warned of a selloff in Ethereum as South Korea's stock market crash reverberates around the world. He p",
+    "excerpt": "Tom Lee, chairman of Bitmine Immersion Technologies, has warned of a selloff in Ethereum as South Korea's stock market crash reverberates around the world. He pointed to the country's high participation in crypto and warned that brokerage margin liquidations could create additional selling pressure ",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Tom Lee Issues DIRE WARNING for Anyone Holding Ethereum & Crypto"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "united-states-economy-at-a-glance",
+    "type": "news",
+    "title": "United States Economy at a Glance",
+    "slug": "united-states-economy-at-a-glance",
+    "date": "2026-11-06",
+    "displayDate": "November 6, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "According to the U.S. Bureau of Economic Analysis (BEA), real gross domestic product (GDP) increased at an annual rate of 2.2 percent in the second quarter of 2",
+    "excerpt": "According to the U.S. Bureau of Economic Analysis (BEA), real gross domestic product (GDP) increased at an annual rate of 2.2 percent in the second quarter of 2026, driven by consumer spending, investment, and exports. The U.S. goods and services trade deficit increased from $92.8 billion in July to",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "United States Economy at a Glance"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "united-states-indicators",
+    "type": "news",
+    "title": "United States Indicators",
+    "slug": "united-states-indicators",
+    "date": "2026-11-06",
+    "displayDate": "November 6, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The United States indicators show a mixed economic picture as of September 2026. Industrial Production increased by 0.7% month-over-month, while Manufacturing P",
+    "excerpt": "The United States indicators show a mixed economic picture as of September 2026. Industrial Production increased by 0.7% month-over-month, while Manufacturing Production rose by 1.1%. Capacity Utilization stood at 76.9%, up from 76.4% the previous month. Durable Goods Orders were flat in August, but",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "United States Indicators"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "united-states-inflation-rate",
+    "type": "news",
+    "title": "United States Inflation Rate",
+    "slug": "united-states-inflation-rate",
+    "date": "2026-11-06",
+    "displayDate": "November 6, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The United States Inflation Rate increased to 3.70 percent in September from 3.40 percent in August of 2026, according to Trading Economics and U.S. Labor Depar",
+    "excerpt": "The United States Inflation Rate increased to 3.70 percent in September from 3.40 percent in August of 2026, according to Trading Economics and U.S. Labor Department data. The core inflation rate, excluding food and energy, was 2.4% in August 2026. The annual inflation rate was 3.7% for the 12 month",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "United States Inflation Rate"
+    },
+    "readingTime": 5
+  },
+  {
+    "id": "us-inflation-rate-2026-today-s-latest-cpi-update-and-inflation-data-amtrak-daily",
+    "type": "news",
+    "title": "US Inflation Rate 2026: Today’s Latest CPI Update and Inflation Data - Amtrak Daily Long Distance Service Study",
+    "slug": "us-inflation-rate-2026-today-s-latest-cpi-update-and-inflation-data-amtrak-daily",
+    "date": "2026-11-06",
+    "displayDate": "November 6, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The US annual inflation rate accelerated to 3.7% in September 2026, up from 3.4% in each of the previous two months, driven by higher energy prices. Gasoline ro",
+    "excerpt": "The US annual inflation rate accelerated to 3.7% in September 2026, up from 3.4% in each of the previous two months, driven by higher energy prices. Gasoline rose 34.2% yoy, and fuel oil prices increased 74.2%. Shelter inflation also accelerated to 3.2% from 3%, while food inflation slowed to 2.5% f",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "US Inflation Rate 2026: Today’s Latest CPI Update and Inflation Data - Amtrak Daily Long Distance Service Study"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "weekly-trader-s-outlook",
+    "type": "news",
+    "title": "Weekly Trader's Outlook",
+    "slug": "weekly-trader-s-outlook",
+    "date": "2026-11-06",
+    "displayDate": "November 6, 2026",
+    "category": "Market Analysis",
+    "tags": [
+      "market analysis",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The sources indicate that markets experienced volatility this week, with the Philadelphia Semiconductor Index (SOX) testing support at the 200-day simple moving",
+    "excerpt": "The sources indicate that markets experienced volatility this week, with the Philadelphia Semiconductor Index (SOX) testing support at the 200-day simple moving average. The S&P 500 companies reported strong earnings, with 61% beating on the top line and 82% on the bottom line, and year-over-year re",
+    "image": {
+      "src": "/images/article_thumb_3.jpg",
+      "alt": "Weekly Trader's Outlook"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "all-the-news-today-on-nvidia-stock-ahead-of-hyperscale-earnings-nvda-update",
     "type": "news",
     "title": "All The News Today On NVIDIA Stock Ahead of Hyperscale Earnings - NVDA Update",
@@ -101,48 +710,6 @@
     "image": {
       "src": "/images/article_thumb_4.jpg",
       "alt": "Big Tech companies report earnings: What to know this week"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "coindesk-bitcoin-ethereum-xrp-crypto-news-and-price-data",
-    "type": "news",
-    "title": "CoinDesk: Bitcoin, Ethereum, XRP, Crypto News and Price Data",
-    "slug": "coindesk-bitcoin-ethereum-xrp-crypto-news-and-price-data",
-    "date": "2026-11-05",
-    "displayDate": "November 5, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "On November 5, 2026, the prices for cryptocurrencies on CoinDesk are as follows: Bitcoin (BTC) is priced at $76,707.20, down 5.04 percent; Ethereum (ETH) is pri",
-    "excerpt": "On November 5, 2026, the prices for cryptocurrencies on CoinDesk are as follows: Bitcoin (BTC) is priced at $76,707.20, down 5.04 percent; Ethereum (ETH) is priced at $2,223.93, down 4.51 percent; XRP is priced at $1.24, down 3.68 percent; Solana (SOL) is priced at $93.81, down 6.70 percent; and Hyp",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "CoinDesk: Bitcoin, Ethereum, XRP, Crypto News and Price Data"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "company-earnings-calendar-yahoo-finance",
-    "type": "news",
-    "title": "Company Earnings Calendar - Yahoo Finance",
-    "slug": "company-earnings-calendar-yahoo-finance",
-    "date": "2026-11-05",
-    "displayDate": "November 5, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The sources provide details on upcoming earnings announcements for several companies listed on Yahoo Finance's earnings calendar. Companies such as Arm Holdings",
-    "excerpt": "The sources provide details on upcoming earnings announcements for several companies listed on Yahoo Finance's earnings calendar. Companies such as Arm Holdings plc, McDonald's Corporation, Novo Nordisk A/S, and QUALCOMM Incorporated are scheduled to announce their earnings in the near future. Speci",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Company Earnings Calendar - Yahoo Finance"
     },
     "readingTime": 4
   },
@@ -273,48 +840,6 @@
     "readingTime": 3
   },
   {
-    "id": "earnings-whispers-earnings-calendar-november-5-2026",
-    "type": "news",
-    "title": "Earnings Whispers | Earnings Calendar: November 5, 2026",
-    "slug": "earnings-whispers-earnings-calendar-november-5-2026",
-    "date": "2026-11-05",
-    "displayDate": "November 5, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "On Thursday, November 5, 2026, 662 companies are scheduled to report earnings, with 316 before the market open and 346 after the close. The most anticipated ear",
-    "excerpt": "On Thursday, November 5, 2026, 662 companies are scheduled to report earnings, with 316 before the market open and 346 after the close. The most anticipated earnings releases before the open include DIBS, CELH, U, CAH, CI, EOSE, CORZ, IOVA, CG, and COP. After the close, notable companies reporting i",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Earnings Whispers | Earnings Calendar: November 5, 2026"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "earnings",
-    "type": "news",
-    "title": "Earnings",
-    "slug": "earnings",
-    "date": "2026-11-05",
-    "displayDate": "November 5, 2026",
-    "category": "Company News",
-    "tags": [
-      "company news",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The sources indicate that several companies have reported their earnings recently. Chevron and Exxon hit all-time highs due to soaring refining profits amid geo",
-    "excerpt": "The sources indicate that several companies have reported their earnings recently. Chevron and Exxon hit all-time highs due to soaring refining profits amid geopolitical tensions. Coinbase saw a 66% surge in net income in the third quarter, benefiting from bitcoin investment gains. Amazon AWS experi",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Earnings"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "economic-calendar-investing-com",
     "type": "news",
     "title": "Economic Calendar - Investing.com",
@@ -378,27 +903,6 @@
     "readingTime": 5
   },
   {
-    "id": "ethereum-price-eth-usd-live-price-chart-market-cap-news-today-coingecko",
-    "type": "news",
-    "title": "Ethereum Price: ETH/USD Live Price Chart, Market Cap & News Today | CoinGecko",
-    "slug": "ethereum-price-eth-usd-live-price-chart-market-cap-news-today-coingecko",
-    "date": "2026-11-05",
-    "displayDate": "November 5, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The live Ethereum price today is $2,418.08 USD according to CoinMarketCap, with a 24-hour trading volume of $15,406,498,999 USD. CoinGecko reports Ethereum's ma",
-    "excerpt": "The live Ethereum price today is $2,418.08 USD according to CoinMarketCap, with a 24-hour trading volume of $15,406,498,999 USD. CoinGecko reports Ethereum's market capitalization as $295,821,156,163 and fully diluted valuation as $296.076B. Another CoinGecko source lists the market cap at $293,877,",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Ethereum Price: ETH/USD Live Price Chart, Market Cap & News Today | CoinGecko"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "ethereum-price-today-eth-to-usd-live-price-marketcap-and-chart-coinmarketcap",
     "type": "news",
     "title": "Ethereum price today, ETH to USD live price, marketcap and chart | CoinMarketCap",
@@ -441,27 +945,6 @@
     "readingTime": 4
   },
   {
-    "id": "federal-open-market-committee-wikipedia",
-    "type": "news",
-    "title": "Federal Open Market Committee - Wikipedia",
-    "slug": "federal-open-market-committee-wikipedia",
-    "date": "2026-11-05",
-    "displayDate": "November 5, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Open Market Committee (FOMC) is a U.S. body that sets national monetary policy, consisting of twelve members—the seven members of the Board of Gover",
-    "excerpt": "The Federal Open Market Committee (FOMC) is a U.S. body that sets national monetary policy, consisting of twelve members—the seven members of the Board of Governors of the Federal Reserve System, the president of the Federal Reserve Bank of New York, and four of the remaining eleven District Reserve",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Federal Open Market Committee - Wikipedia"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "federal-reserve-between-a-rock-and-a-hard-place-as-interest-rate-decision-looms",
     "type": "news",
     "title": "Federal Reserve 'between a rock and a hard place' as interest rate decision looms",
@@ -481,27 +964,6 @@
       "alt": "Federal Reserve 'between a rock and a hard place' as interest rate decision looms"
     },
     "readingTime": 3
-  },
-  {
-    "id": "federal-reserve-board-monetary-policy",
-    "type": "news",
-    "title": "Federal Reserve Board - Monetary Policy",
-    "slug": "federal-reserve-board-monetary-policy",
-    "date": "2026-11-05",
-    "displayDate": "November 5, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Monetary policy in the United States is the Federal Reserve's actions and communications to promote maximum employment, stable prices, and moderate long-term in",
-    "excerpt": "Monetary policy in the United States is the Federal Reserve's actions and communications to promote maximum employment, stable prices, and moderate long-term interest rates. The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Federal Reserve Board - Monetary Policy"
-    },
-    "readingTime": 4
   },
   {
     "id": "federal-reserve-opts-to-leave-rates-unchanged",
@@ -546,69 +1008,6 @@
     "readingTime": 4
   },
   {
-    "id": "global-indices-tracking-the-world-s-markets",
-    "type": "news",
-    "title": "Global Indices - Tracking the World's Markets",
-    "slug": "global-indices-tracking-the-world-s-markets",
-    "date": "2026-11-05",
-    "displayDate": "November 5, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "On November 3, 2026, the S&P 500 was at 7,612.09, up 49.69 points (0.66%). The Nikkei 225 closed at 63,081.86, down 208.25 points (0.33%). The Hang Seng Index w",
-    "excerpt": "On November 3, 2026, the S&P 500 was at 7,612.09, up 49.69 points (0.66%). The Nikkei 225 closed at 63,081.86, down 208.25 points (0.33%). The Hang Seng Index was at 23,525.97, up 132.64 points (0.57%). The DAX Index stood at 25,860.00, down 31.50 points (0.12%). The FTSE 100 was at 10,650.98, down ",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Global Indices - Tracking the World's Markets"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "global-market-indices-international-markets-markets-insider",
-    "type": "news",
-    "title": "Global Market Indices | International Markets | Markets Insider",
-    "slug": "global-market-indices-international-markets-markets-insider",
-    "date": "2026-11-05",
-    "displayDate": "November 5, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "On 11/3/2026, the Hang Seng in Hong Kong was at 23,525.97, up 132.65 or 0.57% from 23,393.32, the NIKKEI 225 in Japan was at 63,194.41, down 95.7 or -0.15% from",
-    "excerpt": "On 11/3/2026, the Hang Seng in Hong Kong was at 23,525.97, up 132.65 or 0.57% from 23,393.32, the NIKKEI 225 in Japan was at 63,194.41, down 95.7 or -0.15% from 63,290.11, and the NASDAQ Composite in the USA was at 25,437.00, down 747.73 or -2.86% from 26,184.72. The US Dollar Index was at 101.90, d",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Global Market Indices | International Markets | Markets Insider"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "global-stock-market-news-and-world-indices-coverage",
-    "type": "news",
-    "title": "Global Stock Market News and World Indices Coverage",
-    "slug": "global-stock-market-news-and-world-indices-coverage",
-    "date": "2026-11-05",
-    "displayDate": "November 5, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The sources provide information on global stock market indices as of November 3, 2026. The S&P 500 closed at 7,612.09, down 49.69 points (0.66%). The Nikkei 225",
-    "excerpt": "The sources provide information on global stock market indices as of November 3, 2026. The S&P 500 closed at 7,612.09, down 49.69 points (0.66%). The Nikkei 225 closed at 63,081.86, down 208.25 points (0.33%). The Hang Seng closed at 23,525.97, up 132.64 points (0.57%). The DAX closed at 25,860.00, ",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Global Stock Market News and World Indices Coverage"
-    },
-    "readingTime": 5
-  },
-  {
     "id": "health-care-sector-industry-performance-bloomberg",
     "type": "news",
     "title": "Health Care Sector & Industry Performance - Bloomberg",
@@ -628,27 +1027,6 @@
       "alt": "Health Care Sector & Industry Performance - Bloomberg"
     },
     "readingTime": 4
-  },
-  {
-    "id": "health-technology-sector-companies-performance-and-stocks-usa-tradingview",
-    "type": "news",
-    "title": "Health Technology Sector: Companies, Performance and Stocks — USA — TradingView",
-    "slug": "health-technology-sector-companies-performance-and-stocks-usa-tradingview",
-    "date": "2026-11-05",
-    "displayDate": "November 5, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Health Technology Sector on TradingView includes companies like GE HealthCare Technologies Inc. with a market cap of $38.8B USD, a stock price of $85.81 USD",
-    "excerpt": "The Health Technology Sector on TradingView includes companies like GE HealthCare Technologies Inc. with a market cap of $38.8B USD, a stock price of $85.81 USD, and a 6.38% increase; Alcon Inc. with $38.63B USD market cap, $77.31 USD stock price, and a 6.83% increase; Haleon plc DR with $38.39B USD",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Health Technology Sector: Companies, Performance and Stocks — USA — TradingView"
-    },
-    "readingTime": 5
   },
   {
     "id": "how-should-i-allocate-my-portfolio-in-2026",
@@ -693,27 +1071,6 @@
     "readingTime": 3
   },
   {
-    "id": "inflation-consumer-prices-for-the-united-states-fpcpitotlzgusa-fred-st-louis-fed",
-    "type": "news",
-    "title": "Inflation, consumer prices for the United States (FPCPITOTLZGUSA) | FRED | St. Louis Fed",
-    "slug": "inflation-consumer-prices-for-the-united-states-fpcpitotlzgusa-fred-st-louis-fed",
-    "date": "2026-11-05",
-    "displayDate": "November 5, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The latest available data for Inflation, consumer prices for the United States (FPCPITOTLZGUSA) on FRED, Federal Reserve Bank of St. Louis, shows an annual rate",
-    "excerpt": "The latest available data for Inflation, consumer prices for the United States (FPCPITOTLZGUSA) on FRED, Federal Reserve Bank of St. Louis, shows an annual rate of 2.94953 percent for 2024, not seasonally adjusted. The data is updated as of October 13, 2026, 6:41 PM CDT, but the next release date is",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Inflation, consumer prices for the United States (FPCPITOTLZGUSA) | FRED | St. Louis Fed"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "investment-strategies-finra-org",
     "type": "news",
     "title": "Investment Strategies | FINRA.org",
@@ -733,27 +1090,6 @@
       "alt": "Investment Strategies | FINRA.org"
     },
     "readingTime": 3
-  },
-  {
-    "id": "investment-strategies-for-today-and-long-term-blackrock",
-    "type": "news",
-    "title": "Investment strategies for today and long-term | BlackRock",
-    "slug": "investment-strategies-for-today-and-long-term-blackrock",
-    "date": "2026-11-05",
-    "displayDate": "November 5, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "BlackRock's investment strategies for today and long-term include leveraging scale and innovation in asset management, ETFs, and financial technology. The firm'",
-    "excerpt": "BlackRock's investment strategies for today and long-term include leveraging scale and innovation in asset management, ETFs, and financial technology. The firm's top investment strategies focus on after-tax returns, portfolio allocations, and private markets. BlackRock's products include iShares ETF",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Investment strategies for today and long-term | BlackRock"
-    },
-    "readingTime": 4
   },
   {
     "id": "investment-strategy-2026-portfolio-moves-for-a-changing-market",
@@ -945,69 +1281,6 @@
     "readingTime": 5
   },
   {
-    "id": "sector-views-monthly-stock-sector-outlook",
-    "type": "news",
-    "title": "Sector Views: Monthly Stock Sector Outlook",
-    "slug": "sector-views-monthly-stock-sector-outlook",
-    "date": "2026-11-05",
-    "displayDate": "November 5, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The sources indicate that the Schwab Center for Financial Research provides a six- to 12-month outlook for stock sectors, known as Schwab Sector Views. This out",
-    "excerpt": "The sources indicate that the Schwab Center for Financial Research provides a six- to 12-month outlook for stock sectors, known as Schwab Sector Views. This outlook combines a factor-based approach with a market and economic assessment to determine ratings on the 11 S&P 500 equity sectors. The views",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Sector Views: Monthly Stock Sector Outlook"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "stock-market-outlook-wall-street-divided-on-bull-and-bear-predictions-markets-in",
-    "type": "news",
-    "title": "Stock Market Outlook: Wall Street Divided on Bull and Bear Predictions - Markets Insider",
-    "slug": "stock-market-outlook-wall-street-divided-on-bull-and-bear-predictions-markets-in",
-    "date": "2026-11-05",
-    "displayDate": "November 5, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The sources indicate that Wall Street analysts are divided on the stock market outlook, with some strategists like those at UBS and Oppenheimer's John Stoltzfus",
-    "excerpt": "The sources indicate that Wall Street analysts are divided on the stock market outlook, with some strategists like those at UBS and Oppenheimer's John Stoltzfus being bullish, expecting significant gains in the S&P 500. UBS raised its price targets to 6,300 by June 2025 and 6,600 by the end of the f",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Stock Market Outlook: Wall Street Divided on Bull and Bear Predictions - Markets Insider"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "stock-market-sector-performance-today-stocktitan",
-    "type": "news",
-    "title": "Stock Market Sector Performance Today | StockTitan",
-    "slug": "stock-market-sector-performance-today-stocktitan",
-    "date": "2026-11-05",
-    "displayDate": "November 5, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Today's stock market sector performance shows Industrials leading with a +2.40% increase, followed by Information Technology with +1.67%. Financials are up by +",
-    "excerpt": "Today's stock market sector performance shows Industrials leading with a +2.40% increase, followed by Information Technology with +1.67%. Financials are up by +0.74%, while Utilities and Energy sectors have modest gains of +0.37% and +0.33% respectively. Consumer Discretionary, Materials, Health Car",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Stock Market Sector Performance Today | StockTitan"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "technology-news",
     "type": "news",
     "title": "Technology News",
@@ -1050,27 +1323,6 @@
     "readingTime": 3
   },
   {
-    "id": "the-fed-federal-open-market-committee",
-    "type": "news",
-    "title": "The Fed - Federal Open Market Committee",
-    "slug": "the-fed-federal-open-market-committee",
-    "date": "2026-11-05",
-    "displayDate": "November 5, 2026",
-    "category": "Fed Policy",
-    "tags": [
-      "fed policy",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Federal Open Market Committee (FOMC) is a committee within the Federal Reserve System that oversees the nation's open market operations and makes key decisi",
-    "excerpt": "The Federal Open Market Committee (FOMC) is a committee within the Federal Reserve System that oversees the nation's open market operations and makes key decisions about interest rates and the growth of the United States money supply. The FOMC consists of twelve members: the seven members of the Boa",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "The Fed - Federal Open Market Committee"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "these-4-stocks-report-quarterly-results-next-week-what-we-hope-to-see",
     "type": "news",
     "title": "These 4 stocks report quarterly results next week. What we hope to see",
@@ -1092,27 +1344,6 @@
     "readingTime": 5
   },
   {
-    "id": "tom-lee-issues-dire-warning-for-anyone-holding-ethereum-crypto",
-    "type": "news",
-    "title": "Tom Lee Issues DIRE WARNING for Anyone Holding Ethereum & Crypto",
-    "slug": "tom-lee-issues-dire-warning-for-anyone-holding-ethereum-crypto",
-    "date": "2026-11-05",
-    "displayDate": "November 5, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Tom Lee, co-founder of Fundstrat and top Ethereum bull, issued a bearish warning about Ethereum, linking it to the dramatic stock market drop in South Korea. Ac",
-    "excerpt": "Tom Lee, co-founder of Fundstrat and top Ethereum bull, issued a bearish warning about Ethereum, linking it to the dramatic stock market drop in South Korea. According to his latest post on X, Lee expressed serious concern about South Korean brokerages' margin liquidations and the potential negative",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Tom Lee Issues DIRE WARNING for Anyone Holding Ethereum & Crypto"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "united-states-federal-reserve-interest-rate-decision",
     "type": "news",
     "title": "United States Federal Reserve Interest Rate Decision",
@@ -1132,48 +1363,6 @@
       "alt": "United States Federal Reserve Interest Rate Decision"
     },
     "readingTime": 5
-  },
-  {
-    "id": "united-states-inflation-rate",
-    "type": "news",
-    "title": "United States Inflation Rate",
-    "slug": "united-states-inflation-rate",
-    "date": "2026-11-05",
-    "displayDate": "November 5, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The United States Inflation Rate increased to 3.70 percent in September from 3.40 percent in August of 2026, according to Trading Economics and U.S. Labor Depar",
-    "excerpt": "The United States Inflation Rate increased to 3.70 percent in September from 3.40 percent in August of 2026, according to Trading Economics and U.S. Labor Department data. This rise was driven by higher energy prices, with gasoline prices rising 34.2% year-over-year and fuel oil prices increasing 74",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "United States Inflation Rate"
-    },
-    "readingTime": 5
-  },
-  {
-    "id": "us-inflation-rate-2026-today-s-latest-cpi-update-and-inflation-data-amtrak-daily",
-    "type": "news",
-    "title": "US Inflation Rate 2026: Today’s Latest CPI Update and Inflation Data - Amtrak Daily Long Distance Service Study",
-    "slug": "us-inflation-rate-2026-today-s-latest-cpi-update-and-inflation-data-amtrak-daily",
-    "date": "2026-11-05",
-    "displayDate": "November 5, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "According to the Amtrak Daily Long Distance Service Study, the latest U.S. inflation figures show a 0.4% increase in the Consumer Price Index (CPI) in August 20",
-    "excerpt": "According to the Amtrak Daily Long Distance Service Study, the latest U.S. inflation figures show a 0.4% increase in the Consumer Price Index (CPI) in August 2026, resulting in a 3.4% annual inflation rate, unchanged from July. The Bureau of Labor Statistics also reported a 3.7% annual inflation rat",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "US Inflation Rate 2026: Today’s Latest CPI Update and Inflation Data - Amtrak Daily Long Distance Service Study"
-    },
-    "readingTime": 4
   },
   {
     "id": "wall-street-2016-stock-market-outlook-business-insider",
@@ -1323,27 +1512,6 @@
     "readingTime": 3
   },
   {
-    "id": "2026-u-s-economic-calendar-cpi-jobs-pce-fed-dates-fedratecalc",
-    "type": "news",
-    "title": "2026 U.S. Economic Calendar: CPI, Jobs, PCE & Fed Dates | FedRateCalc",
-    "slug": "2026-u-s-economic-calendar-cpi-jobs-pce-fed-dates-fedratecalc",
-    "date": "2026-11-04",
-    "displayDate": "November 4, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The sources provide specific dates for key economic events in 2026, including the FOMC Rate Decision on December 9, 2026, Consumer Price Index (CPI) on December",
-    "excerpt": "The sources provide specific dates for key economic events in 2026, including the FOMC Rate Decision on December 9, 2026, Consumer Price Index (CPI) on December 10, Producer Price Index (PPI) on December 15, and Employment Situation (Nonfarm Payrolls) on December 4. For October 2026, the sources hig",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "2026 U.S. Economic Calendar: CPI, Jobs, PCE & Fed Dates | FedRateCalc"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "big-tech-s-ugly-week-getting-rich-at-anthropic-ai-costs-plunge",
     "type": "news",
     "title": "Big Tech's Ugly Week, Getting Rich At Anthropic, AI Costs Plunge",
@@ -1405,27 +1573,6 @@
       "alt": "CBOE Technology Select Sector Index Today (SIXT) - Investing.com"
     },
     "readingTime": 5
-  },
-  {
-    "id": "earnings-calendar-marketwatch",
-    "type": "news",
-    "title": "Earnings Calendar | Marketwatch",
-    "slug": "earnings-calendar-marketwatch",
-    "date": "2026-11-04",
-    "displayDate": "November 4, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "On September 30, 2026, several companies are scheduled to report earnings according to the MarketWatch Earnings Calendar. Companies such as ON Semiconductor Cor",
-    "excerpt": "On September 30, 2026, several companies are scheduled to report earnings according to the MarketWatch Earnings Calendar. Companies such as ON Semiconductor Corp., Ibotta Inc., Tactile Systems Technology Inc., and Herbalife Ltd. are listed with their respective stock symbols and expected earnings ch",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Earnings Calendar | Marketwatch"
-    },
-    "readingTime": 4
   },
   {
     "id": "earnings-calendar-zacks-investment-research",
@@ -1617,27 +1764,6 @@
     "readingTime": 4
   },
   {
-    "id": "stock-market-outlook-today-amp-tomorrow-market-outlook-amp-forecast-seeking-alph",
-    "type": "news",
-    "title": "Stock Market Outlook Today &amp; Tomorrow | Market Outlook &amp; Forecast | Seeking Alpha",
-    "slug": "stock-market-outlook-today-amp-tomorrow-market-outlook-amp-forecast-seeking-alph",
-    "date": "2026-11-04",
-    "displayDate": "November 4, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The sources do not provide specific information about the stock market outlook for today and tomorrow. The content available is dated from April 16 and October ",
-    "excerpt": "The sources do not provide specific information about the stock market outlook for today and tomorrow. The content available is dated from April 16 and October 29, 2026, and focuses on various market sectors, company updates, and economic analyses without addressing the current date of November 4, 2",
-    "image": {
-      "src": "/images/article_thumb_3.jpg",
-      "alt": "Stock Market Outlook Today &amp; Tomorrow | Market Outlook &amp; Forecast | Seeking Alpha"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "stock-market-sector-performance-barchart-com",
     "type": "news",
     "title": "Stock Market & Sector Performance - Barchart.com",
@@ -1678,48 +1804,6 @@
       "alt": "Stock Market Today: S&P 500 upgraded by Citi, UBS"
     },
     "readingTime": 3
-  },
-  {
-    "id": "the-best-7-000-tfsa-investments-for-current-market-conditions",
-    "type": "news",
-    "title": "The Best $7,000 TFSA Investments for Current Market Conditions",
-    "slug": "the-best-7-000-tfsa-investments-for-current-market-conditions",
-    "date": "2026-11-04",
-    "displayDate": "November 4, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "For a $7,000 TFSA contribution, the sources suggest a mix of strategies depending on risk tolerance and investment horizon. For those with a high tolerance for ",
-    "excerpt": "For a $7,000 TFSA contribution, the sources suggest a mix of strategies depending on risk tolerance and investment horizon. For those with a high tolerance for volatility and a long investment horizon, Constellation Software and goeasy are recommended. For a more defensive approach amid economic hea",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "The Best $7,000 TFSA Investments for Current Market Conditions"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "the-best-investment-strategies-for-the-continuous-market-investing-com",
-    "type": "news",
-    "title": "The Best Investment Strategies For The Continuous Market - Investing.com",
-    "slug": "the-best-investment-strategies-for-the-continuous-market-investing-com",
-    "date": "2026-11-04",
-    "displayDate": "November 4, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The sources suggest that investing in growing and innovative companies, particularly startups in technological fields, is a good strategy for a continuous marke",
-    "excerpt": "The sources suggest that investing in growing and innovative companies, particularly startups in technological fields, is a good strategy for a continuous market. They emphasize the importance of minimizing losses by exiting unprofitable trades quickly and allowing winning trades to run with trailin",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "The Best Investment Strategies For The Continuous Market - Investing.com"
-    },
-    "readingTime": 4
   },
   {
     "id": "the-fed-september-15-16-2026-fomc-meeting",
@@ -1781,48 +1865,6 @@
     "image": {
       "src": "/images/article_thumb_3.jpg",
       "alt": "U.S. Bureau of Economic Analysis (BEA)"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "united-states-indicators",
-    "type": "news",
-    "title": "United States Indicators",
-    "slug": "united-states-indicators",
-    "date": "2026-11-04",
-    "displayDate": "November 4, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The United States indicators show a mixed economic picture as of November 4, 2026. Business Confidence stands at 54.5 points, slightly down from 54.6 in the pre",
-    "excerpt": "The United States indicators show a mixed economic picture as of November 4, 2026. Business Confidence stands at 54.5 points, slightly down from 54.6 in the previous month. The Manufacturing PMI is at 55.9 points, up from 53.9, while the Non Manufacturing PMI is at 54.9 points, down from 55.4. The S",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "United States Indicators"
-    },
-    "readingTime": 5
-  },
-  {
-    "id": "weekly-trader-s-outlook",
-    "type": "news",
-    "title": "Weekly Trader's Outlook",
-    "slug": "weekly-trader-s-outlook",
-    "date": "2026-11-04",
-    "displayDate": "November 4, 2026",
-    "category": "Market Analysis",
-    "tags": [
-      "market analysis",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The sources indicate that the stock market experienced volatility driven by AI concerns and Middle East tensions, leading to a \"risk-off\" behavior. The Nasdaq a",
-    "excerpt": "The sources indicate that the stock market experienced volatility driven by AI concerns and Middle East tensions, leading to a \"risk-off\" behavior. The Nasdaq and S&P 500 faced modest weekly losses, with the SPX breadth moving up to 60.12% from 54.60% and the RUT dropping to 47.98% from 45.87%. Ther",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Weekly Trader's Outlook"
     },
     "readingTime": 3
   },
@@ -4681,27 +4723,6 @@
       "alt": "How to Invest in Today’s Market | U.S. Bank"
     },
     "readingTime": 3
-  },
-  {
-    "id": "united-states-economy-at-a-glance",
-    "type": "news",
-    "title": "United States Economy at a Glance",
-    "slug": "united-states-economy-at-a-glance",
-    "date": "2026-10-04",
-    "displayDate": "October 4, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Real gross domestic product (GDP) increased at an annual rate of 2.2 percent in the second quarter of 2026, according to the U.S. Bureau of Economic Analysis (B",
-    "excerpt": "Real gross domestic product (GDP) increased at an annual rate of 2.2 percent in the second quarter of 2026, according to the U.S. Bureau of Economic Analysis (BEA). The U.S. net international investment position was –$22.42 trillion at the end of the second quarter of 2026. The unemployment rate was",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "United States Economy at a Glance"
-    },
-    "readingTime": 5
   },
   {
     "id": "why-international-stocks-2026-are-beating-us-markets",
@@ -11084,27 +11105,6 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "Dow Jones Industrial Average (^DJI) Charts, Data & News"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "earnings-calendar-markets-insider",
-    "type": "news",
-    "title": "Earnings Calendar | Markets Insider",
-    "slug": "earnings-calendar-markets-insider",
-    "date": "2026-07-08",
-    "displayDate": "July 8, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "On July 8, 2026, Industrivaerden AB, Levi's, Pricesmart Inc., Dart Group PLC, Life Corp, and Ministop Co Ltd are scheduled to report their earnings. The earning",
-    "excerpt": "On July 8, 2026, Industrivaerden AB, Levi's, Pricesmart Inc., Dart Group PLC, Life Corp, and Ministop Co Ltd are scheduled to report their earnings. The earnings calendar also includes Auribis Resources Corp Registered Shs and Newbury Pharmaceuticals AB Registered Shs.",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Earnings Calendar | Markets Insider"
     },
     "readingTime": 3
   },
