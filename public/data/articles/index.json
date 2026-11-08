@@ -63,6 +63,27 @@
     "readingTime": 5
   },
   {
+    "id": "asian-pacific-stocks-bloomberg",
+    "type": "news",
+    "title": "Asian Pacific Stocks - Bloomberg",
+    "slug": "asian-pacific-stocks-bloomberg",
+    "date": "2026-11-08",
+    "displayDate": "November 8, 2026",
+    "category": "Global Markets",
+    "tags": [
+      "global markets",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "According to Bloomberg, the Asian Pacific stock indices showed varied performance as of 11:25 PM EDT on November 8, 2026. The Shanghai SE Composite Index (SHCOM",
+    "excerpt": "According to Bloomberg, the Asian Pacific stock indices showed varied performance as of 11:25 PM EDT on November 8, 2026. The Shanghai SE Composite Index (SHCOMP:IND) and Shanghai SE A Share Index (SHASHR:IND) both saw minor increases of 0.04%, while the Shenzhen SE A Share Index (SZASHR:IND) rose b",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Asian Pacific Stocks - Bloomberg"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "asian-stock-market-capital-markets-news-bond-market-news-commodities-news-etfs-n",
     "type": "news",
     "title": "Asian Stock Market: Capital Markets News, Bond Market News, Commodities News, ETFs News",
@@ -168,6 +189,48 @@
     "readingTime": 4
   },
   {
+    "id": "coindesk-bitcoin-ethereum-xrp-crypto-news-and-price-data",
+    "type": "news",
+    "title": "CoinDesk: Bitcoin, Ethereum, XRP, Crypto News and Price Data",
+    "slug": "coindesk-bitcoin-ethereum-xrp-crypto-news-and-price-data",
+    "date": "2026-11-08",
+    "displayDate": "November 8, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "On CoinDesk, the price of Bitcoin (BTC) is $76,619.40, up 0.032 percent; Ethereum (ETH) is $2,254.37, up 0.24 percent; and XRP is $1.25, up 0.42 percent. The so",
+    "excerpt": "On CoinDesk, the price of Bitcoin (BTC) is $76,619.40, up 0.032 percent; Ethereum (ETH) is $2,254.37, up 0.24 percent; and XRP is $1.25, up 0.42 percent. The sources also mention that crypto derivatives trading is growing, with Binance offering the most liquidity for BTC and Bitget for altcoins. Coi",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "CoinDesk: Bitcoin, Ethereum, XRP, Crypto News and Price Data"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "crypto-news",
+    "type": "news",
+    "title": "Crypto News",
+    "slug": "crypto-news",
+    "date": "2026-11-08",
+    "displayDate": "November 8, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "According to crypto.news, Bitcoin is priced at $77,550.00, down 0.49%, Ethereum is priced at $2,277.31, up 0.55%, and XRP is priced at $1.25, down 0.4%. crypton",
+    "excerpt": "According to crypto.news, Bitcoin is priced at $77,550.00, down 0.49%, Ethereum is priced at $2,277.31, up 0.55%, and XRP is priced at $1.25, down 0.4%. cryptonews.com reports Bitcoin at $75,777.76, up 0.08%, Ethereum at $2,233.51, down 0.09%, and XRP at $1.16, down 1.59%. The sources do not provide",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Crypto News"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "earnings-calendar-investing-com",
     "type": "news",
     "title": "Earnings Calendar - Investing.com",
@@ -187,6 +250,27 @@
       "alt": "Earnings Calendar - Investing.com"
     },
     "readingTime": 3
+  },
+  {
+    "id": "earnings-calendar-marketwatch",
+    "type": "news",
+    "title": "Earnings Calendar | Marketwatch",
+    "slug": "earnings-calendar-marketwatch",
+    "date": "2026-11-08",
+    "displayDate": "November 8, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The earnings calendar on MarketWatch lists several companies scheduled to report earnings on September 30, 2026. Among them are ON Semiconductor Corp. with an e",
+    "excerpt": "The earnings calendar on MarketWatch lists several companies scheduled to report earnings on September 30, 2026. Among them are ON Semiconductor Corp. with an earnings surprise of 2.69%, Ibotta Inc. with a significant negative surprise of 97.77%, and Avnet Inc. with a positive surprise of 26.01%. Ot",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Earnings Calendar | Marketwatch"
+    },
+    "readingTime": 4
   },
   {
     "id": "earnings-calendar",
@@ -210,6 +294,27 @@
     "readingTime": 3
   },
   {
+    "id": "earnings-report-calendar-us-stock-market-earnings-calendar",
+    "type": "news",
+    "title": "Earnings Report Calendar | US Stock Market Earnings Calendar",
+    "slug": "earnings-report-calendar-us-stock-market-earnings-calendar",
+    "date": "2026-11-08",
+    "displayDate": "November 8, 2026",
+    "category": "Earnings",
+    "tags": [
+      "earnings",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "On November 8, 2026, the only earnings report scheduled is from RadNet (RDNT). The forecast for RadNet's EPS is 0.22, and the revenue forecast is $639.67 millio",
+    "excerpt": "On November 8, 2026, the only earnings report scheduled is from RadNet (RDNT). The forecast for RadNet's EPS is 0.22, and the revenue forecast is $639.67 million. The market capitalization for RadNet is $5.98 billion. The sources do not provide information on the EPS revisions or revenue surprise pe",
+    "image": {
+      "src": "/images/article_thumb_4.jpg",
+      "alt": "Earnings Report Calendar | US Stock Market Earnings Calendar"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "earnings",
     "type": "news",
     "title": "Earnings",
@@ -231,6 +336,27 @@
     "readingTime": 4
   },
   {
+    "id": "economic-calendar",
+    "type": "news",
+    "title": "Economic Calendar",
+    "slug": "economic-calendar",
+    "date": "2026-11-08",
+    "displayDate": "November 8, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "On November 8, 2026, the Investing.com Economic Calendar lists Japan's Foreign Reserves (USD) for October, with an actual value of -1004, a consensus figure not",
+    "excerpt": "On November 8, 2026, the Investing.com Economic Calendar lists Japan's Foreign Reserves (USD) for October, with an actual value of -1004, a consensus figure not provided, and a previous value of 1,178.4 billion USD. The TradingView Economic Calendar and the Trading Economics page provide details on ",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Economic Calendar"
+    },
+    "readingTime": 3
+  },
+  {
     "id": "economic-sector-performance-dashboards-yahoo-finance",
     "type": "news",
     "title": "Economic Sector Performance Dashboards - Yahoo Finance",
@@ -250,6 +376,27 @@
       "alt": "Economic Sector Performance Dashboards - Yahoo Finance"
     },
     "readingTime": 4
+  },
+  {
+    "id": "ethereum-eth-price-usd-today-news-charts-market-cap-coinbase",
+    "type": "news",
+    "title": "Ethereum (ETH) Price USD Today, News, Charts, Market Cap | Coinbase",
+    "slug": "ethereum-eth-price-usd-today-news-charts-market-cap-coinbase",
+    "date": "2026-11-08",
+    "displayDate": "November 8, 2026",
+    "category": "Crypto",
+    "tags": [
+      "crypto",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The live Ethereum price today is $2,235.23 USD according to CoinMarketCap, with a 24-hour trading volume of $3,802,654,951 USD. Coinbase reports the current mar",
+    "excerpt": "The live Ethereum price today is $2,235.23 USD according to CoinMarketCap, with a 24-hour trading volume of $3,802,654,951 USD. Coinbase reports the current market cap of Ethereum as $273.165B. CoinGecko shows the price of Ethereum at $2,234.63 with a 24-hour trading volume of $3,988,018,596. Ethere",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "Ethereum (ETH) Price USD Today, News, Charts, Market Cap | Coinbase"
+    },
+    "readingTime": 3
   },
   {
     "id": "european-and-asian-stocks-fall-as-ai-fears-mount",
@@ -357,6 +504,48 @@
     "readingTime": 4
   },
   {
+    "id": "health-care-sector-industry-performance-bloomberg",
+    "type": "news",
+    "title": "Health Care Sector & Industry Performance - Bloomberg",
+    "slug": "health-care-sector-industry-performance-bloomberg",
+    "date": "2026-11-08",
+    "displayDate": "November 8, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "According to Bloomberg, the Health Care sector represents 11% of the market with a 0.11% change as of November 6, 2026. Within the Health Care sector, Health Ca",
+    "excerpt": "According to Bloomberg, the Health Care sector represents 11% of the market with a 0.11% change as of November 6, 2026. Within the Health Care sector, Health Care Equipment & Services holds a weight of 32% and has seen a 4.32% change, while Pharmaceuticals, Biotechnology & Life Sciences, weighing 68",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Health Care Sector & Industry Performance - Bloomberg"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "health-technology-sector-companies-performance-and-stocks-usa-tradingview",
+    "type": "news",
+    "title": "Health Technology Sector: Companies, Performance and Stocks — USA — TradingView",
+    "slug": "health-technology-sector-companies-performance-and-stocks-usa-tradingview",
+    "date": "2026-11-08",
+    "displayDate": "November 8, 2026",
+    "category": "Sector Performance",
+    "tags": [
+      "sector performance",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The Health Technology Sector on TradingView includes companies such as Repligen Corporation, BioMarin Pharmaceutical Inc., Avantor, Inc., Qiagen N.V., Thermo Fi",
+    "excerpt": "The Health Technology Sector on TradingView includes companies such as Repligen Corporation, BioMarin Pharmaceutical Inc., Avantor, Inc., Qiagen N.V., Thermo Fisher Scientific Inc, Amgen Inc., Gilead Sciences, Inc., Abbott Laboratories, Stryker Corporation, Sanofi DR, GSK plc DR, and Moderna, Inc. T",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Health Technology Sector: Companies, Performance and Stocks — USA — TradingView"
+    },
+    "readingTime": 5
+  },
+  {
     "id": "inflation-consumer-prices-for-the-united-states-fpcpitotlzgusa-fred-st-louis-fed",
     "type": "news",
     "title": "Inflation, consumer prices for the United States (FPCPITOTLZGUSA) | FRED | St. Louis Fed",
@@ -378,6 +567,48 @@
     "readingTime": 4
   },
   {
+    "id": "investment-strategies-finra-org",
+    "type": "news",
+    "title": "Investment Strategies | FINRA.org",
+    "slug": "investment-strategies-finra-org",
+    "date": "2026-11-08",
+    "displayDate": "November 8, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "The sources indicate that FINRA provides information on various investment strategies, including active vs. passive investing, direct indexing, dollar-cost aver",
+    "excerpt": "The sources indicate that FINRA provides information on various investment strategies, including active vs. passive investing, direct indexing, dollar-cost averaging, frequent intraday trading, market timing, micro-investing, momentum investing, and value investing. They emphasize the importance of ",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Investment Strategies | FINRA.org"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "investment-strategies-for-today-and-long-term-blackrock",
+    "type": "news",
+    "title": "Investment strategies for today and long-term | BlackRock",
+    "slug": "investment-strategies-for-today-and-long-term-blackrock",
+    "date": "2026-11-08",
+    "displayDate": "November 8, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "BlackRock's investment strategies for today's market emphasize staying up-to-date on market trends and offering curated investment options to help clients pursu",
+    "excerpt": "BlackRock's investment strategies for today's market emphasize staying up-to-date on market trends and offering curated investment options to help clients pursue their goals. The firm's funds, such as the BlackRock Health Sciences Term Trust and BlackRock Science and Technology Trust, focus on total",
+    "image": {
+      "src": "/images/article_thumb_1.jpg",
+      "alt": "Investment strategies for today and long-term | BlackRock"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "investment-strategy-2026-portfolio-moves-for-a-changing-market",
     "type": "news",
     "title": "Investment Strategy 2026 Portfolio Moves for a Changing Market",
@@ -395,6 +626,48 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "Investment Strategy 2026 Portfolio Moves for a Changing Market"
+    },
+    "readingTime": 3
+  },
+  {
+    "id": "is-now-a-good-time-to-invest-in-the-market-a-comprehensive-analysis-guide-for-in",
+    "type": "news",
+    "title": "Is Now a Good Time to Invest in the Market? A Comprehensive Analysis - Guide For Investment",
+    "slug": "is-now-a-good-time-to-invest-in-the-market-a-comprehensive-analysis-guide-for-in",
+    "date": "2026-11-08",
+    "displayDate": "November 8, 2026",
+    "category": "Investment Strategies",
+    "tags": [
+      "investment strategies",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "Determining whether now is a good time to invest depends on an array of factors, including your financial goals, risk tolerance, and current market conditions. ",
+    "excerpt": "Determining whether now is a good time to invest depends on an array of factors, including your financial goals, risk tolerance, and current market conditions. The sources suggest that long-term investing often yields positive outcomes, and historically, stocks tend to rise two out of three time per",
+    "image": {
+      "src": "/images/article_thumb_5.jpg",
+      "alt": "Is Now a Good Time to Invest in the Market? A Comprehensive Analysis - Guide For Investment"
+    },
+    "readingTime": 4
+  },
+  {
+    "id": "outlook-at-risk-real-gdp-growth-unemployment-and-inflation-federal-reserve-bank-",
+    "type": "news",
+    "title": "Outlook-at-Risk: Real GDP Growth, Unemployment, and Inflation - FEDERAL RESERVE BANK of NEW YORK",
+    "slug": "outlook-at-risk-real-gdp-growth-unemployment-and-inflation-federal-reserve-bank-",
+    "date": "2026-11-08",
+    "displayDate": "November 8, 2026",
+    "category": "Economic Data",
+    "tags": [
+      "economic data",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "According to the sources, the Federal Reserve Bank of New York's \"Outlook-at-Risk\" quantifies risks around future real GDP growth, unemployment, and inflation b",
+    "excerpt": "According to the sources, the Federal Reserve Bank of New York's \"Outlook-at-Risk\" quantifies risks around future real GDP growth, unemployment, and inflation based on financial conditions. The Federal Reserve's recent economic outlook forecasts GDP growth at 2.4% for 2026 and expects the unemployme",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Outlook-at-Risk: Real GDP Growth, Unemployment, and Inflation - FEDERAL RESERVE BANK of NEW YORK"
     },
     "readingTime": 3
   },
@@ -588,6 +861,27 @@
     "readingTime": 5
   },
   {
+    "id": "us-economic-data-releases-march-11-2026",
+    "type": "news",
+    "title": "Us Economic Data Releases March 11 2026",
+    "slug": "us-economic-data-releases-march-11-2026",
+    "date": "2026-11-08",
+    "displayDate": "November 8, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "On March 11, 2026, the Bureau of Labor Statistics will release the Consumer Price Index for February 2026 and Real Earnings for February 2026 at 08:30 AM. The s",
+    "excerpt": "On March 11, 2026, the Bureau of Labor Statistics will release the Consumer Price Index for February 2026 and Real Earnings for February 2026 at 08:30 AM. The sources do not provide information on other economic data releases on this date.",
+    "image": {
+      "src": "/images/article_thumb_2.jpg",
+      "alt": "Us Economic Data Releases March 11 2026"
+    },
+    "readingTime": 4
+  },
+  {
     "id": "us-inflation-rate-2026-today-s-latest-cpi-update-and-inflation-data-amtrak-daily",
     "type": "news",
     "title": "US Inflation Rate 2026: Today’s Latest CPI Update and Inflation Data - Amtrak Daily Long Distance Service Study",
@@ -628,6 +922,27 @@
       "alt": "Weekly Trader's Outlook"
     },
     "readingTime": 3
+  },
+  {
+    "id": "what-to-look-out-for-in-economic-data-this-week-nov-9-13-kiplinger",
+    "type": "news",
+    "title": "What to Look Out for in Economic Data This Week (Nov. 9-13) | Kiplinger",
+    "slug": "what-to-look-out-for-in-economic-data-this-week-nov-9-13-kiplinger",
+    "date": "2026-11-08",
+    "displayDate": "November 8, 2026",
+    "category": "Economic Indicators",
+    "tags": [
+      "economic indicators",
+      "financial news",
+      "market update"
+    ],
+    "metaDescription": "This week's economic calendar highlights inflation data, with Tuesday's release of the Consumer Price Index (CPI) and core CPI, as economists expect headline in",
+    "excerpt": "This week's economic calendar highlights inflation data, with Tuesday's release of the Consumer Price Index (CPI) and core CPI, as economists expect headline inflation to have moderated in October due to easing gas prices. The week also features several Fed officials' speeches, including Fed Governo",
+    "image": {
+      "src": "/images/article_thumb_6.jpg",
+      "alt": "What to Look Out for in Economic Data This Week (Nov. 9-13) | Kiplinger"
+    },
+    "readingTime": 4
   },
   {
     "id": "10-investment-strategies-for-new-investors-mintos-blog",
@@ -861,27 +1176,6 @@
     "readingTime": 4
   },
   {
-    "id": "earnings-calendar-marketwatch",
-    "type": "news",
-    "title": "Earnings Calendar | Marketwatch",
-    "slug": "earnings-calendar-marketwatch",
-    "date": "2026-11-07",
-    "displayDate": "November 7, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The sources provide details on the earnings calendar for Marketwatch as of today, November 7, 2026. Companies listed include ON Semiconductor Corp., Ibotta Inc.",
-    "excerpt": "The sources provide details on the earnings calendar for Marketwatch as of today, November 7, 2026. Companies listed include ON Semiconductor Corp., Ibotta Inc., Tactile Systems Technology Inc., Herbalife Ltd., Cushman & Wakefield Ltd., GlobalFoundries Inc., Wayfair Inc., Charles River Laboratories ",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Earnings Calendar | Marketwatch"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "earnings-whispers-earnings-calendar-november-6-2026",
     "type": "news",
     "title": "Earnings Whispers | Earnings Calendar: November 6, 2026",
@@ -901,48 +1195,6 @@
       "alt": "Earnings Whispers | Earnings Calendar: November 6, 2026"
     },
     "readingTime": 4
-  },
-  {
-    "id": "economic-calendar",
-    "type": "news",
-    "title": "Economic Calendar",
-    "slug": "economic-calendar",
-    "date": "2026-11-07",
-    "displayDate": "November 7, 2026",
-    "category": "Economic Indicators",
-    "tags": [
-      "economic indicators",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "On November 7, 2026, the Investing.com Economic Calendar lists an event for China: \"CN FX Reserves (USD) (Oct) -866 Act:- Cons:- Prev.:3.400T.\" The TradingView ",
-    "excerpt": "On November 7, 2026, the Investing.com Economic Calendar lists an event for China: \"CN FX Reserves (USD) (Oct) -866 Act:- Cons:- Prev.:3.400T.\" The TradingView Economic Calendar and the Tradingeconomics.com calendar do not provide specific details for this date. The Tradingeconomics.com calendar sho",
-    "image": {
-      "src": "/images/article_thumb_6.jpg",
-      "alt": "Economic Calendar"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "ethereum-eth-price-usd-today-news-charts-market-cap-coinbase",
-    "type": "news",
-    "title": "Ethereum (ETH) Price USD Today, News, Charts, Market Cap | Coinbase",
-    "slug": "ethereum-eth-price-usd-today-news-charts-market-cap-coinbase",
-    "date": "2026-11-07",
-    "displayDate": "November 7, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The live Ethereum price today is $2,245.52 USD according to CoinMarketCap, while CoinGecko reports it at $2,253.94. Both sources indicate a 24-hour trading volu",
-    "excerpt": "The live Ethereum price today is $2,245.52 USD according to CoinMarketCap, while CoinGecko reports it at $2,253.94. Both sources indicate a 24-hour trading volume of around $10 billion USD. CoinMarketCap shows Ethereum up 0.12% in the last 24 hours, whereas CoinGecko reports a -1.60% decline. The ma",
-    "image": {
-      "src": "/images/article_thumb_5.jpg",
-      "alt": "Ethereum (ETH) Price USD Today, News, Charts, Market Cap | Coinbase"
-    },
-    "readingTime": 3
   },
   {
     "id": "ethereum-news-latest-ethereum-news-today",
@@ -1029,48 +1281,6 @@
     "readingTime": 5
   },
   {
-    "id": "health-care-sector-industry-performance-bloomberg",
-    "type": "news",
-    "title": "Health Care Sector & Industry Performance - Bloomberg",
-    "slug": "health-care-sector-industry-performance-bloomberg",
-    "date": "2026-11-07",
-    "displayDate": "November 7, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "According to Bloomberg, the Health Care sector has a weight of 11% and a % change of 0.11% as of November 6, 2026. The Health Care Equipment & Services sub-sect",
-    "excerpt": "According to Bloomberg, the Health Care sector has a weight of 11% and a % change of 0.11% as of November 6, 2026. The Health Care Equipment & Services sub-sector holds a weight of 32% and a % change of 4.32%, while the Pharmaceuticals, Biotechnology & Life Sciences sub-sector has a weight of 68% an",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Health Care Sector & Industry Performance - Bloomberg"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "health-technology-sector-companies-performance-and-stocks-usa-tradingview",
-    "type": "news",
-    "title": "Health Technology Sector: Companies, Performance and Stocks — USA — TradingView",
-    "slug": "health-technology-sector-companies-performance-and-stocks-usa-tradingview",
-    "date": "2026-11-07",
-    "displayDate": "November 7, 2026",
-    "category": "Sector Performance",
-    "tags": [
-      "sector performance",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The Health Technology Sector on TradingView includes companies such as Alcon Inc., Revolution Medicines, Inc., GE HealthCare Technologies Inc., Biogen Inc., Inc",
-    "excerpt": "The Health Technology Sector on TradingView includes companies such as Alcon Inc., Revolution Medicines, Inc., GE HealthCare Technologies Inc., Biogen Inc., Incyte Corporation, BioNTech SE DR, and Viatris Inc. The market capitalization of the sector is 37.87B USD, with a dividend yield of 1.68% and ",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Health Technology Sector: Companies, Performance and Stocks — USA — TradingView"
-    },
-    "readingTime": 5
-  },
-  {
     "id": "how-should-i-allocate-my-portfolio-in-2026",
     "type": "news",
     "title": "How Should I Allocate My Portfolio in 2026?",
@@ -1113,69 +1323,6 @@
     "readingTime": 4
   },
   {
-    "id": "investment-strategies-finra-org",
-    "type": "news",
-    "title": "Investment Strategies | FINRA.org",
-    "slug": "investment-strategies-finra-org",
-    "date": "2026-11-07",
-    "displayDate": "November 7, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The sources indicate that investment strategies can range from simple methods like allocating a set percentage of funds into diversified stock mutual funds and ",
-    "excerpt": "The sources indicate that investment strategies can range from simple methods like allocating a set percentage of funds into diversified stock mutual funds and the rest into bond funds, to more complex strategies such as active investing that involves frequent trades and exploiting popular investmen",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Investment Strategies | FINRA.org"
-    },
-    "readingTime": 3
-  },
-  {
-    "id": "investment-strategies-for-today-and-long-term-blackrock",
-    "type": "news",
-    "title": "Investment strategies for today and long-term | BlackRock",
-    "slug": "investment-strategies-for-today-and-long-term-blackrock",
-    "date": "2026-11-07",
-    "displayDate": "November 7, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "BlackRock's top investment strategies for today's market include a curated set of offerings uniquely positioned to help clients pursue their investment goals. B",
-    "excerpt": "BlackRock's top investment strategies for today's market include a curated set of offerings uniquely positioned to help clients pursue their investment goals. BlackRock's best ideas include investing for after-tax returns, exploring private markets, and the latest portfolio allocations. BlackRock's ",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Investment strategies for today and long-term | BlackRock"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "is-now-a-good-time-to-invest-in-the-market-a-comprehensive-analysis-guide-for-in",
-    "type": "news",
-    "title": "Is Now a Good Time to Invest in the Market? A Comprehensive Analysis - Guide For Investment",
-    "slug": "is-now-a-good-time-to-invest-in-the-market-a-comprehensive-analysis-guide-for-in",
-    "date": "2026-11-07",
-    "displayDate": "November 7, 2026",
-    "category": "Investment Strategies",
-    "tags": [
-      "investment strategies",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "Determining whether now is a good time to invest depends on various factors, including financial goals, risk tolerance, and market conditions. The sources sugge",
-    "excerpt": "Determining whether now is a good time to invest depends on various factors, including financial goals, risk tolerance, and market conditions. The sources suggest that long-term investing often yields positive outcomes, with the S&P 500 having positive annual returns in over 75% of the past 20 years",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Is Now a Good Time to Invest in the Market? A Comprehensive Analysis - Guide For Investment"
-    },
-    "readingTime": 4
-  },
-  {
     "id": "major-drilling-stock-price-today-tsx-mdi-investing-com-canada",
     "type": "news",
     "title": "Major Drilling Stock Price Today TSX MDI - Investing.com Canada",
@@ -1193,27 +1340,6 @@
     "image": {
       "src": "/images/article_thumb_5.jpg",
       "alt": "Major Drilling Stock Price Today TSX MDI - Investing.com Canada"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "outlook-at-risk-real-gdp-growth-unemployment-and-inflation-federal-reserve-bank-",
-    "type": "news",
-    "title": "Outlook-at-Risk: Real GDP Growth, Unemployment, and Inflation - FEDERAL RESERVE BANK of NEW YORK",
-    "slug": "outlook-at-risk-real-gdp-growth-unemployment-and-inflation-federal-reserve-bank-",
-    "date": "2026-11-07",
-    "displayDate": "November 7, 2026",
-    "category": "Economic Data",
-    "tags": [
-      "economic data",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "The sources indicate that Outlook-at-Risk quantifies risks around future real GDP growth, unemployment rate, and inflation based on financial conditions. For re",
-    "excerpt": "The sources indicate that Outlook-at-Risk quantifies risks around future real GDP growth, unemployment rate, and inflation based on financial conditions. For real GDP growth and CPI inflation, it considers risks around the average quarterly growth rate over the next four quarters, while for the unem",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Outlook-at-Risk: Real GDP Growth, Unemployment, and Inflation - FEDERAL RESERVE BANK of NEW YORK"
     },
     "readingTime": 4
   },
@@ -1617,27 +1743,6 @@
     "readingTime": 3
   },
   {
-    "id": "coindesk-bitcoin-ethereum-xrp-crypto-news-and-price-data",
-    "type": "news",
-    "title": "CoinDesk: Bitcoin, Ethereum, XRP, Crypto News and Price Data",
-    "slug": "coindesk-bitcoin-ethereum-xrp-crypto-news-and-price-data",
-    "date": "2026-11-06",
-    "displayDate": "November 6, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "On CoinDesk, the price of Bitcoin (BTC) is $76,872.59, down 1.90 percent; Ethereum (ETH) is $2,256.13, down 1.60 percent; and XRP is $1.25, down 0.20 percent. T",
-    "excerpt": "On CoinDesk, the price of Bitcoin (BTC) is $76,872.59, down 1.90 percent; Ethereum (ETH) is $2,256.13, down 1.60 percent; and XRP is $1.25, down 0.20 percent. The sources also mention that Binance offers the most liquidity for BTC, while Bitget is the most liquid platform for altcoins within the 0.3",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "CoinDesk: Bitcoin, Ethereum, XRP, Crypto News and Price Data"
-    },
-    "readingTime": 3
-  },
-  {
     "id": "cpi-home-u-s-bureau-of-labor-statistics",
     "type": "news",
     "title": "CPI Home : U.S. Bureau of Labor Statistics",
@@ -2012,48 +2117,6 @@
     "image": {
       "src": "/images/article_thumb_2.jpg",
       "alt": "Wall street outlook: 5 factors that could shape the week ahead"
-    },
-    "readingTime": 4
-  },
-  {
-    "id": "asian-pacific-stocks-bloomberg",
-    "type": "news",
-    "title": "Asian Pacific Stocks - Bloomberg",
-    "slug": "asian-pacific-stocks-bloomberg",
-    "date": "2026-11-05",
-    "displayDate": "November 5, 2026",
-    "category": "Global Markets",
-    "tags": [
-      "global markets",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "As of November 5, 2026, the Bloomberg Asian Pacific Aggregate Total Return Index Value Unhedged JPY (I00163JP:IND) includes fixed-rate, investment-grade securit",
-    "excerpt": "As of November 5, 2026, the Bloomberg Asian Pacific Aggregate Total Return Index Value Unhedged JPY (I00163JP:IND) includes fixed-rate, investment-grade securities denominated in various currencies. The index values for several Asian Pacific stock indices are as follows: Shanghai Composite Index (SH",
-    "image": {
-      "src": "/images/article_thumb_1.jpg",
-      "alt": "Asian Pacific Stocks - Bloomberg"
-    },
-    "readingTime": 5
-  },
-  {
-    "id": "crypto-news",
-    "type": "news",
-    "title": "Crypto News",
-    "slug": "crypto-news",
-    "date": "2026-11-05",
-    "displayDate": "November 5, 2026",
-    "category": "Crypto",
-    "tags": [
-      "crypto",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "According to crypto.news, Bitcoin is priced at $77,550.00, down 0.49%, Ethereum is priced at $2,277.31, up 0.55%, XRP is priced at $1.25, down 0.4%, BNB is pric",
-    "excerpt": "According to crypto.news, Bitcoin is priced at $77,550.00, down 0.49%, Ethereum is priced at $2,277.31, up 0.55%, XRP is priced at $1.25, down 0.4%, BNB is priced at $702.80, down 1.58%, Solana is priced at $93.67, down 1.38%, Hyperliquid is priced at $85.30, down 3.26%, Cardano is priced at $0.1899",
-    "image": {
-      "src": "/images/article_thumb_4.jpg",
-      "alt": "Crypto News"
     },
     "readingTime": 4
   },
@@ -3085,27 +3148,6 @@
       "alt": "United States Stock Market Index - Quote - Chart - Historical Data - News"
     },
     "readingTime": 5
-  },
-  {
-    "id": "earnings-report-calendar-us-stock-market-earnings-calendar",
-    "type": "news",
-    "title": "Earnings Report Calendar | US Stock Market Earnings Calendar",
-    "slug": "earnings-report-calendar-us-stock-market-earnings-calendar",
-    "date": "2026-11-02",
-    "displayDate": "November 2, 2026",
-    "category": "Earnings",
-    "tags": [
-      "earnings",
-      "financial news",
-      "market update"
-    ],
-    "metaDescription": "In the week from October 19 to October 25, 2026, 258 companies are scheduled to report earnings, including Meta Platforms - Class A (META) on October 21 after t",
-    "excerpt": "In the week from October 19 to October 25, 2026, 258 companies are scheduled to report earnings, including Meta Platforms - Class A (META) on October 21 after the close, Tesla (TSLA) on October 21 after the close, Procter & Gamble Company (PG) on October 22 before the open, Lam Research (LRCX) on Oc",
-    "image": {
-      "src": "/images/article_thumb_2.jpg",
-      "alt": "Earnings Report Calendar | US Stock Market Earnings Calendar"
-    },
-    "readingTime": 4
   },
   {
     "id": "ethereum-news-today-decrypt",
